@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "name": "BBC News",
+      "type": "rss",
+      "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+      "enabled": true
+    },
+    {
+      "name": "Reuters World",
+      "type": "rss",
+      "url": "https://www.reuters.com/rssfeed/world",
+      "enabled": true
+    },
+    {
+      "name": "Al Jazeera",
+      "type": "rss",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "enabled": true
+    },
+    {
+      "name": "CNN World",
+      "type": "rss",
+      "url": "http://rss.cnn.com/rss/cnn_world.rss",
+      "enabled": true
+    },
+    {
+      "name": "The Guardian World",
+      "type": "rss",
+      "url": "https://www.theguardian.com/world/rss",
+      "enabled": true
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Crisis Management Dashboard - Real-time monitoring of global events ranked by severity">
+    <title>Crisis Management Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🚨 Crisis Management Dashboard</h1>
+            <p class="subtitle">Real-time monitoring of global events ranked by severity</p>
+            <div class="last-updated" id="lastUpdated">
+                Last updated: <span id="updateTime">Loading...</span>
+            </div>
+        </header>
+
+        <div class="filters">
+            <button class="filter-btn active" data-level="all">All Events</button>
+            <button class="filter-btn critical" data-level="Critical">Critical</button>
+            <button class="filter-btn high" data-level="High">High</button>
+            <button class="filter-btn medium" data-level="Medium">Medium</button>
+            <button class="filter-btn low" data-level="Low">Low</button>
+        </div>
+
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalEvents">0</div>
+                <div class="stat-label">Total Events</div>
+            </div>
+            <div class="stat-card critical">
+                <div class="stat-number" id="criticalCount">0</div>
+                <div class="stat-label">Critical</div>
+            </div>
+            <div class="stat-card high">
+                <div class="stat-number" id="highCount">0</div>
+                <div class="stat-label">High</div>
+            </div>
+            <div class="stat-card medium">
+                <div class="stat-number" id="mediumCount">0</div>
+                <div class="stat-label">Medium</div>
+            </div>
+        </div>
+
+        <main>
+            <div id="loading" class="loading">
+                <div class="spinner"></div>
+                <p>Loading events...</p>
+            </div>
+
+            <div id="error" class="error" style="display: none;">
+                <p>❌ Unable to load events. Please try again later.</p>
+            </div>
+
+            <div id="events" class="events-container">
+                <!-- Events will be dynamically loaded here -->
+            </div>
+
+            <div id="noEvents" class="no-events" style="display: none;">
+                <p>No events match the selected filter.</p>
+            </div>
+        </main>
+
+        <footer>
+            <p>Data sourced from multiple news feeds | Updates every hour</p>
+            <p>Built with ❤️ for crisis awareness</p>
+        </footer>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
