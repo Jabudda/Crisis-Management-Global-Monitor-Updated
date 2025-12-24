@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T05:49:16.604043Z",
+  "last_updated": "2025-12-24T06:36:16.771105Z",
   "event_count": 224,
   "events": [
     {
@@ -123,16 +123,6 @@
       "severity_level": "Critical"
     },
     {
-      "title": "Explosion at Pennsylvania senior home leaves at least 2 dead, search ongoing",
-      "description": "At least two people dead, multiple others reportedly trapped after explosion rocks Silver Lake Nursing Home in Bristol, Pennsylvania. Large emergency response operation underway.",
-      "url": "https://www.foxnews.com/us/explosion-pennsylvania-senior-home-prompts-mass-casualty-response",
-      "published": "Tue, 23 Dec 2025 16:35:37 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical"
-    },
-    {
       "title": "Guilty verdicts in ISIS plot police say could have been 'the deadliest terrorist attack in UK history'",
       "description": "Three men convicted of planning alleged gun attacks on Jewish targets in Manchester as British Jews report feeling increasingly unsafe across the U.K.",
       "url": "https://www.foxnews.com/world/guilty-verdicts-isis-plot-police-say-could-have-been-the-deadliest-terrorist-attack-uk-history",
@@ -218,6 +208,16 @@
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166642",
       "published": "Fri, 19 Dec 2025 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Explosion at Pennsylvania senior home leaves at least people 2 dead, several hospitalized",
+      "description": "At least two people dead, multiple others reportedly trapped and hurt after explosion rocks Silver Lake Nursing Home in Bucks County, Pennsylvania.",
+      "url": "https://www.foxnews.com/us/explosion-pennsylvania-senior-home-prompts-mass-casualty-response",
+      "published": "Tue, 23 Dec 2025 16:35:37 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical"
@@ -603,6 +603,16 @@
       "severity_level": "High"
     },
     {
+      "title": "Venezuela passes bill criminalizing oil tanker seizures",
+      "description": "The move comes after the US seized two tankers transporting Venezuelan oil this month. At an emergency UN meeting requested by Caracas, China and Russia accused the US of \"bullying\" the South American country.",
+      "url": "https://www.dw.com/en/venezuela-passes-bill-criminalizing-oil-tanker-seizures/a-75291713?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 24 Dec 2025 06:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High"
+    },
+    {
       "title": "What interest do China and Russia have in Venezuela?",
       "description": "US president Donald Trump continues to ratchet up pressure on Venezuela. There is also a geopolitical element to the conflict. What interests do China and Russia have in the country?",
       "url": "https://www.dw.com/en/what-interest-do-china-and-russia-have-in-venezuela/a-75290223?maca=en-rss-en-all-1573-xml-mrss",
@@ -698,16 +708,6 @@
       "url": "https://www.dw.com/en/mexican-plane-carrying-burn-victims-crashes-in-texas/a-75278307?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 23 Dec 2025 07:07:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High"
-    },
-    {
-      "title": "Five dead in plane crash over Turkey",
-      "description": "The military chief of Libya has been killed alongside four others in a plane crash in Turkey.",
-      "url": "https://news.sky.com/story/libyas-military-chief-and-four-others-killed-in-plane-crash-over-turkey-13487149",
-      "published": "Tue, 23 Dec 2025 20:52:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High"
@@ -1283,6 +1283,16 @@
       "severity_level": "Medium"
     },
     {
+      "title": "Eight dead in plane crash over Turkey",
+      "description": "The military chief of Libya is among eight people who have died in a plane crash in Turkey.",
+      "url": "https://news.sky.com/story/libyas-military-chief-and-four-others-killed-in-plane-crash-over-turkey-13487149",
+      "published": "Tue, 23 Dec 2025 20:52:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium"
+    },
+    {
       "title": "Greta Thunberg arrested in London while supporting hunger-striking pro-Palestinian activists",
       "description": "Greta Thunberg has been arrested in central London while supporting pro-Palestinian activists on a hunger strike",
       "url": "https://abcnews.go.com/International/wireStory/greta-thunberg-arrested-london-supporting-hunger-striking-pro-128645184",
@@ -1351,16 +1361,6 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium"
-    },
-    {
-      "title": "Sahel states summit attracts unexpected visitors: young people.",
-      "description": "The political and economic Sahel Summit is attracting an unusual group of attendees. Young people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/23/sahel-states-summit-attracts-unexpected-visitors-young-people?traffic_source=rss",
-      "published": "Tue, 23 Dec 2025 17:53:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1683,6 +1683,26 @@
       "severity_level": "Low"
     },
     {
+      "title": "Algeria bill seeks to criminalise era of French colonial rule",
+      "description": "Algeria’s parliament has begun debating a draft law that would criminalise France’s colonial rule from 1830 to 1962.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/24/algeria-bill-seeks-to-criminalise-era-of-french-colonial-rule?traffic_source=rss",
+      "published": "Wed, 24 Dec 2025 05:57:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
+      "title": "The spin and misinformation around Bondi was inevitable",
+      "description": "How the Bondi Beach tragedy set off a media chain reaction.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2025/12/24/the-spin-and-misinformation-around-bondi-was-inevitable?traffic_source=rss",
+      "published": "Wed, 24 Dec 2025 05:39:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low"
+    },
+    {
       "title": "US bars five Europeans over alleged efforts to ‘censor American viewpoints’",
       "description": "US to deny visas to an ex-EU commissioner and four others it accuses of efforts to censor speech on social media.",
       "url": "https://www.aljazeera.com/news/2025/12/24/us-bars-five-europeans-over-efforts-to-censor-american-viewpoints?traffic_source=rss",
@@ -1767,16 +1787,6 @@
       "description": "Police say there is 'insufficient evidence' to bring charges after investigating comments made at Glastonbury festival.",
       "url": "https://www.aljazeera.com/news/2025/12/23/uk-police-drop-probe-into-bob-vylans-chants-about-israeli-military?traffic_source=rss",
       "published": "Tue, 23 Dec 2025 18:03:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "Newly released Epstein files spotlight Trump’s past jet trips with Maxwell",
-      "description": "Prosecutor's email claims Trump flew on Epstein's jet eight times in the 1990s, some with Ghislaine Maxwell on board.",
-      "url": "https://www.aljazeera.com/news/2025/12/23/newly-released-epstein-files-spotlight-trumps-past-jet-trips-with-maxwell?traffic_source=rss",
-      "published": "Tue, 23 Dec 2025 17:52:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2017,16 +2027,6 @@
       "description": "Over 30% of people who regularly need support from a food bank in Germany are children, activists say. Meanwhile, German property prices have risen for a fourth straight quarter. DW has the latest.",
       "url": "https://www.dw.com/en/germany-news-every-3rd-food-bank-beneficiary-is-a-child/live-75279871?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 23 Dec 2025 09:46:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low"
-    },
-    {
-      "title": "This is how Christmas is celebrated at the Vatican",
-      "description": "This year, Pope Leo XIV will lead the Christmas celebrations at the Vatican for the first time. But the popular Christmas traditions at the heart of the Roman Catholic Church remain unchanged.",
-      "url": "https://www.dw.com/en/this-is-how-christmas-is-celebrated-at-the-vatican/a-75189002?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 23 Dec 2025 06:55:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
