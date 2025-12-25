@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T21:24:51.022147Z",
-  "event_count": 225,
+  "last_updated": "2025-12-25T21:42:59.618532Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Jeju Air crash: South Korea sets up independent inquiry into disaster that killed 179 amid delays and acrimony",
@@ -1398,20 +1398,6 @@
       "ticker_label": "🪖 Pope Leo urges 'courage' to end Ukraine war in first Christmas address"
     },
     {
-      "title": "Zelensky moves towards demilitarised zones in latest peace plan for Ukraine",
-      "description": "On the key question of Ukraine's eastern Donbas, Zelensky says a \"free economic zone\" is a potential option.",
-      "url": "https://www.bbc.com/news/articles/c9d9wg2pwl1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Dec 2025 12:48:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Zelensky moves towards demilitarised zones in latest peace plan for Ukraine"
-    },
-    {
       "title": "Turkiye arrests 115 ISIL suspects it says planned holiday attacks",
       "description": "Raids across Istanbul seize weapons as authorities seek 22 remaining suspects still at large.",
       "url": "https://www.aljazeera.com/news/2025/12/25/turkiye-arrests-115-isil-suspects-it-says-planned-holiday-attacks?traffic_source=rss",
@@ -1828,6 +1814,17 @@
       "is_ticker": false
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-25T21:42:32.349710Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Russia made a 'proposal' regarding jailed French researcher Laurent Vinatier",
       "description": "Moscow has made a \"proposal\" to France concerning the case of researcher Laurent Vinatier, who has been imprisoned in Russia since June 2024, the Kremlin said Thursday. Vinatier was sentenced by a Russian court to three years in prison for allegedly failing to register as a \"foreign agent\" but faces fresh allegations of spying.",
       "url": "https://www.france24.com/en/france/20251225-russia-made-proposal-paris-over-french-researcher-imprisoned-russia-charged-with-espionage",
@@ -1934,6 +1931,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Zelensky hails 'new ideas' on peace after talks with US envoys",
+      "description": "Ukraine's leader gives an upbeat assessment after discussing the plan with Steve Witkoff and Jared Kushner.",
+      "url": "https://www.bbc.com/news/articles/c4g413yz9g5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 25 Dec 2025 21:36:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
