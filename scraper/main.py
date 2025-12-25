@@ -32,13 +32,15 @@ def load_config(config_path):
         raise
 
 
-def save_events(events, output_path):
+def save_events(events, output_path, extra: dict | None = None):
     """Save events to JSON file with timestamp"""
     data = {
         "last_updated": datetime.utcnow().isoformat() + "Z",
         "event_count": len(events),
         "events": events
     }
+    if extra:
+        data.update(extra)
     
     # Ensure output directory exists
     output_path.parent.mkdir(parents=True, exist_ok=True)
@@ -74,8 +76,9 @@ def main():
         ranked_events = ranker.rank_events(raw_events)
         logger.info(f"Ranked {len(ranked_events)} events")
         
-        # Save to JSON
-        save_events(ranked_events, output_path)
+        # Save to JSON, include ticker config for frontend
+        extra = {"ticker_config": severity_rules.get("ticker", {})}
+        save_events(ranked_events, output_path, extra)
         
         logger.info("Scraping completed successfully")
         

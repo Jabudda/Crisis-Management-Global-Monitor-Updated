@@ -18,12 +18,18 @@ This will:
 - Save results to `data/events.json`
 
 ### 3. View the Dashboard Locally
+Option A — minimal static server:
 ```bash
 cd docs
 python3 -m http.server 8000
 ```
+Open: http://localhost:8000
 
-Then open: http://localhost:8000
+Option B — full local site + proxy (recommended for market data widgets):
+```bash
+bash scripts/run_local.sh
+```
+Open: http://localhost:8000/docs/ (proxy: http://localhost:8001/health)
 
 ### 4. Deploy to GitHub Pages
 
@@ -71,6 +77,14 @@ Edit `config/severity_rules.json` to customize what makes an event "Critical" vs
 ### Change Update Frequency
 
 Edit `.github/workflows/scrape.yml` to run more/less frequently.
+
+### Override Scraper User-Agent (advanced)
+
+Some sources are sensitive to the `User-Agent`. You can override it via environment variable:
+```bash
+export CRISIS_SCRAPER_UA="YourAgent/1.0"
+python3 scraper/main.py
+```
 
 ## 🎯 Current Status
 

@@ -98,5 +98,42 @@
       "village",
       "neighborhood"
     ]
+  },
+  "ticker": {
+    "freshness_hours": 72,
+    "max_items": 20,
+    "categories": {
+      "airline_disaster": {
+        "emoji": "✈️",
+        "keywords_any": ["airline","aircraft","flight","plane","jet","aviation","airport"],
+        "context_any": ["crash","downed","midair","collision","fell","plunged","emergency landing","fatal","fatalities","killed","dead"]
+      },
+      "stock_swing": {
+        "emoji": "📈",
+        "finance_keywords": ["stock","shares","market","price","ticker","exchange","nasdaq","nyse"],
+        "percent_threshold": 50
+      },
+      "natural_disaster": {
+        "emoji": "🌪️",
+        "keywords_any": ["earthquake","tremor","tsunami","hurricane","cyclone","typhoon","tornado","wildfire","bushfire","flood","landslide","mudslide","volcano","eruption","storm"]
+      },
+      "war": {
+        "emoji": "🪖",
+        "keywords_any": ["war","invasion","frontline","airstrike","strike","missile","shelling","bombardment","offensive","counteroffensive","ceasefire"]
+      },
+      "terrorism": {
+        "emoji": "💥",
+        "keywords_any": ["terror","terrorist","bomb","bombing","suicide bomber","ied","extremist attack"]
+      },
+      "active_shooter": {
+        "emoji": "🚨",
+        "keywords_any": ["shooting","shooter","gunman","shots fired","mass shooting"]
+      },
+      "mass_casualty": {
+        "emoji": "🚑",
+        "keywords_any": ["mass casualty","death toll","multiple fatalities"],
+        "casualty_threshold": 10
+      }
+    }
   }
 }

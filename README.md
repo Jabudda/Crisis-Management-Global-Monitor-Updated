@@ -44,6 +44,38 @@ pip install -r requirements.txt
 python scraper/main.py
 ```
 
+### Live Prices Local Proxy (testing)
+For local testing without CORS issues, start the lightweight proxy server:
+
+```bash
+python3 scraper/proxy_server.py 8001
+```
+
+The frontend auto-detects `localhost` and routes Yahoo Finance requests through `http://localhost:8001/proxy?url=...`.
+
+When not on localhost, it falls back to public proxies (Jina/AllOrigins). We can later switch these calls to a free, documented market API for production.
+
+### Run static site and proxy together
+Use the helper script to launch both servers (serves repo root so `/data/events.json` is available):
+
+```bash
+bash scripts/run_local.sh
+```
+
+Ports are configurable via environment variables:
+
+```bash
+PROXY_PORT=8002 STATIC_PORT=8010 bash scripts/run_local.sh
+
+Open the site at `http://localhost:STATIC_PORT/docs/` (e.g., `http://localhost:8010/docs/`).
+
+Alternatively, just open the root and it will redirect:
+
+```
+http://localhost:8010/
+```
+```
+
 ## GitHub Pages Deployment
 
 1. Enable GitHub Pages in repository settings

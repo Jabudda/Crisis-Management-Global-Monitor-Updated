@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "last_updated": "2025-12-25T04:56:33.413510Z",
   "event_count": 226,
   "events": [
@@ -569,10 +570,47 @@
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
       "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High"
+=======
+  "last_updated": "2025-12-25T04:00:00Z",
+  "event_count": 7,
+  "ticker_config": {
+    "freshness_hours": 72,
+    "max_items": 20,
+    "ticker_window_hours": 2
+  },
+  "events": [
+    {
+      "title": "Major earthquake strikes coastal city; widespread damage reported",
+      "description": "A powerful 7.3 magnitude earthquake struck the coastal region, causing significant structural damage, power outages, and disrupting transportation. Emergency services report collapsed buildings and ongoing search-and-rescue operations.",
+      "url": "#",
+      "published": "2025-12-24T18:10:00Z",
+      "source": "Local Test",
+      "severity_score": 95,
+      "severity_level": "Critical"
     },
     {
+      "title": "Mass casualty incident after chemical plant explosion",
+      "description": "An explosion at a chemical processing plant led to fires and toxic smoke affecting nearby neighborhoods. Authorities report multiple casualties and have issued shelter-in-place orders while hazmat teams respond.",
+      "url": "#",
+      "published": "2025-12-24T19:35:00Z",
+      "source": "Local Test",
+      "severity_score": 92,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Magnitude 6.1 earthquake strikes off the coast",
+      "description": "A 6.1 magnitude quake was recorded offshore; minor damage reported in nearby towns.",
+      "url": "https://example.org/news/earthquake",
+      "published": "2025-12-24T15:00:00Z",
+      "source": "USGS",
+>>>>>>> 30ac612 (Fix local stock ticker: always show synthetic fallback, robust input extraction, and local fetchStockQuotes fallback)
+      "severity_score": 14,
+      "severity_level": "High",
+      "ticker_label": "🌪️ Offshore earthquake 6.1",
+      "ticker_category": "natural_disaster"
+    },
+    {
+<<<<<<< HEAD
       "title": "Algeria passes law declaring French colonisation a crime",
       "description": "France’s rule over Algeria from 1830 to 1962 is marked by mass killings and large-scale deportation Algeria’s parliament has unanimously approved a law declaring France’s colonisation of the country a crime and demanded an apology and reparations. Lawmakers, standing in the chamber wearing scarves in the colours of the national flag, chanted “long live Algeria” on Wednesday as they applauded the passage of the bill, which states that France holds “legal responsibility for its colonial past in Algeria and the tragedies it caused”. Continue reading...",
       "url": "https://www.theguardian.com/world/2025/dec/24/algeria-passes-law-declaring-french-colonisation-crime",
@@ -919,10 +957,27 @@
       "published": "Wed, 24 Dec 2025 01:00:57 GMT",
       "source": "The Guardian World",
       "type": "rss",
+=======
+      "title": "Flood warnings issued for river valley",
+      "description": "Authorities issue warnings for potential flooding following heavy rains.",
+      "url": "https://example.org/news/flood-warnings",
+      "published": "2025-12-24T12:00:00Z",
+      "source": "Local Agency",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Regional power outage affects multiple cities",
+      "description": "A widespread outage impacts several cities; crews deployed.",
+      "url": "https://example.org/news/power-outage",
+      "published": "2025-12-24T10:00:00Z",
+      "source": "Utility Provider",
+>>>>>>> 30ac612 (Fix local stock ticker: always show synthetic fallback, robust input extraction, and local fetchStockQuotes fallback)
       "severity_score": 10,
       "severity_level": "High"
     },
     {
+<<<<<<< HEAD
       "title": "Jet crash carrying Libya’s top general triggers airspace shutdown over NATO capital",
       "description": "Turkey shuts down Ankara airspace after business jet carrying Libya's top military commander crashes. Ali Ahmed Al-Haddad is feared dead.",
       "url": "https://www.foxnews.com/world/jet-crash-carrying-libyas-top-general-triggers-airspace-shutdown-over-nato-capital",
@@ -2261,6 +2316,28 @@
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low"
+=======
+      "title": "Shelter-in-place after refinery fire declared",
+      "description": "Officials issued emergency shelter-in-place after a major refinery fire; hazardous smoke reported. Multiple injuries confirmed; evacuations underway.",
+      "url": "#",
+      "published": "2025-12-24T23:54:01Z",
+      "source": "Local Test",
+      "severity_score": 96,
+      "severity_level": "Critical",
+      "ticker_label": "🔥 Refinery fire: shelter-in-place",
+      "ticker_category": "mass_casualty"
+    },
+    {
+      "title": "Bridge collapse shuts major highway; emergency crews deployed",
+      "description": "A section of the river bridge collapsed during peak traffic, causing multiple vehicle incidents. Authorities report serious injuries and have closed the highway in both directions.",
+      "url": "#",
+      "published": "2025-12-24T23:59:01Z",
+      "source": "Local Test",
+      "severity_score": 90,
+      "severity_level": "Critical",
+      "ticker_label": "⚠️ Bridge collapse: highway closed",
+      "ticker_category": "mass_casualty"
+>>>>>>> 30ac612 (Fix local stock ticker: always show synthetic fallback, robust input extraction, and local fetchStockQuotes fallback)
     }
   ]
 }
