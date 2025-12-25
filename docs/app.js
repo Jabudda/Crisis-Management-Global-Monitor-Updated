@@ -13,7 +13,7 @@ class CrisisDashboard {
                 this.events = [];
                 this.currentFilter = 'all';
                 // Prefer local data file; remote fallback kept for prod
-                this.dataUrl = '/data/events.json';
+                this.dataUrl = 'events.json';
                 const saved = this._loadTickerDuration();
                 this.tickerDuration = saved ?? 100; // seconds
                 this.lastEventLoadAttempts = [];

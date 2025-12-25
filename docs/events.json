@@ -1,0 +1,80 @@
+{
+  "last_updated": "2025-12-24T23:59:01Z",
+  "event_count": 7,
+  "ticker_config": {
+    "freshness_hours": 72,
+    "max_items": 20,
+    "ticker_window_hours": 2
+  },
+  "events": [
+    {
+      "title": "Major earthquake strikes coastal city; widespread damage reported",
+      "description": "A powerful 7.3 magnitude earthquake struck the coastal region, causing significant structural damage, power outages, and disrupting transportation. Emergency services report collapsed buildings and ongoing search-and-rescue operations.",
+      "url": "#",
+      "published": "2025-12-24T18:10:00Z",
+      "source": "Local Test",
+      "severity_score": 95,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Mass casualty incident after chemical plant explosion",
+      "description": "An explosion at a chemical processing plant led to fires and toxic smoke affecting nearby neighborhoods. Authorities report multiple casualties and have issued shelter-in-place orders while hazmat teams respond.",
+      "url": "#",
+      "published": "2025-12-24T19:35:00Z",
+      "source": "Local Test",
+      "severity_score": 92,
+      "severity_level": "Critical"
+    },
+    {
+      "title": "Magnitude 6.1 earthquake strikes off the coast",
+      "description": "A 6.1 magnitude quake was recorded offshore; minor damage reported in nearby towns.",
+      "url": "https://example.org/news/earthquake",
+      "published": "2025-12-24T15:00:00Z",
+      "source": "USGS",
+      "severity_score": 14,
+      "severity_level": "High",
+      "ticker_label": "🌪️ Offshore earthquake 6.1",
+      "ticker_category": "natural_disaster"
+    },
+    {
+      "title": "Flood warnings issued for river valley",
+      "description": "Authorities issue warnings for potential flooding following heavy rains.",
+      "url": "https://example.org/news/flood-warnings",
+      "published": "2025-12-24T12:00:00Z",
+      "source": "Local Agency",
+      "severity_score": 7,
+      "severity_level": "Medium"
+    },
+    {
+      "title": "Regional power outage affects multiple cities",
+      "description": "A widespread outage impacts several cities; crews deployed.",
+      "url": "https://example.org/news/power-outage",
+      "published": "2025-12-24T10:00:00Z",
+      "source": "Utility Provider",
+      "severity_score": 10,
+      "severity_level": "High"
+    },
+    {
+      "title": "Shelter-in-place after refinery fire declared",
+      "description": "Officials issued emergency shelter-in-place after a major refinery fire; hazardous smoke reported. Multiple injuries confirmed; evacuations underway.",
+      "url": "#",
+      "published": "2025-12-24T23:54:01Z",
+      "source": "Local Test",
+      "severity_score": 96,
+      "severity_level": "Critical",
+      "ticker_label": "🔥 Refinery fire: shelter-in-place",
+      "ticker_category": "mass_casualty"
+    },
+    {
+      "title": "Bridge collapse shuts major highway; emergency crews deployed",
+      "description": "A section of the river bridge collapsed during peak traffic, causing multiple vehicle incidents. Authorities report serious injuries and have closed the highway in both directions.",
+      "url": "#",
+      "published": "2025-12-24T23:59:01Z",
+      "source": "Local Test",
+      "severity_score": 90,
+      "severity_level": "Critical",
+      "ticker_label": "⚠️ Bridge collapse: highway closed",
+      "ticker_category": "mass_casualty"
+    }
+  ]
+}
