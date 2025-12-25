@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-25T14:26:33.369919Z",
+  "last_updated": "2025-12-25T14:47:27.137819Z",
   "event_count": 225,
   "events": [
     {
@@ -217,6 +217,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Rescue helicopter crashes, killing five on Tanzania’s Mount Kilimanjaro",
+      "description": "Two foreigners seeking medical evacuation are among those killed in the crash on Africa's highest mountain.",
+      "url": "https://www.aljazeera.com/news/2025/12/25/rescue-helicopter-crashes-killing-five-on-tanzanias-mount-kilimanjaro?traffic_source=rss",
+      "published": "Thu, 25 Dec 2025 14:03:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -1154,6 +1165,28 @@
       "is_ticker": false
     },
     {
+      "title": "Brazilian ex-President Jair Bolsonaro undergoes double hernia surgery",
+      "description": "Former Brazilian President Jair Bolsonaro's family says he's undergoing double hernia surgery at a hospital in the country's capital",
+      "url": "https://abcnews.go.com/International/wireStory/brazilian-president-jair-bolsonaro-undergoes-double-hernia-surgery-128693872",
+      "published": "Thu, 25 Dec 2025 09:33:59 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Turkey detains dozens of IS suspects planning attacks on Christmas and New Year celebrations",
+      "description": "Istanbul police have launched simultaneous raids at 124 locations, detaining over a hundred suspected members of the Islamic State group",
+      "url": "https://abcnews.go.com/International/wireStory/turkey-detains-dozens-suspects-planning-attacks-christmas-new-128693497",
+      "published": "Thu, 25 Dec 2025 09:31:52 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Winter aid delivery continues in Gaza",
       "description": "Despite the ceasefire in the Gaza Strip, humanitarians continue to receive reports of airstrikes, shelling and gunfire in all five governorates, the United Nations said on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166653",
@@ -1241,6 +1274,20 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Palestine Action: Prison hunger strikes that shaped history",
+      "description": "Four Palestine Action members are continuing hunger strikes in the UK, following a protest practice with a long history.",
+      "url": "https://www.aljazeera.com/news/2025/12/25/palestine-action-prison-hunger-strikes-that-shaped-history?traffic_source=rss",
+      "published": "Thu, 25 Dec 2025 14:43:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Palestine Action: Prison hunger strikes that shaped history"
     },
     {
       "title": "Photos: Global stories of 2025 in pictures",
@@ -1394,17 +1441,6 @@
       "description": "Amid opposition boycotts, people in Mogadishu vote in the city's first direct local polls since 1969.",
       "url": "https://www.aljazeera.com/news/2025/12/25/somali-capital-holds-first-direct-election-in-five-decades?traffic_source=rss",
       "published": "Thu, 25 Dec 2025 09:09:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Conflict with Thailand brings surge of unity amongst Cambodians",
-      "description": "Cambodian children write letters to soldiers, while donation sites fill for those displaced by fighting near the border.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2025/12/25/conflict-with-thailand-brings-surge-of-unity-amongst-cambodians?traffic_source=rss",
-      "published": "Thu, 25 Dec 2025 08:52:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1762,20 +1798,6 @@
       "ticker_label": "🪖 Israeli hostages freed, Iran hit, ceasefire held — 2025 shattered idea that US was exiting the Middle East"
     },
     {
-      "title": "Saudi Arabia demands Yemeni separatists leave seized governorates",
-      "description": "Riyadh calls seizure of oil-rich provinces 'unjustified escalation' as fragile anti-Houthi alliance shows cracks.",
-      "url": "https://www.aljazeera.com/news/2025/12/25/saudi-arabia-demands-yemeni-separatists-leave-seized-governorates?traffic_source=rss",
-      "published": "Thu, 25 Dec 2025 08:23:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Saudi Arabia demands Yemeni separatists leave seized governorates"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1830,17 +1852,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Russia claims to have seized more than 5,100 square km of Ukraine in 2025",
-      "description": "Analysts and Ukrainian officials doubt Moscow's latest announcements as peace talks stall.",
-      "url": "https://www.aljazeera.com/news/2025/12/25/russia-claims-to-have-seized-more-than-5100-square-km-of-ukraine-in-2025?traffic_source=rss",
-      "published": "Thu, 25 Dec 2025 08:31:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2103,6 +2114,17 @@
       "url": "https://www.bbc.com/news/videos/c8dy3772m1lo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Dec 2025 12:53:11 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "The Ashes: Cricket’s Longest Argument",
+      "description": "The Ashes isn’t just cricket. It’s history, identity and a bit of banter. We look at cricket's longest argument",
+      "url": "https://www.aljazeera.com/video/game-theory/2025/12/25/aje-onl-gt-ashes_v7-251225?traffic_source=rss",
+      "published": "Thu, 25 Dec 2025 13:58:46 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2564,28 +2586,6 @@
       "description": "An Eritrean man alleged to be a people-smuggling kingpin has been extradited to the Netherlands by the United Arab Emirates",
       "url": "https://abcnews.go.com/International/wireStory/eritrean-man-accused-people-smuggling-extradited-netherlands-128683722",
       "published": "Wed, 24 Dec 2025 14:49:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
-      "description": "Trump-backed candidate Nasry Asfura has won Honduras’ presidential election, according to electoral authorities",
-      "url": "https://abcnews.go.com/International/wireStory/trump-backed-candidate-nasry-asfura-declared-winner-honduras-128685813",
-      "published": "Thu, 25 Dec 2025 06:41:54 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Tears of joy as Nigerian families reunite with kidnapped schoolchildren",
-      "description": "Families in north-central Nigeria have joyfully reunited with schoolchildren held for a month after a mass abduction",
-      "url": "https://abcnews.go.com/International/wireStory/tears-joy-nigerian-families-reunite-kidnapped-schoolchildren-128675593",
-      "published": "Wed, 24 Dec 2025 11:21:58 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
