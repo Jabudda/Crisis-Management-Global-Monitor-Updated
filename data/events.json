@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-25T10:49:43.334616Z",
-  "event_count": 225,
+  "last_updated": "2025-12-25T11:23:51.783841Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Jeju Air crash: South Korea sets up independent inquiry into disaster that killed 179 amid delays and acrimony",
@@ -302,17 +302,6 @@
       "ticker_label": "💥 Russian general killed by car bomb, third senior military leader killed this year"
     },
     {
-      "title": "US: Pennsylvania nursing home rocked by twin explosions",
-      "description": "Deaths were reported following two explosions and fire at a nursing home outside Philadelphia, with several people still unaccounted for, officials have said.",
-      "url": "https://www.dw.com/en/us-pennsylvania-nursing-home-rocked-by-twin-explosions/a-75291851?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 24 Dec 2025 07:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Pope Leo to renew call for peace during first Christmas blessing",
       "description": "Pope Leo XIV is to deliver his first Christmas “Urbi et Orbi” blessing from Vatican City on Thursday, at the end of a year overshadowed by conflict around the world. The year ends with sources of hope for the Christian community, which celebrated its first festive Christmas in Bethlehem, in the occupied West Bank, since the start of the war in Gaza.",
       "url": "https://www.france24.com/en/europe/20251225-pope-leo-to-renew-call-for-peace-during-first-urbi-et-orbi-christmas-blessing",
@@ -339,6 +328,20 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Turkey recovers black box from Libya army chief’s fatal plane crash"
+    },
+    {
+      "title": "Two killed in Israeli drone attack in eastern Lebanon",
+      "description": "Strike comes hours after a previous Israeli attack the night before, in ongoing near-daily ceasefire violations.",
+      "url": "https://www.aljazeera.com/news/2025/12/25/two-killed-in-israeli-drone-attack-in-eastern-lebanon?traffic_source=rss",
+      "published": "Thu, 25 Dec 2025 11:02:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Two killed in Israeli drone attack in eastern Lebanon"
     },
     {
       "title": "Bethlehem celebrates first festive Christmas since Gaza war",
@@ -584,6 +587,20 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "UFO secret files, drone swarms and nuclear-linked sightings stun experts in 2025",
+      "description": "Discover compelling UFO headlines from 2025, featuring new scientific evidence, mysterious underwater objects and government disclosure revelations.",
+      "url": "https://www.foxnews.com/us/ufo-secret-files-drone-swarms-nuclear-linked-sightings-stun-experts-2025",
+      "published": "Thu, 25 Dec 2025 06:00:44 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UFO secret files, drone swarms and nuclear-linked sightings stun experts in 2025"
     },
     {
       "title": "Israeli diaspora minister says Australia should have seen 'writing on the wall' before terror attack",
@@ -975,17 +992,6 @@
       "is_ticker": false
     },
     {
-      "title": "Two injured after ICE agents fire at Maryland vehicle amid crackdown",
-      "description": "An attempted ICE arrest outside Baltimore turned violent after a man allegedly drove into law enforcement vehicles.",
-      "url": "https://www.aljazeera.com/news/2025/12/25/two-injured-after-ice-agents-fire-at-maryland-vehicle-amid-crackdown?traffic_source=rss",
-      "published": "Thu, 25 Dec 2025 03:49:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "From Ukraine to US: Germany's 2026 foreign policy challenges",
       "description": "Germany enters 2026 facing a world in upheaval. Whether navigating relations with the United States, Ukraine, China or Middle Eastern governments, Germany is struggling to keep pace with rapid geopolitical shifts.",
       "url": "https://www.dw.com/en/from-ukraine-to-us-germany-s-2026-foreign-policy-challenges/a-75166207?maca=en-rss-en-all-1573-xml-mrss",
@@ -1025,6 +1031,20 @@
       "ticker_label": "🪖 Thailand and Cambodia hold talks on resuming ceasefire"
     },
     {
+      "title": "Rescue mission helicopter crashes on Mount Kilimanjaro, killing all 5 on board",
+      "description": "Five people have died after a helicopter crashed on Africa’s highest mountain, Mount Kilimanjaro, in Tanzania",
+      "url": "https://abcnews.go.com/International/wireStory/helicopter-rescue-mission-crashes-tanzanias-mount-kilimanjaro-killing-128690702",
+      "published": "Thu, 25 Dec 2025 05:53:29 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Rescue mission helicopter crashes on Mount Kilimanjaro, killing all 5 on board"
+    },
+    {
       "title": "Search teams probe wreckage after Libyan army chief, 7 others killed in plane crash",
       "description": "Search teams in Turkey have recovered the cockpit voice and flight data recorders from a jet crash that killed eight people, including Libya’s military chief",
       "url": "https://abcnews.go.com/International/wireStory/search-teams-probe-wreckage-after-libyan-army-chief-128672581",
@@ -1037,20 +1057,6 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Search teams probe wreckage after Libyan army chief, 7 others killed in plane crash"
-    },
-    {
-      "title": "Rescue mission helicopter crashes on Mount Kilimanjaro, killing all 5 on board",
-      "description": "Five people have died after a helicopter crashed on Africa’s highest mountain, Mount Kilimanjaro, in Tanzania",
-      "url": "https://abcnews.go.com/International/wireStory/helicopter-rescue-mission-crashes-tanzanias-mount-kilimanjaro-killing-128690702",
-      "published": "Thu, 25 Dec 2025 04:17:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Rescue mission helicopter crashes on Mount Kilimanjaro, killing all 5 on board"
     },
     {
       "title": "South Korean lawmakers pass bill targeting false information despite warnings on censorship",
@@ -1295,7 +1301,7 @@
       "title": "Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack",
       "description": "A bomb has exploded during prayers at a mosque in Nigeria's northeastern city of Maiduguri, killing five people",
       "url": "https://abcnews.go.com/International/wireStory/blast-mosque-nigeria-kills-5-injures-30-apparent-128689527",
-      "published": "Thu, 25 Dec 2025 04:17:43 -0500",
+      "published": "Thu, 25 Dec 2025 05:53:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1512,20 +1518,6 @@
       "is_ticker": false
     },
     {
-      "title": "Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter's",
-      "description": "On Christmas Eve, thousands of people flocked to Bethlehem's Manger Square and other Holy Land sites, after two years of subdued Christmas celebrations because of the war in Gaza",
-      "url": "https://abcnews.go.com/International/wireStory/thousands-flock-bethlehem-revive-christmas-spirit-after-2-128675128",
-      "published": "Wed, 24 Dec 2025 21:05:59 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Faithful return to Bethlehem and Pope Leo XIV celebrates his first Christmas Eve Mass at St. Peter's"
-    },
-    {
       "title": "Horror video captures repeat offender allegedly attacking 75-year-old woman, gouging her eye with spiked stick",
       "description": "Newly released video shows a notorious Seattle repeat offender launching a sudden spike-club attack outside the King County Courthouse, leaving a 75-year-old woman blind in one eye.",
       "url": "https://www.foxnews.com/us/horror-video-captures-repeat-offender-allegedly-attacking-75-year-old-woman-gouging-her-eye-spiked-stick",
@@ -1623,6 +1615,17 @@
       "is_ticker": false
     },
     {
+      "title": "Bangladesh election frontrunner returns home after 17 years",
+      "description": "Tarique Rahman, in pole position to become the next prime minister of Bangladesh, is back in the capital, Dhaka. Bangladesh goes to the polls on Febraury 12.",
+      "url": "https://www.dw.com/en/bangladesh-election-frontrunner-returns-home-after-17-years/a-75300454?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 25 Dec 2025 11:00:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Ghana says Nigerian nationals arrested for online fraud",
       "description": "A nightly raid on the outskirts of Accra led to the arrest of some 50 Nigerians on suspicion of online fraud. Ghana has been rife with online scam incidents, as its youth complain of scarce economic prospects.",
       "url": "https://www.dw.com/en/ghana-says-nigerian-nationals-arrested-for-online-fraud/a-75297569?maca=en-rss-en-all-1573-xml-mrss",
@@ -1659,7 +1662,7 @@
       "title": "Son of former Bangladesh PM returns after 17 years in exile with a chance to lead",
       "description": "The son of a former Bangladesh prime minister has returned to the country after more than 17 years in exile",
       "url": "https://abcnews.go.com/International/wireStory/son-former-bangladesh-prime-minister-returns-after-17-128690701",
-      "published": "Thu, 25 Dec 2025 04:32:19 -0500",
+      "published": "Thu, 25 Dec 2025 05:53:35 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1672,17 +1675,6 @@
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166646",
       "published": "Fri, 19 Dec 2025 12:00:00 +0000",
       "source": "UN News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Major university cuts ties with US-sanctioned UN expert on Palestinian issues, watchdog says",
-      "description": "Georgetown University reportedly cut ties with U.N. expert Francesca Albanese, who was sanctioned by the Trump administration in July 2025.",
-      "url": "https://www.foxnews.com/us/major-university-cuts-ties-us-sanctioned-un-expert-palestinian-issues-watchdog-says",
-      "published": "Tue, 23 Dec 2025 14:30:13 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1811,17 +1803,6 @@
       "is_ticker": false
     },
     {
-      "title": "Europe vows to 'stand firm' against US pressure to curtail online content moderation",
-      "description": "European officials have vowed not to bow to US pressure after the State Department said Tuesday that it would deny visas to five Europeans, accusing them of seeking to censor \"American viewpoints\" online. All five have helped lead EU efforts to counter hate speech and disinformation in the digital sphere.",
-      "url": "https://www.france24.com/en/europe/20251224-us-actions-will-not-stop-eu-moderating-online-hate-disinformation-commissioner-says",
-      "published": "Wed, 24 Dec 2025 14:28:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "DR Congo: Displaced people in South Kivu close to ‘utter desperation’, WFP says",
       "description": "An estimated 500,000 people have been forced from their homes since fighting erupted in South Kivu province, Democratic Republic of Congo (DRC), at the beginning of December.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166657",
@@ -1871,6 +1852,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-25T11:23:35.745646Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2375,9 +2367,9 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo speaks out on Gaza in Christmas message",
-      "description": "The head of the Catholic Church, in an unusually direct Christmas sermon, lamented the conditions for Palestinians in Gaza. Follow for more Christmas news.",
-      "url": "https://www.dw.com/en/pope-leo-speaks-out-on-gaza-in-christmas-message/live-75292667?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Pope Leo decries suffering in Gaza in Christmas message",
+      "description": "The head of the Catholic Church, in his Christmas sermon, lamented the conditions for Palestinians in Gaza. Follow for more Christmas news.",
+      "url": "https://www.dw.com/en/pope-leo-decries-suffering-in-gaza-in-christmas-message/live-75292667?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 25 Dec 2025 10:39:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2446,6 +2438,17 @@
       "url": "https://www.dw.com/en/7-mysterious-languages-that-have-yet-to-be-deciphered/a-75249574?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 24 Dec 2025 09:29:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "French Christmas traditions: festivities that continue well into the New Year",
+      "description": "Christmas in France would not be complete without free-flowing champagne, oysters or a bûche de Noël. And the French holiday season is longer than most – stretching into the New Year with Epiphany (January 6) and its traditional galettes des rois (king cake) into February with Chandeleur (Candlemas).",
+      "url": "https://www.france24.com/en/europe/20251225-french-christmas-traditions-festivities-continue-well-into-new-year",
+      "published": "Thu, 25 Dec 2025 11:16:21 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2529,6 +2532,17 @@
       "is_ticker": false
     },
     {
+      "title": "Algeria votes to declare French colonization a crime and demands restitution",
+      "description": "Algerian legislators have declared France's colonization a crime, demanding restitution for property taken during its 130-year rule",
+      "url": "https://abcnews.go.com/International/wireStory/algeria-votes-declare-french-colonization-crime-demands-restitution-128691093",
+      "published": "Thu, 25 Dec 2025 06:12:36 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
       "description": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
       "url": "https://abcnews.go.com/International/wireStory/trump-backed-candidate-nasry-asfura-declared-winner-honduras-128685711",
@@ -2543,7 +2557,7 @@
       "title": "Saudi Arabia calls on Yemen separatists to leave 2 governorates as coalition strains",
       "description": "Saudi Arabia has called on separatists in Yemen to withdraw from two governorates they now hold",
       "url": "https://abcnews.go.com/International/wireStory/saudi-arabia-calls-yemen-separatists-leave-2-governorates-128690170",
-      "published": "Thu, 25 Dec 2025 04:17:45 -0500",
+      "published": "Thu, 25 Dec 2025 05:53:46 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2576,7 +2590,7 @@
       "title": "Trump-backed candidate Nasry Asfura declared winner of Honduras' presidential vote",
       "description": "Trump-backed candidate Nasry Asfura has won Honduras’ presidential election, according to electoral authorities",
       "url": "https://abcnews.go.com/International/wireStory/trump-backed-candidate-nasry-asfura-declared-winner-honduras-128685813",
-      "published": "Thu, 25 Dec 2025 04:17:50 -0500",
+      "published": "Thu, 25 Dec 2025 05:53:37 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
