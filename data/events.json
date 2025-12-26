@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T05:28:54.512790Z",
-  "event_count": 225,
+  "last_updated": "2025-12-26T05:49:21.735812Z",
+  "event_count": 226,
   "events": [
     {
       "title": "US carries out strikes on Nigeria targeting Islamic State militants, Trump says",
@@ -1844,6 +1844,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-26T05:48:59.254390Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
