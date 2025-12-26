@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-26T11:24:36.027891Z",
-  "event_count": 225,
+  "last_updated": "2025-12-26T11:42:43.795176Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Flash floods hit Southern California, State of emergency declared",
@@ -837,6 +837,20 @@
       "is_ticker": false
     },
     {
+      "title": "Deadly blast hits Alawite mosque in Syria's Homs province",
+      "description": "At least five people died and 21 were wounded in a blast that struck a mosque in an Alawite neighbourhood of the Homs province in Syria on Friday, according to local officials.",
+      "url": "https://www.france24.com/en/middle-east/20251226-blast-alawite-mosque-in-syria-homs-province-kills-least-five",
+      "published": "Fri, 26 Dec 2025 11:32:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Deadly blast hits Alawite mosque in Syria's Homs province"
+    },
+    {
       "title": "Rescue mission helicopter crashes on Mount Kilimanjaro, killing all 5 on board",
       "description": "Five people have died after a helicopter crashed on Africa’s highest mountain, Mount Kilimanjaro, in Tanzania",
       "url": "https://abcnews.go.com/International/wireStory/helicopter-rescue-mission-crashes-tanzanias-mount-kilimanjaro-killing-128690702",
@@ -1102,6 +1116,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Blast at mosque in Nigeria kills 5 and injures more than 30 in apparent suicide attack"
+    },
+    {
+      "title": "Afghanistan's historic Ariana Cinema torn down to make way for shopping center",
+      "description": "Through the decades, downtown Kabul’s Ariana Cinema had weathered revolution and war, emerging battered and bruised but still standing to entertain Afghans with Bollywood movies and American action flicks",
+      "url": "https://abcnews.go.com/International/wireStory/afghanistans-historic-ariana-cinema-torn-make-shopping-center-128698897",
+      "published": "Fri, 26 Dec 2025 02:07:58 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Afghanistan's historic Ariana Cinema torn down to make way for shopping center"
     },
     {
       "title": "First Person: Felipe Paullier, the youngest ever senior UN official, charged with giving a voice to young people around the world",
@@ -1403,20 +1431,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "A new take on Christmas cooking in Senegal",
-      "description": "In Senegal, a country with a large Muslim majority, Christmas Eve is not tied to any specific culinary tradition. That freedom is inspiring some chefs to reinvent festive cuisine. One of them is Franco-Senegalese chef Aïda Gaye, who puts local flavours centre stage in a fusion-style approach.",
-      "url": "https://www.france24.com/en/video/20251225-a-new-take-on-christmas-cooking-in-senegal",
-      "published": "Thu, 25 Dec 2025 16:41:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 A new take on Christmas cooking in Senegal"
     },
     {
       "title": "Man reveals what it's like celebrating Christmas in country where it's banned",
@@ -1777,20 +1791,6 @@
       "is_ticker": false
     },
     {
-      "title": "Former Malaysian Prime Minister Najib Razak convicted in trial",
-      "description": "Former Malaysian Prime Minister Najib Razak has been convicted in a corruption trial tied to a multibillion-dollar looting of the 1MDB state investment fund",
-      "url": "https://abcnews.go.com/International/wireStory/former-malaysian-prime-minister-najib-razak-convicted-trial-128699465",
-      "published": "Fri, 26 Dec 2025 03:12:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Former Malaysian Prime Minister Najib Razak convicted in trial"
-    },
-    {
       "title": "DR Congo: Displaced people in South Kivu close to ‘utter desperation’, WFP says",
       "description": "An estimated 500,000 people have been forced from their homes since fighting erupted in South Kivu province, Democratic Republic of Congo (DRC), at the beginning of December.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166657",
@@ -1840,6 +1840,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2025-12-26T11:42:20.673280Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
