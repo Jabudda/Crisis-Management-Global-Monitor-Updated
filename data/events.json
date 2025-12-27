@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-27T11:21:16.211328Z",
-  "event_count": 224,
+  "last_updated": "2025-12-27T11:41:19.582034Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Trump supporters hail US strikes in Nigeria as ‘amazing Christmas present’",
@@ -813,6 +813,17 @@
       "is_ticker": false
     },
     {
+      "title": "Thousands without power in Kyiv after massive Russian attack",
+      "description": "Authorities say a third of residents in the Ukrainian capital have been left without heating in freezing weather.",
+      "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 27 Dec 2025 09:52:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Myanmar is set to hold phased elections. Here's why they're being called a 'sham'",
       "description": "Myanmar's military rulers are holding a general election in phases starting Dec. 28 amid the country's civil war. The head of the U.N. says the vote will be anything but free and fair.",
       "url": "https://www.npr.org/2025/12/27/nx-s1-5649519/myanmar-election",
@@ -836,6 +847,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "US air strikes in Nigeria targeted IS group fighters trying to enter from Sahel, govt says",
+      "description": "US-backed air strikes in Nigeria targeted Islamic State group fighters who were attempting to enter the country from the Sahel region, according to the Nigerian government. US President Donald Trump said on his social media platform that the strikes were carried out on Thursday at the request of Nigeria's government, and that the group had been targeting Christians in the region.",
+      "url": "https://www.france24.com/en/africa/20251227-us-air-strikes-nigeria-targeted-is-group-fighters-trying-enter-from-sahel",
+      "published": "Sat, 27 Dec 2025 11:25:59 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US air strikes in Nigeria targeted IS group fighters trying to enter from Sahel, govt says"
     },
     {
       "title": "Yemeni separatists accuse Saudi Arabia of air strikes in eastern provinces",
@@ -1139,20 +1164,6 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Donald Trump to meet Zelensky on Sunday",
-      "description": "Ukrainian President Volodymyr Zelensky said Friday that he would meet US President Donald Trump in Florida over the weekend to discuss territory and security guarantees, a day after meeting White House negotiators to discuss ways to end the war in Ukraine. Laurent Berstecher reports.",
-      "url": "https://www.france24.com/en/video/20251226-donald-trump-to-meet-zelensky-on-sunday",
-      "published": "Fri, 26 Dec 2025 16:08:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Donald Trump to meet Zelensky on Sunday"
     },
     {
       "title": "Trump's claim US airstrikes in Nigeria hit ISIS targets 'sketchy', presidential adviser tells Sky News",
@@ -1674,20 +1685,6 @@
       "ticker_label": "💥 Israel becomes first country to recognize Somaliland; Trump 'not ready'"
     },
     {
-      "title": "Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks",
-      "description": "Poland's military says its air force took a \"preventative\" response to secure its airspace.",
-      "url": "https://www.bbc.com/news/articles/c1dzvpg1341o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 27 Dec 2025 09:52:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Poland scrambles jets as Russia strikes Kyiv before US-Ukraine peace talks"
-    },
-    {
       "title": "Thailand and Cambodia agree ceasefire after weeks of deadly clashes",
       "description": "Almost one million people have been displaced since hostilities resumed earlier this month.",
       "url": "https://www.bbc.com/news/articles/c0q5je8048xo?at_medium=RSS&at_campaign=rss",
@@ -2010,17 +2007,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2025-12-27T11:20:59.625859Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
