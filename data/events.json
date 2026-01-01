@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T13:37:50.582269Z",
+  "last_updated": "2026-01-01T14:26:39.501230Z",
   "event_count": 224,
   "events": [
     {
@@ -57,6 +57,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Anthony Joshua’s camp confirm two of his close friends died in Nigeria car crash"
+    },
+    {
+      "title": "Iran protests turn deadly: Government has offered dialogue in face of demonstrations",
+      "description": "A member of Iran’s security forces was killed, marking the first reported death after several days of demonstrations over soaring inflation, in what has been the most significant unrest in the country since nationwide protests three years ago. Adjunct Senior Lecturer at Lund University, Rouzbeh Parsi, shares his insights.",
+      "url": "https://www.france24.com/en/video/20260101-iran-protests-turn-deadly-government-has-offered-dialogue-in-face-of-demonstrations",
+      "published": "Thu, 01 Jan 2026 13:26:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "UN, US sign $2 billion humanitarian funding agreement for 17 crisis-hit countries",
@@ -271,17 +282,6 @@
       "ticker_label": "🌪️ Iran in shutdown as protesters storm governor's office, crowds chant 'Death to Khamenei'"
     },
     {
-      "title": "‘Dozens’ killed in Swiss ski resort blaze: What we know",
-      "description": "New Year's Eve explosion in a Swiss resort in Crans-Montana has injured more than 100 people.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/dozens-killed-in-swiss-ski-resort-explosion-what-we-know?traffic_source=rss",
-      "published": "Thu, 01 Jan 2026 10:46:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
       "description": "Two of the former world champion's closest friends were killed in the accident on Monday.",
       "url": "https://www.bbc.com/news/articles/c5yvdw77j04o?at_medium=RSS&at_campaign=rss",
@@ -404,6 +404,20 @@
       "is_ticker": false
     },
     {
+      "title": "Flash floods triggered by heavy rains in Afghanistan kill at least 17 people",
+      "description": "Afghanistan's disaster management agency says the season’s first heavy rain and snowfall has ended a prolonged dry spell but triggered flash floods, killing at least 17 people and injuring 11 others",
+      "url": "https://abcnews.go.com/International/wireStory/flash-floods-triggered-heavy-rains-afghanistan-kill-17-128829124",
+      "published": "Thu, 01 Jan 2026 08:41:42 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Flash floods triggered by heavy rains in Afghanistan kill at least 17 people"
+    },
+    {
       "title": "SECURITY COUNCIL LIVE: Briefing on threats to international peace and security",
       "description": "The UN Security Council meets today to hear a briefing on threats to international peace and security following Israel’s recent recognition of the northern region of Somalia as an independent and sovereign state. Follow live below and UN News app users can click here and go here for all our in-depth meeting coverage.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166679",
@@ -479,6 +493,17 @@
       "is_ticker": false
     },
     {
+      "title": "‘Dozens’ killed in Swiss ski resort blaze: What we know",
+      "description": "New Year's Eve fire in a Swiss resort in Crans-Montana has injured more than 100 people.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/dozens-killed-in-swiss-ski-resort-explosion-what-we-know?traffic_source=rss",
+      "published": "Thu, 01 Jan 2026 10:46:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "French firefighters launch nationwide calendar competition to support Injured crews",
       "description": "Every winter in France, firefighters sell calendars to raise funds for a nonprofit organization that supports injured firefighters and the families of those who have died in the line of duty, and this year the tradition includes the fourth edition of a nationwide calendar competition, with 128 fire stations inviting the public to vote for the best design, as our colleagues at France Télévisions, Alexis Fischer, Mathieu Dreujou, and Claire Combaluzier, along with France 24’s Florent Marchais, report.",
       "url": "https://www.france24.com/en/video/20260101-french-firefighters-launch-nationwide-calendar-competition-to-support-injured-crews",
@@ -516,6 +541,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Russia claims Ukrainian drone attack killed 24 people in Kherson",
+      "description": "Russia says those killed were celebrating in a cafe located in an area of southern Ukraine controlled by Moscow.",
+      "url": "https://www.aljazeera.com/news/2026/1/1/russia-claims-ukrainian-drone-attack-killed-24-people-in-kherson?traffic_source=rss",
+      "published": "Thu, 01 Jan 2026 13:59:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Russia claims Ukrainian drone attack killed 24 people in Kherson"
     },
     {
       "title": "Several dozen dead after explosion hits Swiss ski resort bar",
@@ -876,20 +915,6 @@
       "is_ticker": false
     },
     {
-      "title": "Kim hails North Korea's 'invincible alliance' with Russia in New Year's letter",
-      "description": "North Korean leader Kim Jong-un heaped praise on Pyongyang's forces supporting Russia's war in Ukraine in a new year's message, hinting at the \"remarkable feats\" the country's troops will perform on overseas battlefields in years to come. Thousands of North Korean troops were deployed in Russia's Kursk region in 2024 to beat back an ultimately unsuccessful Ukrainian incursion.",
-      "url": "https://www.france24.com/en/live-news/20260101-n-korea-s-kim-hails-invincible-alliance-with-russia-in-new-year-s-letter",
-      "published": "Thu, 01 Jan 2026 01:57:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Kim hails North Korea's 'invincible alliance' with Russia in New Year's letter"
-    },
-    {
       "title": "Kohberger plea, Cincinnati beating, Read verdict fuel 2025’s most viral, controversial moments",
       "description": "Viral video of Cincinnati racial beating sparks national outrage as Charlie Kirk's assassination and Shamsud-Din Jabbar's New Orleans attack dominate 2025 headlines.",
       "url": "https://www.foxnews.com/us/kohberger-plea-cincinnati-beating-read-verdict-fuel-2025-most-viral-controversial-moments",
@@ -930,17 +955,6 @@
       "description": "The words peace and unity were projected onto the Sydney Harbour Bridge as thousands gathered to watch the annual fireworks.",
       "url": "https://www.bbc.com/news/articles/clye3xz52e5o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 31 Dec 2025 15:24:36 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Saving South Africa's threatened albatross from lethal fishing lines",
-      "description": "A task force is trying to save seabirds from getting caught and killed in fishing boat nets.",
-      "url": "https://www.bbc.com/news/articles/cwywv4ndwqxo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 31 Dec 2025 00:23:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -1037,20 +1051,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Taiwan vows to defend its sovereignty after Chinese military drills",
-      "description": "In a live New Year’s address, Taiwanese President Lai Ching-te highlighted the need for increased defence spending and warned of a critical year ahead following a major Chinese military exercise that saw rockets fired towards Taiwanese territory.",
-      "url": "https://www.france24.com/en/asia-pacific/20260101-taiwan-vows-to-defend-sovereignty-amid-chinese-military-drills",
-      "published": "Thu, 01 Jan 2026 02:41:51 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Taiwan vows to defend its sovereignty after Chinese military drills"
     },
     {
       "title": "How a New Year's party 'turned into a nightmare': What we know about Swiss ski resort fire",
@@ -1516,7 +1516,7 @@
       "title": "Queen Camilla recalls assault in 1960s as she campaigns against domestic violence",
       "description": "Britain’s Queen Camilla has spoken publicly for the first time about her personal experience of indecent assault",
       "url": "https://abcnews.go.com/International/wireStory/uks-queen-camilla-recalls-assault-1960s-campaigns-domestic-128803866",
-      "published": "Wed, 31 Dec 2025 08:57:32 -0500",
+      "published": "Thu, 01 Jan 2026 08:44:46 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1646,6 +1646,17 @@
       "is_ticker": false
     },
     {
+      "title": "Zohran Mamdani becomes New York City mayor",
+      "description": "Zohran Mamdani became mayor of New York City just after midnight on Thursday, marking a historic moment with a low-key swearing-in ceremony held deep beneath Manhattan. The Democrat, who at 34 is the city’s youngest mayor in generations, takes office as one of the most closely watched political figures in the United States. Ellen Gainsford reports.",
+      "url": "https://www.france24.com/en/video/20260101-zohran-mamdani-becomes-new-york-city-mayor",
+      "published": "Thu, 01 Jan 2026 13:28:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1765,20 +1776,6 @@
       "ticker_label": "🪖 Search for survivors after US military strike on alleged drug convoy"
     },
     {
-      "title": "LIVE: Israel’s ban on 37 aid groups kicks in, Gaza starts 2026 with despair",
-      "description": "Heavy rain, thunderstorms and hail is expected across Palestine, according to the Palestinian Meteorological Department.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/1/live-israels-ban-on-37-aid-groups-kicks-in-gaza-starts-2026-with-despair?traffic_source=rss",
-      "published": "Thu, 01 Jan 2026 07:48:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ LIVE: Israel’s ban on 37 aid groups kicks in, Gaza starts 2026 with despair"
-    },
-    {
       "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
       "description": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN but could be the “nail in the coffin” in changing to a shrunken, less flexible aid system dominated by Washington’s political priorities, aid experts fear. After a year of deep cuts in aid budgets by the US and European countries, the announcement of new money for the humanitarian system is a source of some relief, but experts are deeply concerned about demands that the US has imposed on how the money should be managed and where it can go. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
@@ -1826,15 +1823,18 @@
       "is_ticker": false
     },
     {
-      "title": "First Muslim mayor of New York City Zohran Mamdani takes office",
-      "description": "Zohran Mamdani became mayor of New York City just after midnight on Thursday, marking a historic moment with a low-key swearing-in ceremony held deep beneath Manhattan. The Democrat, who at 34 is the city’s youngest mayor in generations, takes office as one of the most closely watched political figures in the United States.",
-      "url": "https://www.france24.com/en/americas/20260101-zohran-mamdani-inaugurated-mayor-new-york-city",
-      "published": "Thu, 01 Jan 2026 05:57:45 GMT",
-      "source": "France24",
+      "title": "Witness saw people 'walking on top of others' as they tried to escape packed bar during fire",
+      "description": "A man who witnessed a bar fire in Switzerland has told Sky News he saw patrons walking over people as they tried to escape the packed venue.",
+      "url": "https://news.sky.com/story/witness-saw-people-walking-on-top-of-others-as-they-tried-to-escape-packed-bar-during-fire-13489268",
+      "published": "Thu, 01 Jan 2026 12:49:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Witness saw people 'walking on top of others' as they tried to escape packed bar during fire"
     },
     {
       "title": "Dead birds on Florida beaches have experts worried about avian flu",
@@ -1849,17 +1849,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Dead birds on Florida beaches have experts worried about avian flu"
-    },
-    {
-      "title": "Florida firefighters allegedly waterboarded, whipped rookie over TikTok video as 4 face criminal charges",
-      "description": "Four Florida firefighters face criminal charges after allegedly waterboarding and whipping a 19-year-old rookie firefighter. Nearly a dozen employees fired.",
-      "url": "https://www.foxnews.com/us/florida-firefighters-allegedly-waterboarded-whipped-rookie-tiktok-video-4-face-criminal-charges",
-      "published": "Tue, 30 Dec 2025 21:16:55 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Dozens feared dead in fire at Swiss Alps bar during New Year’s celebrations",
@@ -1939,17 +1928,6 @@
       "is_ticker": false
     },
     {
-      "title": "Why are some African countries banning US citizens from entry?",
-      "description": "Mali and Burkina Faso are the latest to issue 'tit-for-tat' bans on visas for US citizens with immediate effect.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/why-are-some-african-countries-banning-us-citizens-from-entry?traffic_source=rss",
-      "published": "Thu, 01 Jan 2026 08:10:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1975,7 +1953,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-01T13:37:26.204522Z",
+      "published": "2026-01-01T14:26:13.164104Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -2005,11 +1983,36 @@
       "is_ticker": false
     },
     {
+      "title": "New discovery may challenge theory Vikings built first Irish towns - researcher",
+      "description": "Dr Dirk Brandherm and his colleagues have identified more than 600 suspected house platforms in the Brusselstown Ring.",
+      "url": "https://www.bbc.com/news/articles/clyw59v8978o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Jan 2026 13:58:18 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 New discovery may challenge theory Vikings built first Irish towns - researcher"
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK says small boat migrant arrivals approached record levels in 2025",
+      "description": "The number of migrants reaching the UK in small boats in 2025 climbed to its second-highest level since records began, official figures showed on Thursday, piling pressure on Prime Minister Keir Starmer as anti-immigration sentiments gain ground ahead of key local elections in May.",
+      "url": "https://www.france24.com/en/europe/20260101-uk-says-small-boat-migrant-arrivals-approached-record-levels-2025",
+      "published": "Thu, 01 Jan 2026 13:58:00 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2093,18 +2096,37 @@
       "is_ticker": false
     },
     {
-      "title": "Diane Keaton, Pope Francis and Ozzy Osbourne... famous faces who left us in 2025",
-      "description": "Pope Francis, Ozzy Osbourne and Diane Keaton are among those who died this year.",
-      "url": "https://www.bbc.com/news/articles/c2dz5403e29o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 31 Dec 2025 07:55:44 GMT",
+      "title": "Social media fuelled Mamdani's rise. Can he keep the momentum as New York mayor?",
+      "description": "To succeed in office he will need to keep his supporters engaged with day-to-day governing, experts say.",
+      "url": "https://www.bbc.com/news/articles/c4gvg46dy7vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 01 Jan 2026 13:57:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Diane Keaton, Pope Francis and Ozzy Osbourne... famous faces who left us in 2025"
+      "is_ticker": false
+    },
+    {
+      "title": "Enzo Maresca leaves Chelsea after just 18 months as manager",
+      "description": "Maresca exits the club midway through a turbulent season with the team winning just one Premier League game in December.",
+      "url": "https://www.aljazeera.com/sports/2026/1/1/chelsea-part-ways-with-manager-maresca?traffic_source=rss",
+      "published": "Thu, 01 Jan 2026 14:00:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bulgaria adopts euro amid celebration and anxiety over inflation",
+      "description": "Move comes nearly two decades after it entered the EU as hope for stability clashes with fear of rising prices.",
+      "url": "https://www.aljazeera.com/economy/2026/1/1/bulgaria-adopts-euro-amid-celebration-and-anxiety-over-inflation?traffic_source=rss",
+      "published": "Thu, 01 Jan 2026 13:33:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "ICE operations and their impact on US residents",
@@ -2166,17 +2188,6 @@
       "description": "Can Syria’s new banknotes rebuild the economy?",
       "url": "https://www.aljazeera.com/video/money-works/2026/1/1/can-syrias-new-banknotes-help-rebuild-the-economy?traffic_source=rss",
       "published": "Thu, 01 Jan 2026 10:23:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel escalates West Bank demolitions amid illegal settlement expansion",
-      "description": "Bulldozers flatten refugee housing while Israel approves 126 settler housing units and targets UN agencies.",
-      "url": "https://www.aljazeera.com/news/2026/1/1/israel-escalates-west-bank-demolitions-amid-illegal-settlement-expansion?traffic_source=rss",
-      "published": "Thu, 01 Jan 2026 07:46:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2517,17 +2528,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-Australia batter in induced coma after contracting meningitis",
-      "description": "Ex-Australia batter Damien Martyn has been placed in an induced coma after contracting meningitis.",
-      "url": "https://news.sky.com/story/ex-australia-batter-damien-martyn-in-induced-coma-after-contracting-meningitis-13488986",
-      "published": "Wed, 31 Dec 2025 08:39:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "China announces it 'successfully completed' Taiwan military maneuvers",
       "description": "China’s People’s Liberation Army says it has “successfully completed” two days of military exercises in the waters off Taiwan",
       "url": "https://abcnews.go.com/International/wireStory/china-announces-successfully-completed-taiwan-military-maneuvers-128801777",
@@ -2572,17 +2572,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pacifist Japan has slowly transformed from exclusively self-defense to a military buildup",
-      "description": "Japan is accelerating a military buildup program designed to double annual arms spending",
-      "url": "https://abcnews.go.com/International/wireStory/pacifist-japan-slowly-transformed-exclusively-defense-military-buildup-128801390",
-      "published": "Wed, 31 Dec 2025 07:29:33 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "UN chief condemns Israeli amendments targeting UNRWA operations",
       "description": "The UN Secretary-General has condemned amendments adopted by Israel’s Knesset to a law aimed at ceasing the operations of the UN agency assisting Palestine refugees (UNRWA), saying the measures must be immediately repealed.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166691",
@@ -2610,6 +2599,17 @@
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166681",
       "published": "Tue, 30 Dec 2025 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Repeat offender truck driver charged with bank robbery after claiming C-4 explosives, firing on officers: feds",
+      "description": "North Carolina truck driver allegedly robs bank claiming explosives, then engages in shootout with police after fleeing the scene in his semi-truck.",
+      "url": "https://www.foxnews.com/us/repeat-offender-truck-driver-charged-bank-robbery-after-claiming-c-4-explosives-firing-officers-feds",
+      "published": "Thu, 01 Jan 2026 09:00:02 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
