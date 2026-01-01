@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-01T15:28:15.323698Z",
-  "event_count": 223,
+  "last_updated": "2026-01-01T15:46:15.558065Z",
+  "event_count": 224,
   "events": [
     {
       "title": "US military confirms 5 killed in Dec 31 kinetic strike on reported narco-terror vessels",
@@ -149,7 +149,7 @@
     },
     {
       "title": "Dozens killed, some 100 injured after fire ravages NYE party in Switzerland",
-      "description": "Dozens of people were killed and some 100 were injured after a fire ripped through a bar during New Year's Eve celebrations in a luxury resort town in southern Switzerland, police said Thursday. The Italian foreign ministry cited police as saying there were about 40 deaths overnight in the ski resort town of Crans-Montana.",
+      "description": "Dozens of people were killed and some 100 were injured after a fire ripped through a bar during New Year's Eve celebrations in a luxury resort town in southern Switzerland, police said Thursday. The Italian foreign ministry cited police as saying there were about 40 deaths in the overnight blaze in the ski resort town of Crans-Montana.",
       "url": "https://www.france24.com/en/live-news/20260101-deadly-fire-ravages-new-year-celebration-in-bar-at-luxury-swiss-ski-resort",
       "published": "Thu, 01 Jan 2026 09:01:12 GMT",
       "source": "France24",
@@ -288,6 +288,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Iran in shutdown as protesters storm governor's office, crowds chant 'Death to Khamenei'"
+    },
+    {
+      "title": "At least 3 civilians killed as protests spread across Iran",
+      "description": "A volunteer security official was reportedly among those killed during clashes with protesters. The unrest, which began on Sunday with protests in Tehran against Iran's deep economic crisis, has spread to other cities.",
+      "url": "https://www.dw.com/en/at-least-3-civilians-killed-as-protests-spread-across-iran/a-75361629?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 1 Jan 2026 15:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Anthony Joshua discharged from hospital after Nigeria car crash",
@@ -818,17 +829,6 @@
       "is_ticker": false
     },
     {
-      "title": "Bulgarians ring in the new year by withdrawing euros",
-      "description": "As Bulgaria formally adopts the euro currency this January 1st, residents in the capital Sofia queued up in front of ATMs just after midnight to withdraw new banknotes. Also in this edition, the world's 500 richest people added a record $2.2 trillion to their fortunes in 2025. And on the occasion of Netflix's 'Stranger Things' finale, we see how the show became a cash machine for the streaming giant over the past ten years.",
-      "url": "https://www.france24.com/en/tv-shows/business/20260101-bulgarians-ring-in-the-new-year-by-withdrawing-euros",
-      "published": "Thu, 01 Jan 2026 08:58:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Somali daycare in Minnesota broken into, key documents stolen in overnight burglary",
       "description": "A Somali-run daycare in Minneapolis was allegedly broken into amid ongoing fraud investigations. Important employee and child documents reportedly missing.",
       "url": "https://www.foxnews.com/us/somali-daycare-minnesota-broken-key-documents-stolen-overnight-burglary",
@@ -1007,17 +1007,6 @@
       "description": "European countries are on high alert following a series of suspected sabotage attacks on underwater cables and pipelines.",
       "url": "https://www.dw.com/en/finland-seizes-vessel-suspected-of-damaging-undersea-cable/a-75349419?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 31 Dec 2025 12:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Six ways the 2026 World Cup will be different",
-      "description": "The United States is set to host the 2026 World Cup, along with Canada and Mexico. DW fills you in on why this tournament will be different than its predecessors.",
-      "url": "https://www.dw.com/en/six-ways-the-2026-world-cup-will-be-different/a-75077593?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 31 Dec 2025 09:40:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -1673,6 +1662,17 @@
       "is_ticker": false
     },
     {
+      "title": "Top Paris exhibits in 2026 – from Matisse and Renoir to Martin Parr",
+      "description": "The coming year brings a host of new exhibitions to the French capital, including blockbuster shows from modern masters Matisse and Renoir, to photographer Martin Parr’s witty observations on environmental destruction, and an exploration of the history of video game music.",
+      "url": "https://www.france24.com/en/culture/20260101-top-paris-exhibits-in-2026-%E2%80%93-from-matisse-and-renoir-to-martin-parr",
+      "published": "Thu, 01 Jan 2026 15:44:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Mali and Burkina Faso impose retaliatory travel ban on US nationals",
       "description": "Mali and Burkina Faso have banned U.S. citizens from entering their countries",
       "url": "https://abcnews.go.com/International/wireStory/mali-burkina-faso-impose-retaliatory-travel-ban-us-128795911",
@@ -1916,6 +1916,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-01T15:45:56.967902Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
