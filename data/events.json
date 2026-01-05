@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-05T15:31:35.016091Z",
+  "last_updated": "2026-01-05T16:35:18.930694Z",
   "event_count": 222,
   "events": [
     {
@@ -81,15 +81,18 @@
       "ticker_label": "🪖 Trump threatens Iran as more protest deaths reported"
     },
     {
-      "title": "Security Council LIVE: World powers confront a ‘dangerous’ turning point in Venezuela",
-      "description": "The Security Council meets in emergency session in New York at the top of the hour to address the US rendition of Venezuela’s President Nicolás Maduro in Caracas, a move that has sent shockwaves through the region and beyond with the UN Secretary-General declaring that a “dangerous precedent” has been set. At stake are core principles of international law, sovereignty and the Council’s authority to respond to sudden escalations that risk regional instability. Follow the historic meeting live below from the UN Meetings Coverage team, and UN News app users can click here.",
+      "title": "Security Council LIVE: ‘The power of the law must prevail,’ says UN chief",
+      "description": "The Security Council is meeting in emergency session in New York to address the US rendition of Venezuela’s President Nicolás Maduro from Caracas, a move that has sent shockwaves through the region and beyond. The UN chief António Guterres told ambassadors there must be respect for national sovereignty, “political independence and territorial integrity,” after warning on Saturday that the US had set a “dangerous precedent” for the world order. Follow the historic meeting live below from the UN Meetings Coverage team, and UN News app users can click here.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166700",
       "published": "Mon, 05 Jan 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Security Council LIVE: ‘The power of the law must prevail,’ says UN chief"
     },
     {
       "title": "Drop draft proposals on death penalty for Palestinians, UN rights chief urges Israel",
@@ -148,20 +151,6 @@
       "ticker_label": "🪖 DR Congo blames Rwanda-backed rebels for 1,500 deaths"
     },
     {
-      "title": "Venezuela live updates: Nicolás Maduro arrives at Manhattan court",
-      "description": "Maduro and his wife, Cilia Flores, arrive at Daniel Patrick Moynihan courthouse in Manhattan where the full list of charges will be read later today Tense calm spreads at border with Colombia after Maduro capture Analysis: European leaders appear torn in face of new world order A UK minister would not be drawn into saying whether his government believes the US capture of Venezuela’s president was influenced by the country’s rich oil reserves . Asked on Sky News why he thought Donald Trump had captured Nicolás Maduro and said America would “run” Venezuela, Home Office minister Mike Tapp said: This is for Donald Trump to answer , and I think he has said in his press conference, which I watched with interest around narco-terrorism and that threat. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate",
-      "published": "Mon, 05 Jan 2026 15:08:13 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Venezuela live updates: Nicolás Maduro arrives at Manhattan court"
-    },
-    {
       "title": "Nicolas Maduro's first appearance in court on drug trafficking charges",
       "description": "Deposed Venezuelan President Nicolás Maduro is set to make his first appearance Monday in an American courtroom on the narco-terrorism charges the Trump administration used to justify capturing him and bringing him to New York. His lawyers are expected to contest the legality of his arrest, arguing he is immune from prosecution as a sovereign head of a foreign state. But the US doesn’t recognize him as Venezuela’s legitimate leader. Analysis by Marc Perelman, France 24 international affairs editor.",
       "url": "https://www.france24.com/en/video/20260105-nicolas-maduro-s-first-appearance-in-court-on-drug-trafficking-charges",
@@ -176,20 +165,6 @@
       "ticker_label": "💥 Nicolas Maduro's first appearance in court on drug trafficking charges"
     },
     {
-      "title": "Yemeni forces regain control of strategic port after days of airstrikes",
-      "description": "Saudi-backed forces spread across Yemen's Mukalla on Sunday after retaking the port city which was seized by southern separatists last month. The capital of Hadramout province was retaken by Yemen’s internationally recognized government following days of Saudi airstrikes. Story by Nicholas Rushworth.",
-      "url": "https://www.france24.com/en/video/20260105-yemeni-forces-regain-control-of-strategic-port-after-days-of-airstrikes",
-      "published": "Mon, 05 Jan 2026 11:27:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Yemeni forces regain control of strategic port after days of airstrikes"
-    },
-    {
       "title": "WHO research shows COVID vaccines still crucial in preventing severe illness",
       "description": "Up-to-date vaccination remains the most effective way to prevent severe COVID-19 illness, new research from the World Health Organization (WHO) shows, even as the pandemic has officially ended.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166689",
@@ -199,20 +174,6 @@
       "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Nicolas Maduro due in US court on narco-terrorist charges",
-      "description": "Deposed Venezuelan president Nicolas Maduro is expected to appear in a New York court on Monday, just days after being seized in Caracas in a shock US military operation that paved the path for Washington's plans to dominate the oil-rich country. Story by Solange Mougin.",
-      "url": "https://www.france24.com/en/video/20260105-nicolas-maduro-due-in-us-court-on-narco-terrorist-charges",
-      "published": "Mon, 05 Jan 2026 12:56:36 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Nicolas Maduro due in US court on narco-terrorist charges"
     },
     {
       "title": "WATCH: Ohio police smash sunroof, drag injured driver from burning car after rollover crash",
@@ -226,10 +187,24 @@
       "is_ticker": false
     },
     {
+      "title": "Five-storey building damaged during war collapses in central Gaza",
+      "description": "At least two people have been killed after a five-storey building collapsed in central Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/5/five-storey-building-damaged-during-war-collapses-in-central-gaza?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:49:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Five-storey building damaged during war collapses in central Gaza"
+    },
+    {
       "title": "Delcy Rodríguez strikes conciliatory tone with US after Trump warning",
-      "description": "Venezuela’s interim leader offers to work with US after Trump threatened that she could pay ‘very big price’ Analysis: Delcy Rodríguez must walk tightrope as Venezuela’s interim leader Venezuela’s acting president, Delcy Rodríguez , has offered to work with the US, dialing down the confrontational tone she intially adopted after the capture of the dictator Nicolás Maduro. In a statement late on Sunday, Rodríguez said she had “invited the US government to work together on an agenda of cooperation”. Continue reading...",
+      "description": "Venezuela’s interim leader offers to work with US after Trump threatened she could pay ‘very big price’ Analysis: Delcy Rodríguez must walk tightrope as Venezuela’s interim leader Venezuela’s acting president, Delcy Rodríguez , has offered to work with the US, dialing down the confrontational tone she intially adopted after the capture of the dictator Nicolás Maduro. In a statement late on Sunday, Rodríguez said she had “invited the US government to work together on an agenda of cooperation”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/05/venezuela-delcy-rodriguez-trump",
-      "published": "Mon, 05 Jan 2026 14:36:43 GMT",
+      "published": "Mon, 05 Jan 2026 16:19:15 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 25,
@@ -241,7 +216,7 @@
     },
     {
       "title": "Iran urges courts to show 'no leniency' for 'rioters' as deadly protests persist",
-      "description": "Iran said on Monday that it would offer \"no leniency\" to \"rioters\" after more than a week of protests across the country, sparked by a strike among Tehran's shopkeepers over soaring prices. At least 12 people have been killed in clashes between protesters and security forces, with US President Donald Trump vowing to hit Iran \"very hard\" if the authorities kill more demonstrators.",
+      "description": "The head of Iran's judiciary on Monday said he instructed prosecutors and the courts to offer \"no leniency\" to \"rioters\" after more than a week of protests across the country, sparked by a strike among Tehran's shopkeepers over soaring prices. At least 12 people have been killed in clashes, with US President Donald Trump vowing to hit Iran \"very hard\" if the authorities kill more demonstrators.",
       "url": "https://www.france24.com/en/live-news/20260105-iran-says-no-leniency-for-rioters-as-protests-persist",
       "published": "Mon, 05 Jan 2026 15:03:13 GMT",
       "source": "France24",
@@ -273,17 +248,6 @@
       "url": "https://www.bbc.com/news/articles/c0r4nwy7k48o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 04 Jan 2026 19:49:57 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "Why Europe bows to US influence: \"The Owned Continent\"",
-      "description": "Reactions to the US attack on Caracas have been somewhat muted, notably from Europe. Most heads of state, including from EU institutions, said that they were watching the situation carefully and called for restraint and for international laws to be respected. Our EU correspondent has penned a book about the US' relationship with the EU: \"The Owned Continent\". He gives an assessment of Europe’s dependence on the US and describes how Donald Trump has exploited it, but he also proposes a way out.",
-      "url": "https://www.france24.com/en/video/20260105-why-europe-bows-to-us-influence-the-owned-continent",
-      "published": "Mon, 05 Jan 2026 11:16:20 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical",
@@ -329,6 +293,20 @@
       "is_ticker": false
     },
     {
+      "title": "'No justification for US crimes in Venezuela\", Russian representative at UNSC",
+      "description": "The 15-member Security Council met at U.N. headquarters in New York just hours ​before Maduro was due to appear in a Manhattan federal court on drug charges including narco-terrorism ‍conspiracy. Maduro has denied any criminal involvement. Russian representative to the UN, Vasily Nebenzya, condemned the American attack.",
+      "url": "https://www.france24.com/en/video/20260105-no-justification-for-us-crimes-in-venezuela-russian-representative-at-unsc",
+      "published": "Mon, 05 Jan 2026 16:26:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 'No justification for US crimes in Venezuela\", Russian representative at UNSC"
+    },
+    {
       "title": "Afghanistan to remain major crisis in 2026, UN, partners warn",
       "description": "Afghanistan is expected to remain one of the world’s largest humanitarian crises in 2026, UN agencies and humanitarian partners warned on Tuesday, launching a $1.7 billion appeal to assist nearly 18 million people in urgent need.",
       "url": "https://news.un.org/feed/view/en/story/2025/12/1166684",
@@ -343,18 +321,18 @@
       "ticker_label": "🪖 Afghanistan to remain major crisis in 2026, UN, partners warn"
     },
     {
-      "title": "Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south",
-      "description": "Israeli attacks have killed at least 414 Palestinians and injured 1,145 in daily truce violations since October 10.",
-      "url": "https://www.aljazeera.com/news/2026/1/5/israel-extends-gaza-occupation-beyond-yellow-line-in-north-bombs-south?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 10:48:15 +0000",
-      "source": "Al Jazeera",
+      "title": "UN secretary general ‘deeply concerned’ after US operation in Venezuela as Nicolás Maduro arrives at Manhattan court – live",
+      "description": "António Guterres concerned by ‘possible intensification of instability’ of Venezuela; ousted president arrives at a Manhattan courthouse where the full list of charges will be read A UK minister would not be drawn into saying whether his government believes the US capture of Venezuela’s president was influenced by the country’s rich oil reserves . Asked on Sky News why he thought Donald Trump had captured Nicolás Maduro and said America would “run” Venezuela, Home Office minister Mike Tapp said: This is for Donald Trump to answer , and I think he has said in his press conference, which I watched with interest around narco-terrorism and that threat. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/jan/05/venezuela-live-updates-trump-us-interim-president-collaborate",
+      "published": "Mon, 05 Jan 2026 16:17:43 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Israel extends Gaza occupation beyond ‘yellow line’ in north, bombs south"
+      "ticker_label": "💥 UN secretary general ‘deeply concerned’ after US operation in Venezuela as Nicolás Maduro arrives at Manhattan court – live"
     },
     {
       "title": "US energy stocks rise as Trump vows to unlock Venezuela’s oil",
@@ -366,6 +344,20 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Important power outages continue in Venezuela",
+      "description": "Venezuela's acting president has invited the US government to collaborate on an agenda of cooperation. The move comes after Nicolas Maduro and his wife were kidnapped from Caracas in a raid over the weekend, to face narco terrorism charges in the United States. Delano D'Souza reports on the uncertainty gripping the country.",
+      "url": "https://www.france24.com/en/video/20260105-important-power-outages-continue-in-venezuela",
+      "published": "Mon, 05 Jan 2026 16:24:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Important power outages continue in Venezuela"
     },
     {
       "title": "Trump's Maduro raid broke international law, Scottish leader suggests - as PM says US must 'set out justifications'",
@@ -393,6 +385,20 @@
       "ticker_label": "🪖 'Deeply shocked': World leaders react to US attack on Venezuela"
     },
     {
+      "title": "Trump’s attack leaves China worried about its interests in Venezuela | Amy Hawkins",
+      "description": "Maduro had just affirmed ‘strong bonds of brotherhood’ with Beijing when US made its shocking intervention Venezuela crisis – latest updates Hours before his life and the fate of his country was changed dramatically, Venezuela’s leader, Nicolás Maduro, was exchanging smiles and handshakes with a Chinese delegation in the presidential palace in Caracas. On Friday evening, shortly before he was seized by US forces , Maduro wrote on Telegram of his meeting with China’s special envoy for Latin American affairs, Qiu Xiaoqi: “A fraternal meeting that reaffirms the strong bonds of brotherhood and friendship between China and Venezuela. Through thick and thin!” Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/05/venezuela-trump-attack-china-interests-analysis",
+      "published": "Mon, 05 Jan 2026 15:51:06 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Trump’s attack leaves China worried about its interests in Venezuela | Amy Hawkins"
+    },
+    {
       "title": "Are Trump's threats to Iran helping or harming protesters?",
       "description": "The US might hit Iran \"very hard\" if the regime escalates its crackdown on anti-government protesters, according to US President Donald Trump. How do Iranians feel about these warnings?",
       "url": "https://www.dw.com/en/are-trump-s-threats-to-iran-helping-or-harming-protesters/a-75396655?maca=en-rss-en-all-1573-xml-mrss",
@@ -416,6 +422,20 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "All 116 people wounded in Crans-Montana New Year's fire now identified",
+      "description": "Swiss police on Monday said they had identified all 116 people wounded in a fire in at a bar in the Alpine ski town of Crans-Montana on New Year's Eve. A total of 40 people were killed in the blaze with 83 of those wounded still in hospital, the police said.",
+      "url": "https://www.france24.com/en/europe/20260105-all-116-people-wounded-in-crans-montana-new-year-s-fire-now-identified",
+      "published": "Mon, 05 Jan 2026 16:24:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 All 116 people wounded in Crans-Montana New Year's fire now identified"
     },
     {
       "title": "Drone strike kills 1 in Russian border region ahead of Ukraine peace talks",
@@ -548,15 +568,32 @@
       "is_ticker": false
     },
     {
-      "title": "Legal concerns surround US capture of Venezuela's Maduro",
-      "description": "Was the US capture of Venezuelan leader Nicolas Maduro legal under international law? Experts say no and believe any self-defense claim by the Trump administration is unlikely to hold up.",
-      "url": "https://www.dw.com/en/legal-concerns-surround-us-capture-of-venezuela-s-maduro/a-75386205?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Jan 2026 19:12:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "\"US will not waver in our actions to protect Americans\" says US reprensentative at UNSC",
+      "description": "The 15-member Security Council met at UN headquarters in New York just hours ​before Maduro was due to appear in a Manhattan federal court on drug charges including narco-terrorism ‍conspiracy. The US gave it's point of view on the operation conducted by its army in Venezuela two days ago.",
+      "url": "https://www.france24.com/en/video/20260105-us-will-not-waver-in-our-actions-to-protect-americans-says-us-reprensentative-at-unsc",
+      "published": "Mon, 05 Jan 2026 16:30:19 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 \"US will not waver in our actions to protect Americans\" says US reprensentative at UNSC"
+    },
+    {
+      "title": "China condemns \"illegal and bullying acts\" of the US in Venezuela",
+      "description": "The 15-member UN Security Council met in New York hours ​before Maduro is due to appear in a Manhattan federal court on drug charges including narco-terrorism ‍conspiracy. During the meeting, Chinese representative Fu Chong condemned \"unilateral, illegal and bullying acts\" of the US in Venezuela.",
+      "url": "https://www.france24.com/en/video/20260105-china-condemns-illegal-and-bullying-acts-of-the-us-in-venezuela",
+      "published": "Mon, 05 Jan 2026 16:27:28 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 China condemns \"illegal and bullying acts\" of the US in Venezuela"
     },
     {
       "title": "Italy faces mounting criticism ahead of Winter Olympics",
@@ -609,20 +646,6 @@
       "ticker_label": "🪖 Tensions between Saudis and Emiratis over future of Yemen reach boiling point"
     },
     {
-      "title": "Nicolás Maduro to appear in New York court on drugs and weapons charges",
-      "description": "Venezuelan president captured by US in shocking raid is seen being led in handcuffs on his way to court The deposed Venezuelan president, Nicolás Maduro , is expected to appear in Manhattan federal court on Monday afternoon on drugs and weapons charges after his extraordinary capture by US special forces this weekend. Maduro and his wife, Cilia Flores, were seized in a shocking pre-dawn raid at a compound on Saturday during an assault on Caracas . At least 40 people, including civilians and Venezuelan military members, reportedly died in the attack. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/05/nicolas-maduro-venezuela-new-york-court",
-      "published": "Mon, 05 Jan 2026 12:57:11 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Nicolás Maduro to appear in New York court on drugs and weapons charges"
-    },
-    {
       "title": "After Venezuela attack, Cuba watches the U.S. warily",
       "description": "With his attack on Venezuela, President Trump says the Monroe Doctrine is back, reviving a more than 200-year-old foreign policy idea. In Cuba, residents brace for what that could mean for them.",
       "url": "https://www.npr.org/2026/01/05/nx-s1-5666190/cuba-venezuela-monroe-doctrine-trump",
@@ -641,17 +664,6 @@
       "description": "South Korean President Lee Jae Myung said he hoped for a \"new phase\" in ties with China during his state visit. Xi Jinping called for the countries to protect regional peace in a \"more complex and turbulent\" world.",
       "url": "https://www.dw.com/en/south-korea-and-china-seek-improved-ties-amid-state-visit/a-75394468?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 5 Jan 2026 15:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Germany: State antisemitism commissioner's house attacked",
-      "description": "Brandenburg's antisemitism commissioner, Andreas Büttner, said a fire was set next to his property. This was the second attack on the official in the past 16 months.",
-      "url": "https://www.dw.com/en/germany-state-antisemitism-commissioner-s-house-attacked/a-75386391?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Jan 2026 17:14:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
@@ -734,20 +746,6 @@
       "ticker_label": "🚨 Off-duty ICE agent takes down armed man firing rifle at LA apartment complex"
     },
     {
-      "title": "US capture of Maduro championed, condemned across world stage after surgical Venezuela strikes",
-      "description": "World leaders react with condemnation, concern and praise after President Donald Trump announces strikes on Venezuela and capture of Nicolás Maduro.",
-      "url": "https://www.foxnews.com/world/us-capture-maduro-championed-condemned-across-world-stage-after-surgical-venezuela-strikes",
-      "published": "Sat, 03 Jan 2026 08:22:12 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US capture of Maduro championed, condemned across world stage after surgical Venezuela strikes"
-    },
-    {
       "title": "What the US did in Venezuela normalises power grabs: Expert",
       "description": "US skirted international law and its own political limits in its operation in Venezuela, expert says.",
       "url": "https://www.aljazeera.com/features/2026/1/5/what-the-us-did-in-venezuela-normalises-power-grabs-expert?traffic_source=rss",
@@ -785,17 +783,6 @@
       "description": "Greece’s transport minister says a major radio communications failure that shut the country’s airspace on Sunday is unlikely to have been a cyberattack",
       "url": "https://abcnews.go.com/International/wireStory/greece-radio-failure-grounded-flights-cyberattack-128904329",
       "published": "Mon, 05 Jan 2026 06:57:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Berlin power outage affecting 45,000 homes blamed on ‘politically motivated’ attack",
-      "description": "A fire that left over 45,000 households and 2,200 businesses in southwest Berlin without electricity was a politically motivated attack by left-wing extremists, city officials have said",
-      "url": "https://abcnews.go.com/International/wireStory/berlin-power-outage-affecting-45000-homes-blamed-politically-128889344",
-      "published": "Sun, 04 Jan 2026 11:14:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
@@ -892,20 +879,6 @@
       "ticker_label": "💥 Venezuela’s Maduro to appear in New York court: What to expect"
     },
     {
-      "title": "What is the US charging Nicolas Maduro with?",
-      "description": "Maduro and five others are charged in the US with a number of crimes, including 'narco-terrorism'.",
-      "url": "https://www.aljazeera.com/news/2026/1/5/what-is-the-us-charging-nicolas-maduro-with?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 09:19:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 What is the US charging Nicolas Maduro with?"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -915,6 +888,20 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Trump’s risky gamble: Can the US 'run' Venezuela after Maduro's capture?",
+      "description": "The US military’s controversial capture of Venezuelan leader Nicolas Maduro has ushered in a period in which the United States will \"run\" Venezuela, according to President Donald Trump. But recent US experiences in Iraq and Afghanistan highlight the challenges of stewardship and risks of installing a US-friendly government.",
+      "url": "https://www.france24.com/en/americas/20260105-trump-risky-gamble-can-the-us-run-venezuela-maduro-capture",
+      "published": "Mon, 05 Jan 2026 15:57:06 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump’s risky gamble: Can the US 'run' Venezuela after Maduro's capture?"
     },
     {
       "title": "25 are dead and 14 more missing after boat capsizes in Nigeria's Yobe state",
@@ -1026,6 +1013,20 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Why support for Palestine Action hunger strikers runs deep in Belfast",
+      "description": "Belfast held a protest for the four Palestine Action detainees whose health is rapidly deteriorating behind bars.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/5/why-support-for-palestine-action-hunger-strikers-runs-deep-in-belfast?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:54:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Why support for Palestine Action hunger strikers runs deep in Belfast"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1158,6 +1159,17 @@
       "is_ticker": false
     },
     {
+      "title": "Venezuela: Germany hesitates to condemn US attack",
+      "description": "The German government seems to have three things on its mind in regard to US capture of of Venezuelan President Nicolás Maduro: be cautious, wait-and-see and don't upset Donald Trump.",
+      "url": "https://www.dw.com/en/venezuela-germany-hesitates-to-condemn-us-attack/a-75399144?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Jan 2026 16:15:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Germany news: Berlin still shivering amid power outage",
       "description": "Authorities say left-wing extremists likely carried out an arson attack that has left many Berliners without power. And alcohol can be purchased more cheaply in Germany than almost anywhere else in the EU. DW has more",
       "url": "https://www.dw.com/en/germany-news-berlin-still-shivering-amid-power-outage/live-75390211?maca=en-rss-en-all-1573-xml-mrss",
@@ -1184,31 +1196,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Rise of the Northstar on France's soaring metal scene"
-    },
-    {
-      "title": "After Venezuela, Trump warns Colombia, Mexico could be next",
-      "description": "Caption: After a US military operation in #Venezuela that led to the arrest of President Nicolas #Maduro, President Donald #Trump warned others could take place.",
-      "url": "https://www.france24.com/en/video/20260105-after-venezuela-trump-warns-colombia-mexico-could-be-next",
-      "published": "Mon, 05 Jan 2026 13:15:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 After Venezuela, Trump warns Colombia, Mexico could be next"
-    },
-    {
-      "title": "Papers call for 'Venezuelan resistance' after Maduro's capture",
-      "description": "PRESS REVIEW – Monday, 5 January 2025: Venezuelan papers react to Nicolas Maduro's abduction, while the South American press is outraged. Meanwhile, in Germany, an arson attack by an extreme-left group has left thousands without power. Next, Elon Musk's AI chatbot Grok has been producing thousands of non-consensual pornographic images. Finally, the Swiss press celebrate a milestone.",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260105-papers-call-for-venezuelan-resistance-after-maduro-s-capture",
-      "published": "Mon, 05 Jan 2026 11:54:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Ukraine did not attack Putin's residence, says Trump",
@@ -1286,6 +1273,17 @@
       "is_ticker": false
     },
     {
+      "title": "Cuba's shadow in Venezuela: Havana’s intelligence and military ties exposed after Maduro raid",
+      "description": "Cuba confirms 32 intelligence personnel killed in U.S. operation that seized Maduro, exposing extensive Cuban involvement in Venezuela's military systems.",
+      "url": "https://www.foxnews.com/world/cubas-shadow-venezuela-havanas-intelligence-military-ties-exposed-after-maduro-raid",
+      "published": "Mon, 05 Jan 2026 10:30:39 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Maduro capture echoes Noriega takedown that used rock music as psychological warfare against dictator",
       "description": "Nicolás Maduro's capture in Venezuela draws striking parallels to the dramatic 1989 U.S. operation that brought down Panamanian dictator Manuel Noriega.",
       "url": "https://www.foxnews.com/world/maduro-capture-echoes-noriega-takedown-used-rock-music-psychological-warfare-dictator",
@@ -1298,28 +1296,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Maduro capture echoes Noriega takedown that used rock music as psychological warfare against dictator"
-    },
-    {
-      "title": "Trump’s bid to commandeer Venezuela’s oil sector faces hurdles, experts say",
-      "description": "Exploiting Latin American country's reserves faces obstacles from decrepit infrastructure to leadership uncertainty.",
-      "url": "https://www.aljazeera.com/economy/2026/1/5/trumps-bid-to-commandeer-venezuelas-oil-sector-faces-hurdles-experts-say?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 09:48:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Venezuela’s acting president meets cabinet ministers",
-      "description": "Venezuela’s interim president Delcy Rodriguez met with the country’s cabinet of ministers after Maduro's abduction.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/5/venezuelas-acting-president-meets-cabinet-ministers?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 08:42:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
@@ -1504,6 +1480,31 @@
       "ticker_label": "🪖 Video shows Maduro's arrival in US and journey into custody"
     },
     {
+      "title": "Jailed Palestine Action activist ends 60-day hunger strike as health fails",
+      "description": "Prisoners For Palestine says activist Teuta Hoxha needs hospitalisation but has been denied treatment while in prison.",
+      "url": "https://www.aljazeera.com/news/2026/1/5/1819?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:55:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Jailed Palestine Action activist ends 60-day hunger strike as health fails"
+    },
+    {
+      "title": "Delhi riots case: Why won’t India release Umar Khalid and Sharjeel Imam?",
+      "description": "The Delhi riot conspiracy case has become emblematic of institutional persecution of Muslims under PM Modi's government.",
+      "url": "https://www.aljazeera.com/news/2026/1/5/delhi-riots-case-why-wont-india-release-umar-khalid-and-sharjeel-imam?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:54:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Patients evacuated after Russian strike hits Kyiv clinic",
       "description": "A Russian overnight strike hit a medical facility in Kyiv, killing at least one person and injuring several others.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/5/patients-evacuated-after-russian-strike-hits-kyiv-clinic?traffic_source=rss",
@@ -1541,6 +1542,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Venezuelans describe the day after U.S. strikes"
+    },
+    {
+      "title": "India: Supreme Court denies bail to Muslim student activists",
+      "description": "Umar Khalid and Sharjeel Imam have been in detention for more than five years without a full trial or conviction. They're accused of playing a \"central role\" in stoking the communal riots in Delhi in early 2020.",
+      "url": "https://www.dw.com/en/india-supreme-court-denies-bail-to-muslim-student-activists/a-75398284?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Jan 2026 16:27:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Switzerland bar fire: All victims of New Year's fire identified",
@@ -1789,6 +1801,20 @@
       "is_ticker": false
     },
     {
+      "title": "How are Venezuelans feeling, 48 hours after the US capture of Nicolas Maduro?",
+      "description": "In the biggest U.S. intervention in Latin America since the 1989 invasion of Panama, Special Forces swooped into Caracas on helicopters at the weekend to smash through Maduro's security cordon and nab him at the door of a safe room almost two days later, how are Venezuelans feeling? Details by James Andre, FRANCE 24 reporter in Cucuta, Colombia.",
+      "url": "https://www.france24.com/en/video/20260105-how-are-venezuelans-feeling-48-hours-after-the-us-capture-of-nicolas-maduro",
+      "published": "Mon, 05 Jan 2026 16:23:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 How are Venezuelans feeling, 48 hours after the US capture of Nicolas Maduro?"
+    },
+    {
       "title": "Greenland says 'no more fantasies about annexation' after Trump remarks",
       "description": "Greenland's leader declared \"enough is enough,\" and Denmark's allies in Europe affirmed that the Arctic island's future must be determined by its people, rebuffing ​renewed remarks by US President Donald Trump about acquiring the vast territory. Analysis by Clovis Casali, FRANCE 24 reporter.",
       "url": "https://www.france24.com/en/video/20260105-greenland-says-no-more-fantasies-about-annexation-after-trump-remarks",
@@ -1932,6 +1958,39 @@
       "is_ticker": false
     },
     {
+      "title": "Trump has made US militarism worse",
+      "description": "US military action has long been shaped by policy and ideology. Now it is shaped by whim.",
+      "url": "https://www.aljazeera.com/opinions/2026/1/5/trump-has-made-us-militarism-worse?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:55:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Colombia can be “part of solution” for Venezuela transition",
+      "description": "“Colombia can be part of the solution.”",
+      "url": "https://www.aljazeera.com/video/quotable/2026/1/5/colombia-can-be-part-of-solution-for-venezuela-transition?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:42:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "LIVE: Nigeria vs Mozambique – AFCON 2025",
+      "description": "Follow our live build-up, team news, score and text commentary stream from the Africa ⁠Cup of Nations in Morocco.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/5/live-nigeria-vs-mozambique-afcon-2025?traffic_source=rss",
+      "published": "Mon, 05 Jan 2026 15:31:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Israeli settlers consume water seven times more than Palestinians",
       "description": "A Palestinian water expert says settlers are using an 'apartheid' tactic to force Palestinians out of their land.",
       "url": "https://www.aljazeera.com/features/2026/1/5/israeli-settlers-consume-water-seven-times-more-than-palestinians?traffic_source=rss",
@@ -2016,39 +2075,6 @@
       "description": "The Commission of Inquiry on Enforced Disappearances members says disappearances were 'primarily political'.",
       "url": "https://www.aljazeera.com/news/2026/1/5/thousands-of-forced-disappearances-under-hasina-rule-in-bangladesh-inquiry?traffic_source=rss",
       "published": "Mon, 05 Jan 2026 11:13:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What will happen to parts of Venezuela’s economy affected by US sanctions?",
-      "description": "Economist Francisco Rodriguez: regaining access to blocked assets will be essential for Venezuela’s economic recovery",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/5/what-will-happen-to-parts-of-venezuelas-economy-affected-by-us-sanctions?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 10:37:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Amorim sacked by Man United; Fletcher named as interim manager",
-      "description": "Ruben Amorim's tumultuous reign as manager comes to an end after 14 months, as academy coach Darren Fletcher takes over.",
-      "url": "https://www.aljazeera.com/sports/2026/1/5/manchester-united-sack-amorim-fletcher-brought-in-as-interim-manager?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 10:28:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mixed messages from Trump administration on US ‘running’ Venezuela",
-      "description": "Donald Trump claimed the US will ‘run’ Venezuela, his top diplomat Marco Rubio insisted the US would not be in charge.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/5/mixed-messages-from-trump-administration-on-us-running-venezuela?traffic_source=rss",
-      "published": "Mon, 05 Jan 2026 08:50:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2246,6 +2272,17 @@
       "is_ticker": false
     },
     {
+      "title": "Can Germany escape its economic slump in 2026?",
+      "description": "The German economy desperately needs a boost in 2026 after years of downturn. Yet despite massive government spending pledges, optimism is fading among economists.",
+      "url": "https://www.dw.com/en/can-germany-escape-its-economic-slump-in-2026/a-75341270?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 5 Jan 2026 15:42:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Massive bluefin tuna nets over $3 million at Tokyo auction",
       "description": "Kiyoshi Kimura broke his own record for a giant bluefin tuna at the celebratory start-of-year auction at Tokyo's Toyosu fish market. He said customers would pay standard prices despite him splashing out.",
       "url": "https://www.dw.com/en/massive-bluefin-tuna-nets-over-3-million-at-tokyo-auction/a-75392213?maca=en-rss-en-all-1573-xml-mrss",
@@ -2261,17 +2298,6 @@
       "description": "Ten people were accused of spreading false information about the French first lady, including about her gender and sexuality.",
       "url": "https://www.dw.com/en/france-10-found-guilty-of-cyberbullying-brigitte-macron/a-75392821?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 5 Jan 2026 11:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Asylum applications in Germany down by half in 2025",
-      "description": "The Interior Ministry has attributed the drop in applications to stricter migration policies, but other factors also played a role.",
-      "url": "https://www.dw.com/en/asylum-applications-in-germany-down-by-half-in-2025/a-75386053?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 4 Jan 2026 15:11:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2315,31 +2341,6 @@
       "ticker_label": "💥 Nicolas Maduro walked from a helicopter to the courthouse: \"Its all part of the spectacle\""
     },
     {
-      "title": "Nicolas Maduro arrives at New York courthouse to face drug charges",
-      "description": "Venezuela's deposed leader Nicolas ⁠Maduro arrives in a New York court on Monday to face drug charges while the U.N. was to scrutinize the legality of U.S. President Donald Trump's extraordinary operation to capture him.",
-      "url": "https://www.france24.com/en/video/20260105-nicolas-maduro-arrives-at-new-york-courthouse-to-face-drug-charges",
-      "published": "Mon, 05 Jan 2026 13:05:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Venezuela's acting president Delcy Rodriguez invites Donald Trump to \"collaborate\"",
-      "description": "Venezuela's deposed leader Nicolas Maduro was due in a New York court on Monday ⁠to face drug charges while the U.N. was to scrutinize the legality of U.S. President Donald Trump's extraordinary operation to capture him. In the biggest U.S. intervention in Latin America since the 1989 invasion of Panama, Special Forces swooped into Caracas on helicopters at the weekend to smash through Maduro's security cordon and nab him at the door of a safe room. Maduro loyalists, including his vice-president Delcy Rodriguez, remain in charge of Venezuela, first spitting defiance then pivoting to possible cooperation. Details by FRANCE 24 correspondent in Washington DC, Fraser Jackson.",
-      "url": "https://www.france24.com/en/video/20260105-venezuela-s-acting-president-delcy-rodriguez-invites-donald-trump-to-collaborate",
-      "published": "Mon, 05 Jan 2026 11:26:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Venezuela's acting president Delcy Rodriguez invites Donald Trump to \"collaborate\""
-    },
-    {
       "title": "Ten guilty of cyber bullying France's first lady after false transgender claims",
       "description": "Ten people have been found guilty of cyber bullying France's first lady Brigitte Macron.",
       "url": "https://news.sky.com/story/ten-people-found-guilty-of-cyber-bullying-frances-first-lady-brigitte-macron-13490565",
@@ -2351,10 +2352,10 @@
       "is_ticker": false
     },
     {
-      "title": "How spies tracked Maduro's food, clothes and pets in run-up to capture",
-      "description": "Months of spying, ground forces and more than 150 aircraft were involved in the daring US operation against Venezuela's President Nicolas Maduro.",
-      "url": "https://news.sky.com/story/us-general-reveals-how-america-captured-venezuelas-president-13490105",
-      "published": "Sat, 03 Jan 2026 19:35:00 +0000",
+      "title": "Humiliation for Maduro as he is transferred to US court",
+      "description": "Humiliation is at the heart of this and it showed.",
+      "url": "https://news.sky.com/story/humiliation-for-maduro-as-he-is-transferred-to-us-court-13490816",
+      "published": "Mon, 05 Jan 2026 14:59:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2362,10 +2363,10 @@
       "is_ticker": false
     },
     {
-      "title": "'Don't play games': White House gives Maduro the meme treatment",
-      "description": "The capture of Venezuelan president Nicolas Maduro is being relived by its orchestrators with a stirring soundtrack and couched in the language of internet memes.",
-      "url": "https://news.sky.com/story/dont-play-games-white-house-gives-maduro-the-meme-treatment-13490234",
-      "published": "Sun, 04 Jan 2026 08:45:00 +0000",
+      "title": "Massive bluefin tuna sells for record &#163;2.4m",
+      "description": "A massive 243kg (535lb) bluefin tuna has been sold for a record 510 million yen (£2.4m) to a Japanese sushi restaurant.",
+      "url": "https://news.sky.com/story/massive-bluefin-tuna-sells-for-record-16324m-at-japan-auction-13490751",
+      "published": "Mon, 05 Jan 2026 13:40:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2395,6 +2396,17 @@
       "is_ticker": false
     },
     {
+      "title": "Paris court finds 10 guilty of cyberbullying France’s first lady Brigitte Macron",
+      "description": "A Paris court has found 10 people guilty of cyberbullying France’s first lady, Brigitte Macron, by spreading false online claims about her gender and sexuality, including allegations she was born a man",
+      "url": "https://abcnews.go.com/International/wireStory/paris-court-rule-case-involving-alleged-cyberbullying-brigitte-128902658",
+      "published": "Mon, 05 Jan 2026 07:21:53 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Holocaust survivor Eva Schloss, stepsister of Anne Frank, dies at 96",
       "description": "Auschwitz survivor Eva Schloss, stepsister of Anne Frank, has died at 96",
       "url": "https://abcnews.go.com/International/wireStory/holocaust-survivor-eva-schloss-stepsister-anne-frank-dies-128904138",
@@ -2407,28 +2419,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Holocaust survivor Eva Schloss, stepsister of Anne Frank, dies at 96"
-    },
-    {
-      "title": "Paris court finds 10 guilty of cyberbullying France’s first lady Brigitte Macron",
-      "description": "A Paris court has found 10 people guilty of cyberbullying France’s first lady, Brigitte Macron, by spreading false online claims about her gender and sexuality, including allegations she was born a man",
-      "url": "https://abcnews.go.com/International/wireStory/paris-court-rule-case-involving-alleged-cyberbullying-brigitte-128902658",
-      "published": "Mon, 05 Jan 2026 07:21:53 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Photos show people in Lebanon enjoying winter weather on the slopes",
-      "description": "People in Lebanon enjoyed winter weather and snow as they took to the slopes at the Mzaar-Kfardebian ski resort on Saturday. This is a photo gallery curated by AP photo editors.",
-      "url": "https://abcnews.go.com/International/wireStory/photos-show-people-lebanon-enjoying-winter-weather-slopes-128899340",
-      "published": "Sun, 04 Jan 2026 21:05:53 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "India's top court denies bail to 2 Muslim activists after 5 years in jail without trial",
@@ -2459,10 +2449,32 @@
       "ticker_label": "💥 South Korean movie star Ahn Sung-ki, dubbed 'The Nation's Actor,' dies at 74"
     },
     {
+      "title": "Photos show people in Lebanon enjoying winter weather on the slopes",
+      "description": "People in Lebanon enjoyed winter weather and snow as they took to the slopes at the Mzaar-Kfardebian ski resort on Saturday. This is a photo gallery curated by AP photo editors.",
+      "url": "https://abcnews.go.com/International/wireStory/photos-show-people-lebanon-enjoying-winter-weather-slopes-128899340",
+      "published": "Sun, 04 Jan 2026 21:05:53 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Syrian and Israeli officials set to resume US-mediated talks in Paris",
       "description": "Syrian and Israeli officials are set to resume U.S.-mediated talks in Paris, aiming for a security agreement to ease tensions",
       "url": "https://abcnews.go.com/International/wireStory/syrian-israeli-officials-set-resume-us-mediated-talks-128904787",
       "published": "Mon, 05 Jan 2026 07:21:48 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Vatican claims a Holy Year success with 33 million pilgrims",
+      "description": "The Vatican has given a final accounting of its 2025 Holy Year",
+      "url": "https://abcnews.go.com/International/wireStory/vatican-claims-holy-year-success-33-million-pilgrims-128908745",
+      "published": "Mon, 05 Jan 2026 10:32:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
