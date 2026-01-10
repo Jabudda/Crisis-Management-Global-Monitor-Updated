@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-10T21:24:16.147886Z",
+  "last_updated": "2026-01-10T21:42:33.003368Z",
   "event_count": 223,
   "events": [
     {
@@ -115,17 +115,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria"
-    },
-    {
-      "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
-      "description": "Hundreds of people are believed to have been killed and injured by the security forces, with more than 70 dead in one hospital.",
-      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Jan 2026 21:12:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Rescuers race to find dozens missing in deadly Philippines landfill collapse",
@@ -378,6 +367,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump’s attack leaves China worried about its interests in Venezuela | Amy Hawkins"
+    },
+    {
+      "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
+      "description": "Hundreds of people are believed to have been killed and injured by the security forces, with more than 70 bodies brought to one hospital.",
+      "url": "https://www.bbc.com/news/articles/cj9rengvnp9o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Jan 2026 21:12:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Swiss search souls and question government after ski resort fire",
@@ -792,7 +792,7 @@
       "ticker_label": "🪖 Ukraine: Massive overnight attack leaves millions in the dark"
     },
     {
-      "title": "Police arrest ex-husband of Ohio woman slain alongside dentist husband in double murder, records show",
+      "title": "Police arrest surgeon ex-husband of Ohio woman slain alongside dentist husband in double murder, records show",
       "description": "Ex-husband arrested in double murder of Ohio dentist and wife in Columbus home. Michael McKee charged in shooting deaths of Spencer and Monique Tepe.",
       "url": "https://www.foxnews.com/us/police-arrest-ex-husband-ohio-woman-slain-alongside-dentist-husband-double-murder-records-show",
       "published": "Sat, 10 Jan 2026 14:09:49 -0500",
@@ -803,7 +803,7 @@
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Police arrest ex-husband of Ohio woman slain alongside dentist husband in double murder, records show"
+      "ticker_label": "🚨 Police arrest surgeon ex-husband of Ohio woman slain alongside dentist husband in double murder, records show"
     },
     {
       "title": "Preliminary autopsy reveals possible cause of death for missing 4-year-old Alabama boy Johnathan Boley",
@@ -1294,20 +1294,6 @@
       "is_ticker": false
     },
     {
-      "title": "Drone hits Aleppo governorate building after Syrian army declares ceasefire",
-      "description": "The strike marks a widening of hostilities that had been contained to Ashrafieh and Sheikh Maqsoud neighbourhoods.",
-      "url": "https://www.aljazeera.com/news/2026/1/10/drone-hits-aleppo-governorate-building-after-syrian-army-declares-ceasefire?traffic_source=rss",
-      "published": "Sat, 10 Jan 2026 14:50:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Drone hits Aleppo governorate building after Syrian army declares ceasefire"
-    },
-    {
       "title": "Bangladesh cricket ‘affected’ by off-field tensions ahead of T20 World Cup",
       "description": "Bangladesh Test captain Najmul Hossain Shanto has spoken of the pressure on teammates as T20 World Cup looms in India.",
       "url": "https://www.aljazeera.com/sports/2026/1/10/bangladesh-cricket-affected-by-off-field-tensions-ahead-of-t20-world-cup?traffic_source=rss",
@@ -1460,7 +1446,7 @@
       "is_ticker": false
     },
     {
-      "title": "US military carries out large-scale strikes against ISIS across Syria",
+      "title": "US military carries out large-scale strikes against ISIS targets across Syria",
       "description": "The US military has ​carried out multiple strikes ​in ​Syria targeting the Islamic State militant group.",
       "url": "https://news.sky.com/story/us-military-carries-out-large-scale-strikes-against-isis-across-syria-13491264",
       "published": "Tue, 06 Jan 2026 18:28:00 +0000",
@@ -1471,7 +1457,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US military carries out large-scale strikes against ISIS across Syria"
+      "ticker_label": "🪖 US military carries out large-scale strikes against ISIS targets across Syria"
     },
     {
       "title": "EU leaders visit Syria and pledge support for recovery after years of civil war",
@@ -2059,7 +2045,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-10T21:23:59.667713Z",
+      "published": "2026-01-10T21:42:09.823643Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -2247,6 +2233,17 @@
       "description": "South African official says drills with Russia, Iran, China and others key to protecting 'maritime economic activities'.",
       "url": "https://www.aljazeera.com/news/2026/1/10/south-africa-defends-brics-naval-drills-as-essential-amid-tensions?traffic_source=rss",
       "published": "Sat, 10 Jan 2026 15:21:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Relative calm restored in Syria’s Aleppo as Kurdish fighters disarm",
+      "description": "Fighting winds down after earlier escalation that saw governorate building hit by drone allegedly launched by SDF.",
+      "url": "https://www.aljazeera.com/news/2026/1/10/drone-hits-aleppo-governorate-building-after-syrian-army-declares-ceasefire?traffic_source=rss",
+      "published": "Sat, 10 Jan 2026 14:50:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
