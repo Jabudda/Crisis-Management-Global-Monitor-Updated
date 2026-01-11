@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T19:40:56.254663Z",
-  "event_count": 222,
+  "last_updated": "2026-01-11T20:30:02.510614Z",
+  "event_count": 223,
   "events": [
     {
       "title": "One person dead as PM visits bushfire-ravaged towns with 300 structures destroyed and 350,000 hectares burned",
@@ -444,6 +444,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "How volatile is the situation in Iran?",
+      "description": "The country has been rocked by two weeks of widespread protests since the currency collapsed.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/1/11/how-volatile-is-the-situation-in-iran?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 19:37:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -897,7 +908,7 @@
     },
     {
       "title": "2026 World Cup: Germany to be based at North Carolina hotel",
-      "description": "Germany will be making a hotel in Winston-Salem their base camp during next summer's World Cup. The choice of headquarters has been seen as key to the national team's success — or failure at previous World Cups.",
+      "description": "Germany will be making a hotel in Winston-Salem their base camp during next summer's World Cup. The choice of headquarters has been seen as key to the national team's success — or failure — at previous World Cups.",
       "url": "https://www.dw.com/en/2026-world-cup-germany-to-be-based-at-north-carolina-hotel/a-75455913?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 11 Jan 2026 15:52:00 GMT",
       "source": "Deutsche Welle",
@@ -1012,17 +1023,6 @@
       "url": "https://www.bbc.com/news/articles/cvgpnwnqygro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 11 Jan 2026 17:21:26 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Australia’s Cop31 chief negotiator plans to lobby petrostates on fossil fuel phaseout",
-      "description": "Exclusive: Chris Bowen says key to next UN climate summit will be ‘engagement, engagement, engagement’ with countries such as Saudi Arabia Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Chris Bowen wants to use his stint as the world’s chief climate negotiator to lobby Saudi Arabia and others to stop resisting progress at UN summits, heeding calls for a “hard-nosed” approach in dealing with big emitters obstructing the transition. Appointed “president of negotiations” for Cop31 under the deal that handed Turkey hosting rights for the conference, Australia’s climate change and energy minister has told Guardian Australia a focus ahead of the summit would be talking to countries “with whom we don’t traditionally agree”. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/jan/11/australia-cop31-chris-bowen-fossil-fuel-phaseout",
-      "published": "Sat, 10 Jan 2026 19:00:08 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -1404,20 +1404,6 @@
       "ticker_label": "💥 Israel kills Palestinian in Hebron, raids Nablus, East Jerusalem wedding"
     },
     {
-      "title": "Is the US War Powers Act unconstitutional, as President Trump says?",
-      "description": "Lawmakers push back after Trump claims the War Powers law is unconstitutional following US military action in Venezuela.",
-      "url": "https://www.aljazeera.com/news/2026/1/11/is-the-us-war-powers-act-unconstitutional-as-president-trump-says?traffic_source=rss",
-      "published": "Sun, 11 Jan 2026 11:27:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Is the US War Powers Act unconstitutional, as President Trump says?"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1427,6 +1413,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Australia news live: Victorian bushfires expected to burn for weeks; chair of Adelaide festival board resigns",
+      "description": "Tracey Whiting confirmed her decision to resign on Sunday evening. Follow the latest updates live Get our breaking news email , free app or daily news podcast Welcome to the Australia live news blog for Monday 12 January. Major Victorian bushfires that have left at least one person dead and hundreds of structures destroyed are expected to burn for weeks, including the Longwood blaze in the state’s north. Cooler conditions could offer some relief to firefighting efforts, but for many small communities, the damage has already been done. More soon. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/12/victoria-bushfires-adelaide-festival-writers-week-board-chair-resigns-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "published": "Sun, 11 Jan 2026 20:18:07 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Australia news live: Victorian bushfires expected to burn for weeks; chair of Adelaide festival board resigns"
     },
     {
       "title": "Three board members resign from Adelaide festival as Randa Abdel-Fattah sends legal notice",
@@ -1459,6 +1459,31 @@
       "url": "https://www.france24.com/en/americas/20260111-no-more-oil-or-money-trump-urges-cuba-to-cut-deal-with-us-before-it-s-too-late",
       "published": "Sun, 11 Jan 2026 14:53:57 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "British skier killed in avalanche in French Alps",
+      "description": "A British skier has died in an avalanche in the French Alps.",
+      "url": "https://news.sky.com/story/british-skier-killed-in-avalanche-in-french-alps-13493204",
+      "published": "Sun, 11 Jan 2026 19:47:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 British skier killed in avalanche in French Alps"
+    },
+    {
+      "title": "Woman shot dead in head as body bags show emerging picture of Iranian crackdown",
+      "description": "The extent of the state's crackdown on Iranian protesters is beginning to emerge, despite the internet shutdown.",
+      "url": "https://news.sky.com/story/woman-shot-dead-in-head-as-body-bags-show-emerging-picture-of-iranian-crackdown-13493187",
+      "published": "Sun, 11 Jan 2026 18:55:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1530,6 +1555,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Drones, fear and exhaustion: The daily reality of providing aid to Ukraine"
+    },
+    {
+      "title": "Critical clue led police to suspect Chicago doctor in deaths of Ohio dentist, wife",
+      "description": "Chicago doctor arrested in Ohio double murder case after surveillance footage allegedly shows his car at victims' home during the time of killings.",
+      "url": "https://www.foxnews.com/us/critical-clue-led-police-suspect-chicago-doctor-deaths-ohio-dentist-wife",
+      "published": "Sun, 11 Jan 2026 14:55:22 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Mississippi synagogue burned in arson attack, suspect in custody",
@@ -1608,17 +1644,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Portland police chief cries while admitting DHS was right about Tren de Aragua ties in CBP shooting"
-    },
-    {
-      "title": "Middle Eastern country stops sponsoring students studying in Britain over fear of radicalization: report",
-      "description": "UAE stops funding students to study in Britain, claiming fears of radicalization by Muslim Brotherhood. The nation will sponsor education elsewhere.",
-      "url": "https://www.foxnews.com/us/middle-eastern-country-stops-sponsoring-students-studying-britain-over-fear-radicalization-report",
-      "published": "Sat, 10 Jan 2026 09:00:05 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Nobel Institute shuts down talk of Venezuelan leader sharing Peace Prize with Trump",
@@ -2027,6 +2052,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-11T20:29:45.718601Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2501,31 +2537,6 @@
       "url": "https://www.france24.com/en/tv-shows/sports/20260111-afcon-2025-egypt-knock-out-ivory-coast-to-set-up-senegal-semi-final",
       "published": "Sun, 11 Jan 2026 09:03:08 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Former Premier League star apologises for Holocaust remark",
-      "description": "Former Premier League footballer Shay Given has apologised for describing sacked Celtic manager Wilfried Nancy's time at the club as an \"absolute Holocaust\".",
-      "url": "https://news.sky.com/story/former-newcastle-goalkeeper-shay-given-apologises-after-making-holocaust-remark-13493022",
-      "published": "Sun, 11 Jan 2026 10:05:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Former Premier League star apologises for Holocaust remark"
-    },
-    {
-      "title": "Lammy says Vance thinks sexualised AI deepfakes 'entirely unacceptable'",
-      "description": "David Lammy has said that US vice president JD Vance agrees that sexualised AI-generated deepfakes - such as those made using Elon Musk's Grok - are \"entirely unacceptable\".",
-      "url": "https://news.sky.com/story/jd-vance-agrees-sexualised-ai-deepfakes-entirely-unacceptable-lammy-says-13492879",
-      "published": "Sat, 10 Jan 2026 17:46:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
