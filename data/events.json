@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-11T11:22:33.617113Z",
+  "last_updated": "2026-01-11T11:42:01.612817Z",
   "event_count": 223,
   "events": [
     {
@@ -71,6 +71,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran warns US troops, Israel will be ‘legitimate targets’ if America strikes over protests"
+    },
+    {
+      "title": "US woman killed by ICE agent called ‘domestic terrorist’: What it means",
+      "description": "Experts say US homeland security secretary misused the 'domestic terrorist' label to justify shooting Renee Good.",
+      "url": "https://www.aljazeera.com/news/2026/1/11/us-woman-killed-by-ice-agent-called-domestic-terrorist-what-it-means?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 11:24:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 US woman killed by ICE agent called ‘domestic terrorist’: What it means"
     },
     {
       "title": "West Bank: UN report warns of ‘systematic asphyxiation’ of Palestinian rights",
@@ -548,26 +562,12 @@
       "title": "Iran protesters defy crackdown as videos show violent clashes",
       "description": "Hundreds of protesters are believed to have been killed or injured, and many more detained.",
       "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Jan 2026 09:29:19 GMT",
+      "published": "Sun, 11 Jan 2026 11:34:16 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "US launches new attacks against ISIL in Syria over deadly ambush",
-      "description": "US military says the strikes are in response to an ISIL ambush that killed three American personnel in Palmyra.",
-      "url": "https://www.aljazeera.com/news/2026/1/10/us-launches-large-scale-attacks-against-isil-in-syria-after-deadly-ambush?traffic_source=rss",
-      "published": "Sat, 10 Jan 2026 23:54:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US launches new attacks against ISIL in Syria over deadly ambush"
     },
     {
       "title": "Syria’s Kurdish fighters agree to leave Aleppo after days of deadly clashes",
@@ -1383,20 +1383,6 @@
       "ticker_label": "🪖 Ukrainian drones set fire to Russian oil depot after Moscow launches new hypersonic missile"
     },
     {
-      "title": "Russia's use of hypersonic missile brings fresh threat to Europe and NATO",
-      "description": "Russia's inclusion of the Oreshnik intermediate-range ballistic missile (IRBM) in its latest missile and drone strikes on Ukraine has drawn attention well beyond the immediate battlefield - raising urgent questions about the wider security implications for Europe and NATO alike.",
-      "url": "https://news.sky.com/story/russias-use-of-hypersonic-missile-brings-fresh-threat-to-europe-and-nato-13492571",
-      "published": "Sat, 10 Jan 2026 00:01:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia's use of hypersonic missile brings fresh threat to Europe and NATO"
-    },
-    {
       "title": "Protests in Iran near 2-week mark as authorities intensify crackdown on demonstrators",
       "description": "Protests in Iran have continued for nearly two weeks, with the government acknowledging the unrest despite a harsh crackdown",
       "url": "https://abcnews.go.com/International/wireStory/protests-iran-2-week-mark-authorities-intensify-crackdown-129079693",
@@ -1433,6 +1419,34 @@
       "is_ticker": false
     },
     {
+      "title": "Israel kills Palestinian in Hebron, raids Nablus, East Jerusalem wedding",
+      "description": "Killing comes amid record Israeli violence and settlement expansion across the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/1/11/israel-kills-palestinian-in-hebron-raids-nablus-east-jerusalem-wedding?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 11:28:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Israel kills Palestinian in Hebron, raids Nablus, East Jerusalem wedding"
+    },
+    {
+      "title": "Is the US War Powers Act unconstitutional, as President Trump says?",
+      "description": "Lawmakers push back after Trump claims the War Powers law is unconstitutional following US military action in Venezuela.",
+      "url": "https://www.aljazeera.com/news/2026/1/11/is-the-us-war-powers-act-unconstitutional-as-president-trump-says?traffic_source=rss",
+      "published": "Sun, 11 Jan 2026 11:27:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Is the US War Powers Act unconstitutional, as President Trump says?"
+    },
+    {
       "title": "Syria live: SDF fighters pull out of Aleppo after deadly battles",
       "description": "Dozens of people have been killed in the clashes with more than 150,000 displaced.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/1/11/syria-live-sdf-fighters-pull-out-of-aleppo-after-deadly-battles?traffic_source=rss",
@@ -1442,20 +1456,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,417",
-      "description": "These are the key developments from day 1,417 of Russia’s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/1/11/russia-ukraine-war-list-of-key-events-day-1417?traffic_source=rss",
-      "published": "Sun, 11 Jan 2026 01:32:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia-Ukraine war: List of key events, day 1,417"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1836,17 +1836,6 @@
       "ticker_label": "🪖 Russia hits Ukraine with rarely used Oreshnik missile in fresh strikes"
     },
     {
-      "title": "Last SDF fighters leave Syria’s Aleppo after days of deadly clashes",
-      "description": "Aleppo governor says last SDF fighters have left the city after the Syrian army took control of the Sheikh Maqsoud area.",
-      "url": "https://www.aljazeera.com/news/2026/1/11/kurdish-fighters-leave-syrias-aleppo-after-days-of-clashes?traffic_source=rss",
-      "published": "Sun, 11 Jan 2026 02:27:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US ‘adapt, shrink or die’ terms for $2bn aid pot will mean UN bowing down to Washington, say experts",
       "description": "Afghanistan and Yemen excluded from list of 17 priority countries chosen by Trump administration to receive aid laden with demands The $2bn (£1.5bn) of aid the US pledged this week may have been hailed as “bold and ambitious” by the UN but could be the “nail in the coffin” in changing to a shrunken, less flexible aid system dominated by Washington’s political priorities, aid experts fear. After a year of deep cuts in aid budgets by the US and European countries, the announcement of new money for the humanitarian system is a source of some relief, but experts are deeply concerned about demands that the US has imposed on how the money should be managed and where it can go. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jan/01/us-aid-cuts-conditions-un-humanitarian-pledge-ocha",
@@ -2049,7 +2038,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-11T11:22:17.436627Z",
+      "published": "2026-01-11T11:41:39.528448Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -2543,6 +2532,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Crans-Montana bar owner says service door was locked during deadly New Year blaze"
+    },
+    {
+      "title": "Former Premier League star apologises for Holocaust remark",
+      "description": "Former Premier League footballer Shay Given has apologised for describing sacked Celtic manager Wilfried Nancy's time at the club as an \"absolute Holocaust\".",
+      "url": "https://news.sky.com/story/former-newcastle-goalkeeper-shay-given-apologises-after-making-holocaust-remark-13493022",
+      "published": "Sun, 11 Jan 2026 10:05:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Former Premier League star apologises for Holocaust remark"
     },
     {
       "title": "Lammy says Vance thinks sexualised AI deepfakes 'entirely unacceptable'",
