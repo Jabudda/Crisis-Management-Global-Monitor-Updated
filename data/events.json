@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-11T20:30:02.510614Z",
-  "event_count": 223,
+  "last_updated": "2026-01-11T20:48:13.839765Z",
+  "event_count": 222,
   "events": [
     {
       "title": "One person dead as PM visits bushfire-ravaged towns with 300 structures destroyed and 350,000 hectares burned",
@@ -43,20 +43,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sudan: After 1,000 days of war, millions of civilians still bearing brunt"
-    },
-    {
-      "title": "Iran warns US troops, Israel will be ‘legitimate targets’ if America strikes over protests",
-      "description": "Iran's parliament met on Sunday to discuss ongoing mass protests, with the speaker warning that the US military and Israel would be “legitimate targets” if America strikes the country, as threatened by President Donald Trump. The death toll linked to the protests rose to 116, a US-based human rights groups said Sunday, as an internet blackout crossed the 60-hour mark.",
-      "url": "https://www.france24.com/en/middle-east/20260111-iran-warns-us-troops-israel-will-be-legitimate-targets-if-america-strikes-over-protests",
-      "published": "Sun, 11 Jan 2026 08:25:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran warns US troops, Israel will be ‘legitimate targets’ if America strikes over protests"
     },
     {
       "title": "West Bank: UN report warns of ‘systematic asphyxiation’ of Palestinian rights",
@@ -104,6 +90,20 @@
       "severity_score": 32,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Iran warns it will retaliate if US attacks, as hundreds killed in protests",
+      "description": "\"It's like a war zone, the streets are full of blood,\" a source in the capital Tehran tells the BBC.",
+      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 11 Jan 2026 20:32:27 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran warns it will retaliate if US attacks, as hundreds killed in protests"
     },
     {
       "title": "Armed Iranian protesters battle police in Tehran streets as Trump warns of forceful US response",
@@ -485,20 +485,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 New video shows minutes leading up to deadly Minneapolis ICE shooting"
-    },
-    {
-      "title": "Iran warns it will retaliate if US attacks as protesters defy crackdown",
-      "description": "Medics at two hospitals tell the BBC more than 100 bodies have been brought in over a two day period.",
-      "url": "https://www.bbc.com/news/articles/cm2jek15m8no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 11 Jan 2026 19:13:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran warns it will retaliate if US attacks as protesters defy crackdown"
     },
     {
       "title": "'There wasn't even time for CPR': Iran medics describe hospitals overwhelmed with dead and injured protesters",
@@ -907,6 +893,20 @@
       "is_ticker": false
     },
     {
+      "title": "Australia news live: Victorian bushfires expected to burn for weeks; chair of Adelaide festival board resigns",
+      "description": "Tracey Whiting confirmed her decision to resign on Sunday evening. Follow the latest updates live Get our breaking news email , free app or daily news podcast The chair of the Adelaide festival board, Tracey Whiting, is the latest person to resign after a controversial decision to disinvite the Palestinian Australian author Randa Abdel-Fattah from the 2026 writers’ week program. Whiting said her resignation overnight would allow the body to “refresh its leadership and its approach to these circumstances”. As we reported yesterday, three other board members resigned from the festival this weekend. Recent decisions were bound by certain undertakings and my resignation enables the Adelaide Festival, as an organisation, to refresh its leadership and its approach to these circumstances. My tenure as Chair has been immensely enjoyable, as has working with the terrific AF team. I look forward to the future success of the Adelaide Festival. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/12/victoria-bushfires-adelaide-festival-writers-week-board-chair-resigns-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "published": "Sun, 11 Jan 2026 20:38:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Australia news live: Victorian bushfires expected to burn for weeks; chair of Adelaide festival board resigns"
+    },
+    {
       "title": "2026 World Cup: Germany to be based at North Carolina hotel",
       "description": "Germany will be making a hotel in Winston-Salem their base camp during next summer's World Cup. The choice of headquarters has been seen as key to the national team's success — or failure — at previous World Cups.",
       "url": "https://www.dw.com/en/2026-world-cup-germany-to-be-based-at-north-carolina-hotel/a-75455913?maca=en-rss-en-all-1573-xml-mrss",
@@ -1168,6 +1168,17 @@
       "is_ticker": false
     },
     {
+      "title": "'Hundreds more' US agents head to Minneapolis, says Homeland Security Secretary",
+      "description": "Hundreds of additional federal agents are bound for Minneapolis after the killing of Renee Nicole Good in the Midwestern city by an Immigration and Customs Enforcement (ICE) officer prompted mass protests, US Homeland Security Secretary Kristi Noem told Fox News on Sunday.",
+      "url": "https://www.france24.com/en/americas/20260111-hundreds-more-us-agents-head-to-minneapolis-minnesota-says-homeland-security-secretary",
+      "published": "Sun, 11 Jan 2026 20:30:44 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Syria's Kurdish fighters to leave Aleppo after deadly clashes",
       "description": "Syria's Kurdish fighters said Sunday that they agreed under a ceasefire to withdraw from Aleppo after days of fighting government forces in the city. Hours earlier, Syria's military said it had finished operations in the Kurdish-held Sheikh Maqsud neighbourhood with state television reporting that Kurdish fighters who surrendered were being bused to the north.",
       "url": "https://www.france24.com/en/syria-s-kurdish-fighters-to-leave-aleppo-after-deadly-clashes",
@@ -1415,24 +1426,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: Victorian bushfires expected to burn for weeks; chair of Adelaide festival board resigns",
-      "description": "Tracey Whiting confirmed her decision to resign on Sunday evening. Follow the latest updates live Get our breaking news email , free app or daily news podcast Welcome to the Australia live news blog for Monday 12 January. Major Victorian bushfires that have left at least one person dead and hundreds of structures destroyed are expected to burn for weeks, including the Longwood blaze in the state’s north. Cooler conditions could offer some relief to firefighting efforts, but for many small communities, the damage has already been done. More soon. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/12/victoria-bushfires-adelaide-festival-writers-week-board-chair-resigns-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "published": "Sun, 11 Jan 2026 20:18:07 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Australia news live: Victorian bushfires expected to burn for weeks; chair of Adelaide festival board resigns"
-    },
-    {
       "title": "Three board members resign from Adelaide festival as Randa Abdel-Fattah sends legal notice",
       "description": "Resignations follow withdrawal of more than 70 participants in writers’ week after Palestinian Australian author disinvited Get our breaking news email , free app or daily news podcast The Adelaide festival is facing an unprecedented leadership crisis after three board members resigned this weekend. The journalist Daniela Ritorto, the Adelaide businesswoman Donny Walford and the lawyer Nick Linke stepped down at an extraordinary board meeting on Saturday following the board’s controversial decision to dump the Palestinian Australian author Randa Abdel-Fattah from the 2026 writers’ week program. Continue reading...",
       "url": "https://www.theguardian.com/culture/2026/jan/11/three-board-members-resign-from-adelaide-festival-as-randa-abdel-fattah-sends-legal-notice-ntwnfb",
-      "published": "Sun, 11 Jan 2026 06:31:08 GMT",
+      "published": "Sun, 11 Jan 2026 20:28:26 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -2052,17 +2049,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-11T20:29:45.718601Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
