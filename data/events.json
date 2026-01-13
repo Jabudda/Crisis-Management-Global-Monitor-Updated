@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-13T18:39:42.317015Z",
-  "event_count": 223,
+  "last_updated": "2026-01-13T19:26:03.294722Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: Attacks against Ukrainian civilians unacceptable, unjustifiable and must stop, says UN",
@@ -42,17 +42,6 @@
       "ticker_label": "🌪️ Trump’s other Latin American feud: why Colombia’s Petro is not Maduro"
     },
     {
-      "title": "Iran: UN human rights chief ‘deeply disturbed’ by protest-related violence",
-      "description": "The UN human rights chief has called for an independent and transparent investigation into reports of deaths and widespread arrests during ongoing nationwide protests in Iran, amid mounting concerns over the use of force by security forces.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166733",
-      "published": "Fri, 09 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "World News in Brief: Ending famine, refugee solidarity in Kenya, Ukraine civilian casualties update",
       "description": "The head of the UN’s emergency food agency has urged world leaders on Monday to end “man-made famines” and conflicts that “drive hunger and desperation”.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166744",
@@ -62,6 +51,20 @@
       "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Displaced Palestinians weather deadly winds, extreme cold in tents",
+      "description": "At least six people were killed after heavy rain flooded tents and collapsed homes sheltering displaced Gazan families.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/displaced-palestinians-weather-deadly-winds-extreme-cold-in-tents?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 18:52:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Displaced Palestinians weather deadly winds, extreme cold in tents"
     },
     {
       "title": "Two weeks on, questions linger over targeting and impact of US airstrikes in Nigeria",
@@ -90,20 +93,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US gives terrorist designation to Muslim Brotherhood in Egypt, Lebanon, Jordan"
-    },
-    {
-      "title": "Iran flips ‘kill switch’ to hide alleged crimes as death toll rises amid protests",
-      "description": "Iran protests spread to 180 cities as authorities allegedly use lethal force against demonstrators, with human rights activists in Iran reporting 65 killed and 2,300 arrested.",
-      "url": "https://www.foxnews.com/world/iran-flips-kill-switch-hide-alleged-crimes-death-toll-rises-amid-protests",
-      "published": "Sat, 10 Jan 2026 20:51:32 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Iran flips ‘kill switch’ to hide alleged crimes as death toll rises amid protests"
     },
     {
       "title": "US plan to exploit Venezuela’s oil could eat up 13% of carbon budget to keep 1.5C limit",
@@ -327,7 +316,7 @@
     },
     {
       "title": "US labels Muslim Brotherhood in Egypt, Lebanon, Jordan as ‘terrorists’",
-      "description": "Top US diplomat Marco Rubio says Washington will 'use all available tools' to counter Muslim Brotherhood branches.",
+      "description": "Egyptian Muslim Brotherhood official says group rejects US designation and 'pursue all legal avenues to challenge' it.",
       "url": "https://www.aljazeera.com/news/2026/1/13/us-labels-muslim-brotherhood-orgs-in-egypt-lebanon-jordan-as-terrorist?traffic_source=rss",
       "published": "Tue, 13 Jan 2026 14:31:40 +0000",
       "source": "Al Jazeera",
@@ -604,6 +593,20 @@
       "is_ticker": false
     },
     {
+      "title": "Iran state TV acknowledges 'a lot of martyrs' as death toll surpasses 3,000: report",
+      "description": "Iran state TV reportedly acknowledges 'martyrs' as death toll from ongoing anti-government protests reaches over 2,000, according to activist groups.",
+      "url": "https://www.foxnews.com/world/iran-state-tv-acknowledges-a-lot-martyrs-death-toll-surpasses-3000-report",
+      "published": "Tue, 13 Jan 2026 13:56:09 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Iran state TV acknowledges 'a lot of martyrs' as death toll surpasses 3,000: report"
+    },
+    {
       "title": "As Trump urges deal, Cuban president warns that the country will defend itself 'to the last drop of blood'",
       "description": "As Trump pressured Cuba to strike a deal, Cuban President Miguel Díaz-Canel Bermúdez asserted that the country will defend itself \"to the last drop of blood.\"",
       "url": "https://www.foxnews.com/world/trump-urges-deal-cuban-president-warns-country-defend-itself-to-last-drop-blood",
@@ -697,6 +700,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia launches another major attack on Ukraine's power grid and other sites, 4 dead"
+    },
+    {
+      "title": "Increase taxes on sugary drinks and alcohol to save lives, urges WHO",
+      "description": "Beverages like sugary drinks and alcohol are too accessible and cost too little in most of the world – helping fuel obesity, diabetes, cancer and injury, the World Health Organization (WHO) warned on Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166754",
+      "published": "Tue, 13 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Increase taxes on sugary drinks and alcohol to save lives, urges WHO"
     },
     {
       "title": "At the heart of change: Spotlight Initiative highlights breakthroughs in tackling gender-based violence",
@@ -876,17 +893,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran-US diplomacy won’t succeed if “focus on nuclear issue”",
-      "description": "“I don’t think the prospects look particularly good for diplomacy to succeed.”",
-      "url": "https://www.aljazeera.com/video/quotable/2026/1/13/iran-us-diplomacy-wont-succeed-if-focus-on-nuclear?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 12:44:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Workers at Chinese factory that produces Labubu toys are being exploited, says NGO",
       "description": "Exclusive: China Labor Watch says people aged 16-18 employed without required special protections A labour rights NGO says it has found evidence of worker exploitation in the supply chain of Labubus, the furry toys that took the world by storm last year and which are expected to continue to grow in popularity in 2026. Labubus, toothy gremlins made by the Chinese toy company Pop Mart, have become one of China’s hottest cultural exports. In the first half of 2025 alone, “the Monsters” line of toys, which includes Labubus, generated 4.8bn yuan (£511m) in sales for the Hong Kong-listed company. In August, Pop Mart’s chief executive, Wang Ning, said the company was on track to reach 20bn yuan in revenues in 2025. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/13/workers-at-chinese-factory-that-produces-labubu-toys-are-being-exploited-says-ngo",
@@ -952,7 +958,7 @@
     },
     {
       "title": "Kazakhstan oil output plunges as Ukrainian drones strike Russia",
-      "description": "Kyiv's attacks on Russian oil terminals and refineries damage their enemy, but impact other economies such as Kazakhstan and risk alienating allies.",
+      "description": "Kyiv's attacks on Russian oil terminals and refineries may damage their enemy, but they are also having an impact on other economies such as Kazakhstan's and risk alienating allies.",
       "url": "https://www.dw.com/en/kazakhstan-oil-output-plunges-as-ukrainian-drones-strike-russia/a-75455865?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Jan 2026 15:20:00 GMT",
       "source": "Deutsche Welle",
@@ -1002,6 +1008,17 @@
       "description": "A Russian ship captain has been accused in court of \"grossly negligent conduct\" after a fatal collision with an oil tanker near the Humber Estuary last year.",
       "url": "https://news.sky.com/story/russian-ship-captain-accused-in-court-of-grossly-negligent-behaviour-leading-to-entirely-avoidable-death-of-crew-member-13493804",
       "published": "Tue, 13 Jan 2026 14:54:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "A sculptor, a teenage footballer and a hairdresser: Here are the stories of some of those killed in Iran protests",
+      "description": "A sculptor, a promising teenage footballer and a hairdresser with tens of thousands of followers on Instagram are among at least 2,000 people killed in two weeks of protests in Iran.",
+      "url": "https://news.sky.com/story/a-sculptor-a-teenage-footballer-and-a-hairdresser-here-are-the-stories-of-some-of-those-killed-in-iran-protests-13493798",
+      "published": "Tue, 13 Jan 2026 18:48:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 12,
@@ -1143,17 +1160,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Russian investigators launch criminal case after nine babies die at Siberian maternity hospital"
-    },
-    {
-      "title": "AFCON Senegal, Ivory Coast fans react to Trump’s World Cup 2026 travel bans",
-      "description": "Football fans at AFCON are dismayed with US president's travel ban on select African nations before World Cup in June.",
-      "url": "https://www.aljazeera.com/sports/2026/1/13/afcon-senegal-ivory-coast-fans-react-to-trumps-world-cup-2026-travel-bans?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 13:23:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1329,17 +1335,6 @@
       "description": "Three consecutive seasons of drought have left people in Northern Kenya facing an emergency.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/video-hundreds-of-thousands-in-northern-kenya-face-catastrophic-drought?traffic_source=rss",
       "published": "Tue, 13 Jan 2026 14:19:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Can we cheat death?",
-      "description": "Is ageing a natural stage of life to be honoured or a biological flaw that humanity should overcome?",
-      "url": "https://www.aljazeera.com/video/doha-debates/2026/1/13/can-we-cheat-death?traffic_source=rss",
-      "published": "Tue, 13 Jan 2026 13:24:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1593,10 +1588,10 @@
       "is_ticker": false
     },
     {
-      "title": "Affluent Virginia suburb rocked as trial begins for ex-federal agent husband in nanny love-triangle murders",
-      "description": "Former IRS agent accused of orchestrating double murder with Brazilian au pair to hide affair. Trial begins in shocking Virginia criminal case.",
-      "url": "https://www.foxnews.com/us/affluent-virginia-suburb-rocked-trial-begins-ex-federal-agent-husband-nanny-love-triangle-murders",
-      "published": "Tue, 13 Jan 2026 07:00:28 -0500",
+      "title": "LA County eyes 'ICE-free zones' on government property despite $1B in federal funding at risk",
+      "description": "Los Angeles County considers creating \"ICE-free zones\" to block federal immigration enforcement operations, risking over $1 billion in federal funding.",
+      "url": "https://www.foxnews.com/us/la-county-eyes-ice-free-zones-government-property-despite-1b-federal-funding-risk",
+      "published": "Tue, 13 Jan 2026 13:45:19 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
@@ -1604,10 +1599,10 @@
       "is_ticker": false
     },
     {
-      "title": "Luigi Mangione judge summons Pennsylvania cop to court to testify on backpack search",
-      "description": "Federal judge reverses decision, will now hold hearing on Luigi Mangione backpack evidence seized at McDonald's during arrest for alleged CEO murder.",
-      "url": "https://www.foxnews.com/us/luigi-mangione-wins-evidentiary-hearing-backpack-search-after-judges-about-face-decision",
-      "published": "Mon, 12 Jan 2026 11:56:03 -0500",
+      "title": "Affluent Virginia suburb rocked as trial begins for ex-federal agent husband in nanny love-triangle murders",
+      "description": "Former IRS agent accused of orchestrating double murder with Brazilian au pair to hide affair. Trial begins in shocking Virginia criminal case.",
+      "url": "https://www.foxnews.com/us/affluent-virginia-suburb-rocked-trial-begins-ex-federal-agent-husband-nanny-love-triangle-murders",
+      "published": "Tue, 13 Jan 2026 07:00:28 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
@@ -1871,17 +1866,6 @@
       "is_ticker": false
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-01-13T18:39:19.548587Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Trump announces 25% tariff on Iran's trading partners",
       "description": "US President Donald Trump announced a tariff of 25% on goods from countries doing business with Iran. The tariff announcement stands to impact China, Brazil, Turkey and Russia among others.",
       "url": "https://www.dw.com/en/trump-announces-25-tariff-on-iran-s-trading-partners/a-75481137?maca=en-rss-en-all-1573-xml-mrss",
@@ -1951,7 +1935,7 @@
       "title": "Republicans vow to hold Bill Clinton in contempt as he skips Epstein testimony",
       "description": "The former president didn't show up on Tuesday to testify before a committee investigating Epstein, saying its subpoena wasn't enforceable",
       "url": "https://www.bbc.com/news/articles/cj6w17ykd89o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Jan 2026 18:19:38 GMT",
+      "published": "Tue, 13 Jan 2026 18:51:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2044,6 +2028,28 @@
       "url": "https://www.bbc.com/news/articles/cpqye2yygl4o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 12 Jan 2026 00:45:34 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Le Pen ‘hopeful’ ban from public office will be overturned",
+      "description": "French far-right leader Marine Le Pen arrived for the first day of her appeal against a five-year ban from office.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/13/le-pen-hopeful-ban-from-public-office-will-be-overturned?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 18:57:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Uganda cuts internet days before presidential election",
+      "description": "The blackout comes as President Yoweri Museveni, criticised for cracking down on opponents, vies for his seventh term.",
+      "url": "https://www.aljazeera.com/news/2026/1/13/uganda-cuts-internet-days-before-presidential-election?traffic_source=rss",
+      "published": "Tue, 13 Jan 2026 18:37:27 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2442,17 +2448,6 @@
       "description": "Airports were forced to close and flights were disrupted in parts of Europe due to icy weather.",
       "url": "https://news.sky.com/story/airports-close-and-flights-disrupted-across-europe-due-to-icy-weather-13493226",
       "published": "Tue, 13 Jan 2026 10:01:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "BTS reveal comeback tour after completing military service",
-      "description": "K-pop superstars BTS have announced details of their much-anticipated comeback tour, after a break of almost four years to complete mandatory military service.",
-      "url": "https://news.sky.com/story/k-pop-stars-bts-reveal-comeback-tour-after-completing-military-service-13493833",
-      "published": "Tue, 13 Jan 2026 15:33:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
