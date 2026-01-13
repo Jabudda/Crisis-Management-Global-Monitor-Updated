@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-13T19:26:03.294722Z",
-  "event_count": 222,
+  "last_updated": "2026-01-13T19:41:34.004291Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: Attacks against Ukrainian civilians unacceptable, unjustifiable and must stop, says UN",
@@ -1860,6 +1860,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-13T19:41:12.819478Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
