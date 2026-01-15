@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-15T11:26:51.209757Z",
-  "event_count": 221,
+  "last_updated": "2026-01-15T11:45:32.361451Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Trump to meet Venezuelan opposition leader and Nobel peace laureate Maria Corina Machado later – US politics live",
@@ -29,6 +29,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Security Council LIVE: Attacks against Ukrainian civilians unacceptable, unjustifiable and must stop, says UN"
+    },
+    {
+      "title": "Iran: Death toll soars in protests after brutal crackdown",
+      "description": "The nationwide protests challenging Iran’s theocracy appeared increasingly smothered Thursday, a week on from authorities shutting the country off from the world and escalating a bloody crackdown that activists say killed at least 2,615 people. The death toll exceeds that of any other round of protest or unrest in Iran in decades and recalls the chaos surrounding the country’s 1979 Islamic Revolution. Story by Emerald Maxwell.",
+      "url": "https://www.france24.com/en/iran-death-toll-soars-in-protests-after-brutal-crackdown",
+      "published": "Thu, 15 Jan 2026 11:33:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 41,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Iran: Death toll soars in protests after brutal crackdown"
     },
     {
       "title": "Quarter of developing countries poorer than in 2019, World Bank finds",
@@ -177,6 +191,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump administration ends temporary protected status for Somalis in US"
+    },
+    {
+      "title": "ISS crew returns to Earth in first-ever medical evacuation",
+      "description": "For the first time in the International Space Station's history, NASA safely returned a crew of four astronauts to Earth ahead of schedule due to medical issues affecting one of the group.",
+      "url": "https://www.dw.com/en/iss-crew-returns-to-earth-in-first-ever-medical-evacuation/a-75517587?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 11:35:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Gaza: A ceasefire that still kills children is not enough, says UNICEF",
@@ -594,15 +619,18 @@
       "ticker_label": "🪖 Increase taxes on sugary drinks and alcohol to save lives, urges WHO"
     },
     {
-      "title": "Iran protests: AI and dated photos mislead about pro-regime rallies",
-      "description": "Amid nationwide protests in Iran against the country's theocracy, this week has also seen rallies take place in support of the government. But online, social media users have been sharing misleading content about these pro-regime rallies, using AI-generated footage and dated images to talk up the demonstrations. Vedika Bahl explains in this edition of Truth or Fake.",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260114-iran-protests-ai-and-dated-photos-mislead-about-pro-regime-rallies-1",
-      "published": "Wed, 14 Jan 2026 22:05:25 GMT",
+      "title": "US says Gaza truce enters phase two, after forming Palestinian committee",
+      "description": "The United States said on Wednesday it is launching the second phase of its plan to end the Gaza war, even as key elements of the first phase - including ⁠a complete ceasefire between Israel and Hamas - remain unfulfilled. Story by David Gilberg and Monte Francis.",
+      "url": "https://www.france24.com/en/us-says-gaza-truce-enters-phase-two-after-forming-palestinian-committee",
+      "published": "Thu, 15 Jan 2026 11:30:24 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US says Gaza truce enters phase two, after forming Palestinian committee"
     },
     {
       "title": "Brazilian police kill 4 in Rio favela in operation to contain Red Command criminal gang",
@@ -730,7 +758,7 @@
       "is_ticker": false
     },
     {
-      "title": "Federal agent shoots Minneapolis man in leg after attack, officials say",
+      "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
       "description": "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security.",
       "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Jan 2026 10:22:45 GMT",
@@ -969,6 +997,17 @@
       "is_ticker": false
     },
     {
+      "title": "Iran protests: The biggest challenge to the Islamic Republic since its founding",
+      "description": "In addition to women’s rights protests in 2022, experts believe that the protests currently happening in Iran represent the biggest challenge to the Islamic Republic since its founding in 1979. While some Iranians are putting their hope in the son of the Shah who once ruled the country, the opposition in Iran remains fractured, which is playing into the uncertainty about what will happen next. Story by Monte Francis and Ludovic de Foucaud.",
+      "url": "https://www.france24.com/en/iran-protests-the-biggest-challenge-to-the-islamic-republic-since-its-founding",
+      "published": "Thu, 15 Jan 2026 11:37:52 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Uganda votes for a new president under internet blackout and police crackdown",
       "description": "Ugandans voted ⁠in a tense national election on Thursday after an often violent campaign and internet shutdown, with President Yoweri Museveni seeking to extend his rule into a fifth decade. Museveni is expected to fend off a challenge from the popular singer Bobi Wine, but the election is a test of the 81-year-old leader's political strength ​and ability to avoid the kind of unrest that has rocked neighbours Tanzania and Kenya. Details by FRANCE 24 correspondent in Uganda, Juliette Montilly.",
       "url": "https://www.france24.com/en/uganda-votes-for-a-new-president-under-internet-blackout-and-police-crackdown",
@@ -978,20 +1017,6 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "AFCON 2025 semi-finals: Morocco down Nigeria on penalties, Senegal edge Egypt",
-      "description": "Morocco capitalised on home support to stay the course and beat Nigeria on penalties (4-2) in their AFCON semi-final after 120 minutes produced no goals. They'll meet 2021 winners Senegal in the final, after the Lions of Teranga beat the Pharaohs of Egypt 1-0 thanks to Sadio Mané's late strike from range. Jean-Émile Jammine is joined by sports journalists Thando Sibiya and Andrea Evagora, as well as FRANCE 24's Selina Sykes in Rabat.",
-      "url": "https://www.france24.com/en/tv-shows/africa-cup-of-nations/20260114-africa-cup-of-nations-2025-latest",
-      "published": "Wed, 14 Jan 2026 23:59:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 AFCON 2025 semi-finals: Morocco down Nigeria on penalties, Senegal edge Egypt"
     },
     {
       "title": "Iran's regime could fall, says Trump - as US president considers intervention",
@@ -1229,17 +1254,6 @@
       "is_ticker": false
     },
     {
-      "title": "Rescue or crime? Humanitarian aid workers on trial in Greece",
-      "description": "Humanitarian aid workers face up to 20 years in prison if found guilty of facilitating the illegal entry of migrants to Greece. The trial has been dubbed \"the largest case of the criminalization of solidarity in Europe.\"",
-      "url": "https://www.dw.com/en/rescue-or-crime-humanitarian-aid-workers-on-trial-in-greece/a-75505957?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Jan 2026 16:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US launches phase two of plan to end Gaza conflict, including creation of transitional authority",
       "description": "Donald Trump's special envoy Steve Witkoff has announced the launch of phase two ​of ​the plan to end the conflict in Gaza.",
       "url": "https://news.sky.com/story/us-launches-phase-two-of-plan-to-end-gaza-conflict-including-creation-of-transitional-authority-13494283",
@@ -1362,17 +1376,6 @@
       "is_ticker": false
     },
     {
-      "title": "Some museum entrance fees go up for non-EU tourists in France",
-      "description": "Tourists visiting France from outside the European Union now have to pay significantly higher entrance fees at some of the most popular sites in the country: €10 more at the Louvre museum and €3 more at the Palace of Versailles. This after a recent daytime heist at the Louvre exposed shortcomings in its maintenance and security systems. Plus, Ryanair's CEO has blasted what he called \"stupid\" passenger taxes in Brussels and said the company would reduce its flights to the city by 10 percent this year.",
-      "url": "https://www.france24.com/en/tv-shows/business/20260114-some-museum-entrance-fees-go-up-for-non-eu-tourists-in-france",
-      "published": "Wed, 14 Jan 2026 22:14:18 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Syrian military tells civilians to evacuate contested area east of Aleppo amid rising tensions",
       "description": "Syria’s military has announced it will open a “humanitarian corridor” for civilians to evacuate from an area in Aleppo province",
       "url": "https://abcnews.go.com/International/wireStory/syrian-military-tells-civilians-evacuate-contested-area-east-129209927",
@@ -1465,17 +1468,6 @@
       "description": "Headed by a close ally of Syria’s President Ahmed al-Sharaa, the recently established Office of Tribes and Clans aims to ease tensions within the country’s Sunni majority, divided between former rebels, those who once sided with the Assad regime, and others in the ranks of the Kurdish-led Syrian Democratic Forces. FRANCE 24’s Wassim Nasr has gained exclusive access to a crucial link in the Syrian reconciliation process.",
       "url": "https://www.france24.com/en/middle-east/20260115-syria-sunni-clans-hold-key-to-stability-ending-sectarian-strife-sharaa",
       "published": "Thu, 15 Jan 2026 06:21:18 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump calls Venezuela’s interim president 'a terrific person' after phone call",
-      "description": "US President Donald Trump has described a “great” conversation with Venezuela’s interim president Delcy Rodriguez, as Washington signals a willingness to work with the post-Maduro leadership while pressing for access to the country’s oil and continued political concessions.",
-      "url": "https://www.france24.com/en/americas/20260114-trump-calls-venezuela-interim-president-terrific-person",
-      "published": "Wed, 14 Jan 2026 23:02:40 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 6,
@@ -1597,6 +1589,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 U.S. says second phase of Gaza ceasefire has begun, but major challenges remain"
+    },
+    {
+      "title": "'Charlie Hebdo' cartoon on Swiss fire tragedy sparks outrage",
+      "description": "A cartoon by the French satirical weekly portraying the deadly fire in Crans-Montana as the \"comedy of the year\" provokes disgust.",
+      "url": "https://www.dw.com/en/charlie-hebdo-cartoon-on-swiss-fire-tragedy-sparks-outrage/a-75513790?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 11:35:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Iran updates: Trump holds off on strikes after assurances",
@@ -1828,6 +1831,17 @@
       "is_ticker": false
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-15T11:45:16.270557Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Denmark and U.S. to form working group to talk about U.S. security concerns",
       "description": "After meeting with President Trump's top aides, Danish officials say they will form a working group to talk through U.S. security concerns about control of Greenland.",
       "url": "https://www.npr.org/2026/01/15/nx-s1-5677517/denmark-and-u-s-to-form-working-group-to-talk-about-u-s-security-concerns",
@@ -1851,17 +1865,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Iran updates: 'No plan' to hang people — foreign minister"
-    },
-    {
-      "title": "Wikipedia at 25: Of collective knowledge and its fault lines",
-      "description": "From utopian origins to AI-driven rivals, the \"people's encyclopedia\" has been shaped by debates over neutrality, expertise and the future of shared knowledge.",
-      "url": "https://www.dw.com/en/wikipedia-at-25-of-collective-knowledge-and-its-fault-lines/a-75480616?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Jan 2026 16:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "‘Beyond GDP’ economists push for clearer metrics on wellbeing, sustainability",
@@ -1955,7 +1958,7 @@
       "title": "Widespread delays hit Uganda election amid internet shutdown",
       "description": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
       "url": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 10:36:21 GMT",
+      "published": "Thu, 15 Jan 2026 11:33:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2252,9 +2255,9 @@
       "is_ticker": false
     },
     {
-      "title": "Uganda goes to the polls amid heavy security and internet blackout",
-      "description": "Ugandans are voting in a tense presidential election as 81-year-old President Yoweri Museveni seeks to extend his four-decade rule amid an internet shutdown and heavy military deployment.",
-      "url": "https://www.npr.org/2026/01/15/nx-s1-5675906/uganda-election-museveni-bobi-wine",
+      "title": "What Teddy Roosevelt has to do with Trump's moves in Venezuela and Greenland",
+      "description": "Presidents James Monroe and Theodore Roosevelt helped shape a policy that rationalizes U.S. intervention in Latin America and elsewhere. But Trump has brought that idea to a whole new level.",
+      "url": "https://www.npr.org/2026/01/15/nx-s1-5675874/trump-monroe-doctrine-roosevelt-latin-america-intervention",
       "published": "Thu, 15 Jan 2026 05:00:00 -0500",
       "source": "NPR World News",
       "type": "rss",
@@ -2263,9 +2266,9 @@
       "is_ticker": false
     },
     {
-      "title": "What Teddy Roosevelt has to do with Trump's moves in Venezuela and Greenland",
-      "description": "Presidents James Monroe and Theodore Roosevelt helped shape a policy that rationalizes U.S. intervention in Latin America and elsewhere. But Trump has brought that idea to a whole new level.",
-      "url": "https://www.npr.org/2026/01/15/nx-s1-5675874/trump-monroe-doctrine-roosevelt-latin-america-intervention",
+      "title": "Uganda goes to the polls amid heavy security and internet blackout",
+      "description": "Ugandans are voting in a tense presidential election as 81-year-old President Yoweri Museveni seeks to extend his four-decade rule amid an internet shutdown and heavy military deployment.",
+      "url": "https://www.npr.org/2026/01/15/nx-s1-5675906/uganda-election-museveni-bobi-wine",
       "published": "Thu, 15 Jan 2026 05:00:00 -0500",
       "source": "NPR World News",
       "type": "rss",
@@ -2362,6 +2365,28 @@
       "is_ticker": false
     },
     {
+      "title": "European military mission heads to Greenland as Trump's ambitions undeterred by talks",
+      "description": "A European military mission is arriving Thursday in Greenland to help boost the Arctic island's security following a meeting in Washington between American, Danish, and Greenlandic officials that ended with a declaration of “fundamental disagreement\". US President Donald Trump covets the autonomous territory of Denmark, which he says is essential to the security of the US.",
+      "url": "https://www.france24.com/en/europe/20260115-european-military-mission-heads-to-greenland-as-trump-ambitions-undeterred-by-talks",
+      "published": "Thu, 15 Jan 2026 11:44:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Uganda: Africa’s longest-serving leader, Yoweri Museveni, seeks to extend 40-year rule",
+      "description": "In Uganda, millions prepare to vote in a presidential election steeped in tension and controversy. President Yoweri Museveni, Africa’s longest-serving leader, is seeking a seventh term in office, but his challengers and critics say the race is anything but free or fair. Story by Clarisse Fortuné.",
+      "url": "https://www.france24.com/en/uganda-africa-s-longest-serving-leader-yoweri-museveni-seeks-to-extend-40-year-rule",
+      "published": "Thu, 15 Jan 2026 11:31:33 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "NATO allies move troops to Greenland in European military mission",
       "description": "Troops from several European countries, including France, Germany, Norway and Sweden, are arriving in Greenland to help boost the Arctic island's security after talks between representatives of Denmark, Greenland and the US on Wednesday highlighted “fundamental disagreement” between the Trump administration and European allies. Details by FRANCE 24 Brussels correspondent, Dave Keating.",
       "url": "https://www.france24.com/en/nato-allies-move-troops-to-greenland-in-european-military-mission",
@@ -2388,17 +2413,6 @@
       "description": "Morocco's dream of an AFCON home victory is still alive. Achraf Hakimi's side beat Nigeria on penalties in the semi-finals (0-0, 4-2 on penalties) to set up a thrilling final against Senegal. Morocco are aiming to win their first continental title since 1976, while Senegal return to the final for the third time in seven years.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260115-morocco-beat-nigeria-on-penalties-to-reach-first-afcon-final-since-2004",
       "published": "Thu, 15 Jan 2026 06:09:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Morocco edge Nigeria on penalties to reach Africa Cup of Nations final",
-      "description": "Morocco booked their place in the Africa Cup of Nations final after a dramatic penalty shootout saw them overcome Nigeria 4-2, following a goalless draw in a tense semi-final in Rabat.",
-      "url": "https://www.france24.com/en/sport/20260115-morocco-defeats-nigeria-reach-arica-cup-of-nations-final",
-      "published": "Thu, 15 Jan 2026 00:03:26 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
