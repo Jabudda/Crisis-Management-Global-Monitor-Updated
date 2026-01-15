@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-15T15:33:13.402929Z",
-  "event_count": 221,
+  "last_updated": "2026-01-15T16:42:24.572665Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: Attacks against Ukrainian civilians unacceptable, unjustifiable and must stop, says UN",
@@ -65,6 +65,20 @@
       "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Floods in South Africa force evacuations from famed Kruger National Park; 19 dead in other regions",
+      "description": "Flooding caused by weeks of torrential rains in northern South Africa has forced the famed Kruger National Park to suspend visits and evacuate some guests and staff members",
+      "url": "https://abcnews.go.com/International/wireStory/floods-south-africa-force-evacuations-famed-kruger-national-129243140",
+      "published": "Thu, 15 Jan 2026 10:25:34 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Floods in South Africa force evacuations from famed Kruger National Park; 19 dead in other regions"
     },
     {
       "title": "G7 threatens Iran with new sanctions over nationwide protest crackdown killing thousands",
@@ -215,15 +229,18 @@
       "ticker_label": "🚨 Minneapolis: Officer shoots person in leg during arrest"
     },
     {
-      "title": "Donald Trump softens rhetoric on intervention after anti-government protests",
-      "description": "U.S. ⁠President Donald Trump said he had been told that killings in Iran’s crackdown on protests were easing and that he believed there was no current plan for large-scale executions, adopting a wait-and-see posture after earlier threatening intervention. analysis by Leela Jacinto, FRANCE 24 international affairs editor.",
-      "url": "https://www.france24.com/en/donald-trump-softens-rhetoric-on-intervention-after-anti-government-protests",
-      "published": "Thu, 15 Jan 2026 11:51:14 GMT",
-      "source": "France24",
+      "title": "Ukrainians facing bitter cold of -15C after Russia's repeated strikes on energy supplies",
+      "description": "Ukrainians are facing -15C with no power to warm them as President Volodymyr Zelenskyy said he would declare a state of emergency in the energy sector.",
+      "url": "https://news.sky.com/story/ukrainians-facing-bitter-cold-of-15c-after-russias-repeated-strikes-on-energy-supplies-13494568",
+      "published": "Thu, 15 Jan 2026 10:34:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukrainians facing bitter cold of -15C after Russia's repeated strikes on energy supplies"
     },
     {
       "title": "UN World Court begins landmark hearings on Rohingya genocide case against Myanmar",
@@ -248,6 +265,17 @@
       "is_ticker": false
     },
     {
+      "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
+      "description": "The incident comes as President Donald Trump threatens to use the Insurrection Act on protesters.",
+      "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 15 Jan 2026 15:38:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Watch: Astronauts return to Earth after medical evacuation",
       "description": "Four astronauts who left the International Space Station (ISS) a month early due to one of the crew members falling ill have returned to Earth on Thursday.",
       "url": "https://www.bbc.com/news/videos/c89q0y5xd79o?at_medium=RSS&at_campaign=rss",
@@ -257,6 +285,20 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Trump threatens to use Insurrection Act to end Minneapolis protests",
+      "description": "President considers using federal law to deploy military as protests are ongoing after two shootings by federal agents.",
+      "url": "https://www.aljazeera.com/news/2026/1/15/trump-threatens-to-use-insurrection-act-to-end-minneapolis?traffic_source=rss",
+      "published": "Thu, 15 Jan 2026 15:45:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Trump threatens to use Insurrection Act to end Minneapolis protests"
     },
     {
       "title": "What is HRANA, the US-based group behind Iran’s death toll figures?",
@@ -271,17 +313,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 What is HRANA, the US-based group behind Iran’s death toll figures?"
-    },
-    {
-      "title": "Attempt to overturn the Gambia’s ban on FGM heard by supreme court",
-      "description": "Case brought by Muslim leaders and MP follows failed 2024 bid and seen as part of global anti-women’s rights backlash A group of religious leaders and an MP in the Gambia have launched efforts to overturn a ban on female genital mutilation at the country’s supreme court. The court case, due to resume this month, comes after two babies bled to death after undergoing FGM in the Gambia last year. Almameh Gibba, an MP and one of the plaintiffs, tabled a bill to decriminalise FGM that was rejected by the country’s parliament in 2024. Continue reading...",
-      "url": "https://www.theguardian.com/global-development/2026/jan/09/the-gambia-female-genital-mutilation-fgm-supreme-court-case-overturn-ban",
-      "published": "Fri, 09 Jan 2026 06:00:29 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "NASA sends fours astronauts back to Earth in first-ever medical evacuation",
@@ -370,17 +401,6 @@
       "is_ticker": false
     },
     {
-      "title": "Haiti: Gang leader reportedly targeted in drone operation",
-      "description": "According to Haitian media, notorious gang leader Jimmy \"Barbecue\" Cherizier's Port-au-Prince home was targeted in a drone operation. Branding himself as an anti-elite revolutionary, \"Barbecue\" is accused of a wide range of crimes and is thought to have played a key role in the 2018 La Saline Massacre. #haiti #cherizier #gangviolence",
-      "url": "https://www.france24.com/en/video/20260115-haiti-gang-leader-targeted-in-drone-operation",
-      "published": "Thu, 15 Jan 2026 11:55:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Ukraine war: UN appeals for $2.3 billion to support aid teams’ ‘heroic work’",
       "description": "Amid ongoing and intensifying Russian attacks across Ukraine, the UN on Tuesday launched a $2.3 billion humanitarian appeal for 2026 to support 4.1 million of the country’s most vulnerable people.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166749",
@@ -421,31 +441,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Agitators attack federal agents in Minneapolis after second ICE-involved shooting and more top headlines"
-    },
-    {
-      "title": "Casey Anthony calls Minneapolis ICE shooting a crime, rips JD Vance for protecting ‘Gestapo’ agents",
-      "description": "Casey Anthony, dubbed \"America's most hated mom,\" accuses federal authorities of shielding ICE agents from accountability in Minneapolis shooting death.",
-      "url": "https://www.foxnews.com/us/casey-anthony-calls-minneapolis-ice-shooting-crime-rips-jd-vance-protecting-gestapo-agents",
-      "published": "Wed, 14 Jan 2026 14:51:56 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Casey Anthony calls Minneapolis ICE shooting a crime, rips JD Vance for protecting ‘Gestapo’ agents"
-    },
-    {
-      "title": "Voting in Uganda’s general election delayed by technical and logistical issues",
-      "description": "Some polling stations have no ballot papers and some machines to check ID are not working, local reports say Voting in Uganda’s general election has been delayed in many parts of the country because of technical and logistical issues, against the backdrop of an internet shutdown and crackdown on the opposition. Some polling stations in the capital, Kampala, and the eastern city of Jinja remained closed nearly two hours after voting was supposed to start on Thursday. According to local reports, in some instance ballot papers had not been delivered and biometric machines used to check voters’ identities were not working. Anxious crowds at polling stations spoke of their concerns about the delay. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
-      "published": "Thu, 15 Jan 2026 12:02:38 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Pope consoles families of young Italian victims of New Year's Swiss Alps bar fire",
@@ -540,6 +535,31 @@
       "is_ticker": false
     },
     {
+      "title": "Trump to meet Venezuela opposition leader Machado at White House",
+      "description": "President Donald Trump is set to meet Thursday at the White House with Venezuelan opposition leader María Corina Machado, whose political party is widely considered to have won 2024 elections rejected by then-President Nicolás Maduro before the United States captured him in an audacious military raid this month. Details and analysis by Kethevane Gorjestani, FRANCE 24 international affairs editor.",
+      "url": "https://www.france24.com/en/trump-to-meet-venezuela-opposition-leader-machado-at-white-house",
+      "published": "Thu, 15 Jan 2026 16:19:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump’s bluffs: Why US strike on Iran remains real threat",
+      "description": "From Venezuela and Iran, Trump has attacked countries in the past when diplomacy appeared to be working.",
+      "url": "https://www.aljazeera.com/news/2026/1/15/trumps-bluffs-why-us-strike-on-iran-remains-real-threat?traffic_source=rss",
+      "published": "Thu, 15 Jan 2026 15:28:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump’s bluffs: Why US strike on Iran remains real threat"
+    },
+    {
       "title": "11-year streak of record global warming continues, UN weather agency warns",
       "description": "The past 11 years have been the warmest in the modern era, while oceans continue to heat up, too, says the UN weather agency.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166758",
@@ -579,6 +599,20 @@
       "is_ticker": false
     },
     {
+      "title": "Civilians flee on foot as Syrian military offensive looms east of Aleppo",
+      "description": "A trickle of civilians has left a contested area east of Aleppo after a Syrian military warning to evacuate",
+      "url": "https://abcnews.go.com/International/wireStory/civilians-flee-foot-syrian-military-offensive-looms-east-129243691",
+      "published": "Thu, 15 Jan 2026 10:35:13 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Civilians flee on foot as Syrian military offensive looms east of Aleppo"
+    },
+    {
       "title": "Rights group warns on failure to deliver justice after sectarian killings in Syria's Sweida",
       "description": "Human Rights Watch criticizes the Syrian government for lacking accountability in sectarian violence",
       "url": "https://abcnews.go.com/International/wireStory/rights-group-warns-failure-deliver-justice-after-sectarian-129234740",
@@ -605,7 +639,7 @@
     },
     {
       "title": "Myanmar’s Rohingya people called ‘Muslim dogs’ before attacks, ICJ hears",
-      "description": "Hearings continued on Thursday at the UN’s top court into The Gambia’s claim that Myanmar committed genocide against the Rohingya people, with allegations that military officials incited violence by calling the ethnic minority “Muslim dogs” who should be made “extinct”.",
+      "description": "Hearings continued on Thursday at the UN’s top court into the Gambia’s claim that Myanmar committed genocide against the Rohingya people, with allegations that military officials incited violence by calling the ethnic minority “Muslim dogs” who should be made “extinct”.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166764",
       "published": "Thu, 15 Jan 2026 12:00:00 +0000",
       "source": "UN News",
@@ -765,17 +799,6 @@
       "is_ticker": false
     },
     {
-      "title": "Federal agent shoots Minneapolis man in leg after shovel attack, officials say",
-      "description": "The agent was acting in self-defence after being attacked with a shovel, said the Department of Homeland Security.",
-      "url": "https://www.bbc.com/news/articles/c205677pxvxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 13:29:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Network linked to Israel pushes to shape external Iran protest narrative",
       "description": "Al Jazeera data analysis shows Israel-linked bots and officials try to hijack how Iran protest is viewed globally.",
       "url": "https://www.aljazeera.com/features/2026/1/15/network-linked-to-israel-pushes-to-shape-external-iran-protest-narrative?traffic_source=rss",
@@ -810,20 +833,6 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "ICE officer shoots Venezuelan immigrant in Minneapolis: What we know",
-      "description": "ICE-related shooting in Minnesota occurred one week after Renee Nicole Good was shot dead by federal officer.",
-      "url": "https://www.aljazeera.com/news/2026/1/15/ice-officer-shoots-venezuelan-immigrant-in-minneapolis-what-we-know?traffic_source=rss",
-      "published": "Thu, 15 Jan 2026 11:06:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 ICE officer shoots Venezuelan immigrant in Minneapolis: What we know"
     },
     {
       "title": "Workers at Chinese factory that produces Labubu toys are being exploited, says NGO",
@@ -879,8 +888,8 @@
       "is_ticker": false
     },
     {
-      "title": "British indie band Pulp agree to play Adelaide festival after boycott u-turn",
-      "description": "The band pulled out over treatment of Randa Abdel-Fattah but delayed revealing their decision before confirming 27 February gig Get our breaking news email , free app or daily news podcast The British indie band Pulp will play at the Adelaide festival in February after initially pulling out of the event in protest at the cancellation of Palestinian writer Randa Abdel-Fattah. The band issued a statement on social media on Thursday night announcing that they would “honour our invitation to perform in Adelaide on 27 February” after the festival organisers performed a u-turn, apologised to Abdel-Fattah for her treatment, and invited her to speak at next year’s event. Continue reading...",
+      "title": "British indie band Pulp agree to play Adelaide festival after boycott U-turn",
+      "description": "The band pulled out over treatment of Randa Abdel-Fattah but delayed revealing their decision before confirming 27 February gig Get our breaking news email , free app or daily news podcast The British indie band Pulp will play at the Adelaide festival in February after initially pulling out of the event in protest at the cancellation of Palestinian writer Randa Abdel-Fattah. The band issued a statement on social media on Thursday night announcing that they would “honour our invitation to perform in Adelaide on 27 February” after the festival organisers performed a U-turn, apologised to Abdel-Fattah for her treatment, and invited her to speak at next year’s event. Continue reading...",
       "url": "https://www.theguardian.com/culture/2026/jan/15/british-indie-band-pulp-agree-to-play-adelaide-festival-after-boycott-u-turn",
       "published": "Thu, 15 Jan 2026 12:36:30 GMT",
       "source": "The Guardian World",
@@ -902,6 +911,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine: Zelenskyy declares energy emergency in cold snap"
+    },
+    {
+      "title": "'US can't politically engineer a new status quo inside Iran, it must be self-sustaining'",
+      "description": "Saudi Arabia, Qatar, and Oman led a diplomatic effort to dissuade Donald Trump from launching a high-risk military strike on Iran. For in-depth analysis, Genie Godula welcomes Jon Hoffman, Research Fellow at the Cato Institute. Mr. Hoffman describes Iran as “a brutal dictatorship, involved in a host of malign activities across the region,” yet warns that US military intervention would be “incredibly risky”: it could provoke retaliation, entangle the US in a prolonged campaign, and cause irreversible harm to Iran's nascent grassroots movement.",
+      "url": "https://www.france24.com/en/us-can-t-politically-engineer-a-new-status-quo-inside-iran-it-must-be-self-sustaining",
+      "published": "Thu, 15 Jan 2026 16:01:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'US can't politically engineer a new status quo inside Iran, it must be self-sustaining'"
     },
     {
       "title": "Denmark warns of 'fundamental disagreements' over Greenland after White House talks",
@@ -943,32 +966,15 @@
       "is_ticker": false
     },
     {
-      "title": "Republican senator condemns alleged Syrian army abuses as ceasefire follows Aleppo fighting",
-      "description": "US Senator demands accountability after alleged human rights violations by Syrian forces against Kurdish civilians in Aleppo amid ongoing conflict.",
-      "url": "https://www.foxnews.com/world/republican-senator-condemns-alleged-syrian-army-abuses-ceasefire-follows-aleppo-fighting",
-      "published": "Tue, 13 Jan 2026 17:29:02 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Republican senator condemns alleged Syrian army abuses as ceasefire follows Aleppo fighting"
-    },
-    {
-      "title": "Was Nicolas Maduro ‘flooding’ the US with fentanyl, as White House claims?",
-      "description": "Trump administration's claim that abducted Venezuelan leader is behind gangs sending drugs to US do not stack up.",
-      "url": "https://www.aljazeera.com/features/2026/1/15/was-nicolas-maduro-flooding-the-us-with-fentanyl-as-white-house-claims?traffic_source=rss",
-      "published": "Thu, 15 Jan 2026 10:27:53 +0000",
+      "title": "Reza Pahlavi vows to recognise Israel, end nuclear programme if he led Iran",
+      "description": "Reza Pahlavi, the son of Iran’s deposed Shah, set out key policies he would put in place if he ever returned to rule.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/15/reza-pahlavi-vows-to-recognise-israel-end-nuclear-programme-if-he-led-iran?traffic_source=rss",
+      "published": "Thu, 15 Jan 2026 15:36:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Was Nicolas Maduro ‘flooding’ the US with fentanyl, as White House claims?"
+      "is_ticker": false
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1037,17 +1043,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lebanese fear US has given green light for Israeli escalation",
-      "description": "Israel has attacked south Lebanon dozens of times recently, as locals fear a renewed military escalation.",
-      "url": "https://www.aljazeera.com/features/2026/1/15/lebanese-fear-us-has-given-green-light-for-israeli-escalation?traffic_source=rss",
-      "published": "Thu, 15 Jan 2026 10:46:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1060,9 +1055,9 @@
     },
     {
       "title": "Trump threatens to invoke Insurrection Act over protests in Minneapolis – US politics live",
-      "description": "US president says he will use law that allows military to be deployed domestically if protests in Minneapolis do not stop Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
+      "description": "Homeland security secretary Kristi Noem says she spoke to Trump about invoking Insurrection Act, saying ‘that certainly is within the president’s constitutional authority’ Trump threatens to use Insurrection Act in Minnesota Donald Trump is in Washington today. He’s due to meet with Mariá Corina Machado – Venezuela’s opposition leader – at 12:3opm ET. At the moment that’s closed to the press but we’ll let you know if that changes and bring you the latest. Later, Trump is set to host the champions of the 2025 Stanley Cup, the Florida Panthers, at the White House. We’ll be watching to get his reaction to the news of the day. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/jan/15/us-politics-latest-news-updates-donald-trump-venezuela-maria-corina-machado",
-      "published": "Thu, 15 Jan 2026 15:01:02 GMT",
+      "published": "Thu, 15 Jan 2026 16:29:05 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1258,6 +1253,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germany: The harsh reality of cutting development aid",
+      "description": "Germany is cutting its development aid budget. But as development policy is also part of national security, alongside diplomacy and defense, these budget cuts may cause problems.",
+      "url": "https://www.dw.com/en/germany-the-harsh-reality-of-cutting-development-aid/a-75516453?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 15:37:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Seoul, Tokyo watch US foreign policy twists with rising fear",
       "description": "Donald Trump's hostile signals over Greenland and the aftermath of the Venezuela attack have raised fears in Japan and South Korea that Washington is no longer committed to its allies in East Asia.",
       "url": "https://www.dw.com/en/seoul-tokyo-watch-us-foreign-policy-twists-with-rising-fear/a-75516264?maca=en-rss-en-all-1573-xml-mrss",
@@ -1430,15 +1436,18 @@
       "is_ticker": false
     },
     {
-      "title": "FBI searches Washington Post reporter's home",
-      "description": "FBI agents searched Hannah Natanson's home as part of an investigation into sharing secret government information. The paper said investigators told her she was not a focus of the probe.",
-      "url": "https://www.dw.com/en/fbi-searches-washington-post-reporter-s-home/a-75507082?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Jan 2026 18:18:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Netanyahu says the announced start of Gaza ceasefire's next phase is a 'declarative move'",
+      "description": "Israeli Prime Minister Benjamin Netanyahu has cast the U.S. announcement that the fragile ceasefire in Gaza would advance to its second phase as largely symbolic, raising questions about how its more challenging elements will be carried out. Details by FRANCE 24 correspondent in Jerusalem, Noga Tarnopolsky.",
+      "url": "https://www.france24.com/en/netanyahu-says-the-announced-start-of-gaza-ceasefire-s-next-phase-is-a-declarative-move",
+      "published": "Thu, 15 Jan 2026 16:17:58 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Netanyahu says the announced start of Gaza ceasefire's next phase is a 'declarative move'"
     },
     {
       "title": "France to send extra 'land, air, and sea' forces to Greenland in coming days, says Macron",
@@ -1446,17 +1455,6 @@
       "url": "https://www.france24.com/en/france-to-send-extra-land-air-and-sea-forces-to-greenland-in-coming-days-says-macron",
       "published": "Thu, 15 Jan 2026 14:04:23 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Syrian military tells civilians to evacuate contested area east of Aleppo amid rising tensions",
-      "description": "Syria’s military has announced it will open a “humanitarian corridor” for civilians to evacuate from an area in Aleppo province",
-      "url": "https://abcnews.go.com/International/wireStory/syrian-military-tells-civilians-evacuate-contested-area-east-129209927",
-      "published": "Wed, 14 Jan 2026 23:05:38 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium",
@@ -1479,6 +1477,17 @@
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Voting in Uganda’s general election delayed by technical and logistical issues",
+      "description": "Some polling stations have no ballot papers and some machines to check ID are not working, local reports say Uganda’s most prominent opposition candidate has accused the government of ballot stuffing and arresting and abducting his party’s officials during Thursday’s tense general election, which took place against against the backdrop of an internet shutdown. The pop star turned politician, Bobi Wine, wrote on X : “Internet switched off. Massive ballot stuffing reported everywhere. Our leaders … arrested. Many of our polling agents and supervisors abducted, and others chased off polling stations. RISE TO THE OCCASION AND REJECT THE CRIMINAL REGIME.” Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+      "published": "Thu, 15 Jan 2026 12:02:38 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1634,6 +1643,17 @@
       "ticker_label": "🪖 U.S. says second phase of Gaza ceasefire has begun, but major challenges remain"
     },
     {
+      "title": "Port Assab becomes flashpoint for Ethiopia–Eritrea relations",
+      "description": "Addis Ababa's renewed calls for sea access threaten an already fragile relationship with Eritrea, drawing anger from Asmara.",
+      "url": "https://www.dw.com/en/port-assab-becomes-flashpoint-for-ethiopia-eritrea-relations/a-75453946?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Jan 2026 16:16:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "'Charlie Hebdo' cartoon on Swiss fire tragedy sparks outrage",
       "description": "A cartoon by the French satirical weekly portraying the deadly fire in Crans-Montana as the \"comedy of the year\" provokes disgust.",
       "url": "https://www.dw.com/en/charlie-hebdo-cartoon-on-swiss-fire-tragedy-sparks-outrage/a-75513790?maca=en-rss-en-all-1573-xml-mrss",
@@ -1668,17 +1688,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran updates: Trump holds off on strikes after assurances"
-    },
-    {
-      "title": "Why Iran's fate means more to oil markets than Venezuela's",
-      "description": "While markets appeared barely fazed by the fate of Venezuela's oil industry, they are considerably more nervous about the potential impact of internal unrest and foreign escalation when it comes to Iran. Rightly so?",
-      "url": "https://www.dw.com/en/why-iran-s-fate-means-more-to-oil-markets-than-venezuela-s/a-75507250?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Jan 2026 17:50:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "France to send more forces to Greenland, says Emmanuel Macron",
@@ -1732,7 +1741,7 @@
     },
     {
       "title": "Driver of U-Haul truck that entered Iran protest crowd speaks out: 'All I want is peace'",
-      "description": "The U-Haul driver claims LAPD waved him into Iranian protesters in Los Angeles, leading to arrest on suspicion of reckless driving after driving through crowd.",
+      "description": "The U-Haul driver claims LAPD waved him into Iranian protesters in Los Angeles, leading to arrest on suspicion of reckless driving after going through crowd.",
       "url": "https://www.foxnews.com/us/driver-u-haul-truck-entered-iran-protest-crowd-speaks-out-all-i-want-peace",
       "published": "Thu, 15 Jan 2026 10:12:57 -0500",
       "source": "Fox News US",
@@ -1852,6 +1861,17 @@
       "is_ticker": false
     },
     {
+      "title": "Second-largest Minnesota school district to offer temporary virtual learning amid ICE operations",
+      "description": "Saint Paul Public Schools launches temporary virtual learning option amid Immigration and Customs Enforcement operations in Minnesota.",
+      "url": "https://www.foxnews.com/us/second-largest-minnesota-school-district-offer-temporary-virtual-learning-amid-ice-operations",
+      "published": "Thu, 15 Jan 2026 11:06:23 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "ICE deputy director resigns from agency to run for Congress",
       "description": "Madison Sheahan, the deputy director of U.S. Immigration and Customs Enforcement, has resigned to run for Congress in Ohio's 9th Congressional District.",
       "url": "https://www.foxnews.com/us/ice-deputy-director-resigns-agency-run-congress",
@@ -1901,6 +1921,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-15T16:42:02.653769Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2021,9 +2052,9 @@
     },
     {
       "title": "European military personnel arrive in Greenland as Trump says US needs island",
-      "description": "France says a 15-strong French military contingent has arrived and more forces will be there in the coming days.",
+      "description": "France says a small military contingent has arrived and more forces will be there in the coming days.",
       "url": "https://www.bbc.com/news/articles/cd0ydjvxpejo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 13:33:48 GMT",
+      "published": "Thu, 15 Jan 2026 16:12:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2042,10 +2073,10 @@
       "is_ticker": false
     },
     {
-      "title": "Widespread delays hit Uganda election amid internet shutdown",
+      "title": "Votes being counted in Uganda election as opposition alleges rigging",
       "description": "The election is a rematch between Bobi Wine and Yoweri Museveni, who has been president for 40 years.",
       "url": "https://www.bbc.com/news/articles/cx2xn1yvgr4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Jan 2026 12:51:52 GMT",
+      "published": "Thu, 15 Jan 2026 16:35:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2080,6 +2111,28 @@
       "url": "https://www.bbc.com/news/articles/c99k4jxz0ndo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Jan 2026 00:27:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "LIVE: US seizes oil tanker in Caribbean Sea ahead of Trump, Machado meeting",
+      "description": "US President Donald Trump will meet with Venezuelan opposition leader at the White House, their first in-person meeting.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/15/live-us-seizes-oil-tanker-in-caribbean-sea-ahead-of-trump-machado-meeting?traffic_source=rss",
+      "published": "Thu, 15 Jan 2026 16:01:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US court hands Trump victory against pro-Palestine activist Mahmoud Khalil",
+      "description": "Appeals court justice dismiss order that released Khalil from immigration detention, potentially enabling his re-arrest.",
+      "url": "https://www.aljazeera.com/news/2026/1/15/us-court-hands-trump-victory-against-pro-palestine-activist-mahmoud-khalil?traffic_source=rss",
+      "published": "Thu, 15 Jan 2026 15:55:41 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2123,28 +2176,6 @@
       "description": "A compilation of what Trump envisions for the future of the Gaza Strip.",
       "url": "https://www.aljazeera.com/video/2026/1/15/trump-on-the-future-of-gaza-in-his-own-words?traffic_source=rss",
       "published": "Thu, 15 Jan 2026 12:08:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Who is Nickolay Mladenov, the diplomat tasked with ‘disarming Gaza’?",
-      "description": "Ex-UN envoy to lead the Israeli-decimated Palestinian enclave's \"Board of Peace\" as phase two talks begin.",
-      "url": "https://www.aljazeera.com/features/2026/1/15/who-is-nickolay-mladenov-the-diplomat-tasked-with-disarming-gaza?traffic_source=rss",
-      "published": "Thu, 15 Jan 2026 11:01:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "EU-Latin America trade deal: Who wins?",
-      "description": "The EU and the Mercosur trading bloc of five Latin American nations seal a sweeping trade pact.",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/1/15/eu-latin-america-trade-deal-who-wins-2?traffic_source=rss",
-      "published": "Thu, 15 Jan 2026 10:35:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2267,6 +2298,17 @@
       "url": "https://www.cnn.com/specials/travel-newsletter",
       "published": "Fri, 10 Dec 2021 18:58:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Controversial US study on hepatitis B vaccines in Africa is cancelled",
+      "description": "$1.6m project drew outrage over ethical questions about withholding vaccines proven to prevent disease The controversial US-funded study on hepatitis B vaccines among newborns in Guinea-Bissau has been halted, according to Yap Boum, a senior official at the Africa Centres for Disease Control and Prevention (CDC). “The study has been cancelled,” Boum told journalists at a press conference on Thursday morning. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/jan/15/hepatitis-b-vaccines-study-africa-cancel",
+      "published": "Thu, 15 Jan 2026 15:26:07 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2397,6 +2439,17 @@
       "is_ticker": false
     },
     {
+      "title": "US military seizes sixth oil tanker it says has links to Venezuela",
+      "description": "The US military said on Thursday it had seized another oil tanker that it said was contravening US sanctions on Venezuelan oil exports. The Veronica tanker, which was captured in the Caribbean Sea, is the sixth such vessel to be seized by the US since the ouster of Venezuelan leader Nicolas Maduro on January 3.",
+      "url": "https://www.france24.com/en/americas/20260115-us-military-seizes-sixth-oil-tanker-says-links-venezuela",
+      "published": "Thu, 15 Jan 2026 15:33:16 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Is the EU-Mercosur trade agreement more than a 'cows for cars' deal?",
       "description": "A qualified majority of EU countries have finally approved the EU-Mercosur trade agreement, over 25 years after talks between the two blocs started. Opposition is still fierce, especially from the European agricultural sector. Charles Pellegrin talks to Maria Concepcion Latorre, a professor of applied economics at Universidad Complutense in Madrid, who argues the benefits of the pact outweigh the disadvantages.",
       "url": "https://www.france24.com/en/tv-shows/people-profit/20260115-is-the-eu-mercosur-trade-agreement-more-than-a-cows-for-cars-deal",
@@ -2422,33 +2475,11 @@
       "is_ticker": false
     },
     {
-      "title": "Several European countries and NATO allies send troops to Greenland",
-      "description": "Military personnel from several NATO countries including Germany, France, Sweden and Norway headed to Greenland on Thursday as Denmark and its allies prepared ⁠for exercises to try to assure US President Donald Trump over its security as he pushes to acquire the island. Story by Peter O'Brien.",
-      "url": "https://www.france24.com/en/several-european-countries-and-nato-allies-send-troops-to-greenland",
-      "published": "Thu, 15 Jan 2026 12:23:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "European military mission heads to Greenland as Trump's ambitions undeterred by talks",
-      "description": "A European military mission is arriving Thursday in Greenland to help boost the Arctic island's security following a meeting in Washington between American, Danish, and Greenlandic officials that ended with a declaration of “fundamental disagreement\". US President Donald Trump covets the autonomous territory of Denmark, which he says is essential to the security of the US.",
-      "url": "https://www.france24.com/en/europe/20260115-european-military-mission-heads-to-greenland-as-trump-ambitions-undeterred-by-talks",
-      "published": "Thu, 15 Jan 2026 11:44:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "British activists banned from France over 'destruction' of small boats",
-      "description": "Ten British \"far-right activists\" have been banned from France for \"reconnaissance and destruction activities\" against small boats used in migrant crossings.",
-      "url": "https://news.sky.com/story/ten-british-far-right-activists-banned-from-france-over-reconnaissance-and-destruction-against-small-boats-13494191",
-      "published": "Wed, 14 Jan 2026 16:20:00 +0000",
-      "source": "Sky News World",
+      "title": "France's Macron laughs off 'harmless' eye condition as he addresses troops",
+      "description": "French President Emmanuel Macron joked about an unintentional “Eye of the Tiger” during his New Year address to France's armed forces",
+      "url": "https://abcnews.go.com/International/wireStory/frances-macron-laughs-off-harmless-eye-condition-addresses-129240895",
+      "published": "Thu, 15 Jan 2026 09:30:19 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2554,28 +2585,6 @@
       "is_ticker": false
     },
     {
-      "title": "EU targets Ukraine's military needs with massive new loan program plus billions in budget support",
-      "description": "The European Union plans to allocate most of a new loan program to Ukraine's military needs over the next two years",
-      "url": "https://abcnews.go.com/International/wireStory/eu-targets-ukraines-military-massive-new-loan-program-129199681",
-      "published": "Wed, 14 Jan 2026 08:50:00 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Canadian Prime Minister Mark Carney arrives in Beijing for a landmark four-day visit to China",
-      "description": "Canadian Prime Minister Mark Carney arrives in Beijing for a landmark four-day visit to China",
-      "url": "https://abcnews.go.com/International/wireStory/canadian-prime-minister-mark-carney-arrives-beijing-landmark-129198253",
-      "published": "Wed, 14 Jan 2026 08:17:55 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Private jet skids 300 yards off Colorado runway, sustains severe damage in violent crosswind",
       "description": "A private jet was violently thrown off a Colorado runway by brutal crosswinds, skidding 300 yards with damage. All three aboard escaped injury in Telluride.",
       "url": "https://www.foxnews.com/us/private-jet-skids-300-yards-colorado-runway-sustains-severe-damage-violent-crosswind",
@@ -2592,6 +2601,17 @@
       "url": "https://www.foxnews.com/us/university-researcher-accused-calling-assassination-conservative-voices-social-media-post",
       "published": "Wed, 14 Jan 2026 18:39:00 -0500",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Troops from Europe deploy to Greenland in rapid 2-day mission as Trump eyes US takeover",
+      "description": "European countries are deploying military personnel to Greenland for a quick mission as the Trump administration is pushing to acquire the Danish territory.",
+      "url": "https://www.foxnews.com/world/troops-from-europe-deploy-greenland-rapid-2-day-mission-trump-eyes-us-takeover",
+      "published": "Thu, 15 Jan 2026 10:52:19 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
