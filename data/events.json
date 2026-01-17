@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T21:24:17.542303Z",
+  "last_updated": "2026-01-17T21:42:04.390925Z",
   "event_count": 222,
   "events": [
     {
@@ -15,20 +15,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’"
-    },
-    {
-      "title": "Iran protest movement subsides amid intense crackdown",
-      "description": "Protests in Iran have subsided after a crackdown that has killed thousands under an internet blackout, monitors said Friday, a week after the start of the largest demonstrations in years challenging the country's theocratic system. Siavosh Ghazi, FRANCE 24 Tehran correspondent, said Saturday that security forces remain largely present for a fifth consecutive day as official media continue to report arrests of people described as members of terrorist groups.",
-      "url": "https://www.france24.com/en/video/20260117-iran-protest-movement-subsides-amid-intense-crackdown-1",
-      "published": "Sat, 17 Jan 2026 10:07:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 39,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Iran protest movement subsides amid intense crackdown"
     },
     {
       "title": "UN chief warns of a world in chaos as impunity and unpredictability spreads",
@@ -391,20 +377,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Christian and Muslim faith leaders express ‘deep concerns’ about Labor bill’s impact on free speech – as it happened"
-    },
-    {
-      "title": "US issues 'military activity' flight advisory over Latin America",
-      "description": "The warnings come as Trump has suggested possible military strikes against drug cartel targets in Mexico. However, Mexican authorities said the US advisory has no operational implications for Mexico.",
-      "url": "https://www.dw.com/en/us-issues-military-activity-flight-advisory-over-latin-america/a-75545335?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 17 Jan 2026 03:11:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US issues 'military activity' flight advisory over Latin America"
     },
     {
       "title": "EU and Mercosur bloc sign landmark free trade deal after 25 years of negotiations",
@@ -807,6 +779,20 @@
       "is_ticker": false
     },
     {
+      "title": "Iran's Khamenei calls for crackdown on 'seditionists' after brutally repressing protests",
+      "description": "Iran's Supreme Leader Ayatollah Ali Khamenei called for \"domestic criminals\" to face swift punishment, accusing \"seditionists\" of being responsible for the death of thousands of people during the recent protest wave. Rights groups have put the death toll of the government's crackdown in the thousands.",
+      "url": "https://www.france24.com/en/asia-pacific/20260117-iran-s-khamenei-calls-for-crackdown-on-seditionists-after-brutally-repressing-protests",
+      "published": "Sat, 17 Jan 2026 21:30:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Iran's Khamenei calls for crackdown on 'seditionists' after brutally repressing protests"
+    },
+    {
       "title": "Hundreds rally in Paris against Iran’s crackdown on protesters",
       "description": "Hundreds gathered Saturday outside of the Pantheon in the heart of the French capital to voice their opposition to the Iranian regime and its violent crackdown on protesters, FRANCE 24's Clovis Casali said, reporting from Paris.",
       "url": "https://www.france24.com/en/hundreds-rally-in-paris-against-iran-s-crackdown-on-protesters",
@@ -1205,6 +1191,20 @@
       "is_ticker": false
     },
     {
+      "title": "Livestream: The European Film Awards 2026",
+      "description": "Who will win at the 2026 European Film Awards? You can watch the show live here on January 17, at 6 p.m. \"Sirat\" leads with the most nominations.",
+      "url": "https://www.dw.com/en/livestream-the-european-film-awards-2026/a-75523414?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Jan 2026 21:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Livestream: The European Film Awards 2026"
+    },
+    {
       "title": "How European cinema is stealing Hollywood's spotlight",
       "description": "As Hollywood doubles down on sequels, the contenders for the European Film Awards feature bold, political works that are challenging audiences and creating buzz far beyond the continent.",
       "url": "https://www.dw.com/en/how-european-cinema-is-stealing-hollywood-s-spotlight/a-75486301?maca=en-rss-en-all-1573-xml-mrss",
@@ -1492,6 +1492,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump tariff threat over Greenland 'unacceptable', European leaders say",
+      "description": "The US president says several European allies opposed to his plans to buy Greenland will face 10% tariffs from February.",
+      "url": "https://www.bbc.com/news/articles/cy4qjwk9n2no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 21:19:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1792,7 +1803,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-17T21:23:55.020139Z",
+      "published": "2026-01-17T21:41:43.145504Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1972,17 +1983,6 @@
       "description": "The first names of those who will oversee the next phase of the US president's peace plan are announced.",
       "url": "https://www.bbc.com/news/articles/c9vx7kn33elo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Jan 2026 17:49:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A faceless hacker stole my therapy notes – now my deepest secrets are online forever",
-      "description": "Meri-Tuuli Auer told her counsellor things about her life she didn't want her closest family to know.",
-      "url": "https://www.bbc.com/news/articles/c62nzxqw45eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 02:15:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2546,8 +2546,8 @@
       "is_ticker": false
     },
     {
-      "title": "FBI captures Top Ten Most Wanted fugitive in Mexico sought over 2016 murder of NC co-worker",
-      "description": "FBI Director Kash Patel announced the arrest of a wanted fugitive who has been on the run after the murder of his former co-worker in 2016.",
+      "title": "FBI captures Top Ten Most Wanted fugitive sought for alleged 2016 murder of North Carolina co-worker in Mexico",
+      "description": "FBI Director Kash Patel announced the arrest of a wanted fugitive who has been on the run after the alleged murder of his former co-worker in 2016.",
       "url": "https://www.foxnews.com/us/fbi-captures-top-ten-most-wanted-fugitive-mexico-sought-2016-murder-nc-coworker",
       "published": "Sat, 17 Jan 2026 12:40:39 -0500",
       "source": "Fox News US",
