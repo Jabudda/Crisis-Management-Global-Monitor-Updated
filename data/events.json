@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T18:36:31.351881Z",
+  "last_updated": "2026-01-17T19:20:41.045440Z",
   "event_count": 221,
   "events": [
     {
@@ -54,6 +54,20 @@
       "severity_score": 34,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Police warn of ‘door kicking challenge’ that can turn viral prank ‘from funny to fatal’",
+      "description": "Authorities issue warning as door-kicking prank trend gains traction on social media. The dangerous challenge has led to shootings and arrests nationwide.",
+      "url": "https://www.foxnews.com/us/police-warn-door-kicking-challenge-that-can-turn-viral-prank-from-funny-fatal",
+      "published": "Sat, 17 Jan 2026 14:00:30 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Police warn of ‘door kicking challenge’ that can turn viral prank ‘from funny to fatal’"
     },
     {
       "title": "'It's a massacre': Iranian rapper describes 'bodies on streets' left as a warning to protesters",
@@ -177,20 +191,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 UNRWA officials lobby congressional staffers against Trump terrorist designation threat"
-    },
-    {
-      "title": "Turkey says Syria using force is an option against US-backed fighters who helped defeat ISIS",
-      "description": "Syria conflict escalates as Turkey warns Damascus may use force against Kurdish SDF fighters after deadly clashes near Aleppo reportedly killed 23.",
-      "url": "https://www.foxnews.com/world/turkey-says-syria-using-force-option-against-us-backed-fighters-who-helped-defeat-isis",
-      "published": "Thu, 15 Jan 2026 14:48:32 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Turkey says Syria using force is an option against US-backed fighters who helped defeat ISIS"
     },
     {
       "title": "Amid Sudan’s humanitarian crisis, Chad shows ‘act of solidarity’",
@@ -410,7 +410,7 @@
       "ticker_label": "🪖 US issues 'military activity' flight advisory over Latin America"
     },
     {
-      "title": "EU and Mercosur sign landmark free trade deal after 25 years of negotiations",
+      "title": "EU and Mercosur bloc sign landmark free trade deal after 25 years of negotiations",
       "description": "The European Union and the Mercosur bloc of South American countries signed on Saturday signed a free trade deal that follows a quarter-century of careful negotiations. France still remains opposed to the trade agreement, with the country's powerful agricultural lobby warning it could damage local farmers' livelihoods.",
       "url": "https://www.france24.com/en/europe/20260117-eu-and-mercosur-sign-landmark-free-trade-deal-after-25-years-of-negotiations",
       "published": "Sat, 17 Jan 2026 17:47:42 GMT",
@@ -421,7 +421,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 EU and Mercosur sign landmark free trade deal after 25 years of negotiations"
+      "ticker_label": "🪖 EU and Mercosur bloc sign landmark free trade deal after 25 years of negotiations"
     },
     {
       "title": "Top Iranian general threatens to 'cut off' Trump's hand over potential military strikes",
@@ -969,20 +969,6 @@
       "is_ticker": false
     },
     {
-      "title": "Sudan: A truce of separation",
-      "description": "The proposed humanitarian ceasefire in Sudan aims to undermine the unity of the country.",
-      "url": "https://www.aljazeera.com/opinions/2026/1/17/sudan-a-truce-of-separation?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 09:35:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sudan: A truce of separation"
-    },
-    {
       "title": "A protester from Iran shares her experience",
       "description": "NPR's Scott Simon speaks with A., an Iranian who recently left the country after participating in several days of protests.",
       "url": "https://www.npr.org/2026/01/17/nx-s1-5677587/a-protester-from-iran-shares-her-experience",
@@ -1083,7 +1069,7 @@
     },
     {
       "title": "Syrian troops clash with Kurdish forces as both sides trade blame for breaking withdrawal deal",
-      "description": "At least four Syrian soldiers and an unknown number of Kurdish-led troops have been killed in clashes that broke out during the agreed withdrawal of Kurdish fighters across the Euphrates River. The Syrian army now aims to seize the city of Taqba on the river's west bank, which the Kurdish-led Syrian Democratic Forces say they had not agreed to leave.",
+      "description": "At least four Syrian soldiers and an unknown number of Kurdish-led troops have been killed in clashes that broke out during the agreed withdrawal of Kurdish fighters across the Euphrates River. The Syrian army says it has now entered the city of Taqba on the river's west bank, which the Kurdish-led Syrian Democratic Forces say they had not agreed to leave.",
       "url": "https://www.france24.com/en/middle-east/20260117-syrian-troops-clash-kurdish-forces-as-sides-trade-blame-breaking-withdrawal-deal",
       "published": "Sat, 17 Jan 2026 16:35:41 GMT",
       "source": "France24",
@@ -1129,11 +1115,33 @@
       "is_ticker": false
     },
     {
+      "title": "Lindsey Graham speaks against pending execution of 26-year-old Iranian protester: 'This regime must fall'",
+      "description": "Sen. Lindsey Graham calls for Iranian regime change as 26-year-old protester Erfan Soltani faces possible execution despite President Donald Trump's threats.",
+      "url": "https://www.foxnews.com/world/lindsey-graham-speaks-against-pending-execution-26-year-old-iranian-protester-this-regime-must-fall",
+      "published": "Sat, 17 Jan 2026 13:39:12 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Man accused of murdering woman and toddler in Munich car attack goes on trial",
       "description": "The Afghan suspect is accused of killing a 37-year-old woman and her two-year-old daughter.",
       "url": "https://www.bbc.com/news/articles/cx2xpz559neo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 17:51:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Zelenskyy demands faster energy imports as Ukraine reels from power outages",
+      "description": "Russian attacks on Ukraine's energy infrastructure leave thousands without power in freezing winter temperatures.",
+      "url": "https://www.aljazeera.com/news/2026/1/17/zelenskyy-demands-faster-energy-imports-as-ukraine-reels-from-power-outages?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 18:18:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1525,7 +1533,7 @@
       "ticker_label": "💥 ‘Make America Go Away!’: Anti-Trump protests erupt in Denmark"
     },
     {
-      "title": "Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘board of peace’",
+      "title": "Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘board of peace’",
       "description": "The board will supervise the temporary governance of Gaza, which has been under a fragile ceasefire since October.",
       "url": "https://www.aljazeera.com/news/2026/1/17/trump-asks-turkiyes-erdogan-egypts-el-sisi-to-join-gaza-board-of?traffic_source=rss",
       "published": "Sat, 17 Jan 2026 15:08:16 +0000",
@@ -1536,7 +1544,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘board of peace’"
+      "ticker_label": "🪖 Trump asks Turkiye’s Erdogan, Egypt’s el-Sisi to join Gaza ‘board of peace’"
     },
     {
       "title": "Iran restores SMS as phased rollback of internet blackout begins",
@@ -1564,10 +1572,10 @@
       "ticker_label": "💥 'Not for sale': massive protest in Copenhagen against Trump's desire to acquire Greenland"
     },
     {
-      "title": "'Hands off Greenland' protests draws thousands in Denmark",
+      "title": "Thousands oppose US plans in 'Hands off Greenland' protests",
       "description": "Organizers have called on Danish and Greenlandic residents to join marches and rallies against US President Donald Trump's push to acquire Greenland.",
-      "url": "https://www.dw.com/en/hands-off-greenland-protests-draws-thousands-in-denmark/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 17 Jan 2026 11:23:00 GMT",
+      "url": "https://www.dw.com/en/thousands-oppose-us-plans-in-hands-off-greenland-protests/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Jan 2026 19:02:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
@@ -1771,6 +1779,17 @@
       "is_ticker": false
     },
     {
+      "title": "Syrian army takes control of Deir Hafer, Maskana under agreement",
+      "description": "Syrian government troops have moved into dozens of towns and villages in eastern Aleppo governorate as the SDF withdraw.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/17/syrian-army-takes-control-of-deir-hafer-maskana-under-agreement?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 18:30:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Syrian army takes control of east Aleppo towns as Kurdish fighters withdraw",
       "description": "Military says it seized 34 villages and towns in the region as it keeps taking over territories from Kurdish fighters.",
       "url": "https://www.aljazeera.com/news/2026/1/17/syrian-army-takes-control-of-east-aleppo-towns-as-kurdish-fighters-withdraw?traffic_source=rss",
@@ -1820,17 +1839,6 @@
       "url": "https://www.france24.com/en/afcon-2025-egypt-and-nigeria-face-off-for-third-place",
       "published": "Sat, 17 Jan 2026 16:33:30 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ohio dentist murders gun match a ‘big problem’ for surgeon ex: Defense attorney",
-      "description": "Evidence allegedly links gun from accused surgeon Michael McKee's property to Ohio dentist double murder, creating a \"big problem\" for defense.",
-      "url": "https://www.foxnews.com/us/ohio-dentist-murders-gun-match-big-problem-surgeon-ex-defense-attorney",
-      "published": "Fri, 16 Jan 2026 07:00:05 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1991,6 +1999,17 @@
       "is_ticker": false
     },
     {
+      "title": "What’s pushing Canada and China closer?",
+      "description": "Canadian Prime Minister Mark Carney hails his visit to China as 'historic'.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/1/17/whats-pushing-canada-and-china-closer?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 18:35:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump pledges to slap tariffs on European allies over Greenland",
       "description": "US president says eight countries to face tariffs over opposition to US control of semi-autonomous Danish territory.",
       "url": "https://www.aljazeera.com/news/2026/1/17/trump-pledges-to-slap-tariffs-on-european-allies-over-greenland?traffic_source=rss",
@@ -2039,28 +2058,6 @@
       "description": "Novak Djokovic ready to turn back clock at Australian Open despite falling behind Carlos Alcaraz and Jannik Sinner.",
       "url": "https://www.aljazeera.com/sports/2026/1/17/australian-open-djokovic-ready-to-upset-alcaraz-sinner-rivalry?traffic_source=rss",
       "published": "Sat, 17 Jan 2026 11:20:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "AFCON final: Senegal criticises lack of ‘fair play’ ahead of Morocco clash",
-      "description": "Senegal criticises lack of 'fair play' before facing host nation Morocco in the 2025 CAF Africa Cup of Nations final.",
-      "url": "https://www.aljazeera.com/sports/2026/1/17/afcon-final-senegal-criticizes-lack-of-fair-play-ahead-of-morocco-clash?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 10:06:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Clippers rally past Raptors in OT for fifth straight NBA win",
-      "description": "Los Angeles Clippers overcome a 14-point deficit to beat Toronto Raptors 121-117, while Nets and Cavaliers also win.",
-      "url": "https://www.aljazeera.com/sports/2026/1/17/clippers-rally-past-raptors-in-ot-for-fifth-straight-nba-win?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 09:50:57 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
