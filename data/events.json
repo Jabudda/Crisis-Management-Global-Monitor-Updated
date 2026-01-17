@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T09:44:09.505727Z",
+  "last_updated": "2026-01-17T10:27:22.008280Z",
   "event_count": 222,
   "events": [
     {
@@ -29,6 +29,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Extreme rainfall inundates South Africa and Mozambique"
+    },
+    {
+      "title": "Iran protest movement subsides amid intense crackdown",
+      "description": "Protests in Iran have subsided after a crackdown that has killed thousands under an internet blackout, monitors said Friday, a week after the start of the largest demonstrations in years challenging the country's theocratic system. Siavosh Ghazi, FRANCE 24 Tehran correspondent, said Saturday that security forces remain largely present for a fifth consecutive day as official media continue to report arrests of people described as members of terrorist groups.",
+      "url": "https://www.france24.com/en/video/20260117-iran-protest-movement-subsides-amid-intense-crackdown-1",
+      "published": "Sat, 17 Jan 2026 10:07:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 39,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Iran protest movement subsides amid intense crackdown"
     },
     {
       "title": "UN chief warns of a world in chaos as impunity and unpredictability spreads",
@@ -109,20 +123,6 @@
       "ticker_label": "🌪️ More than 100 people die as torrential rain and flooding hit three countries"
     },
     {
-      "title": "US-Europe standoff on Greenland 'a big win for Putin': Danish parliament defence chair",
-      "description": "For US President Donald Trump, mocking a country or a leader is not just a reality TV-style soundbite, it is an early warning sign of military action. Trump scorned Nicolas Maduro for \"playing tough\" before snatching the Venezuelan leader. Now he contemptuously talks of Denmark \"adding two more dogsleds\" to defend Greenland. European countries do appear to be taking this latest threat seriously, but can they actually stop Trump from taking over Greenland? And how do they navigate this crisis when they must also stay focused on Ukraine? We put these questions to Rasmus Jarlov, chair of the defence committee in the Danish parliament.",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260116-us-europe-standoff-on-greenland-a-big-win-for-putin-danish-parliament-defence-chair",
-      "published": "Fri, 16 Jan 2026 17:03:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US-Europe standoff on Greenland 'a big win for Putin': Danish parliament defence chair"
-    },
-    {
       "title": "Floods in South Africa force evacuations from famed Kruger National Park; 19 dead in other regions",
       "description": "Flooding caused by weeks of torrential rains in northern South Africa has forced the famed Kruger National Park to suspend visits and evacuate some guests and staff members",
       "url": "https://abcnews.go.com/International/wireStory/floods-south-africa-force-evacuations-famed-kruger-national-129243140",
@@ -163,20 +163,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Sydney awaits ‘soggiest weekend of summer’ as Victorian authorities defend flash flood warnings"
-    },
-    {
-      "title": "Arrests reported by official media for first time since Tehran protests began",
-      "description": "Friday marks the fifth day since the last demonstrations in Tehran, FRANCE 24 correspondent Siavosh Ghazi reported from the Iranian capital. He said the news agency Tasnim, which is linked to the Revolutionary Guards, has reported arrests of protesters for the first time since the mass demonstrations began. No death toll or figures for the injured were provided, Ghazi added.",
-      "url": "https://www.france24.com/en/arrests-reported-by-official-media-for-first-time-since-tehran-protests-began",
-      "published": "Fri, 16 Jan 2026 16:45:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Arrests reported by official media for first time since Tehran protests began"
     },
     {
       "title": "Live: Death toll from Iran protests tops 3,000, HRANA rights group says",
@@ -583,6 +569,20 @@
       "is_ticker": false
     },
     {
+      "title": "Kurdish granted national language status in Syria",
+      "description": "Syrian President Ahmed al-Sharaa issued a decree on Friday declaring Kurdish a \"national language\", in an apparent gesture of good will towards the minority following clashes in recent days. The decree is the first formal recognition of Kurdish national rights since Syria's independence in 1946.",
+      "url": "https://www.france24.com/en/kurdish-granted-national-language-status-in-syria",
+      "published": "Sat, 17 Jan 2026 10:12:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kurdish granted national language status in Syria"
+    },
+    {
       "title": "Civilians flee on foot as Syrian military offensive looms east of Aleppo",
       "description": "A trickle of civilians has left a contested area east of Aleppo after a Syrian military warning to evacuate",
       "url": "https://abcnews.go.com/International/wireStory/civilians-flee-foot-syrian-military-offensive-looms-east-129243691",
@@ -975,6 +975,20 @@
       "is_ticker": false
     },
     {
+      "title": "Sudan: A truce of separation",
+      "description": "The proposed humanitarian ceasefire in Sudan aims to undermine the unity of the country.",
+      "url": "https://www.aljazeera.com/opinions/2026/1/17/sudan-a-truce-of-separation?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 09:35:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Sudan: A truce of separation"
+    },
+    {
       "title": "US judge orders curbs on ICE agents’ actions against Minnesota protesters",
       "description": "The court injunction bars federal ​agents from detaining or retaliating against peaceful protesters or observers.",
       "url": "https://www.aljazeera.com/news/2026/1/17/us-judge-orders-curbs-on-ice-agents-actions-against-minnesota-protesters?traffic_source=rss",
@@ -984,20 +998,6 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "‘Not regulated’: launch of ChatGPT Health in Australia causes concern among experts",
-      "description": "Calls for clear guardrails and consumer education before wider rollout of OpenAI’s health advice platform Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A 60-year-old man with no history of mental illness presented at a hospital emergency department insisting that his neighbour was poisoning him. Over the next 24 hours he had worsening hallucinations, and tried to escape the hospital. Doctors eventually discovered the man was on a daily diet of sodium bromide, an inorganic salt mainly used for industrial and laboratory purposes including cleaning and water treatment. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/jan/15/chatgpt-health-ai-chatbot-medical-advice",
-      "published": "Thu, 15 Jan 2026 14:00:21 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 ‘Not regulated’: launch of ChatGPT Health in Australia causes concern among experts"
     },
     {
       "title": "911 transcripts, documents detail chaotic scene after ICE agent fatally shot Renee Good",
@@ -1031,6 +1031,31 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "description": "It comes as fresh details emerged in the death of a Minneapolis woman shot last week by an ICE agent in the city.",
+      "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 07:22:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Syria live news: Army takes control of east Aleppo towns as SDF pulls out",
+      "description": "Army says its forces are working to remove mines and other war remnants as they continue advancement.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 08:14:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Syria live news: Army takes control of east Aleppo towns as SDF pulls out"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1088,42 +1113,6 @@
       "is_ticker": false
     },
     {
-      "title": "Tragic death of Adichie's young son pushes Nigeria to act on health sector failings",
-      "description": "Novelist Chimamanda Ngozi Adichie says her child's death was caused by medical negligence, which the hospital denies.",
-      "url": "https://www.bbc.com/news/articles/c2d70kx6nn3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 10:37:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Cuba counts cost of alliance after 32 troops killed in Venezuela",
-      "description": "The recent events in Venezuela have exposed the strategic risks of Cuba’s foreign entanglements.",
-      "url": "https://www.bbc.com/news/articles/c0q4l3g183jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 02:49:01 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out",
-      "description": "Army says its forces are working to remove mines and other war remnants as they continue advancement.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
-      "published": "Sat, 17 Jan 2026 08:14:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out"
-    },
-    {
       "title": "Russia-Ukraine war: List of key events, day 1,423",
       "description": "These are the key developments from day 1,423 of Russia’s war on Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/1/17/russia-ukraine-war-list-of-key-events-day-1423?traffic_source=rss",
@@ -1136,17 +1125,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia-Ukraine war: List of key events, day 1,423"
-    },
-    {
-      "title": "Israeli attacks kill several as Gaza governance committee meets in Cairo",
-      "description": "Nothing changes on ground for Palestinians needing ‘food, shelter, safety’, who see Trump’s plan as ‘distant, abstract'.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/more-killing-in-gaza-as-technocrats-meet-in-cairo-for-phase-2-of-peace-plan?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 22:17:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1235,6 +1213,34 @@
       "ticker_label": "🪖 Livestream: The European Film Awards 2026"
     },
     {
+      "title": "Trump taps former UK PM Tony Blair for Gaza 'board of peace'",
+      "description": "US President Donald Trump on Friday gave a key role in post-war Gaza to former British prime minister Tony Blair and appointed a US officer to lead a nascent security force. Trump named members of a board to help supervise Gaza that was dominated by Americans, as he promotes a controversial vision of economic development in a territory that lies in rubble after two-plus years of relentless Israeli bombardment.",
+      "url": "https://www.france24.com/en/trump-taps-former-uk-pm-tony-blair-for-gaza-board-of-peace",
+      "published": "Sat, 17 Jan 2026 10:21:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump taps former UK PM Tony Blair for Gaza 'board of peace'"
+    },
+    {
+      "title": "Trump taps Tony Blair, US military head for Gaza",
+      "description": "US President Donald Trump on Friday gave a key role in post-war Gaza to former British prime minister Tony Blair and appointed a US officer to lead a nascent security force.",
+      "url": "https://www.france24.com/en/live-news/20260117-trump-taps-tony-blair-us-military-head-for-gaza",
+      "published": "Sat, 17 Jan 2026 01:09:13 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump taps Tony Blair, US military head for Gaza"
+    },
+    {
       "title": "Key accuser in Alexander brothers rape case dies just one week before federal trial begins: report",
       "description": "Kate Whiteman, who first accused Oren and Alon Alexander of rape, has died in Australia. The twins, along with their older brother, await their criminal trial this month.",
       "url": "https://www.foxnews.com/us/key-accuser-alexander-brothers-rape-case-dies-just-one-week-before-federal-trial-begins-report",
@@ -1311,17 +1317,6 @@
       "description": "The opposition leader says she has a mandate to lead the country after the US seized its president.",
       "url": "https://www.bbc.com/news/articles/cz7y14ypg2qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 19:01:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Julio Iglesias denies sexual assault allegations",
-      "description": "In a statement, the Spanish singer says the allegations are \"absolutely false and deeply sadden me\".",
-      "url": "https://www.bbc.com/news/articles/cdx40dxdlrqo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Jan 2026 09:37:13 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1596,31 +1591,6 @@
       "is_ticker": false
     },
     {
-      "title": "Greenland’s security and defence cooperation with NATO allies 'achievable within existing framework'",
-      "description": "Mark Owen is pleased to welcome Sophie Arts, Programme Officer at the German Marshall Fund's Geostrategy North team. In a time of heightened geopolitical crises across the globe, Greenland has emerged as a symbol of a new post WWII order and an alliance facing an existential threat. Ms. Arts speaks of a dynamic power landscape best addressed through dialogue, transparency, and multilateral frameworks. Ms. Arts asserts that NATO's 76-year-old alliance has an \"opportunity to transform that challenging rhetoric into a stronger and more unified NATO.\"",
-      "url": "https://www.france24.com/en/video/20260116-greenland-s-security-and-defence-cooperation-with-nato-allies-achievable-within-existing-framework-1",
-      "published": "Fri, 16 Jan 2026 16:34:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Greenland’s security and defence cooperation with NATO allies 'achievable within existing framework'"
-    },
-    {
-      "title": "Trump threatens tariffs on countries not backing US takeover of Greenland",
-      "description": "President Donald Trump said for the first time on Friday that he might use tariffs to punish countries that \"don't go along with\" his plans for the US to acquire Greenland. European leaders have repeatedly said that the US cannot seize control of the island, which is a semi-autonomous territory of Denmark.",
-      "url": "https://www.france24.com/en/americas/20260116-trump-threatens-tariffs-countries-not-backing-us-takeover-of-greenland",
-      "published": "Fri, 16 Jan 2026 16:23:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "'People power' opposition supporters shout as voting count in Uganda election turns violent",
       "description": "Heavily-armed military officers yell at us to kneel on the ground in front of the shuttered shop fronts facing Kibuye roundabout in central Kampala as the jolting sounds of gunfire and stun grenades ring out.",
       "url": "https://news.sky.com/story/people-power-opposition-supporters-shout-as-voting-count-in-uganda-election-turns-violent-13495174",
@@ -1748,10 +1718,10 @@
       "is_ticker": false
     },
     {
-      "title": "EU-Mercosur trade pact agreed: Is it the end for opponents of the deal?",
-      "description": "A majority of EU member states have voted in favour of a landmark free trade deal with Latin American countries. The Mercosur agreement has been 25 years in the making, and its supporters are adamant that it will assert Europe's geostrategic position and benefit consumers. But despite the green light from the EU Council, Mercosur continues to face opposition from countries such as France, as well as from many farmers in the EU. Meanwhile, the European Parliament still has to have its final say. We discuss the deal with two MEPs.",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260116-eu-mercosur-trade-pact-agreed-is-it-the-end-for-opponents-of-the-deal",
-      "published": "Fri, 16 Jan 2026 16:27:41 GMT",
+      "title": "Denmark invites US to participate in drills alongside NATO allies",
+      "description": "The United States has been invited to take part in military exercises in Greenland alongside NATO allies, the head of Denmark's Joint Arctic Command told AFP on Friday. This comes after European countries sent small numbers of military personnel to Greenland in a show of support on Thursday.",
+      "url": "https://www.france24.com/en/video/20260117-denmark-invites-us-to-participate-in-drills-alongside-nato-allies-1",
+      "published": "Sat, 17 Jan 2026 10:05:15 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
@@ -1928,9 +1898,31 @@
     },
     {
       "title": "Police deny claims Uganda opposition leader abducted by helicopter",
-      "description": "Uganda's president is cruising to victory with most of the votes counted as his main rival Bobi Wine decries \"fake results\".",
+      "description": "President Yoweri Museveni has a commanding lead with most votes counted as his main rival Bobi Wine decries \"fake results\".",
       "url": "https://www.bbc.com/news/articles/c20z3nx4xwqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 09:10:23 GMT",
+      "published": "Sat, 17 Jan 2026 10:16:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Google appeals landmark antitrust verdict over search monopoly",
+      "description": "The tech giant is seeking a pause on court-ordered fixes aimed at limiting its monopoly power.",
+      "url": "https://www.bbc.com/news/articles/clyn0ek5rdpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 02:44:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "description": "Junta chief Mamadi Doumbouya, set for a seven-year term, has to prove himself as a democratic leader.",
+      "url": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 00:43:58 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2004,6 +1996,17 @@
       "is_ticker": false
     },
     {
+      "title": "Clippers rally past Raptors in OT for fifth straight NBA win",
+      "description": "Los Angeles Clippers overcome a 14-point deficit to beat Toronto Raptors 121-117, while Nets and Cavaliers also win.",
+      "url": "https://www.aljazeera.com/sports/2026/1/17/clippers-rally-past-raptors-in-ot-for-fifth-straight-nba-win?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 09:50:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "AFCON, Colonialism and Lumumba",
       "description": "A Congolese fan stood for 90 minutes to honour Patrice Lumumba, a man who stood for independence and paid for it",
       "url": "https://www.aljazeera.com/video/game-theory/2026/1/17/afcon-colonialism-and-lumumba?traffic_source=rss",
@@ -2052,17 +2055,6 @@
       "description": "Vazquez accepted a plea deal in 2025 after she was accused of participating in a bribery scheme while in office.",
       "url": "https://www.aljazeera.com/news/2026/1/16/trump-to-pardon-former-puerto-rico-governor-wanda-vazquez-after-plea-deal?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 22:43:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump names Tony Blair, Jared Kushner to Gaza ‘Board of Peace’",
-      "description": "Former UK prime minister's role on Trump-led Gaza oversight committee expected to spur widespread condemnation.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 22:21:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2238,6 +2230,17 @@
       "is_ticker": false
     },
     {
+      "title": "Damien Martyn declares ‘I’m back!’ after leaving hospital following meningitis",
+      "description": "In a social media post, the former Australia batter revealed he had been given a ‘50/50 chance of surviving’ and thanked medical staff and well-wishers Damien Martyn has declared he is back after overcoming a meningitis scare, which he said took his life out of his hands. In a heartfelt post on his social media accounts, the former Australia batter said he was given a 50% chance to live after battling the disease, which causes an infection and swelling of fluid and membranes around the brain and spinal cord. The 54-year-old was put into an induced coma on 27 December and was fighting for his life in a Gold Coast intensive care unit until he woke eight days later. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/jan/17/damien-martyn-declares-im-back-after-leaving-hospital-following-meningitis",
+      "published": "Sat, 17 Jan 2026 10:14:33 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "M 6.0 - 295 km W of Bandon, Oregon",
       "description": "PAGER - GREEN ShakeMap - I DYFI? - IV Time 2026-01-16 03:25:52 UTC 2026-01-16 03:25:52 UTC at epicenter Location 43.543°N 128.009°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rq0d",
@@ -2304,6 +2307,17 @@
       "is_ticker": false
     },
     {
+      "title": "How are ICE agents recruited, and who are they?",
+      "description": "Donald Trump's second presidential term has seen a rapid rise in the number of Immigration and Customs Enforcement (ICE) agents. But who are these people, and where is the US government finding them?",
+      "url": "https://www.dw.com/en/how-are-ice-agents-recruited-and-who-are-they/a-75506003?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Jan 2026 10:05:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Iran's exiled crown prince asks Europe's help to end regime",
       "description": "The eldest son of the last shah, Reza Pahlavi, has said Iran's regime is on its \"last legs\" and called on countries to take action in support of demonstrators.",
       "url": "https://www.dw.com/en/iran-s-exiled-crown-prince-asks-europe-s-help-to-end-regime/a-75544196?maca=en-rss-en-all-1573-xml-mrss",
@@ -2341,17 +2355,6 @@
       "description": "A viral video shows a woman lighting her cigarette from a burning photo of Iran's leader. Many claim it was filmed secretly in Tehran. The image is real; however, it's not from Iran.",
       "url": "https://www.dw.com/en/fact-check-woman-burning-khamenei-photo-not-in-iran/a-75537908?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 16 Jan 2026 14:24:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Uganda election: Museveni takes early lead",
-      "description": "Ugandan President Yoweri Museveni holds a strong lead in early results, while his challenger Bobi Wine says security forces have effectively confined him to his home.",
-      "url": "https://www.dw.com/en/uganda-election-museveni-takes-early-lead/a-75540240?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Jan 2026 14:16:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
