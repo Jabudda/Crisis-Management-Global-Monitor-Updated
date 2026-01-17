@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-17T08:33:56.132153Z",
+  "last_updated": "2026-01-17T09:27:06.233053Z",
   "event_count": 223,
   "events": [
     {
@@ -179,7 +179,7 @@
       "ticker_label": "🚑 Arrests reported by official media for first time since Tehran protests began"
     },
     {
-      "title": "Live: Iran death toll tops 3,000, yet another rights group says",
+      "title": "Live: Death toll from Iran protests tops 3,000, HRANA rights group says",
       "description": "More than 3,000 people have been killed in the anti-government protests in Iran, another rights group reported Saturday. The US-based organisation HRANA said the authorities’ brutal crackdown appeared to have largely quelled the unrest. After more than 200 hours of an internet blackout, a monitoring group said it had noted \"a very slight rise\" in connectivity, but that there was still no sign of a significant return to normal service. Follow our liveblog for all the latest developments.",
       "url": "https://www.france24.com/en/asia-pacific/20260117-live-iran-protests-death-toll-tops-3-000-rights-group-ayatollah-khamenei-trump-crackdown",
       "published": "Sat, 17 Jan 2026 06:22:28 GMT",
@@ -190,7 +190,7 @@
       "is_ticker": true,
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Live: Iran death toll tops 3,000, yet another rights group says"
+      "ticker_label": "🚑 Live: Death toll from Iran protests tops 3,000, HRANA rights group says"
     },
     {
       "title": "'Massacre' as Uganda election descends into deadly violence - as opposition leader is 'taken away'",
@@ -435,8 +435,8 @@
       "ticker_label": "🚨 Federal judge restricts ICE agents amid ongoing Minneapolis area protests"
     },
     {
-      "title": "US judge bars ICE agents from arresting peaceful Minnesota protesters or pepper-spraying them",
-      "description": "A US Judge on Friday barred ICE agents from detaining and arresting peaceful protesters in Minnesota and using pepper spray against them. The ruling comes after an ICE officer killed 37-year-old Renee Good, and another wounded a Venezuelan man a few days later.",
+      "title": "US judge bars ICE from arresting peaceful Minnesota protesters or using pepper spray",
+      "description": "A US Judge on Friday barred ICE agents from arresting peaceful protesters in Minnesota or using pepper spray against them. The ruling comes 10 days after an ICE officer killed 37-year-old Renee Good and another wounded a Venezuelan man a few days later.",
       "url": "https://www.france24.com/en/americas/20260117-us-judge-bars-ice-agents-arresting-peaceful-minnesota-protesters-pepper-spray-renee-good-fatal-shooting",
       "published": "Sat, 17 Jan 2026 08:05:50 GMT",
       "source": "France24",
@@ -446,7 +446,7 @@
       "is_ticker": true,
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
-      "ticker_label": "🚑 US judge bars ICE agents from arresting peaceful Minnesota protesters or pepper-spraying them"
+      "ticker_label": "🚑 US judge bars ICE from arresting peaceful Minnesota protesters or using pepper spray"
     },
     {
       "title": "Syria's Sharaa declares Kurdish a 'national language' following clashes",
@@ -986,6 +986,17 @@
       "is_ticker": false
     },
     {
+      "title": "US judge orders curbs on ICE agents’ actions against Minnesota protesters",
+      "description": "The court injunction bars federal ​agents from detaining or retaliating against peaceful protesters or observers.",
+      "url": "https://www.aljazeera.com/news/2026/1/17/us-judge-orders-curbs-on-ice-agents-actions-against-minnesota-protesters?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 08:29:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "‘Not regulated’: launch of ChatGPT Health in Australia causes concern among experts",
       "description": "Calls for clear guardrails and consumer education before wider rollout of OpenAI’s health advice platform Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A 60-year-old man with no history of mental illness presented at a hospital emergency department insisting that his neighbour was poisoning him. Over the next 24 hours he had worsening hallucinations, and tried to escape the hospital. Doctors eventually discovered the man was on a daily diet of sodium bromide, an inorganic salt mainly used for industrial and laboratory purposes including cleaning and water treatment. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/jan/15/chatgpt-health-ai-chatbot-medical-advice",
@@ -1027,17 +1038,6 @@
       "url": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Jan 2026 07:22:23 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran says 3,000 people arrested as antigovernment protests subside",
-      "description": "Internet access remains cut off as the streets of Tehran, other Iranian cities are largely calm after widescale unrest.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/iran-says-3000-people-arrested-as-antigovernment-protests-subside?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 21:28:56 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1119,6 +1119,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out",
+      "description": "Army says its forces are working to remove mines and other war remnants as they continue advancement.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/17/syria-live-news-army-takes-control-of-deir-hafer-as-sdf-withdraws?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 08:14:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Syria live news: Army takes control of Deir Hafer, Maskana as SDF pulls out"
     },
     {
       "title": "Russia-Ukraine war: List of key events, day 1,423",
@@ -1218,17 +1232,6 @@
       "ticker_label": "🪖 Livestream: The European Film Awards 2026"
     },
     {
-      "title": "Can South Korea turn the page with Yoon Suk Yeol in prison?",
-      "description": "Former South Korean President Yoon Suk Yeol has been sentenced to five years in the first criminal case linked to his shock declaration of martial law. Many Koreans seem eager to put the crisis behind them.",
-      "url": "https://www.dw.com/en/can-south-korea-turn-the-page-with-yoon-suk-yeol-in-prison/a-75537944?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Jan 2026 13:14:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Key accuser in Alexander brothers rape case dies just one week before federal trial begins: report",
       "description": "Kate Whiteman, who first accused Oren and Alon Alexander of rape, has died in Australia. The twins, along with their older brother, await their criminal trial this month.",
       "url": "https://www.foxnews.com/us/key-accuser-alexander-brothers-rape-case-dies-just-one-week-before-federal-trial-begins-report",
@@ -1317,6 +1320,17 @@
       "url": "https://www.bbc.com/news/articles/cdx40dxdlrqo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 16 Jan 2026 09:37:13 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Syria decree grants Kurds new rights, formally recognising Kurdish language",
+      "description": "The decree is the first formal recognition of Kurdish national rights since Syria's independence in 1946.",
+      "url": "https://www.aljazeera.com/news/2026/1/17/syria-decree-grants-kurds-new-rights-formally-recognising-kurdish-language?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 08:47:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1502,6 +1516,17 @@
       "is_ticker": false
     },
     {
+      "title": "Syrian army enters areas east of Aleppo as Kurds withdraw",
+      "description": "The Syrian army announced that it had taken control of Deir Hafer, a town previously under Kurdish control located east of Aleppo.",
+      "url": "https://www.dw.com/en/syrian-army-enters-areas-east-of-aleppo-as-kurds-withdraw/a-75545840?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 17 Jan 2026 09:12:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Most Germans see Trump's policies as threat to NATO",
       "description": "A majority of Germans say President Donald Trump's approach to foreign policy endangers the NATO alliance, according to a new survey.",
       "url": "https://www.dw.com/en/most-germans-see-trump-s-policies-as-threat-to-nato/a-75540685?maca=en-rss-en-all-1573-xml-mrss",
@@ -1557,6 +1582,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ugandan opposition denounces army raid on opposition leader Bobi Wine",
+      "description": "The party of Uganda's main opposition leader Bobi Wine denounced a raid by security forces on his home on Friday amid reports Wine has been cut off from all communication. The raid comes just before the announcement of the results of the presidential election expected on Saturday.",
+      "url": "https://www.france24.com/en/africa/20260117-ugandan-army-denies-seizing-opposition-leader-bobi-wine-amid-vote-count",
+      "published": "Sat, 17 Jan 2026 07:21:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Greenland’s security and defence cooperation with NATO allies 'achievable within existing framework'",
       "description": "Mark Owen is pleased to welcome Sophie Arts, Programme Officer at the German Marshall Fund's Geostrategy North team. In a time of heightened geopolitical crises across the globe, Greenland has emerged as a symbol of a new post WWII order and an alliance facing an existential threat. Ms. Arts speaks of a dynamic power landscape best addressed through dialogue, transparency, and multilateral frameworks. Ms. Arts asserts that NATO's 76-year-old alliance has an \"opportunity to transform that challenging rhetoric into a stronger and more unified NATO.\"",
       "url": "https://www.france24.com/en/video/20260116-greenland-s-security-and-defence-cooperation-with-nato-allies-achievable-within-existing-framework-1",
@@ -1575,17 +1611,6 @@
       "description": "President Donald Trump said for the first time on Friday that he might use tariffs to punish countries that \"don't go along with\" his plans for the US to acquire Greenland. European leaders have repeatedly said that the US cannot seize control of the island, which is a semi-autonomous territory of Denmark.",
       "url": "https://www.france24.com/en/americas/20260116-trump-threatens-tariffs-countries-not-backing-us-takeover-of-greenland",
       "published": "Fri, 16 Jan 2026 16:23:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "US lawmakers seek to reassure Greenland in visit to Denmark",
-      "description": "A bipartisan US Congress delegation began a visit to Copenhagen on Friday to voice support for Denmark and Greenland after US President Donald Trump threatened to take over the Arctic island, an autonomous Danish territory. The two-day visit comes alongside a European show of support in the form of a military reconnaissance mission to Greenland. FRANCE 24's Kethevane Gorjestani brings you this analysis.",
-      "url": "https://www.france24.com/en/us-lawmakers-seek-to-reassure-greenland-in-visit-to-denmark",
-      "published": "Fri, 16 Jan 2026 15:47:54 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 5,
@@ -1814,7 +1839,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-17T08:33:32.914620Z",
+      "published": "2026-01-17T09:26:39.841214Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1855,10 +1880,21 @@
       "is_ticker": false
     },
     {
-      "title": "Syrian army announces full control of Deir Hafer after SDF withdrawal",
-      "description": "Government forces enter city in Aleppo governorate after SDF fighters pull out.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/syrian-army-warns-of-strikes-against-kurdish-led-sdf-east-of-aleppo?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 21:19:01 +0000",
+      "title": "Photos: Syrian army enters Deir Hafer after SDF withdrawal",
+      "description": "Government troops enter the city earlier controlled by the SDF, marking a shift in territorial control in Aleppo region.",
+      "url": "https://www.aljazeera.com/gallery/2026/1/17/photos-syrian-army-enters-deir-hafer-after-sdf-withdrawal?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 09:08:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "LIVE: Manchester United vs Manchester City – Premier League",
+      "description": "Follow our live build-up, with team news coverage, ahead of our text commentary stream of the derby at Old Trafford.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/1/17/live-manchester-united-vs-manchester-city-premier-league?traffic_source=rss",
+      "published": "Sat, 17 Jan 2026 09:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1888,10 +1924,10 @@
       "is_ticker": false
     },
     {
-      "title": "Uganda's president heads for victory as his main rival cries foul",
-      "description": "President Museveni has about 75% of the vote with results in from more than half of all polling stations.",
-      "url": "https://www.bbc.com/news/articles/c78vzye1l2no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 06:16:19 GMT",
+      "title": "Police deny claims Uganda opposition leader abducted by helicopter",
+      "description": "Uganda's president is cruising to victory with most of the votes counted as his main rival Bobi Wine decries \"fake results\".",
+      "url": "https://www.bbc.com/news/articles/c20z3nx4xwqo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Jan 2026 09:10:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2024,42 +2060,6 @@
       "description": "Former UK prime minister's role on Trump-led Gaza oversight committee expected to spur widespread condemnation.",
       "url": "https://www.aljazeera.com/news/2026/1/16/trump-names-tony-blair-jared-kushner-to-gaza-board-of-peace?traffic_source=rss",
       "published": "Fri, 16 Jan 2026 22:21:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Profoundly pro-American’: Machado outlines a vision for Venezuela’s future",
-      "description": "Machado said the interim government of Delcy Rodriguez would do the 'dirty work' of assuring a democratic transition.",
-      "url": "https://www.aljazeera.com/news/2026/1/16/profoundly-pro-american-machado-outlines-a-vision-for-venezuelas-future?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 21:18:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Gaza buried under millions of tonnes of rubble",
-      "description": "More than two years of Israeli bombardment have left Gaza buried under an estimated 61 million tonnes of rubble.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/gaza-buried-under-millions-of-tonnes-of-rubble?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 20:43:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Gaza buried under millions of tonnes of rubble"
-    },
-    {
-      "title": "Donald Trump praises Iran for halting mass executions",
-      "description": "US President Donald Trump praised Iran for halting what he said were plans to hang more than 800 political prisoners.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/16/donald-trump-praises-iran-for-halting-mass-executions?traffic_source=rss",
-      "published": "Fri, 16 Jan 2026 20:12:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2367,10 +2367,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ugandan army denies seizing opposition leader Bobi Wine amid vote count",
-      "description": "The Ugandan army on Saturday rejected claims that it had seized opposition leader Bobi Wine as the final stretch of the presidential vote count was under way. On Friday, Wine said he had been placed under house arrest, with his party later saying that he had been “forcibly taken” from his home by an army helicopter.",
-      "url": "https://www.france24.com/en/africa/20260117-ugandan-army-denies-seizing-opposition-leader-bobi-wine-amid-vote-count",
-      "published": "Sat, 17 Jan 2026 07:21:57 GMT",
+      "title": "AFCON 2025: Clash of the fallen giants as Egypt Face Nigeria",
+      "description": "The Super Eagles and the Pharaohs meet this Saturday in Casablanca for the Africa Cup of Nations third-place playoff. A showdown between two heavyweights left disappointed, both sides will be desperate to bow out of the tournament with pride restored.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260117-afcon-2025-clash-of-the-fallen-giants-as-egypt-face-nigeria",
+      "published": "Sat, 17 Jan 2026 09:09:21 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2379,7 +2379,7 @@
     },
     {
       "title": "Tony Blair to oversee Gaza's future as part of Trump's 'greatest and most prestigious' Board of Peace",
-      "description": "Sir Tony Blair will oversee the future of the Gaza strip as part of the \"greatest and most prestigious board ever assembled\", Donald Trump has said.",
+      "description": "Sir Tony Blair will oversee the future of the Gaza Strip as part of the \"greatest and most prestigious board ever assembled\", Donald Trump has said.",
       "url": "https://news.sky.com/story/tony-blair-to-oversee-gazas-future-as-part-of-trumps-greatest-and-most-prestigious-board-of-peace-13495223",
       "published": "Sat, 17 Jan 2026 00:49:00 +0000",
       "source": "Sky News World",
