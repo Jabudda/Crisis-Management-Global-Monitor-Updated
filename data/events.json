@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T05:29:54.600239Z",
-  "event_count": 221,
+  "last_updated": "2026-01-18T05:49:52.900668Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -1857,6 +1857,17 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/18/australia-news-live-weather-sydney-nsw-storms-sunday-politics-ntwnfb",
       "published": "Sun, 18 Jan 2026 04:58:03 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-18T05:49:31.060802Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
