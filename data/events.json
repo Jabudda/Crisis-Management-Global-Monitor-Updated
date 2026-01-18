@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-18T14:24:38.131207Z",
-  "event_count": 221,
+  "last_updated": "2026-01-18T14:44:29.612207Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Security Council LIVE: UN raises alarm over deadly Iran protests and ‘possible military strikes’",
@@ -630,7 +630,7 @@
       "title": "5 skiers killed in a pair of avalanches in Austria",
       "description": "Rescue helicopters, mountain rescue and Red Cross dog teams rushed to the scene.",
       "url": "https://abcnews.go.com/International/wireStory/5-skiers-killed-pair-avalanches-austria-129314287",
-      "published": "Sat, 17 Jan 2026 15:44:32 -0500",
+      "published": "Sat, 17 Jan 2026 15:45:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -1004,17 +1004,6 @@
       "is_ticker": false
     },
     {
-      "title": "'Eight skiers killed' in Austrian avalanches",
-      "description": "At least eight people have been killed in a series of avalanches in Austria, according to reports.",
-      "url": "https://news.sky.com/story/eight-skiers-killed-in-austrian-avalanches-13495767",
-      "published": "Sun, 18 Jan 2026 08:29:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Minnesota National Guard placed on standby to support law enforcement as protests turn violent",
       "description": "Minnesota National Guard members will wear yellow reflective vests to distinguish themselves from other law enforcement if activated during anti-ICE protests.",
       "url": "https://www.foxnews.com/us/minnesota-national-guard-placed-standby-support-law-enforcement-protests-turn-violent",
@@ -1278,6 +1267,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Germany news: Industry lobby slams Trump's Greenland demand"
+    },
+    {
+      "title": "Eight skiers killed in Austrian avalanches",
+      "description": "Eight people have been killed in a series of avalanches in Austria, authorities say.",
+      "url": "https://news.sky.com/story/eight-skiers-killed-in-austrian-avalanches-13495767",
+      "published": "Sun, 18 Jan 2026 08:29:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "More than 200,000 homes without power in Russian-occupied Ukraine, official says",
@@ -1785,6 +1785,17 @@
       "is_ticker": false
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-18T14:44:03.581505Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Syrian army extends control in north, seizes gas, oil fields",
       "description": "The Syrian army continues to push against the Kurdish-led Syrian Democratic Forces (SDF), reportedly capturing major oil and gas fields in eastern Syria.",
       "url": "https://www.dw.com/en/syrian-army-extends-control-in-north-seizes-gas-oil-fields/a-75551958?maca=en-rss-en-all-1573-xml-mrss",
@@ -1885,9 +1896,9 @@
     },
     {
       "title": "Syrian government seizes strategic town in Raqqa from Kurdish forces",
-      "description": "Government forces have seized a strategic town in eastern Syria, intensifying their push against Kurdish-led forces east of the Euphrates River",
+      "description": "Government forces have seized a strategic town and oil fields in northeastern Syria",
       "url": "https://abcnews.go.com/International/wireStory/syrian-government-seizes-strategic-town-raqqa-kurdish-forces-129324524",
-      "published": "Sun, 18 Jan 2026 05:25:48 -0500",
+      "published": "Sun, 18 Jan 2026 09:13:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1928,10 +1939,10 @@
       "is_ticker": false
     },
     {
-      "title": "Avalanches kill five off-piste skiers in Austrian Alps",
+      "title": "Avalanches kill eight skiers in Austrian Alps",
       "description": "A number of people have died in the Alps over the past week, as heavy snowfall has hit the region.",
       "url": "https://www.bbc.com/news/articles/c3r1v7gqdp8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Jan 2026 18:37:45 GMT",
+      "published": "Sun, 18 Jan 2026 14:31:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1939,7 +1950,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Avalanches kill five off-piste skiers in Austrian Alps"
+      "ticker_label": "💥 Avalanches kill eight skiers in Austrian Alps"
     },
     {
       "title": "Japanese mayor apologises after calling staff 'human scum'",
