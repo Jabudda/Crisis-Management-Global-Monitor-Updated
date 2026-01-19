@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-19T02:22:08.283643Z",
+  "last_updated": "2026-01-19T04:03:18.485057Z",
   "event_count": 222,
   "events": [
     {
@@ -29,6 +29,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ 15 years after Fukushima, Japan prepares to restart the world’s biggest nuclear plant"
+    },
+    {
+      "title": "Chile declares 'state of catastrophe' as wildfires leave at least 18 dead",
+      "description": "Chile's president warned the death toll cold rise in the Ñuble and Biobío regions.",
+      "url": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Jan 2026 03:30:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 47,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Chile declares 'state of catastrophe' as wildfires leave at least 18 dead"
     },
     {
       "title": "Chilean president declares state of catastrophe as wildfires kill at least 18",
@@ -101,22 +115,8 @@
       "ticker_label": "🪖 UN chief warns of a world in chaos as impunity and unpredictability spreads"
     },
     {
-      "title": "Australia politics live: Burke tells parliament he wishes Labor was ‘going harder’ on hate speech after Bondi; 100,000 livestock likely lost in Queensland floods",
-      "description": "Josh Burns says ‘every act of violence begins with hate’ during condolence motion for Bondi terror attack victims. Follow today’s news live Get our breaking news email , free app or daily news podcast Marles ‘confident about the future of Nato’ despite Trump pressure Continuing his media rounds, the deputy PM, Richard Marles , is pressed on the government’s response to Donald Trump ’s tariffs on some European nations, in a bid to take over Greenland. Nato has played a very important role and continues to be very strong. I’ve been to the last two Nato meetings representing Australia, and there is a definite sense of unity when you’re at Nato meetings. So I feel confident about the future of Nato. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
-      "published": "Mon, 19 Jan 2026 02:10:41 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Australia politics live: Burke tells parliament he wishes Labor was ‘going harder’ on hate speech after Bondi; 100,000 livestock likely lost in Queensland floods"
-    },
-    {
-      "title": "'State of catastrophe' in Chile as deadly wildfires rage",
-      "description": "At least 16 people have been killed and nearly 20,000 people have fled to safety after wildfires, as a \"state of catastrophe\" was declared in Chile.",
+      "title": "'State of catastrophe' in Chile as wildfires rage, killing at least 18",
+      "description": "At least 18 people have been killed and 50,000 people have fled to safety after wildfires, as a \"state of catastrophe\" was declared in Chile.",
       "url": "https://news.sky.com/story/state-of-catastrophe-in-chile-as-deadly-wildfires-rage-13495867",
       "published": "Sun, 18 Jan 2026 15:08:00 +0000",
       "source": "Sky News World",
@@ -126,7 +126,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ 'State of catastrophe' in Chile as deadly wildfires rage"
+      "ticker_label": "🌪️ 'State of catastrophe' in Chile as wildfires rage, killing at least 18"
     },
     {
       "title": "'Experienced terrorist' with links to deadly ambush killed by US strike",
@@ -210,6 +210,17 @@
       "ticker_label": "💥 At least 32 killed as crane collapses on train in Thailand"
     },
     {
+      "title": "Viral protest video against Iran’s supreme leader sparks copycat demonstrations worldwide",
+      "description": "Viral video shows Iranian refugee lighting cigarette with burning photo of supreme leader, sparking global defiance movement amid Iran protests.",
+      "url": "https://www.foxnews.com/world/viral-protest-video-against-irans-supreme-leader-sparks-copycat-demonstrations-worldwide",
+      "published": "Sun, 18 Jan 2026 21:52:54 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "US strike eliminates al Qaeda operative connected to ISIS ambush that killed 3 Americans in Syria",
       "description": "U.S. forces killed an al Qaeda-affiliated leader allegedly linked to an ISIS attack that killed three Americans in Syria, as CENTCOM launched counterterrorism operations Jan. 16.",
       "url": "https://www.foxnews.com/world/us-strike-eliminates-al-qaeda-operative-connected-isis-ambush-killed-3-americans-syria",
@@ -222,20 +233,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US strike eliminates al Qaeda operative connected to ISIS ambush that killed 3 Americans in Syria"
-    },
-    {
-      "title": "Chile declares 'state of catastrophe' as deadly wildfires menace cities",
-      "description": "At least 16 people are confirmed dead and 20,000 are evacuated as fires rage in two southern regions.",
-      "url": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Jan 2026 16:39:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Chile declares 'state of catastrophe' as deadly wildfires menace cities"
     },
     {
       "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
@@ -361,17 +358,6 @@
       "ticker_label": "🪖 WFP warns Sudan food aid could run out in March"
     },
     {
-      "title": "Six killed in Pakistan shopping mall fire",
-      "description": "Parts of the huge plaza in Karachi have collapsed as firefighters battle to extinguish the blaze.",
-      "url": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Jan 2026 15:00:12 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Chile forest fire death toll rises to 18 as state of emergency declared",
       "description": "Chilean President Gabriel Boric ‍has announced a ‍state of emergency in two southern regions.",
       "url": "https://www.aljazeera.com/news/2026/1/18/chile-forest-fire-death-toll-rises-to-16-as-state-of-emergency-declared?traffic_source=rss",
@@ -487,17 +473,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran's president says any attack on Supreme Leader Khamenei would be declaration of war"
-    },
-    {
-      "title": "Rapper suggests foreign forces brought in for 'massacre' crackdown in Iran",
-      "description": "An Iranian rapper who took part in the country's protests has described \"a massacre on the streets\", suggesting foreign forces have been brought in to stamp out the demonstrations.",
-      "url": "https://news.sky.com/story/iranian-rapper-describes-bodies-on-streets-left-as-a-warning-to-protesters-13495443",
-      "published": "Sat, 17 Jan 2026 16:43:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Gang violence in Guatemala kills 7 police officers after inmates take over prisons",
@@ -925,6 +900,17 @@
       "ticker_label": "🚨 California man kills wife, teen daughter in murder-suicide: authorities"
     },
     {
+      "title": "Iran accused of killing 16,500 in sweeping ‘genocide’ crackdown: report",
+      "description": "Supreme Leader Ayatollah Ali Khamenei acknowledges thousands killed in Iran protests as regime allegedly accelerates executions to more than eight per day.",
+      "url": "https://www.foxnews.com/world/iran-accused-killing-16500-sweeping-genocide-crackdown-report",
+      "published": "Sun, 18 Jan 2026 22:07:43 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Khamenei calls Trump a ‘criminal,’ blames him for deadly protests sweeping Iran",
       "description": "Iran's supreme leader accused President Donald Trump of orchestrating protests as tensions escalate. State radio broadcasts threats as thousands reported dead.",
       "url": "https://www.foxnews.com/world/khamenei-calls-trump-criminal-blames-him-deadly-protests-sweeping-iran",
@@ -1023,6 +1009,31 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Death toll rises to 6 in a fire at a shopping plaza in Pakistan’s city of Karachi"
+    },
+    {
+      "title": "Eight dead, dozens missing in massive Pakistan mall fire",
+      "description": "The blaze at the Gul Plaza in Karachi raged for more than 24 hours before it was put out.",
+      "url": "https://www.bbc.com/news/articles/c150pg5dvp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Jan 2026 03:31:42 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat",
+      "description": "European countries targeted by Trump's latest tariffs say they are united on 'upholding our sovereignty'.",
+      "url": "https://www.aljazeera.com/news/2026/1/19/dangerous-downward-spiral-european-leaders-slam-trumps-tariff-threat?traffic_source=rss",
+      "published": "Mon, 19 Jan 2026 03:15:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ‘Dangerous downward spiral’: European leaders slam Trump’s tariff threat"
     },
     {
       "title": "Trump announces new tariffs over Greenland: How have EU allies responded?",
@@ -1147,17 +1158,6 @@
       "ticker_label": "💥 Fewer orphans globally, due to HIV medication provided by the U.S."
     },
     {
-      "title": "Spain: High-speed train crash leaves at least 21 dead",
-      "description": "A high-speed train travelling from Malaga to Madrid derailed, crashing into an oncoming train near the town of Adamuz in the southern Andalusia region.",
-      "url": "https://www.dw.com/en/spain-high-speed-train-crash-leaves-at-least-21-dead/live-75556054?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 19 Jan 2026 00:04:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "The UN is ‘worth fighting for’: General Assembly President",
       "description": "With the multilateral system under pressure and under attack, Member States must fight for the United Nations, the President of the General Assembly said on Wednesday, laying out her priorities for its resumed 80th session.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166763",
@@ -1167,6 +1167,31 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "US Pentagon orders troops to prepare for potential Minnesota deployment",
+      "description": "Arctic specialist troops would join 3,000 federal immigration agents patrolling Minneapolis and St Paul amid protests.",
+      "url": "https://www.aljazeera.com/news/2026/1/19/pentagon-orders-troops-to-prepare-for-potential-minnesota-deployment?traffic_source=rss",
+      "published": "Mon, 19 Jan 2026 02:46:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Spain: High-speed train crash leaves at least 21 dead",
+      "description": "A high-speed train traveling from Malaga to Madrid derailed, crashing into an oncoming train in southern Andalusia. At least 21 people died while 75 were rushed to hospital with injuries. DW has the latest.",
+      "url": "https://www.dw.com/en/spain-high-speed-train-crash-leaves-at-least-21-dead/live-75556054?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 19 Jan 2026 00:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Spain: High-speed train crash leaves at least 21 dead"
     },
     {
       "title": "Syrian government says it has struck ceasefire deal with Kurdish-led forces",
@@ -1181,6 +1206,28 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Syrian government says it has struck ceasefire deal with Kurdish-led forces"
+    },
+    {
+      "title": "Viral video shows ICE agent telling agitators they're disrupting arrest of child sex offender in Minnesota",
+      "description": "Viral video shows alleged interference with ICE operation targeting suspected child sex offender in Minnesota. Federal agents confronted by protesters.",
+      "url": "https://www.foxnews.com/us/viral-video-shows-ice-agent-telling-agitators-theyre-disrupting-arrest-child-sex-offender-minnesota",
+      "published": "Sun, 18 Jan 2026 22:34:48 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "ICE says 2 demonstrators were arrested in Minnesota for allegedly assaulting officers",
+      "description": "Two protesters allegedly assaulted federal officers during anti-ICE demonstrations in Minnesota, leading to their arrests as clashes between protesters and officers continue.",
+      "url": "https://www.foxnews.com/us/ice-says-2-demonstrators-were-arrested-minnesota-allegedly-assaulting-officers",
+      "published": "Sun, 18 Jan 2026 21:49:57 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Minneapolis posts anti-ICE video promoting 'peaceful protest' and unity",
@@ -1221,6 +1268,17 @@
       "url": "https://www.bbc.com/news/articles/c5y5le7yl7po?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 18 Jan 2026 00:21:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "China says economy grew 5 percent in 2025",
+      "description": "The world's second-largest economy grew 4.5 percent in the final quarter, data shows.",
+      "url": "https://www.aljazeera.com/economy/2026/1/19/china-says-economy-grew-5-in-2025?traffic_source=rss",
+      "published": "Mon, 19 Jan 2026 03:09:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1388,20 +1446,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Syria announces ceasefire agreement with Kurd-led SDF after heavy fighting"
-    },
-    {
-      "title": "Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?",
-      "description": "US President Donald Trump has named high-level members of his ‘Board of Peace’ to oversee Gaza’s post-war transition.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/whos-on-trumps-board-of-peace-and-why-does-israel-have-objections?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 13:27:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Who’s on Trump’s ‘Board of Peace’ and why does Israel have objections?"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1651,8 +1695,8 @@
       "is_ticker": false
     },
     {
-      "title": "Live: EU leaders to hold extraordinary summit on Trump’s Greenland tariffs ‘in coming days’",
-      "description": "European Council President Antonio Costa on Sunday said EU leaders would meet in the coming days to discuss US President Donald Trump's tariffs threat against eight nations opposing US control of the autonomous Danish territory of Greenland. The Financial Times reported that Europe is considering €93 billion worth of retaliatory tariffs against the US. Follow our liveblog for all the latest developments.",
+      "title": "EU leaders to hold extraordinary summit on Trump’s Greenland tariffs ‘in coming days’",
+      "description": "European Council President Antonio Costa on Sunday said EU leaders would meet in the coming days to discuss US President Donald Trump's tariffs threat against eight nations opposing US control of the autonomous Danish territory of Greenland. The Financial Times reported that Europe is considering €93 billion worth of retaliatory tariffs against the US. Read our blog to see how the day's events unfolded.",
       "url": "https://www.france24.com/en/europe/20260118-live-european-nations-greenland-trump-tariffs-threat",
       "published": "Sun, 18 Jan 2026 13:47:02 GMT",
       "source": "France24",
@@ -1844,20 +1888,6 @@
       "is_ticker": false
     },
     {
-      "title": "Syrian government, Kurdish-led SDF agree on ceasefire: What to know",
-      "description": "Syrian President Ahmed al-Sharaa signs a ceasefire agreement to fully integrate the Kurdish-led forces into the army.",
-      "url": "https://www.aljazeera.com/news/2026/1/18/syrian-army-advances-on-sdf-stronghold-of-raqqa-whats-the-latest?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 13:15:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Syrian government, Kurdish-led SDF agree on ceasefire: What to know"
-    },
-    {
       "title": "Fear and internet blackouts make communication difficult for Iranians",
       "description": "While fears of an imminent US operation in Iran have receded, tensions remain sky high as street protests continue and communication is difficult due to fear and internet blackouts.",
       "url": "https://www.npr.org/2026/01/18/nx-s1-5678516/fear-and-internet-blackouts-make-communication-difficult-for-iranians",
@@ -1955,17 +1985,6 @@
       "ticker_label": "🌪️ Anti-ICE mob storms Minnesota church over pastor's alleged ties to immigration enforcement"
     },
     {
-      "title": "Georgian demonstrators watch Iran closely as their own protests grind on",
-      "description": "Georgians display Iranian Lion and Sun flags during daily protests in Tbilisi, showing solidarity with Iranian demonstrators while opposing EU accession halt by their government.",
-      "url": "https://www.foxnews.com/world/georgian-demonstrators-watch-iran-closely-own-protests-grind",
-      "published": "Fri, 16 Jan 2026 18:34:41 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Will the Syrian army end up controlling Kurdish-held areas?",
       "description": "The army has made significant territorial gains after intense battles with the SDF.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/1/18/will-the-syrian-army-end-up-controlling-kurdish-held-areas?traffic_source=rss",
@@ -2057,7 +2076,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-19T02:21:46.924356Z",
+      "published": "2026-01-19T04:02:57.193597Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -2186,17 +2205,6 @@
       "is_ticker": false
     },
     {
-      "title": "Oregon city reverses vote, removes convicted murderer from police review board after backlash",
-      "description": "Salem City Council reverses controversial decision, removes convicted murderer Kyle Hedquist from police advisory boards after intense public outrage and criticism.",
-      "url": "https://www.foxnews.com/us/oregon-city-reverses-vote-removes-convicted-murderer-from-police-review-board-after-backlash",
-      "published": "Sat, 17 Jan 2026 10:00:19 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Israel pushes back on Trump's picks for executives on Gaza 'Board of Peace'",
       "description": "Israel says it is unhappy it was not consulted, and Palestinians have also been critical.",
       "url": "https://www.bbc.com/news/articles/cd0y453yd90o?at_medium=RSS&at_campaign=rss",
@@ -2314,17 +2322,6 @@
       "description": "“This is the nightmare scenario for Western policymakers.”",
       "url": "https://www.aljazeera.com/video/quotable/2026/1/18/recent-fighting-in-syria-is-a-nightmare-scenario-for-the?traffic_source=rss",
       "published": "Sun, 18 Jan 2026 13:44:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Syria’s al-Sharaa restores citizenship and language rights to Syrian Kurds",
-      "description": "Syria's Ahmed al-Sharaa has signed a decree formally restoring citizenship and language rights to Syrian Kurds.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/18/syrias-al-sharaa-restores-citizenship-and-language-rights-to-syrian-kurds?traffic_source=rss",
-      "published": "Sun, 18 Jan 2026 13:12:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2475,10 +2472,21 @@
       "is_ticker": false
     },
     {
+      "title": "Australia news live: Coalition working ‘in good faith’ with Labor on hate speech laws, Duniam says; Randa Abdel-Fattah serves second defamation legal notice to SA premier",
+      "description": "Tony Burke tells parliament he wishes Labor was ‘going harder’ on hate speech. Follow today’s news live Get our breaking news email , free app or daily news podcast Marles ‘confident about the future of Nato’ despite Trump pressure Continuing his media rounds, the deputy PM, Richard Marles , is pressed on the government’s response to Donald Trump ’s tariffs on some European nations, in a bid to take over Greenland. Nato has played a very important role and continues to be very strong. I’ve been to the last two Nato meetings representing Australia, and there is a definite sense of unity when you’re at Nato meetings. So I feel confident about the future of Nato. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jan/19/federal-parliament-returns-gun-control-measures-hate-speech-laws-anthony-albanese-labor-sussan-ley-coalition-greens-trump-board-for-peace-ntwnfb",
+      "published": "Mon, 19 Jan 2026 03:44:51 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "M 6.0 - 295 km W of Bandon, Oregon",
       "description": "PAGER - GREEN ShakeMap - I DYFI? - IV Time 2026-01-16 03:25:52 UTC 2026-01-16 03:25:52 UTC at epicenter Location 43.543°N 128.009°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000rq0d",
-      "published": "2026-01-18T21:16:56.511Z",
+      "published": "2026-01-19T03:36:01.098Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2574,6 +2582,17 @@
       "is_ticker": false
     },
     {
+      "title": "'Prominent' Chinese super-embassy sends 'certain message', US Speaker says",
+      "description": "The Speaker of the US House of Representatives has said he wished America had been able to acquire the London site slated for a controversial Chinese \"super embassy\".",
+      "url": "https://news.sky.com/story/prominent-chinese-super-embassy-sends-certain-message-us-speaker-mike-johnson-says-13495842",
+      "published": "Sun, 18 Jan 2026 13:58:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump is not bluffing, Greenland situation is critical for Europe and NATO",
       "description": "\"The situation is critical…\" Those are the four words a top European diplomat chose when we discussed Donald Trump's position on Greenland.",
       "url": "https://news.sky.com/story/trump-is-not-bluffing-greenland-situation-is-critical-for-europe-and-nato-13495736",
@@ -2646,32 +2665,10 @@
       "ticker_label": "💥 Florida woman, 81, arrested in murder-for-hire plot after sharing plan with undercover detective, sheriff says"
     },
     {
-      "title": "FBI captures Top Ten Most Wanted fugitive sought for alleged 2016 murder of North Carolina co-worker in Mexico",
-      "description": "FBI Director Kash Patel announced the arrest of a wanted fugitive who has been on the run after the alleged murder of his former co-worker in 2016.",
-      "url": "https://www.foxnews.com/us/fbi-captures-top-ten-most-wanted-fugitive-mexico-sought-2016-murder-nc-coworker",
-      "published": "Sat, 17 Jan 2026 12:40:39 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Woman wakes up with 8-foot python coiled on her chest while sleeping: 'Don't move'",
       "description": "A Brisbane woman calmly removed an 8-foot carpet python from her bedroom after waking to find the non-venomous snake on top of her chest Monday night.",
       "url": "https://www.foxnews.com/world/woman-wakes-up-8-foot-python-coiled-her-chest-while-sleeping-dont-move",
       "published": "Sat, 17 Jan 2026 23:11:47 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "NATO ambassador says Europe 'has a tendency to overreact' over Greenland dispute",
-      "description": "U.S. NATO ambassador Matthew Whitaker defends American focus on Greenland amid European backlash, calling Arctic security crucial for continental defense.",
-      "url": "https://www.foxnews.com/world/nato-ambassador-says-europe-has-tendency-overreact-over-trumps-greenland-dispute",
-      "published": "Sat, 17 Jan 2026 06:00:54 -0500",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
