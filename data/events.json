@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-20T21:28:20.861411Z",
-  "event_count": 223,
+  "last_updated": "2026-01-20T21:46:02.874788Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Catholic cardinals warn US foreign policy under Trump risks global suffering",
@@ -590,17 +590,6 @@
       "ticker_label": "💥 ISIS takes credit for Kabul suicide bombing at Chinese restaurant"
     },
     {
-      "title": "Twelve schoolchildren killed after bus collides with lorry in South Africa",
-      "description": "The fatal collision is just the latest in South Africa, where the road safety record is poor.",
-      "url": "https://www.bbc.com/news/articles/cvgdmkxl1mko?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Jan 2026 11:23:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "How can Europe respond to Trump’s Greenland tariffs threat?",
       "description": "The United States's claim to the Danish territory has sparked fears of a trade war.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/1/20/how-can-europe-respond-to-trumps-greenland-tariffs?traffic_source=rss",
@@ -1161,15 +1150,18 @@
       "is_ticker": false
     },
     {
-      "title": "World Economic Forum invites Iranian foreign minister to Davos after regime slaughter of Iranian civilians",
-      "description": "World Economic Forum is facing calls to exclude Iranian officials from Davos after the regime slaughtered thousands of its civilians, rights groups say.",
-      "url": "https://www.foxnews.com/world/world-economic-forum-invites-iranian-foreign-minister-davos-after-regime-slaughter-iranian-civilians",
-      "published": "Sun, 18 Jan 2026 12:04:15 -0500",
-      "source": "Fox News World",
+      "title": "Second lady Usha Vance announces she is pregnant with fourth child",
+      "description": "Vance posted on social media that she is looking forward to welcoming a boy in late July.",
+      "url": "https://www.bbc.com/news/articles/crkr7z7ky6po?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 20 Jan 2026 21:34:18 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 9,
+      "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Second lady Usha Vance announces she is pregnant with fourth child"
     },
     {
       "title": "Australia parliament passes gun reform and anti-hate bills after Bondi shooting",
@@ -1511,7 +1503,7 @@
       "title": "Australia news live: Burke wanted tougher hate speech laws but ‘we have to deal with the parliament we have’; Sydney lockout measures end",
       "description": "Follow updates live Get our breaking news email , free app or daily news podcast CEO of energy company behind Eraring coal power plant says extra two years will help with ‘smooth transition’ Frank Calabria , the CEO of Origin energy, spoke with RN this morning after an announcement Australia’s largest coal-fired power plant, Eraring in New South Wales, would stay open for an additional two years until 2029. A lot of good progress has been made on the transition, a lot of new infrastructure, a lot of new energy assets behind the meter. This will just enable it [to be a] smoother transition. … We’ve made lots of investments, as you would imagine, in large batteries. We’ve got large wind farms underway, so do many other players in the sector. So we’re all aligned about making progress here. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/21/hate-speech-laws-pass-senate-gun-reforms-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
-      "published": "Tue, 20 Jan 2026 21:16:42 GMT",
+      "published": "Tue, 20 Jan 2026 21:23:28 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 7,
@@ -1902,6 +1894,17 @@
       "is_ticker": false
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-20T21:45:46.209741Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "ASEAN won't endorse election in military-ruled Myanmar, Malaysia says",
       "description": "Malaysia's foreign minister Mohamad Hasan cited concerns over the lack of inclusive and free participation.",
       "url": "https://www.npr.org/2026/01/20/g-s1-106551/asean-wont-endorse-election-in-military-ruled-myanmar-malaysia-says",
@@ -1935,6 +1938,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump told to 'f--- off' by Danish lawmaker during European Parliament debate about Greenland",
+      "description": "European Parliament member Anders Vistisen confronts President Donald Trump's Greenland interest with profanity-laced rebuke, drawing a reprimand from parliament leadership.",
+      "url": "https://www.foxnews.com/world/trump-told-f-k-off-danish-lawmaker-european-parliament-greenland-debate",
+      "published": "Tue, 20 Jan 2026 16:27:20 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1949,7 +1963,7 @@
       "title": "Europe to suspend approval of US tariffs deal",
       "description": "The move follows renewed tensions between the US and EU, as Donald Trump pushes to acquire Greenland.",
       "url": "https://www.bbc.com/news/articles/c4gwp2me3gzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Jan 2026 18:16:17 GMT",
+      "published": "Tue, 20 Jan 2026 21:28:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2304,7 +2318,7 @@
       "title": "M 3.8 - 4 km NW of Ohlman, Illinois",
       "description": "ShakeMap - IV DYFI? - V Time 2026-01-20 07:27:40 UTC 2026-01-20 07:27:40 UTC at epicenter Location 39.375°N 89.247°W Depth 8.80 km (5.47 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60617031",
-      "published": "2026-01-20T21:26:11.527Z",
+      "published": "2026-01-20T21:42:00.142Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2315,7 +2329,7 @@
       "title": "M 4.9 - 20 km NNE of Indio, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-01-20 01:56:14 UTC 2026-01-20 01:56:14 UTC at epicenter Location 33.894°N 116.169°W Depth 3.09 km (1.92 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41162719",
-      "published": "2026-01-20T21:22:30.523Z",
+      "published": "2026-01-20T21:40:25.568Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2334,7 +2348,7 @@
       "is_ticker": false
     },
     {
-      "title": "Trump says U.K. return of Chagos Islands to Mauritius is a reason to acquire Greenland",
+      "title": "Trump says U.K. return of Chagos Islands to Mauritius is reason to acquire Greenland",
       "description": "The president previously supported Britain's agreement to hand back sovereignty of the Indian Ocean archipelago, where the U.K. continues to lease the U.S.-U.K. Diego Garcia military base.",
       "url": "https://www.npr.org/2026/01/20/g-s1-106549/chagos-uk-trump-diego-garcia-mauritius-greenland",
       "published": "Tue, 20 Jan 2026 13:19:56 -0500",
