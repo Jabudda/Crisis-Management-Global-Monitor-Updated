@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-21T09:39:21.599056Z",
-  "event_count": 204,
+  "last_updated": "2026-01-21T10:36:58.463365Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Catholic cardinals warn US foreign policy under Trump risks global suffering",
@@ -118,6 +118,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Australia toughens its gun laws following Bondi Beach terrorist attack"
+    },
+    {
+      "title": "Iran's top diplomat issues most direct threat yet to US",
+      "description": "Iran's foreign minister has issued a direct threat against the United States, warning of retaliation if attacked",
+      "url": "https://abcnews.go.com/International/wireStory/irans-top-diplomat-issues-direct-threat-us-crackdown-129409485",
+      "published": "Wed, 21 Jan 2026 03:13:54 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran's top diplomat issues most direct threat yet to US"
     },
     {
       "title": "Armed militias fire heavy machine guns through Tehran streets in deadly night attacks",
@@ -248,6 +262,20 @@
       "ticker_label": "🚨 Students return to Brown University amid questions over security policies that enabled mass shooting"
     },
     {
+      "title": "Live: Israel launches strikes as Netanyahu joins Gaza ‘board of peace’",
+      "description": "Artillery fire, gunship attack, demolitions in war-battered Gaza as PM Netanyahu accepts US 'peace board' position.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/1/21/live-israel-launches-strikes-as-netanyahu-joins-gaza-board-of-peace?traffic_source=rss",
+      "published": "Wed, 21 Jan 2026 09:14:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Live: Israel launches strikes as Netanyahu joins Gaza ‘board of peace’"
+    },
+    {
       "title": "‘Brazen’ political influence of rich laid bare as wealth of billionaires reaches $18.3tn, says Oxfam",
       "description": "Governments opting for oligarchy while brutally repressing protests over austerity and lack of jobs, charity report says The world saw a record number of billionaires created last year, with a collective wealth of $18.3tn (£13.7tn), while global efforts stalled in the fight against poverty and hunger. Oxfam’s annual survey of global inequality has revealed that the number of billionaires surpassed 3,000 for the first time during 2025. Since 2020, their collective wealth grew by 81%, or $8.2tn, which the charity claims would be enough to eradicate global poverty 26 times over. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jan/19/brazen-political-influence-rich-laid-bare-wealth-billionaires-inequality-poverty-instability-oxfam",
@@ -312,18 +340,15 @@
       "is_ticker": false
     },
     {
-      "title": "Almost half of Kyiv without heat, power, after Russian attack",
-      "description": "An overnight Russian bombardment on Kyiv left thousands of residential buildings and parliament without heating and water in -14C temperatures on Tuesday, just as the Ukrainian capital was scrambling to restore vital utilities destroyed in earlier attacks. The barrage of hundreds of drones and missiles, which targeted energy facilities across Ukraine, killed at least one 50-year-old man near Kyiv. FRANCE 24's Emerald Maxwell reports.",
-      "url": "https://www.france24.com/en/almost-half-of-kyiv-without-heat-power-after-russian-attack",
-      "published": "Tue, 20 Jan 2026 19:49:32 GMT",
+      "title": "Iran internet blackout: 'Shutdowns tend to enable governments to conceal human rights violations'",
+      "description": "Eve Irvine is pleased to welcome Felicia Anthonio, #KeepItOn Global Campaign Manager at Access Now. She offers a sobering reflection on the global trend of internet shutdowns, with a sharp focus on Iran’s current blackout. These shutdowns are a strategic weapon deployed by authoritarian regimes to silence dissent, obscure human rights abuses, and control public narratives. Antonio’s insights reveal the deep human cost of these actions and the urgent need for international accountability.",
+      "url": "https://www.france24.com/en/video/20260121-iran-internet-blackout-shutdowns-tend-to-enable-governments-to-conceal-human-rights-violations",
+      "published": "Wed, 21 Jan 2026 10:01:00 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Almost half of Kyiv without heat, power, after Russian attack"
+      "is_ticker": false
     },
     {
       "title": "Myanmar begins defence in landmark genocide case at UN World Court",
@@ -359,6 +384,20 @@
       "is_ticker": false
     },
     {
+      "title": "Trump heads for frosty welcome in Davos amid tension with European allies",
+      "description": "The US President Donald Trump is on his way to the Davos World Economic Forum. He is not expecting a warm reception from many of his European allies who are in attendance, who are opposing his attempts to take over Greenland. The day before, French President Emmanuel Macron answered his tariff threats saying he preferred \"respect to bullies\", and Canadian Prime Minister Mark Carney sided with European members of NATO, saying Canada was committed to the alliance's article 5.",
+      "url": "https://www.france24.com/en/trump-heads-for-frosty-welcome-in-davos-amid-tension-with-european-allies",
+      "published": "Wed, 21 Jan 2026 10:30:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump heads for frosty welcome in Davos amid tension with European allies"
+    },
+    {
       "title": "Thousands rally across US against Trump policies on inauguration anniversary",
       "description": "Thousands of US workers and students marched through cities and campuses Tuesday against President Donald Trump’s policies on the first anniversary of his second term, with demonstrations fueled by outrage over the fatal shooting of 37-year-old Renee Good by federal immigration agents in Minneapolis earlier this month.",
       "url": "https://www.france24.com/en/americas/20260121-us-workers-students-rally-trump-immigration",
@@ -376,7 +415,7 @@
       "title": "Train driver killed in second deadly Spain rail crash in days",
       "description": "At least 37 people have been injured, five seriously, in a second crash, after Sunday's two-train collision in Andalusia.",
       "url": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Jan 2026 08:34:42 GMT",
+      "published": "Wed, 21 Jan 2026 09:55:53 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 19,
@@ -395,11 +434,33 @@
       "is_ticker": false
     },
     {
+      "title": "\"Sign of a growing front\" against Donald Trump as Europe goes confrontational",
+      "description": "President Donald Trump is heading to the World Economic Forum in the Swiss Alps on January 21, where his ambitions to wrest control of Greenland from NATO ally Denmark could tear relations with European allies. It could also overshadow his original plan to use his appearance at the gathering of global elites to address affordability issues back home. FRANCE 24's Philip Turle tells us what to know before he speaks.",
+      "url": "https://www.france24.com/en/sign-of-a-growing-front-against-donald-trump-as-europe-goes-confrontational",
+      "published": "Wed, 21 Jan 2026 10:31:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Spain suffers second deadly train crash in space of two days",
       "description": "A train driver has been killed and 37 people injured after a commuter train derailed near Barcelona.",
       "url": "https://news.sky.com/story/driver-killed-and-20-injured-after-train-derails-near-barcelona-13496913",
       "published": "Tue, 20 Jan 2026 23:27:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Anthony Joshua's driver arraigned after deadly crash in southwest Nigeria",
+      "description": "The driver in a deadly car crash that injured heavyweight champion Anthony Joshua and killed his two friends in Nigeria was arraigned on Tuesday",
+      "url": "https://abcnews.go.com/International/wireStory/anthony-joshuas-driver-arraigned-after-deadly-crash-southwest-129390613",
+      "published": "Tue, 20 Jan 2026 20:33:54 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
@@ -446,9 +507,9 @@
     },
     {
       "title": "Coalition in crisis as entire Nationals frontbench quits after division over Labor’s hate speech laws",
-      "description": "David Littleproud and seven other frontbench colleagues resign their positions after Sussan Ley accepted resignations from three Nationals senators Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Coalition has been plunged into chaos after the Nationals quit Sussan Ley’s shadow cabinet en-masse after a split over Labor’s hate speech laws. In a bombshell move that threatens the future of the Coalition, the National party leader, David Littleproud, and all of his frontbench colleagues agreed to resign their positions at crisis talks on Wednesday night, sources confirmed to Guardian Australia. Continue reading...",
+      "description": "David Littleproud and seven other frontbench colleagues resign their positions after Sussan Ley accepted resignations from three Nationals senators Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Coalition has been plunged into chaos after the Nationals quit Sussan Ley’s shadow cabinet en-masse following a split over Labor’s hate speech laws. In a bombshell move that threatens the future of the Coalition, the National party leader, David Littleproud, and all of his frontbench colleagues agreed to resign their positions at crisis talks on Wednesday night. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jan/21/nationals-coalition-frontbench-sussan-ley-hate-speech-bill",
-      "published": "Wed, 21 Jan 2026 09:08:33 GMT",
+      "published": "Wed, 21 Jan 2026 10:16:43 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 17,
@@ -460,10 +521,21 @@
     },
     {
       "title": "Davos 2026: World order 'in midst of rupture,' says Canada's Carney",
-      "description": "In Davos, Canada's PM Mark Carney said his nation stands with Greenland amid Trump's pursuit of the world's largest island. Carney also sharply criticised the US-led global order. DW has more.",
+      "description": "In Davos, Canada's PM Mark Carney said his nation stands with Greenland amid Trump's pursuit of the world's largest island. Carney also sharply criticized the US-led global order. DW has more.",
       "url": "https://www.dw.com/en/davos-2026-world-order-in-midst-of-rupture-says-canada-s-carney/live-75560683?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 21 Jan 2026 08:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Ivory Coast will buy unsold cocoa stocks as prices plunge",
+      "description": "Ivory Coast, the world's top cocoa producer, plans to buy unsold cocoa stocks to support farmers as global prices have plunged",
+      "url": "https://abcnews.go.com/International/wireStory/ivory-coast-buy-unsold-cocoa-stocks-prices-plunge-129383835",
+      "published": "Tue, 20 Jan 2026 10:41:44 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -539,18 +611,18 @@
       "ticker_label": "🌪️ AFCON 2025: Thousands of fans flood streets of Dakar to celebrate Senegal's victory"
     },
     {
-      "title": "Trump might succeed in breaking up NATO where ten Soviet and Russian leaders tried and failed",
-      "description": "Delano D'Souza welcomes former US Ambassador Mark C. Storella, Professor of the Practice of Diplomacy at Boston University. He offers a sobering analysis of US immigration, and both foreign & economic policies. He warns the US that is not only isolating itself on the global stage, but also undercutting its own economy and moral authority. Authoritarian opportunism, disguised as pragmatism, risks weakening America’s alliances, its values and its democratic norms.",
-      "url": "https://www.france24.com/en/video/20260120-trump-might-succeed-in-breaking-up-nato-where-ten-soviet-and-russian-leaders-tried-and-failed",
-      "published": "Tue, 20 Jan 2026 20:08:50 GMT",
-      "source": "France24",
+      "title": "NATO leaders escalate warnings that Trump's aggression toward Greenland threatens alliance with the US",
+      "description": "NATO leaders escalate warnings that Trump's aggression toward Greenland threatens alliance with the US",
+      "url": "https://abcnews.go.com/International/wireStory/nato-leaders-escalate-warnings-trumps-aggression-greenland-threatens-129388818",
+      "published": "Tue, 20 Jan 2026 12:57:41 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump might succeed in breaking up NATO where ten Soviet and Russian leaders tried and failed"
+      "ticker_label": "🪖 NATO leaders escalate warnings that Trump's aggression toward Greenland threatens alliance with the US"
     },
     {
       "title": "Guterres in London: Humanity strongest when we stand as one",
@@ -664,17 +736,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump leaks world leaders' messages. And, Indiana wins its first national title",
-      "description": "President Trump explains why he wants to acquire Greenland in private messages with world leaders. And, Indiana caps off a perfect football season with a national championship win over Miami.",
-      "url": "https://www.npr.org/2026/01/20/g-s1-106532/up-first-newsletter-trump-world-leaders-immigration-detention-college-football-champion",
-      "published": "Tue, 20 Jan 2026 07:19:41 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Iran locks nation into ‘darker’ digital blackout, viewing internet as an ‘existential threat’",
       "description": "Iran enters 22nd day of internet shutdown with limited connectivity restored as NetBlocks reports shift toward \"filternet plus\" censorship scheme whitelisting only business services.",
       "url": "https://www.foxnews.com/world/iran-locks-nation-darker-digital-blackout-viewing-internet-existential-threat",
@@ -765,7 +826,7 @@
     },
     {
       "title": "France's Macron calls on EU to be ready to activate its 'trade bazooka'",
-      "description": "French president Emmanuel Macron spoke out against Donald Trump's latest tariff threat, describing his approach to trade deals as bullying and an attempt to weaken and subordinate Europe. Speaking at the World Economic Forum in Davos, the French leader called on the EU to be ready to activate its powerful anti-coercion mechanism, colloquially called the \"trade bazooka\".",
+      "description": "French President Emmanuel Macron has spoken out against Donald Trump's latest tariff threat, describing the US president's approach to trade deals as bullying and an attempt to weaken and subordinate Europe. Speaking at the World Economic Forum in Davos, the French leader called on the EU to be ready to activate its powerful anti-coercion mechanism, colloquially known as the \"trade bazooka\". We take a closer look.",
       "url": "https://www.france24.com/en/tv-shows/business/20260120-france-s-macron-calls-on-eu-to-be-ready-to-activate-its-trade-bazooka",
       "published": "Tue, 20 Jan 2026 21:42:51 GMT",
       "source": "France24",
@@ -773,6 +834,45 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Ambush in northwest Nigeria kills 5 soldiers and 1 police officer",
+      "description": "The Nigerian army reports that five soldiers and one police officer have been killed in an ambush in Zamfara state",
+      "url": "https://abcnews.go.com/International/wireStory/ambush-northwest-nigeria-kills-5-soldiers-1-police-129411215",
+      "published": "Wed, 21 Jan 2026 04:41:38 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "A look at Trump's Board of Peace and who has been invited",
+      "description": "The Board of Peace led by U.S. President Donald Trump was originally envisioned as a small group of world leaders overseeing the Gaza ceasefire plan",
+      "url": "https://abcnews.go.com/International/wireStory/trumps-board-peace-invited-129393897",
+      "published": "Wed, 21 Jan 2026 00:57:24 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A look at Trump's Board of Peace and who has been invited"
+    },
+    {
+      "title": "Iran warns Trump not to take action against Khamenei",
+      "description": "Iran has warned Donald Trump not to take any action against the country’s Supreme Leader Ayatollah Ali Khamenei, days after the U.S. president called for an end to Khamenei’s near 40-year reign",
+      "url": "https://abcnews.go.com/International/wireStory/iran-warns-trump-action-khamenei-129388000",
+      "published": "Tue, 20 Jan 2026 20:41:25 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran warns Trump not to take action against Khamenei"
     },
     {
       "title": "Ukraine's parliament and half of Kyiv with no heating after Russian strikes",
@@ -814,20 +914,6 @@
       "is_ticker": false
     },
     {
-      "title": "EU vows 'unflinching' response to Trump's Greenland gambit",
-      "description": "European leaders drew a clear line over Greenland Tuesday, vowing an \"unflinching\" response to Washington's threats even as US President Donald Trump said he was ready to hold a meeting in Davos about his plans to take the autonomous Danish territory. EU chief Ursula von der Leyen warned of relations \"plunging into a downward spiral\" while Greenland's PM said the island's population must be prepared for military force.",
-      "url": "https://www.france24.com/en/eu-vows-unflinching-response-to-trump-s-greenland-gambit",
-      "published": "Tue, 20 Jan 2026 19:51:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 EU vows 'unflinching' response to Trump's Greenland gambit"
-    },
-    {
       "title": "Spain begins three days of mourning as number killed in train crash could rise",
       "description": "The number of people killed in a high-speed train crash in Spain could rise in the coming hours as cranes begin moving the wreckage.",
       "url": "https://news.sky.com/story/number-killed-in-spain-train-crash-expected-to-rise-as-carriages-moved-13496557",
@@ -837,6 +923,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Danish veterans of US wars feel betrayed by Trump's threats against Greenland",
+      "description": "Danish veterans feel betrayed as the U.S. escalates threats to seize Greenland, a territory of Denmark",
+      "url": "https://abcnews.go.com/International/wireStory/danish-veterans-us-wars-feel-betrayed-trumps-threats-129411330",
+      "published": "Wed, 21 Jan 2026 04:49:06 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Danish veterans of US wars feel betrayed by Trump's threats against Greenland"
     },
     {
       "title": "World News in Brief: Food insecurity in Lebanon, Libya migrants freed, UNHCR tackles multiple emergencies – despite cuts",
@@ -928,32 +1028,15 @@
       "is_ticker": false
     },
     {
-      "title": "Fans flood Dakar streets for Senegal’s jubilant AFCON victory parade",
-      "description": "The streets of Dakar were packed with thousands of Senegal football fans on Tuesday as the Lions of Teranga held a parade to celebrate their victory in the Africa Cup of Nations final against Morocco. The win marked Senegal's second title, after their 2022 victory over Egypt in Cameroon.",
-      "url": "https://www.france24.com/en/africa/20260120-fans-flood-dakar-streets-for-senegal-s-jubilant-afcon-victory-parade",
-      "published": "Tue, 20 Jan 2026 20:40:53 GMT",
+      "title": "LinkedIn data shows sluggish overall hiring but a surge in AI-related jobs",
+      "description": "A new report by professional social media platform LinkedIn shows that while jobseekers currently outpace job openings, a \"new-collar\" era of work is opening, focused on AI-related skills. In this edition, we speak to LinkedIn's EMEA Managing Director Sue Duke from the World Economic Forum in Davos about her insights on new labour market trends and how to navigate geopolitical uncertainty.",
+      "url": "https://www.france24.com/en/tv-shows/business/20260121-linkedin-data-shows-sluggish-overall-hiring-but-a-surge-in-ai-related-jobs",
+      "published": "Wed, 21 Jan 2026 09:35:38 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Fans flood Dakar streets for Senegal’s jubilant AFCON victory parade"
-    },
-    {
-      "title": "How has Trump's one year in office weighed on the war in Ukraine?",
-      "description": "FRANCE 24's Kyiv correspondent Gulliver Cragg reflects on how, one year into Donald Trump's second mandate, the support of the United States for Ukraine has waned, although, as he points out, the US president has not 'entirely' taken Russia's side.",
-      "url": "https://www.france24.com/en/how-has-trump-s-one-year-in-office-weighed-on-the-war-in-ukraine",
-      "published": "Tue, 20 Jan 2026 20:14:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 How has Trump's one year in office weighed on the war in Ukraine?"
+      "is_ticker": false
     },
     {
       "title": "UN strongly condemns demolition of UNRWA headquarters in East Jerusalem",
@@ -1020,6 +1103,20 @@
       "is_ticker": false
     },
     {
+      "title": "Air India crash plane had record of safety defects, campaigners claim",
+      "description": "Campaigners say they have evidence the plane had previously suffered a series of technical failures, including a fire.",
+      "url": "https://www.bbc.com/news/articles/czx1p47x589o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Jan 2026 00:00:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Air India crash plane had record of safety defects, campaigners claim"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1042,6 +1139,39 @@
       "is_ticker": false
     },
     {
+      "title": "Former president of Ireland talks about Trump's plan for his Board of Peace",
+      "description": "What is President Trump's Board of Peace actually for? NPR's Leila Fadel asks Mary Robinson, former president of Ireland and member of The Elders, a group of world leaders who advocate for peace.",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683093/former-president-of-ireland-talks-about-trumps-plan-for-his-board-of-peace",
+      "published": "Wed, 21 Jan 2026 04:47:19 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump delivers highly awaited speech at World Economic Forum",
+      "description": "President Trump delivers a highly anticipated speech in Davos, Switzerland, amid major splits with allies over his plans to take over the Danish territory of Greenland.",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683140/trump-delivers-highly-awaited-speech-at-world-economic-forum",
+      "published": "Wed, 21 Jan 2026 04:47:05 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Free solo climb on Netflix: 'If you fall, you're gonna die'",
+      "description": "Rock climber Alex Honnold plans to scale the facade of what was once the world's tallest building – live on Netflix. But not all are impressed by the idea.",
+      "url": "https://www.dw.com/en/free-solo-climb-on-netflix-if-you-fall-you-re-gonna-die/a-75580558?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 21 Jan 2026 09:46:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Apple ends Samsung's long reign at No. 1",
       "description": "After 14 years behind Samsung, Apple is back on top in global smartphone sales, just as Chinese rivals step up the pressure. Foldables and advanced AI are the new battleground in the fight for the next billion users.",
       "url": "https://www.dw.com/en/apple-ends-samsung-s-long-reign-at-no-1/a-75448316?maca=en-rss-en-all-1573-xml-mrss",
@@ -1058,6 +1188,17 @@
       "url": "https://www.france24.com/en/europe/20260121-live-trump-heads-for-davos-maelstrom-over-greenland",
       "published": "Wed, 21 Jan 2026 04:25:28 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Mexico sends 37 cartel members to US in latest offer to Trump administration",
+      "description": "Mexico's security minister says the country has sent 37 more cartel members to the United States",
+      "url": "https://abcnews.go.com/International/wireStory/mexico-sends-37-cartel-members-us-latest-offer-129390809",
+      "published": "Wed, 21 Jan 2026 01:29:29 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1125,15 +1266,18 @@
       "is_ticker": false
     },
     {
-      "title": "'The miracle': A 6-year-old walked away from the train wreck that killed her family",
-      "description": "Her parents, brother and cousin were killed in the collision, but the girl was found walking barefoot on the tracks. She's being cared for by grandparents after receiving three stitches in her head.",
-      "url": "https://www.npr.org/2026/01/20/g-s1-106563/spain-train-crash-miracle-survivor-zamorano-alvarez",
-      "published": "Tue, 20 Jan 2026 13:31:04 -0500",
+      "title": "Trump heads to Davos after upending European relations over Greenland",
+      "description": "The U.S. president is set to meet with an array of leaders to discuss Greenland. Trump's push to acquire Greenland has turned to antagonism toward allies in recent days.",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683078/trump-davos-speech-tariffs-greenland",
+      "published": "Wed, 21 Jan 2026 05:00:00 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump heads to Davos after upending European relations over Greenland"
     },
     {
       "title": "South Korea jails ex-PM Han Duck-soo over martial law crisis",
@@ -1147,9 +1291,9 @@
       "is_ticker": false
     },
     {
-      "title": "WEF: Is Greenland the wake-up call Europe needed?",
+      "title": "WEF in Davos: Is Greenland the wake-up call Europe needed?",
       "description": "Europe faces waning influence amid wars, trade tensions, climate inaction and a US administration quick to hurl insults at its oldest allies. In Davos, leaders discuss how Europe can regain its mojo.",
-      "url": "https://www.dw.com/en/wef-is-greenland-the-wake-up-call-europe-needed/a-75584471?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/wef-in-davos-is-greenland-the-wake-up-call-europe-needed/a-75584471?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 20 Jan 2026 18:23:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1158,21 +1302,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 WEF: Is Greenland the wake-up call Europe needed?"
-    },
-    {
-      "title": "China stays resilient in first year of Trump 2.0",
-      "description": "Donald Trump's second term in the White House has tested China's tit-for-tat approach in response to the the US president's trade war. While stiff competition remains moving forward, there are signs of more stable ties.",
-      "url": "https://www.dw.com/en/china-stays-resilient-in-first-year-of-trump-2-0/a-75577333?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 20 Jan 2026 13:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 China stays resilient in first year of Trump 2.0"
+      "ticker_label": "🪖 WEF in Davos: Is Greenland the wake-up call Europe needed?"
     },
     {
       "title": "Syrian army takes control of Al-Hol camp housing IS group families",
@@ -1187,17 +1317,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Syrian army takes control of Al-Hol camp housing IS group families"
-    },
-    {
-      "title": "One year of Trump 2.0: how he's weaponised AI as political propaganda",
-      "description": "As Donald Trump marks one year back in the White House, Vedika Bahl takes a closer look at how he has weaponised artificial intelligence into a top political tool, used to glorify himself, attack his opponents and amplify his political agenda. Whilst it has become a defining feature of his digital presence, it's brought with it a new frontier for misinformation and fake news.",
-      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260120-one-year-of-trump-2-0-how-he-s-weaponised-ai-as-political-propaganda-1",
-      "published": "Tue, 20 Jan 2026 20:44:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Man who killed former Japanese PM Shinzo Abe jailed for life",
@@ -1234,6 +1353,17 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Australia fast-tracks tougher gun and hate laws after Bondi Beach shooting"
+    },
+    {
+      "title": "New Zealand election scheduled for Nov. 7 with the costs of living and housing the top issues",
+      "description": "New Zealand Prime Minister Christopher Luxon has announced a national election will be held Nov. 7",
+      "url": "https://abcnews.go.com/International/wireStory/new-zealand-election-scheduled-nov-7-costs-living-129403716",
+      "published": "Tue, 20 Jan 2026 22:01:47 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "UN rights chief bears witness to trauma and resilience in Sudan",
@@ -1347,17 +1477,6 @@
       "is_ticker": false
     },
     {
-      "title": "Kim Jong-un fires vice-premier and likens him to ‘a goat yoked to an ox cart’",
-      "description": "North Korean leader reportedly blames Yang Sung-ho for ‘confusion’ at factory project as major congress looms The North Korean leader, Kim Jong-un , has dismissed a vice-premier over troubles in a factory modernisation project, in an apparent move to tighten discipline among officials and push them to deliver greater results before a major political conference. The upcoming ruling Workers’ party congress, the first of its kind in five years , is one of North Korea’s biggest propaganda spectacles and is intended to review past projects, establish new political and economic priorities and reshuffle officials. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jan/20/kim-jong-un-fires-vice-premier-yang-sung-ho-goat-ox-cart",
-      "published": "Tue, 20 Jan 2026 11:46:15 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Japan jails ex-PM Shinzo Abe assassin for life after guilty verdict in 2022 killing",
       "description": "The gunman charged with killing Japan’s former prime minister Shinzo Abe was found guilty and sentenced to life in prison on Wednesday, more than three years after the brazen daylight assassination shocked the country. Judge Shinichi Tanaka handed down the ruling at a court in the city of Nara.",
       "url": "https://www.france24.com/en/asia-pacific/20260121-japan-shinzo-abe-assassination-trial",
@@ -1383,6 +1502,17 @@
       "is_ticker": false
     },
     {
+      "title": "Nigeria police confirm mass church abductions after previous denial",
+      "description": "More than 160 people were reportedly taken from three churches in the northern Kaduna state.",
+      "url": "https://www.bbc.com/news/articles/c4grw9vg7y4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 21 Jan 2026 09:28:39 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "UK defends Chagos deal after Trump calls it 'act of great stupidity'",
       "description": "The US president says it is \"another in a very long line of National Security reasons why Greenland has to be acquired\".",
       "url": "https://www.bbc.com/news/articles/c0mkp021rvro?at_medium=RSS&at_campaign=rss",
@@ -1394,10 +1524,10 @@
       "is_ticker": false
     },
     {
-      "title": "New Zealand PM Christopher Luxon calls national election for November 7",
-      "description": "New Zealanders are set to go to the polls later this year amid a sluggish economy and rising unemployment.",
-      "url": "https://www.aljazeera.com/news/2026/1/21/new-zealand-pm-christopher-luxon-calls-national-election-for-november-7?traffic_source=rss",
-      "published": "Wed, 21 Jan 2026 06:09:05 +0000",
+      "title": "Syrian forces make gains against SDF: What it means for country’s Kurds",
+      "description": "Analysts believe overtures from the Syrian government to the Kurdish minority have come a little late.",
+      "url": "https://www.aljazeera.com/features/2026/1/21/syrian-forces-makes-gains-against-sdf-what-it-means-for-countrys-kurds?traffic_source=rss",
+      "published": "Wed, 21 Jan 2026 10:02:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1405,10 +1535,10 @@
       "is_ticker": false
     },
     {
-      "title": "What is Bangladesh’s Jamaat-e-Islami party? Could it lead the country next?",
-      "description": "For first time in its chequered history, the party has a real chance of grabbing power as the leader of ruling alliance.",
-      "url": "https://www.aljazeera.com/news/2026/1/21/what-is-bangladeshs-jamaat-e-islami-party-could-it-lead-the-country-next?traffic_source=rss",
-      "published": "Wed, 21 Jan 2026 03:22:14 +0000",
+      "title": "New Zealand PM Christopher Luxon calls national election for November 7",
+      "description": "New Zealanders are set to go to the polls later this year amid a sluggish economy and rising unemployment.",
+      "url": "https://www.aljazeera.com/news/2026/1/21/new-zealand-pm-christopher-luxon-calls-national-election-for-november-7?traffic_source=rss",
+      "published": "Wed, 21 Jan 2026 06:09:05 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1471,6 +1601,17 @@
       "is_ticker": false
     },
     {
+      "title": "What to know about the trial in Hong Kong against Tiananmen vigil organizers",
+      "description": "A national security trial for former organizers of Hong Kong’s Tiananmen Square vigil opens Thursday",
+      "url": "https://abcnews.go.com/International/wireStory/trial-hong-kong-tiananmen-vigil-organizers-129404464",
+      "published": "Wed, 21 Jan 2026 04:14:56 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Human trafficking depends on corruption at every step",
       "description": "In 2011, a trafficker in Chile was convicted for recruiting economically vulnerable Peruvian citizens and arranging for them to be brought into the country – destined to become victims of sexual exploitation.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166797",
@@ -1478,17 +1619,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Locked exits, panic and desperate calls for help: Survivors tell of mall fire horror",
-      "description": "The BBC speaks to eyewitnesses and survivors of the fire that ripped through a busy Pakistan shopping centre.",
-      "url": "https://www.bbc.com/news/articles/c1ev4z4n5dzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Jan 2026 00:03:08 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1516,6 +1646,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 New ceasefire in Syria after Kurdish-led forces pull out of camp for IS families"
+    },
+    {
+      "title": "US allies unite against Trump’s threats to take over Greenland at Davos",
+      "description": "US allies reacted to President Donald Trump’s threats to take over Greenland on Tuesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/21/us-allies-unite-against-trumps-threats-to-take-over-greenland-at-davos?traffic_source=rss",
+      "published": "Wed, 21 Jan 2026 10:05:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Syrian government and SDF agree on four-day ceasefire",
@@ -1560,11 +1701,11 @@
       "ticker_label": "🪖 Palestinians in Gaza confront reality behind ceasefire’s second phase"
     },
     {
-      "title": "Stock markets, dollar plunge as Trump ramps up tensions over Greenland",
-      "description": "Wall Street has its worst day since October as Trump doubles down on threats to take Greenland.",
-      "url": "https://www.aljazeera.com/news/2026/1/21/stock-markets-plunge-as-trump-ramps-up-tensions-over-greenland?traffic_source=rss",
-      "published": "Wed, 21 Jan 2026 03:05:03 +0000",
-      "source": "Al Jazeera",
+      "title": "Greenland updates: France calls for NATO exercise on island",
+      "description": "Paris is ready to contribute troops to a \"NATO exercise\" in Greenland amid threats being made by US President Donald Trump. NATO chief Mark Rutte said he was working to resolve the row behind ‍the scenes. DW has more.",
+      "url": "https://www.dw.com/en/greenland-updates-france-calls-for-nato-exercise-on-island/live-75588065?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 21 Jan 2026 10:06:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1587,6 +1728,39 @@
       "url": "https://www.france24.com/en/a-lot-of-rosy-rhetoric-but-the-jobs-numbers-are-just-not-there-for-trump",
       "published": "Tue, 20 Jan 2026 20:44:31 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Another train crashes in Spain, killing at least 1 person",
+      "description": "A commuter train crash in Catalonia, Spain, has led to the suspension of rail services in the region",
+      "url": "https://abcnews.go.com/International/wireStory/train-crashes-spain-killing-1-person-129411090",
+      "published": "Wed, 21 Jan 2026 04:59:22 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "As fires in Chile burn, a mobile clinic fights to save furry survivors",
+      "description": "Veterinarians and volunteers in Chile are racing to help animals affected by devastating fires",
+      "url": "https://abcnews.go.com/International/wireStory/fires-chile-burn-mobile-clinic-fights-save-furry-129408759",
+      "published": "Wed, 21 Jan 2026 01:25:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Barcelona commuter train crashes Tuesday night, two days after deadly train collision in Spain",
+      "description": "Barcelona commuter train crashes Tuesday night, two days after deadly train collision in Spain",
+      "url": "https://abcnews.go.com/International/wireStory/barcelona-commuter-train-crashes-tuesday-night-days-after-129397776",
+      "published": "Tue, 20 Jan 2026 16:57:24 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1640,6 +1814,17 @@
       "is_ticker": false
     },
     {
+      "title": "US cost of living remains high one year after Trump's election",
+      "description": "One year ago today, Donald Trump was inaugurated president of the United States for a second time. In the months prior, one of his campaign promises had been to \"make America affordable again\". But from housing to food to childcare, the cost of living remains stubbornly high, with millions of Americans saying the math simply no longer works.",
+      "url": "https://www.france24.com/en/us-cost-of-living-remains-high-one-year-after-trump-s-election",
+      "published": "Wed, 21 Jan 2026 10:27:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "ISIS fighters break free from Syrian jail amid chaotic government handover",
       "description": "U.S. military boosts regional presence with F-15 fighter jets and USS Abraham Lincoln deployment as ISIS prison break highlights security risks amid Syria's political realignment.",
       "url": "https://www.foxnews.com/world/isis-fighters-break-free-from-syrian-jail-amid-chaotic-government-handover",
@@ -1684,21 +1869,21 @@
       "is_ticker": false
     },
     {
-      "title": "ASEAN won't endorse election in military-ruled Myanmar, Malaysia says",
-      "description": "Malaysia's foreign minister Mohamad Hasan cited concerns over the lack of inclusive and free participation.",
-      "url": "https://www.npr.org/2026/01/20/g-s1-106551/asean-wont-endorse-election-in-military-ruled-myanmar-malaysia-says",
-      "published": "Tue, 20 Jan 2026 14:10:22 -0500",
-      "source": "NPR World News",
+      "title": "Keir Starmer to visit China with British business leaders next week, say reports",
+      "description": "Prime minister’s reported trip follows approval by UK government for Beijing to build new embassy in London UK politics live – latest updates Davos live – latest updates Keir Starmer will reportedly visit China next week after controversial plans for Beijing to build a vast embassy in London were approved by his government. The UK prime minster will lead a delegation of blue-chip British companies, according to Reuters. The same firms, which include BP, HSBC, Intercontinental Hotels Group, Jaguar Land Rover and Rolls-Royce were also said to be among those who will join a revamped “UK-China CEO council”. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/jan/21/keir-starmer-visit-china-british-business-leaders",
+      "published": "Wed, 21 Jan 2026 10:09:39 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "EU prosecutor: Third of VAT fraud cases linked to Slovakia",
-      "description": "The EU's most senior prosecutor told Slovak MPs that a staggering one in three VAT fraud cases investigated by her office has links to Slovakia. How can such fraud flourish in Slovakia and is it a new problem?",
-      "url": "https://www.dw.com/en/eu-prosecutor-third-of-vat-fraud-cases-linked-to-slovakia/a-75577538?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 20 Jan 2026 12:09:00 GMT",
+      "title": "Germany news: More and more people turning away from alcohol",
+      "description": "While a considerable majority of Germans drink alcohol, the proportion is on the wane with many citing health worries. Meanwhile, a debate about inheritance tax is brewing in the German government. DW has the latest.",
+      "url": "https://www.dw.com/en/germany-news-more-and-more-people-turning-away-from-alcohol/live-75587808?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 21 Jan 2026 10:02:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
@@ -1772,7 +1957,7 @@
       "is_ticker": false
     },
     {
-      "title": "Beckham vs Peltz Beckham: Could Brooklyn torpedo the family brand?",
+      "title": "Beckham v Peltz Beckham: Could Brooklyn torpedo the family brand?",
       "description": "Brooklyn's explosive post about Brand Beckham \"has ruptured it from within\", one commentator says.",
       "url": "https://www.bbc.com/news/articles/c3ve1r2674zo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 20 Jan 2026 22:05:28 GMT",
@@ -1786,7 +1971,7 @@
       "title": "Detained veteran Ugandan opposition figure critically ill in hospital, his party says",
       "description": "Kizza Besigye’s party says his condition is critical, but authorities say he was taken to hospital for a routine check-up.",
       "url": "https://www.bbc.com/news/articles/c5y2q5j71pqo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Jan 2026 08:21:33 GMT",
+      "published": "Wed, 21 Jan 2026 10:35:15 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1860,17 +2045,6 @@
       "is_ticker": false
     },
     {
-      "title": "Bobi Wine tells the BBC from hiding he will not contest Uganda election results in court",
-      "description": "The losing presidential candidate calls for \"peaceful change\", saying Uganda's judiciary is not independent.",
-      "url": "https://www.bbc.com/news/articles/c394pk4p707o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 20 Jan 2026 10:05:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Luka Doncic records triple-double as Lakers rally past Nuggets",
       "description": "LA Lakers star had one of his most impactful games of the season to propel his side to a comeback win against Denver.",
       "url": "https://www.aljazeera.com/sports/2026/1/21/luka-doncic-records-triple-double-as-lakers-rally-past-nuggets?traffic_source=rss",
@@ -1882,8 +2056,8 @@
       "is_ticker": false
     },
     {
-      "title": "Alcaraz, Sabalenka, Gauff cruise into Australian Open third round",
-      "description": "Top-ranked Carlos Alcaraz and Aryna Sabalenka progressed to the third round at the first Grand Slam of the year.",
+      "title": "Alcaraz, Sabalenka cruise into Australian Open third round",
+      "description": "Top-ranked Carlos Alcaraz and Aryna Sabalenka win in straight sets in third round action at Melbourne Park.",
       "url": "https://www.aljazeera.com/sports/2026/1/21/alcaraz-sabalenka-gauff-cruise-into-australian-open-third-round?traffic_source=rss",
       "published": "Wed, 21 Jan 2026 08:02:30 +0000",
       "source": "Al Jazeera",
@@ -1933,17 +2107,6 @@
       "description": "While trade data show exports from China have fallen dramatically, US customers are still buying from elsewhere.",
       "url": "https://www.aljazeera.com/news/2026/1/21/us-trade-with-southeast-asia-and-taiwan-surging-despite-trump-tariffs?traffic_source=rss",
       "published": "Wed, 21 Jan 2026 05:18:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ex-Japanese Prime Minister Abe’s killer sentenced to life",
-      "description": "Tetsuya Yamagami shot the Japanese politician dead in 2022.",
-      "url": "https://www.aljazeera.com/news/2026/1/21/ex-japanese-prime-minister-abes-killer-sentenced-to-life?traffic_source=rss",
-      "published": "Wed, 21 Jan 2026 04:43:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2097,7 +2260,7 @@
       "title": "M 4.2 - 20 km NNE of Indio, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-01-21 08:30:07 UTC 2026-01-21 08:30:07 UTC at epicenter Location 33.899°N 116.170°W Depth 4.15 km (2.58 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41166223",
-      "published": "2026-01-21T09:34:46.256Z",
+      "published": "2026-01-21T10:36:00.992Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2119,7 +2282,7 @@
       "title": "M 4.9 - 20 km NNE of Indio, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-01-20 01:56:14 UTC 2026-01-20 01:56:14 UTC at epicenter Location 33.894°N 116.169°W Depth 3.09 km (1.92 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41162719",
-      "published": "2026-01-21T09:24:53.105Z",
+      "published": "2026-01-21T10:33:56.785Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2138,43 +2301,43 @@
       "is_ticker": false
     },
     {
+      "title": "How the word 'cravat' came from the battlefields of 17th century Europe",
+      "description": "In this installment of NPR's \"Word of the Week\" series we trace the origins of the \"cravat\" (borrowed from the French \"cravate\") back to the battlefields of 17th century Europe.",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5682323/cravat-word-of-the-week",
+      "published": "Wed, 21 Jan 2026 05:00:00 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump's Greenland demand have been a gift to U.S. geopolitical foes like Russia",
+      "description": "The tensions between the U.S. and Western Allies are a source of satisfaction to many in the Kremlin.",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683070/trumps-greenland-demand-have-been-a-gift-to-u-s-geopolitical-foes-like-russia",
+      "published": "Wed, 21 Jan 2026 04:49:04 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Countries invited to join Trump's Board of Peace react with apprehension",
+      "description": "President Trump has invited scores of nations to join his Board of Peace, but so far the reaction has been tentative.",
+      "url": "https://www.npr.org/2026/01/21/nx-s1-5683176/countries-invited-to-join-trumps-board-of-peace-react-with-apprehension",
+      "published": "Wed, 21 Jan 2026 04:48:35 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Israel's Netanyahu agrees to join Trump's Board of Peace",
       "description": "Prime Minister Benjamin Netanyahu of Israel said Wednesday he had agreed to join U.S. President Donald Trump's Board of Peace, after his office earlier criticized makeup of the board.",
       "url": "https://www.npr.org/2026/01/21/g-s1-106641/netanyahu-join-trump-board-of-peace",
       "published": "Wed, 21 Jan 2026 02:05:31 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says U.K. return of Chagos Islands to Mauritius is reason to acquire Greenland",
-      "description": "The president previously supported Britain's agreement to hand back sovereignty of the Indian Ocean archipelago, where the U.K. continues to lease the U.S.-U.K. Diego Garcia military base.",
-      "url": "https://www.npr.org/2026/01/20/g-s1-106549/chagos-uk-trump-diego-garcia-mauritius-greenland",
-      "published": "Tue, 20 Jan 2026 13:19:56 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "China's birth rate fell to a record low last year despite attempts to boost it",
-      "description": "Despite government efforts to boost fertility, China's birth rate fell to a record low in 2025.",
-      "url": "https://www.npr.org/2026/01/20/nx-s1-5682326/chinas-birth-rate-fell-to-a-record-low-last-year-despite-attempts-to-boost-it",
-      "published": "Tue, 20 Jan 2026 06:44:14 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump's Board of Peace has several invited leaders trying to figure out how it'll work",
-      "description": "It's unclear how many leaders have been asked to join the board, and the large number of invitations being sent out, including to countries that don't get along, has raised questions about the board's mandate and decision-making processes.",
-      "url": "https://www.npr.org/2026/01/20/nx-s1-5682816/trumps-board-of-peace-has-several-invited-leaders-trying-to-figure-out-how-itll-work",
-      "published": "Tue, 20 Jan 2026 06:01:23 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2216,7 +2379,7 @@
     },
     {
       "title": "Venezuela receives $300M in proceeds from first US oil sale",
-      "description": "Interim president Delcy Rodriguez said the money from US sales of Venezuelan oil will be used to prop up the currency.",
+      "description": "Interim President Delcy Rodriguez said the money from US sales of Venezuelan oil will be used to prop up the currency.",
       "url": "https://www.dw.com/en/venezuela-receives-300m-in-proceeds-from-first-us-oil-sale/a-75585844?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 21 Jan 2026 00:11:00 GMT",
       "source": "Deutsche Welle",
@@ -2259,15 +2422,18 @@
       "is_ticker": false
     },
     {
-      "title": "High inflation in Nigeria weighs heavily on everyday life",
-      "description": "Nigerians are grappling with rising inflation, particularly in food prices, driven by subsidy cuts. President Bola Tinubu's government hopes that such measures will improve the situation in the long term.",
-      "url": "https://www.dw.com/en/high-inflation-in-nigeria-weighs-heavily-on-everyday-life/a-75503303?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 20 Jan 2026 13:22:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Marine Le Pen aiming to win appeal trial on \"technicality rather than emotion\"",
+      "description": "French ‍far-right leader Marine Le ​Pen softened her tone while answering judges' questions during her appeal trial in ⁠Paris but denied wrongdoing, after being barred from public office over a conviction for misusing EU funds. The appeal trial is crucial for her, as the decision from this trial will determine whether she can run in the 2027 presidential election.",
+      "url": "https://www.france24.com/en/marine-le-pen-aiming-to-win-appeal-trial-on-technicality-rather-than-emotion",
+      "published": "Wed, 21 Jan 2026 10:33:53 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Marine Le Pen aiming to win appeal trial on \"technicality rather than emotion\""
     },
     {
       "title": "US military seizes seventh Venezuela-linked tanker amid Trump oil crackdown",
@@ -2330,6 +2496,72 @@
       "url": "https://news.sky.com/story/what-is-in-the-chagos-islands-deal-and-why-is-it-controversial-13496512",
       "published": "Tue, 20 Jan 2026 08:38:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ally of S. Korea's Yoon given 23 years in prison for rebellion over martial law",
+      "description": "A South Korean court has ruled the 2024 imposition of martial law by then President Yoon Suk Yeol constituted an act of rebellion as it sentenced his prime minister to 23 years in prison for his involvement",
+      "url": "https://abcnews.go.com/International/wireStory/top-ally-south-koreas-yoon-23-years-prison-129410989",
+      "published": "Wed, 21 Jan 2026 03:24:53 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Man who assassinated former Japanese prime minister gets life in prison",
+      "description": "A Japanese court sentenced a man who admitted assassinating former Japanese Prime Minister Shinzo Abe to life imprisonment",
+      "url": "https://abcnews.go.com/International/wireStory/man-assassinated-former-japanese-prime-minister-gets-life-129408247",
+      "published": "Wed, 21 Jan 2026 03:13:50 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Colombia slashes wages for its legislators",
+      "description": "Colombia’s president on Tuesday reduced wages for members of Congress by approximately 30%, as the South American nation faces a budget crunch and gets ready to hold elections in the first semester of this year",
+      "url": "https://abcnews.go.com/International/wireStory/colombia-slashes-wages-legislators-public-spending-balloons-ahead-129401848",
+      "published": "Wed, 21 Jan 2026 01:13:55 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pharrell opens Vuitton’s monogram anniversary year with cinematic menswear show",
+      "description": "Pharrell Williams opened a celebration year for Louis Vuitton’s monogram — marking the house’s 130th anniversary of its most recognizable signature — with a Fall-Winter 2026 men’s show that was equal parts brand pageant and movie set",
+      "url": "https://abcnews.go.com/International/wireStory/pharrell-opens-vuittons-monogram-anniversary-year-cinematic-menswear-129400730",
+      "published": "Tue, 20 Jan 2026 23:05:35 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Colombia says former FARC rebels have not kept promises to surrender cash and gold",
+      "description": "Officials in Colombia say that the former rebel group Revolutionary Armed Forces of Colombia, or FARC, is violating a 2016 peace deal with the Colombian government by failing to relinquish gold, land and other assets to fund reparations for the group’s...",
+      "url": "https://abcnews.go.com/International/wireStory/colombia-former-farc-rebels-promises-surrender-cash-gold-129397345",
+      "published": "Tue, 20 Jan 2026 17:53:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Families of Venezuelan prisoners demand their release after weeks of waiting outside prisons",
+      "description": "Families of Venezuelan prisoners are demanding the release of nearly 800 detained critics, journalists and opposition members",
+      "url": "https://abcnews.go.com/International/wireStory/families-venezuelan-prisoners-demand-release-after-weeks-waiting-129393746",
+      "published": "Tue, 20 Jan 2026 15:05:38 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
