@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T22:30:14.319533Z",
+  "last_updated": "2026-01-22T22:53:11.860663Z",
   "event_count": 225,
   "events": [
     {
@@ -57,6 +57,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump's Board of Peace: 'Boards & committees do not resolve conflicts, mediators resolve conflicts'"
+    },
+    {
+      "title": "UN warns of rising internet shutdowns as digital blackouts spread worldwide",
+      "description": "A rising trend towards government-enforced internet shutdowns – with at least 300 incidents in more than 54 countries over the last two years – is prompting renewed warnings from the UN about the threat these digital blackouts pose to freedom of expression, access to information and human rights.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166813",
+      "published": "Thu, 22 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UN warns of rising internet shutdowns as digital blackouts spread worldwide"
     },
     {
       "title": "Rising hunger and displacement pose growing economic risk, UN tells Davos",
@@ -544,20 +558,6 @@
       "ticker_label": "💥 Three people dead and alleged gunman at large after shooting in NSW town"
     },
     {
-      "title": "'Assassination culture' is on the rise, especially among women, study warns",
-      "description": "New survey reveals women are 15% more likely to tolerate political violence, with heavy social media use driving concerning \"assassination culture\" trends.",
-      "url": "https://www.foxnews.com/us/assassination-culture-rise-especially-among-women-study-warns",
-      "published": "Thu, 22 Jan 2026 06:00:54 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'Assassination culture' is on the rise, especially among women, study warns"
-    },
-    {
       "title": "Iran accused of sex assaults on teenage prisoners, while families charged to recover remains of loved ones",
       "description": "Iran's prosecutor general Mohammad Movahedi claims government crushed nationwide protests as death toll reaches 544 with over 10,681 arrested.",
       "url": "https://www.foxnews.com/world/iran-accused-sex-assaults-teenage-prisoners-families-charged-recover-remains-loved-ones",
@@ -683,6 +683,17 @@
       "url": "https://abcnews.go.com/International/wireStory/nigeria-church-attackers-demand-ransoms-search-intensifies-150-129458838",
       "published": "Thu, 22 Jan 2026 13:46:18 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Brother killed after teen becomes 'enraged' over video game, stabs sibling: police",
+      "description": "Oklahoma teenager allegedly calls 911 to confess stabbing his brother to death over a video game dispute. William Spencer, 19, now faces murder charges.",
+      "url": "https://www.foxnews.com/us/brother-killed-after-teen-becomes-enraged-over-video-game-stabs-sibling-police",
+      "published": "Thu, 22 Jan 2026 17:49:12 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
@@ -963,17 +974,6 @@
       "is_ticker": false
     },
     {
-      "title": "World News in Brief: Food insecurity in Lebanon, Libya migrants freed, UNHCR tackles multiple emergencies – despite cuts",
-      "description": "Since 2026, nearly 17 percent of Lebanon’s population has been living in a state of major food insecurity – a situation that is likely to worsen in the coming year.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166787",
-      "published": "Mon, 19 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Yale hosts controversial speaker Trita Parsi accused of promoting Iranian regime interests",
       "description": "Controversial Iranian American Trita Parsi to speak at Yale, sparking outrage amid deadly Iran protests that allegedly killed over 16,000 people.",
       "url": "https://www.foxnews.com/us/yale-hosts-controversial-speaker-trita-parsi-accused-promoting-iranian-regime-interests",
@@ -1011,20 +1011,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Top EU official warns Trump's tariff threat over Greenland pushback is 'a mistake'"
-    },
-    {
-      "title": "Three dead in shooting in Australia's New South Wales",
-      "description": "Residents have been told to stay indoors and avoid the area of the shooting.",
-      "url": "https://www.bbc.com/news/articles/c4g00mv29j5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 11:38:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Three dead in shooting in Australia's New South Wales"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1108,6 +1094,20 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Three dead in shooting in Australia's New South Wales",
+      "description": "A man is being sought in connection with the shootings in the small town of Lake Cargelligo on Thursday.",
+      "url": "https://www.bbc.com/news/articles/c4g00mv29j5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 22:38:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Three dead in shooting in Australia's New South Wales"
     },
     {
       "title": "What we know about Trump's  'framework of future deal' over Greenland",
@@ -1598,7 +1598,7 @@
       "title": "News live: Sussan Ley says her leadership can survive Coalition split; Australians ‘pretty unhappy’ with opposition, Liberal MP says",
       "description": "Follow updates live Liberal senator says party still ‘believes’ in the Coalition Anne Ruston, a Liberal senator, said the party still believes in the Coalition and would like to see it continue, but said Sussan Ley was left with “no option but to accept” multiple resignations after members of the Nationals broke a “fundamental rule”. We believe in the coalition and we would like to see a coalition continue, but the circumstances around the actions of the National party this week left the leader with no option but to accept the resignations of three people who, by their own admission, broke the very fundamental rule of a coalition and that is shadow cabinet solidarity. So I think the leader is absolutely right. The most important thing that we can do as of today is to focus on the future of responding to the needs of the Australian public because that’s what they elected us to do. That’s obviously a matter for the National party and their deliberations as to why they chose yesterday as a day to make public comment, and I’m not going to make any further comment than that. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jan/23/australia-news-live-sussan-ley-liberals-coalition-nationals-littleproud-hastie-taylor-anthony-albanese-labor-spill-ntwnfb",
-      "published": "Thu, 22 Jan 2026 22:18:08 GMT",
+      "published": "Thu, 22 Jan 2026 22:28:32 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
@@ -1657,6 +1657,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "UN to take over al-Hol camp for IS families in Syria after unrest",
+      "description": "A UN spokesman said conditions inside the camp remained \"tense and volatile\" after Kurdish-led forces withdrew.",
+      "url": "https://www.bbc.com/news/articles/clyzzzd2y7do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 22:46:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -2011,17 +2022,6 @@
       "is_ticker": false
     },
     {
-      "title": "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria",
-      "description": "The retreat of the Syrian Democratic Forces (SDF) in the north-east marks the biggest change of control in Syria since the fall of Bashar al-Assad.",
-      "url": "https://www.bbc.com/news/articles/c9311l0d40qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 12:08:12 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Son-in-law of Venezuelan opposition candidate freed from jail, wife says",
       "description": "Rafael Tudares was arrested after his father-in-law, Edmundo González, ran against Nicolás Maduro in the election.",
       "url": "https://www.bbc.com/news/articles/cq5yywx39e7o?at_medium=RSS&at_campaign=rss",
@@ -2066,10 +2066,10 @@
       "is_ticker": false
     },
     {
-      "title": "Trump ratcheted up the Greenland rhetoric - but has he been talked down?",
-      "description": "Despite talk of a deal over Greenland, it will be hard for US allies to return to business as usual, writes the BBC’s diplomatic correspondent.",
-      "url": "https://www.bbc.com/news/articles/cj3vv1kv1rdo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 01:52:28 GMT",
+      "title": "Rapid rollback of Kurdish-led forces reshapes Sharaa's Syria",
+      "description": "The retreat of the Syrian Democratic Forces (SDF) in the north-east marks the biggest change of control in Syria since the fall of Bashar al-Assad.",
+      "url": "https://www.bbc.com/news/articles/c9311l0d40qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 12:08:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2303,7 +2303,7 @@
       "title": "M 4.7 - 40 km S of Evanston, Wyoming",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-01-22 14:49:20 UTC 2026-01-22 14:49:20 UTC at epicenter Location 40.911°N 110.875°W Depth 14.72 km (9.15 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80127891",
-      "published": "2026-01-22T22:29:00.099Z",
+      "published": "2026-01-22T22:49:41.899Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2336,7 +2336,7 @@
       "title": "M 4.9 - 20 km NNE of Indio, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-01-20 01:56:14 UTC 2026-01-20 01:56:14 UTC at epicenter Location 33.894°N 116.169°W Depth 3.09 km (1.92 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41162719",
-      "published": "2026-01-22T17:16:54.556Z",
+      "published": "2026-01-22T22:45:10.220Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2446,10 +2446,10 @@
       "is_ticker": false
     },
     {
-      "title": "REPLAY: Greenland PM holds press conference",
-      "description": "Greenland PM holds press conference after Trump's declarations at Davos.",
-      "url": "https://www.france24.com/en/replay-greenland-pm-holds-press-conference",
-      "published": "Thu, 22 Jan 2026 17:41:49 GMT",
+      "title": "For Europe's far right 'there's no way to win voters while they're trying to appease Trump'",
+      "description": "Speaking with FRANCE 24's Sharon Gaffney, Georgios Samaras, Assistant Professor of Public Policy at the School for Government at King’s College London, says that Donald Trump is deeply unpopular among the general population across Europe and that for far right parties in Europe 'there's no way to win voters while they're trying to appease Trump'.",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260122-for-europe-s-far-right-there-s-no-way-to-win-voters-while-they-re-trying-to-appease-trump",
+      "published": "Thu, 22 Jan 2026 22:07:11 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2457,10 +2457,10 @@
       "is_ticker": false
     },
     {
-      "title": "Books, after hours: France celebrates reading for pleasure",
-      "description": "In this edition of Entre Nous we dive into reading! As France celebrates its tenth edition of les Nuits de la lecture, or Reading Nights, we find out how time spent reading literature, in France and elsewhere, is dropping. We also discuss whether this widespread dip in reading is changing society – namely, whether it is making politics dumber. Finally, we tackle a divisive question: is listening to audiobooks actually reading?",
-      "url": "https://www.france24.com/en/tv-shows/entre-nous/20260122-books-after-hours-france-celebrates-reading-for-pleasure",
-      "published": "Thu, 22 Jan 2026 15:27:27 GMT",
+      "title": "REPLAY: Greenland PM holds press conference",
+      "description": "Greenland PM holds press conference after Trump's declarations at Davos.",
+      "url": "https://www.france24.com/en/replay-greenland-pm-holds-press-conference",
+      "published": "Thu, 22 Jan 2026 17:41:49 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
