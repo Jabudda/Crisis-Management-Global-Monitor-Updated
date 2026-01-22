@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-22T17:36:18.153319Z",
+  "last_updated": "2026-01-22T18:42:26.250145Z",
   "event_count": 225,
   "events": [
     {
@@ -45,20 +45,6 @@
       "ticker_label": "🪖 'If we're not at the table, we're on the menu': What global leaders have said"
     },
     {
-      "title": "Pakistan: Death toll soars in Karachi mall fire",
-      "description": "Rescuers have retrieved remains of many more victims from a gutted mall in Pakistan's Karachi, with dozens still missing. The cause of the disaster is still not known.",
-      "url": "https://www.dw.com/en/pakistan-death-toll-soars-in-karachi-mall-fire/a-75600651?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Jan 2026 08:01:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Pakistan: Death toll soars in Karachi mall fire"
-    },
-    {
       "title": "Rising hunger and displacement pose growing economic risk, UN tells Davos",
       "description": "As global leaders gather at the World Economic Forum in Davos this week, UN agencies are warning that rising hunger and displacement are not only humanitarian emergencies but growing threats to global economic stability.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166791",
@@ -99,6 +85,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ In the ashes of Lirquén: How a small town is rising from Chile's devastating wildfires"
+    },
+    {
+      "title": "'Vanity project':  Does Trump seek to 'cement legacy' with Greenland deal and Board of Peace?",
+      "description": "Rochelle FERGUSON BOUYAHI welcomes Dafydd Townley, Teaching Fellow in US politics and International Security at the University of Portsmouth, joining us from Davos. He dives right into Donald Trump’s arctic exploits: from soliciting leaders to join his “Board of Peace” to his relentless pursuit of Greenland. Europe and NATO are caught in the crosshairs on this treacherous trek through legacy politics, transactional diplomacy, and the ever-evolving sociopolitical and economic landscape as the ice melts in a warming world.",
+      "url": "https://www.france24.com/en/video/20260122-vanity-project-does-trump-seek-to-cement-legacy-with-greenland-deal-and-board-of-peace-1",
+      "published": "Thu, 22 Jan 2026 17:41:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'Vanity project':  Does Trump seek to 'cement legacy' with Greenland deal and Board of Peace?"
     },
     {
       "title": "UN warns of 'catastrophic' hunger crisis in Nigeria as food aid funding runs out",
@@ -190,15 +190,18 @@
       "is_ticker": false
     },
     {
-      "title": "Global effort underway to recover stolen Louvre jewels",
-      "description": "French police continue the search for jewels stolen from the Louvre, private investigators are also stepping in. All eight missing pieces have already been added to the world’s largest stolen art database, which lists some 700,000 works. In London, a team of experts that has been tracing lost artworks for more than 30 years is working to help return them to their rightful owners. Camille Knight reports.",
-      "url": "https://www.france24.com/en/global-effort-underway-to-recover-stolen-louvre-jewels",
-      "published": "Thu, 22 Jan 2026 14:02:13 GMT",
+      "title": "Deadly protests crackdown in Iran: Some funerals of protesters turn into demonstrations",
+      "description": "The number of people killed in protests against the Iranian regime has been rising since demonstrations began in late December. An NGO reported on January 20 that more than 4,500 people had been killed. However, it added that the figure was provisional because a nationwide internet blackout meant that the death toll had been hard to establish. The real number is thought to be much higher.",
+      "url": "https://www.france24.com/en/deadly-protests-crackdown-in-iran-some-funerals-of-protesters-turn-into-demonstrations",
+      "published": "Thu, 22 Jan 2026 17:08:36 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Deadly protests crackdown in Iran: Some funerals of protesters turn into demonstrations"
     },
     {
       "title": "Cold and dark: UN rights chief condemns Russian strikes on Ukraine’s power grid",
@@ -308,17 +311,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Silence marks moment of sorrow as Australians mourn victims of Bondi terror attack"
-    },
-    {
-      "title": "About 30 countries expected to join Trump's 'Board of Peace'",
-      "description": "US President Donald Trump has unveiled his “Board of Peace,” a $1 billion initiative aimed at resolving international conflicts through permanent membership. Initially designed to oversee Gaza’s reconstruction, a draft of the board’s charter suggests its mandate could extend beyond the Palestinian territory. France24 Senior reporter James André shares his insights.",
-      "url": "https://www.france24.com/en/about-30-countries-expected-to-join-trump-s-board-of-peace",
-      "published": "Thu, 22 Jan 2026 13:59:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "‘Alarming’ increase in use of death penalty last year, despite global trend towards abolition",
@@ -513,20 +505,6 @@
       "is_ticker": false
     },
     {
-      "title": "Rescue efforts underway after landslides hit New Zealand campground, house, 2 dead",
-      "description": "Landslides have hit a house and a campground in New Zealand, killing at least two people while emergency crews are trying to rescue people buried in rubble",
-      "url": "https://abcnews.go.com/International/wireStory/rescue-efforts-underway-after-landslides-hit-new-zealand-129438465",
-      "published": "Thu, 22 Jan 2026 03:29:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Rescue efforts underway after landslides hit New Zealand campground, house, 2 dead"
-    },
-    {
       "title": "62 Nigerian hostages rescued, 2 militants killed, army says",
       "description": "Nigeria's military rescued 62 hostages and killed two militants in operations across Zamfara, Kebbi and Sokoto states after weekend church kidnappings.",
       "url": "https://www.foxnews.com/world/62-nigerian-hostages-rescued-2-militants-killed-army-says",
@@ -605,34 +583,6 @@
       "ticker_label": "🪖 ActionAid to rethink child sponsorship as part of plan to ‘decolonise’ its work"
     },
     {
-      "title": "Trump says Canada should be grateful for ‘freebies’ it gets from the US",
-      "description": "US president singles out Mark Carney day after prime minister warned world is undergoing geopolitical ‘rupture’ Trump news at a glance: at Davos, president rambles, backs down and touts ‘future deal’ on Greenland Donald Trump has said Canada should be “grateful” for the “freebies” it gets from the US, a day after its prime minister, Mark Carney , warned the world was undergoing a geopolitical “rupture”. Speaking those attending the World Economic Forum annual meeting in Switzerland, the US president singled out Carney’s speech that was sharply critical of US foreign policy. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/jan/21/trump-canada-mark-carney",
-      "published": "Wed, 21 Jan 2026 20:00:22 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump says Canada should be grateful for ‘freebies’ it gets from the US"
-    },
-    {
-      "title": "Chile’s president-elect names staunch abortion opponent as gender equality minister",
-      "description": "Far-right incoming president picked Judith Marín, who has publicly decried bills to decriminalise abortion, for the role Chile’s incoming far-right president José Antonio Kast has named a vehement opponent of abortion who has repeatedly stated her support for life “from conception to natural death” as the country’s new women and gender equality minister. Judith Marín, 30, was once ejected from Chile’s senate by police for screaming “return to the Lord” during a vote to decriminalise abortion under restricted circumstances. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jan/21/chile-abortion-opponent-gender-equality-minister",
-      "published": "Wed, 21 Jan 2026 16:56:26 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Chile’s president-elect names staunch abortion opponent as gender equality minister"
-    },
-    {
       "title": "Filipino journalist Frenchie Cumpio found guilty of terror financing in verdict rights groups call ‘absurd’",
       "description": "Reporters Without Borders said the ruling against the 26-year-old journalist showed a ‘blatant disregard for press freedom’ in the Southeast Asian nation A young Filipino journalist who spent nearly six years in a crowded provincial prison was found guilty of terror financing on Thursday, in a case rights groups and a UN rapporteur labelled a “travesty of justice”. Community journalist and radio broadcaster Frenchie Cumpio, 26, and former roommate Marielle Domequil broke down in tears and hugged each other as the guilty verdict was read and they were sentenced to 12-18 years in prison by judge Georgina Uy Perez of the Tacloban regional court. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/22/frenchie-mae-cumpio-philippine-journalist-found-guilty",
@@ -659,20 +609,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israeli fire strikes journalists and children in Gaza"
-    },
-    {
-      "title": "Guterres in London: Humanity strongest when we stand as one",
-      "description": "Powerful forces are lining up to undermine global cooperation, United Nations Secretary-General António Guterres warned at a landmark event in London on Saturday to commemorate the 80th anniversary of the General Assembly, but he urged that “humanity is strongest when we stand as one”.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166783",
-      "published": "Sat, 17 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Guterres in London: Humanity strongest when we stand as one"
     },
     {
       "title": "ISIS takes credit for Kabul suicide bombing at Chinese restaurant",
@@ -756,6 +692,17 @@
       "ticker_label": "🚨 Teen mass killer pleads guilty to NC rampage that left five dead, including brother, police officer"
     },
     {
+      "title": "France seizes oil tanker in Mediterranean sailing from Russia: Macron",
+      "description": "French President Emmanuel Macron says vessel subject to international sanctions, suspected of 'flying false flag'.",
+      "url": "https://www.aljazeera.com/news/2026/1/22/france-seizes-oil-tanker-in-mediterranean-sailing-from-russia-macron?traffic_source=rss",
+      "published": "Thu, 22 Jan 2026 17:27:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -836,15 +783,18 @@
       "is_ticker": false
     },
     {
-      "title": "From Hollywood to Fort Worth: Film and TV productions move to Texas",
-      "description": "As Hollywood faces an unprecedented crisis, Texas eyes an opportunity. Thanks to new tax incentives, the state is attracting producers and studios, with the ambition of promoting content aligned with family and Christian values. While the official goal is to create jobs in the industry, some lawmakers openly want to build a counterweight to Hollywood, which they see as ideologically hostile. FRANCE 24's Valérie Defert and Pierrick Leurent report from Fort Worth, with Wassim Cornet.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260122-from-hollywood-to-fort-worth-film-and-tv-productions-move-to-texas",
-      "published": "Thu, 22 Jan 2026 13:28:18 GMT",
-      "source": "France24",
+      "title": "Death toll in Pakistan shopping plaza fire rises to 67, officials say",
+      "description": "Police and hospital officials say the death toll from a devastating fire at a shopping plaza in Pakistan’s southern city of Karachi has jumped to 67 after body parts of dozens more people were found",
+      "url": "https://abcnews.go.com/International/wireStory/death-toll-pakistan-shopping-plaza-fire-rises-67-129460886",
+      "published": "Thu, 22 Jan 2026 13:05:29 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Death toll in Pakistan shopping plaza fire rises to 67, officials say"
     },
     {
       "title": "US government warns it will take action if Haitian politicians destabilize country",
@@ -891,6 +841,17 @@
       "url": "https://www.npr.org/2026/01/22/nx-s1-5684116/european-leaders-to-meet-for-emergency-summit-about-the-u-s-and-greenland",
       "published": "Thu, 22 Jan 2026 06:58:58 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "EU holds emergency summit amid Greenland upheaval",
+      "description": "US President Trump's sudden declaration of a \"breakthrough\" on Greenland seemed to render an emergency EU summit partly moot, as it was originally called to discuss the threat of US tariffs on Europe and how to respond.",
+      "url": "https://www.dw.com/en/eu-holds-emergency-summit-amid-greenland-upheaval/a-75612236?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Jan 2026 18:24:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -1022,17 +983,6 @@
       "is_ticker": false
     },
     {
-      "title": "The business of saving nature",
-      "description": "Global financing is heavily skewed to industries that harm rather than preserve nature, according to a new report that calls for an urgent scale-up of nature-positive spending.",
-      "url": "https://www.dw.com/en/the-business-of-saving-nature/a-75594438?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Jan 2026 09:04:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Philippine court convicts journalist of terror financing charge in ruling condemned by media groups",
       "description": "A Philippine court has found a Filipina journalist guilty of financing terrorism in a verdict that was condemned by press freedom watchdogs but welcomed by anti-communist insurgency officials",
       "url": "https://abcnews.go.com/International/wireStory/philippine-court-convicts-journalist-terror-financing-charge-ruling-129445362",
@@ -1100,18 +1050,7 @@
       "title": "What we know about Trump's  'framework of future deal' over Greenland",
       "description": "Denmark and Greenland have made it clear they will not relinquish sovereignty of the world's largest island.",
       "url": "https://www.bbc.com/news/articles/c86vvjxe9z7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 17:02:54 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Oldest cave painting of red claw hand could rewrite human creativity timeline",
-      "description": "A stencilled outline of a hand found on the Indonesian island of Sulawesi is the world's oldest known cave painting, researchers say.",
-      "url": "https://www.bbc.com/news/articles/czx1pnlzer5o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Jan 2026 16:00:07 GMT",
+      "published": "Thu, 22 Jan 2026 18:15:32 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1128,20 +1067,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Israeli settlers forcibly displacing largest Palestinian Bedouin village",
-      "description": "Settler violence in the occupied West Bank has emptied nearly three-quarters of this Palestinian Bedouin village.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/israeli-settlers-forcibly-displacing-largest-palestinian-bedouin-village?traffic_source=rss",
-      "published": "Thu, 22 Jan 2026 12:58:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Israeli settlers forcibly displacing largest Palestinian Bedouin village"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1232,17 +1157,6 @@
       "is_ticker": false
     },
     {
-      "title": "World Cup 2026: Could Europe drive a boycott?",
-      "description": "Just as it did in Russia 2018 and Qatar 2022, politics is dominating the build up to World Cup 2026. Could discontent with Donald Trump in Europe see football heavyweights united behind such a cause?",
-      "url": "https://www.dw.com/en/world-cup-2026-could-europe-drive-a-boycott/a-75598538?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Jan 2026 10:04:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "REPLAY: Zelenzky speaks after meeting with Trump",
       "description": "Volodymyr Zelensky speaks at World Economic Forum after meeting Donald Trump.",
       "url": "https://www.france24.com/en/replay-zelenzky-speaks-after-meeting-with-trump",
@@ -1279,6 +1193,17 @@
       "is_ticker": false
     },
     {
+      "title": "For every $1 spent protecting nature, $30 goes to destroying it",
+      "description": "The world spends billions to protect nature, but trillions are being invested in business activities that harm the environment.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166809",
+      "published": "Thu, 22 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "World leaders join Trump to sign Board of Peace agreement and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/world-leaders-join-trump-board-peace-agreement-more-top-headlines",
@@ -1297,6 +1222,31 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia",
+      "description": "The meeting came as US envoy Steve Witkoff headed to Moscow for a meeting with Russia's Vladimir Putin.",
+      "url": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 17:37:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US optimistic on end to war as Zelensky says Ukraine to talk to US and Russia"
+    },
+    {
+      "title": "German nurse jailed for murders could be linked to 100 more deaths",
+      "description": "Prosecutors are reviewing dozens more suspected deaths linked to a former palliative care nurse.",
+      "url": "https://www.bbc.com/news/articles/ckgjjy55x2mo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 18:12:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1351,6 +1301,20 @@
       "is_ticker": false
     },
     {
+      "title": "Canada aquarium that threatened to kill its whales wants to sell them to US",
+      "description": "Marineland seeks approval to sell belugas to United States after its China export proposal was rejected ‘It’s heartbreaking’: how 30 captive beluga whales have become pawns in row over animal cruelty Marineland, the Canadian amusement park and aquarium which has threatened to kill its captive whales , wants government approval to sell the belugas to the United States after its China export proposal was rejected, according to an official and a former trainer. The former tourist attraction near the famed Niagara Falls has been mired in controversy for years. Twenty animals, including 19 belugas, have died at the park since 2019, according to a tally by the Canadian Press. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/22/canada-marineland-aquarium-whales-us",
+      "published": "Thu, 22 Jan 2026 17:33:10 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Canada aquarium that threatened to kill its whales wants to sell them to US"
+    },
+    {
       "title": "Nearly 200 arrested in cross-border crackdown on gold mining in Amazon",
       "description": "Cash, gold, mercury and firearms seized in operations in Brazil, French Guiana, Guyana and Suriname Police and prosecutors from Brazil, French Guiana, Guyana and Suriname have arrested nearly 200 people in their first joint cross-border operation targeting illegal gold mining in the Amazon region, authorities said. The operation was backed by Interpol, the EU and Dutch police specialising in environmental crime. It involved more than 24,500 checks on vehicles and people across remote border areas and led to the seizure of cash, unprocessed gold, mercury, firearms, drugs and mining equipment, Interpol said. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/22/cross-border-crackdown-illegal-gold-mining-amazon",
@@ -1371,20 +1335,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Sheinbaum defends transfer of Mexican cartel members amid efforts to appease Trump",
-      "description": "Analysts warn that Trump will probably demand more action from Mexico to counter drug-trafficking groups Mexico’s President Claudia Sheinbaum has defended the latest transfer of 37 Mexican cartel operatives to the US as a “sovereign decision”, as her government strives to alleviate pressure from the Trump administration to do more against drug-trafficking groups. It was the third such flight in the year since Donald Trump returned to the White House, but analysts warn that while it remains an effective pressure valve, the returns may be diminishing. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jan/21/sheinbaum-mexican-cartel-trump",
-      "published": "Wed, 21 Jan 2026 20:05:35 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sheinbaum defends transfer of Mexican cartel members amid efforts to appease Trump"
     },
     {
       "title": "‘Manosphere’ influencers pushing testosterone tests are convincing healthy young men there is something wrong with them, study finds",
@@ -1549,6 +1499,17 @@
       "ticker_label": "🪖 UN rights chief bears witness to trauma and resilience in Sudan"
     },
     {
+      "title": "Murder rate drops to lowest level since 1900 across major US cities nationwide",
+      "description": "Historic crime milestone as U.S. murders reach lowest levels since 1900. Major cities report record safety improvements through strategic enforcement.",
+      "url": "https://www.foxnews.com/us/murder-rate-drops-lowest-level-since-1900-across-major-us-cities-nationwide",
+      "published": "Thu, 22 Jan 2026 12:35:58 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Indiana judge shooting leaves ‘long list’ of potential suspects days into manhunt: defense attorney",
       "description": "Indiana Judge Steven Meyer and wife shot allegedly after shooter used dog ruse to get them to open door. Multiple law enforcement agencies investigating.",
       "url": "https://www.foxnews.com/us/indiana-judge-shooting-leaves-long-list-potential-suspects-days-manhunt-defense-attorney",
@@ -1599,15 +1560,18 @@
       "is_ticker": false
     },
     {
-      "title": "US to transfer Islamic State prisoners from Syria to Iraq",
-      "description": "The move comes as Syrian government forces take control of north-eastern areas where Kurdish-led forces have long controlled.",
-      "url": "https://www.bbc.com/news/articles/cx20pwqkgp9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Jan 2026 20:09:57 GMT",
-      "source": "BBC News",
+      "title": "Peru’s interim president embroiled in scandal over secret meetings with Chinese businessmen",
+      "description": "Opposition lawmakers say they will seek to impeach José Jerí over undisclosed meetings in Lima’s Chinatown Peru ’s interim president, José Jerí, has denied lying to the country and claimed he was the victim of a plot to discredit him amid a growing political scandal over his secretive meetings with Chinese businessmen. Jerí, 39, who took office in October after his predecessor Dina Boluarte was forced out, told a congressional oversight committee on Wednesday that he had been the target of a smear campaign designed to destabilise the country ahead of elections in April. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/22/peru-president-chinese-businessmen-secret-meeting",
+      "published": "Thu, 22 Jan 2026 17:20:56 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Peru’s interim president embroiled in scandal over secret meetings with Chinese businessmen"
     },
     {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
@@ -1701,6 +1665,20 @@
       "is_ticker": false
     },
     {
+      "title": "How a strategic hill decided the Thai-Cambodia ceasefire",
+      "description": "Hill 350, a strategic high point on the Thailand-Cambodia border, was fiercely contested in fighting last year.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/how-a-strategic-hill-decided-the-thai-cambodia-ceasefire?traffic_source=rss",
+      "published": "Thu, 22 Jan 2026 17:57:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 How a strategic hill decided the Thai-Cambodia ceasefire"
+    },
+    {
       "title": "Senegal coach defends AFCON final walk-off before expected sanction",
       "description": "Senegal face investigation following players and coaches walk-off in injury time of AFCON final against hosts Morocco.",
       "url": "https://www.aljazeera.com/sports/2026/1/22/senegal-coach-defends-afcon-final-walk-off-ahead-of-expected-sanction?traffic_source=rss",
@@ -1723,7 +1701,7 @@
       "is_ticker": false
     },
     {
-      "title": "Germany: far-right extremist 'Saxon Separatists' stand trial",
+      "title": "Germany: Far-right extremist 'Saxon Separatists' stand trial",
       "description": "The trial of 8 suspected right-wing extremists accused of planning a coup is beginning in the German city of Dresden. Their goal: A Nazi state.",
       "url": "https://www.dw.com/en/germany-far-right-extremist-saxon-separatists-stand-trial/a-75601683?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 22 Jan 2026 14:21:00 GMT",
@@ -1739,6 +1717,17 @@
       "url": "https://www.dw.com/en/donald-trump-s-latest-visa-ban-hits-african-countries-hard/a-75590864?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 22 Jan 2026 11:21:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Donald Trump retreats on Greenland threats",
+      "description": "President Donald Trump announced Wednesday that he was scrapping his planned tariffs on eight European nations in an effort to force U.S. control over Greenland, pulling a dramatic reversal shortly after insisting he wanted to get the island “including right, title and ownership.”",
+      "url": "https://www.france24.com/en/donald-trump-retreats-on-greenland-threats",
+      "published": "Thu, 22 Jan 2026 17:06:50 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1828,7 +1817,7 @@
       "title": "Can China rely on domestic oil after Iran, Venezuela shocks?",
       "description": "Donald Trump's moves against two key suppliers have revived debate over China’s fragile oil balance. With domestic output flat and oil fields aging, how much capacity — if any — exists to raise production?",
       "url": "https://www.dw.com/en/can-china-rely-on-domestic-oil-after-iran-venezuela-shocks/a-75516569?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Jan 2026 13:11:00 GMT",
+      "published": "Thu, 22 Jan 2026 18:20:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
@@ -1957,17 +1946,6 @@
       "is_ticker": false
     },
     {
-      "title": "Japan records a 5th straight yearly trade deficit",
-      "description": "Japan has reported it posted a trade deficit for the fifth straight year in 2025 as exports were hit by President Donald Trump’s tariffs and a diplomatic rift with neighboring China",
-      "url": "https://abcnews.go.com/International/wireStory/japan-records-5th-straight-yearly-trade-deficit-129441650",
-      "published": "Thu, 22 Jan 2026 00:12:59 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Prison breaks and renewed clashes raise alarm in northeast Syria",
       "description": "The United Nations continues to monitor developments in northeast Syria following clashes between government troops and the Kurdish-led SDF militia during which scores of detained ISIL militants reportedly escaped from prison.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166799",
@@ -1990,20 +1968,6 @@
       "is_ticker": false
     },
     {
-      "title": "ICE detains 5-year-old during Minnesota operation",
-      "description": "Local school officials say the boy was taken with his father. A government spokeswoman denied ICE was targeting the boy.",
-      "url": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 16:04:08 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 ICE detains 5-year-old during Minnesota operation"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -2015,10 +1979,21 @@
       "is_ticker": false
     },
     {
-      "title": "Trump holds 'very good talks' with Zelensky as US pushes for Ukraine deal",
-      "description": "The meeting came as US envoy Steve Witkoff headed to Moscow for a meeting with Russia's Vladimir Putin.",
-      "url": "https://www.bbc.com/news/articles/c4g44r22j5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 14:23:51 GMT",
+      "title": "France seizes suspected Russian 'shadow fleet' oil tanker in the Mediterranean",
+      "description": "The vessel, named Grinch, was stopped by the French navy as it travelled through waters between Spain and Morocco.",
+      "url": "https://www.bbc.com/news/articles/cdexxr2y907o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 18:32:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "ICE detains 5-year-old and father in Minnesota, lawyer says",
+      "description": "The boy was taken along with his father, the lawyer and school officials say. ICE says it was not targeting the boy.",
+      "url": "https://www.bbc.com/news/articles/cwyrrqwxpz7o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 16:04:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2081,17 +2056,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ghislaine Maxwell to testify before US Congress in Epstein probe",
-      "description": "The convicted sex trafficker has previously said she would decline to answer questions unless she is granted immunity.",
-      "url": "https://www.bbc.com/news/articles/cr7jlylp5keo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Jan 2026 05:14:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Trump ratcheted up the Greenland rhetoric - but has he been talked down?",
       "description": "Despite talk of a deal over Greenland, it will be hard for US allies to return to business as usual, writes the BBC’s diplomatic correspondent.",
       "url": "https://www.bbc.com/news/articles/cj3vv1kv1rdo?at_medium=RSS&at_campaign=rss",
@@ -2107,6 +2071,17 @@
       "description": "The US president made a series of contested claims, ranging from the status of Greenland to Nato spending.",
       "url": "https://www.bbc.com/news/articles/c301jgd1qj6o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 21 Jan 2026 19:19:02 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Slashed incomes and gamers go cold turkey: Fallout from Uganda's internet shutdown",
+      "description": "The internet was shut during the general election, leaving many people without any income - or entertainment.",
+      "url": "https://www.bbc.com/news/articles/cx2p54rm4k4o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Jan 2026 04:14:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2211,20 +2186,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Trump opens ‘Board of Peace’ by listing countries the US has bombed",
-      "description": "During the signing of his ‘Board of Peace’, US President Donald Trump talked about the countries the US had bombed.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/1/22/trump-opens-board-of-peace-by-listing-countries-the-us-has-bombed?traffic_source=rss",
-      "published": "Thu, 22 Jan 2026 12:51:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Trump opens ‘Board of Peace’ by listing countries the US has bombed"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2348,6 +2309,17 @@
       "is_ticker": false
     },
     {
+      "title": "Toronto man posed as pilot to rack up hundreds of free flights, prosecutors say",
+      "description": "Dallas Pokornik accused of using fake ID to fool airlines in case likened to Hollywood thriller Catch Me If You Can A Toronto man posed as a pilot for years in order to fool airlines into giving him hundreds of free flights, prosecutors have alleged, in a case that has prompted comparisons to the Hollywood thriller Catch Me If You Can. Authorities in Hawaii announced this week that Dallas Pokornik, 33, had been charged with wire fraud after he allegedly fooled three major US carriers into giving him free tickets over a span of four years. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jan/22/canada-pilot-airline-tickets",
+      "published": "Thu, 22 Jan 2026 18:22:32 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Former South Korean PM jailed for 23 years for role in martial law insurrection",
       "description": "Han Duck-soo verdict marks first judicial ruling stemming from ex-president Yoon Suk Yeol’s 2024 martial law decree South Korea’s former prime minister Han Duck-soo has been sentenced to 23 years in prison for his role in an insurrection stemming from the former president Yoon Suk Yeol’s failed martial law declaration . The judge, Lee Jin-kwan, ordered Han’s immediate detention. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jan/21/former-south-korea-pm-han-duck-soo-jailed-martial-law-insurrection",
@@ -2362,7 +2334,7 @@
       "title": "M 4.7 - 40 km S of Evanston, Wyoming",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-01-22 14:49:20 UTC 2026-01-22 14:49:20 UTC at epicenter Location 40.911°N 110.875°W Depth 14.72 km (9.15 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu80127891",
-      "published": "2026-01-22T17:31:11.832Z",
+      "published": "2026-01-22T18:34:49.774Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2384,7 +2356,7 @@
       "title": "M 3.8 - 4 km NW of Ohlman, Illinois",
       "description": "ShakeMap - IV DYFI? - V Time 2026-01-20 07:27:40 UTC 2026-01-20 07:27:40 UTC at epicenter Location 39.375°N 89.246°W Depth 8.76 km (5.44 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60617031",
-      "published": "2026-01-22T16:20:36.612Z",
+      "published": "2026-01-22T18:10:00.211Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2436,6 +2408,42 @@
       "is_ticker": false
     },
     {
+      "title": "Merz and Meloni reshape Germany-Italy relations",
+      "description": "Chancellor Friedrich Merz and Prime Minister Giorgia Meloni are showing closer ties than their countries have in years. Meloni is no longer seen as a right-wing outsider, taking on a role as mediator with Donald Trump.",
+      "url": "https://www.dw.com/en/merz-and-meloni-reshape-germany-italy-relations/a-75607617?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Jan 2026 18:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Merz and Meloni reshape Germany-Italy relations"
+    },
+    {
+      "title": "Former US prosecutor says Trump 'willfully' broke laws",
+      "description": "Ex-Special Counsel Jack Smith said there was \"proof beyond a reasonable doubt\" that Donald Trump \"engaged in criminal activity\" to overturn the 2020 election results. Trump has called the inquiry politically motivated.",
+      "url": "https://www.dw.com/en/former-us-prosecutor-says-trump-willfully-broke-laws/a-75612566?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Jan 2026 18:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Greenland 'ready to negotiate' better partnership, PM says",
+      "description": "Jens-Frederik Nielsen said sovereignty was a \"red line\" that needed to be respected as he said Greenland was ready to negotiate after Trump backtracked on suggesting force could be used to acquire it. Follow DW.",
+      "url": "https://www.dw.com/en/greenland-ready-to-negotiate-better-partnership-pm-says/live-75599036?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Jan 2026 17:55:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "India: Woman arrested over suicide of man she accused",
       "description": "Police in India have arrested a woman who accused a man of sexual misconduct on a bus on social media, who then took his own life soon after. His family accused the woman of engagement farming with a spurious claim.",
       "url": "https://www.dw.com/en/india-woman-arrested-over-suicide-of-man-she-accused/a-75610488?maca=en-rss-en-all-1573-xml-mrss",
@@ -2469,11 +2477,11 @@
       "is_ticker": false
     },
     {
-      "title": "Elizabeth Holmes asks Trump to commute her prison sentence",
-      "description": "Elizabeth Holmes led people to believe that her now-defunct company, Theranos, had developed a medical device that could revolutionize blood tests. She is serving an 11-year sentence for fraud and conspiracy.",
-      "url": "https://www.dw.com/en/elizabeth-holmes-asks-trump-to-commute-her-prison-sentence/a-75599260?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Jan 2026 04:36:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "REPLAY: Greenland PM holds press conference",
+      "description": "Greenland PM holds press conference after Trump's declarations at Davos.",
+      "url": "https://www.france24.com/en/replay-greenland-pm-holds-press-conference",
+      "published": "Thu, 22 Jan 2026 17:41:49 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2527,17 +2535,6 @@
       "is_ticker": false
     },
     {
-      "title": "Exploring France's media landscape: A billionaire's playground?",
-      "description": "France has a rich media landscape, offering a wide range of TV and radio stations, newspapers and magazines. The French media ecosystem is a mix of public service entities and private commercial players. Currently, about a dozen billionaires own or co-own most private media organisations. So what impact does this have on the content offered to the public, as well as editorial independence and media credibility? We take a closer look in French Connections.",
-      "url": "https://www.france24.com/en/tv-shows/french-connections/20260122-exploring-france-s-media-landscape-a-billionaire-s-playground",
-      "published": "Thu, 22 Jan 2026 14:08:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "The penny dropped over Trump's Greenland plans - self-defeating, undeliverable and frankly mad",
       "description": "European governments and their diplomats here in Washington are as relieved as they are exasperated by this extraordinary Greenland show and latest act which played out in the Swiss Alps over the past 24 hours.",
       "url": "https://news.sky.com/story/the-truth-behind-trumps-greenland-deal-13497401",
@@ -2549,11 +2546,22 @@
       "is_ticker": false
     },
     {
-      "title": "Why is Ryanair fighting with Elon Musk?",
-      "description": "Elon Musk has said he could buy Ryanair amid an ongoing public spat with the budget airline's boss Michael O'Leary.",
-      "url": "https://news.sky.com/story/elon-musk-vs-ryanair-could-tech-billionaire-actually-buy-budget-airline-and-what-started-online-spat-13497018",
-      "published": "Wed, 21 Jan 2026 08:18:00 +0000",
+      "title": "Nigerian bandits who kidnapped 150 churchgoers demand motorbikes in return",
+      "description": "Nigerian bandits who kidnapped more than 150 churchgoers are demanding 17 motorbikes in return.",
+      "url": "https://news.sky.com/story/nigerian-bandits-who-kidnapped-150-churchgoers-demand-motorbikes-in-return-13497721",
+      "published": "Thu, 22 Jan 2026 16:54:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Mexican authorities arrest alleged crime figure 'El Botox' in killing of lime growers' leader",
+      "description": "Mexican authorities have arrested an alleged organized crime figure in Michoacan linked to the killing of a lime growers' leader",
+      "url": "https://abcnews.go.com/International/wireStory/mexican-authorities-arrest-alleged-crime-figure-el-botox-129462394",
+      "published": "Thu, 22 Jan 2026 12:49:38 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2633,17 +2641,6 @@
       "description": "NYPD detectives were allegedly mistaken for ICE agents at a NYC hospital and treated rudely while seeking care after an arrest. The hospital apologized to the police commissioner.",
       "url": "https://www.foxnews.com/us/nypd-detectives-mistaken-ice-treated-rudely-hospital-staff-scuffle-suspect",
       "published": "Wed, 21 Jan 2026 19:10:57 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "PETA suggests replacing Punxsutawney Phil with hologram for Groundhog Day: 'Let Phil and his family retire'",
-      "description": "PETA proposes a high-tech hologram replace Punxsutawney Phil at the annual Groundhog Day celebration, offering a 3D projection with weather predictions.",
-      "url": "https://www.foxnews.com/us/peta-suggests-replacing-punxsutawney-phil-hologram-groundhog-day-let-phil-his-family-retire",
-      "published": "Wed, 21 Jan 2026 18:54:25 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
