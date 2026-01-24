@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-01-24T07:25:58.350177Z",
-  "event_count": 224,
+  "last_updated": "2026-01-24T07:42:34.911634Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Indonesia takes action against mining firms after floods devastate population of world’s rarest ape",
@@ -43,20 +43,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US forces strike vessel allegedly tied to narco-terror group killing 2 as crews search for lone survivor"
-    },
-    {
-      "title": "Police fight gangs in Haiti and Guatemala",
-      "description": "Jan. 16-22, 2026 Police patrolled a gang-controlled area of ​​Port-au-Prince, Haiti, where violence has displaced 1.4 million. Guatemalan police and soldiers used new powers under a state of emergency. And police in Venezuela watched the relatives of prisoners kneel before them in Caracas, as some political prisoners are released. A cat survived devastating wildfires in Chile. This gallery was curated by photo editor Leslie Mazoch, based in Mexico City. ___ AP photography: https://apnews.com/photography Instagram: https://www.instagram.com/apnews",
-      "url": "https://abcnews.go.com/International/wireStory/police-fight-gangs-haiti-guatemala-top-photos-latin-129481209",
-      "published": "Fri, 23 Jan 2026 01:02:37 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Police fight gangs in Haiti and Guatemala"
     },
     {
       "title": "Japan pauses restart of world’s largest nuclear power plant one day after it went online",
@@ -277,6 +263,20 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Russian attacks on Ukraine kill 1 and wound 18 ahead of second day of peace talks",
+      "description": "Russian attacks on Ukraine killed one person and wounded 18 overnight, as negotiators from Ukraine, Russia and the United States were set to met in Abu Dhabi for a second day of talks aimed at ending Moscow’s nearly four-year invasion",
+      "url": "https://abcnews.go.com/International/wireStory/russian-attacks-ukraine-kill-1-wound-18-ahead-129514398",
+      "published": "Sat, 24 Jan 2026 02:31:48 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian attacks on Ukraine kill 1 and wound 18 ahead of second day of peace talks"
     },
     {
       "title": "Will the Board of Peace live up to its name?",
@@ -758,6 +758,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Rodman becomes new 'highest paid' women's footballer"
+    },
+    {
+      "title": "Scale of Iran's nationwide protests and bloody crackdown comes into focus",
+      "description": "The scale of nationwide protests in Iran and the bloody crackdown that has followed is slowly coming into focus, even though authorities have cut off the country from the internet",
+      "url": "https://abcnews.go.com/International/wireStory/scale-irans-nationwide-protests-bloody-crackdown-focus-internet-129514306",
+      "published": "Sat, 24 Jan 2026 02:30:16 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "UN envoy highlights ‘window to advance peace’ in Colombia",
@@ -1479,17 +1490,6 @@
       "ticker_label": "🪖 'The ultimate insult': Trump downplaying NATO's Afghanistan involvement causes distress in UK"
     },
     {
-      "title": "China says 2 people are dead and 4 missing after boat capsizes near disputed shoal",
-      "description": "Chinese authorities say two people are dead and four are missing after a boat with 21 Filipinos on board capsized in the South China Sea",
-      "url": "https://abcnews.go.com/International/wireStory/china-2-people-dead-4-missing-after-boat-129482178",
-      "published": "Fri, 23 Jan 2026 03:59:00 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Keeping people warm amid hostilities and harsh winter weather in Ukraine",
       "description": "As people in war-torn Ukraine face the coldest winter in more than a decade, authorities and humanitarians are working to help them stay warm, particularly the most vulnerable residents.",
       "url": "https://news.un.org/feed/view/en/story/2026/01/1166822",
@@ -1854,6 +1854,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-01-24T07:42:13.444156Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
