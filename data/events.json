@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-30T20:38:28.997827Z",
+  "last_updated": "2026-01-30T21:34:30.542835Z",
   "event_count": 223,
   "events": [
     {
@@ -57,20 +57,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Niger’s military ruler vows retaliation after gunfire and explosions heard in capital"
-    },
-    {
-      "title": "UN chief warns ‘law of the jungle’ is replacing rule of law",
-      "description": "Warning that the “rule of law is being replaced by the law of the jungle,” the UN Secretary-General on Monday urged world powers to recommit to international law as the foundation of peace, justice and multilateral cooperation.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166832",
-      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UN chief warns ‘law of the jungle’ is replacing rule of law"
     },
     {
       "title": "Convicted terrorist who plotted consulate, church bombings to run in UK election",
@@ -335,17 +321,6 @@
       "is_ticker": false
     },
     {
-      "title": "The hidden money behind deep-sea mining",
-      "description": "A DW investigation traces the hidden financial web behind deep-sea mining — an industry scientists say remains poorly understood, yet capable of causing irreversible harm to oceans worldwide.",
-      "url": "https://www.dw.com/en/the-hidden-money-behind-deep-sea-mining/a-75723552?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Jan 2026 11:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Trump threatens tariffs on goods from countries that sell oil to Cuba",
       "description": "White House cites Cuba’s ties to hostile powers as order ratchets up Trump’s pressure to topple its government Donald Trump signed an executive order on Thursday laying the groundwork to slap tariffs on goods from countries that provide oil to Cuba, the White House said. The order, which ratchets up Trump’s pressure to topple the communist government, declares a national emergency and establishes a process for the US secretaries of state and commerce to assess tariffs against countries that sell or otherwise provide oil to the island nation. The White House has yet to specify tariff rates for violating its new policy of blocking Cuba from buying oil. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jan/29/trump-tariffs-cuba-oil",
@@ -424,15 +399,29 @@
       "ticker_label": "🪖 Guterres warns UN faces ‘imminent financial collapse’"
     },
     {
-      "title": "Explosion at metal fabricating plant leaves at least 4 people injured in Pennsylvania",
-      "description": "An explosion at a Pennsylvania metal fabricating plant injured four people during chemical transfer on Thursday night in Washington County.",
-      "url": "https://www.foxnews.com/us/explosion-metal-fabricating-plant-leaves-least-4-people-injured-pennsylvania",
-      "published": "Fri, 30 Jan 2026 02:50:09 -0500",
-      "source": "Fox News US",
+      "title": "Fact check: Are ICE fakes trying to drown out real videos?",
+      "description": "Deadly ICE raids and a surge of deepfake videos are making it harder than ever to tell real violence from AI‑generated fiction. Our investigation reveals how false clips drown out evidence of fatal encounters.",
+      "url": "https://www.dw.com/en/fact-check-are-ice-fakes-trying-to-drown-out-real-videos/a-75727971?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 30 Jan 2026 20:39:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "World News in Brief: Syria ceasefire welcomed, ‘Olympic truce’, Ukraine’s freezing children",
+      "description": "The UN Commission of Inquiry on Syria has welcomed a ceasefire agreement between the Syrian Government and the mainly-Kurdish Syrian Democratic Forces (SDF), urging all parties to seize the moment to protect civilians and prevent further violations in the country’s northeast.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166864",
+      "published": "Fri, 30 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 World News in Brief: Syria ceasefire welcomed, ‘Olympic truce’, Ukraine’s freezing children"
     },
     {
       "title": "Queensland police scrap specialist unit providing support for domestic and family violence cases",
@@ -723,6 +712,17 @@
       "url": "https://www.france24.com/en/tv-shows/arts24/20260130-dua-lipa-demi-moore-and-victoria-beckham-front-row-as-paris-couture-enters-a-new-era",
       "published": "Fri, 30 Jan 2026 16:04:49 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "South Sudan: ‘All the conditions for a human catastrophe are present’",
+      "description": "Military tensions in South Sudan are “rapidly expanding” between Government forces and opposition militia as fighting continues in restive Jonglei state.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166865",
+      "published": "Fri, 30 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -1179,7 +1179,7 @@
       "title": "Germany news: Hamburg police investigating subway deaths",
       "description": "Police in the city of Hamburg are probing a suspected homicide after two people were hit by an underground train. Meanwhile, a survey has found that many Germans who work part-time do so voluntarily. DW has more.",
       "url": "https://www.dw.com/en/germany-news-hamburg-police-investigating-subway-deaths/live-75724858?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Jan 2026 10:22:00 GMT",
+      "published": "Fri, 30 Jan 2026 20:39:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
@@ -1498,20 +1498,6 @@
       "is_ticker": false
     },
     {
-      "title": "Between fear and survival: Women and girls flee violence in northern Syria",
-      "description": "When fighting recently intensified near her neighbourhood in Aleppo, in northern Syria, Fatima and her family had to run.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166833",
-      "published": "Mon, 26 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Between fear and survival: Women and girls flee violence in northern Syria"
-    },
-    {
       "title": "Seattle mayor pushes local police to track, investigate ICE agents' enforcement activities",
       "description": "Seattle mayor Katie Wilson is banning federal immigration agents from city property, requires police documentation of interactions following Minneapolis events.",
       "url": "https://www.foxnews.com/us/seattle-mayor-pushes-local-police-track-investigate-ice-agents-enforcement-activities",
@@ -1567,17 +1553,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia’s grid now relies on renewable energy as much as coal. Those who doubted it look foolish",
-      "description": "Solar met the majority of electricity demand between 9am and 6pm in the past week as much of the country cranked air conditioners Get our breaking news email , free app or daily news podcast Australia’s power grid is changing rapidly – so rapidly that it can feel difficult to keep up. This week, as an oppressive heatwave in the country’s south-east rewrote temperature records, there was also plenty of evidence demonstrating just how fast long-held assumptions about the electricity system are being overturned. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/jan/31/australias-grid-now-relies-on-renewable-energy-as-much-as-coal-those-who-doubted-it-look-foolish",
-      "published": "Fri, 30 Jan 2026 14:00:23 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Day and night, there’s no relief: five ways this heatwave is one of Australia’s worst on record",
       "description": "Soaring temperatures, heat at altitude and hot summer nights combine to create one of south-eastern Australia’s ‘most significant’ heatwaves Get our breaking news email , free app or daily news podcast Heatwaves and hot days during an Australian summer may seem unremarkable. Days spent at the beach, sunburn and mosquitoes are part of the national psyche, along with outback pubs serving crisp lager as relief from searing afternoon heat. But when the opal mining town of Andamooka (population 262) in the far north of South Australia reached 50 degrees on Thursday, it was only the eighth time in recorded history anywhere in Australia. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/jan/31/day-and-night-theres-no-relief-five-ways-this-heatwave-is-one-of-australias-worst-on-record",
@@ -1589,10 +1564,21 @@
       "is_ticker": false
     },
     {
+      "title": "Australia’s grid now relies on renewable energy as much as coal. Those who doubted it look foolish",
+      "description": "Solar met the majority of electricity demand between 9am and 6pm in the past week as much of the country cranked air conditioners Get our breaking news email , free app or daily news podcast Australia’s power grid is changing rapidly – so rapidly that it can feel difficult to keep up. This week, as an oppressive heatwave in the country’s south-east rewrote temperature records, there was also plenty of evidence demonstrating just how fast long-held assumptions about the electricity system are being overturned. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/jan/31/australias-grid-now-relies-on-renewable-energy-as-much-as-coal-those-who-doubted-it-look-foolish",
+      "published": "Fri, 30 Jan 2026 14:00:23 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine updates: Kremlin says Trump asked Putin not to hit Kyiv until Feb. 1",
       "description": "The Kremlin announced that US President Donald Trump had asked Vladimir Putin to halt strikes on Kyiv until February 1. However, Ukraine reported that Russia launched one missile and over 100 drones overnight. Follow DW.",
       "url": "https://www.dw.com/en/ukraine-updates-kremlin-says-trump-asked-putin-not-to-hit-kyiv-until-feb-1/live-75726689?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Jan 2026 11:24:00 GMT",
+      "published": "Fri, 30 Jan 2026 20:39:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 7,
@@ -1709,6 +1695,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Independent experts alarmed by child rights violations in US immigration procedures"
+    },
+    {
+      "title": "Palestinian immigrant convicted of second murder-for-hire plot hatched from North Carolina cell",
+      "description": "Convicted man plotted three murders from jail after pleading guilty to murder-for-hire scheme in shocking North Carolina federal criminal case.",
+      "url": "https://www.foxnews.com/us/palestinian-immigrant-convicted-second-murder-for-hire-plot-hatched-north-carolina-cell",
+      "published": "Fri, 30 Jan 2026 16:11:54 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Fox News Campus Radicals Newsletter: Dems target military college, anti-ICE nurse fury, more union follies",
@@ -1940,7 +1937,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-01-30T20:38:03.982845Z",
+      "published": "2026-01-30T21:34:05.780313Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1953,6 +1950,17 @@
       "url": "https://www.npr.org/2026/01/29/g-s1-107750/senegal-morocco-fined-african-cup-final-chaos",
       "published": "Thu, 29 Jan 2026 05:27:40 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Berlin hospital raises alarm over serious winter injuries",
+      "description": "Berlin's Charité hospital wrote out a social media post to raise concerns about the high number of injuries linked to icy conditions.",
+      "url": "https://www.dw.com/en/berlin-hospital-raises-alarm-over-serious-winter-injuries/a-75736287?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 30 Jan 2026 20:56:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2314,7 +2322,7 @@
       "title": "M 4.2 - 8 km NE of Black Eagle, Montana",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-01-29 19:41:09 UTC 2026-01-29 19:41:09 UTC at epicenter Location 47.585°N 111.202°W Depth 22.47 km (13.96 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s5ba",
-      "published": "2026-01-30T20:04:02.744Z",
+      "published": "2026-01-30T21:06:13.521Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2338,6 +2346,17 @@
       "url": "https://www.npr.org/2026/01/30/nx-s1-5688912/iran-women-crackdown",
       "published": "Fri, 30 Jan 2026 13:28:49 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Actress Catherine O'hara dies at 71",
+      "description": "Catherine O'Hara was famous for starring roles in the series \"Schitt's Creek\" and the movie \"Home Alone.\"",
+      "url": "https://www.dw.com/en/actress-catherine-o-hara-dies-at-71/a-75736335?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 30 Jan 2026 21:15:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2392,28 +2411,6 @@
       "description": "Relations between Czech President Petr Pavel and Foreign Minister Petr Macinka have almost completely broken down. With PM Andrej Babis backing his minister, the rift between president and government is growing.",
       "url": "https://www.dw.com/en/czechia-feud-between-president-and-government-intensifies/a-75729399?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 30 Jan 2026 12:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "China to take 'necessary action' after Panama port ruling",
-      "description": "Panama's top court annulled key port contracts held by Hong Kong's CK Hutschison to operate at either side of the Panama Canal.",
-      "url": "https://www.dw.com/en/china-to-take-necessary-action-after-panama-port-ruling/a-75724866?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Jan 2026 10:29:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "2026 Winter Olympics: Fun events, but what about the bill?",
-      "description": "Preparations for the 2026 Winter Olympics in Milan and Cortina have been far from perfect. Should the Olympics hosting model be changed?",
-      "url": "https://www.dw.com/en/2026-winter-olympics-fun-events-but-what-about-the-bill/a-75566418?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 30 Jan 2026 09:24:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
