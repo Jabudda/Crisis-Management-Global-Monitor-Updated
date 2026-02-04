@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-04T18:10:19.322940Z",
+  "last_updated": "2026-02-04T19:24:29.953251Z",
   "event_count": 223,
   "events": [
     {
@@ -45,18 +45,18 @@
       "ticker_label": "🪖 Global health systems ‘at risk’ as funding cuts bite, warns WHO"
     },
     {
-      "title": "Rising ISIS threats to US homeland drive AFRICOM airstrikes against terrorists in Somalia",
-      "description": "U.S. launches massive airstrike campaign in Somalia, conducting 124 attacks in 2025 to stop ISIS threats against American homeland, officials say.",
-      "url": "https://www.foxnews.com/world/rising-isis-threats-us-homeland-drive-africom-airstrikes-against-terrorists-somalia",
-      "published": "Mon, 02 Feb 2026 14:03:42 -0500",
+      "title": "Australia bans pro-Israel influencer weeks after Bondi Beach terror attack",
+      "description": "Several pro-Israel figures have been barred from Australia as tensions rise after Bondi Beach massacre that killed 15 people during Hanukkah celebration period.",
+      "url": "https://www.foxnews.com/world/australia-bans-pro-israel-influencer-weeks-after-bondi-beach-terror-attack",
+      "published": "Wed, 04 Feb 2026 13:05:05 -0500",
       "source": "Fox News World",
       "type": "rss",
-      "severity_score": 36,
+      "severity_score": 35,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Rising ISIS threats to US homeland drive AFRICOM airstrikes against terrorists in Somalia"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Australia bans pro-Israel influencer weeks after Bondi Beach terror attack"
     },
     {
       "title": "Ukraine: Civilians injured, miners killed, in separate Russian attacks",
@@ -288,6 +288,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli strikes kill more than 20 in Gaza, shatter ‘ceasefire’ myth",
+      "description": "Israeli strikes killed at least 23 Palestinians, many of them children, in widespread attacks on Gaza on Wednesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/israeli-strikes-kill-more-than-20-in-gaza-shatter-ceasefire-myth?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 18:51:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strikes kill more than 20 in Gaza, shatter ‘ceasefire’ myth"
+    },
+    {
       "title": "Trump-led abuses amid ‘democratic recession’ put human rights in peril, HRW report says",
       "description": "Rights group says growing authoritarianism and abuses in US, Russia and China threaten global rules-based order The world is in a “democratic recession” with almost three-quarters of the global population now living under autocratic rulers – levels not seen since the 1980s, according to a new report. The system underpinning human rights was “in peril”, said Philippe Bolopion, executive director of Human Rights Watch (HRW), with a growing authoritarian wave becoming “the challenge of a generation”, he said. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/feb/04/trump-us-china-russia-democratic-recession-peril-human-rights-watch",
@@ -308,20 +322,6 @@
       "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "IDF strikes in Gaza kill 21 as Israel and Hamas trade ceasefire violation accusations",
-      "description": "Israeli air strikes on Wednesday pounded Gaza, killing at least 21 people including children, according to medical officials. The Israeli Defence Forces (IDF) said it retaliated after gunfire wounded an officer; Israel and Hamas accused each other of breaching a US-brokered ceasefire. Gaza's health ministry says Israeli strikes have killed at least 556 people since the ceasefire took effect in October.",
-      "url": "https://www.france24.com/en/middle-east/20260204-idf-strikes-gaza-kill-at-least-21-israel-and-hamas-trade-ceasefire-violation-accusations",
-      "published": "Wed, 04 Feb 2026 13:50:52 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 IDF strikes in Gaza kill 21 as Israel and Hamas trade ceasefire violation accusations"
     },
     {
       "title": "UN Security Council condemns the latest militant attacks in Pakistan that killed dozens",
@@ -424,10 +424,24 @@
       "ticker_label": "🪖 Nigeria: Extremists kill over 100 in western villages"
     },
     {
+      "title": "K-9 hailed a hero for tracking missing boy during snowstorm in North Carolina",
+      "description": "Police K-9 Bo helps rescue missing 13-year-old boy with special needs during dangerous snowstorm in Gastonia, North Carolina.",
+      "url": "https://www.foxnews.com/us/k-9-hailed-hero-tracking-missing-boy-during-snowstorm-north-carolina",
+      "published": "Wed, 04 Feb 2026 13:25:10 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ K-9 hailed a hero for tracking missing boy during snowstorm in North Carolina"
+    },
+    {
       "title": "Fears of new arms race as US-Russia nuclear weapons treaty due to expire",
       "description": "The New Start treaty has limited the number of deployed strategic nuclear warheads for both countries.",
       "url": "https://www.bbc.com/news/articles/c4g31n4ey9go?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Feb 2026 14:42:39 GMT",
+      "published": "Wed, 04 Feb 2026 18:39:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 18,
@@ -450,31 +464,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Global system of human rights in ‘peril’, warns HRW in its annual report"
-    },
-    {
-      "title": "Pakistan deploys helicopters, drones to end standoff with Baloch rebels",
-      "description": "Hundreds have been killed in the southwestern Balochistan province amid surge in rebel attacks.",
-      "url": "https://www.aljazeera.com/news/2026/2/4/pakistan-deploys-helicopters-drones-to-end-standoff-with-baloch-rebels?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 11:57:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Sudan: Khartoum presents a picture of normalcy despite ongoing fighting",
-      "description": "After almost three years of war, Khartoum is promoting reconstruction and civilian returns, as clashes continue and a humanitarian catastrophe looms.",
-      "url": "https://www.dw.com/en/sudan-khartoum-presents-a-picture-of-normalcy-despite-ongoing-fighting/a-75790769?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Feb 2026 07:48:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sudan: Khartoum presents a picture of normalcy despite ongoing fighting"
     },
     {
       "title": "World News in Brief: Syria ceasefire welcomed, ‘Olympic truce’, Ukraine’s freezing children",
@@ -510,6 +499,17 @@
       "url": "https://www.npr.org/2026/02/04/nx-s1-5698185/u-s-allies-working-to-send-more-humanitarian-aid-to-sudan",
       "published": "Wed, 04 Feb 2026 04:45:08 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Italy says it has foiled Russian Olympic cyberattacks",
+      "description": "Officials say they have foiled attempted cyberattacks on Italian embassies and Olympic hotels. Police are on high alert; navigating protests, crowd control, event security and viral attacks.",
+      "url": "https://www.dw.com/en/italy-says-it-has-foiled-russian-olympic-cyberattacks/a-75809776?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 4 Feb 2026 18:44:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
@@ -577,17 +577,6 @@
       "ticker_label": "🚨 Ohio woman convicted in shooting of bystander during New Year’s love triangle dispute"
     },
     {
-      "title": "12-year-old allegedly alive underwater for minutes before fatal scuba class failure: lawsuit",
-      "description": "Parents sue Texas dive shop after 12-year-old Dylan Harrison allegedly drowned during scuba diving class. Lawsuit claims death was entirely preventable.",
-      "url": "https://www.foxnews.com/us/12-year-old-allegedly-alive-underwater-minutes-before-fatal-scuba-class-failure-lawsuit",
-      "published": "Tue, 03 Feb 2026 17:21:45 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Lawmakers question whether US moving fast enough to capitalize on Hezbollah's weakened state",
       "description": "House hearing reveals historic opportunity to weaken Hezbollah in Lebanon following ceasefire, as lawmakers debate whether U.S. policy is moving fast enough.",
       "url": "https://www.foxnews.com/world/lawmakers-question-whether-us-moving-fast-enough-capitalize-hezbollahs-weakened-state",
@@ -600,6 +589,31 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Lawmakers question whether US moving fast enough to capitalize on Hezbollah's weakened state"
+    },
+    {
+      "title": "How plans for Trump International hotel in Belgrade unravelled",
+      "description": "The project would have built on the ruins of the defence ministry bombed by Nato back in 1999.",
+      "url": "https://www.bbc.com/news/articles/cx2y8lg9e2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Feb 2026 18:14:19 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 How plans for Trump International hotel in Belgrade unravelled"
+    },
+    {
+      "title": "Russia’s Putin holds video call with China’s Xi",
+      "description": "The two leaders discussed maintaining their growing ties amid international instability.",
+      "url": "https://www.aljazeera.com/news/2026/2/4/russias-putin-holds-video-call-with-chinas-xi?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 18:54:15 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -749,20 +763,6 @@
       "ticker_label": "🪖 Thousands without power in freezing Ukraine as renewed Russian strikes continue"
     },
     {
-      "title": "Gunmen kill dozens of people in Nigeria’s Kwara State: Authorities",
-      "description": "Armed men burn homes, shops in Woro, a remote village in Kwara State bordering Niger State, authorities say.",
-      "url": "https://www.aljazeera.com/news/2026/2/4/gunmen-kill-more-than-30-people-in-nigerias-kwara-state-authorities?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 11:21:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Gunmen kill dozens of people in Nigeria’s Kwara State: Authorities"
-    },
-    {
       "title": "UK Prime Minister Starmer addresses concerns over Mandelson-Epstein ties",
       "description": "British police have opened a criminal investigation into former UK ambassador to the United States Peter Mandelson, following reports that the veteran Labour politician may have shared market-sensitive information with Jeffrey Epstein several years ago. Prime Minister Keir Starmer dismissed Mandelson from his ambassadorial post in September over his links to Epstein, and Mandelson has since resigned from the Labour Party, announcing on Sunday that he would also step down from the House of Lords. Starmer addressed the controversy earlier today during Prime Minister’s Questions. France 24’s Benedicte Paviot reports from London on the fallout from the scandal.",
       "url": "https://www.france24.com/en/uk-prime-minister-starmer-addresses-concerns-over-mandelson-epstein-ties",
@@ -857,17 +857,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine updates: Trilateral talks as Russia keeps up attacks",
-      "description": "Talks between Russia, Ukraine and the United States are set to take place in Abu Dhabi after a massive onslaught by Moscow's forces on infrastructure earlier in the week. The attacks continued overnight. DW has more.",
-      "url": "https://www.dw.com/en/ukraine-updates-trilateral-talks-as-russia-keeps-up-attacks/live-75792446?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Feb 2026 08:11:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Ethiopia's prime minister accuses Eritrea of mass killings during Tigray war",
       "description": "Ethiopian prime minister has accused Eritrea of mass killings while fighting alongside government troops against regional forces in the war in the troubled northern region of Tigray that ended in 2022",
       "url": "https://abcnews.go.com/International/wireStory/ethiopias-prime-minister-accuses-eritrea-mass-killings-tigray-129826513",
@@ -940,6 +929,17 @@
       "is_ticker": false
     },
     {
+      "title": "Nine charged in bold gun-running scheme to push heavy firepower across southern border",
+      "description": "Nine people, who face federal charges for allegedly running a firearms trafficking scheme, are accused of using straw purchases to smuggle weapons to Mexico.",
+      "url": "https://www.foxnews.com/us/nine-charged-bold-gun-running-scheme-push-heavy-firepower-across-southern-border",
+      "published": "Wed, 04 Feb 2026 13:59:12 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "NBC host Savannah Guthrie’s mother taken from home as expert raises alarming new theories amid lack of leads",
       "description": "Nancy Guthrie missing after alleged abduction from Tucson home as officials say NBC \"Today\" co-host Savannah Guthrie's mother was physically removed with blood reportedly found inside.",
       "url": "https://www.foxnews.com/us/nbc-host-savannah-guthries-mother-taken-from-home-expert-raises-alarming-new-theories-amid-lack-leads",
@@ -962,31 +962,6 @@
       "is_ticker": false
     },
     {
-      "title": "Chinese-linked biolab discovered in Las Vegas home sparks federal investigation with SWAT response",
-      "description": "Las Vegas biolab investigation linked to accused Chinese fugitive facing federal charges in California. Property manager arrested in connection to case.",
-      "url": "https://www.foxnews.com/us/chinese-linked-biolab-discovered-las-vegas-home-sparks-federal-investigation-swat-response",
-      "published": "Tue, 03 Feb 2026 18:53:07 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Families of 3 Massachusetts women who died at Belize resort file $100m lawsuit against hotel, Expedia: report",
-      "description": "Families of three Massachusetts women who died from carbon monoxide poisoning at a Belize resort have filed a $100 million wrongful death lawsuit.",
-      "url": "https://www.foxnews.com/us/families-3-massachusetts-women-died-belize-resort-file-100m-lawsuit-hotel-expedia-report",
-      "published": "Tue, 03 Feb 2026 18:09:44 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Families of 3 Massachusetts women who died at Belize resort file $100m lawsuit against hotel, Expedia: report"
-    },
-    {
       "title": "Son of former Libyan dictator Muammar al-Qaddafi killed by masked men, reps say",
       "description": "Seif al-Islam Qaddafi, son of former Libyan dictator Muammar al-Qaddafi, was reportedly killed by \"masked men\" in an \"assassination,\" his team says.",
       "url": "https://www.foxnews.com/world/son-former-libyan-dictator-muammar-al-qaddafi-killed-masked-men-reps-say",
@@ -995,17 +970,6 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "'Never imagined this': Indian village grapples with interfaith couple's killing",
-      "description": "Police say they were beaten to death, allegedly by the woman's three brothers, who have been arrested.",
-      "url": "https://www.bbc.com/news/articles/c0jvy09dvw9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Feb 2026 00:32:53 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1111,10 +1075,10 @@
       "is_ticker": false
     },
     {
-      "title": "'I've never hit anything so hard': What it's like to be attacked by a shark",
-      "description": "Peter Smith and his wife were on holiday in the Caribbean when a beautiful swim suddenly changed.",
-      "url": "https://www.bbc.com/news/articles/cwy8ded4890o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Feb 2026 05:58:29 GMT",
+      "title": "German activist jailed in Hungary for attacks at Nazi rally",
+      "description": "Supporters have questioned whether the 25-year-old, who identifies as non-binary, could receive a fair trial in Hungary.",
+      "url": "https://www.bbc.com/news/articles/clyn7wkgkp0o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Feb 2026 17:34:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1144,6 +1108,17 @@
       "is_ticker": false
     },
     {
+      "title": "'I've never hit anything so hard': What it's like to be attacked by a shark",
+      "description": "Peter Smith and his wife were on holiday in the Caribbean when a beautiful swim suddenly changed.",
+      "url": "https://www.bbc.com/news/articles/cwy8ded4890o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 04 Feb 2026 05:58:29 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "US says it shot down Iranian drone flying towards aircraft carrier",
       "description": "A US military spokesman says the drone was shot down while approaching an American vessel in the Arabian Sea.",
       "url": "https://www.bbc.com/news/articles/c3dmjn7n985o?at_medium=RSS&at_campaign=rss",
@@ -1156,6 +1131,28 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US says it shot down Iranian drone flying towards aircraft carrier"
+    },
+    {
+      "title": "Killing of Saif Gaddafi removes alternative to Libya’s rival governments",
+      "description": "Death of former dictator's son removes symbolic alternative to Libya's entrenched political deadlock, analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/2/4/killing-said-gaddafi-removes-alternative-libya-rival-governments?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 18:15:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Gaza on the agenda as Turkiye’s Erdogan meets Egypt’s el-Sisi in Cairo",
+      "description": "The Turkish president said humanitarian tragedy continues in the enclave amid a fresh wave of deadly Israeli attacks.",
+      "url": "https://www.aljazeera.com/news/2026/2/4/gaza-on-the-agenda-as-turkiyes-erdogan-meets-egypts-el-sisi-in-cairo?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 17:44:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Russian shelling kills seven in Ukrainian market, clouding Abu Dhabi talks",
@@ -1406,18 +1403,15 @@
       "ticker_label": "🪖 Reaching a child in Darfur is ‘hard-won and fragile’, says UNICEF"
     },
     {
-      "title": "California approves controversial sharpshooter plan to eradicate invasive deer on Catalina Island",
-      "description": "A controversial plan has been approved to remove Catalina Island’s invasive deer using ground-based shooters, following backlash against earlier proposals for aerial shooting.",
-      "url": "https://www.foxnews.com/us/california-approves-controversial-sharpshooter-plan-eradicate-invasive-deer-catalina-island",
-      "published": "Tue, 03 Feb 2026 17:07:46 -0500",
+      "title": "Florida paramedic accused of recording sexual assault in ambulance sentenced to 10 years in prison",
+      "description": "Former Florida paramedic sentenced to 10 years in prison after sexually assaulting an unconscious patient in an ambulance and recording the attack.",
+      "url": "https://www.foxnews.com/us/florida-paramedic-accused-recording-sexual-assault-ambulance-sentenced-10-years-prison",
+      "published": "Wed, 04 Feb 2026 13:44:54 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 California approves controversial sharpshooter plan to eradicate invasive deer on Catalina Island"
+      "is_ticker": false
     },
     {
       "title": "Russia launches record missile barrage against Ukraine one day before peace talks set to resume in Abu Dhabi",
@@ -1495,28 +1489,6 @@
       "is_ticker": false
     },
     {
-      "title": "‘We are exploited’: Congolese fear losing out as US makes minerals deals",
-      "description": "As officials meet in Washington to discuss critical minerals, many in DRC fear their country will gain little.",
-      "url": "https://www.aljazeera.com/features/2026/2/4/we-are-exploited-congolese-fear-losing-out-as-us-makes-minerals-deals?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 11:45:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Health crime’: Aoun slams Israel over spraying chemicals in south Lebanon",
-      "description": "Lebanese president says latest 'aggression' represents an environmental crime and a violation of country's sovereignty.",
-      "url": "https://www.aljazeera.com/news/2026/2/4/health-crime-aoun-slams-israel-over-spraying-chemicals-in-south-lebanon?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 10:33:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1559,6 +1531,20 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "US ‘ready’ to meet Iran, says Rubio, but talks must address ballistic missiles programme",
+      "description": "Talks between Iran and the US must include Tehran's ballistic missiles programme, US Secretary of State Marco Rubio said Wednesday, adding to the menu an issue that the Islamic Republic regards as an infringements of its sovereignty. The talks, planned for Friday, were to be held in Turkey, but Iran wants them in Oman. Washington has rejected the request, according to a US news site.",
+      "url": "https://www.france24.com/en/middle-east/20260204-us-ready-to-meet-iran-says-rubio-but-talks-must-address-ballistic-missiles-programme",
+      "published": "Wed, 04 Feb 2026 18:30:04 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US ‘ready’ to meet Iran, says Rubio, but talks must address ballistic missiles programme"
     },
     {
       "title": "Who is the populist conservative president-elect in Costa Rica?",
@@ -1605,22 +1591,22 @@
       "is_ticker": false
     },
     {
-      "title": "Paris prosecutors raid X offices as part of investigation into child abuse images",
-      "description": "The prosecutors raided the offices of X as part of a preliminary investigation into allegations including spreading child sexual abuse images and deepfakes. They also summoned owner Elon Musk for questioning.",
-      "url": "https://www.npr.org/2026/02/03/g-s1-108490/paris-x-raid-investigation-elon-musk",
-      "published": "Tue, 03 Feb 2026 10:00:57 -0500",
-      "source": "NPR World News",
+      "title": "Can workers compete with machines and stay relevant in the AI era?",
+      "description": "AI looks set to be transformative for us all, but it also brings a real risk of job losses and widening social and economic divides. UN experts are focusing on how to manage that transition, to ensure the benefits of the technology outweigh the threats.",
+      "url": "https://news.un.org/feed/view/en/story/2026/01/1166847",
+      "published": "Sat, 31 Jan 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Can workers compete with machines and stay relevant in the AI era?",
-      "description": "AI looks set to be transformative for us all, but it also brings a real risk of job losses and widening social and economic divides. UN experts are focusing on how to manage that transition, to ensure the benefits of the technology outweigh the threats.",
-      "url": "https://news.un.org/feed/view/en/story/2026/01/1166847",
-      "published": "Sat, 31 Jan 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Illinois man accused of threatening FBI agent after info was stolen from government vehicles, posted online",
+      "description": "Jose Ramirez is being accused of threatening an FBI agent whose information was stolen by Minneapolis agitators, according to court documents.",
+      "url": "https://www.foxnews.com/us/illinois-man-accused-threatening-fbi-agent-after-info-stolen-from-government-vehicles-posted-online",
+      "published": "Wed, 04 Feb 2026 13:40:47 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1697,6 +1683,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Living hell of North Korea’s ‘paradise on Earth’ scheme back in spotlight in Japan"
+    },
+    {
+      "title": "Reporter's notebook: A peek inside the Olympic Village",
+      "description": "NPR reporters visited the Milan Olympic Village in the days before the opening ceremony to investigate the dining hall dessert situation and other pressing questions.",
+      "url": "https://www.npr.org/2026/02/04/nx-s1-5699473/reporters-notebook-a-peek-inside-the-olympic-village",
+      "published": "Wed, 04 Feb 2026 13:17:04 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "U.S. considers removing last U.S. forces from Syria",
@@ -1802,17 +1799,6 @@
       "description": "Official estimates suggest that around 55% of the town's drinkable water is lost to leaking pipes.",
       "url": "https://www.bbc.com/news/articles/cy8pleg24rvo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Feb 2026 00:41:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Shanties in a Lagos lagoon: Bulldozed and burnt",
-      "description": "Residents suspect the demolitions are aimed at gentrifying the waterfront in Nigeria's biggest city, but officials deny this.",
-      "url": "https://www.bbc.com/news/articles/ce3epxznyzzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Feb 2026 00:13:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 2,
@@ -1952,6 +1938,39 @@
       "is_ticker": false
     },
     {
+      "title": "US announces proposed critical mineral trading bloc",
+      "description": "The aim of the group is to challenge China’s stronghold on the globe’s rare earth mining.",
+      "url": "https://www.aljazeera.com/economy/2026/2/4/us-announces-proposed-critical-mineral-trading-bloc?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 18:37:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Mixed emotions among Palestinians as Rafah crossing partially reopens",
+      "description": "Emotional homecomings seen as some Palestinians reunite with loved ones amid mixed sentiments at the Rafah border.",
+      "url": "https://www.aljazeera.com/gallery/2026/2/4/mixed-emotions-among-palestinians-as-rafah-crossing-partially-reopens?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 18:02:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump hails ‘excellent’ phone call with China’s Xi amid trade tensions",
+      "description": "Trump stresses his 'extremely good' personal relationship with Xi Jinping, key to maintaining stable US-China ties.",
+      "url": "https://www.aljazeera.com/news/2026/2/4/trump-hails-excellent-phone-call-with-chinas-xi-amid-trade-tensions?traffic_source=rss",
+      "published": "Wed, 04 Feb 2026 17:56:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Can India switch from Russian to Venezuelan oil, as Trump wants?",
       "description": "US President Donald Trump's plan to sell Venezuelan oil to India is neat, but may be operationally messy, analysts say.",
       "url": "https://www.aljazeera.com/economy/2026/2/4/can-india-switch-from-russian-to-venezuelan-oil-as-trump-wants?traffic_source=rss",
@@ -2000,39 +2019,6 @@
       "description": "More than 50 countries are represented at the Critical Minerals Ministerial to discuss how to reduce reliance on China.",
       "url": "https://www.aljazeera.com/economy/2026/2/4/trumps-critical-minerals-meet-whos-attending-whats-at-stake?traffic_source=rss",
       "published": "Wed, 04 Feb 2026 12:48:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Palestinians face restrictions leaving, entering Gaza through Rafah",
-      "description": "Israel is severely restricting what Palestinians can bring into Gaza through the Rafah crossing.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/4/palestinians-face-restrictions-leaving-entering-gaza-through-rafah?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 12:29:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UK pro-Palestinian activists not guilty of aggravated burglary",
-      "description": "Six British activists are acquitted of aggravated burglary relating to a 2024 raid on ​Israeli defence firm Elbit.",
-      "url": "https://www.aljazeera.com/news/2026/2/4/uk-pro-palestinian-activists-not-guilty-of-aggravated-burglary?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 12:16:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Gorton and Denton by-election tests Labour’s grip on heartland voters",
-      "description": "Internal rifts, growing support for smaller parties are challenging Labour's dominance in Greater Manchester.",
-      "url": "https://www.aljazeera.com/news/2026/2/4/gorton-and-denton-by-election-tests-labours-grip-on-heartland-voters?traffic_source=rss",
-      "published": "Wed, 04 Feb 2026 10:48:39 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2208,7 +2194,7 @@
       "title": "M 4.2 - 4 km SE of San Ramon, CA",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-02-02 15:01:13 UTC 2026-02-02 15:01:13 UTC at epicenter Location 37.756°N 121.944°W Depth 9.56 km (5.94 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75305736",
-      "published": "2026-02-04T17:26:14.621Z",
+      "published": "2026-02-04T19:00:45.270Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2219,7 +2205,7 @@
       "title": "M 3.8 - 4 km SSE of San Ramon, CA",
       "description": "ShakeMap - IV DYFI? - IV Time 2026-02-02 14:27:00 UTC 2026-02-02 14:27:00 UTC at epicenter Location 37.749°N 121.953°W Depth 9.10 km (5.65 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75305671",
-      "published": "2026-02-04T08:26:12.381Z",
+      "published": "2026-02-04T18:46:03.696Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2254,6 +2240,17 @@
       "url": "https://www.npr.org/2026/02/03/g-s1-108529/epstein-files-uk-peter-mandelson",
       "published": "Tue, 03 Feb 2026 14:50:05 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Turkey's textile industry crushed by China and Bangladesh",
+      "description": "Asian rivals have pushed Turkey's manufacturers out of EU markets. Factories are closing and jobs are vanishing. Is there still hope the industry can survive?",
+      "url": "https://www.dw.com/en/turkey-s-textile-industry-crushed-by-china-and-bangladesh/a-75684427?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 4 Feb 2026 19:16:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2428,10 +2425,10 @@
       "is_ticker": false
     },
     {
-      "title": "French investigators raid Paris offices of Elon Musk's X",
-      "description": "Investigators have raided the Paris offices of Elon Musk's social media site X, formerly known as Twitter.",
-      "url": "https://news.sky.com/story/french-investigators-raid-paris-offices-of-elon-musks-x-13502669",
-      "published": "Tue, 03 Feb 2026 10:48:00 +0000",
+      "title": "Wave of emotion as first Gazans return to their loved ones amid devastation",
+      "description": "First came the cars of the United Nations, then two coaches with blue paintwork. And then came a wave of emotion - proof that the heart has a power that the head can't always match.",
+      "url": "https://news.sky.com/story/wave-of-emotion-as-first-gazans-use-rafah-crossing-to-return-home-to-loved-ones-13503288",
+      "published": "Wed, 04 Feb 2026 16:19:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
