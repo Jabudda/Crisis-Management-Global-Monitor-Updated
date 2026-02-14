@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-14T13:03:12.350318Z",
+  "last_updated": "2026-02-14T14:00:49.672376Z",
   "event_count": 224,
   "events": [
     {
@@ -126,18 +126,32 @@
       "ticker_label": "💥 UK court says government acted illegally in outlawing protest group Palestine Action"
     },
     {
-      "title": "Shooting at South Carolina State University leaves two dead",
-      "description": "Two people were killed and at least one other was injured in a shooting at South Carolina State University, prompting a campus lockdown and cancellation of Friday classes.",
-      "url": "https://www.foxnews.com/us/shooting-south-carolina-state-university-leaves-two-dead",
-      "published": "Fri, 13 Feb 2026 01:21:09 -0500",
-      "source": "Fox News US",
+      "title": "Paris police shoot knife attacker",
+      "description": "France’s counterterrorism authorities have launched a new investigation after a knife-wielding assailant was shot dead by police Friday evening near the Arc de Triomphe. The attacker reportedly attempted to assault gendarmes who were preparing for the relighting of the Tomb of the Unknown Soldier. President Emmanuel Macron condemned the incident and lauded the rapid response of security forces. Yinka Oyetade reports.",
+      "url": "https://www.france24.com/en/paris-police-shoot-knife-attacker",
+      "published": "Sat, 14 Feb 2026 13:26:30 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 25,
+      "severity_score": 24,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Shooting at South Carolina State University leaves two dead"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Paris police shoot knife attacker"
+    },
+    {
+      "title": "Starlink: How Elon Musk's company influences geopolitics",
+      "description": "Devised to facilitate internet connectivity in the most remote regions of the world, Elon Musk’s Starlink has become a vital means of communication in crisis regions and war zones. There are downsides to this.",
+      "url": "https://www.dw.com/en/starlink-how-elon-musk-s-company-influences-geopolitics/a-75963477?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 14 Feb 2026 13:27:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Starlink: How Elon Musk's company influences geopolitics"
     },
     {
       "title": "Havana refinery fire under control",
@@ -369,20 +383,6 @@
       "ticker_label": "🌪️ Madagascar: ‘Overwhelming’ destruction, surging needs after back-to-back cyclones – WFP"
     },
     {
-      "title": "Knife-wielding Arc de Triomphe attacker dies after being shot by Paris police",
-      "description": "A man who on Friday attempted to stab a French officer during a ceremony at the Arc de Triomphe monument in central Paris has died from his injuries after being shot by police. The suspect was released from prison in December after having served a 12-year sentence for terror-related charges.",
-      "url": "https://www.france24.com/en/france/20260213-paris-police-fire-man-who-tried-stab-officer-arc-de-triomphe",
-      "published": "Fri, 13 Feb 2026 19:26:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Knife-wielding Arc de Triomphe attacker dies after being shot by Paris police"
-    },
-    {
       "title": "‘Like a scene out of a horror movie’: UN report warns of war crimes in Sudan’s El Fasher",
       "description": "Paramilitary forces in Sudan unleashed “a wave of intense violence…shocking in its scale and brutality” during their final offensive to capture the besieged city of El Fasher last October, committing atrocities that amount to war crimes and possible crimes against humanity, according to a report released on Friday by the UN human rights office, OHCHR.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166960",
@@ -509,20 +509,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UN warns civilians remain at risk as airstrikes continue across Gaza"
-    },
-    {
-      "title": "Arundhati Roy boycotts Berlin fest premiere of her revamped 1980s cult classic – the film shows why",
-      "description": "Indian writer Arundhati Roy on Friday said she was withdrawing from the Berlin Film Festival over the jury president’s Gaza remarks. The award-winning author and activist was set to attend the world premiere of a restored version of 1989 cult classic “In Which Annie Gives It Those Ones”, which she wrote and starred in. The film provides hints of her unflinching courage, 37 years after its release.",
-      "url": "https://www.france24.com/en/culture/20260213-arundhati-roy-boycotts-berlin-fest-premier-of-her-revamped-1980s-cult-classic-the-film-shows-why",
-      "published": "Fri, 13 Feb 2026 19:17:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Arundhati Roy boycotts Berlin fest premiere of her revamped 1980s cult classic – the film shows why"
     },
     {
       "title": "From war zones to outer space, radio remains essential",
@@ -678,7 +664,7 @@
       "is_ticker": false
     },
     {
-      "title": "Oil refinery ablaze in Cuba as fuel crisis deepens",
+      "title": "Oil refinery blaze hits Cuba as fuel crisis deepens",
       "description": "The fire, which Cuban officials say was contained quickly, comes as electricity and fuel supplies dwindle.",
       "url": "https://www.bbc.com/news/articles/cge89x7re74o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Feb 2026 03:03:27 GMT",
@@ -715,6 +701,34 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US ends temporary protected status for Yemeni refugees, asylum seekers"
+    },
+    {
+      "title": "Powerful storm hits France and Spain",
+      "description": "A powerful storm has hit France and Spain, causing three fatalities in weather-related incidents and leaving hundreds of thousands of homes without electricity. Gabrielle Nadler has more.",
+      "url": "https://www.france24.com/en/powerful-storm-hits-france-and-spain",
+      "published": "Sat, 14 Feb 2026 13:29:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Powerful storm hits France and Spain"
+    },
+    {
+      "title": "Russia fatally poisoned Putin critic Navalny with 'rare toxin', European states say in joint statement",
+      "description": "Five European countries on the sidelines of Saturday's Munich Security Conference accused Russia of \"poisoning\" opposition leader Alexei Navalny using a \"rare toxin\" found in poison dart ​frogs from South America. The staunch critic of Russian President Vladimir Putin died in an Arctic prison in February 2024, while serving a 19-year prison sentence.",
+      "url": "https://www.france24.com/en/europe/20260214-russia-fatally-poisoned-putin-critic-navalny-with-rare-toxin-european-states-say-in-joint-statement",
+      "published": "Sat, 14 Feb 2026 13:23:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Russia fatally poisoned Putin critic Navalny with 'rare toxin', European states say in joint statement"
     },
     {
       "title": "Iran’s crown prince says ahead of protests that inaction against Tehran encourages bullies",
@@ -942,6 +956,20 @@
       "is_ticker": false
     },
     {
+      "title": "Secretary of State Marco Rubio pulls out of a high-level meeting on Ukraine",
+      "description": "NPR's Scott Simon speaks to Fiona Hill, senior fellow at the Brookings Institution's Center on the United States and Europe, about the Trump administration's strategy to end Russia's war with Ukraine.",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5708835/secretary-of-state-marco-rubio-pulls-out-of-a-high-level-meeting-on-ukraine",
+      "published": "Sat, 14 Feb 2026 08:18:32 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Secretary of State Marco Rubio pulls out of a high-level meeting on Ukraine"
+    },
+    {
       "title": "Rubio reassures trans-Atlantic ties with Europe at Munich Security Conference",
       "description": "U.S. Secretary of State Marco Rubio delivered a calm and reassuring message to America's allies in Munich, after more than a year of President Donald Trump's often-hostile rhetoric toward allies.",
       "url": "https://www.npr.org/2026/02/14/g-s1-110107/rubio-speech-munich",
@@ -961,28 +989,6 @@
       "url": "https://www.dw.com/en/us-orders-another-aircraft-carrier-to-the-middle-east/a-75963599?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 13 Feb 2026 18:02:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Nigeria to hold presidential election in February 2027",
-      "description": "Amid public concern over the state of the economy, Nigeria is preparing for next year's elections. The country's election authority has set 20 February 2027 as the date for its next presidential and parliamentary polls.",
-      "url": "https://www.dw.com/en/nigeria-to-hold-presidential-election-in-february-2027/a-75960799?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 13 Feb 2026 16:25:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Macron tells Munich conference that Europe must become geopolitical power in its own right",
-      "description": "French President Emmanuel Macron on Friday told the Munich Security Conference that it is time for Europe to become a geopolitical power that can provide its own security by rearticulating its nuclear deterrent in the face of an aggressive Russia. “Everyone should take their cue from us,” he said.",
-      "url": "https://www.france24.com/en/europe/20260213-macron-tells-munich-security-conference-that-europe-must-become-its-own-geopolitical-power",
-      "published": "Fri, 13 Feb 2026 21:56:49 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1025,17 +1031,6 @@
       "is_ticker": false
     },
     {
-      "title": "The World Cup means slashed wages and displacement for some of the Mexico City's poor",
-      "description": "Preparations for the 2026 World Cup in Mexico City are cutting into the livelihoods of sex workers and street vendors near Azteca Stadium",
-      "url": "https://abcnews.go.com/International/wireStory/world-cup-means-slashed-wages-displacement-mexico-citys-130128945",
-      "published": "Fri, 13 Feb 2026 02:09:52 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Beloved figure skating coach, former Team USA medalist gunned down in Starbucks drive-thru: reports",
       "description": "Former Team USA synchronized figure skater turned coach Gabrielle \"Sam\" Linehan, 28, was allegedly shot and killed during an armed robbery at a St. Louis Starbucks drive-thru.",
       "url": "https://www.foxnews.com/us/beloved-figure-skating-coach-former-team-usa-medalist-gunned-down-starbucks-drive-thru",
@@ -1044,6 +1039,17 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "England beat Scotland to get T20 World Cup bid back on track",
+      "description": "England beat Scotland by five wickets in India to recover position in group at 2026 T20 World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/2/14/england-beat-scotland-to-get-t20-world-cup-bid-back-on-track?traffic_source=rss",
+      "published": "Sat, 14 Feb 2026 13:42:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1087,17 +1093,6 @@
       "description": "Today's participants include top US diplomat, Ukraine's president, British prime minister and Syria's foreign minister.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/2/14/live-world-leaders-gather-in-munich-for-2nd-day-of-security-conference?traffic_source=rss",
       "published": "Sat, 14 Feb 2026 07:06:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "India vs Pakistan: T20 World Cup – teams, start time, lineups",
-      "description": "The cricket world and beyond will be watching as one of sport's greatest rivalry goes ahead despite political turmoil.",
-      "url": "https://www.aljazeera.com/sports/2026/2/14/india-vs-pakistan-t20-world-cup-teams-start-time-lineups?traffic_source=rss",
-      "published": "Sat, 14 Feb 2026 05:19:18 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1152,10 +1147,10 @@
       "is_ticker": false
     },
     {
-      "title": "Munich, Epstein, Confessions of Love Cheat",
-      "description": "This Friday in The World This Week, we talk about the unravelling of the Epstein Files, the end of the Old World Order and the Olympic Helmet Dilemma.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260213-epstein-files-unravelling-out-with-the-old-world-order-the-olympic-helmet-dilemma-confessions-of-olympic-love-cheat",
-      "published": "Fri, 13 Feb 2026 19:40:31 GMT",
+      "title": "\"NATO has been woken up by President Trump, and it’s stronger because of it\" says Mark Rutte",
+      "description": "In an exclusive interview with FRANCE 24, NATO Secretary General Mark Rutte discussed the evolving role of Europe in global security, emphasising that the alliance is stronger today than it was a year ago. Reflecting on NATO's transformation, Rutte highlighted how the leadership of U.S. President Donald Trump, particularly his push for higher defence spending, played a crucial role in reshaping the alliance's priorities.",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260214-nato-has-been-woken-up-by-president-trump-and-it-s-stronger-because-of-it-says-mark-rutte",
+      "published": "Sat, 14 Feb 2026 13:35:51 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1219,7 +1214,7 @@
     },
     {
       "title": "ICE agents may have lied about shooting of migrant in Minneapolis, officials say",
-      "description": "ICE chief Todd Lyons says the two officers were immediately placed on administrative leave.",
+      "description": "Acting director Todd Lyons says the two officers were immediately placed on administrative leave.",
       "url": "https://www.bbc.com/news/articles/cy8l9jp1z3yo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Feb 2026 22:32:02 GMT",
       "source": "BBC News",
@@ -1291,6 +1286,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Avalanche kills 3 skiers in French Alps"
+    },
+    {
+      "title": "Victoires de la Musique 2026: Cardin named best female artist, women dominate nominations",
+      "description": "Just outside Paris, France’s top musical talents were honored at the 41st edition of the Victoires de la Musique awards, with Morgan Ayre providing a full roundup of the event.",
+      "url": "https://www.france24.com/en/victoires-de-la-musique-2026-cardin-named-best-female-artist-women-dominate-nominations",
+      "published": "Sat, 14 Feb 2026 13:30:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Victoires de la Musique 2026: Cardin named best female artist, women dominate nominations"
     },
     {
       "title": "Writing for survival: Gaza author dares to hope against the odds",
@@ -1490,10 +1499,10 @@
       "is_ticker": false
     },
     {
-      "title": "A historic election in Bangladesh brings BNP to power. What to know about its leader",
-      "description": "The Bangladeshi Nationalist Party (BNP), led by Tarique Rahman, claimed victory Friday in the first elections held since the previous government was toppled in a student-led revolution in 2024.",
-      "url": "https://www.npr.org/2026/02/13/nx-s1-5713306/bangladesh-nationalist-party-victory-election-student-uprising-leader",
-      "published": "Fri, 13 Feb 2026 02:28:20 -0500",
+      "title": "5 European nations say Alexei Navalny was poisoned and blame the Kremlin",
+      "description": "In a joint statement, the foreign ministries of the U.K., France, Germany, Sweden and the Netherlands say Navalny was poisoned by Russia with a lethal toxin derived from the skin of poison dart frogs.",
+      "url": "https://www.npr.org/2026/02/14/nx-s1-5714517/eu-europe-russia-navalny",
+      "published": "Sat, 14 Feb 2026 08:54:50 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
@@ -1504,18 +1513,7 @@
       "title": "MSC: Zelenskyy says Ukraine 'holding European front'",
       "description": "The Ukrainian leader said that the US often asks his country to make concessions, rather than Russia. Earlier, US top diplomat Marco Rubio accused European allies of being too \"scared\" to defend themselves. DW has more.",
       "url": "https://www.dw.com/en/msc-zelenskyy-says-ukraine-holding-european-front/live-75938790?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 14 Feb 2026 08:50:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Mehmet Oz's vaccine call is 'too little, too late'",
-      "description": "Measles is still spreading in the US but calls from government officials for Americans to vaccinate now won’t be enough to keep the country from losing a quarter-century of success eradicating the disease.",
-      "url": "https://www.dw.com/en/mehmet-oz-s-vaccine-call-is-too-little-too-late/a-75951461?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 13 Feb 2026 14:07:00 GMT",
+      "published": "Sat, 14 Feb 2026 13:57:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
@@ -1609,11 +1607,11 @@
       "ticker_label": "🪖 Who will police Gaza, and how?"
     },
     {
-      "title": "Sex, health, child abuse scandals threaten Orban reelection",
-      "description": "Abuse in a juvenile facility, hazardous dust from a battery factory and an alleged sex video involving the opposition leader — the run-up to Hungary's election has so far been dominated by one scandal after another.",
-      "url": "https://www.dw.com/en/sex-health-child-abuse-scandals-threaten-orban-reelection/a-75958974?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 13 Feb 2026 15:59:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Munich Security talks: Rubio says US wants to \"revitalise\" transatlantic alliance",
+      "description": "Marco Rubio’s address at the Munich Security Conference marked a more conciliatory stance for the U.S., following Vice President JD Vance’s harsh critique of Europe last year for ignoring an internal “threat,” shirking its defense responsibilities, and allowing left-wing influence in cultural matters. Although Rubio still encouraged European allies to consider policies akin to Donald Trump’s America, his speech clearly aimed to ease tensions and mend transatlantic relations. Senior Fellow at Scowcroft Center for Strategy and Security, Elisabeth Brown, tells us more.",
+      "url": "https://www.france24.com/en/munich-security-talks-rubio-says-us-wants-to-revitalise-transatlantic-alliance",
+      "published": "Sat, 14 Feb 2026 13:24:38 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1664,20 +1662,6 @@
       "is_ticker": false
     },
     {
-      "title": "Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?",
-      "description": "Tarique Rahman's decisive victory may redraw regional alignments after years of pro-India policy under ousted PM Hasina.",
-      "url": "https://www.aljazeera.com/news/2026/2/14/could-bnps-landslide-win-open-a-new-geopolitical-chapter-for-bangladesh?traffic_source=rss",
-      "published": "Sat, 14 Feb 2026 05:21:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Could BNP’s landslide win open a new geopolitical chapter for Bangladesh?"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1694,6 +1678,17 @@
       "url": "https://www.theguardian.com/world/2026/feb/13/japan-seizes-chinese-fishing-boat",
       "published": "Fri, 13 Feb 2026 04:19:57 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Navalny was poisoned by Kremlin, say 5 European countries",
+      "description": "The top diplomats of the UK, France, Sweden, Germany and the Netherlands say the analysis of samples from the late Russian opposition leader Alex Navalny conclusively proves a state-ordered killing.",
+      "url": "https://www.dw.com/en/navalny-was-poisoned-by-kremlin-say-5-european-countries/a-75970832?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 14 Feb 2026 13:24:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1747,6 +1742,17 @@
       "is_ticker": false
     },
     {
+      "title": "5 European nations say Russian opposition leader Navalny was poisoned and blame Kremlin",
+      "description": "Five European countries say tests confirm Alexei Navalny was poisoned with a lethal toxin, and they blame the Russian state",
+      "url": "https://abcnews.go.com/International/wireStory/5-european-nations-russian-opposition-leader-navalny-poisoned-130166078",
+      "published": "Sat, 14 Feb 2026 08:32:58 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Rubio expresses desire to maintain trans-Atlantic relations despite increasing rift",
       "description": "U.S. Secretary of State Marco Rubio has offered a friendly and reassuring assessment of America’s relations with Europe under President Donald Trump’s administration",
       "url": "https://abcnews.go.com/International/wireStory/rubio-expresses-desire-maintain-trans-atlantic-relations-despite-130164787",
@@ -1765,6 +1771,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Casey Wasserman to sell talent agency after Epstein fallout - reports",
+      "description": "The prominent agent and LA Olympics chief has come under scrutiny over past ties with Jeffrey Epstein and Ghislaine Maxwell.",
+      "url": "https://www.bbc.com/news/articles/cy0dn4e1njjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Feb 2026 13:28:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1816,7 +1833,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-14T13:02:49.939037Z",
+      "published": "2026-02-14T14:00:29.042794Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1829,6 +1846,17 @@
       "url": "https://www.npr.org/2026/02/13/nx-s1-5709050/venezuela-debates-sweeping-amnesty-for-political-prisoners",
       "published": "Fri, 13 Feb 2026 16:54:47 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Why is Egypt bolstering ties with Somalia now?",
+      "description": "As Egypt deploys troops to Mogadishu, analysts say Cairo is focusing on strategic access to the Red Sea and Somalia is concentrating on internal stability. But both countries share concerns about Ethiopian expansionism.",
+      "url": "https://www.dw.com/en/why-is-egypt-bolstering-ties-with-somalia-now/a-75958140?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 14 Feb 2026 13:29:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1896,17 +1924,6 @@
       "is_ticker": false
     },
     {
-      "title": "African leaders to gather in Ethiopia for the 39th summit of the African Union",
-      "description": "Water scarcity, sanitation gaps, climate stress and big promises in Addis Ababa. African leaders will gather in Ethiopia for the 39th summit of the African Union. After 15 years of closure, Kenya is set to reopen parts of its border with Somalia. Also, for families separated for more than a decade. And, with Valentine’s Day approaching, love is going digital in northern Nigeria. In Kano, professional matchmakers are blending tradition with artificial intelligence to help singles find the perfect partner, proving romance can be both high-tech and deeply rooted in custom.",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260213-african-leaders-to-gather-in-ethiopia-for-the-39th-summit-of-the-african-union",
-      "published": "Fri, 13 Feb 2026 23:00:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "British skiers die in avalanche at popular resort",
       "description": "Two British men are among three skiers who died after an avalanche struck the Val d'Isere ski resort in the French Alps, local officials have said.",
       "url": "https://news.sky.com/story/two-british-skiers-among-three-dead-after-avalanche-at-val-disere-resort-in-the-french-alps-13507356",
@@ -1933,7 +1950,7 @@
     },
     {
       "title": "Police activity under way near Nancy Guthrie's home",
-      "description": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted from nearly two weeks ago.",
+      "description": "A search has been carried out in Tuscon, Arizona, close to where the 84-year-old was abducted nearly two weeks ago.",
       "url": "https://www.bbc.com/news/articles/cly8j19rql7o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Feb 2026 08:12:09 GMT",
       "source": "BBC News",
@@ -1968,17 +1985,6 @@
       "is_ticker": false
     },
     {
-      "title": "Head of Dubai-based ports giant quits after Epstein links revealed",
-      "description": "Sultan Ahmed bin Sulayem’s exit comes after files showed he appears to have exchanged hundreds of emails with Epstein.",
-      "url": "https://www.bbc.com/news/articles/ce82xgd2g3yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 13 Feb 2026 18:18:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Orban rival accuses opponents of blackmail plot ahead of Hungary election",
       "description": "Peter Magyar suspects there are plans to release a sex tape of him from August 2024.",
       "url": "https://www.bbc.com/news/articles/c8758xv4eqeo?at_medium=RSS&at_campaign=rss",
@@ -2006,6 +2012,17 @@
       "url": "https://www.bbc.com/news/articles/cn9exzl254xo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 14 Feb 2026 01:45:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Swear words fly as cheating allegations made in curling at Winter Olympics",
+      "description": "Two of curling's best men's teams, Sweden and Canada, involved in fiery and controversial match at Winter Olympics.",
+      "url": "https://www.aljazeera.com/sports/2026/2/14/curse-words-fly-as-cheating-allegations-made-in-curling-at-winter-olympics?traffic_source=rss",
+      "published": "Sat, 14 Feb 2026 12:40:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2293,11 +2310,11 @@
       "is_ticker": false
     },
     {
-      "title": "Israel accuses two of using military secrets to place Polymarket bets",
-      "description": "The Tel Aviv indictment is the first publicly known instance of people being accused of leveraging military secrets to place bets on the popular prediction market.",
-      "url": "https://www.npr.org/2026/02/12/nx-s1-5712801/polymarket-bets-traders-israel-military",
-      "published": "Thu, 12 Feb 2026 20:51:25 -0500",
-      "source": "NPR World News",
+      "title": "How serious is Venezuela about its amnesty law?",
+      "description": "After interim leader Rodriguez announced an amnesty law last month, some political prisoners have been freed. But one has already been rearrested, and analysts say reforms must accompany the new law.",
+      "url": "https://www.dw.com/en/how-serious-is-venezuela-about-its-amnesty-law/a-75899705?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 14 Feb 2026 13:51:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2384,30 +2401,8 @@
       "ticker_label": "💥 Germany's chancellor urges new 'partnership' with Trump, US"
     },
     {
-      "title": "As the telephone turns 150, are we hanging up on phone calls?",
-      "description": "Today, 150 years after the invention of the telephone, it has never been easier to call someone. But in some ways, and for some people, picking up the phone is still a very hard thing to do.",
-      "url": "https://www.dw.com/en/as-the-telephone-turns-150-are-we-hanging-up-on-phone-calls/a-75844380?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 13 Feb 2026 15:08:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "New conspiracy theories hold that Jeffrey Epstein is alive and well",
-      "description": "A number of social media users are claiming that late convicted sex offender Jeffrey Epstein is actually still alive and well. Their supposed proof? Some have shared images they claim show Epstein walking in Tel Aviv, while others have claimed that he’s been playing Fortnite. Turns out the images were doctored, and the Fortnite account belongs to another user entirely. We take a look.",
-      "url": "https://www.france24.com/en/americas/20260213-conspiracy-theories-jeffrey-epstein-still-alive",
-      "published": "Fri, 13 Feb 2026 21:30:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Navalny died after being 'poisoned with dart frog toxin'",
-      "description": "Russian opposition leader Alexei Navalny died in prison after being poisoned with a deadly toxin found in Ecuadorian dart frogs, the UK and other allies have claimed.",
+      "description": "Russian opposition leader Alexei Navalny died in prison after being poisoned with a deadly toxin found on the skin of Ecuadorian dart frogs, the UK and other allies have revealed.",
       "url": "https://news.sky.com/story/navalny-died-after-being-poisoned-with-dart-frog-toxin-13507402",
       "published": "Sat, 14 Feb 2026 09:10:00 +0000",
       "source": "Sky News World",
@@ -2549,6 +2544,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/02/1166934",
       "published": "Tue, 10 Feb 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ted Bundy’s cousin recalls the chilling moment that exposed the monster within",
+      "description": "Ted Bundy's cousin Edna Martin shares her shocking story in the Oxygen true crime documentary \"Love, Ted Bundy,\" revealing how she discovered the horrifying truth.",
+      "url": "https://www.foxnews.com/us/ted-bundys-cousin-recalls-chilling-moment-exposed-monster-within",
+      "published": "Sat, 14 Feb 2026 08:00:16 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
