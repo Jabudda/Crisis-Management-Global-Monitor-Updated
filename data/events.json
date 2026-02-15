@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-15T19:32:08.549436Z",
+  "last_updated": "2026-02-15T20:35:08.176365Z",
   "event_count": 223,
   "events": [
     {
@@ -700,17 +700,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iranian security use dragnet spanning the entire country to arrest protesters",
-      "description": "A month after Iran launched a crackdown on nationwide protests, widespread arrests are roiling the country",
-      "url": "https://abcnews.go.com/International/wireStory/iranian-security-dragnet-spanning-entire-country-arrest-protesters-130163811",
-      "published": "Sat, 14 Feb 2026 02:57:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "US military in Syria carries out 10 strikes on more than 30 ISIS targets: photos",
       "description": "U.S. forces conducted ten strikes against over 30 ISIS targets in Syria as part of ongoing counterterrorism operations to prevent the group's resurgence.",
       "url": "https://www.foxnews.com/world/us-military-syria-carries-10-strikes-30-isis-targets-photos",
@@ -773,6 +762,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Israeli government approves new West Bank land policy"
+    },
+    {
+      "title": "Sophie Adenot begins historic ISS mission: the view from fellow french astronaut Michel Tognini",
+      "description": "Right now, 400 kilometres above us, above the earth's surface, orbiting at 17 and a half thousand miles per hour, or 5 miles per second, the new crew of the International Space Station are just settling in.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260215-sophie-adenot-begins-historic-iss-mission-the-view-from-fellow-french-astronaut-michel-tognini",
+      "published": "Sun, 15 Feb 2026 18:51:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "French President Macron urges clam after fatal beating",
@@ -931,6 +931,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Gaza mother’s grim ordeal: A search for missing son among mutilated bodies",
+      "description": "Gaza families seek closure as they search for loved ones among bodies returned by Israel under 'ceasefire' deal.",
+      "url": "https://www.aljazeera.com/features/2026/2/15/gaza-mothers-grim-ordeal-a-search-for-missing-son-among-mutilated-bodies?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 20:16:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Gaza mother’s grim ordeal: A search for missing son among mutilated bodies"
     },
     {
       "title": "Venezuelan deportee can return to US but fears repeat of ordeal: ‘I’m not over that nightmare yet’",
@@ -1133,6 +1147,17 @@
       "is_ticker": false
     },
     {
+      "title": "India rout bitter rivals Pakistan at T20 World Cup",
+      "description": "India's win against Pakistan takes the defending champions through to the next round of cricket's T20 World Cup.",
+      "url": "https://www.aljazeera.com/gallery/2026/2/15/india-rout-bitter-rivals-pakistan-at-t20-world-cup?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 19:34:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "India hammer Pakistan to qualify for T20 World Cup Super Eights",
       "description": "Ishan Kishan defies a tricky Colombo pitch with 77 as India beat Pakistan by 61 runs in Group A of the T20 World Cup.",
       "url": "https://www.aljazeera.com/sports/2026/2/15/india-hammer-pakistan-to-qualify-for-t20-world-cup-super-eights?traffic_source=rss",
@@ -1326,31 +1351,6 @@
       "ticker_label": "🪖 Trump and Netanyahu align on Iran pressure but split on endgame"
     },
     {
-      "title": "From the Balkans with Guns",
-      "description": "Weapons from the Balkans are fuelling violence on the streets of Sweden. People & Power follows their trail.",
-      "url": "https://www.aljazeera.com/video/people-power/2026/2/15/from-the-balkans-with-guns?traffic_source=rss",
-      "published": "Sun, 15 Feb 2026 11:30:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "A pardon for a price? How Donald Trump has reimagined presidential clemency",
-      "description": "Critics have warned that the US president has taken an increasingly transactional approach to granting clemency.",
-      "url": "https://www.aljazeera.com/news/longform/2026/2/15/a-pardon-for-a-price-how-donald-trump-has-reimagined-presidential-clemency?traffic_source=rss",
-      "published": "Sun, 15 Feb 2026 11:20:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A pardon for a price? How Donald Trump has reimagined presidential clemency"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1407,17 +1407,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Burglars ransack safe-deposit boxes in German bank heist"
-    },
-    {
-      "title": "Munich: 250,000 rally for change in Iran",
-      "description": "At the Munich Security Conference on Saturday, a large street rally called for regime change in Iran, where the crowd was addressed by Reza Pahlavi, the exiled son of the country’s former Shah, who also spoke on the sidelines of the summit urging Donald Trump to help bring about the overthrow of the Islamic Republic. Nicholas Rushworth reports.",
-      "url": "https://www.france24.com/en/munich-250-000-rally-for-change-in-iran",
-      "published": "Sun, 15 Feb 2026 09:42:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Russia 'killed Navalny with dart frog poison'",
@@ -1561,6 +1550,17 @@
       "url": "https://www.bbc.com/news/articles/c5y48j0exlgo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Feb 2026 02:02:34 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine’s ex-energy minister arrested while trying to cross border",
+      "description": "German Galushchenko was detained by Ukraine's anti-corruption bureau while trying to leave the country.",
+      "url": "https://www.aljazeera.com/news/2026/2/15/ukraines-ex-energy-minister-arrested-while-trying-to-cross-border?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 19:35:22 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1782,17 +1782,6 @@
       "is_ticker": false
     },
     {
-      "title": "Greenlandic prime minister Jens-Frederik Nielsen: \"Greenland is not for sale\"",
-      "description": "The third and final day of the Munich Security Conference is set to focus on Europe, with speakers including European Central Bank President Christine Lagarde and the EU’s foreign policy chief Kaja Kallas, after European allies expressed some relief on Saturday when US Secretary of State Marco Rubio said Washington was not seeking to undermine the transatlantic alliance, despite reiterating criticism of EU immigration and climate policies, while tensions persisted as Denmark’s prime minister said she believed Donald Trump’s ambition to seize Greenland remained unchanged; meanwhile, our FRANCE 24 correspondent Nick Holdsworth spoke with Greenlandic Prime Minister Jens-Frederik Nielsen, who reiterated that Greenland “is not for sale.”",
-      "url": "https://www.france24.com/en/greenlandic-prime-minister-jens-frederik-nielsen-greenland-is-not-for-sale",
-      "published": "Sun, 15 Feb 2026 09:45:33 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "5 European nations say Russian opposition leader Navalny was poisoned and blame Kremlin",
       "description": "Five European countries say tests confirm Alexei Navalny was poisoned with a lethal toxin, and they blame the Russian state",
       "url": "https://abcnews.go.com/International/wireStory/5-european-nations-russian-opposition-leader-navalny-poisoned-130166078",
@@ -1909,20 +1898,6 @@
       "ticker_label": "✈️ Chaotic video shows passengers trading midair blows; plane forced to divert: reports"
     },
     {
-      "title": "After the landslide: Can India reset ties with a BNP-led Bangladesh?",
-      "description": "A reset of the frayed relationship is possible, say analysts. But it will require restraint - and reciprocity.",
-      "url": "https://www.bbc.com/news/articles/cd6z007wgg6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 15 Feb 2026 01:23:34 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ After the landslide: Can India reset ties with a BNP-led Bangladesh?"
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1960,6 +1935,17 @@
       "description": "Ghana has called on Russia to extradite the man, who is accused of recording sexual encounters without consent.",
       "url": "https://www.bbc.com/news/articles/c9wn5p299eko?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 15 Feb 2026 15:25:21 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US boards second tanker in Indian Ocean after tracking it from Caribbean",
+      "description": "The US accuses the Veronica III of violating a \"quarantine\" on oil shipments from Venezuela.",
+      "url": "https://www.bbc.com/news/articles/c4ge763d7j6o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Feb 2026 19:34:13 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2025,6 +2011,17 @@
       "is_ticker": false
     },
     {
+      "title": "What is the dart frog toxin allegedly used to kill Alexei Navalny?",
+      "description": "The toxin, epibatidine, can be found in frogs in the wild in South America or manufactured in a lab.",
+      "url": "https://www.bbc.com/news/articles/cm289we7jzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 15 Feb 2026 20:13:08 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "The spectacular multimillion-euro heist nobody noticed",
       "description": "How did the thieves know exactly where the vault was and why did no-one hear the drill? Was it an inside job?",
       "url": "https://www.bbc.com/news/articles/cm2y2538lz8o?at_medium=RSS&at_campaign=rss",
@@ -2047,11 +2044,22 @@
       "is_ticker": false
     },
     {
-      "title": "Gisèle Pelicot tells BBC: I felt crushed by horror - but I don't feel anger",
-      "description": "In an extensive interview with Newsnight, the woman at the heart of France's biggest rape trial speaks about betrayal, healing and choosing the right path.",
-      "url": "https://www.bbc.com/news/articles/c9q5l22ryy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 14 Feb 2026 06:00:11 GMT",
-      "source": "BBC News",
+      "title": "Is Trumpism losing steam?",
+      "description": "As Trumpism forces both major US parties to wonder what they stand for, experts weigh in on November election prospects.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/2/15/is-trumpism-losing-steam?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 20:02:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Hasan Piker on influence and journalism in the algorithm age",
+      "description": "The political streamer discusses bias, bans, wealth, activism and the blurred line between journalism and influencers.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/15/hasan-piker-on-influence-and-journalism-in-the-algorithm-age?traffic_source=rss",
+      "published": "Sun, 15 Feb 2026 14:10:55 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2084,39 +2092,6 @@
       "description": "The release of the Epstein files was supposed to expose a sex trafficking ring. Instead, they exposed the victims.",
       "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/15/how-the-epstein-files-exposed-victims-but-protected-the-powerful?traffic_source=rss",
       "published": "Sun, 15 Feb 2026 11:46:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Why are experts sounding the alarm on AI risks?",
-      "description": "AI is advancing in rapid and unpredictable ways but there is no joint framework to keep it in check, experts say.",
-      "url": "https://www.aljazeera.com/news/2026/2/15/why-are-experts-sounding-the-alarm-on-ai-risks?traffic_source=rss",
-      "published": "Sun, 15 Feb 2026 11:24:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Very hopeful’: Cautious optimism among Gen Z Bangladeshis after key vote",
-      "description": "As BNP's Rahman ascends to power, young Bangladeshis demand gov't prioritise their voices and deliver on poll promises.",
-      "url": "https://www.aljazeera.com/news/2026/2/15/very-hopeful-cautious-optimism-among-gen-z-bangladeshis-after-key-vote?traffic_source=rss",
-      "published": "Sun, 15 Feb 2026 10:03:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UN chief tells Al Jazeera that Security Council needs permanent Africa seat",
-      "description": "UNSG Antonio Guterres spoke to Al Jazeera's Haru Mutasa and said Africa should have a permanent seat on the UNSC.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/15/un-chief-tells-al-jazeera-that-security-council-needs-permanent-africa-seat?traffic_source=rss",
-      "published": "Sun, 15 Feb 2026 09:57:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2410,6 +2385,17 @@
       "is_ticker": false
     },
     {
+      "title": "Italian skier Brignone wins giant slalom, achieving double Olympic gold",
+      "description": "Italy's Federica Brignone was crowned Olympic giant slalom champion on Sunday at the Milan-Cortina Games, three days after winning her first gold medal in the super-G.",
+      "url": "https://www.france24.com/en/sport/20260215-italian-skier-brignone-wins-giant-slalom-achieving-double-gold",
+      "published": "Sun, 15 Feb 2026 10:11:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Epstein survivor says women who recruited her 'laughed' as she was sexually assaulted on jet",
       "description": "Jeffrey Epstein's trafficking ring extended all the way to Africa's southern coast - held together by the invisible chains of psychological bondage that kept his victims ensnared for years at a time.",
       "url": "https://news.sky.com/story/epstein-survivor-says-women-who-recruited-her-laughed-as-she-was-sexually-assaulted-on-private-jet-13507770",
@@ -2426,6 +2412,28 @@
       "url": "https://news.sky.com/story/man-charged-after-priceless-egyptian-artefacts-stolen-from-australian-museum-police-say-13507808",
       "published": "Sun, 15 Feb 2026 09:51:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Thousands of Czechs rally in support of President Pavel in his dispute with foreign minister",
+      "description": "Demonstrators across the Czech Republic have backed President Petr Pavel in a dispute with the foreign minister over a Cabinet appointment",
+      "url": "https://abcnews.go.com/International/wireStory/thousands-czechs-rally-support-president-pavel-dispute-foreign-130193176",
+      "published": "Sun, 15 Feb 2026 14:41:55 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Colombian president accepts rebel's proposal to have a commission investigate its possible drug ties",
+      "description": "President Gustavo Petro said he will accept a proposal by Colombia’s largest remaining rebel group to allow an independent commission to investigate its alleged links to the drug trade",
+      "url": "https://abcnews.go.com/International/wireStory/colombian-president-accepts-rebels-proposal-commission-investigate-drug-130192429",
+      "published": "Sun, 15 Feb 2026 14:01:48 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2480,17 +2488,6 @@
       "description": "Larry the cat is marking 15 years as Britain’s Chief Mouser at 10 Downing Street, a symbol of stability in turbulent political times",
       "url": "https://abcnews.go.com/International/wireStory/feline-larry-marks-15-years-britains-political-top-130183270",
       "published": "Sun, 15 Feb 2026 04:07:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "African Union summit opens as youth anger grows over a 'bloc of old leaders'",
-      "description": "The African Union holds its annual summit in Ethiopia as more young Africans lose faith in the bloc",
-      "url": "https://abcnews.go.com/International/wireStory/african-union-summit-opens-youth-anger-grows-bloc-130162927",
-      "published": "Fri, 13 Feb 2026 23:13:44 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
