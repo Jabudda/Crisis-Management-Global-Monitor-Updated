@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-18T20:05:09.007040Z",
-  "event_count": 223,
+  "last_updated": "2026-02-18T21:06:37.322466Z",
+  "event_count": 222,
   "events": [
     {
       "title": "US says 11 people killed in latest strikes on alleged drug boats",
@@ -112,6 +112,17 @@
       "is_ticker": false
     },
     {
+      "title": "'If we can get a Coca-Cola to the most remote parts of the world, we can get cooking gas, as well'",
+      "description": "In Africa clean cooking is an issue of major concern, and with a billion people relying on wood and charcoal to cook their food each day there is a disproportionate number of deaths due to fine particle air pollution. FRANCE 24's Mark Owen speaks with Andy Herscowitz, CEO of Mission 300 Accelerator, about the group's aim to expand access to modern and cleaner cooking technologies across Africa. https://www.rockefellerfoundation.org/news/rockefeller-foundation-global-energy-alliance-clean-cooking-alliance-energy-corps-scale-modern-cooking-technologies-in-africa/",
+      "url": "https://www.france24.com/en/if-we-can-get-a-coca-cola-to-the-most-remote-parts-of-the-world-we-can-get-cooking-gas-as-well",
+      "published": "Wed, 18 Feb 2026 21:01:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Assailants kill at least 32 in north-west Nigerian villages, residents say",
       "description": "Residents who escaped violence tell of bandits riding in on motorbikes and shooting indiscriminately Armed assailants on motorbikes killed at least 32 people and burned houses and shops during raids on three villages in north-west Nigeria’s Niger state early on Saturday, local officials and residents who escaped the violence said. The dawn raids targeted the communities of Tunga-Makeri, Konkoso, and Pissa. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/14/assailants-kill-raids-northwest-nigeria-villages-residents-say",
@@ -137,15 +148,18 @@
       "is_ticker": false
     },
     {
-      "title": "Cuba oil crisis: What is Donald Trump's endgame?",
-      "description": "Russia and Cuba on Wednesday slammed the US energy blockade of the Caribbean island in a show of solidarity in Moscow, where Havana's foreign minister was due to meet with President Vladimir Putin. US President Donald Trump cut off key supplies of Venezuelan oil to Cuba after ousting Venezuela's Nicolas Maduro. He has also threatened sanctions on countries that sell oil to Cuba. But what is the US president’s ultimate goal in Cuba? And if it is regime change, does he have the tools to do it? Robert Huish, associate professor in international development studies at Dalhouse University, speaks to France 24.",
-      "url": "https://www.france24.com/en/video/20260218-cuba-oil-crisis-what-is-donald-trump-s-endgame",
-      "published": "Wed, 18 Feb 2026 15:26:03 GMT",
+      "title": "Sudanese people face 'generations of trauma', head of UN OCHA tells France 24",
+      "description": "Discussing the unfolding humanitarian catastrophe in war-torn Sudan, Tom Fletcher, UN Under-Secretary-General for Humanitarian Affairs, explains that the Sudanese people face \"generations of trauma\" and \"they're crying out for peace\", stressing that \"the world isn't responding with the generosity and solidarity that we need\".",
+      "url": "https://www.france24.com/en/sudanese-people-face-generations-of-trauma-head-of-un-ocha-tells-france-24",
+      "published": "Wed, 18 Feb 2026 20:29:21 GMT",
       "source": "France24",
       "type": "rss",
-      "severity_score": 25,
+      "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Sudanese people face 'generations of trauma', head of UN OCHA tells France 24"
     },
     {
       "title": "A fireworks ship explosion in China kills 12 people in the second such blast in days",
@@ -160,34 +174,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 A fireworks ship explosion in China kills 12 people in the second such blast in days"
-    },
-    {
-      "title": "'Political earthquake' as 11 held in France over death of far-right activist",
-      "description": "Eleven people ​including an ‌aide to a French far-left lawmaker were arrested in ⁠France overnight and early on Wednesday on suspicion of involvement in the killing of a far-right activist. Shortly after ‌the announcement, the Paris headquarters of the hard-left France Unbowed (LFI) party ⁠received a bomb threat and had to be evacuated until the all-clear was given when police secured the scene. France 24's Olivia Bizot has the latest on a story that she says has sent an \"earthquake\" through French politics.",
-      "url": "https://www.france24.com/en/video/20260218-political-earthquake-as-11-held-in-france-over-death-of-far-right-activist",
-      "published": "Wed, 18 Feb 2026 14:27:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ 'Political earthquake' as 11 held in France over death of far-right activist"
-    },
-    {
-      "title": "Man missing in Loire River as record rains lash France",
-      "description": "A man has gone missing after his canoe capsized on the swollen Loire River as severe flooding hit western France, officials said Wednesday, while the country marked a record-breaking 35 consecutive days of rainfall.",
-      "url": "https://www.france24.com/en/france/20260218-man-missing-loire-river-record-rains-lash-france",
-      "published": "Wed, 18 Feb 2026 15:23:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Man missing in Loire River as record rains lash France"
     },
     {
       "title": "American tourist killed in Thailand as love triangle turns deadly during violent confrontation: police",
@@ -283,7 +269,7 @@
     },
     {
       "title": "Russia's hybrid warfare rattles Poland and NATO",
-      "description": "Russia is stepping up covert attacks across Europe — rail sabotage, drones, cyber strikes — testing NATO. Polish officials warn \"disposable agents\" are sowing fear and weaken support for Ukraine.",
+      "description": "Russia is stepping up covert attacks across Europe — rail sabotage, drones, cyberstrikes — testing NATO. Polish officials warn \"disposable agents\" are sowing fear and weakening support for Ukraine.",
       "url": "https://www.npr.org/2026/02/18/nx-s1-5702706/russia-hybrid-warfare-poland",
       "published": "Wed, 18 Feb 2026 11:09:22 -0500",
       "source": "NPR World News",
@@ -516,6 +502,42 @@
       "ticker_label": "🚨 Suspect in Rhode Island ice hockey shooting killed ex-wife and son"
     },
     {
+      "title": "Law enforcement says eight killed by avalanche in California mountains",
+      "description": "One person remains missing after a heavy avalanche engulfed a group of skiers in the US's Sierra Nevada mountains.",
+      "url": "https://www.aljazeera.com/news/2026/2/18/law-enforcement-says-eight-killed-by-avalanche-in-california-mountains?traffic_source=rss",
+      "published": "Wed, 18 Feb 2026 20:27:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "US: Eight skiers dead after avalanche in California",
+      "description": "The eight skiers were part of a three-day trek in Sierra Nevada. One more person is still missing, and the efforts are focusing on recovery rather than rescue. Six other members of the group were found alive earlier.",
+      "url": "https://www.dw.com/en/us-eight-skiers-dead-after-avalanche-in-california/a-76028284?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Feb 2026 20:37:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Eight of nine missing skiers found dead in California avalanche",
+      "description": "Eight skiers have died after an avalanche tore through the slopes of California's Sierra Nevada mountains, authorities said Wednesday, as rescuers continued searching for one other missing person from the group.",
+      "url": "https://www.france24.com/en/americas/20260218-missing-skiers-found-dead-california-avalanche",
+      "published": "Wed, 18 Feb 2026 20:04:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Eight of nine missing skiers found dead in California avalanche"
+    },
+    {
       "title": "Sierra Leone officials facilitated illegal mansion-building in a key national park",
       "description": "An investigation shows that illegal luxury mansions have been built in a Sierra Leone national park that serves as an environmental buffer for its capital",
       "url": "https://abcnews.com/International/wireStory/sierra-leone-officials-facilitated-illegal-mansion-building-key-130255823",
@@ -605,6 +627,17 @@
       "is_ticker": false
     },
     {
+      "title": "Humanitarian situation in Ukraine 'the worst it's ever been', IFRC says",
+      "description": "Speaking with FRANCE 24's Mark Owen, Scott Craig, Senior Communications Officer at the IFRC, explains that the humanitarian situation in Ukraine 'it's the worst it's ever been' and organisations working on the ground in Ukraine face a funding challenge as 'international support for humanitarian funding in Ukraine is dwindling'.",
+      "url": "https://www.france24.com/en/humanitarian-situation-in-ukraine-the-worst-it-s-ever-been-ifrc-says",
+      "published": "Wed, 18 Feb 2026 19:53:02 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Iran and US agree 'guiding principles' after more nuclear talks held",
       "description": "Iran and the United States have reached an understanding on \"guiding principles\" after fresh talks on Tehran's nuclear capabilities in Geneva, Iran's foreign minister has said.",
       "url": "https://news.sky.com/story/trump-warns-iran-of-consequences-of-failing-to-reach-nuclear-deal-13508423",
@@ -641,17 +674,6 @@
       "is_ticker": false
     },
     {
-      "title": "Rubbish piles up in Havana as Cuba's fuel crisis hits garbage trucks",
-      "description": "Rubbish ​has begun to pile up on street corners in the Cuban capital of Havana, attracting hordes of flies ​and reeking of rotten food, in one of the most visible impacts of the US bid to prevent oil from reaching the Caribbean's largest island.",
-      "url": "https://www.france24.com/en/video/20260218-rubbish-piles-up-in-havana-as-cuba-s-fuel-crisis-hits-garbage-trucks",
-      "published": "Wed, 18 Feb 2026 15:25:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "UEFA probing claims Real Madrid forward was racially abused - as Benfica release defiant statement",
       "description": "UEFA has appointed an ethics and disciplinary inspector after allegations a racist ‌slur was directed at Real Madrid forward Vinicius Junior during last night's Champions League match against Benfica.",
       "url": "https://news.sky.com/story/uefa-investigating-alleged-racist-abuse-directed-at-real-madrids-vinicius-junior-13509064",
@@ -664,20 +686,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UEFA probing claims Real Madrid forward was racially abused - as Benfica release defiant statement"
-    },
-    {
-      "title": "Mistrial declared in Texas ICE detention center ambush trial over defense lawyer's T-shirt",
-      "description": "Federal judge declared mistrial after defense attorney wore civil rights T-shirt during jury selection for alleged ICE shooting case in Texas court.",
-      "url": "https://www.foxnews.com/us/mistrial-declared-texas-ice-detention-center-ambush-trial-defense-lawyers-t-shirt",
-      "published": "Tue, 17 Feb 2026 19:56:44 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Mistrial declared in Texas ICE detention center ambush trial over defense lawyer's T-shirt"
     },
     {
       "title": "Paris police raid Arab World Institute in connection with Epstein investigation",
@@ -981,6 +989,17 @@
       "is_ticker": false
     },
     {
+      "title": "Do not give away Diego Garcia, Trump tells UK in fresh attack on Chagos deal",
+      "description": "The president's comments come just a day after the US gave its official backing to the UK's Chagos deal.",
+      "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Feb 2026 20:57:22 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Stephen Colbert says CBS spiked interview with Democrat over FCC fears",
       "description": "The network denies it stopped the interview with a Texas Democrat from airing but warned it could run afoul of the US broadcast media watchdog.",
       "url": "https://www.bbc.com/news/articles/cze0dk3yd5eo?at_medium=RSS&at_campaign=rss",
@@ -1009,31 +1028,6 @@
       "ticker_label": "🪖 Russia-Ukraine talks: All the mediation efforts, and where they stand"
     },
     {
-      "title": "Life on Hold: Stories of Displacement from the Ukraine War",
-      "description": "What does it mean to put your life on hold when war forces you to leave home?",
-      "url": "https://www.aljazeera.com/video/digidocs/2026/2/18/aje-onl-digidocs_lifeonhold-180226?traffic_source=rss",
-      "published": "Wed, 18 Feb 2026 13:36:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Life on Hold: Stories of Displacement from the Ukraine War"
-    },
-    {
-      "title": "Israel kills two in Gaza, blocks thousands from medical exit through Rafah",
-      "description": "The latest deaths come as just 260 people have been allowed to seek medical care via the crossing to Egypt, the UN says.",
-      "url": "https://www.aljazeera.com/news/2026/2/18/israel-kills-two-in-gaza-blocks-thousands-from-medical-exit-through-rafah?traffic_source=rss",
-      "published": "Wed, 18 Feb 2026 13:27:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1056,11 +1050,11 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: Tony Burke accuses Coalition of ‘silly hypocrisy’ on Syria camp group",
-      "description": "Home affairs minister says opposition had repatriated Australians from Syria when in government. Follow today’s news live Get our breaking news email , free app or daily news podcast The home affairs minister, Tony Burke , told ABC’s 7.30 program last night that the Coalition pressure to prevent the 34 Australian wives and children of IS fighters killed or captured in Syria from returning to Australia was “silly hypocrisy”. He said if the Coalition wants the group excluded from Australia permanently, “they should look at the laws they voted for, they put in place when they were in government.” There’s a lot of very silly deeply hypocritical claims coming from the opposition today. We had 40 people under the Coalition do self-managed returns, that didn’t just include women and children, it included fighters. It included men who had gone there to fight. Now, they were among the returns who came back. The fact that people with Australian passports have returned from those sorts of situations is not new. It happened under them. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-camp-jobs-figures-angus-taylor-anthony-albanese-coalition-labor-accc-coles-ntwnfb",
-      "published": "Wed, 18 Feb 2026 19:45:43 GMT",
-      "source": "The Guardian World",
+      "title": "Pressure mounts on France's far-left party after killing of far-right activist",
+      "description": "Pressure is mounting on France's far left political party France Unbowed, in the wake of the brutal killing of a far right student activist last week. 11 people have been arrested in connection with the 23-year-old's death, including two parliamentary assistants of a France Unbowed MP. This Wednesday, It comes one month before municipal elections and as the left seeks to position itself ahead of next year's presidential vote. FRANCE 24's Carys Garland explains.",
+      "url": "https://www.france24.com/en/pressure-mounts-on-france-s-far-left-party-after-killing-of-far-right-activist",
+      "published": "Wed, 18 Feb 2026 19:15:58 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1104,31 +1098,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 France: Parliamentary aide arrested after death of far-right activist"
-    },
-    {
-      "title": "French far-right activist killed: Can far-left recover from political fallout?",
-      "description": "Eleven people, including an aide to a French lawmaker with the far-left France Unbowed party, have been arrested on suspicion of involvement in the ​killing of ‌a far-right activist that has exposed deep political ⁠tensions in France ahead of elections. France 24's Marc Perelman takes a closer look at the political fallout.",
-      "url": "https://www.france24.com/en/video/20260218-french-far-right-activist-killed-can-far-left-recover-from-political-fallout",
-      "published": "Wed, 18 Feb 2026 15:23:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "'Russia is not serious about peace': Ukraine talks end with little sign of progress",
-      "description": "Peace talks between Ukraine and Russia in Geneva ended on Wednesday after only two hours, with President Volodymyr Zelensky describing them as \"difficult\" and accusing Russia of deliberately delaying progress toward a deal to end the four-year-old war. Melinda Haring, seniorfellow at the Atlantic Council's Eurasia Center, told France 24 that the lack of progress comes as little surprise, with Russia \"not serious about peace\".",
-      "url": "https://www.france24.com/en/video/20260218-russia-is-not-serious-about-peace-ukraine-talks-end-with-little-sign-of-progress",
-      "published": "Wed, 18 Feb 2026 14:24:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'Russia is not serious about peace': Ukraine talks end with little sign of progress"
     },
     {
       "title": "Eight skiers found dead after avalanche in California",
@@ -1196,6 +1165,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sudan: Thousands cling to a fragile hope in makeshift tents"
+    },
+    {
+      "title": "Man charged with attempted murder after allegedly shooting victim in face with crossbow: police",
+      "description": "Long Island man allegedly shot his sister in the face with a crossbow, facing attempted murder charges that could bring 25 years in prison if convicted.",
+      "url": "https://www.foxnews.com/us/man-charged-attempted-murder-after-allegedly-shooting-victim-face-crossbow-police",
+      "published": "Wed, 18 Feb 2026 15:39:45 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Man charged with attempted murder after allegedly shooting victim in face with crossbow: police"
     },
     {
       "title": "8 skiers found dead, 1 missing after massive Lake Tahoe avalanche",
@@ -1350,6 +1333,17 @@
       "is_ticker": false
     },
     {
+      "title": "Australia news live: Tony Burke accuses Coalition of ‘silly hypocrisy’ on Syria camp group",
+      "description": "Home affairs minister says opposition had repatriated Australians from Syria when in government. Follow today’s news live Get our breaking news email , free app or daily news podcast Women and children linked to Islamic State fighters in Syria have Australian travel documents, Tony Burke suggests Tony Burke , the home affairs minister, confirmed that a group of women and children stuck in Syria who are the family members of Islamic State fighters, have Australian passports or travel documents. I think I’m giving the very practical answer that if anyone applies for a passport as a citizen, they are issued with a passport, in the same way that if someone applies for a Medicare card, they get a Medicare card. These are automatic processes done by public servants. Where you grow up shouldn’t determine whether you can access early education. These projects in Victoria mean more families can access early learning close to home and more children start school ready to go and ready to learn. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/feb/19/tony-burke-syria-camp-jobs-figures-angus-taylor-anthony-albanese-coalition-labor-accc-coles-ntwnfb",
+      "published": "Wed, 18 Feb 2026 20:57:50 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Where the word 'Olympics' comes from and what it means to someone who competed there",
       "description": "It's a word that evokes national pride and rare talent, and one that has been around for thousands of years.",
       "url": "https://www.npr.org/2026/02/18/nx-s1-5717092/winter-olympics-2026-word-of-week",
@@ -1428,6 +1422,20 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "UNSC moves Gaza meeting to avoid clash with Trump’s Board of Peace",
+      "description": "UN Security Council meeting addresses Gaza 'ceasefire' and Israeli plans to expand West Bank control.",
+      "url": "https://www.aljazeera.com/news/2026/2/18/unsc-moves-gaza-meeting-to-avoid-clash-with-trumps-board-of-peace?traffic_source=rss",
+      "published": "Wed, 18 Feb 2026 20:49:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UNSC moves Gaza meeting to avoid clash with Trump’s Board of Peace"
     },
     {
       "title": "US and Japan unveil $36bn of oil, gas and critical minerals projects in challenge to China",
@@ -1532,6 +1540,17 @@
       "is_ticker": false
     },
     {
+      "title": "Fighting for Trump's attention? Russia, Ukraine in rival bids to sway US mediators",
+      "description": "Call it speed dating diplomacy. In Geneva, real estate magnate Steve Witkoff playing lead U-S negotiator with Iran in one room while in another acting as broker for the hard bargaining between Russia and Ukraine. We’ll ask how the Ukranians feel about it, especially when the mediator’s boss piles on fresh pressure on them. And what about the Kremlin's envoy this time, a revisionist historian who spouts the greater Russia line of Vladimir Putin?",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260218-fighting-for-trump-s-attention-russia-ukraine-in-rival-bids-to-sway-us-mediators",
+      "published": "Wed, 18 Feb 2026 19:09:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "UN missions of 85 countries condemn Israeli West Bank plans",
       "description": "The UN missions of 85 countries on Wednesday condemned a series of Israeli measures designed to tighten control over the West Bank, including in areas administered by the Palestinian Authority under the Oslo Accords, in place since the 1990s. It came as Israel's far-right finance minister Bezalel Smotrich said he would pursue a policy of \"encouraging the migration\" of Palestinians from the occupied West Bank and Gaza Strip.",
       "url": "https://www.france24.com/en/video/20260218-un-missions-of-85-countries-condemn-israeli-west-bank-plans",
@@ -1601,17 +1620,6 @@
       "is_ticker": false
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-02-18T20:04:38.368588Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Australia bans a citizen with alleged IS links from returning from Syria",
       "description": "The Australian is among a group of 34 women and children who had planned to fly from Damascus to Australia on Monday but were turned back by Syrian authorities to the Roj detention camp due to procedural problems.",
       "url": "https://www.npr.org/2026/02/18/g-s1-110560/australia-bans-a-citizen-with-alleged-is-links-from-returning-from-syria",
@@ -1634,15 +1642,18 @@
       "is_ticker": false
     },
     {
-      "title": "ECB's Christine Lagarde planning early exit — report",
-      "description": "Christine Lagarde, the head of Europe's most important financial institution, plans to leave her job before her eight-year term ends in October 2027, the Financial Times reported.",
-      "url": "https://www.dw.com/en/ecb-s-christine-lagarde-planning-early-exit-report/a-76014737?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Feb 2026 09:21:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "How Israel is spraying herbicides on Syrian crops",
+      "description": "Israeli planes sprayed chemicals on farmland in Quneitra, Syria in late January and early February, 2026. Farmers say that their crops yellowed and died in just a few days and that they lost dozens of hectares of farmland. There have been similar reports of the Israeli Army spraying fields in southern Lebanon and of Israeli settlers doing the same in the West Bank.",
+      "url": "https://www.france24.com/en/middle-east/20260218-israel-spraying-herbicides-syrian-crops",
+      "published": "Wed, 18 Feb 2026 20:26:46 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 How Israel is spraying herbicides on Syrian crops"
     },
     {
       "title": "Political debate casts a shadow over 76th Berlin Film Festival",
@@ -1751,17 +1762,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Do not give away Diego Garcia, Trump tells UK",
-      "description": "The US president says \"it will be a blight on our great ally\" if the islands are handed over to Mauritius.",
-      "url": "https://www.bbc.com/news/articles/c309qqyer8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Feb 2026 19:46:48 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2154,8 +2154,8 @@
       "ticker_label": "💥 China’s dancing robots: how worried should we be?"
     },
     {
-      "title": "Australian private health insurance premiums are set to jump by 4.41%. Will policies deliver more or just cost more?",
-      "description": "The biggest premium hike in 10 years prompts questions, as government incentives continue to drive people to take out cover merely to avoid tax penalties Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The government has approved a 4.41% private health insurance premium rise from April – the largest hike in almost 10 years. With consumers already grappling with cost-of-living pressures, including an interest rate rise earlier in February, more Australians are likely to be wondering whether keeping their private health insurance is worth it. Melissa Davey is Guardian Australia’s medical editor Continue reading...",
+      "title": "Australian health insurance premiums just had their biggest hike in a decade. Is it time to scrap private health cover?",
+      "description": "Government incentives continue to drive people to take out cover merely to avoid tax penalties Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The government has approved a 4.41% private health insurance premium rise from April – the largest hike in almost 10 years. With consumers already grappling with cost-of-living pressures, including an interest rate rise earlier in February, more Australians are likely to be wondering whether keeping their private health insurance is worth it. Melissa Davey is Guardian Australia’s medical editor Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/feb/19/australian-private-health-insurance-premiums-increase-will-policies-deliver-cost-more",
       "published": "Wed, 18 Feb 2026 14:00:35 GMT",
       "source": "The Guardian World",
@@ -2179,7 +2179,7 @@
       "title": "M 6.2 - 32 km SW of Ovalle, Chile",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-02-12 13:34:31 UTC 2026-02-12 13:34:31 UTC at epicenter Location 30.801°S 71.445°W Depth 36.89 km (22.92 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000s8gw",
-      "published": "2026-02-13T21:56:03.410Z",
+      "published": "2026-02-18T20:13:52.040Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2220,10 +2220,10 @@
       "is_ticker": false
     },
     {
-      "title": "EU governments look to Australia's social media ban for kids",
-      "description": "Germany has joined the growing list of EU nations that are considering banning children from social media. Australia has banned youths from social media since December — and its example has lessons for EU governments.",
-      "url": "https://www.dw.com/en/eu-governments-look-to-australia-s-social-media-ban-for-kids/a-76021753?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Feb 2026 16:44:00 GMT",
+      "title": "Mark Zuckerberg testifies in social media addiction trial",
+      "description": "Google and Mark Zuckerberg's Meta have been accused of deliberately making platforms addictive to children and harming their mental health.",
+      "url": "https://www.dw.com/en/mark-zuckerberg-testifies-in-social-media-addiction-trial/a-76028273?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Feb 2026 20:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2231,10 +2231,10 @@
       "is_ticker": false
     },
     {
-      "title": "Greenland: Denmark's King Frederik X visits Nuuk",
-      "description": "King Frederik is visiting the partly autonomous Danish territory of Greenland, following the tensions prompted by US President Donald Trump last month.",
-      "url": "https://www.dw.com/en/greenland-denmark-s-king-frederik-x-visits-nuuk/a-76023387?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Feb 2026 15:51:00 GMT",
+      "title": "Europe looks to Australia's social media ban for kids",
+      "description": "Germany has joined the growing list of EU nations that are considering banning children from social media. Australia has banned youths from social media since December — and its example has lessons for EU governments.",
+      "url": "https://www.dw.com/en/europe-looks-to-australia-s-social-media-ban-for-kids/a-76021753?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Feb 2026 16:44:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2245,6 +2245,17 @@
       "title": "North Korean POWs stuck in Ukraine as Seoul hesitates",
       "description": "Two North Korean soldiers in Ukraine have asked to move to South Korea rather than facing dire consequences for letting themselves be captured in the North. The regime might choose to punish their families instead.",
       "url": "https://www.dw.com/en/north-korean-pows-stuck-in-ukraine-as-seoul-hesitates/a-76020092?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 18 Feb 2026 15:51:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Greenland: Denmark's King Frederik X visits Nuuk",
+      "description": "King Frederik is visiting the partly autonomous Danish territory of Greenland, following the tensions prompted by US President Donald Trump last month.",
+      "url": "https://www.dw.com/en/greenland-denmark-s-king-frederik-x-visits-nuuk/a-76023387?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Feb 2026 15:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2275,9 +2286,9 @@
       "is_ticker": false
     },
     {
-      "title": "From Iran to Afghanistan: Women's cinema of resistance",
-      "description": "These two female filmmakers express the injustice they've experienced in their home countries in contrasting genres — a romantic comedy and a nightmarish drama.",
-      "url": "https://www.dw.com/en/from-iran-to-afghanistan-women-s-cinema-of-resistance/a-76009841?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Berlinale: Women from Iran, Afghanistan debut bold films",
+      "description": "These two female filmmakers express the injustice they've experienced in their home countries in contrasting genres: a romantic comedy — and a nightmarish drama.",
+      "url": "https://www.dw.com/en/berlinale-women-from-iran-afghanistan-debut-bold-films/a-76009841?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Feb 2026 13:01:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2309,7 +2320,7 @@
     },
     {
       "title": "Germany news: Merz open to social media ban for under-16s",
-      "description": "German Chancellor Friedrich Merz has said he would consider a ban on social media for under-16s. Meanwhile, Berlin's ambassador to Iran is summoned for a reprimand over \"anti-Iranian activities\" in Germany. DW has more.",
+      "description": "German Chancellor Friedrich Merz has said he would consider a ban on social media for under-16s. Meanwhile, Berlin's ambassador to Iran is summoned for a reprimand over \"anti-Iranian activities\" in Germany.",
       "url": "https://www.dw.com/en/germany-news-merz-open-to-social-media-ban-for-under-16s/live-76016346?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 18 Feb 2026 09:26:00 GMT",
       "source": "Deutsche Welle",
@@ -2320,20 +2331,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Germany news: Merz open to social media ban for under-16s"
-    },
-    {
-      "title": "China shock: Will Merz take on Germany's top rival?",
-      "description": "Chancellor Friedrich Merz is scrambling to defend German industry from the economic upheaval caused by intense rivalry from China. Momentum is building to impose new trade barriers to stop unfair trade practices.",
-      "url": "https://www.dw.com/en/china-shock-will-merz-take-on-germany-s-top-rival/a-75925263?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 18 Feb 2026 09:16:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 China shock: Will Merz take on Germany's top rival?"
     },
     {
       "title": "Former Palestinian delegate to France Leïla Shahid dies age 76",
@@ -2372,11 +2369,11 @@
       "is_ticker": false
     },
     {
-      "title": "'Working with a full orchestra for the first time was incredible': Musician Jesse Harris",
-      "description": "A Grammy-winning songwriter, singer, guitarist and producer, who is performing in Paris this weekend, has spoken to FRANCE 24 about how he's always trying to make his records better. New York-born Jesse Harris has been working with top stars such as Norah Jones, Melody Gardot, Willie Nelson, Smokey Robinson and Cat Power. His new album is called \"If You Believed in Me\" and has enabled him to work for the first time with a full orchestra. His performances are taking place this weekend at the Duc des Lombards venue. He spoke to us in Perspective.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260218-working-with-a-full-orchestra-for-the-first-time-was-incredible-musician-jesse-harris",
-      "published": "Wed, 18 Feb 2026 14:28:55 GMT",
-      "source": "France24",
+      "title": "Ex-Man Utd star has strong words for Jose Mourinho over racism row",
+      "description": "Former Manchester United player Mikael Silvestre has claimed Jose Mourinho has \"failed us\" over his response to Vinicius Junior's allegations of racist abuse.",
+      "url": "https://news.sky.com/story/mikael-silvestre-has-strong-words-for-jose-mourinho-over-vinicius-juniors-racist-abuse-claim-13509253",
+      "published": "Wed, 18 Feb 2026 19:05:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2420,17 +2417,6 @@
       "description": "Norway's Johannes Hoesflot Klaebo has won his fifth Olympic gold medal at the Winter Games - and the 10th of his career.",
       "url": "https://news.sky.com/story/norways-johannes-hoesflot-klaebo-sets-record-with-fifth-olympic-gold-medal-and-10th-overall-at-winter-games-13509198",
       "published": "Wed, 18 Feb 2026 16:29:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Russian athletes to compete under own flag at Paralympics for first time since 2014",
-      "description": "Russia is set to have athletes competing under their own flag at the Paralympic Games for the first time since 2014.",
-      "url": "https://news.sky.com/story/russian-athletes-set-to-compete-under-own-flag-at-paralympics-for-first-time-since-2014-13508699",
-      "published": "Tue, 17 Feb 2026 18:01:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
