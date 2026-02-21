@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-21T09:36:48.567470Z",
+  "last_updated": "2026-02-21T10:34:19.682906Z",
   "event_count": 220,
   "events": [
     {
@@ -43,6 +43,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Credit cards cancelled, Google accounts closed: ICC judges on life under Trump sanctions"
+    },
+    {
+      "title": "US ramps up military buildup in Middle East amid talks with Iran",
+      "description": "President Donald Trump said on Friday that limited strikes against Iran are possible even as the country’s top diplomat said Tehran expects to have a proposed deal ready in the next few days following nuclear talks with the United States. Trump's warning came as the USS Gerald R. Ford carrier strike group passed through the Strait of Gibraltar and entered the Mediterranean Sea after being sent by Trump from the Caribbean, according to images of the ship by maritime photographers posted to social media.",
+      "url": "https://www.france24.com/en/us-ramps-up-military-buildup-in-middle-east-amid-talks-with-iran",
+      "published": "Sat, 21 Feb 2026 09:46:03 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US ramps up military buildup in Middle East amid talks with Iran"
     },
     {
       "title": "World News in Brief: Conflict deepens hunger crisis in South Sudan, restrictions hinder aid delivery in Gaza, UN child rights envoy concludes first visit to Syria",
@@ -102,6 +116,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "US businesses welcome Supreme Court ruling overturning Trump's tariffs",
+      "description": "Thousands of businesses won a hard-fought victory when the US Supreme Court ruled to overturn the White House's emergency tariffs, but the process of getting refunds has only just begun. In a decision that could ripple throughout the global economy for years, the court ruled that US President Donald Trump was not allowed to use the 1977 International Emergency Economic Powers Act to levy broad tariffs on imports.",
+      "url": "https://www.france24.com/en/video/20260221-us-businesses-welcome-supreme-court-ruling-overturning-trump-s-tariffs",
+      "published": "Sat, 21 Feb 2026 09:39:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -184,17 +209,6 @@
       "is_ticker": false
     },
     {
-      "title": "18 killed in road collision in northeastern Egypt",
-      "description": "A crash on a major road in Egypt kills 18 fishermen and injured three others, officials say",
-      "url": "https://abcnews.com/International/wireStory/18-killed-road-collision-northeastern-egypt-130319639",
-      "published": "Thu, 19 Feb 2026 18:27:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "UN rights chief: AI must be based on inclusivity, accountability and global standards",
       "description": "The UN High Commissioner for Human Rights, Volker Türk, has warned that without urgent guardrails, AI risks deepening inequality, amplifying bias and fuelling real-world harm.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167000",
@@ -249,20 +263,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Man charged with hate crime after allegedly ramming gates of Brisbane synagogue with ute"
-    },
-    {
-      "title": "At least 10 killed in Israeli strikes on Lebanon, state media says",
-      "description": "A senior Hezbollah official is among those reported killed in air strikes on the Bekaa Valley and southern Lebanon.",
-      "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 02:42:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At least 10 killed in Israeli strikes on Lebanon, state media says"
     },
     {
       "title": "How Russian drones are terrorising civilians in Ukraine",
@@ -435,6 +435,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
+      "description": "The strikes are among the deadliest in Lebanon since a ceasefire ended the war between Israel and Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cvg8914dkl0o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 09:56:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strikes kill at least 10 in Lebanon, officials say"
+    },
+    {
       "title": "Clashes in Albania as protesters demand PM Rama resign",
       "description": "Violence breaks out near parliament as demonstrators demand accountability in a corruption investigation.",
       "url": "https://www.aljazeera.com/news/2026/2/21/clashes-in-albania-as-protesters-demand-pm-rama-resign?traffic_source=rss",
@@ -522,6 +536,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Tariff loss, falling popularity, soaring costs: Trump challenged ahead of key US speech",
+      "description": "As President Donald Trump prepares for his key State of the Union address on Tuesday, the once unstoppable US leader finds himself weighed down by the Supreme Court decision to strike down his signature tariff policy amid souring public opinion over his immigration crackdown and failure to address an affordability crisis.",
+      "url": "https://www.france24.com/en/americas/20260221-trump-once-unstoppable-hits-snag-after-snag-ahead-of-major-us-address",
+      "published": "Sat, 21 Feb 2026 05:09:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Tariff loss, falling popularity, soaring costs: Trump challenged ahead of key US speech"
     },
     {
       "title": "How Iran might be preparing itself for a potential US strike",
@@ -705,48 +733,6 @@
       "is_ticker": false
     },
     {
-      "title": "Gorton and Denton by-election: 'Much wider implications for the UK'",
-      "description": "Gavin Lee is pleased to welcome fellow journalist Guillaume Gougeon. In his assessment, what may appear as a routine British by-election in Labour stronghold Gorton and Denton is far more consequential. Historically, by-elections in the United Kingdom serve as barometers of public sentiment toward the government in power. This contest unfolds at a moment of political vulnerability for the Prime Minister, following internal controversies and declining national polling numbers.The race has evolved into a three-way contest between Labour, the Greens and Nigel Farage's Reform UK.",
-      "url": "https://www.france24.com/en/video/20260221-gorton-and-denton-by-election-much-wider-implications-for-the-uk",
-      "published": "Sat, 21 Feb 2026 07:16:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Gorton and Denton by-election: 'Much wider implications for the UK'"
-    },
-    {
-      "title": "War in Ukraine: Four young Ukrainians tell us how they see their future",
-      "description": "Their names are Oleksandr, Sofiia, Bohdan and Angelina. Aged between 18 and 28, these young Ukrainians are living in a country still at war.As Tuesday marks the fourth year of Russia’s large-scale invasion in Ukraine, France 24 gives them the floor, to know more about their hopes, their fears and their dreams for the future.",
-      "url": "https://www.france24.com/en/video/20260220-war-in-ukraine-four-young-ukrainians-tell-us-how-they-see-their-future",
-      "published": "Fri, 20 Feb 2026 16:20:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 War in Ukraine: Four young Ukrainians tell us how they see their future"
-    },
-    {
-      "title": "'We will be able to defend Ukraine' thanks to EU loan: Ambassador Vsevolod Chentsov",
-      "description": "As part of FRANCE 24’s and Talking Europe’s coverage of the fourth anniversary of the war in Ukraine, we host veteran diplomat Vsevolod Chentsov, Ukraine’s ambassador to the European Union. He highlights the critical assistance the EU is providing for the country’s military, budgetary, and energy needs, saying that the solidarity shown by Ukraine’s European allies \"cannot be underestimated\".",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260220-we-will-be-able-to-defend-ukraine-thanks-to-eu-loan-ambassador-vsevolod-chentsov",
-      "published": "Fri, 20 Feb 2026 16:18:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'We will be able to defend Ukraine' thanks to EU loan: Ambassador Vsevolod Chentsov"
-    },
-    {
       "title": "Austrian court convicts man whose girlfriend died as they climbed mountain",
       "description": "An Austrian court has convicted a man of manslaughter caused by gross negligence after his girlfriend froze to death as the couple attempted to climb the country’s highest peak last year",
       "url": "https://abcnews.com/International/wireStory/austrian-court-convicts-man-girlfriend-died-climbed-countrys-130329003",
@@ -795,6 +781,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Terror sponsor Iran gets UN leadership overseeing charter principles"
+    },
+    {
+      "title": "Palestinian Authority in dire straits as Israel's hold on West Bank deepens",
+      "description": "More than 30 years after its creation, there are increasing warnings that the PA is close to collapse.",
+      "url": "https://www.bbc.com/news/articles/c9wn8lw0kgjo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 06:33:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Palestinian Authority in dire straits as Israel's hold on West Bank deepens"
     },
     {
       "title": "Kenyan authorities used Israeli tech to crack activist’s phone, report claims",
@@ -870,20 +870,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Three men killed in US strike on alleged drug boat"
-    },
-    {
-      "title": "Tariff refunds could take years amid US Supreme Court ruling, experts warn",
-      "description": "At least 1,000 companies have already sued the administration of United States President Donald Trump.",
-      "url": "https://www.aljazeera.com/economy/2026/2/20/tariff-refunds-could-take-years-amid-us-supreme-court-ruling-experts-warn?traffic_source=rss",
-      "published": "Fri, 20 Feb 2026 20:19:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Tariff refunds could take years amid US Supreme Court ruling, experts warn"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1033,11 +1019,11 @@
       "ticker_label": "🪖 Dog trained to illegally dump rubbish, Italian authorities say"
     },
     {
-      "title": "How will Trump's new 10% global tariffs work and what's next?",
-      "description": "The Supreme Court's decision has led questions over whether people can get a refund over the unlawful tariffs.",
-      "url": "https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 03:25:11 GMT",
-      "source": "BBC News",
+      "title": "World reacts as US top court limits Trump’s tariff powers",
+      "description": "Some countries welcome the ruling, while others review trade deals and economic effect.",
+      "url": "https://www.aljazeera.com/news/2026/2/21/trump-tariff-reactions?traffic_source=rss",
+      "published": "Sat, 21 Feb 2026 09:40:50 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1227,20 +1213,6 @@
       "is_ticker": false
     },
     {
-      "title": "In the army now: Pictures that show how ordinary Ukrainians have been shaped by war",
-      "description": "Six Ukrainian men and women in uniform reveal how Russia's invasion in 2022 has changed them.",
-      "url": "https://www.bbc.com/news/articles/cddn2e11zm8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 00:22:28 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 In the army now: Pictures that show how ordinary Ukrainians have been shaped by war"
-    },
-    {
       "title": "Videos show aftermath of deadly Israeli attacks in Lebanon",
       "description": "Israel’s military has carried out air attacks on eastern Lebanon’s Bekaa Valley and refugee camp Ein el-Hilweh.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/21/videos-show-aftermath-of-deadly-israeli-attacks-in-lebanon?traffic_source=rss",
@@ -1280,22 +1252,22 @@
       "is_ticker": false
     },
     {
-      "title": "US President Trump promises new tariffs, slams Supreme Court decision",
-      "description": "Supreme Court blocks Trump's emergency tariffs, but he plans to invoke other laws to maintain and raise tariffs.",
-      "url": "https://www.aljazeera.com/news/2026/2/20/us-president-trump-promises-new-tariffs-slams-supreme-court-decision?traffic_source=rss",
-      "published": "Fri, 20 Feb 2026 20:14:54 +0000",
-      "source": "Al Jazeera",
+      "title": "Retail spending fell in March as consumers pull back",
+      "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+      "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+      "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+      "source": "CNN World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Retail spending fell in March as consumers pull back",
-      "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
-      "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
-      "published": "Fri, 14 Apr 2023 14:29:52 GMT",
-      "source": "CNN World",
+      "title": "UK govt mulls removing ex-prince Andrew from line of succession",
+      "description": "The British government on Friday mulled passing a law to remove former prince Andrew from the line of succession, as police stepped up investigations into his conduct, quizzing the disgraced royal's former protection officers. The former prince was arrested on Thursday at his new home on the king's remote Sandringham estate in eastern Norfok on suspicion of misconduct in public office.",
+      "url": "https://www.france24.com/en/uk-govt-mulls-removing-ex-prince-andrew-from-line-of-succession",
+      "published": "Sat, 21 Feb 2026 09:43:35 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1607,6 +1579,17 @@
       "ticker_label": "🪖 US-Iran news: Tehran has '10 to 15 days' to reach a deal, Trump says"
     },
     {
+      "title": "Giant tortoises make a comeback on Galapagos island",
+      "description": "More than 150 giant tortoises have been reintroduced to Floreana Island in Ecuador's famed Galapagos archipelago where they disappeared more than a century ago, the environment ministry said Friday. Floreana was once home to some 20,000 giant tortoises, but whaling, a devastating fire, and relentless human exploitation led to their complete extinction on the island.",
+      "url": "https://www.france24.com/en/americas/20260221-giant-tortoises-make-comeback-galapagos-island-floreana",
+      "published": "Sat, 21 Feb 2026 09:44:02 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Paris Agriculture Fair opens without cows for first time due to lumpy skin disease fears",
       "description": "French President Emmanuel Macron on Saturday inaugurated the annual Paris Agriculture Fair without cattle for the first time ever after an outbreak of lumpy skin disease. France's two main farmer unions also boycotted the traditional meeting with the president in a bid to highlight the difficulties faced by French farmers on the ground.",
       "url": "https://www.france24.com/en/france/20260221-paris-agriculture-fair-opens-without-cows-for-first-time-due-to-disease-fears",
@@ -1618,18 +1601,15 @@
       "is_ticker": false
     },
     {
-      "title": "US Supreme Court strikes down Donald Trump’s sweeping tariffs",
-      "description": "Kethevane Gorjestani has more.",
-      "url": "https://www.france24.com/en/us-supreme-court-strikes-down-donald-trump-s-sweeping-tariffs",
-      "published": "Fri, 20 Feb 2026 16:12:44 GMT",
-      "source": "France24",
+      "title": "Hong Kong government offers to buy apartment ownerships from fire victims",
+      "description": "Hong Kong’s government is offering to buy back homeownership rights from residents displaced by last year’s deadly Wang Fuk Court fire",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-government-offers-buy-apartment-ownerships-fire-130360012",
+      "published": "Sat, 21 Feb 2026 04:41:39 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US Supreme Court strikes down Donald Trump’s sweeping tariffs"
+      "is_ticker": false
     },
     {
       "title": "ICE arrests illegal immigrants convicted of child rape, sexual assault, drug trafficking",
@@ -1711,6 +1691,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Italian toddler dies after transplant with heart 'burned by frostbite'",
+      "description": "The heart given to two-year-old Domenico was reportedly severely damaged during its transfer to hospital.",
+      "url": "https://www.bbc.com/news/articles/ceqvgedennpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 09:55:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1963,6 +1954,28 @@
       "is_ticker": false
     },
     {
+      "title": "Tottenham Hotspur vs Arsenal: Premier League – team news, start, lineups",
+      "description": "Igor Tudor's first game in charge of Spurs is a north London derby against wobbling Premier League leaders Arsenal.",
+      "url": "https://www.aljazeera.com/sports/2026/2/21/tottenham-hotspur-vs-arsenal-premier-league-team-news-start?traffic_source=rss",
+      "published": "Sat, 21 Feb 2026 09:54:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Venezuela grants amnesty to 379 political prisoners",
+      "description": "The move is in line with a new law, giving hope to throngs of others imprisoned over alleged plots to oust the government.",
+      "url": "https://www.aljazeera.com/news/2026/2/21/venezuela-grants-amnesty-to-379-political-prisoners?traffic_source=rss",
+      "published": "Sat, 21 Feb 2026 09:51:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Farmers in Gaza risk Israeli bullets to bring their fields back to life",
       "description": "Gaza farmers face risks as Israeli buffer zones expand into their agricultural lands under heavy military control.",
       "url": "https://www.aljazeera.com/features/2026/2/21/farmers-in-gaza-risk-israeli-bullets-to-bring-their-fields-back-to-life?traffic_source=rss",
@@ -2022,17 +2035,6 @@
       "description": "The case is the first major challenge to Trump’s agenda, but he still has other avenues to pursue trade restrictions.",
       "url": "https://www.aljazeera.com/economy/2026/2/20/can-trump-still-impose-tariffs-after-the-supreme-court-ruling?traffic_source=rss",
       "published": "Fri, 20 Feb 2026 21:32:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hungary to block 90 billion euro EU loan to Ukraine in Russian oil dispute",
-      "description": "Foreign Minister ​Peter Szijjarto says Hungary 'will not give in to this blackmail' after oil flows from Ukraine halted.",
-      "url": "https://www.aljazeera.com/news/2026/2/20/hungary-to-block-90-billion-euro-eu-loan-to-ukraine-in-russian-oil-dispute?traffic_source=rss",
-      "published": "Fri, 20 Feb 2026 20:44:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2249,6 +2251,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germany news: CDU party conference resumes in Stuttgart",
+      "description": "The second day of the conference will see the ruling party discuss dozens of motions. Meanwhile, several pro-EU demonstrations are planned in Stuttgart, Hamburg, Munich and other European cities. Follow DW.",
+      "url": "https://www.dw.com/en/germany-news-cdu-party-conference-resumes-in-stuttgart/live-76069356?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 21 Feb 2026 10:06:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "No reckoning over ethnic cleansing of Bulgaria's Turks",
       "description": "Bulgaria's Turkish community, descendants of Ottoman settlers, suffered severe persecution under the communist regime. Yet little has been done to address the injustice.",
       "url": "https://www.dw.com/en/no-reckoning-over-ethnic-cleansing-of-bulgaria-s-turks/a-76067294?maca=en-rss-en-all-1573-xml-mrss",
@@ -2351,17 +2364,6 @@
       "ticker_label": "💥 China overtakes US to become Germany's top trading partner"
     },
     {
-      "title": "Germans approve of democracy, but say it doesn't work well",
-      "description": "Democracy is indispensable, according to most respondents to the new \"Germany Monitor 2025\" survey. However, many say it is functioning less well than in the past, and rapid change is causing great uncertainty.",
-      "url": "https://www.dw.com/en/germans-approve-of-democracy-but-say-it-doesn-t-work-well/a-76058634?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 20 Feb 2026 12:28:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "🔴 Live: Macron calls for ‘calm’ as France braces for tribute to far-right activist Quentin Deranque",
       "description": "No description available.",
       "url": "https://www.france24.com/en/france/20260221-live-france-braces-for-tribute-to-killed-far-right-activist-amid-security-concerns",
@@ -2399,17 +2401,6 @@
       "description": "In the latest repatriation of stolen artefacts, France on Friday handed over the Djidji Ayokwe or \"talking\" drum back to Ivory Coast after it was looted by colonial troops in 1916. The drum, which was used by the Ebrie tribe to transmit messages, is one of hundreds of objects France is preparing to send back to Africa.",
       "url": "https://www.france24.com/en/france/20260220-france-repatriates-stolen-colonial-era-talking-drum-to-ivory-coast",
       "published": "Fri, 20 Feb 2026 17:28:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Police search former Prince Andrew's home a day after his arrest",
-      "description": "John Curtice, Professor of Politics, is our guest.",
-      "url": "https://www.france24.com/en/video/20260220-police-search-former-prince-andrew-s-home-a-day-after-his-arrest-1",
-      "published": "Fri, 20 Feb 2026 16:08:42 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
