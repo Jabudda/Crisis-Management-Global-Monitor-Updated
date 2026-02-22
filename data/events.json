@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-22T11:47:57.322637Z",
+  "last_updated": "2026-02-22T13:04:16.629254Z",
   "event_count": 221,
   "events": [
     {
@@ -87,15 +87,18 @@
       "ticker_label": "🪖 US military kills 3 in latest strike on a suspected drug vessel in the Pacific"
     },
     {
-      "title": "Iran says will not 'bow' to pressure amid US nuclear talks as anti-govt protests reported in Tehran",
-      "description": "⁠President ​Masoud Pezeshkian said on ​Saturday that Iran \"will not ​bow\" ‌to pressure from world powers amid nuclear talks with the US. Meanwhile, Iranian students chanted anti-government slogans at rallies for the thousands killed during last month's demonstrations, local and diaspora media reported.",
-      "url": "https://www.france24.com/en/middle-east/20260221-iran-says-will-not-bow-to-pressure-amid-us-nuclear-talks-as-anti-govt-protests-reported-in-tehran",
-      "published": "Sat, 21 Feb 2026 15:42:28 GMT",
-      "source": "France24",
+      "title": "Explosions kill police officer and injure 25 in western Ukraine",
+      "description": "Twenty-five people were injured by explosions overnight in what officials are calling a terror attack.",
+      "url": "https://www.bbc.com/news/articles/clyz8d79djeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 12:15:21 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 33,
+      "severity_score": 35,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Explosions kill police officer and injure 25 in western Ukraine"
     },
     {
       "title": "World News in Brief: Conflict deepens hunger crisis in South Sudan, restrictions hinder aid delivery in Gaza, UN child rights envoy concludes first visit to Syria",
@@ -132,6 +135,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘No corner of Sudan is safe’: UN officials warn of famine and atrocities as war intensifies"
+    },
+    {
+      "title": "Pakistan launches border strikes on Afghanistan",
+      "description": "Islamabad said it carried out strikes along the border with Afghanistan early Sunday, targeting what it called hideouts of Pakistani militants it blamed for recent attacks inside Pakistan. The Afghan Red Crescent Society said more than a dozen people were killed. Pakistan didn't specify the locations targeted, but the Afghan defense ministry said in a statement “various civilian areas” in the provinces of Nangarhar and Paktika in eastern Afghanistan were hit, including a religious madrassa and multiple civilian homes.",
+      "url": "https://www.france24.com/en/pakistan-launches-border-strikes-on-afghanistan",
+      "published": "Sun, 22 Feb 2026 12:55:27 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Pakistan launches border strikes on Afghanistan"
     },
     {
       "title": "World News in Brief: Guterres calls for fair swtich to clean energy, Ramadan in Gaza, escalating violence and displacement in South Sudan",
@@ -368,6 +385,20 @@
       "ticker_label": "💥 Man charged with hate crime after allegedly ramming gates of Brisbane synagogue with ute"
     },
     {
+      "title": "Russia, Ukraine report overnight strikes on energy infrastructure",
+      "description": "The attacks come as Ukraine prepares to mark four years since the start of the war on February 24.",
+      "url": "https://www.dw.com/en/russia-ukraine-report-overnight-strikes-on-energy-infrastructure/a-76078205?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 22 Feb 2026 12:48:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia, Ukraine report overnight strikes on energy infrastructure"
+    },
+    {
       "title": "Berlinale: 'Yellow Letters' wins the Golden Bear award",
       "description": "The political drama by Oscar nominee Ilker Catak took the top award at the Berlin International Film Festival.",
       "url": "https://www.dw.com/en/berlinale-yellow-letters-wins-the-golden-bear-award/a-76072428?maca=en-rss-en-all-1573-xml-mrss",
@@ -477,20 +508,6 @@
       "ticker_label": "🪖 Trump says he is considering limited military strike on Iran"
     },
     {
-      "title": "Iran will not bow down to US pressure in nuclear talks, Pezeshkian says",
-      "description": "Iranian president vows to stand firm as Trump threatens strikes and the US bolsters its military presence in the Gulf.",
-      "url": "https://www.aljazeera.com/news/2026/2/22/iran-will-not-bow-down-to-us-pressure-in-nuclear-talks-pezeshkian-says?traffic_source=rss",
-      "published": "Sun, 22 Feb 2026 06:48:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran will not bow down to US pressure in nuclear talks, Pezeshkian says"
-    },
-    {
       "title": "French rally for slain far-right activist Quentin Deranque",
       "description": "Thousands have marched in Lyon to honor Quentin Deranque, a far-right activist who was fatally beaten by a group of attackers during a protest against the hard-left France Unbowed (LFI) party.",
       "url": "https://www.dw.com/en/french-rally-for-slain-far-right-activist-quentin-deranque/a-76070002?maca=en-rss-en-all-1573-xml-mrss",
@@ -516,20 +533,6 @@
       "ticker_label": "🪖 Live: Russian missiles pound Kyiv ahead of Ukraine war anniversary"
     },
     {
-      "title": "Drone strike hits aid convoy, killing 3 in Sudan's Kordofan region",
-      "description": "Drone strikes have hit an aid convoy in central Sudan and killed three people as continued violence disrupts lifesaving deliveries and risks the safety of humanitarians",
-      "url": "https://abcnews.com/International/wireStory/drone-strike-hits-aid-convoy-killing-3-sudans-130333900",
-      "published": "Fri, 20 Feb 2026 09:37:47 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Drone strike hits aid convoy, killing 3 in Sudan's Kordofan region"
-    },
-    {
       "title": "California woman hospitalized with chemical burns after portable charger explodes while sleeping",
       "description": "Los Angeles woman warns against portable chargers after hers caught fire in bed, forcing her to scream for neighbors to call 911 for emergency help.",
       "url": "https://www.foxnews.com/us/california-woman-hospitalized-chemical-burns-after-portable-charger-explodes-while-sleeping",
@@ -544,21 +547,35 @@
       "ticker_label": "🪖 California woman hospitalized with chemical burns after portable charger explodes while sleeping"
     },
     {
-      "title": "'A check on executive authority': Supreme Court delivers blow to Trump’s tariffs",
-      "description": "The Supreme Court struck down President Donald Trump's far-reaching global tariffs on Friday, delivering a stinging loss that prompted a fierce attack on the court he helped shape. The ruling was significant because it marked \"a rare instance\" of the Supreme Court acting as \"a check on executive authority\", FRANCE 24's Douglas Herbert said. Herbert noted that the decision demonstrated the court's willingness to exercise its independence on certain issues, even though it had sided with Trump on previous cases.",
-      "url": "https://www.france24.com/en/a-check-on-executive-authority-supreme-court-delivers-blow-to-trump-s-tariffs",
-      "published": "Sat, 21 Feb 2026 15:29:18 GMT",
-      "source": "France24",
+      "title": "Attackers kill dozens, abduct women and children in Nigeria",
+      "description": "Dozens are reported to have been killed and women and children abducted after armed men attacked a village in Nigeria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/22/attackers-kill-dozens-abduct-women-and-children-in-nigeria?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 12:38:54 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
     },
     {
+      "title": "Rafael Grossi on nuclear risk and reforming the UN",
+      "description": "The IAEA chief discusses rising nuclear tensions, UN reform and whether the system can still prevent war.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/2/22/rafael-grossi-on-nuclear-risk-and-reforming-the-un?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 11:46:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Rafael Grossi on nuclear risk and reforming the UN"
+    },
+    {
       "title": "Iran students stage first large anti-government protests since deadly crackdown",
       "description": "The student protesters honoured thousands of those killed when nationwide mass protests were put down last month.",
       "url": "https://www.bbc.com/news/articles/c5yj2kzkrj0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 22:09:19 GMT",
+      "published": "Sun, 22 Feb 2026 12:39:15 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -578,6 +595,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 1916: The bloody battle of Verdun"
+    },
+    {
+      "title": "Turkey's growing reach in Africa seen complicating US strategy, analysts warn",
+      "description": "Turkey's expansion into Africa through commerce including military sales reportedly challenges U.S. interests as ongoing conflicts create new opportunities for Ankara.",
+      "url": "https://www.foxnews.com/world/turkeys-growing-reach-africa-seen-complicating-us-strategy-analysts-warn",
+      "published": "Sun, 22 Feb 2026 07:14:21 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Turkey's growing reach in Africa seen complicating US strategy, analysts warn"
     },
     {
       "title": "Israeli strikes kill at least 10 in Lebanon, officials say",
@@ -686,18 +717,18 @@
       "ticker_label": "🪖 After 4 years of war by Russia in Ukraine, peace is still elusive despite a US push for a settlement"
     },
     {
-      "title": "Greece signs a preliminary deal with a Belgian collector to buy WWII photos of Nazi executions",
-      "description": "A Belgian collector who put up a series of World War II photographs showing the final moments of 200 Greeks executed by a Nazi firing squad for online auction has signed a preliminary agreement with the Greek Culture Ministry",
-      "url": "https://abcnews.com/International/wireStory/greece-signs-preliminary-deal-belgian-collector-buy-wwii-130336969",
-      "published": "Fri, 20 Feb 2026 10:34:07 -0500",
-      "source": "ABC News International",
+      "title": "Delayed justice: Argentina's secret Nazi files expose costly inaction in pursuit of war criminals",
+      "description": "Declassified Argentine files reveal how Nazi war criminals Adolf Eichmann and Walter Kutschmann lived openly in South America for decades after World War II.",
+      "url": "https://www.foxnews.com/world/delayed-justice-argentinas-secret-nazi-files-expose-costly-inaction-pursuit-war-criminals",
+      "published": "Sun, 22 Feb 2026 07:00:08 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Greece signs a preliminary deal with a Belgian collector to buy WWII photos of Nazi executions"
+      "ticker_label": "🪖 Delayed justice: Argentina's secret Nazi files expose costly inaction in pursuit of war criminals"
     },
     {
       "title": "At least one killed in widescale Russian attacks on Ukraine’s energy sector",
@@ -739,20 +770,6 @@
       "ticker_label": "🪖 Ukrainian resilience remains strong as war enters fifth year"
     },
     {
-      "title": "'Heavy', 'sad' and 'increasingly intense' atmosphere at rally for killed far-right activist",
-      "description": "Several hundreds joined a march organised by far-right groups on Saturday after a nationalist activist died from a beating in Lyon in an incident that highlighted a climate of deep political tensions ahead of next year's presidential vote. Reporting from Lyon, FRANCE 24's Olivia Bizot said the atmosphere was \"heavy, sad and increasingly intense\", adding that \"several young men carrying wooden sticks\" were present at the rally.",
-      "url": "https://www.france24.com/en/heavy-sad-and-increasingly-intense-atmosphere-at-rally-for-killed-far-right-activist",
-      "published": "Sat, 21 Feb 2026 15:27:18 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 'Heavy', 'sad' and 'increasingly intense' atmosphere at rally for killed far-right activist"
-    },
-    {
       "title": "Trump gives Iran 10-day ultimatum, but experts signal talks may be buying time for strike",
       "description": "Trump gives Iran 10-15 days to negotiate or face serious military consequences in a high-stakes nuclear diplomacy standoff with Tehran regime officials.",
       "url": "https://www.foxnews.com/world/trump-gives-iran-10-day-ultimatum-experts-signal-talks-may-buying-time-strike",
@@ -779,6 +796,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 As war losses near 2 million, Russia accused of trafficking foreign recruits from Africa, Asia"
+    },
+    {
+      "title": "UEFA and FIFA may get a red card at the ICC for ignoring Israeli violations",
+      "description": "A landmark referral of UEFA and FIFA leaders to the International Criminal Court could set an important legal precedent.",
+      "url": "https://www.aljazeera.com/opinions/2026/2/22/uefa-and-fifa-may-get-a-red-card-at-the-icc-for-ignoring-israeli-violations?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 11:49:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -914,20 +942,6 @@
       "is_ticker": false
     },
     {
-      "title": "US strike kills three on boat in eastern Pacific",
-      "description": "The US military destroyed another boat with an airstrike in the eastern Pacific, killing three people. It's the sixth known US boat strike of the year and brings the total death toll to at least 148.",
-      "url": "https://www.dw.com/en/us-strike-kills-three-on-boat-in-eastern-pacific/a-76068561?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 21 Feb 2026 03:50:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US strike kills three on boat in eastern Pacific"
-    },
-    {
       "title": "Hezbollah says 'resistance' is the only choice after deadly Israeli strike",
       "description": "A Hezbollah official on Saturday said that \"resistance\" was the only option after Israeli strikes in Lebanon killed eight of its operatives. On Friday, the Israeli military said it had hit Hezbollah command centres in eastern Lebanon and targets linked to the Palestinian group Hamas in the south.",
       "url": "https://www.france24.com/en/middle-east/20260221-hezbollah-says-resistance-is-the-only-choice-after-deadly-israeli-strike",
@@ -940,6 +954,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Hezbollah says 'resistance' is the only choice after deadly Israeli strike"
+    },
+    {
+      "title": "France will summon US Ambassador Charles Kushner after US comments on activist’s death",
+      "description": "France is summoning U.S. Ambassador Charles Kushner to protest American comments about the killing of far-right activist Quentin Deranque",
+      "url": "https://abcnews.com/International/wireStory/france-summon-us-ambassador-charles-kushner-after-us-130381915",
+      "published": "Sun, 22 Feb 2026 07:48:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Guns, fashionable clothes and death threats: How gangs in Haiti ensnare children",
@@ -1072,20 +1097,6 @@
       "is_ticker": false
     },
     {
-      "title": "Israel says it hit Hezbollah sites in eastern Lebanon",
-      "description": "The strikes targeted Hezbollah command centers in the Baalbek area, part of eastern Lebanon's Bekaa Valley, the Israeli military said. They are among the deadliest reported in the region in recent weeks.",
-      "url": "https://www.dw.com/en/israel-says-it-hit-hezbollah-sites-in-eastern-lebanon/a-76068525?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 21 Feb 2026 02:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel says it hit Hezbollah sites in eastern Lebanon"
-    },
-    {
       "title": "World's tallest church: Sagrada Familia inches closer to the sky",
       "description": "Barcelona's towering Sagrada Familia basilica reached its maximum height on Friday, though the magnum opus of Catalan architect Antoni Gaudí remains years away from completion. A crane placed the upper arm of a cross atop the Tower of Jesus Christ, the church's soaring central piece, which now stands 172.5 meters (566 feet) above the city.",
       "url": "https://www.france24.com/en/world-s-tallest-church-sagrada-familia-inches-closer-to-the-sky",
@@ -1094,17 +1105,6 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "How will Trump's new global tariffs work and what's next?",
-      "description": "The Supreme Court's decision has led questions over whether people can get a refund over the unlawful tariffs.",
-      "url": "https://www.bbc.com/news/articles/c8r1e327z46o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 17:39:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1123,17 +1123,6 @@
       "description": "Garcia is the new world champion after a unanimous points decision victory against title holder.",
       "url": "https://www.aljazeera.com/sports/2026/2/22/ryan-garcia-defeats-mario-barrios-to-win-wbc-welterweight-title?traffic_source=rss",
       "published": "Sun, 22 Feb 2026 09:43:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump to raise US global tariff to 15% after Supreme Court ruling",
-      "description": "Move comes as businesses seek repayment for the estimated $133bn the Trump administration has already collected.",
-      "url": "https://www.aljazeera.com/news/2026/2/22/trump-to-raise-us-global-tariff-from-ten-to-fifteen-percent-after-supreme-court-ruling?traffic_source=rss",
-      "published": "Sun, 22 Feb 2026 03:00:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1185,6 +1174,17 @@
       "url": "https://www.dw.com/en/giant-tortoises-reintroduced-to-a-galapagos-island/a-76072073?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 21 Feb 2026 12:55:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "St Francis relics on public display for first time in Italy",
+      "description": "Saint Francis of Assisi's skeleton is going on public display from Sunday for the first time for the 800th anniversary of his death, drawing hundreds of thousands of visitors. Inside a nitrogen-filled plexiglass case with the Latin inscription \"Corpus Sancti Francisci\" (The Body of St Francis), the remains are being shown in the Italian hill town's Basilica of St Francis of Assisi.",
+      "url": "https://www.france24.com/en/st-francis-relics-on-public-display-for-first-time-in-italy",
+      "published": "Sun, 22 Feb 2026 12:05:02 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1279,6 +1279,17 @@
       "is_ticker": false
     },
     {
+      "title": "Minnesota Vikings receiver Moore dies aged 25",
+      "description": "The Minnesota Vikings have paid tribute to Rondale Moore after the 25-year-old's death.",
+      "url": "https://www.bbc.com/sport/american-football/articles/cpw0qye140do?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Feb 2026 12:35:57 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Family of Palestinian-American man killed in West Bank demand accountability",
       "description": "Nasrallah Abu Siyam was the sixth American citizen killed by Israeli settlers or soldiers in the West Bank in the last two years.",
       "url": "https://www.bbc.com/news/articles/cvgk7z15gnpo?at_medium=RSS&at_campaign=rss",
@@ -1318,6 +1329,20 @@
       "ticker_label": "💥 Tumbler Ridge suspect's ChatGPT account banned before shooting"
     },
     {
+      "title": "How four years of Ukraine war have changed Russia",
+      "description": "From curbs on rights to fewer choices at the market, the war has taken its toll. Still, support for it remains high.",
+      "url": "https://www.aljazeera.com/news/2026/2/22/how-four-years-of-ukraine-war-have-changed-russia?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 12:13:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 How four years of Ukraine war have changed Russia"
+    },
+    {
       "title": "Attacked in India, Kashmiri shawl sellers choose between safety, livelihood",
       "description": "A surge in attacks has forced many Kashmiris to return home. Others are devising survival strategies.",
       "url": "https://www.aljazeera.com/news/2026/2/22/attacked-in-india-kashmiri-shawl-sellers-choose-between-safety-livelihood?traffic_source=rss",
@@ -1327,34 +1352,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Eight bodies recovered in Libya, Greece as Mediterranean death toll rises",
-      "description": "Bodies of five asylum seekers wash ashore in Libya as three others die in a separate incident off the coast of Greece.",
-      "url": "https://www.aljazeera.com/news/2026/2/22/eight-bodies-found-in-libya-and-greece-as-mediterranean-crossings-continue?traffic_source=rss",
-      "published": "Sun, 22 Feb 2026 05:00:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Eight bodies recovered in Libya, Greece as Mediterranean death toll rises"
-    },
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,459",
-      "description": "These are the key developments from day 1,459 of Russia’s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/2/22/russia-ukraine-war-list-of-key-events-day-1459?traffic_source=rss",
-      "published": "Sun, 22 Feb 2026 03:33:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia-Ukraine war: List of key events, day 1,459"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1380,6 +1377,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 'Given a gun and sent to die': Kenyans lured to fight for Russia in Ukraine"
+    },
+    {
+      "title": "Ukraine war: Exhausted troops not holding out hope for peace",
+      "description": "Former DW correspondent Kostiantyn Honcharov joined the Ukrainian army in 2022. He describes the grim front-line situation after four years of fighting.",
+      "url": "https://www.dw.com/en/ukraine-war-exhausted-troops-not-holding-out-hope-for-peace/a-76049822?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 22 Feb 2026 12:33:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine war: Exhausted troops not holding out hope for peace"
     },
     {
       "title": "Arab, Muslim nations slam ‘inflammatory’ remarks by US ambassador to Israel",
@@ -1500,7 +1511,7 @@
     },
     {
       "title": "Nancy Guthrie disappearance fuels rise of ‘mom detectives’ swapping tips and losing sleep",
-      "description": "Social media 'mom detectives' mobilize online to help find missing mother Nancy Guthrie, turning Facebook groups and Instagram into investigative hubs.",
+      "description": "Social media \"mom detectives\" mobilize online to help find missing mother Nancy Guthrie, turning Facebook groups and Instagram into investigative hubs.",
       "url": "https://www.foxnews.com/us/nancy-guthrie-disappearance-fuels-rise-mom-detectives-swapping-tips-losing-sleep",
       "published": "Sat, 21 Feb 2026 16:00:16 -0500",
       "source": "Fox News US",
@@ -1638,20 +1649,6 @@
       "is_ticker": false
     },
     {
-      "title": "China overtakes US as Germany’s top trading partner",
-      "description": "Friedrich Merz to meet Xi Jinping in Beijing as China overtakes US as country’s leading export destination China has overtaken the US as Germany’s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office. Merz will head to China on Tuesday and will be welcomed with military honours on Wednesday in Beijing by the prime minister, Li Qiang, before later meeting the president, Xi Jinping, for talks over dinner, his spokesperson, Sebastian Hille, said. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/feb/22/china-overtakes-us-as-germany-top-trading-partner",
-      "published": "Sun, 22 Feb 2026 10:51:40 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 China overtakes US as Germany’s top trading partner"
-    },
-    {
       "title": "Germany news: New rules aim to give asylum-seekers job access",
       "description": "Germany is hoping to boost integration by making it possible for asylum-seekers to start working after just three months in the country. Meanwhile, a social media ban for children is gaining momentum. Follow DW.",
       "url": "https://www.dw.com/en/germany-news-new-rules-aim-to-give-asylum-seekers-job-access/live-76076823?maca=en-rss-en-all-1573-xml-mrss",
@@ -1696,6 +1693,20 @@
       "is_ticker": false
     },
     {
+      "title": "Palestine Action activists reunited with family after granted bail",
+      "description": "12 Palestine Action activists, including hunger strikers, reunited with their families after they were granted bail.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/22/palestine-action-activists-reunited-with-family-after-granted-bail?traffic_source=rss",
+      "published": "Sun, 22 Feb 2026 12:33:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Palestine Action activists reunited with family after granted bail"
+    },
+    {
       "title": "Pakistan ‘kills dozens’ in air strikes on Afghanistan",
       "description": "Pakistan’s military has carried out air strikes in Afghanistan, targeting what it called 'camps and hideouts'.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/22/pakistan-kills-dozens-in-air-strikes-on-afghanistan?traffic_source=rss",
@@ -1733,6 +1744,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine strikes missile plant deep inside Russia"
+    },
+    {
+      "title": "Hungary threatens to block EU’s 20th Russia sanctions package over halted oil shipments",
+      "description": "Budapest has threatened to block a new package of European Union sanctions against Russia and to stall efforts to help Ukraine until Russian oil deliveries to Hungary resume",
+      "url": "https://abcnews.com/International/wireStory/hungary-threatens-block-eus-20th-russia-sanctions-package-130381734",
+      "published": "Sun, 22 Feb 2026 07:06:01 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Bus with Chinese tourists crashes through ice on Russia's Lake Baikal, killing 8",
@@ -1780,20 +1802,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israelis keep suitcases packed and ready as Trump weighs potential Iran strike decision"
-    },
-    {
-      "title": "UN Security Council moves up session on Gaza, West Bank ahead of Trump’s inaugural Board of Peace meeting",
-      "description": "The U.N. Security Council will hold a meeting on Gaza’s fragile ceasefire and expanding Israeli operations in the West Bank earlier to avoid clashing with President Trump’s meeting.",
-      "url": "https://www.foxnews.com/world/un-security-council-move-session-gaza-west-bank-ahead-trumps-inaugural-board-peace-meeting",
-      "published": "Wed, 18 Feb 2026 14:06:22 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UN Security Council moves up session on Gaza, West Bank ahead of Trump’s inaugural Board of Peace meeting"
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1865,7 +1873,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-22T11:47:35.086118Z",
+      "published": "2026-02-22T13:03:42.675188Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1907,20 +1915,9 @@
     },
     {
       "title": "High school senior facing more than 300 felony charges in alleged sextortion scheme targeting minors: reports",
-      "description": "Pennsylvania high school senior Zachariah Abraham Meyers faces over 300 felony charges after authorities allege he operated a 'criminal network' involving sextortion and catfishing.",
+      "description": "Pennsylvania high school senior Zachariah Abraham Meyers faces over 300 felony charges after authorities allege he operated a \"criminal network\" involving sextortion and catfishing.",
       "url": "https://www.foxnews.com/us/high-school-senior-facing-300-felony-charges-alleged-sextortion-scheme-targeting-minors-reports",
       "published": "Sat, 21 Feb 2026 22:43:47 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Repeat offender allegedly assaults hospital police officer just days after arrest at same facility: report",
-      "description": "North Carolina man Justin Wilkes allegedly assaulted police officer at ECU Health Medical Center in Greenville, facing charges including assault and disorderly conduct.",
-      "url": "https://www.foxnews.com/us/repeat-offender-allegedly-assaults-hospital-police-officer-just-days-after-arrest-same-facility-report",
-      "published": "Fri, 20 Feb 2026 18:41:02 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
@@ -1935,17 +1932,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How football is helping girls fight against forced marriage",
-      "description": "Two sisters in an Indian village talk about how football has changed their lives and helped them push back against child marriage.",
-      "url": "https://www.bbc.com/news/articles/cpv8r34mn0po?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 22 Feb 2026 00:30:41 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2069,20 +2055,6 @@
       "ticker_label": "💥 US ambassador's Israel comments condemned by Arab and Muslim nations"
     },
     {
-      "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
-      "description": "A Russian driver also died when their mini-bus plunged under the ice to the bottom of the lake in Siberia.",
-      "url": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Feb 2026 16:43:36 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal"
-    },
-    {
       "title": "Willie Colón, trombonist who pioneered salsa music, dies aged 75",
       "description": "His career spanned 60 years and dozens of albums and had been named among the most influential Latino artists of all time.",
       "url": "https://www.bbc.com/news/articles/c98qjed249do?at_medium=RSS&at_campaign=rss",
@@ -2103,6 +2075,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal",
+      "description": "A Russian driver also died when their mini-bus plunged under the ice to the bottom of the lake in Siberia.",
+      "url": "https://www.bbc.com/news/articles/czd8y96mldyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 21 Feb 2026 16:43:36 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Divers recover bodies of seven Chinese tourists from bottom of Lake Baikal"
     },
     {
       "title": "Anna Murdoch-Mann, writer and former News Corp director, dies aged 81",
@@ -2156,17 +2142,6 @@
       "description": "From Mahatma Gandhi's support for Palestine to Modi's Netanyahu embrace, how India's ties have evolved over the decades.",
       "url": "https://www.aljazeera.com/news/2026/2/22/modis-israel-visit-timeline-of-indias-relations-with-israel-palestine?traffic_source=rss",
       "published": "Sun, 22 Feb 2026 08:25:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How Russia has weaponised winter against people in Ukraine",
-      "description": "Russia has struck Ukraine's energy grid 2,500 times in four years, leaving millions without heat in freezing weather.",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/2/22/how-russia-has-weaponised-winter-against-people-in-ukraine?traffic_source=rss",
-      "published": "Sun, 22 Feb 2026 07:01:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2317,6 +2292,20 @@
       "is_ticker": false
     },
     {
+      "title": "China overtakes US as Germany’s top trading partner",
+      "description": "Friedrich Merz to meet Xi Jinping in Beijing, with goods worth €251bn traded between two countries in 2025 China has overtaken the US as Germany’s top trading partner, figures have shown, as the chancellor, Friedrich Merz, prepares for his first visit to Beijing since taking office. Merz will head to China on Tuesday and will be welcomed with military honours on Wednesday in Beijing by the prime minister, Li Qiang, before later meeting the president, Xi Jinping, for talks over dinner, his spokesperson Sebastian Hille said. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/feb/22/china-overtakes-us-as-germany-top-trading-partner",
+      "published": "Sun, 22 Feb 2026 10:51:40 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 China overtakes US as Germany’s top trading partner"
+    },
+    {
       "title": "Thailand moves to cut sugar in popular drinks amid health drive",
       "description": "Major chains agree to halve default sweetness, but street vendors and cafes remain outside sugar tax rules A crowd of customers, holding phones aloft, watch intently as Auntie Nid mixes up her bestseller: an iced Thai tea. Condensed milk is poured into a glass, followed by three heaped tablespoons of sugar, and then freshly strained tea. The end product – a deep orange, creamy treat – is poured into a plastic bag filled with ice. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/22/thailand-moves-to-cut-sugar-in-popular-drinks-amid-health-drive",
@@ -2342,7 +2331,7 @@
       "ticker_label": "💥 Australia will ‘examine all options’ to avoid new 15% tariffs announced by Donald Trump"
     },
     {
-      "title": "Danish military evacuates US submariner who needed urgent medical care off Greenland",
+      "title": "Danish military evacuates U.S. submariner who needed urgent medical care off Greenland",
       "description": "Denmark's military says its arctic command forces evacuated a crew member of a U.S. submarine off the coast of Greenland for urgent medical treatment.",
       "url": "https://www.npr.org/2026/02/22/nx-s1-5722796/danish-military-evacuates-us-submariner-medical-care-greenland",
       "published": "Sun, 22 Feb 2026 06:08:48 -0500",
@@ -2380,6 +2369,17 @@
       "url": "https://www.npr.org/2026/02/20/nx-s1-5719356/second-u-s-carrier-nears-middle-east-as-trump-pressures-iran-to-make-a-deal",
       "published": "Fri, 20 Feb 2026 07:21:56 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Arab, Muslim nations rebuke US envoy's Israel land claim",
+      "description": "Mike Huckabee, the US ambassador to Israel, suggested that Israel holds a biblical entitlement to a large portion of the Middle East.",
+      "url": "https://www.dw.com/en/arab-muslim-nations-rebuke-us-envoy-s-israel-land-claim/a-76077271?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 22 Feb 2026 12:09:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2441,11 +2441,11 @@
       "is_ticker": false
     },
     {
-      "title": "Russia to convert Gulag museum into Nazi crimes memorial",
-      "description": "The museum was one of the last institutions dedicated to documenting Soviet-era political repression in Russia.",
-      "url": "https://www.dw.com/en/russia-to-convert-gulag-museum-into-nazi-crimes-memorial/a-76068581?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 21 Feb 2026 04:51:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "France to summon US ambassador over comments on slain far-right activist, foreign minister says",
+      "description": "France will summon the US ambassador ​to ‌France, Charles ⁠Kushner, over comments on ‌the killing of a French far-right ⁠activist Quentin Deranque last week, French Foreign ​Minister Jean-Noël Barrot said ​on Sunday",
+      "url": "https://www.france24.com/en/france/20260222-france-to-summon-us-ambassador-over-comments-on-slain-far-right-activist-foreign-minister-says",
+      "published": "Sun, 22 Feb 2026 11:52:07 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2485,7 +2485,7 @@
       "is_ticker": false
     },
     {
-      "title": "Freestyle skier Zoe Atkin wins bronze in record-equalling medal haul for Team GB at Winter Olympics",
+      "title": "Team GB win record-equalling medal haul at Winter Olympics",
       "description": "Freestyle skier Zoe Atkin has won a bronze medal in the women's halfpipe final at the Winter Olympics in Italy.",
       "url": "https://news.sky.com/story/freestyle-skier-zoe-atkin-wins-bronze-in-record-equalling-medal-haul-for-team-gb-at-winter-olympics-13510348",
       "published": "Sat, 21 Feb 2026 15:40:00 +0000",
@@ -2523,6 +2523,17 @@
       "url": "https://news.sky.com/story/thousands-march-in-lyon-after-killing-of-far-right-activist-quentin-deranque-13510594",
       "published": "Sat, 21 Feb 2026 21:13:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Display of St. Francis of Assisi's bones confirms enduring appeal of relics for Christians",
+      "description": "The bones of St. Francis of Assisi have gone on public display for the first time",
+      "url": "https://abcnews.com/International/wireStory/display-st-francis-assisis-bones-confirms-enduring-appeal-130382015",
+      "published": "Sun, 22 Feb 2026 07:49:14 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2584,22 +2595,22 @@
       "is_ticker": false
     },
     {
-      "title": "Barcelona's Sagrada Familia reaches its maximum height after more than a century",
-      "description": "Barcelona’s Sagrada Familia church has reached its maximum height with the placement of a cross on its central Tower of Jesus Christ",
-      "url": "https://abcnews.com/International/wireStory/barcelonas-sagrada-familia-reach-peak-completion-soaring-central-130331254",
-      "published": "Fri, 20 Feb 2026 09:30:55 -0500",
-      "source": "ABC News International",
+      "title": "Grain ATMs and hunger maps: AI innovations spotlighted at UN agency showcase in India",
+      "description": "Artificial intelligence solutions that transform the way food assistance reaches people facing hunger were on display during an exhibition at an AI meeting this week in New Delhi, India.",
+      "url": "https://news.un.org/feed/view/en/story/2026/02/1166992",
+      "published": "Wed, 18 Feb 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "Grain ATMs and hunger maps: AI innovations spotlighted at UN agency showcase in India",
-      "description": "Artificial intelligence solutions that transform the way food assistance reaches people facing hunger were on display during an exhibition at an AI meeting this week in New Delhi, India.",
-      "url": "https://news.un.org/feed/view/en/story/2026/02/1166992",
-      "published": "Wed, 18 Feb 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Former FBI agent offers new theory about Nancy Guthrie's disappearance: 'Personal grievance'",
+      "description": "Nancy Guthrie's disappearance could have been motivated by a suspect with a personal grievance against her, a 25-year former FBI agent from Colorado said.",
+      "url": "https://www.foxnews.com/us/former-fbi-agent-offers-new-theory-about-nancy-guthries-disappearance-personal-grievance",
+      "published": "Sun, 22 Feb 2026 08:00:08 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2670,20 +2681,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Ukraine makes fastest gains in years as Russia talks stall, exploiting cracks in Kremlin command",
-      "description": "Ukrainian forces exploit Russian communication disruptions to mount successful counteroffensive east of Zaporizhzhia, pushing back enemy advances.",
-      "url": "https://www.foxnews.com/world/ukraine-makes-fastest-gains-years-russia-talks-stall-exploiting-cracks-kremlin-command",
-      "published": "Wed, 18 Feb 2026 12:16:16 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine makes fastest gains in years as Russia talks stall, exploiting cracks in Kremlin command"
     }
   ],
   "ticker_config": {
