@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-26T08:57:20.082471Z",
+  "last_updated": "2026-02-26T09:59:48.469933Z",
   "event_count": 222,
   "events": [
     {
@@ -17,18 +17,18 @@
       "ticker_label": "🪖 Trump issues stern Iran warning as Tehran angrily reacts to speech amid muted world reaction"
     },
     {
-      "title": "Death toll in Brazilian floods rises to 46 as rescuers continue search",
-      "description": "Emergency workers continue to search for missing residents of towns reeling from recent floods.",
-      "url": "https://www.aljazeera.com/news/2026/2/26/death-toll-in-brazilian-floods-rises-to-46-as-rescuers-continue-search?traffic_source=rss",
-      "published": "Thu, 26 Feb 2026 00:47:51 +0000",
-      "source": "Al Jazeera",
+      "title": "Cuban government says 4 killed on boat were trying to infiltrate the country",
+      "description": "Cuba's government says the 10 people on a Florida-registered boat that opened fire on its soldiers were terrorists trying to infiltrate the island. The country says its forces killed four people.",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5726865/cuban-government-says-4-killed-on-boat-were-trying-to-infiltrate-the-country",
+      "published": "Thu, 26 Feb 2026 04:41:10 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 40,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Death toll in Brazilian floods rises to 46 as rescuers continue search"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Cuban government says 4 killed on boat were trying to infiltrate the country"
     },
     {
       "title": "Cuba says 4 killed in speedboat shooting were attempting to infiltrate the country",
@@ -318,8 +318,8 @@
       "ticker_label": "🌪️ ‘A devastating force’: how recent Mediterranean storms turned to tragedies"
     },
     {
-      "title": "World Central Kitchen calls international community not to forget Kyiv and Gaza",
-      "description": "Today in Spotlight, we speak with celebrity Chef José Andrés. The founder of World Food Kitchen talks of his Longer Tables Fund's matching donations to support critical energy infrastructure in Ukraine, Gaza where his charity provides one million hot meals a day... and more.",
+      "title": "World Central Kitchen urges international community not to forget Ukraine and Gaza",
+      "description": "In this edition of Spotlight, we speak with celebrity chef José Andrés. The founder of World Food Kitchen tells us about his Longer Tables Fund matching donations to support critical energy infrastructure in Ukraine, as well as the situation in Gaza, where his charity provides 1 million hot meals a day.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260225-world-central-kitchen-calls-international-community-not-to-forget-kyiv",
       "published": "Wed, 25 Feb 2026 18:26:07 GMT",
       "source": "France24",
@@ -376,17 +376,6 @@
       "url": "https://www.npr.org/2026/02/26/g-s1-111592/fifas-infantino-confident-mexico-can-co-host-world-cup-despite-cartel-violence",
       "published": "Thu, 26 Feb 2026 01:37:06 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "World Cup fans visiting Mexico face 'no risk' after cartel violence, says president",
-      "description": "Mexico's president has insisted there is \"no risk\" to fans coming to the country for the 2026 FIFA World Cup, after the killing of a cartel boss sparked days of violence.",
-      "url": "https://news.sky.com/story/world-cup-fans-visiting-mexico-face-no-risk-after-cartel-violence-says-president-13511873",
-      "published": "Wed, 25 Feb 2026 09:20:00 +0000",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical",
@@ -488,10 +477,10 @@
       "ticker_label": "🪖 'Fear is everywhere': BBC reports from Mexican city turned into war zone by drug cartel feud"
     },
     {
-      "title": "US and Iran to hold talks as pressure for nuclear deal builds",
-      "description": "The indirect negotiations are seen as a last-ditch effort to prevent a conflict, but the chances of a nuclear agreement are unclear.",
+      "title": "US and Iran begin talks seen as crucial to prevent conflict",
+      "description": "The indirect negotiations are seen as a last-ditch effort, but the chances of a nuclear agreement are unclear.",
       "url": "https://www.bbc.com/news/articles/cvg1vd95nl9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Feb 2026 00:09:47 GMT",
+      "published": "Thu, 26 Feb 2026 09:53:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 18,
@@ -538,6 +527,31 @@
       "ticker_label": "🪖 Iran’s shadowy chemical weapons program draws scrutiny as reports allege use against protesters"
     },
     {
+      "title": "UN approves first carbon credits under Paris Agreement market mechanism",
+      "description": "Paris Agreement's carbon credits enable cross-border trade to support emissions reduction and climate goals worldwide.",
+      "url": "https://www.aljazeera.com/news/2026/2/26/un-approves-first-carbon-credits-under-paris-agreement-market-mechanism?traffic_source=rss",
+      "published": "Thu, 26 Feb 2026 09:21:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Kim Jong Un warns North Korea could 'completely destroy' South if threatened",
+      "description": "North Korea's leader has warned his country could \"initiate arbitrary action\" and \"completely destroy\" South Korea if its security was threatened.",
+      "url": "https://news.sky.com/story/kim-jong-un-warns-north-korea-could-completely-destroy-south-if-threatened-13512338",
+      "published": "Thu, 26 Feb 2026 08:01:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kim Jong Un warns North Korea could 'completely destroy' South if threatened"
+    },
+    {
       "title": "Mexico says Jalisco security situation 'stabilized,' flights resuming after Americans stranded",
       "description": "Mexico reports Jalisco security stabilized after cartel violence following kingpin \"El Mencho's\" reported death, with flights resuming to Puerto Vallarta.",
       "url": "https://www.foxnews.com/world/mexico-says-jalisco-security-situation-stabilized-flights-resuming-after-americans-stranded",
@@ -563,20 +577,6 @@
       "ticker_label": "🪖 Greetings from Jordan's Wadi Rum desert, where patches of green emerge after winter rains"
     },
     {
-      "title": "Live: Russia slams Ukraine with missiles and drones ahead of US-Ukraine talks",
-      "description": "Russia attacked ⁠Ukraine with missiles ​and drones overnight, injuring about 20 people, according to local authorities, as the US and Ukraine were set to open a new round of talks in Geneva on Thursday aimed at ending the war. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/europe/20260226-live-russia-ukraine-missiles-drones-us-ukraine-talks",
-      "published": "Thu, 26 Feb 2026 06:46:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Live: Russia slams Ukraine with missiles and drones ahead of US-Ukraine talks"
-    },
-    {
       "title": "Kim says North Korea could ‘get along’ with US, rebuffs closer ties with Seoul",
       "description": "North Korean leader Kim Jong Un said on Thursday that Pyongyang could improve relations with Washington if its nuclear status is respected, while hardening his stance on Seoul by labelling it the country’s “most hostile” enemy. His remarks come amid speculation over a possible meeting with US President Donald Trump.",
       "url": "https://www.france24.com/en/asia-pacific/20260226-kim-signals-openness-to-us-ties-while-calling-south-korea-most-hostile",
@@ -586,6 +586,20 @@
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Rubio warns of Iran’s missile threat ahead of US-Iran talks",
+      "description": "US Secretary of State Marco Rubio said Iran possesses a large number of ballistic missiles that pose a threat to the US.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/26/rubio-warns-of-irans-missile-threat-ahead-of-us-iran-talks?traffic_source=rss",
+      "published": "Thu, 26 Feb 2026 09:09:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Rubio warns of Iran’s missile threat ahead of US-Iran talks"
     },
     {
       "title": "US to allow Venezuelan oil sales to Cuba as alarm grows in the Caribbean",
@@ -656,6 +670,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Berlinale director could be dismissed amid polarized Gaza debate: reports"
+    },
+    {
+      "title": "Kenyan police arrest man accused of recruiting fighters for Russia's war in Ukraine",
+      "description": "Police in Kenya say they arrested a man named in the alleged scheme that duped Kenyans with promises of skilled work in Russia that saw them end up on the front lines of the fighting in Ukraine",
+      "url": "https://abcnews.com/International/wireStory/kenyan-police-arrest-man-accused-recruiting-fighters-russias-130518425",
+      "published": "Thu, 26 Feb 2026 04:09:44 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kenyan police arrest man accused of recruiting fighters for Russia's war in Ukraine"
     },
     {
       "title": "World News in Brief: Arab economies rise, rights experts call for police reform in India, Ukraine school closures, Myanmar airstrikes",
@@ -794,20 +822,6 @@
       "is_ticker": false
     },
     {
-      "title": "Fact check: Trump's State of the Union address debunked",
-      "description": "US President Donald Trump delivered the longest State of the Union speech in modern history with statements on the economy, migration as well as bold claims about how he's ended wars. A DW Fact check.",
-      "url": "https://www.dw.com/en/fact-check-trump-s-state-of-the-union-address-debunked/a-76117703?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 25 Feb 2026 13:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Fact check: Trump's State of the Union address debunked"
-    },
-    {
       "title": "Myriad fragments, one tragedy: How four years of war changed Ukraine",
       "description": "Although fighting had been raging in the east of Ukraine since Russia's invasion of Crimea in 2014, most in the country did not believe all-out war would occur. With the full-scale invasion now reaching the four-year mark, many Ukrainians cannot believe it has gone on for so long, with no end in sight.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167019",
@@ -862,17 +876,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Swiss bar fire victims to get solidarity payout"
-    },
-    {
-      "title": "Trump keeps world waiting on his plans for Iran after State of the Union",
-      "description": "The next round of talks between the US and Iran in Geneva on Thursday could be decisive in the president's decision-making.",
-      "url": "https://www.bbc.com/news/articles/cge821xwyz8o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 25 Feb 2026 15:16:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Switzerland bar fire victims to receive one-off payment",
@@ -958,7 +961,7 @@
       "is_ticker": false
     },
     {
-      "title": "US-Iran talks live: Nuclear talks to kick off in Geneva amid tensions",
+      "title": "US-Iran talks live: Nuclear talks kick off in Geneva amid tensions",
       "description": "Third round of indirect negotiations to take place amid a massive US military build-up in the Middle East.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/2/26/us-iran-talks-live-nuclear-talks-to-kick-off-in-geneva-amid-tensions?traffic_source=rss",
       "published": "Thu, 26 Feb 2026 05:09:08 +0000",
@@ -980,10 +983,10 @@
       "is_ticker": false
     },
     {
-      "title": "Modi's Israel trip tests India's Middle East balancing act",
-      "description": "As India's defense ties with Israel grow and the Gaza conflict casts a long shadow, Indian Prime Minister Narendra Modi visits Tel Aviv. The trip tests India's bid for strategic gains amid rising regional tensions.",
-      "url": "https://www.dw.com/en/modi-s-israel-trip-tests-india-s-middle-east-balancing-act/a-76118023?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 25 Feb 2026 13:00:00 GMT",
+      "title": "Beyond oil and gas: Russia's nuclear leverage explained",
+      "description": "Russian oil and gas face sanctions, but nuclear energy is another story. DW shows how far Russia's influence extends, and why countries continue to turn to it for nuclear energy.",
+      "url": "https://www.dw.com/en/beyond-oil-and-gas-russia-s-nuclear-leverage-explained/a-75949106?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 26 Feb 2026 08:59:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
@@ -1166,17 +1169,6 @@
       "is_ticker": false
     },
     {
-      "title": "AI is developing so fast it is becoming hard to measure",
-      "description": "Some days it can seem as if the whole of the tech world is hanging on the latest update to one graph.",
-      "url": "https://news.sky.com/story/ai-is-developing-so-fast-it-is-becoming-hard-to-measure-experts-say-13512068",
-      "published": "Wed, 25 Feb 2026 14:08:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Israeli soldiers shot a Palestinian boy and stood around as he bled to death, video shows",
       "description": "Israeli forces blocked Palestinian ambulances while a 14-year-old lay bleeding for at least 45 minutes.",
       "url": "https://www.bbc.com/news/articles/cpqwv9vvzx9o?at_medium=RSS&at_campaign=rss",
@@ -1197,6 +1189,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Is Ethiopia heading back to war in Tigray?",
+      "description": "Many people are again leaving the region of Tigray just over three years after the civil war there ended.",
+      "url": "https://www.bbc.com/news/articles/cwygrnjz9wro?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Feb 2026 00:47:10 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Is Ethiopia heading back to war in Tigray?"
     },
     {
       "title": "Ramadan in Iraq’s Mosul: Living traditions between past and present",
@@ -1222,20 +1228,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Russia-Ukraine war: List of key events, day 1,463",
-      "description": "These are the key developments from day 1,463 of Russia’s war on Ukraine.",
-      "url": "https://www.aljazeera.com/news/2026/2/26/russia-ukraine-war-list-of-key-events-day-1463?traffic_source=rss",
-      "published": "Thu, 26 Feb 2026 00:43:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia-Ukraine war: List of key events, day 1,463"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1288,17 +1280,6 @@
       "ticker_label": "🪖 Former U.S. ambassador to Ukraine reflects on 4th anniversary of war with Russia"
     },
     {
-      "title": "DOJ hides Trump-related Epstein files. And, what to know for the State of the Union",
-      "description": "An NPR investigation found that the DOJ withheld some Epstein files related to abuse allegations against Trump. And, what you need to know ahead of the president's State of the Union address tonight.",
-      "url": "https://www.npr.org/2026/02/24/g-s1-111316/up-first-newsletter-trump-sotu-mexico-cartel-epstein-files",
-      "published": "Tue, 24 Feb 2026 07:19:03 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US: Trump administration pauses Minnesota health funds",
       "description": "US Vice President JD Vance has announced a halt in Medicaid health payments to Minnesota, a day after President Donald Trump put him in charge of a \"war on fraud.\"",
       "url": "https://www.dw.com/en/us-trump-administration-pauses-minnesota-health-funds/a-76128417?maca=en-rss-en-all-1573-xml-mrss",
@@ -1327,7 +1308,21 @@
       "ticker_label": "🚨 Suspect arrested in Germany in 2025 Ukrainian aide's killing"
     },
     {
-      "title": "Live: US-Iran to hold third round of talks as Trump deploys warships in Mideast",
+      "title": "Live: Ukraine, Russia exchange bodies of slain soldiers ahead of US-Ukraine talks",
+      "description": "Russia handed over the remains of 1,000 Ukrainian soldiers to Kyiv, a Moscow official said Thursday, with Ukraine returning the bodies of 35 Russians in exchange. The exchange, one of many since Russia's full-scale invasion, came as the US and Ukraine were set to open a new round of talks in Geneva aimed at ending the war. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/europe/20260226-live-russia-ukraine-missiles-drones-us-ukraine-talks",
+      "published": "Thu, 26 Feb 2026 06:46:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Live: Ukraine, Russia exchange bodies of slain soldiers ahead of US-Ukraine talks"
+    },
+    {
+      "title": "Live: US-Iran hold third round of talks as Trump deploys warships in Mideast",
       "description": "Iran and the US are holding the third round of indirect talks in Geneva Thursday as President Donald Trump ramps up pressure on Tehran with a massive deployment of military aircraft and warships to the Middle East. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260226-live-us-iran-third-round-talks-trump-warships-mideast",
       "published": "Thu, 26 Feb 2026 06:07:38 GMT",
@@ -1338,11 +1333,11 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Live: US-Iran to hold third round of talks as Trump deploys warships in Mideast"
+      "ticker_label": "🪖 Live: US-Iran hold third round of talks as Trump deploys warships in Mideast"
     },
     {
       "title": "Senegal PM vows to double penalty for same-sex relations",
-      "description": "In tonight's edition, Washington is set to cut health aid to Zimbabwe after negotiations over a US-proposed funding deal break down. Also, Senegalese Prime Minister Ousmane Sonko announces revamped legislation set to double the maximum penalty for same-sex relations to 10 years in prison. And on a rare visit to Kyiv, Ghana’s foreign minister calls for the release of two Ghanaian prisoners of war captured while fighting for Russia in Ukraine.",
+      "description": "In tonight's edition: Senegalese Prime Minister Ousmane Sonko announces revamped legislation set to double the maximum penalty for same-sex relations to 10 years in prison. But first: Washington is set to cut health aid to Zimbabwe after negotiations over a US-proposed funding deal break down. And on a rare visit to Kyiv, Ghana’s foreign minister calls for the release of two Ghanaian prisoners of war who were captured while fighting for Russia in Ukraine.",
       "url": "https://www.france24.com/en/zimbabwe-ends-health-funding-talks-with-us",
       "published": "Wed, 25 Feb 2026 21:44:50 GMT",
       "source": "France24",
@@ -1571,17 +1566,6 @@
       "is_ticker": false
     },
     {
-      "title": "US judge rules Trump policy of ‘third country’ deportations unlawful",
-      "description": "US judge says that rapid deportation of migrants to countries other than their own violates due process.",
-      "url": "https://www.aljazeera.com/news/2026/2/25/us-judge-rules-trump-policy-of-third-country-deportations-unlawful?traffic_source=rss",
-      "published": "Wed, 25 Feb 2026 23:59:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1615,9 +1599,31 @@
       "is_ticker": false
     },
     {
-      "title": "France resists as MAGA tries to get its grip on national politics",
+      "title": "Father of U.S.-based activist sentenced in Hong Kong under national security law",
+      "description": "A court on Thursday used Hong Kong's national security law to jail Kwok Yin-sang for eight months, in the first case against a family member of an activist living abroad, and wanted by authorities.",
+      "url": "https://www.npr.org/2026/02/26/nx-s1-5727437/father-activist-sentenced-hong-kong",
+      "published": "Thu, 26 Feb 2026 04:18:04 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Hong Kong: Jimmy Lai fraud conviction overturned",
+      "description": "A Hong Kong appeals court has ruled that prosecutors failed to prove democracy advocate Lai had committed rent fraud. The former publisher nevertheless remains behind bars on other national security charges.",
+      "url": "https://www.dw.com/en/hong-kong-jimmy-lai-fraud-conviction-overturned/a-76130658?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 26 Feb 2026 09:41:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "France pushes back against MAGA political meddling",
       "description": "A French magistrate recently went public about how US envoys had tried to interfere in French national politics. Experts say it is clear that France is a target of disinformation strategies.",
-      "url": "https://www.dw.com/en/france-resists-as-maga-tries-to-get-its-grip-on-national-politics/a-76122972?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/france-pushes-back-against-maga-political-meddling/a-76122972?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 26 Feb 2026 06:08:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1626,7 +1632,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 France resists as MAGA tries to get its grip on national politics"
+      "ticker_label": "💥 France pushes back against MAGA political meddling"
     },
     {
       "title": "Hungary's Orban accuses Kyiv of plotting energy disruption",
@@ -1822,6 +1828,17 @@
       "ticker_label": "🪖 Ukraine's Zelenskyy: Russia trying 'to play' game with Trump, stall peace talks"
     },
     {
+      "title": "Near-blind Rohingya refugee dies after US agents left him far from home",
+      "description": "Nurul Amin Shah Alam, 56, was a nearly blind Rohingya refugee from Rakhine state in Myanmar, family members said.",
+      "url": "https://www.aljazeera.com/news/2026/2/26/near-blind-rohingya-refugee-dies-after-us-agents-left-him-far-from-home?traffic_source=rss",
+      "published": "Thu, 26 Feb 2026 08:39:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "UK far-right activist Tommy Robinson talks up US State Department visit",
       "description": "Robinson is notorious in the UK where he has been accused of promoting hatred against Muslims and migrants.",
       "url": "https://www.aljazeera.com/news/2026/2/26/uk-far-right-activist-tommy-robinson-talks-up-us-state-department-visit?traffic_source=rss",
@@ -1902,7 +1919,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-02-26T08:56:59.219632Z",
+      "published": "2026-02-26T09:59:27.962090Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -1997,6 +2014,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Germany’s Merz eyes business opportunities at Chinese tech hub in Hangzhou",
+      "description": "German chancellor visits eastern city, home to AI firm DeepSeek and e-commerce giant Alibaba, with business leaders.",
+      "url": "https://www.aljazeera.com/news/2026/2/26/germanys-merz-eyes-business-opportunities-at-chinese-tech-hub-in-hangzhou?traffic_source=rss",
+      "published": "Thu, 26 Feb 2026 08:39:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2165,17 +2193,6 @@
       "description": "US Justice Department accuses former Air Force officer Gerald Brown of training Chinese military pilots.",
       "url": "https://www.aljazeera.com/news/2026/2/26/former-us-f-35-fighter-pilot-arrested-for-training-chinese-air-force?traffic_source=rss",
       "published": "Thu, 26 Feb 2026 02:23:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Questions for Marcos Jr 40 years after Philippines ‘People Power’ revolt",
-      "description": "President Ferdinand Marcos Jr urged to dismantle system of political dynasties said to breed culture of corruption.",
-      "url": "https://www.aljazeera.com/features/2026/2/25/questions-for-marcos-jr-40-years-after-philippines-people-power-revolt?traffic_source=rss",
-      "published": "Wed, 25 Feb 2026 23:31:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2359,17 +2376,6 @@
       "is_ticker": false
     },
     {
-      "title": "The Louvre Museum's director has resigned in the wake of October's brazen jewel heist",
-      "description": "French President Emmanuel Macron accepted Laurence des Cars' resignation as \"an act of responsibility\" at a moment when the Louvre needs security upgrades, modernization and other major projects.",
-      "url": "https://www.npr.org/2026/02/24/g-s1-111343/france-paris-louvre-museum-heist-director-resigns",
-      "published": "Tue, 24 Feb 2026 14:19:19 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Modi: India stands with Israel 'with full conviction'",
       "description": "Indian Prime Minister Modi is on a two-day visit to Israel and gave a speech at the Knesset. Modi hailed the relationship between the two countries, with Prime Minister Netanyahu calling him a \"brother.\"",
       "url": "https://www.dw.com/en/modi-india-stands-with-israel-with-full-conviction/a-76121546?maca=en-rss-en-all-1573-xml-mrss",
@@ -2406,6 +2412,17 @@
       "ticker_label": "💥 Chagos Islands deal sows confusion over UK minister remarks"
     },
     {
+      "title": "PSG fight back against Monaco to reach Champions League round of 16",
+      "description": "PSG once again showed moments of weakness but ultimately prevailed as the European champions advanced to the Champions League round of 16 after a 2-2 draw at home against 10-man Monaco (5-4 on aggregate). They will face either Barcelona or Chelsea in the round of 16, with the draw scheduled for Friday.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260226-psg-fight-back-against-monaco-to-reach-champions-league-round-of-16",
+      "published": "Thu, 26 Feb 2026 09:15:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "UN approves first carbon credit to Myanmar woodstove project",
       "description": "The UN on Thursday announced the approval of the first carbon credits to a South Korean company distributing efficient wood-burning cookstoves in Myanmar. The UN-run market, established under the Paris climate accord, allows companies and countries to offset their excess emissions by financing projects that cut greenhouse gases in other nations.",
       "url": "https://www.france24.com/en/environment/20260226-un-approves-first-carbon-credit-to-myanmar-woodstove-project",
@@ -2428,11 +2445,11 @@
       "is_ticker": false
     },
     {
-      "title": "Former Brazil lawmakers convicted of ordering murder of Rio councilwoman Marielle Franco",
-      "description": "Two former politicians were convicted by Brazil’s Supreme Court on Wednesday of ordering the 2018 assassination of Rio de Janeiro councilwoman and activist Marielle Franco, whose murder exposed a web of corruption linking political figures to organised crime.",
-      "url": "https://www.france24.com/en/americas/20260225-brazil-politicians-convicted-for-ordering-murder-of-black-activist-councilor",
-      "published": "Wed, 25 Feb 2026 17:57:12 GMT",
-      "source": "France24",
+      "title": "Jimmy Lai's fraud conviction quashed but he remains in jail",
+      "description": "British pro-democracy campaigner Jimmy Lai has been cleared of fraud charges.",
+      "url": "https://news.sky.com/story/jimmy-lais-fraud-conviction-quashed-but-he-remains-in-jail-in-china-13512307",
+      "published": "Thu, 26 Feb 2026 06:30:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2498,17 +2515,6 @@
       "description": "Norway’s king will remain in a hospital for a few more days for treatment and observation after being admitted during a vacation on the Spanish island of Tenerife",
       "url": "https://abcnews.com/International/wireStory/norwegian-king-remain-spanish-hospital-days-doctor-130493457",
       "published": "Wed, 25 Feb 2026 11:37:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Cambodian opposition politician convicted of inciting social disorder gets early prison release",
-      "description": "Cambodia has freed opposition politician Sun Chanthy early after King Norodom Sihamoni granted him a royal pardon",
-      "url": "https://abcnews.com/International/wireStory/cambodian-opposition-politician-convicted-inciting-social-disorder-gets-130492302",
-      "published": "Wed, 25 Feb 2026 11:05:44 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
