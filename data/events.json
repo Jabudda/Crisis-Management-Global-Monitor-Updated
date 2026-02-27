@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T08:20:16.149361Z",
+  "last_updated": "2026-02-27T08:49:08.670629Z",
   "event_count": 221,
   "events": [
     {
@@ -238,20 +238,6 @@
       "ticker_label": "🪖 Russia warns against 'provocative actions' around Cuba after 4 killed onboard US-registered speedboat"
     },
     {
-      "title": "Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager",
-      "description": "One killed and 29 others wounded in latest Israeli attack in violation of ceasefire.",
-      "url": "https://www.aljazeera.com/news/2026/2/26/israeli-attacks-on-lebanons-bekaa-valley-kill-syrian-teenager?traffic_source=rss",
-      "published": "Thu, 26 Feb 2026 21:44:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli attacks on Lebanon’s Bekaa Valley kill Syrian teenager"
-    },
-    {
       "title": "Human rights situation in Colombia is backsliding, UN warns as nation heads into elections",
       "description": "The United Nations warns Colombia risks sliding back into a harsh human rights crisis as rural violence surges and threatens upcoming elections",
       "url": "https://abcnews.com/International/wireStory/human-rights-situation-colombia-backsliding-warns-nation-heads-130521092",
@@ -345,6 +331,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Pakistan's defense minister says that there is now 'open war' with Afghanistan after latest strikes"
+    },
+    {
+      "title": "Iranian agents obstructed care at hospitals packed with wounded protesters",
+      "description": "Iranian doctors say that during last month's deadly crackdown on nationwide protests, security agents swarmed hospitals in multiple cities, hunting for wounded protesters",
+      "url": "https://abcnews.com/International/wireStory/iranian-agents-obstructed-care-hospitals-packed-wounded-protesters-130556656",
+      "published": "Fri, 27 Feb 2026 03:46:31 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iranian agents obstructed care at hospitals packed with wounded protesters"
     },
     {
       "title": "Pakistan’s defense minister says that there is now 'open war' with Afghanistan after latest strikes",
@@ -620,6 +620,20 @@
       "is_ticker": false
     },
     {
+      "title": "Germany news: Strikes hit public transport across country",
+      "description": "German commuters are facing transport misery with local bus and tram strikes across the country. However, there's been good news for travelers who take trains with national rail operator Deutsche Bahn. DW has the latest.",
+      "url": "https://www.dw.com/en/germany-news-strikes-hit-public-transport-across-country/live-76144424?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Feb 2026 08:21:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Germany news: Strikes hit public transport across country"
+    },
+    {
       "title": "AI firm Anthropic rejects unrestricted US military use",
       "description": "Anthropic fears the unrestricted military use of its AI systems by the US government may harm democracy. Military officials have threatened to invoke Cold War-era legislation to force Anthropic to comply.",
       "url": "https://www.dw.com/en/ai-firm-anthropic-rejects-unrestricted-us-military-use/a-76143608?maca=en-rss-en-all-1573-xml-mrss",
@@ -727,7 +741,7 @@
     },
     {
       "title": "Make or break talks? Iran looks to sway Trump and avoid US strikes",
-      "description": "What would it take for Donald Trump to call off air strikes against an Iran that’s told Omani mediators that it sees a pathway to compromise over its nuclear program? We’ll delve into where the veteran Tehran's team of veteran negotiators can entice US envoy Steve Witkoff whose red lines sometimes include the Islamic Republic’s missile program, sometimes less so.",
+      "description": "What would it take for Donald Trump to call off air strikes against an Iran that's told Omani mediators that it sees a pathway to compromise over its nuclear program? We delve into where the veteran Tehran's team of veteran negotiators can entice US envoy Steve Witkoff, whose red lines sometimes include the Islamic Republic’s missile programme, sometimes less so.",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260226-make-or-break-talks-iran-looks-to-sway-trump-and-avoid-us-strikes",
       "published": "Thu, 26 Feb 2026 19:17:18 GMT",
       "source": "France24",
@@ -886,17 +900,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Will Germany elect a woman as head of state?"
-    },
-    {
-      "title": "Danish PM calls snap election after surge in support over Greenland crisis",
-      "description": "Denmark's Prime Minister Mette Frederiksen has announced the country will hold an early election next month.",
-      "url": "https://news.sky.com/story/danish-pm-calls-snap-election-after-surge-in-support-over-greenland-crisis-13512506",
-      "published": "Thu, 26 Feb 2026 13:27:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Myriad fragments, one tragedy: How four years of war changed Ukraine",
@@ -1074,6 +1077,17 @@
       "url": "https://www.npr.org/2026/02/26/g-s1-111619/up-first-newsletter-iran-nuclear-talks-harvard-larry-summers-epstein-cuba-ice-polling-locations",
       "published": "Thu, 26 Feb 2026 07:19:29 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran and US compromise over nuclear stockpile - but Trump's window for action grows smaller",
+      "description": "Iran has agreed to never stockpile nuclear material and will reduce its current stockpile to \"almost nothing\", according to sources close to the high-stakes talks which took place with the US in Geneva on Thursday.",
+      "url": "https://news.sky.com/story/iran-and-us-compromise-over-nuclear-stockpile-but-trumps-window-for-action-grows-smaller-by-the-day-13512828",
+      "published": "Fri, 27 Feb 2026 06:35:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1294,8 +1308,8 @@
       "is_ticker": false
     },
     {
-      "title": "Walid Regragui set to step down as Morocco era nears its end",
-      "description": "Worn down after four years in charge of Morocco, Walid Regragui is expected to step down with the World Cup now less than four months away. The Moroccan federation, which met on Thursday, is likely to announce Regragui's successor soon. The leading candidate is Mohamed Ouahbi, currently in charge of the nation’s U20 world champion side.",
+      "title": "Walid Regragui set to step down as Morocco coach",
+      "description": "Worn down after four years as Morocco coach, Walid Regragui is expected to step down, with the World Cup now less than four months away. The Moroccan federation, which met on Thursday, is likely to announce Regragui's successor soon. The leading candidate is Mohamed Ouahbi, who's currently in charge of the nation’s U20 world champion side.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260227-walid-regragui-set-to-step-down-as-morocco-era-nears-end",
       "published": "Fri, 27 Feb 2026 06:56:10 GMT",
       "source": "France24",
@@ -1570,20 +1584,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine says Russia launched a major aerial attack ahead of Geneva talks with US"
-    },
-    {
-      "title": "Kenyan police arrest man accused of recruiting fighters for Russia's war in Ukraine",
-      "description": "Police in Kenya say they have arrested a suspect in an alleged scheme that tricked Kenyans to fight in Ukraine on the side of the Russians",
-      "url": "https://abcnews.com/International/wireStory/kenyan-police-arrest-man-accused-recruiting-fighters-russias-130518425",
-      "published": "Thu, 26 Feb 2026 08:17:49 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Kenyan police arrest man accused of recruiting fighters for Russia's war in Ukraine"
     },
     {
       "title": "Humanitarian pressures grow as Cuba continues to struggle with energy shortages",
@@ -1876,6 +1876,17 @@
       "is_ticker": false
     },
     {
+      "title": "Mass graves with 171 bodies found in eastern DR Congo: Report",
+      "description": "A local governor says authorities found two mass graves in the outskirts of the eastern city of Uvira.",
+      "url": "https://www.aljazeera.com/news/2026/2/27/mass-graves-with-171-bodies-found-in-eastern-dr-congo-report?traffic_source=rss",
+      "published": "Fri, 27 Feb 2026 08:35:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Royal Artillery under fire after denying access to looted Asante treasure",
       "description": "‘Extraordinary’ golden lamb’s head pillaged in 1874 from what is now Ghana remains hidden in officers’ mess The Royal Artillery is facing criticism after it emerged they are refusing public access to an “extraordinary object” looted by the British army in the 19th century from the Asante people in modern-day Ghana. The glistening golden ram’s head would seemingly be worthy of any museum, but it remains hidden within the regiment’s mess at Larkhill in Wiltshire. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/feb/24/royal-artillery-access-looted-asante-treasure-ghana",
@@ -1964,6 +1975,17 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Former NSW MP Rory Amon tells court 13-year-old boy said he was 17 before alleged sexual abuse",
+      "description": "Former state Liberal MP begins his evidence after pleading not guilty to 10 charges for various sexual acts Get our breaking news email , free app or daily news podcast A former state Liberal MP accused of having sex with a 13-year-old boy in a car park toilet has claimed in court the boy told him he was 17 . Rory Amon, 36, began his evidence in his New South Wales supreme court trial after pleading not guilty to 10 charges for various sexual acts against the young teen in 2017. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/feb/27/former-nsw-mp-rory-amon-tells-court-13-year-old-boy-said-he-was-17-before-alleged-sexual-abuse-ntwnfb",
+      "published": "Fri, 27 Feb 2026 08:13:56 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2117,17 +2139,6 @@
       "description": "João Francisco Inácio Brazão and Domingos Inácio Brazão sentenced for murder of Marielle Franco, a gay Black woman and rising political star Two influential Brazilian politician brothers have been convicted by Brazil’s supreme court of ordering the murder of Marielle Franco , the Rio de Janeiro city councillor, nearly eight years ago. João Francisco Inácio Brazão, the former congressman known as Chiquinho, and the former adviser to Rio’s court of auditors Domingos Inácio Brazão were sentenced to 76 years and three months in prison for the murders of Franco, 38, and her driver, Anderson Gomes, 39. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/25/brazil-politician-brothers-convicted-murder",
       "published": "Wed, 25 Feb 2026 17:29:52 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Last weekend of summer brings sparkle and stars to Sydney with Mardi Gras parade, Bad Bunny and Grace Jones",
-      "description": "More than 350,000 people expected to turn out on Saturday for blockbuster lineup of music and culture events Get our breaking news email , free app or daily news podcast The Mardi Gras annual parade, Bad Bunny and Grace Jones will headline a bumper nightlife lineup in Sydney on Saturday that will draw more than 350,000 people and test the city’s security and transport systems. Sydney’s Mardi Gras showpiece, its sequin-spangled parade, will transform Oxford Street with 170 floats, 10,000 marchers and 250,000 spectators, its organisers estimated on Wednesday. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/feb/27/sydney-mardi-gras-parade-bad-bunny-grace-jones",
-      "published": "Fri, 27 Feb 2026 04:47:47 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 2,
@@ -2467,17 +2478,6 @@
       "description": "As soon as millions of court documents linked to child sex offender Jeffrey Epstein were released, social media filled with viral screenshots and explosive claims. With disinformation abound, how do you know what's real?",
       "url": "https://www.dw.com/en/fact-check-how-to-cut-through-epstein-files-disinformation/a-76136926?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 26 Feb 2026 15:30:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US: Blind refugee found dead after release from CBP custody",
-      "description": "A blind 56-year-old Rohingya refugee was found dead on the frozen streets of Buffalo, New York, Tuesday after US immigration authorities released him miles from home, at night, without notifying his family or lawyer.",
-      "url": "https://www.dw.com/en/us-blind-refugee-found-dead-after-release-from-cbp-custody/a-76136879?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Feb 2026 13:43:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
