@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T08:46:25.843631Z",
-  "event_count": 223,
+  "last_updated": "2026-03-01T09:13:04.528880Z",
+  "event_count": 224,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -249,6 +249,20 @@
       "is_ticker": false
     },
     {
+      "title": "Trump warns Iran not to retaliate after Ayatollah Ali Khamenei is killed",
+      "description": "The Iranian government has announced 40 days of mourning. The country's supreme leader was killed following an attack launched by the U.S. and Israel on Saturday against Iran.",
+      "url": "https://www.npr.org/2026/03/01/nx-s1-5731333/iran-us-israel-strikes",
+      "published": "Sun, 01 Mar 2026 04:00:58 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump warns Iran not to retaliate after Ayatollah Ali Khamenei is killed"
+    },
+    {
       "title": "Israel says launched 'preemptive' strike against Iran",
       "description": "Israel's attack comes amid soaring tensions between Iran and the United States over Tehran's nuclear and missile programs.",
       "url": "https://www.dw.com/en/israel-says-launched-preemptive-strike-against-iran/a-76160973?maca=en-rss-en-all-1573-xml-mrss",
@@ -314,20 +328,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran confirms Supreme Leader Ali Khamenei dead after US-Israeli attacks"
-    },
-    {
-      "title": "Strikes on Iran renew fears over Strait of Hormuz",
-      "description": "US President Trump has carried out his threat to attack Iran, shifting attention to the Strait of Hormuz, the world's most critical oil chokepoint. Iran has repeatedly threatened to block the vital waterway.",
-      "url": "https://www.dw.com/en/strikes-on-iran-renew-fears-over-strait-of-hormuz/a-72952336?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 28 Feb 2026 11:43:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Strikes on Iran renew fears over Strait of Hormuz"
     },
     {
       "title": "Attack on Iran disrupts flights across the Middle East and beyond",
@@ -529,6 +529,20 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Strait of Hormuz halts after US‑Israel attack on Iran",
+      "description": "US President Trump has carried out his threat to attack Iran, shifting attention to the Strait of Hormuz, the world's most critical oil chokepoint. Iran has repeatedly threatened to block the vital waterway.",
+      "url": "https://www.dw.com/en/strait-of-hormuz-halts-after-us‑israel-attack-on-iran/a-72952336?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 1 Mar 2026 09:05:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Strait of Hormuz halts after US‑Israel attack on Iran"
     },
     {
       "title": "World News in Brief: Epstein scandal highlights ‘silencing’ of women, Danish breakthrough on HIV transmission, Belarus rights update",
@@ -805,6 +819,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump has tipped the Middle East into a massive war that could last weeks"
+    },
+    {
+      "title": "More blasts rock Dubai, Doha and Manama as Iran targets US assets in Gulf",
+      "description": "Iran's retaliatory attacks on US assets in the region continue for a second day as fears of a wider conflict rise.",
+      "url": "https://www.aljazeera.com/news/2026/3/1/more-blasts-rock-dubai-doha-and-manama-as-iran-targets-us-assets-in-gulf?traffic_source=rss",
+      "published": "Sun, 01 Mar 2026 08:44:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Iran begins 40-day mourning after Khamenei killed in US-Israeli attack",
@@ -1384,17 +1409,6 @@
       "is_ticker": false
     },
     {
-      "title": "As U.S. and Iran wrap latest round of nuclear talks, Trump weighs his options",
-      "description": "President Trump weighs his military options in Iran as his administration continues negotiating over Tehran's nuclear program.",
-      "url": "https://www.npr.org/2026/02/27/nx-s1-5727680/as-u-s-and-iran-wrap-latest-round-of-nuclear-talks-trump-weighs-his-options",
-      "published": "Fri, 27 Feb 2026 06:39:31 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Trump and Rubio have brought Cuba's government to the brink",
       "description": "A blockade on oil imports is leaving Cuba with few resources. US Secretary of State Marco Rubio wants Cuba's government on its knees. The situation has become even more tense following a fatal confrontation at sea.",
       "url": "https://www.dw.com/en/trump-and-rubio-have-brought-cuba-s-government-to-the-brink/a-76158344?maca=en-rss-en-all-1573-xml-mrss",
@@ -1615,7 +1629,7 @@
     },
     {
       "title": "'Trump has a tradition of betraying his allies': Will Khamenei's death bring regime change in Iran?",
-      "description": "Former NATO vice chief-of-staff Michel Yakovleff weighs in on US President Donald Trump's call for the Iranian people to rise up and overthrow the battered government.",
+      "description": "Former NATO vice chief-of-staff Michel Yakovleff weighs in on US President Donald Trump's call for the Iranian people to rise up and overthrow the battered government following the killing of Supreme Leader Ayatollah Ali Khamenei.",
       "url": "https://www.france24.com/en/video/20260301-trump-has-a-tradition-of-betraying-his-allies-will-khamenei-s-death-bring-regime-change-in-iran",
       "published": "Sun, 01 Mar 2026 08:42:38 GMT",
       "source": "France24",
@@ -2142,6 +2156,17 @@
       "is_ticker": false
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-01T09:12:41.665268Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Fears grow for ordinary Afghans after further clashes with Pakistan",
       "description": "Reports on Friday that major cities in Afghanistan have been bombed by the Pakistan military in a new escalation between the two countries have raised fears for civilians already struggling under the harsh rule of the de facto Taliban authorities.",
       "url": "https://news.un.org/feed/view/en/story/2026/02/1167049",
@@ -2281,17 +2306,6 @@
       "description": "The US Ambassador to the United Nations Mike Waltz says striking Iran was necessary to protect American allies.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/us-ambassador-to-un-trump-has-met-the-moment-by-striking-iran?traffic_source=rss",
       "published": "Sat, 28 Feb 2026 23:03:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Netanyahu claims ‘many signs’ Iran’s Khamenei ‘no longer alive’",
-      "description": "Israeli Prime Minister Benjamin Netanyahu claims Iranian Supreme Leader Ali Khamenei may be \"no longer alive.\"",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/2/28/netanyahu-claims-many-signs-irans-khamenei-no-longer?traffic_source=rss",
-      "published": "Sat, 28 Feb 2026 19:48:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2453,7 +2467,7 @@
       "is_ticker": false
     },
     {
-      "title": "Australia’s broken aged care home support system is ensuring that loved ones live and die without dignity",
+      "title": "‘The negligence is staggering’: elderly and dying Australians left waiting for urgent aged care",
       "description": "Alan Nicolle was already approved for urgent aged care supports, but delays and confusion under a ‘Kafkaesque’ system made his final days exhausting and painful Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Dying Australians approved for government-funded aged care home support are struggling to access it, with carers describing a system plagued by delays and lack of control around how funding is spent. The accounts of carers and aged care assessors spoken to by Guardian Australia show that beyond the controversial, algorithm-driven assessment process for home care funding , many are left without adequate and timely support even after funding has been approved. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/mar/01/australia-aged-care-home-support-system-broken",
       "published": "Sat, 28 Feb 2026 19:00:21 GMT",
