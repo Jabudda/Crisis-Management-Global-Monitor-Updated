@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-01T14:09:55.887698Z",
-  "event_count": 223,
+  "last_updated": "2026-03-01T14:42:02.555525Z",
+  "event_count": 224,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -199,7 +199,7 @@
       "title": "At least 148 dead after reported strike on school, Iran says",
       "description": "Iran has blamed the US and Israel for the strike; the US is looking into reports of the incident, while the IDF says it is \"not aware\" of operations in the area.",
       "url": "https://www.bbc.com/news/articles/c1l7rvqq51eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Mar 2026 11:40:44 GMT",
+      "published": "Sun, 01 Mar 2026 14:40:36 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 27,
@@ -702,6 +702,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ At least 9 killed as protesters storm US Consulate in Pakistan"
+    },
+    {
+      "title": "Pope warns escalating Iran conflict could tip Middle East into ‘irreparable abyss’",
+      "description": "Pope Leo XIV warned Sunday that U.S.-Israel airstrikes on Iran risk plunging the Middle East into an \"irreparable abyss,\" urging leaders to choose dialogue.",
+      "url": "https://www.foxnews.com/world/pope-warns-escalating-iran-conflict-could-tip-middle-east-into-irreparable-abyss",
+      "published": "Sun, 01 Mar 2026 09:37:36 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Pope warns escalating Iran conflict could tip Middle East into ‘irreparable abyss’"
     },
     {
       "title": "The US-Israeli war on Iran could rewrite Gulf security calculations",
@@ -1641,20 +1655,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump launches war against Iran",
-      "description": "👉 Follow Trump100 on your podcast app 👈",
-      "url": "https://news.sky.com/story/trump-launches-war-against-iran-13513310",
-      "published": "Sat, 28 Feb 2026 13:53:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump launches war against Iran"
-    },
-    {
       "title": "Middle East airports closed, thousands of travelers stranded after attack on Iran",
       "description": "The attack on Iran by the U.S. and Israel has disrupted flights across the Middle East and beyond",
       "url": "https://abcnews.com/International/wireStory/middle-east-airports-closed-thousands-travelers-stranded-after-130646267",
@@ -1926,6 +1926,20 @@
       "is_ticker": false
     },
     {
+      "title": "Thousands stranded as Iranian strikes force airports to close including Dubai and Doha",
+      "description": "Travellers face continued disruption after joint US-Israeli strikes against Iran sparked a retaliatory barrage of missiles across the Middle East.",
+      "url": "https://news.sky.com/story/thousands-stranded-as-iranian-strikes-force-airports-to-close-including-dubai-and-doha-13513797",
+      "published": "Sun, 01 Mar 2026 10:48:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Thousands stranded as Iranian strikes force airports to close including Dubai and Doha"
+    },
+    {
       "title": "Where has been hit? Iran retaliates across Middle East after US-Israel strikes",
       "description": "Multiple locations in Iran have been targeted by joint US-Israel strikes, and Tehran has launched retaliatory missiles across the region.",
       "url": "https://news.sky.com/story/where-has-been-hit-iran-retaliates-across-middle-east-after-us-israel-strikes-13513268",
@@ -2104,6 +2118,17 @@
       "is_ticker": false
     },
     {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-01T14:41:41.487814Z",
+      "source": "ReliefWeb",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Belgium seizes suspected Russian shadow fleet tanker",
       "description": "Belgium's Defense Ministry said its forces boarded an oil tanker believed to be part of Russia's illicit shadow fleet on Sunday. The ship, reportedly sailing under false flag, has been diverted to a Belgian port.",
       "url": "https://www.dw.com/en/belgium-seizes-suspected-russian-shadow-fleet-tanker/a-76174050?maca=en-rss-en-all-1573-xml-mrss",
@@ -2134,17 +2159,6 @@
       "url": "https://www.foxnews.com/us/high-school-basketball-coach-charged-raping-foster-daughter-serving-victim-tequila-shots-report",
       "published": "Fri, 27 Feb 2026 12:55:37 -0500",
       "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US positions F-22 stealth fighters in Israel, puts 'almost any target in Iran at risk'",
-      "description": "Eleven U.S. F-22 Raptor stealth fighters have reportedly been deployed to Israel's Ovda Air Base, marking America's first operational combat aircraft deployment.",
-      "url": "https://www.foxnews.com/world/us-positions-f-22-stealth-fighters-israel-puts-almost-any-target-iran-risk",
-      "published": "Fri, 27 Feb 2026 14:55:57 -0500",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
