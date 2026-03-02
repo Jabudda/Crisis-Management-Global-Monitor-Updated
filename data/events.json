@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T08:21:15.602978Z",
-  "event_count": 222,
+  "last_updated": "2026-03-02T08:49:22.781141Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -98,6 +98,20 @@
       "ticker_label": "🪖 Forgotten conflict in South Sudan at ‘a dangerous point’, Türk warns"
     },
     {
+      "title": "Oil prices jump after attack on Iran threatens crucial Strait of Hormuz",
+      "description": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
+      "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 02 Mar 2026 08:48:18 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Oil prices jump after attack on Iran threatens crucial Strait of Hormuz"
+    },
+    {
       "title": "Hanson calls censure motion a ‘stunt’ before leaving chamber – as it happened",
       "description": "This blog is now closed Pauline Hanson censured over Muslim comments but only two Coalition senators back motion Get our breaking news email , free app or daily news podcast Joyce says petrol prices will increase due to conflict Speaking with Tanya Plibersek on a Sunrise panel this morning, One Nation MP Barnaby Joyce says Australia should focus on building up fuel supplies under risk due to conflict in the Middle East It’s a shame in a crisis like this that we’ve got ourselves down to two oil refineries, so that if there’s a crisis in the production of fuel, we’re in a bad spot. We’ve got the old policies here – cross fingers, everything should be right as long as President Trump is able to bring this to a conclusion … People have got to start looking at what the effects are for Australia, not just the Middle East, and you can start looking for those effects at a petrol pump near you. There will be an economic impact of this. There was an economic impact of Russia’s invasion of Ukraine that affected the whole world, and that includes Australia. This is an area where a lot of our global oil and petrol, ultimately, is impacted by what’s being produced in the Middle East. I mean, it is a very good argument for Australia to have energy security and energy independence. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/mar/02/politics-updates-federal-parliament-anthony-albanese-labor-angus-taylor-coalition-nsw-budget-estimates-iran-war-reactions-ntwnfb",
@@ -152,20 +166,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Deadly Texas bar shooting 'potentially act of terrorism', FBI says"
-    },
-    {
-      "title": "Oil prices rise after ships attacked near Strait of Hormuz",
-      "description": "Experts have warned that a prolonged conflict could push global energy prices even higher.",
-      "url": "https://www.bbc.com/news/articles/c75evve6l63o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 02 Mar 2026 06:53:43 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Oil prices rise after ships attacked near Strait of Hormuz"
     },
     {
       "title": "Gaza's ceasefire had some momentum. Now, some fear a new war will distract the world",
@@ -375,20 +375,6 @@
       "ticker_label": "🪖 Pakistan: Several killed in violent protest at US consulate"
     },
     {
-      "title": "Trump's war on Iran sets the stage for an arms build-up among the world's great powers",
-      "description": "The world's autocrats, from Vladimir Putin to Xi Jinping, will surely be sleeping a little less easy after the death of Iran's supreme leader in an operation backed by Donald Trump.",
-      "url": "https://news.sky.com/story/the-us-war-against-iran-marks-a-new-era-of-conflict-but-what-comes-next-is-hard-to-predict-13513734",
-      "published": "Sun, 01 Mar 2026 04:43:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump's war on Iran sets the stage for an arms build-up among the world's great powers"
-    },
-    {
       "title": "Trump says likely more US casualties, attacks on Iran will continue",
       "description": "President Donald Trump has ⁠warned combat ⁠operations against Iran will continue until ‘all objectives ‌are achieved’.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/3/2/trump-says-likely-more-us-casualties-attacks-on-iran-will-continue?traffic_source=rss",
@@ -426,6 +412,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Live: French FM Barrot calls for ‘Lebanon to be spared from this regional escalation’",
+      "description": "French Foreign Minister Jean-Noël Barrot on Monday called for \"Lebanon to be spared from this regional escalation\" at a press conference on the Middle East conflict in the wake of US and Israeli strikes on Iran last weekend. Earlier today, the Israeli military began striking Iran‑backed militant group Hezbollah across Lebanon, leading to mass evacuations. Follow our liveblog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260302-live-israel-calls-for-evacuations-in-lebanon-after-strikes-on-hezbollah",
+      "published": "Mon, 02 Mar 2026 05:50:19 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Live: French FM Barrot calls for ‘Lebanon to be spared from this regional escalation’"
     },
     {
       "title": "US military says 3 service members killed, 5 seriously wounded in war with Iran",
@@ -775,9 +775,9 @@
       "ticker_label": "🪖 After Iran’s salvo hit their skylines, will Gulf states enter the war?"
     },
     {
-      "title": "Will Gulf states enter the Iran conflict with their own armies?",
-      "description": "Gulf states have borne the brunt of Iranian missile attacks so far. At first, Iran aimed at US assets but that changed. Gulf states say they won't just sit back when attacked. But what exactly could that mean?",
-      "url": "https://www.dw.com/en/will-gulf-states-enter-the-iran-conflict-with-their-own-armies/a-76175593?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Will Gulf states enter the Iran war?",
+      "description": "Gulf states have borne the brunt of Iranian missile attacks so far. At first, Iran targeted US assets, but that has changed. Gulf states say they won't just sit back.",
+      "url": "https://www.dw.com/en/will-gulf-states-enter-the-iran-war/a-76175593?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 1 Mar 2026 15:13:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -786,29 +786,21 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Will Gulf states enter the Iran conflict with their own armies?"
+      "ticker_label": "🪖 Will Gulf states enter the Iran war?"
     },
     {
-      "title": "What to know about U.S.-Israel attacks on Iran",
-      "description": "The U.S. and Israel have launched major attacks on Iran that President Donald Trump says aim to crush Iran’s military and stop production of a nuclear weapon",
+      "title": "What to know about the latest US-Israeli attacks on Iran",
+      "description": "The war in the Middle East intensified Monday, with attacks from Iran and Iranian-backed militias hitting Israel and Arab states",
       "url": "https://abcnews.com/International/wireStory/us-israel-attacks-iran-130621659",
-      "published": "Sat, 28 Feb 2026 10:29:45 -0500",
+      "published": "Mon, 02 Mar 2026 03:18:39 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "What to know about U.S.-Israel attacks on Iran",
-      "description": "The U.S. and Israel have launched major attacks on Iran that President Donald Trump says aim to crush Iran’s military and stop production of a nuclear weapon",
-      "url": "https://abcnews.com/International/wireStory/us-israel-attacks-iran-130621653",
-      "published": "Sat, 28 Feb 2026 10:24:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 What to know about the latest US-Israeli attacks on Iran"
     },
     {
       "title": "Deadly bombing of Iran primary school ‘a grave violation of humanitarian law’: UNESCO",
@@ -862,6 +854,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israel renews its attacks on Iran with more strikes in the capital, Tehran"
+    },
+    {
+      "title": "Kuwait's Defense Ministry says 'several' US warplanes crashed in the country",
+      "description": "Kuwait's Defense Ministry says 'several' US warplanes have crashed in the country, all the crew survived",
+      "url": "https://abcnews.com/International/wireStory/kuwaits-defense-ministry-us-warplanes-crashed-country-crew-130668383",
+      "published": "Mon, 02 Mar 2026 03:40:35 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Kuwait's Defense Ministry says 'several' US warplanes crashed in the country"
     },
     {
       "title": "Death toll rises to 22 after cargo plane carrying money crashes near Bolivia capital",
@@ -964,6 +970,20 @@
       "ticker_label": "🪖 What we know so far about the US-Israel attacks and Iran's retaliation"
     },
     {
+      "title": "British military base in Cyprus targeted in suspected drone attack",
+      "description": "The attack marks the first strike on a British military base in Cyprus since 1986, escalating regional tensions.",
+      "url": "https://www.aljazeera.com/news/2026/3/2/british-military-base-in-cyprus-targeted-in-suspected-drone-attack?traffic_source=rss",
+      "published": "Mon, 02 Mar 2026 08:13:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 British military base in Cyprus targeted in suspected drone attack"
+    },
+    {
       "title": "Poll suggests only a quarter of Americans support attacks on Iran",
       "description": "US lawmakers heap pressure on Trump following the first US soldier deaths after Khamenei's killing.",
       "url": "https://www.aljazeera.com/news/2026/3/2/poll-suggests-only-a-quarter-of-americans-support-attacks-on-iran?traffic_source=rss",
@@ -975,26 +995,18 @@
       "is_ticker": false
     },
     {
-      "title": "Iran live: Tehran says no talks, Trump sees more deaths, Israel hits Beirut",
-      "description": "US president says attacks on Iran will continue until all objectives are met, as Tehran keeps up raids on US assets.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/2/us-israel-attack-iran-live?traffic_source=rss",
-      "published": "Mon, 02 Mar 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Will Iran conflict send oil prices above $100 a barrel?",
-      "description": "Oil markets are bracing for sharp price spikes after the US attack on Iran and Tehran's retaliation. Iran's role as a major producer matters, but its strategic position is keeping traders on edge.",
-      "url": "https://www.dw.com/en/will-iran-conflict-send-oil-prices-above-100-a-barrel/a-76176495?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Will Iran war send oil prices above $100 a barrel?",
+      "description": "Oil markets are bracing for sharp price spikes after the US-Israel attacks on Iran and Tehran's retaliation. Iran's role as a major producer matters, but its strategic position is keeping traders on edge.",
+      "url": "https://www.dw.com/en/will-iran-war-send-oil-prices-above-100-a-barrel/a-76176495?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 2 Mar 2026 07:19:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Will Iran war send oil prices above $100 a barrel?"
     },
     {
       "title": "Trump on Iran: 'US will avenge the deaths of Americans'",
@@ -1343,20 +1355,6 @@
       "ticker_label": "✈️ Pakistan says hundreds of Afghan Taliban fighters killed"
     },
     {
-      "title": "Live: Israel calls for evacuations in Lebanon after strikes on Hezbollah",
-      "description": "The Israeli military began striking Iran‑backed militant group Hezbollah across Lebanon on Monday, leading to mass evacuations. US and Israeli operations have targeted more than 1,000 Iranian sites, while President Donald Trump vowed that strikes will continue until all objectives are met, calling on Iranians to revolt. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260302-live-israel-calls-for-evacuations-in-lebanon-after-strikes-on-hezbollah",
-      "published": "Mon, 02 Mar 2026 05:50:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Live: Israel calls for evacuations in Lebanon after strikes on Hezbollah"
-    },
-    {
       "title": "US-Israeli attacks in Iran: The UK denies involvement in strikes",
       "description": "Benedicte Paviot, France24 correspondent in the UK, has more.",
       "url": "https://www.france24.com/en/us-israeli-attacks-in-iran-the-uk-denies-involvement-in-strikes",
@@ -1425,6 +1423,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israel renews attacks on Iran: IDF announces more strikes on Tehran"
+    },
+    {
+      "title": "American deaths will dictate political cost of Trump's strikes on Iran",
+      "description": "The first American flag-draped coffin to arrive home will land with greater force than any Iranian missile.",
+      "url": "https://news.sky.com/story/american-deaths-will-dictate-political-cost-of-donald-trumps-strikes-on-iran-13514097",
+      "published": "Mon, 02 Mar 2026 07:10:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 American deaths will dictate political cost of Trump's strikes on Iran"
     },
     {
       "title": "What we know so far about US-Israeli strikes and retaliatory attacks by Iran",
@@ -2157,20 +2169,6 @@
       "ticker_label": "🪖 Israel launches retaliatory strikes at Hezbollah across Lebanon"
     },
     {
-      "title": "Russian Foreign Ministry condemns US-Israel strikes on Iran",
-      "description": "Russia has condemned U.S.-Israeli strikes on Iran and urged an immediate stop to the campaign and a return to diplomacy",
-      "url": "https://abcnews.com/International/wireStory/russian-foreign-ministry-condemns-us-israel-strikes-iran-130598225",
-      "published": "Sat, 28 Feb 2026 10:19:04 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian Foreign Ministry condemns US-Israel strikes on Iran"
-    },
-    {
       "title": "Anti-US protesters funded by pro-China tycoon mobilize as first bombs fall on Iran",
       "description": "Nonprofits funded by a tech tycoon aligned with the Chinese Communist Party organize coordinated anti-US protests and propaganda supporting the regime in Iran",
       "url": "https://www.foxnews.com/us/nonprofits-funded-by-pro-ccp-tycoon-mobilize-pro-regime-protests-10-minutes-before-trump-even-reveals-he-launc",
@@ -2276,6 +2274,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-02T08:48:59.235188Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2665,7 +2674,18 @@
       "title": "Myanmar's military government pardons 10,000 prisoners before parliament opens",
       "description": "The head of Myanmar’s military government has granted amnesty to more than 10,000 prisoners, mostly political prisoners, and reduced other inmates’ sentences to mark a holiday",
       "url": "https://abcnews.com/International/wireStory/myanmars-military-government-pardons-10000-prisoners-parliament-opens-130667932",
-      "published": "Mon, 02 Mar 2026 01:58:53 -0500",
+      "published": "Mon, 02 Mar 2026 03:34:54 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Saudi Arabia says it has intercepted drones targeting its Ras Tanura oil refinery",
+      "description": "Saudi Arabia says it has intercepted drones targeting its Ras Tanura oil refinery",
+      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepted-drones-targeting-ras-tanura-oil-130667464",
+      "published": "Mon, 02 Mar 2026 03:34:58 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
