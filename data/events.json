@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-02T22:12:29.434353Z",
-  "event_count": 224,
+  "last_updated": "2026-03-02T22:44:57.354486Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -456,6 +456,17 @@
       "ticker_label": "🪖 Oil and gas prices jump as conflict escalates"
     },
     {
+      "title": "World News in Brief: Gaza crossings closed, fighting in Sudan continues, Afghanistan quake victims",
+      "description": "The escalating violence in the Middle East region is compounding an already dire humanitarian crisis in Gaza.",
+      "url": "https://news.un.org/feed/view/en/story/2026/03/1167069",
+      "published": "Mon, 02 Mar 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "At least 169 people killed in South Sudan 'surprise' attack",
       "description": "Peacekeepers are sheltering about 1,000 civilians near their base and providing emergency care.",
       "url": "https://www.bbc.com/news/articles/c0mgkvy4wr8o?at_medium=RSS&at_campaign=rss",
@@ -479,17 +490,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ ‘A devastating force’: how recent storms turned to tragedies across the western Mediterranean"
-    },
-    {
-      "title": "US confirms American troops killed, wounded in Iran clashes",
-      "description": "The US confirmed its first combat casualties a day after launching its campaign against Iran, with Tehran targeting US military assets and bases in the region.",
-      "url": "https://www.dw.com/en/us-confirms-american-troops-killed-wounded-in-iran-clashes/a-76177887?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 1 Mar 2026 19:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "‘Adventurism has had its day’: speedboat shootout leaves Miami’s exiled Cubans bewildered",
@@ -562,20 +562,6 @@
       "ticker_label": "🪖 World News in Brief: Epstein scandal highlights ‘silencing’ of women, Danish breakthrough on HIV transmission, Belarus rights update"
     },
     {
-      "title": "FBI raises counterterror teams to high alert amid Iran tensions",
-      "description": "The FBI placed counterterrorism and counterintelligence teams on elevated alert status nationwide as U.S. military operations against Iran continue to unfold.",
-      "url": "https://www.foxnews.com/us/fbi-elevates-counterterror-teams-high-alert-amid-iran-tensions",
-      "published": "Sat, 28 Feb 2026 13:43:34 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 FBI raises counterterror teams to high alert amid Iran tensions"
-    },
-    {
       "title": "Ghana says at least 55 of its people killed after Russia ‘lured’ them to fight Ukraine",
       "description": "Foreign minister says 272 Ghanaians are thought to have been drawn into battle since 2022, after he visited Kyiv At least 55 Ghanaians have been killed in Russia’s war with Ukraine after being “lured into battle”, Ghana’s foreign minister has said after a visit to Kyiv in which officials raised the issue of Russian recruitment of African people. Reports of African men being attracted to Russia by promises of jobs and ending up on Ukraine’s frontlines have become more frequent in recent months, creating tensions between Moscow and some of the countries involved. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/feb/27/ghana-men-killed-fight-russia-ukraine",
@@ -613,6 +599,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Disinformation exaggerates Iran's military successes against the U.S. and Israel",
+      "description": "After U.S.-Israeli strikes on Iran, pro-Tehran accounts circulated fake footage claiming to show the aftermath of missile strikes on the USS Abraham Lincoln. Other videos were misrepresented as depicting Iranian retaliatory attacks in the region, particularly in Israel. We also examine fabricated reviews of Dubai’s Palm hotel after debris landed nearby, and debunk AI-generated images that spread after Khamenei’s death as no official photograph of the Supreme Leader’s body has been released.",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260302-disinformation-exaggerates-iran-s-military-successes-against-the-u-s-and-israel",
+      "published": "Mon, 02 Mar 2026 22:21:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Disinformation exaggerates Iran's military successes against the U.S. and Israel"
     },
     {
       "title": "War in the Middle East: Thousands of flights cancelled… across the globe",
@@ -833,6 +833,17 @@
       "is_ticker": false
     },
     {
+      "title": "Iran shuts down the Strait of Hormuz.  What more can it do?",
+      "description": "Iran has declared the Strait of Hormuz closed and threatened to fire at any ship passing through it. The narrow waterway is a vital chokepoint for global oil and gas, but also for other commodities such as fertiliser. France 24's Yuka Royer speaks with Noam Raydan, a maritime risk expert at the Washington Institute for Near East Policy about the potential impact of the Strait's closure and how Iran could further escalate the situation.",
+      "url": "https://www.france24.com/en/tv-shows/business/20260302-iran-shuts-down-the-strait-of-hormuz-what-more-can-it-do",
+      "published": "Mon, 02 Mar 2026 22:21:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Europe 'very likely' to get dragged into conflict after UK base in Cyprus hit",
       "description": "\"What's become clear to Europe today is that they are going to be a target\". FRANCE 24's Dave Keating reports from Brussels about the European response to the widening war in the Middle East.",
       "url": "https://www.france24.com/en/europe-very-likely-to-get-dragged-into-conflict-after-uk-base-in-cyprus-hit",
@@ -908,7 +919,7 @@
       "is_ticker": false
     },
     {
-      "title": "Oil prices surge amid fears over Iran war",
+      "title": "Oil prices surge, but no panic yet, as Iran war continues",
       "description": "Global oil prices are in the high $70s as traffic through Strait of Hormuz comes to a halt. Some analysts have warned they could top $100 a barrel if the stoppage is prolonged.",
       "url": "https://www.npr.org/2026/03/02/nx-s1-5732287/iran-war-oil-gasoline-prices",
       "published": "Mon, 02 Mar 2026 09:42:13 -0500",
@@ -919,7 +930,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Oil prices surge amid fears over Iran war"
+      "ticker_label": "🪖 Oil prices surge, but no panic yet, as Iran war continues"
     },
     {
       "title": "This war has massive implications for the world economy | Ed Conway",
@@ -962,7 +973,7 @@
     },
     {
       "title": "Rubio suggests US strikes on Iran were influenced by Israeli plans",
-      "description": "Secretary of state says he hopes Iranian people would overthrow regime as US military says six service members killed.",
+      "description": "Secretary of state says he hopes Iranian people will overthrow regime, as US military says six service members killed.",
       "url": "https://www.aljazeera.com/news/2026/3/2/rubio-suggests-timing-of-us-strikes-on-iran-was-influenced-by-israeli-plans?traffic_source=rss",
       "published": "Mon, 02 Mar 2026 21:30:25 +0000",
       "source": "Al Jazeera",
@@ -1500,20 +1511,6 @@
       "ticker_label": "🪖 \"Sense of déjà vu\" in Lebanon as Middle East conflict widens"
     },
     {
-      "title": "UK base in Cyprus hit by drone as fallout from Iran war spreads beyond Middle East",
-      "description": "An Iranian drone hit the runway of the UK's Akrotiri air force base overnight on Monday but caused \"minimal\" damage, officials said. Britain declined to take part in the US-Israeli strikes on Iran but later approved a US request to use its bases for \"defensive actions\", Britain's minister for the Middle East said.",
-      "url": "https://www.france24.com/en/europe/20260302-uk-base-in-cyprus-hit-by-drone-as-fallout-from-iran-war-spreads-beyond-middle-east",
-      "published": "Mon, 02 Mar 2026 16:05:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UK base in Cyprus hit by drone as fallout from Iran war spreads beyond Middle East"
-    },
-    {
       "title": "Which officials are dead, who's in charge of Iran now and who will be its new leader?",
       "description": "The death of Ayatollah Ali Khamenei in US-Israel strikes on Saturday marks a major transition for Iran - having been in power for almost 37 years, he was only the second leader of Iran's Islamic Republic.",
       "url": "https://news.sky.com/story/whos-in-charge-of-iran-now-and-who-will-be-its-new-leader-13513739",
@@ -1551,20 +1548,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Palestine: UN rights chief highlights suffering, atrocity crimes ‘that remain unpunished’",
-      "description": "The UN rights chief Volker Türk on Thursday highlighted the “human-made disaster” across the Occupied Palestinian Territory stemming from Israel’s disregard for human rights norms and serious violations also committed by Hamas and other Palestinian armed groups.",
-      "url": "https://news.un.org/feed/view/en/story/2026/02/1167043",
-      "published": "Thu, 26 Feb 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Palestine: UN rights chief highlights suffering, atrocity crimes ‘that remain unpunished’"
     },
     {
       "title": "Nancy Guthrie missing: Forensic scientist encourages new investigative approach since case 'isn't cold yet'",
@@ -1650,10 +1633,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia politics live: March rate hike a ‘live’ chance, RBA chief says; Coalition claims mosques mourning ayatollah may breach new laws",
+      "title": "Australia politics live: ‘live’ chance of March rate hike, RBA chief says; Hastie calls Trump an ‘apex opportunist’",
       "description": "Bullock says she would ‘dissuade’ investors and economists from thinking RBA would not hike at consecutive meetings. Follow today’s news live Get our breaking news email , free app or daily news podcast Government takes conflict ‘a day at a time’ Moving across to ABC News Breakfast, Richard Marles say the government is taking the conflict in the Middle East – and its economic consequences – a day at a time. It sounds trite, but you literally kind of have to take this at a day at a time. It is very difficult to speculate about how long this will go. You are right that there could easily be an economic dimension to this, and it is a function of how long it goes. And we’re, again, we’re very mindful of that and looking at what the potential economic impacts will be. I’m not about to suggest what the police should do, that’s that’s a matter for them. But let me say this, our our thoughts are not with the supreme leader. Our thoughts are with the thousands of Iranians who have died at the hands of the supreme leader just in the last few weeks, without looking at the countless numbers of Iranians who have lost their lives over the nearly 40 years that the supreme leader has been at the helm of the Iranian state. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/mar/03/australia-politics-live-anthony-albanese-mark-carney-iran-parliament-question-time-angus-taylor-pauline-hanson-jim-chalmers-rba-interest-rates-cost-of-living-inflation-ntwnfb",
-      "published": "Mon, 02 Mar 2026 22:03:59 GMT",
+      "published": "Mon, 02 Mar 2026 22:32:14 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 11,
@@ -1661,7 +1644,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Australia politics live: March rate hike a ‘live’ chance, RBA chief says; Coalition claims mosques mourning ayatollah may breach new laws"
+      "ticker_label": "💥 Australia politics live: ‘live’ chance of March rate hike, RBA chief says; Hastie calls Trump an ‘apex opportunist’"
     },
     {
       "title": "As Macron sets out his nuclear doctrine, a look at France's capability by the numbers",
@@ -2051,6 +2034,17 @@
       "ticker_label": "🪖 Humanitarian pressures grow as Cuba continues to struggle with energy shortages"
     },
     {
+      "title": "High school senior gunned down at random while getting into rideshare months before graduation",
+      "description": "Connecticut high school senior Camden Siegal was killed by a stray bullet while getting into a rideshare car in Hartford, just months before graduation.",
+      "url": "https://www.foxnews.com/us/high-school-senior-gunned-down-random-while-getting-rideshare-months-before-graduation",
+      "published": "Mon, 02 Mar 2026 17:23:53 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "US warplanes shot down by Kuwaiti air defenses, pilots bail out, CENTCOM says and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/us-warplanes-shot-down-kuwaiti-air-defenses-pilots-bail-out-centcom-says-more-top-headlines",
@@ -2217,18 +2211,15 @@
       "is_ticker": false
     },
     {
-      "title": "\"There is a universal feeling the UK shouldn't get involved in Iran\"",
-      "description": "British Prime ​Minister Keir Starmer on ​March 2nd said he stood by his decision not ​to ‌support initial joint ⁠U.S.-Israeli strikes against Iran. Earlier, U.S. President Donald Trump had ⁠criticised his approach. But \"there is a universal feeling the UK shouldn't be getting involved\", says FRANCE 24's Philip Turle.",
-      "url": "https://www.france24.com/en/there-is-a-universal-feeling-the-uk-shouldn-t-get-involved-in-iran",
-      "published": "Mon, 02 Mar 2026 16:07:07 GMT",
-      "source": "France24",
+      "title": "Pakistan imposes curfew after deadly Iran protests",
+      "description": "Violent demonstrations have erupted in several Pakistani cities over the killing of Iran's Supreme Leader Khamenei. Authorities sent in the army and imposed a curfew in the majority Shiite region of Gilgit-Baltistan.",
+      "url": "https://www.dw.com/en/pakistan-imposes-curfew-after-deadly-iran-protests/a-76191205?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 2 Mar 2026 22:14:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 \"There is a universal feeling the UK shouldn't get involved in Iran\""
+      "is_ticker": false
     },
     {
       "title": "Network funded by pro-CCP tech tycoon targets Palantir amid anti-US protests that support the regime in Iran",
@@ -2330,17 +2321,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/mar/02/victoria-wfh-law-work-from-home-jacinta-allan",
       "published": "Mon, 02 Mar 2026 18:00:16 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-02T22:12:03.323522Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2628,7 +2608,7 @@
       "title": "M 4.1 - 5 km E of Cowles, Nebraska",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-03-01 18:59:27 UTC 2026-03-01 18:59:27 UTC at epicenter Location 40.175°N 98.380°W Depth 3.04 km (1.89 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s1a2",
-      "published": "2026-03-02T21:16:19.038Z",
+      "published": "2026-03-02T22:26:21.672Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
