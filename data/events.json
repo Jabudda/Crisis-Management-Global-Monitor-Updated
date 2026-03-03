@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-03T10:19:54.354366Z",
-  "event_count": 224,
+  "last_updated": "2026-03-03T10:48:24.659733Z",
+  "event_count": 223,
   "events": [
     {
       "title": "World News in Brief: Russian strikes on Ukraine condemned, migrant deaths update, devastating floods in southern Brazil",
@@ -140,20 +140,6 @@
       "ticker_label": "🪖 Scores of civilians killed in attacks in South Sudan"
     },
     {
-      "title": "'This is not endless,' US defense chief Hegseth says amid fears of wider war in Middle East",
-      "description": "Defense Secretary Pete Hegseth addressed growing concerns on Monday that the US-Israeli strikes in Iran could embroil the United States in a protracted regional conflict by declaring, “This is not Iraq. This is not endless,\" even as he warned that more American casualties are likely in the weeks ahead.",
-      "url": "https://www.france24.com/en/middle-east/20260302-this-is-not-endless-us-defense-chief-hegseth-says-amid-fears-of-wider-war-in-middle-east",
-      "published": "Mon, 02 Mar 2026 17:49:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'This is not endless,' US defense chief Hegseth says amid fears of wider war in Middle East"
-    },
-    {
       "title": "Texas authorities identify Austin bar shooting victims",
       "description": "Three victims and the suspected gunman were killed, and more were injured in the Sunday shooting that the FBI says could have terrorism links.",
       "url": "https://www.bbc.com/news/articles/cgjznzgly0po?at_medium=RSS&at_campaign=rss",
@@ -166,6 +152,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Texas authorities identify Austin bar shooting victims"
+    },
+    {
+      "title": "Texas shooting victims' death toll rises to three, as FBI investigates terror link",
+      "description": "Tributes are being paid to those lost their lives in a mass shooting in a Texas bar, as police identify the third victim to die because of the attack.",
+      "url": "https://news.sky.com/story/texas-shooting-victims-death-toll-rises-to-three-as-fbi-investigates-terror-link-13514508",
+      "published": "Tue, 03 Mar 2026 07:47:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Texas shooting victims' death toll rises to three, as FBI investigates terror link"
     },
     {
       "title": "MIDDLE EAST LIVE: Strikes continue from US, Israel and Iran as UN urges restraint",
@@ -224,10 +224,10 @@
       "ticker_label": "🪖 Iran war: Will Europe's split on US strikes backfire?"
     },
     {
-      "title": "Live: Lebanese army evacuates 'advanced positions' as Israeli troops 'operate' in south",
-      "description": "Lebanon's state-run National News Agency said Tuesday the Lebanese army was evacuating \"advanced positions\" along the Israeli border after Israel’s military said its troops were operating in southern Lebanon in what it described as a “forward defence posture\". Meanwhile, Iran hit the US embassy in Saudi Arabia’s capital with a drone strike, causing “limited fire” and minor damage, according to Saudi Arabia’s Defence Ministry. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
-      "published": "Tue, 03 Mar 2026 04:22:19 GMT",
+      "title": "War in the Middle East: Israeli strikes hit Beirut, Lebanon",
+      "description": "Lebanon’s state news agency reported Tuesday that the Lebanese army was pulling back from “advanced positions” near the Israeli border, after Israel said its forces were conducting operations in southern Lebanon under what it called a “forward defense posture.” The Israeli military is also continuing to carry out strikes in multiple areas across Lebanon. Since fighting between Israel and Hezbollah erupted, at least 30000 displaced people in Lebanon have taken refuge in shelters, according to the UN refugee agency. Meanwhile, Saudi Arabia’s Defense Ministry said an Iranian drone strike targeted the US Embassy in the capital, Riyadh, sparking a small fire and causing minor damage.",
+      "url": "https://www.france24.com/en/video/20260303-war-in-the-middle-east-israeli-strikes-hit-beirut-lebanon",
+      "published": "Tue, 03 Mar 2026 10:42:12 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 29,
@@ -235,7 +235,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Live: Lebanese army evacuates 'advanced positions' as Israeli troops 'operate' in south"
+      "ticker_label": "🪖 War in the Middle East: Israeli strikes hit Beirut, Lebanon"
     },
     {
       "title": "Iran war: Germany's chancellor strikes a cautious tone",
@@ -445,6 +445,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Live: Israel military says it is establishing buffer zone in south Lebanon",
+      "description": "Lebanon's state-run National News Agency said Tuesday the Lebanese army was evacuating \"advanced positions\" along the Israeli border as Israel’s military said it was establishing a buffer zone in Lebanon. Meanwhile, Iran hit the US embassy in Saudi Arabia’s capital with a drone strike, causing “limited fire” and minor damage, according to Saudi Arabia’s Defence Ministry. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260303-live-us-embassy-in-saudi-arabia-attacked-americans-urged-to-leave-dozens-of-countries",
+      "published": "Tue, 03 Mar 2026 04:22:19 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Live: Israel military says it is establishing buffer zone in south Lebanon"
     },
     {
       "title": "PM tables election review in question time – as it happened",
@@ -808,6 +822,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Deadly bombing of Iran primary school ‘a grave violation of humanitarian law’: UNESCO"
+    },
+    {
+      "title": "The aftermath of ongoing Israeli and US strikes on Iran’s capital, Tehran",
+      "description": "US-Israeli strikes on Iran kill almost 800 people as blasts hit Tehran and other cities over four days of war.",
+      "url": "https://www.aljazeera.com/gallery/2026/3/3/the-aftermath-of-ongoing-israeli-and-us-strikes-on-irans-capital-tehran?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 10:07:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 The aftermath of ongoing Israeli and US strikes on Iran’s capital, Tehran"
     },
     {
       "title": "Iran shuts down the Strait of Hormuz. What more could it do?",
@@ -1340,20 +1368,6 @@
       "ticker_label": "🪖 Tehran resident describes jubilation mixed with fear in the aftermath of US-Israeli strikes"
     },
     {
-      "title": "Trump warns of new 'big wave' of strikes on Iran, does not rule out ground troops",
-      "description": "US ​President ​Donald Trump warned of a possible new \"big wave\" of strikes against Iran, adding he had not ruled out deploying US boots on the ground. Trump also told a briefing at the White House ​Monday ‌that the US was capable of fighting Iran far longer than projected.",
-      "url": "https://www.france24.com/en/middle-east/20260302-trump-warns-of-new-big-wave-of-strikes-on-iran-does-not-rule-out-troops-on-ground",
-      "published": "Mon, 02 Mar 2026 17:58:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump warns of new 'big wave' of strikes on Iran, does not rule out ground troops"
-    },
-    {
       "title": "Israeli settler gunfire kills two Palestinian brothers in the occupied West Bank",
       "description": "Two Palestinian brothers have been killed by Israeli settler gunfire in the occupied West Bank, the Palestinian Health Ministry said",
       "url": "https://abcnews.com/International/wireStory/israeli-settler-gunfire-kills-palestinian-brothers-occupied-west-130688145",
@@ -1618,10 +1632,10 @@
       "is_ticker": false
     },
     {
-      "title": "Oil and gas prices rise on new Iran threat to Gulf shipping",
-      "description": "Iranian official threatens to \"set fire\" to any ships passing through the crucial Strait of Hormuz.",
+      "title": "Gas and oil prices soar and shares tumble as crucial shipping lane threatened",
+      "description": "Iranian official threatens to \"set fire\" to any ships passing through the Strait of Hormuz.",
       "url": "https://www.bbc.com/news/articles/cr5lz0vgy52o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 03 Mar 2026 08:26:09 GMT",
+      "published": "Tue, 03 Mar 2026 10:39:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1638,6 +1652,20 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "In pictures: Israel launches simultaneous strikes on Tehran and Beirut",
+      "description": "Israel launched simultaneous air strikes Tuesday on Tehran and Hezbollah strongholds in Beirut's southern suburbs following a wave of missiles launched overnight from Iran. The Israeli army announced earlier in the day that ground troops had been deployed along the border with Lebanon as mounting hostilities threatened to engulf the region.",
+      "url": "https://www.france24.com/en/middle-east/20260303-in-pictures-israel-launches-simultaneous-strikes-on-tehran-and-beirut",
+      "published": "Tue, 03 Mar 2026 10:33:48 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 In pictures: Israel launches simultaneous strikes on Tehran and Beirut"
     },
     {
       "title": "US fighter jet accidentally shot down by Kuwait, says US military",
@@ -1768,6 +1796,20 @@
       "is_ticker": false
     },
     {
+      "title": "India, Europe feel fuel crunch as Gulf gas supplies disrupted amid war",
+      "description": "India and Europe bear the brunt of soaring prices as Qatar halts its liquefied natural gas production.",
+      "url": "https://www.aljazeera.com/news/2026/3/3/india-europe-feel-fuel-crunch-as-gulf-gas-supplies-disrupted-amid-war?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 10:19:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 India, Europe feel fuel crunch as Gulf gas supplies disrupted amid war"
+    },
+    {
       "title": "US claims destroyed IRGC command centre, more Israel attacks on Tehran",
       "description": "The US Central Command (CENTCOM) says it destroyed air defence installations as well as missile and drone launch sites.",
       "url": "https://www.aljazeera.com/news/2026/3/3/us-claims-destroyed-irgc-command-centre-more-israel-attacks-on-tehran?traffic_source=rss",
@@ -1793,21 +1835,24 @@
       "is_ticker": false
     },
     {
-      "title": "Asia’s stock markets plunge amid US-Israeli conflict with Iran",
-      "description": "Asian stocks rack up steep losses after Wall Street shrugs off risks of widening conflict.",
-      "url": "https://www.aljazeera.com/economy/2026/3/3/asias-stock-markets-plunge-amid-us-israeli-conflict-with-iran?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 06:11:26 +0000",
+      "title": "Israeli ground incursion into Lebanon as front boils over amid wider war",
+      "description": "Hezbollah says Israel wanted open war, 'so let it be an open war', adding that 'the era of patience has ended.'",
+      "url": "https://www.aljazeera.com/news/2026/3/3/israel-strikes-lebanons-beirut-again-hezbollah-launches-drones-at-israel?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 06:12:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli ground incursion into Lebanon as front boils over amid wider war"
     },
     {
-      "title": "Iran to do ‘utmost’ to protect China’s citizens amid US-Israel attacks: FM",
-      "description": "Iranian Foreign Minister Abbas Araghchi holds calls with China's Wang Yi amid Israeli-US attacks on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/3/3/iran-to-do-utmost-to-protect-chinas-citizens-amid-us-israel-attacks-fm?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 04:10:54 +0000",
+      "title": "Asia’s stock markets plunge amid US-Israeli conflict with Iran",
+      "description": "Asian stocks rack up steep losses after Wall Street shrugs off risks of widening conflict.",
+      "url": "https://www.aljazeera.com/economy/2026/3/3/asias-stock-markets-plunge-amid-us-israeli-conflict-with-iran?traffic_source=rss",
+      "published": "Tue, 03 Mar 2026 06:11:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1902,20 +1947,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Oil and gas costs surge but some stocks defy war-focused sell-off",
-      "description": "Oil and gas prices have seen dramatic lifts as financial markets give their first reaction to the war in the Middle East.",
-      "url": "https://news.sky.com/story/oil-and-gas-costs-surge-but-some-stocks-defy-war-focused-sell-off-13514319",
-      "published": "Mon, 02 Mar 2026 15:44:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Oil and gas costs surge but some stocks defy war-focused sell-off"
     },
     {
       "title": "Europe defends military bases, struggles to evacuate citizens as it's drawn into war",
@@ -2084,20 +2115,6 @@
       "is_ticker": false
     },
     {
-      "title": "Israel strikes Lebanon’s Beirut again; Hezbollah launches drones at Israel",
-      "description": "The Israeli army says it is striking Hezbollah targets as its raids cause mass displacement in Lebanon.",
-      "url": "https://www.aljazeera.com/news/2026/3/3/israel-strikes-lebanons-beirut-again-hezbollah-launches-drones-at-israel?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 06:12:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel strikes Lebanon’s Beirut again; Hezbollah launches drones at Israel"
-    },
-    {
       "title": "Nepal’s Gen Z threw out old parties. Will it vote for them in key election?",
       "description": "Last year's protests reflected popular disenchantment with established political parties, which are again seeking power.",
       "url": "https://www.aljazeera.com/news/2026/3/3/nepals-gen-z-threw-out-old-parties-will-it-vote-for-them-in-key-election?traffic_source=rss",
@@ -2219,17 +2236,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-03T10:19:29.988185Z",
-      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2411,17 +2417,6 @@
       "description": "Dubai's airport authority says it authorised a limited number of flights as hundreds of thousands remain stranded.",
       "url": "https://www.aljazeera.com/economy/2026/3/3/uae-resumes-limited-flights-amid-travel-chaos-across-middle-east?traffic_source=rss",
       "published": "Tue, 03 Mar 2026 04:39:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Shutdown of Hormuz Strait raises fears of soaring oil prices",
-      "description": "Consumers are set to pay higher prices, but US producers could benefit, analysts say.",
-      "url": "https://www.aljazeera.com/economy/2026/3/3/shutdown-of-hormuz-strait-raises-fears-of-soaring-oil-prices?traffic_source=rss",
-      "published": "Tue, 03 Mar 2026 03:18:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
