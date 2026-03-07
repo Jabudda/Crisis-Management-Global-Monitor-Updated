@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-07T20:41:29.069605Z",
+  "last_updated": "2026-03-07T21:08:31.365228Z",
   "event_count": 226,
   "events": [
     {
@@ -470,6 +470,20 @@
       "ticker_label": "💥 Coast Guard rescue swimmer dies after medical evacuation mission off Washington coast turns tragic"
     },
     {
+      "title": "US: Tornadoes kill several people in Michigan, Oklahoma",
+      "description": "Deadly tornadoes touched down in the US states of Oklahoma and Michigan. Rescuers are searching for survivors and providing assistance to those affected.",
+      "url": "https://www.dw.com/en/us-tornadoes-kill-several-people-in-michigan-oklahoma/a-76263497?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 7 Mar 2026 20:44:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ US: Tornadoes kill several people in Michigan, Oklahoma"
+    },
+    {
       "title": "Iran, Germany and the end of the rules-based order",
       "description": "No more lecturing from Germany: International law seems less important to Chancellor Friedrich Merz since the US and Israel's attack on Iran. Is this a new foreign policy strategy from Berlin?",
       "url": "https://www.dw.com/en/iran-germany-and-the-end-of-the-rules-based-order/a-76227458?maca=en-rss-en-all-1573-xml-mrss",
@@ -666,20 +680,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 More than 30 injured in nightclub bombing in northern Peru"
-    },
-    {
-      "title": "Sirens echo in occupied East Jerusalem warning of Iranian missiles",
-      "description": "Air raid sirens blared across occupied East Jerusalem on Saturday after missiles were reportedly fired by Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/sirens-echo-in-occupied-east-jerusalem-warning-of-iranian-missiles?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 11:30:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sirens echo in occupied East Jerusalem warning of Iranian missiles"
     },
     {
       "title": "Indonesia to ban social media for children under 16",
@@ -1687,20 +1687,6 @@
       "ticker_label": "🪖 OpenAI’s fund raising boom slows amid mounting debt"
     },
     {
-      "title": "Trump-Netanyahu’s ‘war in search of a strategy’",
-      "description": "An illegal war, two leaders in cahoots and media outlets struggling to meet the moment.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/7/trump-netanyahus-war-in-search-of-a-strategy?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 11:14:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump-Netanyahu’s ‘war in search of a strategy’"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1952,6 +1938,17 @@
       "ticker_label": "🚨 Video shows IDF F-35I ‘Adir’ shooting down Iranian fighter jet over Tehran"
     },
     {
+      "title": "Cuba says electricity plant successfully repaired after large blackout",
+      "description": "A US pressure campaign, including an oil blockade, has strained the Caribbean country's ageing energy infrastructure.",
+      "url": "https://www.aljazeera.com/news/2026/3/7/cuba-says-electricity-plant-successfully-repaired-after-large-blackout?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 20:34:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Trump convenes ‘Shield of Americas’ summit with 12 Latin American leaders",
       "description": "In Miami, president calls for regional cooperation to counter Chinese economic and political interests Donald Trump changed the channel from Iran to the western hemisphere on Saturday, convening a gathering of Latin American leaders at his Miami-area golf club to discuss regional interests and establishing what he called a “counter-cartel coalition”. “Just as we formed a coalition to eradicate Isis, we now need a coalition to eradicate the cartels,” he told 12 regional leaders gathered at what the White House called the “Shield of the Americas” summit. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/mar/07/trump-shield-of-americas-summit",
@@ -2063,6 +2060,20 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Video: Satellite images reveal damage to several Iranian military bases",
+      "description": "Satellite imagery reveals extensive damage at several Iranian military sites following a wave of airstrikes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/video-satellite-images-reveal-damage-to-several-iranian-military-bases?traffic_source=rss",
+      "published": "Sat, 07 Mar 2026 20:39:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Video: Satellite images reveal damage to several Iranian military bases"
     },
     {
       "title": "Nepal: Early vote returns suggest massive political shift",
@@ -2225,7 +2236,7 @@
       "title": "Access to RSS feeds is rejected",
       "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
       "url": "https://api.reliefweb.int",
-      "published": "2026-03-07T20:41:04.045871Z",
+      "published": "2026-03-07T21:08:15.132691Z",
       "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
@@ -2634,17 +2645,6 @@
       "description": "Formula 1 is kicking off the new season with some big rule changes. Drivers will have to focus on energy management—and not everyone is thrilled about it. Plus, there are two new teams: Audi and Cadillac.",
       "url": "https://www.dw.com/en/formula-1-in-2026-just-formula-e-on-steroids/a-76144457?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 6 Mar 2026 15:37:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Why the US says India can buy Russian oil again",
-      "description": "Less than a month after India agreed to stop buying Russian oil in exchange for a US trade deal, Washington says it can buy it again. Good news for India, Russia or both?",
-      "url": "https://www.dw.com/en/why-the-us-says-india-can-buy-russian-oil-again/a-76250096?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 6 Mar 2026 15:28:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
