@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-08T11:09:17.567378Z",
-  "event_count": 226,
+  "last_updated": "2026-03-08T11:38:34.866176Z",
+  "event_count": 225,
   "events": [
     {
       "title": "World News In Brief: Sudan conflict intensifies, Global inequality deepening, HIV success amid new medicine, increase in ‘Domicide’ worldwide",
@@ -146,6 +146,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Middle East: How long will the war last?"
+    },
+    {
+      "title": "Israel strikes Lebanon: 12 people killed in three separate overnight strikes",
+      "description": "Twelve more people were killed Sunday morning in Lebanon by Israeli strikes, pushing the country’s death toll past 300 since fighting began on February 28. As Israeli forces continue targeting Hezbollah strongholds, civilians face extreme violence and are forced to flee their homes. Hundreds of thousands are now displaced across the country. Caroline Baum reports.",
+      "url": "https://www.france24.com/en/israel-strikes-lebanon-12-people-killed-in-three-separate-overnight-strikes",
+      "published": "Sun, 08 Mar 2026 11:16:03 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israel strikes Lebanon: 12 people killed in three separate overnight strikes"
     },
     {
       "title": "An international security expert analyzes regional impact of U.S.-Israel war on Iran",
@@ -776,20 +790,6 @@
       "ticker_label": "🌪️ Heavy rains and flooding kills at least 23 in Nairobi"
     },
     {
-      "title": "Huge fire rages at Tehran oil depot after Israeli attack",
-      "description": "Footage captured a massive fire raging at the Shahran oil depot in northern Tehran following an Israeli strike.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/7/huge-fire-rages-at-tehran-oil-depot-after-israeli-attack?traffic_source=rss",
-      "published": "Sat, 07 Mar 2026 23:26:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Huge fire rages at Tehran oil depot after Israeli attack"
-    },
-    {
       "title": "The impact of Iran's attacks on the UAE",
       "description": "The UAE, billed as a global luxury destination, has received the bulk of Iran's attacks in the region so far.",
       "url": "https://www.npr.org/2026/03/07/nx-s1-5736527/the-impact-of-irans-attacks-on-the-uae",
@@ -1214,20 +1214,6 @@
       "ticker_label": "🪖 Four killed in Israeli strike on Ramada hotel in central Beirut, Lebanon says"
     },
     {
-      "title": "Loud explosion rocks US embassy in Oslo, police search for perpetrators",
-      "description": "A noisy explosion hit the entrance of the US embassy in Oslo early Sunday, shattering glass but causing no injuries, Norwegian police said. While the cause of the blase was unknown, Oslo police commander Michael Dellemyr told local media it appeared that the act had been carried out by someone.",
-      "url": "https://www.france24.com/en/europe/20260308-loud-explosion-rocks-us-embassy-in-oslo-police-search-for-perpetrators",
-      "published": "Sun, 08 Mar 2026 03:23:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Loud explosion rocks US embassy in Oslo, police search for perpetrators"
-    },
-    {
       "title": "US v Iran - how did we get here?",
       "description": "It has been a week of war in the Middle East, sparked by the US and Israel launching strikes on Iran.",
       "url": "https://news.sky.com/story/us-v-iran-how-did-we-get-here-13516544",
@@ -1385,6 +1371,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ M 4.9 - 2026 Red River Parish, Louisiana Earthquake"
+    },
+    {
+      "title": "Loud explosion rocks US embassy in Oslo, police search for perpetrators",
+      "description": "A noisy explosion hit the entrance of the US embassy in Oslo early Sunday, shattering glass but causing no injuries, Norwegian police said. While the cause of the blast was unknown – and no perpetrators have been caught – Norwegian police said it may be linked to the ongoing security situation.",
+      "url": "https://www.france24.com/en/europe/20260308-loud-explosion-rocks-us-embassy-in-oslo-police-search-for-perpetrators",
+      "published": "Sun, 08 Mar 2026 03:23:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Red Cross shares audio of Iranian civilian explaining situation on the ground in Tehran: 'No respite'",
@@ -2255,17 +2252,6 @@
       "is_ticker": false
     },
     {
-      "title": "Access to RSS feeds is rejected",
-      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
-      "url": "https://api.reliefweb.int",
-      "published": "2026-03-08T11:09:01.370761Z",
-      "source": "ReliefWeb",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Nancy Guthrie's neighbors flag camera glitching as experts explain Wi-Fi jamming",
       "description": "FBI investigators reportedly asked neighbors about internet outages during Savannah Guthrie's mother's abduction, sparking Wi-Fi jammer speculation.",
       "url": "https://www.foxnews.com/us/nancy-guthries-neighbors-flag-camera-glitching-experts-explain-wi-fi-jamming",
@@ -2351,6 +2337,17 @@
       "url": "https://www.bbc.com/news/articles/c4g4q9xl4p6o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Mar 2026 23:11:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "The new boss at work may not be human",
+      "description": "As companies experiment with AI agents, the technology is beginning to reshape office hierarchies across US and Canada.",
+      "url": "https://www.aljazeera.com/economy/2026/3/8/the-new-boss-at-work-may-not-be?traffic_source=rss",
+      "published": "Sun, 08 Mar 2026 11:08:18 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2672,7 +2669,7 @@
     },
     {
       "title": "India news: India set for New Zealand clash in T20 final",
-      "description": "Across the nation, cricket fans are making plans and gearing up for the India v New Zealand T20 final in Ahmedabad. Meanwhile, Delhi is already seeing record-breaking heat. DW has more.",
+      "description": "Cricket fans are making plans and gearing up for the India v New Zealand T20 final in Ahmedabad. Meanwhile, Delhi has already broken a heat record. DW has more.",
       "url": "https://www.dw.com/en/india-news-india-set-for-new-zealand-clash-in-t20-final/live-76264189?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 8 Mar 2026 06:07:00 GMT",
       "source": "Deutsche Welle",
@@ -2686,17 +2683,6 @@
       "description": "Malaysia said Sunday that the latest search for Malaysia Airlines Flight MH370 ended in January without locating the aircraft, 12 years after the jet carrying 239 people disappeared in one of aviation’s enduring mysteries.",
       "url": "https://www.france24.com/en/asia-pacific/20260308-new-hunt-for-flight-mh370-ends-without-breakthrough",
       "published": "Sun, 08 Mar 2026 08:53:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Italy clinch historic first win over England in Six Nations nail-biter",
-      "description": "Italy ⁠pulled off ​their first-ever win over England at the 33rd ​attempt with a 23-18 victory at the Stadio Olimpico on Saturday as the visitors slumped to a third ​successive ‌Six Nations defeat after Leonardo Marin's ⁠try eight minutes from time.",
-      "url": "https://www.france24.com/en/sport/20260307-italy-clinch-historic-first-win-over-england-six-nations-thriller-rugby",
-      "published": "Sat, 07 Mar 2026 18:40:51 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
