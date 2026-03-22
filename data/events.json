@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-22T07:46:03.926072Z",
-  "event_count": 222,
+  "last_updated": "2026-03-22T08:14:36.822755Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Washington sends conflicting signals as war rages on in the Middle East",
@@ -233,20 +233,6 @@
       "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people",
-      "description": "Oahu's emergency office has ordered residents in the Waialua area to 'leave now' amid risk of road failures.",
-      "url": "https://www.aljazeera.com/news/2026/3/21/flash-flooding-swamps-hawaii-prompting-evacuation-orders-for-5500-people?traffic_source=rss",
-      "published": "Sat, 21 Mar 2026 18:01:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Flash flooding swamps Hawaii, prompting evacuation orders for 5,500 people"
     },
     {
       "title": "Middle East war risks undermining Syria’s fragile recovery, Security Council hears",
@@ -1084,6 +1070,20 @@
       "ticker_label": "🪖 Canadian mother and daughter ‘traumatized’ by ICE detainment, husband says"
     },
     {
+      "title": "A strike on a hospital in Sudan killed at least 64 people, WHO says",
+      "description": "No description available.",
+      "url": "https://www.npr.org/2026/03/22/nx-s1-5756283/strike-hospital-sudan-killed-64",
+      "published": "Sun, 22 Mar 2026 04:04:16 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A strike on a hospital in Sudan killed at least 64 people, WHO says"
+    },
+    {
       "title": "Iran's cultural heritage sites are being damaged by American and Israeli strikes",
       "description": "The costs of the joint U.S. and Israeli strikes on Iran are mounting in terms of civilian deaths and damage to some of Iran's most famous and beloved cultural heritage sites.",
       "url": "https://www.npr.org/2026/03/19/nx-s1-5748554/iran-cultural-heritage-damage-war-isfahan",
@@ -1638,20 +1638,6 @@
       "ticker_label": "🪖 Slovenia's governing liberals face right-wing populists in a tight parliamentary election"
     },
     {
-      "title": "Iran war expected to prevent Bank of England from cutting interest rates",
-      "description": "The Bank of England is holding its main interest rate at 3.75% in the wake of the oil and gas price hikes following the start of the Iran war",
-      "url": "https://abcnews.com/International/wireStory/iran-war-expected-prevent-bank-england-cutting-interest-131209469",
-      "published": "Thu, 19 Mar 2026 08:42:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war expected to prevent Bank of England from cutting interest rates"
-    },
-    {
       "title": "In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many",
       "description": "In Lebanon, renewed hostilities between Israel and Hezbollah and displacement are draining the joy from Ramadan and the run-up to the Islamic holiday of Eid al-Fitr for many",
       "url": "https://abcnews.com/International/wireStory/lebanon-war-displacement-mar-run-eid-al-fitr-131209979",
@@ -1664,6 +1650,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 In Lebanon, war and displacement mar run-up to Eid al-Fitr holiday for many"
+    },
+    {
+      "title": "Iran war expected to prevent Bank of England from cutting interest rates",
+      "description": "The Bank of England is holding its main interest rate at 3.75% in the wake of the oil and gas price hikes following the start of the Iran war",
+      "url": "https://abcnews.com/International/wireStory/iran-war-expected-prevent-bank-england-cutting-interest-131209469",
+      "published": "Thu, 19 Mar 2026 08:42:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war expected to prevent Bank of England from cutting interest rates"
     },
     {
       "title": "UN mourns constitutional lawyer-turned top crisis diplomat, Nicholas Haysom",
@@ -1791,6 +1791,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Buffy the Vampire Slayer actor Nicholas Brendon dies aged 54"
+    },
+    {
+      "title": "‘Can’t live like this’: Cuba hit by second nationwide blackout in a week",
+      "description": "Power grid collapses for a third time in March as the Cuban government battles a US-imposed oil blockade.",
+      "url": "https://www.aljazeera.com/news/2026/3/22/cant-live-like-this-cuba-hit-by-second-nationwide-blackout-in-a-week?traffic_source=rss",
+      "published": "Sun, 22 Mar 2026 07:57:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
@@ -1954,20 +1965,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Palestinians celebrate Eid in Gaza, making the most of a fragile ceasefire",
-      "description": "The ceasefire, in effect for the past six months, has brought some reprieve to Palestinians in Gaza despite continued hardship, displacement and Israeli restrictions on aid.",
-      "url": "https://www.npr.org/sections/the-picture-show/2026/03/20/nx-s1-5754623/gaza-eid-al-fitr-ramadan-palestinians",
-      "published": "Fri, 20 Mar 2026 12:19:45 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Palestinians celebrate Eid in Gaza, making the most of a fragile ceasefire"
     },
     {
       "title": "Germany news: State of Rhineland-Palatinate holds elections",
@@ -2146,6 +2143,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-22T08:14:15.570967Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
