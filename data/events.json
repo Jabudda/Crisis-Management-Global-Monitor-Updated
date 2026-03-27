@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-27T07:33:00.532917Z",
+  "last_updated": "2026-03-27T08:23:44.840904Z",
   "event_count": 224,
   "events": [
     {
@@ -29,20 +29,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Philippines declares ‘national energy emergency’ and boosts coal power as Iran war grinds on"
-    },
-    {
-      "title": "Wild autumn weather delivers snow, storms and power cuts to eastern Australia",
-      "description": "East coast slammed on Thursday night with wind and rain, with more warnings in place for Friday Cyclone Narelle to make landfall today and bring possible flash flooding to Perth Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Thousands of Australians woke without power on Friday after a series of wild autumn storms soaked communities in multiple states – and the high country recorded its first big snowfall of 2026. While many storm watchers kept their eyes on the west and the path of Tropical Cyclone Narelle , Australia’s east coast was slammed on Thursday night, with more warnings in place for Friday. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/27/wild-autumn-weather-delivers-snow-storms-and-power-cuts-to-eastern-australia",
-      "published": "Fri, 27 Mar 2026 03:36:47 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wild autumn weather delivers snow, storms and power cuts to eastern Australia"
     },
     {
       "title": "As 'war of choice' escalates into international crisis, Miller says Trump has 'no strategy'",
@@ -99,6 +85,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 MIDDLE EAST LIVE 24 March: West Bank attacks and Lebanon in focus as Security Council meets"
+    },
+    {
+      "title": "Wild autumn weather delivers snow, dangerous swells and power cuts to eastern Australia",
+      "description": "East coast slammed on Thursday night with wind and rain, while Friday brings freezing temperatures and marine warnings Cyclone Narelle to make landfall today and bring possible flash flooding to Perth Get our breaking news email , free app or daily news podcast A dangerous swell has forced the suspension of some ferries across Sydney harbour, the latest in a spate of wild weather that has brought snowfall, power outages and storms to the country’s south-east. Surf Life Saving NSW is warning the highest waves may surge close to 15 metres during the next 24 to 48 hours, which could be the biggest in 100 years, as dangerous swells and strong winds create deadly conditions. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/27/wild-autumn-weather-delivers-snow-storms-and-power-cuts-to-eastern-australia",
+      "published": "Fri, 27 Mar 2026 07:54:06 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Wild autumn weather delivers snow, dangerous swells and power cuts to eastern Australia"
     },
     {
       "title": "Iran war deflects attention from Ukraine as Russia starts spring offensive",
@@ -327,20 +327,6 @@
       "ticker_label": "🌪️ WA premier issues transparency warning to fuel suppliers – as it happened"
     },
     {
-      "title": "Winding down or spinning out of control? Trump's mixed signals on Iran rattle traditional allies",
-      "description": "As G-Seven foreign ministers root for the offramp in the Iran war, François Picard’s panel weighs the damage done to the region, to the world economy and to transatlantic trust. From Donald Trump’s threats against NATO allies to France denying it disinvited South Africa from next June’s G7 summit to placate Washington, The France 24 Debate weighs US threats… and Iran’s threats.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260326-winding-down-or-spinning-out-of-control-trump-s-mixed-signals-on-iran-rattle-traditional-allies",
-      "published": "Thu, 26 Mar 2026 19:22:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Winding down or spinning out of control? Trump's mixed signals on Iran rattle traditional allies"
-    },
-    {
       "title": "UN calls for solidarity and political will to stamp out racial discrimination",
       "description": "Nearly 70 years after South African police fired upon peaceful demonstrators in Sharpeville protesting apartheid-era laws, killing 69, the UN renewed the commitment to work for justice and equality on Monday, marking the International Day for the Elimination of Racial Discrimination.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167183",
@@ -361,6 +347,20 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Winding down or spinning out of control? Trump's mixed signals on Iran rattle traditional allies",
+      "description": "As G7 foreign ministers root for the offramp in the Iran war, François Picard’s panel weighs the damage done to the region, to the world economy and to transatlantic trust. From Donald Trump's threats against NATO allies to France denying it disinvited South Africa from next June’s G7 summit to placate Washington, we weighs US threats… and those of Iran.",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20260326-winding-down-or-spinning-out-of-control-trump-s-mixed-signals-on-iran-rattle-traditional-allies",
+      "published": "Thu, 26 Mar 2026 19:22:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Winding down or spinning out of control? Trump's mixed signals on Iran rattle traditional allies"
     },
     {
       "title": "A vigil in Colombia, Messi in action and other top photos from Latin America and the Caribbean",
@@ -501,7 +501,7 @@
     },
     {
       "title": "Football: France edge past Brazil in World Cup dress rehearsal in Boston",
-      "description": "Kylian Mbappé and Hugo Ekitike both scored as France found their bearings in Boston with a 2-1 friendly win over Brazil on Thursday. Les Bleus will return to Massachusetts in three months, with the state capital set to serve as their World Cup base camp. The sports recap of the day with France 24 journalists and a summary of world sports news, both on and off the field.",
+      "description": "Kylian Mbappé and Hugo Ekitike both scored as France found their bearings in Boston with a 2-1 friendly win over Brazil on Thursday. Les Bleus will return to Massachusetts in three months' time, with the state capital set to serve as their World Cup base camp.",
       "url": "https://www.france24.com/en/football-france-edge-past-brazil-in-world-cup-dress-rehearsal-in-boston-1",
       "published": "Fri, 27 Mar 2026 07:24:46 GMT",
       "source": "France24",
@@ -551,6 +551,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran's war propaganda includes memes directed at Trump"
+    },
+    {
+      "title": "India news: Government reduces special excise duties on petrol and diesel",
+      "description": "The Indian government has ordered a cut in its special excise duties for petrol and diesel amid the volatility in global crude prices from the Iran war. DW has the latest.",
+      "url": "https://www.dw.com/en/india-news-government-reduces-special-excise-duties-on-petrol-and-diesel/live-76555760?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Mar 2026 07:37:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 India news: Government reduces special excise duties on petrol and diesel"
     },
     {
       "title": "Transgender athletes barred from female category events at Olympics",
@@ -625,6 +639,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli opposition leader rails against ‘multi-front war without strategy’",
+      "description": "Yair Lapid says military 'is stretched to the limit and beyond' as Israeli forces wage attacks on Iran and Lebanon.",
+      "url": "https://www.aljazeera.com/news/2026/3/27/israeli-opposition-leader-rails-against-multi-front-war-without-strategy?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 07:42:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli opposition leader rails against ‘multi-front war without strategy’"
+    },
+    {
       "title": "US-Israel war on Iran: What’s happening on day 28 of attacks?",
       "description": "Trump has delayed attacks on Iran's energy facilities by 10 days, claiming talks are going well - though Iran disagrees.",
       "url": "https://www.aljazeera.com/news/2026/3/27/us-israel-war-on-iran-whats-happening-on-day-28-of-attacks-2?traffic_source=rss",
@@ -651,20 +679,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sri Lanka braces for new economic crisis as war on Iran continues"
-    },
-    {
-      "title": "Iran war live: Trump delays attacks on Iranian energy sector by 10 days",
-      "description": "Iranian missiles, drones target Kuwait, UAE, Saudi Arabia and Jordan as Trump says Iran has 'chance to make a deal'.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/3/27/iran-war-live-trump-delays-attacks-on-iranian-energy-sector-by-10-days?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Trump delays attacks on Iranian energy sector by 10 days"
     },
     {
       "title": "Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war",
@@ -707,7 +721,7 @@
     },
     {
       "title": "Middle East war live: Iran launches strikes on Israel and Gulf sites",
-      "description": "Iran's Revolutionary Guards said on Friday they conducted missile and drone strikes the previous day against targets in Israel and US-linked military facilities across the Gulf. US Secretary of State Marco Rubio is in France for a meeting of G7 foreign ministers as Washington faces mounting criticism for its spiralling war on Iran. Follow our liveblog for the latest updates.",
+      "description": "Iran's Revolutionary Guards said on Friday they conducted missile and drone strikes the previous day against targets in Israel and US-linked military facilities across the Gulf. US Secretary of State Marco Rubio is in France for a G7 meeting, making his first trip abroad since the US-Israeli war on Iran broke out last month. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260327-middle-east-live-iran-launches-strikes-on-israel-and-gulf-sites",
       "published": "Fri, 27 Mar 2026 03:24:12 GMT",
       "source": "France24",
@@ -720,7 +734,7 @@
       "ticker_label": "🪖 Middle East war live: Iran launches strikes on Israel and Gulf sites"
     },
     {
-      "title": "UK and NATO allies 'need to prepare to defend Europe without US'",
+      "title": "UK told to prepare for 'worst case' without US defence",
       "description": "The UK and its NATO allies in Europe must prepare for a \"worst case scenario\" of the US not defending them in a crisis, an influential committee of peers and MPs has warned.",
       "url": "https://news.sky.com/story/uk-and-nato-allies-need-to-prepare-to-defend-europe-without-us-mps-say-13524909",
       "published": "Fri, 27 Mar 2026 01:40:00 +0000",
@@ -731,7 +745,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UK and NATO allies 'need to prepare to defend Europe without US'"
+      "ticker_label": "🪖 UK told to prepare for 'worst case' without US defence"
     },
     {
       "title": "Somali children are 'on the edge' as hunger spreads",
@@ -831,17 +845,6 @@
       "is_ticker": false
     },
     {
-      "title": "Zimbabwe says 15 nationals killed after being lured to fight for Russia",
-      "description": "Zimbabwe says it is engaging the Russian government to repatriate bodies and bring home those still alive.",
-      "url": "https://www.bbc.com/news/articles/clyxevz45x9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 10:55:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Iran war: Houthi restraint driven by local priorities",
       "description": "Despite threatening to intervene in the war in Iran, the Iran-backed Yemeni Houthi militia has so far remained passive. What are the reasons?",
       "url": "https://www.dw.com/en/iran-war-houthi-restraint-driven-by-local-priorities/a-76546651?maca=en-rss-en-all-1573-xml-mrss",
@@ -865,20 +868,6 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "'Tehran assumes war is behind them:  Iran will not capitulate, Trump has it all wrong'",
-      "description": "Nadia Massih is pleased to welcome Danny Citrinowicz, Senior Researcher in the Iran and Shi'ite Axis Program at the Institute for National Security Studies. According to Citrinowicz, the trajectory of the war in Iran hinges not on battlefield dominance alone, but on competing perceptions of resilience, legitimacy, and leverage. Despite America's overwhelming military asymmetry, the Iranian regime interprets its endurance as a form of strategic success, reinforcing its bargaining position and diminishing the likelihood of near-term diplomatic resolution.",
-      "url": "https://www.france24.com/en/tehran-assumes-war-is-behind-them-iran-will-not-capitulate-trump-has-it-all-wrong",
-      "published": "Thu, 26 Mar 2026 17:30:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'Tehran assumes war is behind them:  Iran will not capitulate, Trump has it all wrong'"
     },
     {
       "title": "US military sends drones, alongside 200 troops, to Nigeria amid fears of renewed Boko Haram insurgency",
@@ -1184,17 +1173,6 @@
       "is_ticker": false
     },
     {
-      "title": "Moscow and St Petersburg internet blackouts raise fears of Kremlin surveillance",
-      "description": "Restrictions that had left Moscow residents without mobile internet for three weeks – with the Kremlin citing “security” – were lifted on Wednesday while St Petersburg endured a third consecutive day of outages. Some fear an attempt to isolate Russians from information from the outside world amid a parallel government effort to ramp up digital surveillance.",
-      "url": "https://www.france24.com/en/europe/20260326-moscow-mobile-internet-restored-as-saint-petersburg-goes-offline",
-      "published": "Thu, 26 Mar 2026 18:10:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "A knife-wielding man kills a woman at a Tokyo Pokemon shop before taking his own life",
       "description": "A knife attack at a Pokémon store in downtown Tokyo has left a woman and the attacker dead, police say",
       "url": "https://abcnews.com/International/wireStory/knife-wielding-man-kills-woman-tokyo-pokemon-shop-131431537",
@@ -1245,6 +1223,17 @@
       "ticker_label": "🪖 Oscars moving to a new home outside Hollywood"
     },
     {
+      "title": "Whale swims off sandbank after big German rescue effort on Baltic coast",
+      "description": "Rescue teams now hope the whale will swim out of the shallow waters of Lübeck Bay and into the wider sea.",
+      "url": "https://www.bbc.com/news/articles/c9vlmxwk2jmo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 08:00:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Rescuers attempt to save stranded humpback whale off German coast",
       "description": "The marine mammal, which is stuck on a sandbank, was first spotted in Lübeck Bay on Monday.",
       "url": "https://www.bbc.com/news/articles/ce3dn005x7xo?at_medium=RSS&at_campaign=rss",
@@ -1256,18 +1245,18 @@
       "is_ticker": false
     },
     {
-      "title": "Russia bans Oscar-winning film 'Mr Nobody Against Putin'",
-      "description": "A court alleges that the documentary promoted \"negative attitudes\" about the Russian government and the war in Ukraine.",
-      "url": "https://www.bbc.com/news/articles/cly97ddwgeko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 13:18:50 GMT",
-      "source": "BBC News",
+      "title": "Iran bans sports teams from travelling to ‘hostile’ countries amid war",
+      "description": "Sports Ministry says ban for 'security' of athletes before a game between Iranian and Emirati clubs in Saudi Arabia.",
+      "url": "https://www.aljazeera.com/sports/2026/3/27/iran-bans-sports-teams-from-travelling-to-hostile-countries-amid-war?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 07:25:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia bans Oscar-winning film 'Mr Nobody Against Putin'"
+      "ticker_label": "🪖 Iran bans sports teams from travelling to ‘hostile’ countries amid war"
     },
     {
       "title": "Malaysia’s ships allowed to pass Strait of Hormuz, PM Anwar says",
@@ -1337,22 +1326,22 @@
       "ticker_label": "🪖 Who is fighting in Myanmar’s multi-front civil war?"
     },
     {
-      "title": "Projectile from Lebanon kills at least one in north Israel",
-      "description": "Video captured flames and black smoke where a projectile from Lebanon killed at least one person in northern Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/projectile-from-lebanon-kills-at-least-one-in-north-israel?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 00:11:00 +0000",
-      "source": "Al Jazeera",
+      "title": "Retail spending fell in March as consumers pull back",
+      "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
+      "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
+      "published": "Fri, 14 Apr 2023 14:29:52 GMT",
+      "source": "CNN World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Retail spending fell in March as consumers pull back",
-      "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
-      "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
-      "published": "Fri, 14 Apr 2023 14:29:52 GMT",
-      "source": "CNN World",
+      "title": "‘The violence of racist tyranny’: African Guernica goes on display alongside Picasso masterpiece",
+      "description": "Piece by late South African artist Dumile Feni is part of new series History Doesn’t Repeat Itself, But It Does Rhyme On the second floor of the Reina Sofía, in the very spot where Picasso’s Guernica was first exhibited when it arrived in the Madrid museum 34 years ago, there now hangs a smaller, near-namesake of the Spanish artist’s most famous work. While African Guernica, which was drawn by the late South African artist Dumile Feni in 1967, may lack the scale of Picasso’s masterpiece, its depth, anger and unnerving juxtaposition of man and beast, light and dark, and innocence and cruelty, are every bit as disturbing. Continue reading...",
+      "url": "https://www.theguardian.com/artanddesign/2026/mar/27/african-guernica-dumile-feni-on-display-alongside-picasso",
+      "published": "Fri, 27 Mar 2026 07:42:21 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1499,20 +1488,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 India sees spike in social media censorship amid Iran war"
-    },
-    {
-      "title": "Germany news: Bundestag approves fuel station price brake amid Iran war and rising oil costs",
-      "description": "German petrol stations will be limited to increasing prices once per day if the new law clears the upper house. After slashing jobs at home, BASF has opened a sprawling new factory in China.",
-      "url": "https://www.dw.com/en/germany-news-bundestag-approves-fuel-station-price-brake-amid-iran-war-and-rising-oil-costs/live-76539515?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Mar 2026 11:28:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany news: Bundestag approves fuel station price brake amid Iran war and rising oil costs"
     },
     {
       "title": "Are US-Iran peace talks actually happening? Everything we know so far",
@@ -1737,17 +1712,6 @@
       "ticker_label": "💥 Palestinians flee tear gas as Israeli settlers arrive in occupied West Bank"
     },
     {
-      "title": "Costa Rica to accept 25 deportees per week under Trump deportation effort",
-      "description": "The Central American nation is latest to sign a 'third-country' deportation agreement with the Trump administration.",
-      "url": "https://www.aljazeera.com/news/2026/3/26/costa-rica-to-accept-25-deportees-per-week-under-trump-deportation-effort?traffic_source=rss",
-      "published": "Thu, 26 Mar 2026 23:09:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1895,6 +1859,17 @@
       "ticker_label": "🪖 Ukraine: US tied guarantees to Donbas withdrawal — Zelenskyy"
     },
     {
+      "title": "As Maduro appears in New York court, Venezuela’s state apparatus 'remains in place'",
+      "description": "François Picard is pleased to welcome Christopher Sabatini, Senior Research Fellow for Latin America, the US and the Americas program at Chatham House. According to Sabatini, the removal of a head of state through external force may appear, at first glance, as a decisive rupture. Yet what unfolds beneath the surface reveals continuity rather than transformation. The structures of power, the networks of coercion, and the embedded systems of corruption do not dissolve with the extraction of a single leader.",
+      "url": "https://www.france24.com/en/as-maduro-appears-in-new-york-court-venezuela-s-state-apparatus-remains-in-place",
+      "published": "Fri, 27 Mar 2026 07:48:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "South Africa disinvited from G7 in France, backtracks on initial claim of US pressure",
       "description": "South Africa announced Thursday that it has been excluded from the G7 summit in France this June, sparking tensions with the United States. Initially blaming Washington for pressure on Paris, Pretoria later backtracked, emphasising ongoing diplomatic engagement.",
       "url": "https://www.france24.com/en/africa/20260327-south-africa-excluded-from-g7-summit-due-to-boycott-threats-from-us",
@@ -1968,17 +1943,6 @@
       "description": "Announcement is the latest example of Trump literally stamping his name on US institutions.",
       "url": "https://www.aljazeera.com/economy/2026/3/27/trumps-signature-to-appear-on-us-currency-in-first-for-sitting-president?traffic_source=rss",
       "published": "Fri, 27 Mar 2026 03:49:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Analysts say Trump doesn’t understand Iran reality has changed",
-      "description": "Watch this discussion between Ross Harrison and Hassan Ahmadian on US strategy regarding Iran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/analysts-say-trump-doesnt-understand-iran-reality-has-changed?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 02:00:40 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
@@ -2074,10 +2038,10 @@
       "is_ticker": false
     },
     {
-      "title": "Spanish woman dies by euthanasia after long legal battle with father",
-      "description": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
-      "url": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 20:33:07 GMT",
+      "title": "Women secretly filmed, then ridiculed and abused online",
+      "description": "Women in Kenya and Ghana tell the BBC about being approached by a Russian man who later posts videos of them without their consent.",
+      "url": "https://www.bbc.com/news/articles/cy5141zyllno?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Mar 2026 07:20:18 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2096,10 +2060,10 @@
       "is_ticker": false
     },
     {
-      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
-      "description": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
-      "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Mar 2026 17:16:06 GMT",
+      "title": "Spanish woman dies by euthanasia after long legal battle with father",
+      "description": "The European Court of Human Rights (ECHR) ruled in Noelia Castillo's favour earlier this week.",
+      "url": "https://www.bbc.com/news/articles/c7vqdd23y0vo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 20:33:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2111,6 +2075,17 @@
       "description": "The letter, seen by the BBC, also called on Ferguson to share any knowledge about Andrew Mountbatten-Windsor's links to Epstein.",
       "url": "https://www.bbc.com/news/articles/c80m5y428xpo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Mar 2026 00:52:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Orban's Hungarian government accused of mass voter intimidation ahead of election",
+      "description": "A film quoting voters, mayors and a police officer alleges money and drugs are being offered to pressure people to back the ruling party.",
+      "url": "https://www.bbc.com/news/articles/c36r0068xp2o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Mar 2026 17:16:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2176,10 +2151,10 @@
       "is_ticker": false
     },
     {
-      "title": "Endangered monarch butterfly population surges 64 percent",
-      "description": "Mexico's monarch butterfly population surged 64 percent this winter.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/endangered-monarch-butterfly-population-surges-64-percent?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 03:05:27 +0000",
+      "title": "Now in power, Nepal’s rapper-politician Balen Shah faces new challenge",
+      "description": "Shah was a rebel — crude and different from the politicians who previously led Nepal. How will he be in office?",
+      "url": "https://www.aljazeera.com/features/2026/3/27/now-in-power-nepals-rapper-politician-balen-shah-faces-new-challenge?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 08:06:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2187,10 +2162,32 @@
       "is_ticker": false
     },
     {
-      "title": "Former Venezuelan president Maduro seeks to throw out US drug charges",
-      "description": "Nicolas Maduro appeared in a New York court seeking to dismiss drug trafficking charges.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/former-venezuelan-president-maduro-seeks-to-throw-out-us-drug-charges?traffic_source=rss",
-      "published": "Fri, 27 Mar 2026 01:07:50 +0000",
+      "title": "How can students in Gaza continue to learn with no universities?",
+      "description": "We look at the hardships of students in Gaza trying to pursue higher education after Israel destroyed all universities.",
+      "url": "https://www.aljazeera.com/video/the-stream/2026/3/27/how-can-students-in-gaza-continue-to-learn-with-no-universities?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 08:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel’s opposition says military forces are ‘in collapse’",
+      "description": "Yair Lapid has criticises the government and says military forces are ‘in collapse.'",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/israels-opposition-says-military-forces-are-in?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 07:34:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Endangered monarch butterfly population surges 64 percent",
+      "description": "Mexico's monarch butterfly population surged 64 percent this winter.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/27/endangered-monarch-butterfly-population-surges-64-percent?traffic_source=rss",
+      "published": "Fri, 27 Mar 2026 03:05:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2319,17 +2316,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lebo M sues comedian Learnmore Jonasi claiming Circle of Life misrepresentation",
-      "description": "Grammy winner seeks more than $20m in damages over mistranslation of The Lion King chant A Grammy-winning South African composer who wrote and performed the opening chant in Circle of Life for Disney’s The Lion King is suing a comedian for allegedly damaging his reputation by intentionally misrepresenting the song’s meaning on a podcast and in his standup routine. Lebohang Morake’s lawsuit accuses the Zimbabwean comedian Learnmore Mwanyenyeka, known as Learnmore Jonasi, of intentionally mistranslating the chant, which launches the 1994 movie and is central to staged versions as well as Disney’s 2019 remake. Continue reading...",
-      "url": "https://www.theguardian.com/culture/2026/mar/25/ebo-m-lion-king-circle-of-life-chant-learnmore-jonasi-lawsuit",
-      "published": "Wed, 25 Mar 2026 03:06:10 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Albanese government says fuel supply ‘same, if not higher’ in coming weeks as Coalition calls for halving of excise",
       "description": "Latest figures from ACCC show diesel and unleaded petrol prices across the five largest cities up 10% and 8% respectively Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The prime minister and energy minister moved to reassure the public about normal or even higher levels of fuel supply in the coming weeks, as the Coalition escalated calls for a cut to the fuel excise and the government downplayed the prospect of any major restrictions on petrol sales. It comes as the latest figures from the consumer watchdog showed diesel prices across Australia’s five largest cities have risen by an average of 10% over the last week, while unleaded petrol was up 8%. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/mar/27/australia-fuel-supply-petrol-diesel-prices",
@@ -2344,7 +2330,7 @@
       "title": "M 6.5 - 122 km E of Yamada, Japan",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-03-26 14:18:50 UTC 2026-03-26 14:18:50 UTC at epicenter Location 39.446°N 143.372°E Depth 9.51 km (5.91 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000s7u4",
-      "published": "2026-03-27T01:45:52.278Z",
+      "published": "2026-03-27T07:45:41.653Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2489,6 +2475,17 @@
       "url": "https://www.dw.com/en/looksmaxxing-the-manosphere-beauty-cult/a-76538730?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 26 Mar 2026 13:42:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump's signature to appear on US currency in a first for sitting president",
+      "description": "President Donald Trump's signature will soon appear on all new US paper currency, the first time in history that a sitting president has signed American money, the Treasury Department announced Thursday. The move is just the latest example of Trump pushing his name and likeness on US institutions.",
+      "url": "https://www.france24.com/en/americas/20260327-trump-s-signature-to-appear-on-us-currency-in-first-for-sitting-president",
+      "published": "Fri, 27 Mar 2026 07:33:28 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
