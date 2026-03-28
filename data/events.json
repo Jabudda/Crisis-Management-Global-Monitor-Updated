@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T10:46:02.023376Z",
-  "event_count": 224,
+  "last_updated": "2026-03-28T11:12:21.578851Z",
+  "event_count": 225,
   "events": [
     {
       "title": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
@@ -199,8 +199,8 @@
       "ticker_label": "🪖 ‘It’s fired people up’: support grows, including within Labor, for new gas tax to curb wartime profits"
     },
     {
-      "title": "Strikes on Ukrainian cities kill three, child dies in drone attack on Moscow",
-      "description": "Russian strikes on Ukraine killed three people and wounded at least 13 overnight Friday into Saturday, while a Ukrainian strike killed a child in Russia, according to local authorities.",
+      "title": "Russian attacks kill four in Ukraine, child dies in drone strike on Russia",
+      "description": "Russian strikes on Ukraine killed four people and wounded at least 13 overnight Friday into Saturday, while a Ukrainian strike killed a child in Russia, according to local authorities.",
       "url": "https://www.france24.com/en/europe/20260328-strikes-on-ukrainian-cities-kill-three-child-dies-in-drone-attack-on-moscow",
       "published": "Sat, 28 Mar 2026 08:17:04 GMT",
       "source": "France24",
@@ -210,7 +210,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Strikes on Ukrainian cities kill three, child dies in drone attack on Moscow"
+      "ticker_label": "🪖 Russian attacks kill four in Ukraine, child dies in drone strike on Russia"
     },
     {
       "title": "Syria: UN Commission documents grave violations in July 2025 escalation in Sweida",
@@ -638,20 +638,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Trump says US-Israeli war on Iran creating a new Middle East",
-      "description": "Donald Trump told a Saudi investment conference that the Middle East will soon be free from Iranian “nuclear blackmail.”",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/3/28/trump-says-us-israeli-war-on-iran-creating-a-new-middle-east?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 00:05:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump says US-Israeli war on Iran creating a new Middle East"
     },
     {
       "title": "Australia will be left with no submarines if it abandons Aukus, senior defence official warns",
@@ -1187,6 +1173,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UN human rights chief calls on US to conclude probe into Iran school strike"
+    },
+    {
+      "title": "The war on Iran faces a MAGA backlash",
+      "description": "A deep split in the MAGA movement threatens Trump’s Iran war.",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/3/28/the-war-on-iran-faces-a-maga-backlash?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 10:31:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 The war on Iran faces a MAGA backlash"
     },
     {
       "title": "Trump says ‘Cuba is next’ target of US military",
@@ -2133,6 +2133,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-28T11:12:04.700521Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
