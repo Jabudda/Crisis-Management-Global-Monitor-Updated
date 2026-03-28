@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-28T22:11:28.277262Z",
-  "event_count": 223,
+  "last_updated": "2026-03-28T22:45:18.534292Z",
+  "event_count": 224,
   "events": [
     {
       "title": "MIDDLE EAST LIVE 27 March: Humanitarian crisis deepens across the region",
@@ -1182,15 +1182,18 @@
       "is_ticker": false
     },
     {
-      "title": "Older Australians in ‘immediate danger’ as fuel crisis affects travel for aged care workers",
-      "description": "Unions and farmers call for government intervention as agriculture, construction and waste industries also at risk from higher prices Get our breaking news email , free app or daily news podcast Care workers, tradespeople and transport drivers are being hit hard by ballooning fuel costs, with some industry groups urging the government to roll out assistance packages or even a jobkeeper-style wage assistance program to help businesses avoid laying off staff. Reports of small mining businesses scaling back operations and some construction companies deciding against hiring more apprentices have prompted suggestions the government should step in to help, with the Master Builders Association already forecasting a downturn in the number of homes that will be built this year. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/mar/28/fuel-crisis-australia-aged-home-care-workers-farmers-construction-waste",
-      "published": "Fri, 27 Mar 2026 14:00:01 GMT",
+      "title": "Coroner to investigate after Northern Territory records two deaths in custody in a week",
+      "description": "A 26-year old man died in a cell in Darwin on Saturday morning, and a 25 year-old man died in a police car on Tuesday Get our breaking news email , free app or daily news podcast A 26-year-old man died at Darwin correctional centre on Saturday, Northern Territory police said. It was the territory’s second reported death in custody in just a matter of days. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/mar/29/northern-territory-police-coroner-investigating-darwin-two-deaths-in-custody-one-week-ntwnfb",
+      "published": "Sat, 28 Mar 2026 22:04:18 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Coroner to investigate after Northern Territory records two deaths in custody in a week"
     },
     {
       "title": "Paris: Suspected bomb attack outside Bank of America foiled",
@@ -1382,6 +1385,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Belarus leader gifts rifle to North Korea's Kim as they sign friendship treaty"
+    },
+    {
+      "title": "Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference",
+      "description": "Iranian opposition leader calls on Trump administration to 'stay the course' as the US and Israel wage war on Iran.",
+      "url": "https://www.aljazeera.com/news/2026/3/28/reza-pahlavi-pledges-to-make-iran-great-again-at-2026-cpac-conference?traffic_source=rss",
+      "published": "Sat, 28 Mar 2026 22:05:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Reza Pahlavi pledges to ‘make Iran great again’ at 2026 CPAC conference"
     },
     {
       "title": "Could Ukraine’s drone expertise serve Gulf countries?",
@@ -1980,17 +1997,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pakistan’s Naseem Shah under fire after criticism of politician’s PSL visit",
-      "description": "Pakistan's Naseem Shah under fire for slamming politician's presence at start of closed-doors PSL game in Lahore.",
-      "url": "https://www.aljazeera.com/sports/2026/3/28/pakistan-quick-slammed-for-criticizing-politicians-presence-at-cricket-game?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 12:28:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Zelenskyy visits Doha as Ukraine, Qatar sign defense pact",
       "description": "Ukraine and Qatar have agreed to cooperate on high-tech projects and share battlefield expertise on countering missile and drone threats.",
       "url": "https://www.dw.com/en/zelenskyy-visits-doha-as-ukraine-qatar-sign-defense-pact/a-76578423?maca=en-rss-en-all-1573-xml-mrss",
@@ -2115,6 +2121,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Access to RSS feeds is rejected",
+      "description": "Your large amount of concurrent requests for RSS data causes problems. Use the API or contact ops@reliefweb.int",
+      "url": "https://api.reliefweb.int",
+      "published": "2026-03-28T22:45:02.591105Z",
+      "source": "ReliefWeb",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
