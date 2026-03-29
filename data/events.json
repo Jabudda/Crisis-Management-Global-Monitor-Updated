@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-29T04:25:09.416946Z",
+  "last_updated": "2026-03-29T05:18:06.097796Z",
   "event_count": 223,
   "events": [
     {
@@ -71,6 +71,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Myanmar: WFP reports fragile recovery one year after deadly earthquake"
+    },
+    {
+      "title": "Middle East war live: Loud blasts rock Tehran as Yemen's Houthis widen conflict",
+      "description": "Two powerful explosions shook northern Tehran early on Sunday as Yemen's Iran-backed Houthi rebels claimed a second missile attack on Israel, further escalating the monthlong war in the Middle East. The Israeli army announced the death in combat of a fifth soldier in south Lebanon. Follow our live blog for the latest developments.",
+      "url": "https://www.france24.com/en/middle-east/20260329-middle-east-war-live-loud-blasts-rock-tehran-yemen-houthis-widen-conflict-iran-israel",
+      "published": "Sun, 29 Mar 2026 05:08:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 39,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Middle East war live: Loud blasts rock Tehran as Yemen's Houthis widen conflict"
     },
     {
       "title": "Middle East war: Attacks on vital healthcare, evacuation strike fears",
@@ -373,20 +387,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ ‘No one has had a dry run’: weather warnings for storm-ravaged WA after Cyclone Narelle downgraded to tropical low"
-    },
-    {
-      "title": "Cuba holds civilian military drills amid deepening fuel crisis",
-      "description": "Cuba held a nationwide civilian military exercise Friday involving weapons training and combat drills, part of a broader push to expand militarisation to youth under its “war of the entire people” doctrine, which authorities describe as a collective patriotic duty. The drills came amid a deepening humanitarian crisis for the island as it faces chronic fuel shortages due to a US oil blockade.",
-      "url": "https://www.france24.com/en/cuba-holds-civilian-military-drills-amid-deepening-fuel-crisis",
-      "published": "Sat, 28 Mar 2026 11:33:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Cuba holds civilian military drills amid deepening fuel crisis"
     },
     {
       "title": "UN chief calls for immediate release of 118 detained UN staff",
@@ -755,6 +755,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump is waging war based on instinct and it isn't working"
+    },
+    {
+      "title": "What happens in the occupied West Bank under the shadow of the Iran war",
+      "description": "Since Israel went to war with Iran, settler violence in the occupied West Bank has surged.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/3/29/what-happens-in-the-occupied-west-bank-under-the-shadow-of-the-iran-war?traffic_source=rss",
+      "published": "Sun, 29 Mar 2026 04:34:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 What happens in the occupied West Bank under the shadow of the Iran war"
     },
     {
       "title": "Trump’s trip to meet Xi Jinping in China rescheduled for May due to Iran war",
@@ -1476,20 +1490,6 @@
       "ticker_label": "🪖 Senegal parade AFCON trophy, despite title being awarded to Morocco"
     },
     {
-      "title": "One month in, disapproval high but US lawmakers take no action on Iran war",
-      "description": "Republicans and Democrats remain entrenched despite public polling showing dismay over war, petrol prices.",
-      "url": "https://www.aljazeera.com/news/2026/3/28/one-month-in-disapproval-high-but-us-lawmakers-take-no-action-on-iran-war?traffic_source=rss",
-      "published": "Sat, 28 Mar 2026 15:39:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 One month in, disapproval high but US lawmakers take no action on Iran war"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1686,6 +1686,17 @@
       "description": "Mexico’s navy has located two sailboats that went missing while carrying humanitarian aid to Cuba",
       "url": "https://abcnews.com/International/wireStory/mexicos-navy-locates-2-missing-sailboats-carrying-aid-131503756",
       "published": "Sat, 28 Mar 2026 13:05:46 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Two British men detained in a suspected antisemitic hate crime are released on bail",
+      "description": "British police say two men arrested in connection with an arson attack that destroyed four ambulances owned by a Jewish charity have been released on bail as authorities continue to investigate the suspected antisemitic hate crime",
+      "url": "https://abcnews.com/International/wireStory/british-men-detained-suspected-antisemitic-hate-crime-released-131424228",
+      "published": "Thu, 26 Mar 2026 04:58:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1965,7 +1976,7 @@
     },
     {
       "title": "No Kings protests across the US rally against Donald Trump",
-      "description": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen preformed to crowds.",
+      "description": "One of the flagship No Kings rallies happened in Minnesota, where singer Bruce Springsteen performed to crowds.",
       "url": "https://www.bbc.com/news/articles/cq8wy7g1gd1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 29 Mar 2026 04:11:27 GMT",
       "source": "BBC News",
@@ -2642,7 +2653,7 @@
       "title": "North Korea conducts engine test for missile capable of targeting US mainland",
       "description": "North Korean leader Kim Jong Un has observed a test of a high-thrust, solid-fuel engine for weapons",
       "url": "https://abcnews.com/International/wireStory/north-korea-conducts-engine-test-missile-capable-targeting-131514446",
-      "published": "Sat, 28 Mar 2026 23:57:59 -0400",
+      "published": "Sun, 29 Mar 2026 00:47:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2657,17 +2668,6 @@
       "description": "Nepal’s youngest prime minister will take the oath of office in a ceremony shaped as much by astrology as politics",
       "url": "https://abcnews.com/International/wireStory/nepals-new-prime-minister-chooses-auspicious-time-oath-131461117",
       "published": "Fri, 27 Mar 2026 02:33:04 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Nepal's newly elected parliament is sworn in months after a youth-led revolt",
-      "description": "Nepal’s newly elected members of parliament have been sworn in, with nearly two-thirds of them from a political party that is less than four years old",
-      "url": "https://abcnews.com/International/wireStory/nepals-newly-elected-parliament-sworn-months-after-youth-131425555",
-      "published": "Thu, 26 Mar 2026 06:30:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
