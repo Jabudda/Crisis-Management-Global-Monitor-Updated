@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04T07:52:26.231211Z",
+  "last_updated": "2026-04-04T08:19:58.175794Z",
   "event_count": 223,
   "events": [
     {
@@ -500,17 +500,6 @@
       "is_ticker": false
     },
     {
-      "title": "India has begun its long-delayed population census. Here's why it matters",
-      "description": "India has begun the world’s largest national population count, which could reshape welfare programs and political representation across the country",
-      "url": "https://abcnews.com/International/wireStory/india-begun-long-delayed-population-census-matters-131602973",
-      "published": "Wed, 01 Apr 2026 22:34:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Airstrike on funeral underscores rising civilian toll in Sudan",
       "description": "Fears are mounting for civilians caught up in Sudan’s deadly war between rival militaries as attacks intensify and humanitarian access shrinks, following a deadly airstrike on a funeral gathering in West Kordofan.",
       "url": "https://news.un.org/feed/view/en/story/2026/03/1167223",
@@ -523,6 +512,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Airstrike on funeral underscores rising civilian toll in Sudan"
+    },
+    {
+      "title": "Afghanistan earthquake kills eight members of same family",
+      "description": "The household's only survivor was a young boy who was injured in the tremor.",
+      "url": "https://www.aljazeera.com/news/2026/4/4/afghanistan-earthquake-kills-eight-members-of-same-family?traffic_source=rss",
+      "published": "Sat, 04 Apr 2026 07:23:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Afghanistan earthquake kills eight members of same family"
     },
     {
       "title": "Eight dead after earthquake hits Afghanistan and Pakistan",
@@ -702,20 +705,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 France's Muslim gathering ban overturned by courts"
-    },
-    {
-      "title": "Drone strike on Sudan hospital kills 10, medical charity MSF says",
-      "description": "Two strikes on Al Jabalain Hospital in White Nile State hit an operating theatre and a maternity ward, MSF says.",
-      "url": "https://www.aljazeera.com/news/2026/4/3/drone-strike-on-sudan-hospital-kills-10-medical-charity-msf-says?traffic_source=rss",
-      "published": "Fri, 03 Apr 2026 18:32:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Drone strike on Sudan hospital kills 10, medical charity MSF says"
     },
     {
       "title": "A day in the life of Asia’s fuel crisis",
@@ -2092,6 +2081,17 @@
       "is_ticker": false
     },
     {
+      "title": "Kidnapped reporter was known for pursuing gutsy, low-budget assignments",
+      "description": "The American freelance journalist who was kidnapped Tuesday in Iraq has been described by friends and colleagues as a determined, gutsy reporter",
+      "url": "https://abcnews.com/International/wireStory/reporter-kidnapped-baghdad-pursuing-gutsy-low-budget-assignments-131617756",
+      "published": "Thu, 02 Apr 2026 00:02:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "How Bombay went from a fort city to a bustling metropolis",
       "description": "A new exhibition charts Bombay's passage through the centuries via paintings, photographs and prints.",
       "url": "https://www.bbc.com/news/articles/cj60k3x879ro?at_medium=RSS&at_campaign=rss",
@@ -2428,7 +2428,7 @@
       "title": "M 4.6 - 1 km SE of Boulder Creek, CA",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-04-02 08:41:25 UTC 2026-04-02 08:41:25 UTC at epicenter Location 37.116°N 122.113°W Depth 10.43 km (6.48 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442",
-      "published": "2026-04-04T07:47:00.516Z",
+      "published": "2026-04-04T08:02:32.114Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2491,6 +2491,17 @@
       "is_ticker": false
     },
     {
+      "title": "Artemis II passes halfway point to Moon, sends Earth photos",
+      "description": "Artemis II is now closer to the Moon than the Earth. The astronauts on board have sent back eye-catching photos of our planet, and fixed a malfunctioning toilet along the way.",
+      "url": "https://www.dw.com/en/artemis-ii-passes-halfway-point-to-moon-sends-earth-photos/a-76658844?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 4 Apr 2026 08:17:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Greek ministers resign over EU farming subsidy scandal",
       "description": "A scandal over the misuse of EU subsidies has triggered ministerial resignations in Greece. Beneficiaries allegedly made claims for land and livestock they did not own, waved through by lawmakers seeking votes.",
       "url": "https://www.dw.com/en/greek-ministers-resign-over-eu-farming-subsidy-scandal/a-76654731?maca=en-rss-en-all-1573-xml-mrss",
@@ -2517,17 +2528,6 @@
       "description": "Bondi has faced criticism in Washington over her handling of investigative files related to the late financier and sex offender Jeffrey Epstein.",
       "url": "https://www.dw.com/en/trump-removes-attorney-general-pam-bondi/a-76648584?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 2 Apr 2026 17:30:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Germany: Chancellor Merz has never been more unpopular",
-      "description": "The CDU/CSU and SPD made many promises to voters. But according to polls, Germans are deeply disappointed with the governing coalition and have little hope that things will improve.",
-      "url": "https://www.dw.com/en/germany-chancellor-merz-has-never-been-more-unpopular/a-76638860?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 2 Apr 2026 17:25:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
