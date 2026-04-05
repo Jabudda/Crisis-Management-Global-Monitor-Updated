@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05T15:45:33.027679Z",
+  "last_updated": "2026-04-05T16:15:11.126598Z",
   "event_count": 222,
   "events": [
     {
@@ -595,17 +595,6 @@
       "ticker_label": "🪖 A long Mideast war could take away from support for Ukraine, Zelenskyy tells the AP"
     },
     {
-      "title": "Kuwait’s power, water plants damaged as Iran keeps attacking Gulf states",
-      "description": "Bahrain and the UAE also report attacks resulting in fires, which are put out quickly.",
-      "url": "https://www.aljazeera.com/news/2026/4/5/kuwait-says-power-water-facilities-hit-by-iran-as-gulf-attacks-continue?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 08:52:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Australians told to continue Easter travel plans despite fuel shortages",
       "description": "Hundreds of petrol stations across Australia have run out of fuel as the Iran war disrupts global oil shipments and pushes up prices.",
       "url": "https://www.bbc.com/news/articles/c62l084kgk6o?at_medium=RSS&at_campaign=rss",
@@ -832,15 +821,18 @@
       "is_ticker": false
     },
     {
-      "title": "What we know so far about rescue of US airman in Iran",
+      "title": "How downed F-15 US airman was rescued inside Iran",
       "description": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
       "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Apr 2026 10:07:16 GMT",
+      "published": "Sun, 05 Apr 2026 15:45:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ How downed F-15 US airman was rescued inside Iran"
     },
     {
       "title": "Man charged over fatal shooting of baby in pram in New York",
@@ -1038,6 +1030,17 @@
       "is_ticker": false
     },
     {
+      "title": "Israel’s Ben-Gvir details plans for Palestinian ‘death row’",
+      "description": "Israeli National Security Minister Itamar Ben-Gvir excitedly outlined plans to establish a “death row” for Palestinians.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israels-ben-gvir-details-plans-for-palestinian-death?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:41:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
       "description": "US political scientist John Mearsheimer argues Israel, not Iran, is the Middle East country that is ‘highly aggressive’.",
       "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
@@ -1124,21 +1127,10 @@
       "is_ticker": false
     },
     {
-      "title": "Israel’s attack on UNRWA is central to its genocide of the Palestinians",
-      "description": "UNRWA's mandate to provide for Palestinian refugees makes it a direct threat to the Israeli genocidal project.",
-      "url": "https://www.aljazeera.com/opinions/2026/4/5/israels-attack-on-unrwa-is-central-to-its-genocide-of-the-palestinians?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 08:40:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Several people killed in Ukraine after a Russian drone strike on a market",
-      "description": "On the night from Friday to Saturday, Russia once again targeted Ukraine with 286 long-range drones, 260 of which were intercepted according to Ukrainian forces.",
-      "url": "https://www.france24.com/en/several-people-killed-in-ukraine-after-a-russian-drone-strike-on-a-market",
-      "published": "Sun, 05 Apr 2026 09:27:21 GMT",
+      "title": "War in the Middle East: Israeli strike on South Beirut kills at least 4 people",
+      "description": "Olivia Bizot is live from Beirut.",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israeli-strike-on-south-beirut-kills-at-least-4-people",
+      "published": "Sun, 05 Apr 2026 15:36:38 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -1146,7 +1138,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Several people killed in Ukraine after a Russian drone strike on a market"
+      "ticker_label": "🪖 War in the Middle East: Israeli strike on South Beirut kills at least 4 people"
     },
     {
       "title": "<a href=\"https://news.sky.com/story/iran-war-latest-trump-tehran-us-israel-kharg-island-netanyahu-lebanon-strikes-drone-live-sky-news-13509565?postid=11458523#liveblog-body\" target=\"_blank\">French-owned ship transits through Iran-controlled Strait of Hormuz route</a>",
@@ -1418,6 +1410,20 @@
       "is_ticker": false
     },
     {
+      "title": "Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches",
+      "description": "US president threatens to strike power plants and bridges on Tuesday in an expletive-laden social media post.",
+      "url": "https://www.aljazeera.com/news/2026/4/5/trump-threatens-hell-for-iran-over-hormuz-strait-as-deadline-approaches?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:32:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump threatens ‘hell’ for Iran over Hormuz Strait as deadline approaches"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1607,6 +1613,17 @@
       "ticker_label": "🪖 'London Falling': A teenage imposter, an aging gangster and a body in the Thames"
     },
     {
+      "title": "Dozens missing after migrant boat capsizes in Mediterranean",
+      "description": "A boat departed from Libya carrying more than 100 people. Only 32 people are confirmed to have survived its voyage in the Mediterranean Sea.",
+      "url": "https://www.dw.com/en/dozens-missing-after-migrant-boat-capsizes-in-mediterranean/a-76674357?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 5 Apr 2026 16:05:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "German men need military permit for extended stays abroad",
       "description": "The new military service law requires all men under 45 to seek approval from the Bundeswehr to leave the country for longer than three months. It also obliges the military career center to issue it.",
       "url": "https://www.dw.com/en/german-men-need-military-permit-for-extended-stays-abroad/a-76662677?maca=en-rss-en-all-1573-xml-mrss",
@@ -1641,20 +1658,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Trump seeks $1.5T for defense, 10% cut to domestic programs",
-      "description": "The US budget proposals come as Washington faces rising costs from the Iran war and seeks to rebuild weapons stockpiles. The president said he also wants to cut back or eliminate \"woke, weaponized and wasteful programs.\"",
-      "url": "https://www.dw.com/en/trump-seeks-1-5t-for-defense-10-cut-to-domestic-programs/a-76657289?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 3 Apr 2026 19:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump seeks $1.5T for defense, 10% cut to domestic programs"
     },
     {
       "title": "Middle East war live: ‘Open the F***in' Strait’, Trump says, or US will target Iran's infrastructure on Tuesday",
@@ -2039,9 +2042,9 @@
       "is_ticker": false
     },
     {
-      "title": "Does the Estonian city of Narva really want to join Russia?",
+      "title": "'People's Republic' rumors: Does an Estonian city really want to join Russia?",
       "description": "The Estonian city of Narva is on Europe's eastern border, right next to Russia. Recently there have been online rumors that some locals want to secede from Estonia and join Russia. What's really happening?",
-      "url": "https://www.dw.com/en/does-the-estonian-city-of-narva-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/people-s-republic-rumors-does-an-estonian-city-really-want-to-join-russia/a-76663710?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 5 Apr 2026 05:14:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2193,6 +2196,17 @@
       "is_ticker": false
     },
     {
+      "title": "Earth in rear-view of Artemis II astronauts",
+      "description": "Crew nears moon on historic flyby and sends back striking images of Earth.",
+      "url": "https://www.aljazeera.com/gallery/2026/4/5/earth-in-rear-view-of-artemis-ii-astronauts?traffic_source=rss",
+      "published": "Sun, 05 Apr 2026 15:46:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Christian Lebanese families displaced as they celebrate Easter",
       "description": "Christian Lebanese families displaced as they celebrate Easter",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/christian-lebanese-families-displaced-as-they-celebrate-easter?traffic_source=rss",
@@ -2241,17 +2255,6 @@
       "description": "Yamal's unhappiness at the end of the match against Atletico Madrid was over missed scoring opportunities, Flick says.",
       "url": "https://www.aljazeera.com/sports/2026/4/5/lamine-yamals-anger-after-barcelonas-la-liga-win-downplayed-by-flick?traffic_source=rss",
       "published": "Sun, 05 Apr 2026 10:31:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Messi scores as Inter Miami open new stadium with a draw in the MLS",
-      "description": "Miami captain scored his team's first goal after David Beckham said the Nu Stadium was a 'dream come true' for Miami.",
-      "url": "https://www.aljazeera.com/sports/2026/4/5/messi-scores-as-inter-miami-open-new-stadium-with-a-draw-in-the-mls?traffic_source=rss",
-      "published": "Sun, 05 Apr 2026 08:14:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2405,7 +2408,7 @@
       "title": "M 4.6 - 1 km SE of Boulder Creek, CA",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-04-02 08:41:25 UTC 2026-04-02 08:41:25 UTC at epicenter Location 37.116°N 122.113°W Depth 10.43 km (6.48 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75337442",
-      "published": "2026-04-05T10:21:49.370Z",
+      "published": "2026-04-05T15:56:46.639Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2578,10 +2581,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mexico appoints Roberto Velasco as new foreign minister at critical moment for US ties",
-      "description": "Mexico's president has appointed Roberto Velasco as the new foreign minister during a critical time for Mexico-U.S. relations",
-      "url": "https://abcnews.com/International/wireStory/mexico-appoints-roberto-velasco-new-foreign-minister-critical-131634248",
-      "published": "Thu, 02 Apr 2026 02:32:49 -0400",
+      "title": "Operation to tow damaged Russian tanker off Libya fails due to weather",
+      "description": "Libyan authorities said the operation to tow a damaged Russian tanker adrift in the Mediterranean has failed due to bad weather",
+      "url": "https://abcnews.com/International/wireStory/operation-tow-damaged-russian-tanker-off-libya-fails-131646176",
+      "published": "Thu, 02 Apr 2026 08:50:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2589,10 +2592,10 @@
       "is_ticker": false
     },
     {
-      "title": "Operation to tow damaged Russian tanker off Libya fails due to weather",
-      "description": "Libyan authorities said the operation to tow a damaged Russian tanker adrift in the Mediterranean has failed due to bad weather",
-      "url": "https://abcnews.com/International/wireStory/operation-tow-damaged-russian-tanker-off-libya-fails-131646176",
-      "published": "Thu, 02 Apr 2026 08:50:41 -0400",
+      "title": "Mexico appoints Roberto Velasco as new foreign minister at critical moment for US ties",
+      "description": "Mexico's president has appointed Roberto Velasco as the new foreign minister during a critical time for Mexico-U.S. relations",
+      "url": "https://abcnews.com/International/wireStory/mexico-appoints-roberto-velasco-new-foreign-minister-critical-131634248",
+      "published": "Thu, 02 Apr 2026 02:32:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2611,10 +2614,10 @@
       "is_ticker": false
     },
     {
-      "title": "Priceless ancient golden helmet stolen from a Dutch museum is recovered",
-      "description": "Dutch authorities have recovered a priceless ancient golden helmet from Romania stolen last year from a museum in the Netherlands",
-      "url": "https://abcnews.com/International/wireStory/priceless-ancient-golden-helmet-stolen-dutch-museum-recovered-131645500",
-      "published": "Thu, 02 Apr 2026 09:06:40 -0400",
+      "title": "A first group of 12 deportees from the US arrives in Uganda, lawyers say",
+      "description": "Twelve people deported from the U.S. have arrived in Uganda, according to the Uganda Law Society",
+      "url": "https://abcnews.com/International/wireStory/group-12-deportees-us-arrives-uganda-lawyers-131652318",
+      "published": "Thu, 02 Apr 2026 11:04:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2622,10 +2625,10 @@
       "is_ticker": false
     },
     {
-      "title": "A first group of 12 deportees from the US arrives in Uganda, lawyers say",
-      "description": "Twelve people deported from the U.S. have arrived in Uganda, according to the Uganda Law Society",
-      "url": "https://abcnews.com/International/wireStory/group-12-deportees-us-arrives-uganda-lawyers-131652318",
-      "published": "Thu, 02 Apr 2026 11:04:20 -0400",
+      "title": "Priceless ancient golden helmet stolen from a Dutch museum is recovered",
+      "description": "Dutch authorities have recovered a priceless ancient golden helmet from Romania stolen last year from a museum in the Netherlands",
+      "url": "https://abcnews.com/International/wireStory/priceless-ancient-golden-helmet-stolen-dutch-museum-recovered-131645500",
+      "published": "Thu, 02 Apr 2026 09:06:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
