@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T22:17:28.814230Z",
+  "last_updated": "2026-04-10T22:47:50.351495Z",
   "event_count": 220,
   "events": [
     {
@@ -239,20 +239,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 MIDDLE EAST LIVE 10 April: Fear and uncertainty grow in Lebanon as conflict grinds on"
-    },
-    {
-      "title": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
-      "description": "The Israeli military claims Mohammed Wishah was a \"Hamas terrorist\" - which the Qatar-based network has previously denied.",
-      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 09 Apr 2026 11:39:56 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Al Jazeera condemns killing of journalist in Israeli strike in Gaza"
     },
     {
       "title": "‘We thought Beirut was going to collapse’: recounting the deadliest day of the war with Israel",
@@ -865,6 +851,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "description": "Both sides have reason to end the war but share no common ground.",
+      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 09 Apr 2026 23:01:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done"
+    },
+    {
       "title": "Is the US-Iran ceasefire already doomed?",
       "description": "Even if the talks fail to produce a deal, a return to an all-out war may still be averted.",
       "url": "https://www.aljazeera.com/opinions/2026/4/10/is-trumps-iran-ceasefire-already-doomed?traffic_source=rss",
@@ -1252,6 +1252,17 @@
       "is_ticker": false
     },
     {
+      "title": "OpenAI CEO Sam Altman’s home targeted in Molotov cocktail attack",
+      "description": "Police said the suspect targeted Altman's San Francisco residence before dawn and fled the scene on foot.",
+      "url": "https://www.aljazeera.com/news/2026/4/10/openai-ceo-sam-altmans-home-targeted-in-molotov-cocktail-attack?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 22:29:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "US-Iran negotiations in Islamabad: What to expect?",
       "description": "US and Iranian delegations are set to meet in Islamabad for peace talks to end six weeks of war.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/10/us-iran-negotiations-in-islamabad-what-to-expect?traffic_source=rss",
@@ -1289,20 +1300,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Netanyahu removes Spain from Gaza coordination centre over ‘hostility’",
-      "description": "Israel's Netanyahu accused Spain of waging a 'diplomatic war' against Israel.",
-      "url": "https://www.aljazeera.com/news/2026/4/10/netanyahu-removes-spain-from-gaza-coordination-centre-over-hostility?traffic_source=rss",
-      "published": "Fri, 10 Apr 2026 16:39:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Netanyahu removes Spain from Gaza coordination centre over ‘hostility’"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1433,6 +1430,31 @@
       "is_ticker": false
     },
     {
+      "title": "Airports warn of 'systemic' fuel shortages due to Iran war",
+      "description": "Airports are bracing for mass shortages of jet fuel if the Strait of Hormuz does not reopen within the next three weeks, according to a trade body.",
+      "url": "https://news.sky.com/story/airports-council-international-warns-of-fuel-shortages-if-strait-of-hormuz-not-reopened-amid-us-iran-war-talks-13530261",
+      "published": "Fri, 10 Apr 2026 23:05:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Airports warn of 'systemic' fuel shortages due to Iran war"
+    },
+    {
+      "title": "Nigerian army general and several soldiers killed during an assault on a base in the northeast",
+      "description": "Nigeria's officials say that an army general and several soldiers have been killed during an attempt to raid a military base in the northeast",
+      "url": "https://abcnews.com/International/wireStory/nigerian-army-general-soldiers-killed-assault-base-northeast-131885966",
+      "published": "Fri, 10 Apr 2026 10:03:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Pro-Iran groups have used AI to troll Trump and try to control the war narrative",
       "description": "Pro-Iran groups have used artificial intelligence to create slick internet memes in English to try to shape the narrative during the war against the U.S. and Israel, and foster opposition to it",
       "url": "https://abcnews.com/International/wireStory/pro-iran-groups-ai-troll-trump-control-war-131867909",
@@ -1459,17 +1481,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Croatian fishermen feel the strain after Iran war ramps up fuel prices"
-    },
-    {
-      "title": "Nigerian army general and several soldiers killed during an assault on a base in the northeast",
-      "description": "Nigeria's officials say that an army general and several soldiers have been killed during an attempt to raid a military base in the northeast",
-      "url": "https://abcnews.com/International/wireStory/nigerian-army-general-soldiers-killed-assault-base-northeast-131885966",
-      "published": "Fri, 10 Apr 2026 10:03:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "‘Entire families brutally erased’: Remembering the victims of the 1994 genocide against the Tutsi in Rwanda",
@@ -1669,6 +1680,20 @@
       "is_ticker": false
     },
     {
+      "title": "Court rules in favor of 4 men deported to Africa, denied lawyer meetings for 9 months",
+      "description": "The Supreme Court in Eswatini has ruled that four men deported by the U.S. under a third-country program can finally meet with a lawyer",
+      "url": "https://abcnews.com/International/wireStory/court-rules-favor-4-men-deported-us-africa-131913560",
+      "published": "Fri, 10 Apr 2026 08:49:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Court rules in favor of 4 men deported to Africa, denied lawyer meetings for 9 months"
+    },
+    {
       "title": "Iran releases 2 French citizens after 'three and a half years of detention,' Macron says",
       "description": "French nationals Cécile Kohler and Jacques Paris were released by Iran after three and a half years of detention, President Macron announced Tuesday.",
       "url": "https://www.foxnews.com/world/iran-releases-2-french-citizens-three-half-years-detention-macron-says",
@@ -1683,7 +1708,7 @@
       "title": "Lebanon and Israel officials to meet in US on Tuesday",
       "description": "A senior Lebanese official earlier told the BBC that Lebanon would only take part in talks if a ceasefire was in place.",
       "url": "https://www.bbc.com/news/articles/c93en5q2zl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Apr 2026 20:51:33 GMT",
+      "published": "Fri, 10 Apr 2026 22:43:03 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -2466,21 +2491,21 @@
       "is_ticker": false
     },
     {
-      "title": "Trump's surprise claim in his call with Sky News",
-      "description": "👉 Follow Trump100 on your podcast app 👈",
-      "url": "https://news.sky.com/story/trump-speaks-to-trump100160-13529152",
-      "published": "Wed, 08 Apr 2026 06:59:00 +0100",
-      "source": "Sky News World",
+      "title": "Djibouti holds presidential election with longtime ruler favored for a sixth term",
+      "description": "Voters in Djibouti are casting ballots to elect their president on Friday",
+      "url": "https://abcnews.com/International/wireStory/djibouti-holds-presidential-election-longtime-ruler-favored-sixth-131907189",
+      "published": "Fri, 10 Apr 2026 07:28:55 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "Djibouti holds presidential election with longtime ruler favored for a sixth term",
-      "description": "Voters in Djibouti are casting ballots to elect their president on Friday",
-      "url": "https://abcnews.com/International/wireStory/djibouti-holds-presidential-election-longtime-ruler-favored-sixth-131907189",
-      "published": "Fri, 10 Apr 2026 07:28:55 -0400",
+      "title": "Picture this: A raffle offers a Picasso for 100 euros to fund Alzheimer’s research",
+      "description": "A raffle in France offers the chance to win a Picasso portrait for a 100-euro ticket",
+      "url": "https://abcnews.com/International/wireStory/picture-raffle-offers-picasso-100-euros-fund-alzheimers-131915314",
+      "published": "Fri, 10 Apr 2026 10:11:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2500,17 +2525,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Suspect arrested in England after 4 die in failed channel crossing from France to UK"
-    },
-    {
-      "title": "Picture this: A raffle offers a Picasso for 100 euros to fund Alzheimer’s research",
-      "description": "A raffle in France offers the chance to win a Picasso portrait for a 100-euro ticket",
-      "url": "https://abcnews.com/International/wireStory/picture-raffle-offers-picasso-100-euros-fund-alzheimers-131915314",
-      "published": "Fri, 10 Apr 2026 10:11:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Argentina approves Milei's bill that eases protections for glaciers despite environmental backlash",
@@ -2535,6 +2549,17 @@
       "is_ticker": false
     },
     {
+      "title": "Myanmar military chief who led 2021 army takeover takes presidency after criticized election",
+      "description": "Min Aung Hlaing, the army chief who ousted Aung San Suu Kyi's civilian government five years ago, has been sworn in as Myanmar's president",
+      "url": "https://abcnews.com/International/wireStory/myanmar-military-chief-led-2021-army-takeover-takes-131908564",
+      "published": "Fri, 10 Apr 2026 07:36:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "In Congo, an unconventional Christian movement has existential lessons for the troubled nation",
       "description": "Simon Kimbangu, founder of one of Africa’s largest independent churches, spent 30 years in jail and died a prisoner, banished far from his home by Belgian colonial authorities who judged his activities to be dangerous",
       "url": "https://abcnews.com/International/wireStory/congo-unconventional-christian-movement-existential-lessons-troubled-nation-131907372",
@@ -2547,17 +2572,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 In Congo, an unconventional Christian movement has existential lessons for the troubled nation"
-    },
-    {
-      "title": "Myanmar military chief who led 2021 army takeover takes presidency after criticized election",
-      "description": "Min Aung Hlaing, the army chief who ousted Aung San Suu Kyi's civilian government five years ago, has been sworn in as Myanmar's president",
-      "url": "https://abcnews.com/International/wireStory/myanmar-military-chief-led-2021-army-takeover-takes-131908564",
-      "published": "Fri, 10 Apr 2026 07:36:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Peruvians choosing a president from 35-candidate pool in Sunday's election",
@@ -2575,17 +2589,6 @@
       "description": "Taiwan's opposition leader has met with Chinese President Xi Jinping in Beijing, marking the first such encounter in over a decade",
       "url": "https://abcnews.com/International/wireStory/taiwans-opposition-leader-meets-chinas-xi-jinping-sides-131906702",
       "published": "Fri, 10 Apr 2026 07:37:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Venezuelan acting President Delcy Rodríguez asks workers for patience and promises May wage increase",
-      "description": "Venezuelan acting President Delcy Rodríguez has asked public and private sector workers for patience as her government works to improve the economy",
-      "url": "https://abcnews.com/International/wireStory/venezuelan-acting-president-delcy-rodrguez-asks-workers-patience-131862549",
-      "published": "Thu, 09 Apr 2026 08:05:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
