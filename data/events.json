@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10T18:51:01.366812Z",
+  "last_updated": "2026-04-10T19:24:02.860477Z",
   "event_count": 219,
   "events": [
     {
@@ -155,20 +155,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Lebanon airstrike casualties ‘still under the rubble’ as ambulances, hospitals face new threats"
-    },
-    {
-      "title": "‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’",
-      "description": "Following October 2025 agreement, attacks continue, aid is insufficient and regional conflicts deepen instability.",
-      "url": "https://www.aljazeera.com/news/2026/4/10/neither-war-nor-peace-what-gaza-looks-like-six-months-into-ceasefire?traffic_source=rss",
-      "published": "Fri, 10 Apr 2026 13:17:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 ‘Neither war nor peace’: What Gaza looks like six months into ‘ceasefire’"
     },
     {
       "title": "Diesel and jet fuel shortages for some time, IMF warns",
@@ -643,7 +629,7 @@
       "ticker_label": "💥 Concerns raised about motorbike tourist trail after death of British teenager in Vietnam"
     },
     {
-      "title": "Trump says Iran 'doing a very poor job' in reopening the Strait of Hormuz",
+      "title": "Trump says Iran is 'doing a very poor job' in reopening the Strait of Hormuz",
       "description": "The fragile ceasefire agreement was tested again on Friday after Iran refused to reopen the Strait of Hormuz. Israel and Hezbollah traded strikes in Lebanon, and Kuwait was attacked with drones.",
       "url": "https://www.npr.org/2026/04/10/g-s1-117013/trump-iran-strait-of-hormuz",
       "published": "Fri, 10 Apr 2026 07:07:34 -0400",
@@ -654,7 +640,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump says Iran 'doing a very poor job' in reopening the Strait of Hormuz"
+      "ticker_label": "🪖 Trump says Iran is 'doing a very poor job' in reopening the Strait of Hormuz"
     },
     {
       "title": "Iran war: Rifts in regime bigger threat to ceasefire",
@@ -761,6 +747,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran ceasefire raises hopes for reopening key Strait of Hormuz"
+    },
+    {
+      "title": "Teens suspected of murdering congressional intern linked by DNA on shell casings, prosecutors say",
+      "description": "DNA evidence allegedly links two teenagers to the fatal shooting of a University of Massachusetts student working as a congressional intern in D.C.",
+      "url": "https://www.foxnews.com/us/teens-suspected-murdering-congressional-intern-linked-dna-shell-casings-prosecutors-say",
+      "published": "Fri, 10 Apr 2026 15:04:39 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Teens suspected of murdering congressional intern linked by DNA on shell casings, prosecutors say"
     },
     {
       "title": "Child among 4 dead as accused arsonist allegedly drank beer during chaos",
@@ -978,7 +978,7 @@
     },
     {
       "title": "NYC judge seeks to make example of officer who threw cooler at fleeing suspect, causing fatal crash",
-      "description": "Ex-NYPD officer Erik Duran got three to nine years for manslaughter after throwing a cooler at a fleeing suspect, marking a rare on-duty conviction.",
+      "description": "Ex-NYPD Officer Erik Duran was sentenced to three to nine years for manslaughter after throwing a cooler at a fleeing suspect, a rare on-duty conviction.",
       "url": "https://www.foxnews.com/us/nyc-judge-seeks-make-example-officer-who-threw-cooler-fleeing-suspect-causing-fatal-crash",
       "published": "Fri, 10 Apr 2026 14:19:46 -0400",
       "source": "Fox News US",
@@ -1183,6 +1183,17 @@
       "is_ticker": false
     },
     {
+      "title": "Molotov cocktail thrown at Sam Altman's home, man arrested",
+      "description": "The attack occurred at the OpenAI CEO's home in San Francisco early on Friday. OpenAI said no one was hurt in the attack and thanked city police for their response.",
+      "url": "https://www.dw.com/en/molotov-cocktail-thrown-at-sam-altman-s-home-man-arrested/a-76744259?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 10 Apr 2026 18:50:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Scientists say the world's oldest octopus fossil isn't an octopus after all",
       "description": "Scientists have found evidence that a 300-million-year-old sea creature previously thought to be the world's oldest octopus is actually a nautilus relative",
       "url": "https://abcnews.com/International/wireStory/scientists-worlds-oldest-octopus-fossil-octopus-after-131868859",
@@ -1289,6 +1300,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Prince Harry sued for defamation by charity he co-founded",
+      "description": "Legal action follows war of words with Sentebale chair after Duke of Sussex’s resignation as patron The Duke of Sussex is being sued by Sentebale in the latest twist in the bitter fallout over the African charity he co-founded. The charity has lodged papers in London’s high court over defamation claims naming Prince Harry and the former Sentebale trustee Mark Dyer as defendants. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/apr/10/prince-harry-sued-defamation-charity-sentebale",
+      "published": "Fri, 10 Apr 2026 17:41:15 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Prince Harry sued for defamation by charity he co-founded"
     },
     {
       "title": "Peruvians to go to polls hoping to break cycle of instability",
@@ -1505,17 +1530,6 @@
       "is_ticker": false
     },
     {
-      "title": "Man sentenced for strangling Massachusetts college student to death with tank top in cold case killing",
-      "description": "A man convicted of strangling a Massachusetts college student with a tank top in 1986 was sentenced to life in prison after DNA solved the cold case.",
-      "url": "https://www.foxnews.com/us/man-sentenced-strangling-massachusetts-college-student-death-tank-top-cold-case-killing",
-      "published": "Thu, 09 Apr 2026 14:48:38 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran’s ‘Godfather of propaganda’ tactics resurface in war with US and Israel",
       "description": "Experts say Iran uses civilians and children as human shields for propaganda purposes, caring nothing for the safety and fate of its own people.",
       "url": "https://www.foxnews.com/world/irans-godfather-propaganda-tactics-resurface-war-us-israel",
@@ -1586,17 +1600,6 @@
       "ticker_label": "🪖 US and Iran prepare for ceasefire talks as Netanyahu authorises negotiations with Lebanon"
     },
     {
-      "title": "UN80 Initiative enters ‘delivery phase’, as Member States review progress on key work areas",
-      "description": "Top officials updated Member States Monday on selected proposals under the UN80 reform initiative, including an initial assessment of a possible merger between gender equality agency, UN Women, and the UN reproductive health agency, UNFPA, as well as updates on the technology and data tracks.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167253",
-      "published": "Mon, 06 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "China aiding Iran missile program amid US-Israeli strikes, reports say",
       "description": "China is reportedly sending missile fuel materials to Iran to help rebuild its missile program amid continuing U.S.-Israeli strikes aimed against the Tehran regime.",
       "url": "https://www.foxnews.com/world/china-aiding-iran-missile-program-amid-us-israeli-strikes-reports-say",
@@ -1609,6 +1612,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 China aiding Iran missile program amid US-Israeli strikes, reports say"
+    },
+    {
+      "title": "UK police arrest man after four die during Channel crossing attempt",
+      "description": "The National Crime Agency (NCA) said a Sudanese man was detained on suspicion of 'endangering another'.",
+      "url": "https://www.aljazeera.com/news/2026/4/10/uk-police-arrest-man-after-four-die-during-channel-crossing-attempt?traffic_source=rss",
+      "published": "Fri, 10 Apr 2026 18:41:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "US federal court hears new case against Trump tariffs",
@@ -1627,17 +1641,6 @@
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "‘We still deserve due process,’ says Cambodian man deported by US to Eswatini",
-      "description": "Pheap Rom was one of 15 people sent to prison in African kingdom last year despite completing US sentences A Cambodian man deported by the US said he would have accepted being sent to Cambodia, but instead ended up imprisoned in Eswatini, a country he knew so little about that when he first read the name he thought it was another immigration detention centre in Louisiana. Pheap Rom, who had been convicted of attempted murder, was one of 10 deportees sent to Eswatini by the US in October 2025. They joined a group of five men, from Cambodia, Cuba, Jamaica, Vietnam and Yemen, who were deported to the small southern African country in July. All were sent to a maximum-security prison. Rom was deported from Eswatini to Cambodia in March. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/apr/07/cambodian-man-pheap-rom-deported-us-eswatini",
-      "published": "Tue, 07 Apr 2026 16:13:07 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1689,20 +1692,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Lebanon says ceasefire must be in place before Israel talks"
-    },
-    {
-      "title": "Lufthansa cabin crew begin strike",
-      "description": "Hundreds of flights have been canceled as cabin crew members walk out. This is Lufthansa's third major strike this year.",
-      "url": "https://www.dw.com/en/lufthansa-cabin-crew-begin-strike/a-76729592?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 10 Apr 2026 03:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Lufthansa cabin crew begin strike"
     },
     {
       "title": "Russia and Ukraine to hold 32-hour ceasefire for Orthodox Easter",
@@ -1796,6 +1785,17 @@
       "url": "https://www.theguardian.com/world/2026/apr/09/us-cuban-doctors-program",
       "published": "Thu, 09 Apr 2026 17:59:43 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "As Hungary gears up for a historic election, DW answers a few key questions",
+      "description": "Hungary's election on April 12 is the most important for the state since 1989, and also of historic significance for the EU. DW takes a more detailed look.",
+      "url": "https://www.dw.com/en/as-hungary-gears-up-for-a-historic-election-dw-answers-a-few-key-questions/a-76723501?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 10 Apr 2026 19:03:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2380,17 +2380,6 @@
       "is_ticker": false
     },
     {
-      "title": "Artemis II astronauts set to splash down back on Earth",
-      "description": "The four crew members are preparing to reenter the Earth's atmosphere before splashing down in the Pacific Ocean off the California coast. Follow DW.",
-      "url": "https://www.dw.com/en/artemis-ii-astronauts-set-to-splash-down-back-on-earth/live-76722861?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 10 Apr 2026 06:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Orban's opponents targeted by AI-driven disinformation ahead of Hungary's elections",
       "description": "The campaign for Hungary’s April 12 elections has been marred by disinformation. Prime Minister Viktor Orban’s party, Fidesz, has deployed a series of outrageous AI-generated videos to target his main rival Peter Magyar and his Tisza party, while a vast campaign orchestrated by fake accounts has emerged on TikTok and Facebook.",
       "url": "https://www.france24.com/en/tv-shows/the-observers/20260410-artificial-intelligence-disinformation-orban-opponents-magyar-hungary-elections",
@@ -2581,6 +2570,17 @@
       "url": "https://abcnews.com/International/wireStory/taiwans-opposition-leader-meets-chinas-xi-jinping-sides-131906702",
       "published": "Fri, 10 Apr 2026 07:37:10 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "New era for space dawns as Artemis astronauts return",
+      "description": "After a 10-day journey around the far side of the Moon, the four astronauts on NASA’s Artemis II mission are set to splash down in the Pacific Ocean late on Friday.n.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167284",
+      "published": "Fri, 10 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
