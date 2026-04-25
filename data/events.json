@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T17:48:16.271069Z",
+  "last_updated": "2026-04-25T18:21:46.314105Z",
   "event_count": 223,
   "events": [
     {
@@ -85,20 +85,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 FLA claims attacks on Malian capital"
-    },
-    {
-      "title": "Mali live : Army clashes with ‘terrorist’ groups, Kidal captured, Tuareg rebels say",
-      "description": "Gunmen attacked several locations in Mali's capital and other cities early Saturday. Mali’s army said its soldiers were “engaged in eliminating the attackers”. Meanwhile, Tuareg rebels of the Azawad Liberation Front (FLA) coalition said they had captured the northern city of Kidal. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
-      "published": "Sat, 25 Apr 2026 09:35:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Mali live : Army clashes with ‘terrorist’ groups, Kidal captured, Tuareg rebels say"
     },
     {
       "title": "Terrorists launch simultaneous attacks in Mali, authorities say",
@@ -625,15 +611,18 @@
       "is_ticker": false
     },
     {
-      "title": "California millionaire trampled to death by elephants while on African hunting expedition",
-      "description": "California vineyard tycoon Ernie Dosio, 75, was killed by elephants during a hunting expedition in Gabon's Lope-Okanda rainforest, reports say.",
-      "url": "https://www.foxnews.com/us/california-millionaire-trampled-death-elephants-african-hunting-expedition",
-      "published": "Fri, 24 Apr 2026 17:19:49 -0400",
+      "title": "Chicago hospital shooting leaves 2 officers injured, 1 critically; suspect in custody: report",
+      "description": "No description available.",
+      "url": "https://www.foxnews.com/us/chicago-hospital-shooting-leaves-2-officers-injured-1-critically-suspect-custody",
+      "published": "Sat, 25 Apr 2026 14:12:18 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Chicago hospital shooting leaves 2 officers injured, 1 critically; suspect in custody: report"
     },
     {
       "title": "Anthony Albanese accused of ‘caving to gas companies’ as Labor set to reject new export tax",
@@ -723,6 +712,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Mexico says US agents killed in crash weren't permitted to operate there"
+    },
+    {
+      "title": "Reported US CIA agents killed in crash not authorised to operate: Mexico",
+      "description": "Mexican government says it is seeking details after incident raises questions about US activities on its territory.",
+      "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 17:26:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Israeli attacks kill four in southern Lebanon",
@@ -936,20 +936,6 @@
       "ticker_label": "🪖 As Gaza misery continues, shortages in Iran begin to bite"
     },
     {
-      "title": "Gaza area votes in first municipal election in 20 years",
-      "description": "Gaza officials say Deir el-Balah vote is a 'pilot', while occupied West Bank also goes to first polls since 2023 war.",
-      "url": "https://www.aljazeera.com/news/2026/4/25/polls-open-in-gaza-area-in-first-municipal-election-in-20-years?traffic_source=rss",
-      "published": "Sat, 25 Apr 2026 08:37:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Gaza area votes in first municipal election in 20 years"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1092,20 +1078,6 @@
       "ticker_label": "🪖 Pentagon's Falklands email makes Charles's US visit even more challenging"
     },
     {
-      "title": "Sánchez sidesteps a Spain-US dispute at NATO, brushing off reported Pentagon email",
-      "description": "Spanish Prime Minister Pedro Sánchez is refusing to engage in a dispute with the U.S. over reports that the Pentagon is considering punishing NATO members who don't support U.S. operations in the Iran war",
-      "url": "https://abcnews.com/International/wireStory/snchez-sidesteps-spain-us-dispute-nato-brushing-off-132338618",
-      "published": "Fri, 24 Apr 2026 08:18:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sánchez sidesteps a Spain-US dispute at NATO, brushing off reported Pentagon email"
-    },
-    {
       "title": "MIDDLE EAST LIVE 24 April: Israel-Lebanon ceasefire extended as humanitarian concerns persist",
       "description": "The United States has announced that the Israel-Lebanon ceasefire will be extended by three weeks following talks in Washington, offering a potential pause in hostilities. Meanwhile, humanitarian concerns are growing over shortages in Iran and Gaza, while another UN peacekeeper has died after coming under fire. Stay with us for live updates.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167375",
@@ -1208,6 +1180,17 @@
       "url": "https://www.france24.com/en/festive-mood-in-west-bank-as-local-elections-underway",
       "published": "Sat, 25 Apr 2026 15:36:12 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "China’s top diplomat meets leader of Myanmar's military-backed government on regional tour",
+      "description": "China’s top diplomat has visited Myanmar’s capital and met with the leader of its military-backed government as Beijing deepens regional ties",
+      "url": "https://abcnews.com/International/wireStory/chinas-top-diplomat-meets-leader-myanmars-military-backed-132380544",
+      "published": "Sat, 25 Apr 2026 13:47:35 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1389,6 +1372,20 @@
       "ticker_label": "🪖 Palestinians vote in municipal elections in Gaza, West Bank"
     },
     {
+      "title": "Iran war: Trump cancels envoys' trip to Islamabad",
+      "description": "Donald Trump said that he didn't want US officials to \"sit around talking about nothing\" in Islamabad. It comes after Iran said that there would be no direct talks with the US. More on DW.",
+      "url": "https://www.dw.com/en/iran-war-trump-cancels-envoys-trip-to-islamabad/live-76929720?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 25 Apr 2026 00:14:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war: Trump cancels envoys' trip to Islamabad"
+    },
+    {
       "title": "WHO approves first Malaria drug for babies",
       "description": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group.",
       "url": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581?maca=en-rss-en-all-1573-xml-mrss",
@@ -1428,7 +1425,29 @@
       "ticker_label": "🪖 Indians forced to return home as Iran war rocks Gulf economy"
     },
     {
-      "title": "A difficult balance to find : Pakistan wants to be a key actor in shaping US-Iran peace",
+      "title": "🔴 Jihadist group JNIM says it launched attacks in Mali with Tuareg rebels",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/africa/20260425-mali-live-army-says-armed-terrorist-groups-launch-attacks-on-military-positions-nationwide",
+      "published": "Sat, 25 Apr 2026 18:11:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Strait talks: What's at stake in Hormuz",
+      "description": "The Strait of Hormuz, which is a key passage for oil produced in the Middle East, has come to the center of the Iran-US conflict.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260425-strait-talks-what-s-at-stake-in-hormuz",
+      "published": "Sat, 25 Apr 2026 17:56:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "A difficult balance to find: Pakistan wants to be a key actor in shaping US-Iran peace",
       "description": "Since the beginning of the Iran-US war, Pakistan has tried to host talks between the two countries, aiming at finding peace.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260425-a-difficult-balance-to-find-pakistan-wants-to-be-a-key-actor-in-shaping-us-iran-peace",
       "published": "Sat, 25 Apr 2026 17:14:06 GMT",
@@ -1439,7 +1458,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A difficult balance to find : Pakistan wants to be a key actor in shaping US-Iran peace"
+      "ticker_label": "🪖 A difficult balance to find: Pakistan wants to be a key actor in shaping US-Iran peace"
     },
     {
       "title": "'Dire humanitarian crisis': Hundreds of thousands displaced in Ethiopia's Tigray",
@@ -1752,17 +1771,6 @@
       "is_ticker": false
     },
     {
-      "title": "Peru police raid ex-election chief’s home amid widening probe",
-      "description": "Police in Peru raided the homes Friday of the now-resigned elections chief and five other officials in an investigation into a ballot shortage and other irregularities in the first round of the presidential election on April 12. Despite denying any wrongdoing, Piero Corvetto resigned as the elections agency chief on Tuesday to take responsibility for the election shortcomings.",
-      "url": "https://www.france24.com/en/peru-police-raid-ex-election-chief-s-home-amid-widening-probe",
-      "published": "Sat, 25 Apr 2026 09:33:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran agrees not to execute eight women tied to anti-regime protests after Trump's public appeal",
       "description": "President Donald Trump says eight women protesters will no longer be executed in Iran after he urged their release during ongoing negotiations.",
       "url": "https://www.foxnews.com/world/iran-agrees-execute-eight-women-anti-regime-protests-trumps-public-appeal",
@@ -2025,6 +2033,17 @@
       "is_ticker": false
     },
     {
+      "title": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+      "description": "Deir el-Balah residents vote for first time since 2006 despite destruction, displacement and genocide.",
+      "url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
+      "published": "Sat, 25 Apr 2026 17:25:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
       "description": "Iranian FM Araghchi met Pakistani PM Sharif in Islamabad as part of efforts to revive direct negotiations with the US.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
@@ -2106,17 +2125,6 @@
       "description": "Iran’s FM Abbas Araghchi is in Islamabad for talks with Pakistani officials, as US envoys are also set to arrive.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/top-iranian-and-pakistani-officials-meet-in-islamabad?traffic_source=rss",
       "published": "Sat, 25 Apr 2026 08:57:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ireland to demand Israel pay for settler demolition of Palestinian school",
-      "description": "Ireland will demand that Israeli authorities repay the cost of a school that was demolished by settlers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/ireland-to-demand-israel-pay-for-settler-demolition-of-palestinian-school?traffic_source=rss",
-      "published": "Sat, 25 Apr 2026 08:06:36 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2248,7 +2256,7 @@
       "title": "M 4.0 - 1 km WNW of Cooter, Missouri",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-04-23 17:59:04 UTC 2026-04-23 17:59:04 UTC at epicenter Location 36.055°N 89.826°W Depth 11.78 km (7.32 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nm60620376",
-      "published": "2026-04-25T15:53:13.054Z",
+      "published": "2026-04-25T18:09:17.330Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2326,17 +2334,6 @@
       "description": "Colombia and Venezuela announced military cooperation to combat border \"mafias\" during President Gustavo Petro's visit to Caracas. Petro is the first leader to travel to Venezuela after Nicolas Maduro's removal.",
       "url": "https://www.dw.com/en/colombia-venezuela-hold-key-talks-in-post-maduro-visit/a-76930133?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 25 Apr 2026 04:46:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Donald Trump has canceled his envoys' trip to Islamabad for talks with Iran",
-      "description": "Donald Trump said that he didn't want US officials to \"sit around talking about nothing\" in Islamabad. It comes after Iran said that there would be no direct talks with the US. More on DW.",
-      "url": "https://www.dw.com/en/donald-trump-has-canceled-his-envoys-trip-to-islamabad-for-talks-with-iran/live-76929720?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 25 Apr 2026 00:14:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
