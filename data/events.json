@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25T21:47:54.823154Z",
+  "last_updated": "2026-04-25T22:15:39.871936Z",
   "event_count": 223,
   "events": [
     {
@@ -314,20 +314,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 SECURITY COUNCIL LIVE: Update on Haiti as humanitarian crisis continues alongside gang violence"
-    },
-    {
-      "title": "Chicago hospital shooting leaves 2 officers injured, 1 critically; suspect in custody: report",
-      "description": "A shooting at Endeavor Health Swedish Hospital in Chicago left two officers wounded, including one critically, during a prisoner transport incident.",
-      "url": "https://www.foxnews.com/us/chicago-hospital-shooting-leaves-2-officers-injured-1-critically-suspect-custody",
-      "published": "Sat, 25 Apr 2026 14:12:18 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Chicago hospital shooting leaves 2 officers injured, 1 critically; suspect in custody: report"
     },
     {
       "title": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
@@ -753,6 +739,20 @@
       "ticker_label": "✈️ Ten killed in Ukraine after major Russia drone attack, as RAF deploys Typhoon jets"
     },
     {
+      "title": "Chicago hospital shooting leaves 1 officer dead, other 'fighting for his life'; suspect in custody",
+      "description": "A shooting at Endeavor Health Swedish Hospital in Chicago left one officer dead and another wounded during a prisoner transport incident.",
+      "url": "https://www.foxnews.com/us/chicago-hospital-shooting-leaves-2-officers-injured-1-critically-suspect-custody",
+      "published": "Sat, 25 Apr 2026 14:12:18 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Chicago hospital shooting leaves 1 officer dead, other 'fighting for his life'; suspect in custody"
+    },
+    {
       "title": "Mexico says US agents killed in crash weren't permitted to operate there",
       "description": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
       "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
@@ -783,6 +783,17 @@
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "In a rare interview, a leader of the world's largest right-wing group talks to NPR",
+      "description": "The second-in-command of the RSS, a Hindu nationalist organization in India, rarely speaks to the Western press. Here's what he said about his group's controversial history.",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5795781/india-rss-rashtriya-swayamsevak-sangh-interview-hindu-nationalist",
+      "published": "Sat, 25 Apr 2026 17:45:00 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -2349,17 +2360,6 @@
       "description": "The European Union on Thursday approved a $106-billion loan package to help Ukraine meet its economic and military needs for two years, ending months of political deadlock.",
       "url": "https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto",
       "published": "Fri, 24 Apr 2026 01:08:10 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "French police probe suspected weather device tampering after odd Polymarket bet",
-      "description": "The incident is the latest eyebrow-raising bet on Polymarket, as allegations of rigging and manipulation continue to haunt the popular prediction market site.",
-      "url": "https://www.npr.org/2026/04/23/nx-s1-5797876/polymarket-paris-weather-bet",
-      "published": "Thu, 23 Apr 2026 18:22:38 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
