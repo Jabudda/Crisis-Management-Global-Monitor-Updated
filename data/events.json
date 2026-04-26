@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26T10:22:52.391858Z",
+  "last_updated": "2026-04-26T10:48:55.421355Z",
   "event_count": 221,
   "events": [
     {
@@ -462,6 +462,20 @@
       "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’",
+      "description": "Israeli forces keep advancing further into western Gaza, slowly expanding the area of their control in the east.",
+      "url": "https://www.aljazeera.com/news/2026/4/26/israeli-attacks-kill-at-least-four-palestinians-in-gaza?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:20:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 At least four people killed in Israeli attacks in Gaza despite ‘ceasefire’"
     },
     {
       "title": "Patient allegedly attacks several nurses, police and member of the public at Sydney hospital",
@@ -1530,20 +1544,6 @@
       "ticker_label": "🚨 Trump updates: Suspect arrested after shooting at correspondents’ dinner"
     },
     {
-      "title": "Iran war live: Iran says no talks under siege as FM expected in Pakistan",
-      "description": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Iran says no talks under siege as FM expected in Pakistan"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1567,6 +1567,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Kushner and U.S. envoy Witkoff will head to Pakistan for new Iran talks"
+    },
+    {
+      "title": "Mali: Fighting continues as Tuareg separatists claim Kidal",
+      "description": "A spate of attacks was coordinated by Tuareg separatists and jihadis with links to al-Qaeda. It's the most serious fighting to rock the Sahel nation in years.",
+      "url": "https://www.dw.com/en/mali-fighting-continues-as-tuareg-separatists-claim-kidal/a-76942012?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 26 Apr 2026 10:42:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Queer as folk: The gay scandal that shook the German Empire",
@@ -1634,17 +1645,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Germany news: Ships to head to Med for possible Hormuz role"
-    },
-    {
-      "title": "WHO approves first Malaria drug for babies",
-      "description": "Children under five account for more than two-thirds of malaria deaths. A new drug offers hope for this vulnerable group.",
-      "url": "https://www.dw.com/en/who-approves-first-malaria-drug-for-babies/a-76929581?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 24 Apr 2026 23:30:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "🔴 Live: France's Macron says shooter attack at Trump media dinner 'unacceptable'",
@@ -1930,20 +1930,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Trump unhurt after shots fired at White House correspondents’ dinner",
-      "description": "US president rushed from Washington, DC, hotel after shots fired outside gala venue.",
-      "url": "https://www.aljazeera.com/news/2026/4/26/trump-evacuated-from-the-white-house-correspondents-dinner?traffic_source=rss",
-      "published": "Sun, 26 Apr 2026 00:47:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Trump unhurt after shots fired at White House correspondents’ dinner"
     },
     {
       "title": "British woman died in Ghana trying to recoup money from scammers, inquest told",
@@ -2242,6 +2228,17 @@
       "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 24 Apr 2026 17:04:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel destroys solar panels in south Lebanon",
+      "description": "Israel destroys solar panels in south Lebanon",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/26/israel-destroys-solar-panels-in-south-lebanon?traffic_source=rss",
+      "published": "Sun, 26 Apr 2026 10:17:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
