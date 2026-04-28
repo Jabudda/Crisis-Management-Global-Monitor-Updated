@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T06:05:49.224316Z",
+  "last_updated": "2026-04-28T07:23:28.400822Z",
   "event_count": 222,
   "events": [
     {
@@ -37,6 +37,20 @@
       "severity_score": 42,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "At least 20 killed in Colombia highway blast",
+      "description": "Colombia's President Gustavo Petro has blamed a 'narco-terrorist group', led by a former FARC fighter, for the attack.",
+      "url": "https://www.aljazeera.com/news/2026/4/28/at-least-20-killed-in-colombia-highway-blast?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 06:30:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 At least 20 killed in Colombia highway blast"
     },
     {
       "title": "MIDDLE EAST LIVE 27 April: Everyone’s paying the price for Hormuz closure, Guterres warns Security Council",
@@ -106,6 +120,20 @@
       "ticker_label": "🪖 Hamas influence looms over Gaza elections as experts warn vote could backfire"
     },
     {
+      "title": "After blows to his anti-protest laws, Minns considers retreat from ‘globalise the intifada’ ban",
+      "description": "The NSW premier, who was unequivocal in the wake of the Bondi terror attack, has now linked the fate of his state’s laws with those of the Queensland legal challenge Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The New South Wales premier, Chris Minns, has said he will only ban the slogan “globalise the intifada” if a potential constitutional challenge to a similar ban in Queensland is unsuccessful, the strongest indication yet that the state government may not seek to proscribe the contested phrase at all. Minns was unequivocal about his intention to ban what he described as “hateful, violent rhetoric” following the Bondi terror attack in December, but sent the issue to a parliamentary inquiry, which he said would enable legislation to be introduced when parliament returned in February. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/28/nsw-anti-protest-laws-globalise-intifada-minns-ntwnfb",
+      "published": "Tue, 28 Apr 2026 06:19:08 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 After blows to his anti-protest laws, Minns considers retreat from ‘globalise the intifada’ ban"
+    },
+    {
       "title": "Train collision in Indonesia kills 14 as rescuers work to reach survivors",
       "description": "Efforts continue to free two trapped passengers in wreckage after long-distance train collides with commuter train outside Jakarta, injuring 81 The death toll from a train collision near the Indonesian capital Jakarta has risen to 14 with another 84 injured, the train operator said on Tuesday, as rescuers worked to extract survivors still trapped in the wreckage. The collision between a commuter train and a long-distance train happened late on Monday in Bekasi, just outside Jakarta. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/apr/28/indonesian-train-crash-fatal",
@@ -118,20 +146,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Train collision in Indonesia kills 14 as rescuers work to reach survivors"
-    },
-    {
-      "title": "Mali defence minister killed amid flurry of insurgent attacks",
-      "description": "Car bomb kills Sadio Camara at home during coordinated assaults by rebel groups including West African al-Qaida affiliate Mali’s defence minister was killed in an attack on his residence, the government said on Sunday, a high-profile fatality during coordinated assaults staged the previous day by insurgents including the West African affiliate of al-Qaida. A car laden with explosives driven by a suicide attacker drove into Sadio Camara’s residence in the town of Kati, the spokesperson, Issa Ousmane Coulibaly, said in a statement read out on state television. A firefight ensued, and Camara sustained injuries from which he later died in a hospital, Coulibaly said, adding that Mali would observe two days of mourning. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/apr/26/mali-defence-minister-killed-amid-flurry-of-insurgent-attacks",
-      "published": "Mon, 27 Apr 2026 09:47:14 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Mali defence minister killed amid flurry of insurgent attacks"
     },
     {
       "title": "‘Staged’: Conspiracy theories surge after shooting at White House Correspondents’ Dinner",
@@ -263,20 +277,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Shortcomings and failures’ could sink Aukus nuclear submarines plan, UK inquiry warns"
-    },
-    {
-      "title": "SIPRI: Record arms spending, again",
-      "description": "Global military spending hit a record high in 2025. The Stockholm International Peace Research Institute, or SIPRI, warns the trend is likely to continue — and carries additional risks.",
-      "url": "https://www.dw.com/en/sipri-record-arms-spending-again/a-76901397?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 26 Apr 2026 22:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 SIPRI: Record arms spending, again"
     },
     {
       "title": "At least 14 dead in Indonesia train crash",
@@ -441,7 +441,7 @@
       "title": "Rescuers recover last victims from Indonesia train wreck that killed 14",
       "description": "Rescuers have finished removing victims from a damaged commuter train car, confirming the crash outside Indonesia’s capital killed 14 people",
       "url": "https://abcnews.com/International/wireStory/deaths-indonesia-train-crash-climb-14-132441598",
-      "published": "Tue, 28 Apr 2026 01:08:29 -0400",
+      "published": "Tue, 28 Apr 2026 02:10:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 24,
@@ -531,6 +531,20 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ 14 killed in South Sudan plane crash near capital Juba"
+    },
+    {
+      "title": "Mexico's Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident",
+      "description": "Mexican President Claudia Sheinbaum has ruled out a conflict with the United States over an incident involving two CIA agents who died in Chihuahua",
+      "url": "https://abcnews.com/International/wireStory/mexicos-sheinbaum-rules-conflict-us-2-cia-agents-132434904",
+      "published": "Tue, 28 Apr 2026 02:17:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Mexico's Sheinbaum rules out a conflict with US over 2 CIA agents killed in Chihuahua accident"
     },
     {
       "title": "Two gunmen suspected after Indiana University-area shooting leaves 9 injured, police say",
@@ -647,15 +661,18 @@
       "ticker_label": "🪖 Kim Jong Un speaks at memorial for North Korean soldiers killed fighting for Russia"
     },
     {
-      "title": "Russian drone attack wounds 14 while Ukrainian drones kill 2 in Russia-held area",
-      "description": "Authorities in Ukraine say a Russian drone attack on Ukraine’s southern city of Odesa has wounded 14 people including two children",
-      "url": "https://abcnews.com/International/wireStory/predawn-russian-drone-strike-hits-ukraines-odesa-wounding-132412382",
-      "published": "Mon, 27 Apr 2026 11:06:14 -0400",
+      "title": "Heavy flooding in southern China forces evacuations and leaves vehicles submerged",
+      "description": "Heavy flooding from torrential rain submerged vehicles and forced the evacuation of more than 200 residents in a southern Chinese city",
+      "url": "https://abcnews.com/International/wireStory/heavy-flooding-southern-china-forces-evacuations-leaves-vehicles-132444284",
+      "published": "Tue, 28 Apr 2026 02:25:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Heavy flooding in southern China forces evacuations and leaves vehicles submerged"
     },
     {
       "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
@@ -728,6 +745,20 @@
       "ticker_label": "🪖 Insurgent alliance strikes at heart of Mali’s junta, exposing limits of Russian protection"
     },
     {
+      "title": "Officials say the death toll in a train crash outside Indonesia's capital has risen to 14",
+      "description": "Officials say the death toll in a train crash outside Indonesia's capital has risen to 14",
+      "url": "https://abcnews.com/International/wireStory/officials-death-toll-train-crash-indonesias-capital-risen-132442130",
+      "published": "Tue, 28 Apr 2026 02:15:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Officials say the death toll in a train crash outside Indonesia's capital has risen to 14"
+    },
+    {
       "title": "Violence escalates in Colombia with dozens of attacks before presidential vote",
       "description": "A series of attacks in Colombia's southwest has raised security concerns before the May presidential election",
       "url": "https://abcnews.com/International/wireStory/violence-escalates-colombia-dozens-attacks-presidential-vote-132429954",
@@ -735,6 +766,17 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Taking power in Mali might be a stretch but insurgents can force hand of weakened regime",
+      "description": "Coordinated attack by JNIM and the Tuareg minority inflicted significant casualties on government forces and Russian auxiliaries When al-Qaida-affiliated Islamic militants launched a series of attacks on military bases and raids into major towns in Mali and neighbouring Burkina Faso last summer, observers suggested they had been inspired by their counterparts in Syria, who had overthrown the regime of Bashar al-Assad and taken power six months or so earlier. Despite the tactical successes that earned them the fearful title of the “Ghost Army”, seizing swathes of territory and denying cities and the military of fuel and other essentials, the chances of Jama’at Nusrat ul-Islam wa al-Muslimin (JNIM) definitively defeating Mali’s military regime and the thousand or so Russian mercenaries hired to defend it looked poor. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/apr/28/taking-power-in-mali-might-be-a-stretch-but-insurgents-can-force-hand-of-weakened-regime",
+      "published": "Tue, 28 Apr 2026 06:00:42 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -789,6 +831,17 @@
       "ticker_label": "🪖 Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war"
     },
     {
+      "title": "Trump administration fires all members of US National Science Board",
+      "description": "Democrats blast latest move by the administration to radically restructure the federal government.",
+      "url": "https://www.aljazeera.com/economy/2026/4/28/trump-administration-fires-all-members-of-us-national-science-board?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 06:56:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Trump doubts shooter motivated by Iran war as peace talks on hold",
       "description": "A shooting incident at the White House Correspondent's Dinner took focus away from the war in Iran, as Iran's foreign minister planned to return to Islamabad, the site of previous peace talks.",
       "url": "https://www.npr.org/2026/04/26/nx-s1-5800054/iran-talks-on-hold-shooting-talks-pakistan",
@@ -817,20 +870,6 @@
       "ticker_label": "🪖 Merz says US 'humiliated,' lacks strategy in Iran conflict"
     },
     {
-      "title": "Colombia highway bomb attack kills at least 19",
-      "description": "Suspected guerillas carried out a deadly explosives attack on the Pan-American Highway in southwest Colombia. The region has been gripped by violence over the past few days.",
-      "url": "https://www.dw.com/en/colombia-highway-bomb-attack-kills-at-least-19/a-76939450?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 26 Apr 2026 15:54:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Colombia highway bomb attack kills at least 19"
-    },
-    {
       "title": "Culture of hate? Trump's America and the White House press gala shooting",
       "description": "Even if it's a ‘lone wolf’ as first suggested by President Trump, Saturday night’s White House Correspondents Dinner drama certainly did not happen in a vacuum. And just as mass shootings have become commonplace in a United States overrun by firearms so have attempts on the lives of political figures. We’ll ask about the latest targeting of the US president and the echo chambers that amplify vilification and hate, that turn adversaries into enemies, a social media landscape where conspiracy theories can make a better fit than facts both as ideology and a business model.",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260427-culture-of-hate-trump-s-america-and-the-white-house-press-gala-shooting",
@@ -857,17 +896,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Staged’: Conspiracy theories spread online after thwarted shooting at White House press gala"
-    },
-    {
-      "title": "Gunmen attack orphanage in north-central Nigeria, abduct 23 pupils; 15 later rescued",
-      "description": "Gunmen have raided an illegally operated orphanage in north-central Nigeria, abducting 23 pupils",
-      "url": "https://abcnews.com/International/wireStory/gunmen-attack-orphanage-north-central-nigeria-abduct-23-132412539",
-      "published": "Mon, 27 Apr 2026 08:11:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "North Dakota state rep, pilot killed in plane crash",
@@ -984,10 +1012,10 @@
       "ticker_label": "💥 Israeli settlers attack Palestinians and set house on fire"
     },
     {
-      "title": "Google, Meta and TikTok face new levy to pay for Australian news as Albanese reveals media plan",
-      "description": "Labor’s draft news bargaining incentive scheme includes 2.25% levy on local revenues of digital giants Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese has urged Google, Meta and TikTok to make deals with Australian media outlets to avoid a dedicated 2.25% levy on local revenues, warning digital giants should not be able to exploit the work of journalists to boost profits. Releasing an exposure draft for the government’s news bargaining incentive (NBI) scheme on Tuesday, the prime minister said platforms could avoid the levy by signing new deals with publishers to pay for news content, and even greater offsets for making deals with smaller publishers. The government expects the plan will raise up to $250m annually for Australian journalism. Continue reading...",
+      "title": "Tech giants face new levy to pay for Australian news as Meta calls position ‘simply wrong’",
+      "description": "Google also rejects need for reform after Albanese government reveals draft news bargaining incentive scheme Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Anthony Albanese has urged Google, Meta and TikTok to make deals with Australian media outlets to avoid a dedicated 2.25% levy on local revenues, warning digital giants should not be able to exploit the work of journalists to boost profits. But tech giants Google and Meta have criticised the government’s change. Google rejected the need for the reform and was scathing Labor didn’t include AI platforms, while Meta – which manages Facebook and Instagram – said the government’s position was “simply wrong”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/apr/28/albanese-tech-companies-australian-media",
-      "published": "Tue, 28 Apr 2026 02:06:27 GMT",
+      "published": "Tue, 28 Apr 2026 06:02:23 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
@@ -995,7 +1023,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Google, Meta and TikTok face new levy to pay for Australian news as Albanese reveals media plan"
+      "ticker_label": "🪖 Tech giants face new levy to pay for Australian news as Meta calls position ‘simply wrong’"
     },
     {
       "title": "India news: Delhi to get respite, heat wave persists in other parts",
@@ -1123,6 +1151,17 @@
       "ticker_label": "🚨 Suspect in press gala shooting charged with attempted assassination of Trump"
     },
     {
+      "title": "Islamic State militants kill at least 29 in an attack on a village in northeastern Nigeria",
+      "description": "Officials say militants with the Islamic State group attacked a village overnight in northeastern Nigeria, killing at least 29 people",
+      "url": "https://abcnews.com/International/wireStory/islamic-state-militants-kill-29-attack-village-northeastern-132436490",
+      "published": "Tue, 28 Apr 2026 02:17:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "As Gaza misery continues, shortages in Iran begin to bite",
       "description": "Desperate and dangerous conditions in Gaza continue to hamper recovery efforts for the wartorn enclave's people, the UN health agency said on Friday, while demining experts warned that they’ve “barely scratched the surface” in assessing the level of contamination of unexploded ordnance.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167376",
@@ -1193,17 +1232,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 China seeks Southeast Asia gains as US influence falters"
-    },
-    {
-      "title": "Russia, North Korea agree 'long-term' military cooperation",
-      "description": "Russia's defense minister and the chairman of the State Duma are both visiting North Korea. One helped inaugurate a memorial to North Korean soldiers killed fighting Ukraine, the other hashed out a new defense deal.",
-      "url": "https://www.dw.com/en/russia-north-korea-agree-long-term-military-cooperation/a-76945404?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 26 Apr 2026 17:25:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Sun-soaked Boca Bash revelers meet badge blitz as cops flood wild floating party scene",
@@ -1310,6 +1338,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report"
+    },
+    {
+      "title": "Tailgating to be allowed at Boston World Cup matches as FIFA changes stance",
+      "description": "Boston World Cup host committee says fans will be allowed to tailgate for all seven matches at the Gillette Stadium.",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/tailgating-to-be-allowed-at-boston-world-cup-matches-as-fifa-changes-stance?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 06:05:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1453,20 +1492,6 @@
       "is_ticker": false
     },
     {
-      "title": "Who holds the cards in Iran-US talks?",
-      "description": "Both the US and Iran claim to have the upper hand in negotiations over the war, but who holds the cards?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/who-holds-the-cards-in-iran-us-talks?traffic_source=rss",
-      "published": "Mon, 27 Apr 2026 21:00:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Who holds the cards in Iran-US talks?"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1481,7 +1506,7 @@
       "title": "News live: shadow defence minister says Australia ‘ill-prepared’ for conflict; WA man dies after being swept from rocks",
       "description": "Meanwhile UK House of Commons inquiry into Aukus reveals ‘shortcomings and failings’ in delivery of submarine plan. Follow today’s news live Get our breaking news email , free app or daily news podcast The White House has nominated David Brat , a former Republican member of the US House of Representatives, to be the next ambassador to Australia . Brat represented Virginia in Congress and served two terms before he was defeated by a Democrat in 2018 in a close race. He is currently a vice-president of business relations at Virginia’s Liberty University. It wouldn’t fund the entire amount of that extra storage, but it would help make a contribution … Obviously, this comes at a cost … But given what we’re facing right now, we think it’s a reasonable insurance premium to improve the security of all Australians. It was sensible to do a few years ago to get to 30 days. It’s helping us now. Given the high risks, it’s even more sensible to go to 60 days. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/28/australia-news-live-rsl-welcome-to-country-anzac-day-angus-taylor-fuel-reserve-crisis-budget-jim-chalmers-anthony-albanese-ntwnfb",
-      "published": "Tue, 28 Apr 2026 05:35:10 GMT",
+      "published": "Tue, 28 Apr 2026 07:18:26 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1508,6 +1533,17 @@
       "url": "https://www.npr.org/2026/04/26/nx-s1-5797410/how-china-is-responding-to-the-stalling-of-talks-between-the-u-s-and-iran",
       "published": "Sun, 26 Apr 2026 08:08:51 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Mexico: Special forces capture cartel leader 'El Jardinero'",
+      "description": "A leading member of the Jalisco cartel and possible successor to \"El Mencho,\" who was killed earlier this year, was nabbed by the Mexican military while hiding in a ditch.",
+      "url": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 28 Apr 2026 06:44:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1606,10 +1642,10 @@
       "is_ticker": false
     },
     {
-      "title": "Germany suspects Russia is behind Signal phishing that targeted top officials",
-      "description": "The German government suspects Russia is behind phishing attacks on Signal targeting high-ranking politicians, military personnel, and journalists",
-      "url": "https://abcnews.com/International/wireStory/germany-suspects-russia-signal-phishing-targeted-top-officials-132415352",
-      "published": "Mon, 27 Apr 2026 09:06:12 -0400",
+      "title": "What to know about the largest coordinated attack in over a decade by militants and rebels in Mali",
+      "description": "An alliance of al-Qaida-linked militants and separatists has launched the largest coordinated attack in over a decade in Mali",
+      "url": "https://abcnews.com/International/wireStory/largest-coordinated-attack-decade-militants-rebels-mali-132432507",
+      "published": "Tue, 28 Apr 2026 02:19:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1617,10 +1653,10 @@
       "is_ticker": false
     },
     {
-      "title": "At least 42 people killed in eastern Chad during clashes over water resources",
-      "description": "At least 42 people have been killed in eastern Chad after a clash between two families over a water point escalated into a cycle of reprisals",
-      "url": "https://abcnews.com/International/wireStory/42-people-killed-eastern-chad-clashes-water-resources-132411628",
-      "published": "Mon, 27 Apr 2026 08:50:08 -0400",
+      "title": "Germany suspects Russia is behind Signal phishing that targeted top officials",
+      "description": "The German government suspects Russia is behind phishing attacks on Signal targeting high-ranking politicians, military personnel, and journalists",
+      "url": "https://abcnews.com/International/wireStory/germany-suspects-russia-signal-phishing-targeted-top-officials-132415352",
+      "published": "Mon, 27 Apr 2026 09:06:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1811,17 +1847,6 @@
       "is_ticker": false
     },
     {
-      "title": "David Brat, Ayn Rand expert who once argued Christianity and capitalism should merge, named as US ambassador to Australia",
-      "description": "Republican, who has Masters of Divinity, represented Virginia in Congress for two terms Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Donald Trump has named the former Virginia congressman David Brat to be the next US ambassador to Australia , ending a 15-month vacancy in Canberra. Brat served two terms in Congress until 2018 when he was defeated by a Democrat in a close race. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/28/trump-picks-former-republican-congressman-to-be-ambassador-to-australia-after-17-month-vacancy",
-      "published": "Tue, 28 Apr 2026 02:35:42 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "EU weighs giving US data for fewer travel restrictions",
       "description": "The European Union is negotiating a framework that could allow US authorities to search national databases across much of the bloc as the price for keeping visa-free travel.",
       "url": "https://www.dw.com/en/eu-weighs-giving-us-data-for-fewer-travel-restrictions/a-76912370?maca=en-rss-en-all-1573-xml-mrss",
@@ -1974,6 +1999,31 @@
       "is_ticker": false
     },
     {
+      "title": "Germany news: Major raids carried out against Hells Angels",
+      "description": "A large-scale police operation in the western state of North Rhine-Westphalia has targeted biker gang crime. Germany is to bid again for a non-permanent seat in the UN Security Council. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-major-raids-carried-out-against-hells-angels/live-76959182?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 28 Apr 2026 06:10:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Germany news: Major raids carried out against Hells Angels"
+    },
+    {
+      "title": "New Zealand spy plane reports possible North Korea sanctions breach at sea",
+      "description": "New Zealand's Defence Force says a North Korean ship was observed engaging in a possible transfer of illicit goods at sea.",
+      "url": "https://www.aljazeera.com/news/2026/4/28/new-zealand-spy-plane-reports-possible-north-korea-sanctions-breach-at-sea?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 06:07:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -2040,6 +2090,20 @@
       "is_ticker": false
     },
     {
+      "title": "A South Sudan community is denied aid as government and opposition blame each other",
+      "description": "Displaced people in a South Sudan village have been denied lifesaving aid by the government, according to eyewitnesses and aid groups",
+      "url": "https://abcnews.com/International/wireStory/south-sudan-community-denied-aid-government-opposition-blame-132444009",
+      "published": "Tue, 28 Apr 2026 02:13:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 A South Sudan community is denied aid as government and opposition blame each other"
+    },
+    {
       "title": "Pastor known for marriage advice arrested at rumored swingers community accused of having multiple wives",
       "description": "A Florida pastor who authored a book on strengthening marriages was arrested at The Villages following allegations that he married multiple women.",
       "url": "https://www.foxnews.com/us/pastor-known-marriage-advice-arrested-rumored-swingers-community-accused-having-multiple-wives",
@@ -2054,10 +2118,10 @@
       "ticker_label": "💥 Pastor known for marriage advice arrested at rumored swingers community accused of having multiple wives"
     },
     {
-      "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
       "description": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\".",
       "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Apr 2026 21:14:23 GMT",
+      "published": "Tue, 28 Apr 2026 06:09:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2146,39 +2210,6 @@
       "description": "White House press secretary Karoline Leavitt blamed democrats for promoting the rhetoric which fuels 'cult of hatred'.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/leavitt-blames-democrats-for-cult-of-hatred-against-trump?traffic_source=rss",
       "published": "Mon, 27 Apr 2026 21:15:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Will vote make a difference to Palestinians under Israeli occupation?",
-      "description": "The Palestinian Authority's Fatah party and its affiliates sweep council vote.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/4/27/will-vote-make-a-difference-to-palestinians-under-israeli-occupation?traffic_source=rss",
-      "published": "Mon, 27 Apr 2026 21:07:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran FM in Russia says US has offered new round of talks",
-      "description": "Russia is hosting Iran’s Foreign Minister Abbas Araghchi in St. Petersburg for talks on a possible new round of talks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/27/iran-fm-in-russia-says-us-has-offered-new-round-of-talks?traffic_source=rss",
-      "published": "Mon, 27 Apr 2026 20:59:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "China seeks to block US tech giant Meta from AI acquisition",
-      "description": "Bejing tightens scrutiny of AI industry amid intensifying geopolitical rivalry with the US over the technology.",
-      "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus?traffic_source=rss",
-      "published": "Mon, 27 Apr 2026 20:27:56 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2390,6 +2421,17 @@
       "is_ticker": false
     },
     {
+      "title": "Canada's Arctic noise is no party for narwhals",
+      "description": "Known as the \"unicorns of the sea,\" narwhals are fleeing Canada's far north. Researchers suspect a link to noise pollution from increasing ship traffic.",
+      "url": "https://www.dw.com/en/canada-s-arctic-noise-is-no-party-for-narwhals/a-76704611?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 28 Apr 2026 07:01:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "China blocks Meta's $2B acquisition of AI startup Manus",
       "description": "Manus claimed to revolutionize agentic AI. Now Chinese authorities are forcing Meta to unwind its purchase of the company in what analysts believe could set a new precedent.",
       "url": "https://www.dw.com/en/china-blocks-meta-s-2b-acquisition-of-ai-startup-manus/a-76957480?maca=en-rss-en-all-1573-xml-mrss",
@@ -2511,54 +2553,21 @@
       "is_ticker": false
     },
     {
+      "title": "UK leader Starmer faces more pressure over Mandelson ambassador appointment",
+      "description": "British Prime Minister Keir Starmer is facing new pressure over the decision to appoint Peter Mandelson as ambassador to Washington",
+      "url": "https://abcnews.com/International/wireStory/uk-leader-starmer-faces-pressure-mandelson-ambassador-appointment-132443252",
+      "published": "Tue, 28 Apr 2026 02:29:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Camera shows Sumatra orangutan using a canopy bridge to cross a road in Indonesia",
       "description": "Conservations say a Sumatran orangutan has been filmed for the first time using a human-made canopy bridge to cross a public road on the Indonesian island of Sumatra",
       "url": "https://abcnews.com/International/wireStory/camera-shows-sumatra-orangutan-canopy-bridge-cross-road-132421148",
       "published": "Mon, 27 Apr 2026 23:28:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Suspected pirates seize vessel off Somalia, the second hijacking incident in days",
-      "description": "A cargo vessel flying the flag of St. Kitts and Nevis has been hijacked off Somalia’s coast",
-      "url": "https://abcnews.com/International/wireStory/suspected-pirates-seize-vessel-carrying-cement-off-somalia-132413245",
-      "published": "Mon, 27 Apr 2026 08:26:49 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope Leo XIV vows to keep working to overcome differences with Anglicans in meeting with their its female leader",
-      "description": "Pope Leo XIV vows to keep working to overcome differences with Anglicans in meeting with their its female leader",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-vows-working-overcome-differences-anglicans-132412490",
-      "published": "Mon, 27 Apr 2026 08:25:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Taiwan court sentences ex-Tokyo Electron staff to 10 years in TSMC trade secrets case",
-      "description": "A court in Taiwan has sentenced a former employee of Tokyo Electron to 10 years in prison for stealing trade secrets from TSMC",
-      "url": "https://abcnews.com/International/wireStory/taiwan-court-sentences-tokyo-electron-staff-10-years-132411844",
-      "published": "Mon, 27 Apr 2026 08:11:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope prays with Archbishop of Canterbury in historic encounter, vows dialogue",
-      "description": "Pope Leo XIV has vowed to keep working to overcome differences with the Anglican Communion",
-      "url": "https://abcnews.com/International/wireStory/archbishop-canterbury-sarah-mullally-meets-pope-prays-vatican-132411618",
-      "published": "Mon, 27 Apr 2026 11:09:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
