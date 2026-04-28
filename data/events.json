@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28T11:14:43.529376Z",
+  "last_updated": "2026-04-28T12:07:43.620048Z",
   "event_count": 222,
   "events": [
     {
@@ -60,6 +60,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 39,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Darfur: Two decades on, a new generation of children faces 'horrific violence'",
+      "description": "Twenty years after the conflict in Darfur first sparked global outrage, children in the region are once again trapped in a catastrophic cycle of violence, hunger, and displacement – but this time, the world is failing to take notice.",
+      "url": "https://news.un.org/feed/view/en/story/2026/04/1167390",
+      "published": "Tue, 28 Apr 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -167,20 +178,6 @@
       "is_ticker": false
     },
     {
-      "title": "Middle East war live: Israel issues evacuation order for than a dozen towns in southern Lebanon",
-      "description": "Israel’s military on Tuesday told people living in more than a dozen towns and villages in southern Lebanon to leave their homes and head north immediately ahead of an imminent attack. The military claimed that the attack was in response to what it described as Hezbollah’s violation of the Lebanon-Israel ceasefire agreement. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260428-middle-east-war-live-trump-not-happy-with-iran-s-latest-peace-proposal-us-official-says",
-      "published": "Tue, 28 Apr 2026 05:02:36 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Middle East war live: Israel issues evacuation order for than a dozen towns in southern Lebanon"
-    },
-    {
       "title": "Afghan officials say Pakistani strikes killed 7 and wounded 85 in first attacks since peace talks",
       "description": "Afghan officials say mortars and missiles fired from Pakistan have struck a university and homes in northeastern Afghanistan, killing seven people and wounding at least 85",
       "url": "https://abcnews.com/International/wireStory/afghan-officials-pakistani-strikes-killed-7-wounded-85-132425548",
@@ -223,6 +220,20 @@
       "ticker_label": "🪖 ‘Shortcomings and failures’ could sink Aukus nuclear submarines plan, UK inquiry warns"
     },
     {
+      "title": "Middle East war live: World airlines body chief warns of possible jet fuel shortage this summer",
+      "description": "International Air Transport Association head Willie Walsh on Tuesday warned that there was a real risk of a jet fuel shortage this summer due to the US-Israeli war on Iran. Walsh said that some flights could be cancelled if fuel rationing were to be put into effect. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260428-middle-east-war-live-trump-not-happy-with-iran-s-latest-peace-proposal-us-official-says",
+      "published": "Tue, 28 Apr 2026 05:02:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Middle East war live: World airlines body chief warns of possible jet fuel shortage this summer"
+    },
+    {
       "title": "At least 14 dead in Indonesia train crash",
       "description": "At least 14 people have been killed in a train collision in western Indonesia, with another 84 injured, according to the country's train operator.",
       "url": "https://news.sky.com/story/at-least-14-dead-and-84-injured-in-indonesia-train-crash-13537430",
@@ -232,20 +243,6 @@
       "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Worker killed at Zaporizhzhia nuclear plant after drone strike, says Russia",
-      "description": "A worker at the Zaporizhzhia nuclear power ​station has been killed in a ​Ukrainian drone attack, according to Russian ​forces, which control the plant.",
-      "url": "https://news.sky.com/story/worker-killed-at-zaporizhzhia-nuclear-power-plant-after-ukraine-drone-strike-says-russia-13537042",
-      "published": "Mon, 27 Apr 2026 11:26:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Worker killed at Zaporizhzhia nuclear plant after drone strike, says Russia"
     },
     {
       "title": "Iran offers to reopen Strait of Hormuz if US lifts its blockade and the war ends",
@@ -330,6 +327,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump admin warns Iraq over Iran terror proxies as US reportedly blocks cash payments"
+    },
+    {
+      "title": "Amnesty calls for US strike on Yemen to be investigated as war crime",
+      "description": "The attack last year on a migrant detention facility killed at least 68 people.",
+      "url": "https://www.aljazeera.com/news/2026/4/28/amnesty-calls-for-us-strike-on-yemen-to-be-investigated-as-war-crime?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 11:27:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Amnesty calls for US strike on Yemen to be investigated as war crime"
     },
     {
       "title": "Pakistan accused of attacking Afghan university",
@@ -449,20 +460,6 @@
       "is_ticker": false
     },
     {
-      "title": "Man pleads guilty over terror plot to attack Taylor Swift concert - reports",
-      "description": "A man accused of pledging allegiance to the Islamic State and plotting to attack Taylor Swift concerts in Vienna has pleaded guilty on the opening day of his trial, according to Austrian media.",
-      "url": "https://news.sky.com/story/man-pleads-guilty-over-terror-plot-to-attack-taylor-swift-concert-reports-13537498",
-      "published": "Tue, 28 Apr 2026 10:49:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Man pleads guilty over terror plot to attack Taylor Swift concert - reports"
-    },
-    {
       "title": "Mali: Guterres calls for international solutions to curb spread of violent extremism in the Sahel",
       "description": "There are reports of continuing clashes in Mali on Sunday, a day after a series of coordinated attacks across the landlocked African nation against Government forces by extremists and northern separatist rebels.",
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167382",
@@ -503,7 +500,7 @@
     },
     {
       "title": "Mexican special forces arrest top commander of cartel and his alleged money launderer",
-      "description": "US embassy warns employees to avoid Reynosa area after arrests of Audias Flores and César Alejandro “N” The Mexican authorities have arrested two top criminals, one of them a close ally of the slain founder of the Jalisco New Generation Cartel (CJNG), prompting gunmen to block roads near the border city of Reynosa. Audias Flores, known as “El Jardinero”, is a regional commander in control of swathes of CJNG territory along Mexico’s Pacific coast. He was considered a potential successor to Nemesio Oseguera, alias “El Mencho”, who ran the cartel and was killed in a security operation in February . Continue reading...",
+      "description": "US embassy warns employees to avoid Reynosa area after arrests of Audias Flores and César Alejandro ‘N’ The Mexican authorities have arrested two top criminals, one of them a close ally of the slain founder of the Jalisco New Generation Cartel (CJNG), prompting gunmen to block roads near the border city of Reynosa. Audias Flores, known as “El Jardinero”, is a regional commander in control of swathes of CJNG territory along Mexico’s Pacific coast. He was considered a potential successor to Nemesio Oseguera, alias “El Mencho”, who ran the cartel and was killed in a security operation in February . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/apr/28/mexican-special-forces-arrest-top-commander-audias-flores-el-jardinero-of-powerful-cartel",
       "published": "Tue, 28 Apr 2026 11:00:16 GMT",
       "source": "The Guardian World",
@@ -581,20 +578,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Nuclear experts warn Iran’s uranium ‘right’ is a myth, say Trump is right to hold firm"
-    },
-    {
-      "title": "UK appeals High Court ruling that granted Palestine Action a victory",
-      "description": "The Home Office is challenging judges who ruled the proscription of the group as a terrorist organisation as unlawful",
-      "url": "https://www.aljazeera.com/news/2026/4/28/uk-to-appeal-high-court-ruling-that-granted-palestine-action-a-victory?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 07:34:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 UK appeals High Court ruling that granted Palestine Action a victory"
     },
     {
       "title": "Mali in turmoil after insurgents seize towns and kill defence minister",
@@ -686,20 +669,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
-      "description": "Trump team reviews Iran peace plan to reopen Hormuz with nuclear talks potentially delayed to a later stage.",
-      "url": "https://www.aljazeera.com/news/2026/4/28/iran-war-whats-happening-on-day-60-as-diplomacy-gathers-pace?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 07:06:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war: What’s happening on day 60 as diplomacy gathers pace?"
-    },
-    {
       "title": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
       "description": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfires As wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the woods. As the situation deteriorated, authorities turned the request into a prohibition : anyone caught hiking under the shade of the forest canopy faced a C$25,000 fine – a figure more than half the average worker’s yearly salary. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
@@ -740,6 +709,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Austrian man admits plot to attack 2024 Taylor Swift concert"
+    },
+    {
+      "title": "Man pleads guilty over terror plot to attack Taylor Swift concert",
+      "description": "A man accused of plotting to attack Taylor Swift concerts in Vienna has pleaded guilty on the opening day of his trial.",
+      "url": "https://news.sky.com/story/man-pleads-guilty-over-terror-plot-to-attack-taylor-swift-concert-reports-13537498",
+      "published": "Tue, 28 Apr 2026 10:49:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Man pleads guilty over terror plot to attack Taylor Swift concert"
     },
     {
       "title": "As warheads proliferate, decades old nuclear weapons treaty must evolve, warns UN chief",
@@ -800,6 +783,17 @@
       "url": "https://abcnews.com/International/wireStory/violence-escalates-colombia-dozens-attacks-presidential-vote-132429954",
       "published": "Tue, 28 Apr 2026 00:02:29 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Brooklyn attack leaves 3 injured, suspect wearing Iranian flag shirt arrested by NYPD",
+      "description": "A suspect in an Iranian flag shirt allegedly assaulted three Jewish men in Brooklyn while screaming hateful language at them, according to reports.",
+      "url": "https://www.foxnews.com/us/brooklyn-attack-leaves-3-injured-suspect-wearing-iranian-flag-shirt-arrested-nypd",
+      "published": "Tue, 28 Apr 2026 07:55:58 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -870,17 +864,6 @@
       "is_ticker": false
     },
     {
-      "title": "WHO says billions saw health gains in 2025 despite funding cuts",
-      "description": "Despite significant funding cuts, the World Health Organization (WHO) was able to support significant national health gains for hundreds of millions of people in 2025, according to its annual Results Report released on Thursday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/04/1167370",
-      "published": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war",
       "description": "Kim Jong Un and Russian Defence Minister Andrey Belousov unveiled the memorial in Pyongyang.",
       "url": "https://www.bbc.com/news/articles/cql7l707244o?at_medium=RSS&at_campaign=rss",
@@ -893,6 +876,34 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Kim Jong Un opens memorial for N Korean soldiers killed in Ukraine war"
+    },
+    {
+      "title": "Performer describes locking eyes with Trump as they ducked for cover during shooting",
+      "description": "Oz Pearlman - a self-described \"mentalist\" - was speaking to Trump, First Lady Melania Trump and press secretary Karoline Leavitt as the attack happened.",
+      "url": "https://www.bbc.com/news/articles/czjwj8wgymro?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 27 Apr 2026 21:43:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Performer describes locking eyes with Trump as they ducked for cover during shooting"
+    },
+    {
+      "title": "How the US-Israeli war is collapsing the sanctions regime on Iran",
+      "description": "Circumvention mechanisms already exist and the conflict is encouraging more entities to work with them.",
+      "url": "https://www.aljazeera.com/opinions/2026/4/28/how-the-us-israeli-war-is-collapsing-the-sanctions-regime-on-iran?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 11:19:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 How the US-Israeli war is collapsing the sanctions regime on Iran"
     },
     {
       "title": "Palestine weekly wrap: Under cover of ceasefire, Israel increases grip",
@@ -984,6 +995,17 @@
       "ticker_label": "🪖 Lightning strikes in Bangladesh kill 14 - including 10-year-old boy"
     },
     {
+      "title": "5 bald eagles found dead in Michigan, raising poaching concerns",
+      "description": "The deaths of five bald eagles in Michigan's Upper Peninsula are under investigation after officials ruled out natural causes, suspecting illegal killing.",
+      "url": "https://www.foxnews.com/us/5-bald-eagles-found-dead-michigan-raising-poaching-concerns",
+      "published": "Tue, 28 Apr 2026 07:29:25 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Former Mexican beauty queen found shot dead as investigators examine possible family involvement: reports",
       "description": "Prosecutors investigate the death of Carolina Flores Gómez, a former Mexican beauty queen found shot in her Mexico City apartment in the Polanco area.",
       "url": "https://www.foxnews.com/world/former-mexican-beauty-queen-found-shot-dead-investigators-examine-possible-family-involvement",
@@ -1070,20 +1092,6 @@
       "ticker_label": "🚨 Cole Allen charged in Trump assassination attempt in first court appearance after WHCA Dinner shooting"
     },
     {
-      "title": "White House Correspondents' Dinner shooting: Timeline traces how suspect’s alleged cross-country plan unfolded",
-      "description": "A timeline of events surrounding the White House Correspondents' Association Dinner shooting shows how suspect Cole Allen allegedly targeted the Trump administration.",
-      "url": "https://www.foxnews.com/us/white-house-correspondents-dinner-shooting-timeline-traces-suspects-alleged-cross-country-plan-unfolded",
-      "published": "Sun, 26 Apr 2026 18:45:26 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 White House Correspondents' Dinner shooting: Timeline traces how suspect’s alleged cross-country plan unfolded"
-    },
-    {
       "title": "Iran turmoil erupts: Ultra-hardliner who mocked Trump poised to take over nuclear talks",
       "description": "Reports say veteran hardliner Saeed Jalili may replace Ghalibaf on Iran's negotiating team, deepening fractures within the regime's political leadership.",
       "url": "https://www.foxnews.com/world/iran-turmoil-erupts-ultra-hardliner-who-mocked-trump-poised-take-over-nuclear-talks",
@@ -1104,20 +1112,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "‘Should be fired’: Why the Trumps want Jimmy Kimmel sacked",
-      "description": "Trump calls for Kimmel's firing over remarks tied to Melania and a recent shooting incident at a media event.",
-      "url": "https://www.aljazeera.com/news/2026/4/28/should-be-fired-why-the-trumps-want-jimmy-kimmel-sacked?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 08:06:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 ‘Should be fired’: Why the Trumps want Jimmy Kimmel sacked"
     },
     {
       "title": "Jimmy Kimmel says Melania Trump joke not 'call to assassination'",
@@ -1226,20 +1220,6 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "China seeks Southeast Asia gains as US influence falters",
-      "description": "Foreign Minister Wang Yi's visit to Southeast Asia aims to portray Beijing as a steady regional partner as the region grapples with the fallout from the war in Iran, tariffs and doubts over Washington's reliability.",
-      "url": "https://www.dw.com/en/china-seeks-southeast-asia-gains-as-us-influence-falters/a-76954075?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 27 Apr 2026 13:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 China seeks Southeast Asia gains as US influence falters"
     },
     {
       "title": "Sun-soaked Boca Bash revelers meet badge blitz as cops flood wild floating party scene",
@@ -1359,6 +1339,17 @@
       "ticker_label": "🪖 Ships seized by Iranians 'armed to the teeth' along Strait of Hormuz have been taken toward port: report"
     },
     {
+      "title": "Algeria’s Luca Zidane doubtful for World Cup after chin and jaw fracture",
+      "description": "Algera's first-choice goalkeeper collided with a player during a Spanish league match, breaking his jaw and chin.",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/algerias-luca-zidane-doubtful-for-world-cup-after-chin-and-jaw-fracture?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 10:58:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Croatia’s Modric undergoes facial surgery but aims to be fit for World Cup",
       "description": "Luka Modric suffered a facial ⁠fracture in AC Milan's game against Juventus and underwent surgery the following day.",
       "url": "https://www.aljazeera.com/sports/2026/4/28/croatias-modric-undergoes-facial-surgery-but-aims-to-be-fit-for-world-cup?traffic_source=rss",
@@ -1381,7 +1372,7 @@
       "is_ticker": false
     },
     {
-      "title": "FIFA urged to push US for ‘ICE Truce’ at World Cup by Human Rights Watch",
+      "title": "FIFA urged to push US for ‘ICE Truce’ at World Cup by rights group",
       "description": "ICE has represented the US immigration crackdown and deportation drive, but HRW wants a truce for duration of World Cup.",
       "url": "https://www.aljazeera.com/sports/2026/4/28/fifa-urged-to-push-for-ice-truce-at-us-world-cup-by-human-rights-watch?traffic_source=rss",
       "published": "Tue, 28 Apr 2026 08:47:32 +0000",
@@ -1497,6 +1488,20 @@
       "is_ticker": false
     },
     {
+      "title": "When will Strait of Hormuz be ‘safe’ for commercial shipping again?",
+      "description": "Even if the strait reopens, shipping insurance could cost 20 times more than before the war, analysts say.",
+      "url": "https://www.aljazeera.com/features/2026/4/28/when-will-strait-of-hormuz-be-safe-for-commercial-shipping-again?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 11:18:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 When will Strait of Hormuz be ‘safe’ for commercial shipping again?"
+    },
+    {
       "title": "Born during Israel’s genocide: Gaza’s child survivors bear the scars of war",
       "description": "Gaza’s youngest survivors face lifelong disabilities from toxic gas and burns as the healthcare system collapses.",
       "url": "https://www.aljazeera.com/features/2026/4/28/born-during-israels-genocide-gazas-child-survivors-bear-the-scars-of-war?traffic_source=rss",
@@ -1561,6 +1566,20 @@
       "is_ticker": false
     },
     {
+      "title": "Greek police hunt for alleged 89-year-old shooter on the run",
+      "description": "Greek police are looking for a gunman, reportedly aged 89, who opened fire on a social security office and a courthouse in central Athens, wounding several, local media reports say.",
+      "url": "https://www.dw.com/en/greek-police-hunt-for-alleged-89-year-old-shooter-on-the-run/a-76966927?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 28 Apr 2026 11:21:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Greek police hunt for alleged 89-year-old shooter on the run"
+    },
+    {
       "title": "Mexico: Special forces capture cartel leader 'El Jardinero'",
       "description": "A leading member of the Jalisco cartel and possible successor to \"El Mencho,\" who was killed earlier this year, was nabbed by the Mexican military while hiding in a ditch.",
       "url": "https://www.dw.com/en/mexico-special-forces-capture-cartel-leader-el-jardinero/a-76959439?maca=en-rss-en-all-1573-xml-mrss",
@@ -1609,20 +1628,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin pledges support for Iran in talks with FM Araghchi"
-    },
-    {
-      "title": "Trump's 'hellhole' repost fuels growing anger in India",
-      "description": "Donald Trump's rhetoric, the Iran war and US tariffs are driving anger in India — even among conservative voices. Will the strain reshape US-India ties?",
-      "url": "https://www.dw.com/en/trump-s-hellhole-repost-fuels-growing-anger-in-india/a-76952514?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 27 Apr 2026 12:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump's 'hellhole' repost fuels growing anger in India"
     },
     {
       "title": "Who is Iyad Ag Ghali, Mali’s most wanted man?",
@@ -1750,20 +1755,6 @@
       "ticker_label": "🚨 What we know about the White House Correspondents' Dinner shooting suspect and more top headlines"
     },
     {
-      "title": "Son warns suspected killer may 'get away with murder' after conviction tossed in mom's execution-style slaying",
-      "description": "A judge vacated Miguel Cruz's conviction in the cold case killing of Wisconsin mother Juanita Zdroik, potentially setting the stage for a new trial.",
-      "url": "https://www.foxnews.com/us/son-warns-suspected-killer-may-get-away-murder-conviction-tossed-moms-execution-style-slaying",
-      "published": "Sun, 26 Apr 2026 10:00:19 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Son warns suspected killer may 'get away with murder' after conviction tossed in mom's execution-style slaying"
-    },
-    {
       "title": "Major blow to Putin in Africa as Russian forces driven from Mali stronghold by separatists, jihadists",
       "description": "Analysts say Russia's Africa Corps defeat in Mali could be a turning point for Moscow's influence in West Africa as jihadist attacks continue.",
       "url": "https://www.foxnews.com/world/major-blow-putin-africa-russian-forces-driven-from-mali-stronghold-separatists-jihadists",
@@ -1809,28 +1800,6 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Plane crash in South Sudan kills all 14 on board"
-    },
-    {
-      "title": "Canada's Carney launches a sovereign wealth fund. What is it?",
-      "description": "The fund - which Canadians can invest in directly - will help pay for major infrastructure projects in the country, the prime minister says.",
-      "url": "https://www.bbc.com/news/articles/c98m800r28qo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Apr 2026 18:13:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump reviews Iranian proposal aimed at reopening Strait of Hormuz",
-      "description": "The White House confirms Trump met his national security advisers on Monday to discuss the plan.",
-      "url": "https://www.aljazeera.com/news/2026/4/28/trump-reviews-iranian-proposal-aimed-at-reopening-strait-of-hormuz?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 07:55:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
@@ -1935,15 +1904,18 @@
       "ticker_label": "🪖 Venice opera house drops incoming music director after nepotism remarks"
     },
     {
-      "title": "Ukraine summons Israeli ambassador over ‘stolen’ grain shipments",
-      "description": "The diplomatic spat unfolds as Ukrainian drones hit Russia's Tuapse oil refinery, causing a 'massive' fire.",
-      "url": "https://www.aljazeera.com/news/2026/4/28/ukraine-summons-israeli-ambassador-over-stolen-grain-shipments?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 07:34:11 +0000",
-      "source": "Al Jazeera",
+      "title": "WHCA dinner shooter charged. And, Charles III to address Congress",
+      "description": "Cole Allen, the man who tried to storm the White House Correspondents' Dinner, is being charged with trying to assassinate President Trump. And, King Charles III is set to address Congress today.",
+      "url": "https://www.npr.org/2026/04/28/g-s1-119015/up-first-newsletter-cole-allen-king-charles-iii-congress-lebanon-ceasefire-state-farm",
+      "published": "Tue, 28 Apr 2026 07:43:14 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ WHCA dinner shooter charged. And, Charles III to address Congress"
     },
     {
       "title": "Hunt for 89-year-old suspect after gunman opens fire in Athens",
@@ -2054,6 +2026,17 @@
       "is_ticker": false
     },
     {
+      "title": "Mapping the destruction: How Israel ‘wiped out’ Lebanon’s Bint Jbeil",
+      "description": "An Al Jazeera visual probe maps the systematic demolition of Lebanon's border towns, mirroring the devastation in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/4/28/mapping-the-destruction-how-israel-wiped-out-lebanons-bint-jbeil?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 11:19:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -2118,12 +2101,26 @@
       "title": "Russian superyacht sails through Strait of Hormuz despite blockade",
       "description": "The 141m-long vessel, linked to a close ally of Russian President Vladimir Putin, cleared the waterway despite an ongoing blockade.",
       "url": "https://www.bbc.com/news/articles/cm2pn8zdxdjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Apr 2026 07:17:06 GMT",
+      "published": "Tue, 28 Apr 2026 12:03:39 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "'It's bizarre': Californians grapple with revelation that press gala gunman suspect was neighbour",
+      "description": "People living near the man charged with the attempted assassination of Trump say they were shocked to see their neighbour on TV.",
+      "url": "https://www.bbc.com/news/articles/c392knk3w2jo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 28 Apr 2026 11:14:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 'It's bizarre': Californians grapple with revelation that press gala gunman suspect was neighbour"
     },
     {
       "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
@@ -2137,11 +2134,11 @@
       "is_ticker": false
     },
     {
-      "title": "How Kenya's Sabastian Sawe broke iconic sub-two-hour barrier at the London Marathon",
-      "description": "Kenya's Sabastian Sawe on becoming the first person to break the two-hour barrier for the marathon.",
-      "url": "https://www.bbc.com/sport/athletics/articles/cp383n09030o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 27 Apr 2026 11:49:24 GMT",
-      "source": "BBC News",
+      "title": "Atletico Madrid vs Arsenal: Champions League – team news, start, lineups",
+      "description": "Spanish giants Atletico host Premier League leaders Arsenal at the Metropolitano Stadium for their semifinal first leg.",
+      "url": "https://www.aljazeera.com/sports/2026/4/28/atletico-madrid-vs-arsenal-champions-league-team-news-start?traffic_source=rss",
+      "published": "Tue, 28 Apr 2026 11:52:54 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2185,17 +2182,6 @@
       "description": "Iraq appoints new prime minister-designate",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/28/iraq-appoints-new-prime-minister-designate?traffic_source=rss",
       "published": "Tue, 28 Apr 2026 09:30:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Athletics great Allyson Felix aiming to compete at 2028 Los Angeles Games",
-      "description": "Felix, the most decorated woman in Olympic athletics history with 11 medals, plans a comeback at age 40 at the Olympics.",
-      "url": "https://www.aljazeera.com/sports/2026/4/28/athletics-great-allyson-felix-aiming-to-compete-at-2028-los-angeles-games?traffic_source=rss",
-      "published": "Tue, 28 Apr 2026 07:42:16 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2421,11 +2407,11 @@
       "is_ticker": false
     },
     {
-      "title": "Egypt's Grand Museum opens after many delays",
-      "description": "We visit the new Grand Egyptian Museum, a spacious museum outside Cairo dedicated to displaying artifacts from ancient Egypt. It has finally opened its doors after decades of planning and construction.",
-      "url": "https://www.npr.org/2026/04/26/nx-s1-5708771/egypts-grand-museum-opens-after-many-delays",
-      "published": "Sun, 26 Apr 2026 18:04:13 -0400",
-      "source": "NPR World News",
+      "title": "South Korea: Ex-first lady Kim handed longer graft sentence",
+      "description": "Kim Keon Hee, wife of Yoon Suk Yeol, now faces a four-year jail sentence on charges of stock manipulation and bribery. The court also found she accepted gifts from a contentious church, knowing it expected favors.",
+      "url": "https://www.dw.com/en/south-korea-ex-first-lady-kim-handed-longer-graft-sentence/a-76964144?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 28 Apr 2026 11:18:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2542,6 +2528,17 @@
       "is_ticker": false
     },
     {
+      "title": "Police seize suspected &#163;4m drugs haul at port",
+      "description": "A suspected £4m cannabis haul has been seized in a cross-border police operation.",
+      "url": "https://news.sky.com/story/police-seize-suspected-1634m-drugs-haul-at-northern-ireland-port-13537515",
+      "published": "Tue, 28 Apr 2026 10:04:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "South Korean court convicts of wife of ousted President Yoon on corruption charges",
       "description": "An appeals court has raised to four years the corruption sentence for the wife of South Korea’s ousted President Yoon Suk Yeol",
       "url": "https://abcnews.com/International/wireStory/south-korean-court-convicts-wife-ousted-president-yoon-132446125",
@@ -2591,6 +2588,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/04/1167377",
       "published": "Fri, 24 Apr 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "King Charles set for historic address to Congress in first US visit as monarch and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/king-charles-set-historic-address-congress-first-us-visit-monarch-more-top-headlines",
+      "published": "Tue, 28 Apr 2026 07:20:19 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2656,20 +2664,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 New York woman convicted for throwing dynamite at boyfriend, blowing off his hand as he tried to get rid of it"
-    },
-    {
-      "title": "Unearthed video reveals Cole Allen as quiet inventor years before alleged bid to assassinate Trump",
-      "description": "Unearthed video shows alleged gunman Cole Allen as a young Caltech inventor years before the White House Correspondents' Dinner assassination attempt.",
-      "url": "https://www.foxnews.com/us/unearthed-video-reveals-cole-allen-quiet-inventor-years-before-alleged-bid-assassinate-trump",
-      "published": "Sun, 26 Apr 2026 12:43:40 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Unearthed video reveals Cole Allen as quiet inventor years before alleged bid to assassinate Trump"
     },
     {
       "title": "Latin American leftists met in Spain, signaling push against US influence on continent",
