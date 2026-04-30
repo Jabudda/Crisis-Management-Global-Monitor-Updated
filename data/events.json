@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30T11:10:09.261581Z",
+  "last_updated": "2026-04-30T12:02:37.738024Z",
   "event_count": 221,
   "events": [
     {
@@ -77,6 +77,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "'The world deserves food sovereignty and more secured food access for everybody'",
+      "description": "As geopolitical instability exposes the deep entanglement between energy, food systems, and global security, Oliver Farry is pleased to welcome Delphine Lévi Alvarès, Petrochemicals Campaign Manager at the Center for International Environmental Law (CIEL). Joining us from a high-level summit in Colombia, Ms. Alvarès says we've reached a critical juncture that requires steadfast action. The on-going conflict and instability in the Middle East, she argues, is less an “opportunity” than a moral and systemic reckoning: “a stark reminder that we have to decouple our economies from fossil fuels.”",
+      "url": "https://www.france24.com/en/the-world-deserves-food-sovereignty-and-more-secured-food-access-for-everybody",
+      "published": "Thu, 30 Apr 2026 11:57:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -227,20 +238,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Central Sahel: Millions of children in humanitarian need, UNICEF official warns"
-    },
-    {
-      "title": "Afghan man convicted of conspiracy in deadly suicide bombing at Kabul airport during US withdrawal",
-      "description": "An alleged ISIS-K militant was convicted of a terrorism conspiracy charge tied to the 2021 Kabul airport bombing that killed 13 U.S. service members.",
-      "url": "https://www.foxnews.com/us/afghan-man-convicted-conspiracy-deadly-suicide-bombing-kabul-airport-us-withdrawal",
-      "published": "Wed, 29 Apr 2026 14:36:17 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Afghan man convicted of conspiracy in deadly suicide bombing at Kabul airport during US withdrawal"
     },
     {
       "title": "World News in Brief: Sudan drone attacks condemned, South Sudan violence, airstrikes in Ukraine, South Africa Freedom Day",
@@ -673,6 +670,20 @@
       "ticker_label": "🚨 89-year-old man allegedly opens fire with shotgun in Greek capital, injuring 4"
     },
     {
+      "title": "Will the Iran war reshape the global energy order?",
+      "description": "As oil markets shift, OPEC's grip is under pressure, US exports rise, and China drives the push towards renewables.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/30/will-the-iran-war-reshape-the-global-energy-order?traffic_source=rss",
+      "published": "Thu, 30 Apr 2026 11:12:39 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Will the Iran war reshape the global energy order?"
+    },
+    {
       "title": "Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid",
       "description": "Soaring oil prices and the blockade are preventing food, fuel and medicine being delivered to millions of people in desperate need, say NGOs The volatility of global oil prices caused by the US and Israel’s war on Iran is taking a toll on the most vulnerable people, by slowing or blocking food and medical aid from reaching them. Now aid organisations are calling for a “humanitarian corridor” to be opened through the strait of Hormuz amid rocketing transportation costs. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/apr/29/humanitarian-corridor-strait-of-hormuz-iran-war-hits-vital-aid",
@@ -687,10 +698,24 @@
       "ticker_label": "🪖 Calls for humanitarian corridor through strait of Hormuz as Iran war hits vital aid"
     },
     {
+      "title": "Iran's supreme leader says it will protect its nuclear and missile capabilities",
+      "description": "Iran's supreme leader says the Islamic Republic will protect its nuclear and missile capabilities as a national asset",
+      "url": "https://abcnews.com/International/wireStory/irans-supreme-leader-protect-nuclear-missile-capabilities-132527153",
+      "published": "Thu, 30 Apr 2026 07:46:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran's supreme leader says it will protect its nuclear and missile capabilities"
+    },
+    {
       "title": "Bank of England expected to hold interest rates as it weighs the impact of Iran war",
-      "description": "The Bank of England is expected to announce it's keeping interest rates on hold as policymakers assess the economic impact of the Iran war and Tehran’s effective closure of the Strait of Hormuz, through which a fifth of the world’s crude passes in peac...",
+      "description": "The Bank of England is keeping its main interest rate on hold at 3.75% as policymakers assess the economic impact of the Iran war and Tehran’s effective closure of the Strait of Hormuz, through which a fifth of the world’s crude passes",
       "url": "https://abcnews.com/International/wireStory/bank-england-expected-interest-rates-hold-weighs-impact-132523496",
-      "published": "Thu, 30 Apr 2026 05:54:23 -0400",
+      "published": "Thu, 30 Apr 2026 07:46:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
@@ -810,7 +835,7 @@
       "title": "UK vows to tackle antisemitism 'emergency' as police probe double stabbing attack",
       "description": "The British government has declared antisemitism in the U.K. an \"emergency” and announced plans to spend millions on increasing security around Jewish sites",
       "url": "https://abcnews.com/International/wireStory/uk-vows-tackle-antisemitism-emergency-police-probe-double-132525372",
-      "published": "Thu, 30 Apr 2026 05:30:27 -0400",
+      "published": "Thu, 30 Apr 2026 07:06:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -1019,6 +1044,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act",
+      "description": "The Pentagon estimates the war with Iran has cost $25 billion so far. And, the Supreme Court ruled that Louisiana's 2024 election map was \"an unconstitutional racial gerrymander.\"",
+      "url": "https://www.npr.org/2026/04/30/g-s1-119496/up-first-newsletter-pentagon-iran-war-jerome-powell-scotus-voting-rights-wildfire-fuel-costs",
+      "published": "Thu, 30 Apr 2026 07:38:15 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war has cost $25B, Pentagon says. And, SCOTUS strikes blow to Voting Rights Act"
     },
     {
       "title": "Trump says he spoke with Putin about a possible ceasefire in Ukraine",
@@ -1436,7 +1475,7 @@
     },
     {
       "title": "Russia rejects Tuareg rebels' call to withdraw from Mali",
-      "description": "Russia on Thursday said its forces would stay in Mali, rejecting a call from Tuareg rebels for Moscow to withdraw after separatists and jihadists launched attacks last weekend against the military junta's rule, which Russian paramilitary forces have helped support.",
+      "description": "Russia on Thursday said its forces would stay in Mali, rejecting a call from Tuareg rebels for Moscow to withdraw after separatists and jihadists launched attacks last weekend against the military junta, which Russian paramilitary forces have helped support.",
       "url": "https://www.france24.com/en/africa/20260430-russia-rejects-tuareg-rebels-call-to-withdraw-from-mali",
       "published": "Thu, 30 Apr 2026 10:13:10 GMT",
       "source": "France24",
@@ -1469,6 +1508,31 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 White supremacist jailed for deadly mosque shooting fails to overturn guilty plea"
+    },
+    {
+      "title": "Germany faces new threat about reduced US military presence in Europe",
+      "description": "President Donald Trump has floated a new threat that the United States could reduce its military presence in Germany, a key NATO ally and the European Union’s largest economy",
+      "url": "https://abcnews.com/International/wireStory/new-bluster-trump-germany-faces-new-threat-reduced-132528166",
+      "published": "Thu, 30 Apr 2026 07:46:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Inflation hits 3% in Europe as Iran war spreads oil price shock",
+      "description": "Soaring oil prices from the Iran war pushed inflation higher to 3% in Europe in April",
+      "url": "https://abcnews.com/International/wireStory/inflation-hits-3-europe-iran-war-spreads-oil-132525904",
+      "published": "Thu, 30 Apr 2026 07:12:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Inflation hits 3% in Europe as Iran war spreads oil price shock"
     },
     {
       "title": "China’s factory activity expands for a second month despite shocks from the Iran war",
@@ -1623,39 +1687,6 @@
       "source": "CNN World",
       "type": "rss",
       "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Powell to remain on Fed board after term ends, preventing Trump appointment",
-      "description": "US Federal Reserve Chair Jerome Powell on Wednesday urged central bank independence as he nears the end of his term on May 15. He said he would remain a Fed governor, drawing criticism from President Donald Trump, who mocked the decision.",
-      "url": "https://www.france24.com/en/economy/20260430-powell-stays-on-fed-board-after-term-ends-preventing-trump-appointment",
-      "published": "Thu, 30 Apr 2026 03:10:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "China calls US hypocritical for expressing concern over Panama's sovereignty",
-      "description": "The U.S. State Department accused China of violating Panama’s sovereignty over a port dispute in the Central American nation, triggering another fierce back-and-forth on Wednesday as the Chinese government called the Trump administration hypocritical",
-      "url": "https://abcnews.com/International/wireStory/china-calls-us-hypocritical-expressing-concern-panamas-sovereignty-132506595",
-      "published": "Wed, 29 Apr 2026 14:40:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Video emerges of heavy firefight in Mali",
-      "description": "Video has been published by Russian mercenaries showing a heavy gun battle between Mali’s military and rebels.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/video-emerges-of-heavy-firefight-in-mali?traffic_source=rss",
-      "published": "Thu, 30 Apr 2026 04:25:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -2079,6 +2110,28 @@
       "is_ticker": false
     },
     {
+      "title": "Manchester United’s Kobbie Mainoo signs new five-year deal",
+      "description": "England midfielder Kobbie Mainoo was heavily linked with a move away after losing place at Man Utd under Ruben Amorim.",
+      "url": "https://www.aljazeera.com/sports/2026/4/30/manchester-uniteds-kobbie-mainoo-signs-new-five-year-deal?traffic_source=rss",
+      "published": "Thu, 30 Apr 2026 11:42:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Humanoid robots being trialled as airport workers in Japan",
+      "description": "Japan Airlines says it will trial humanoid robots as workers at Tokyo's Haneda Airport.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/humanoid-robots-being-trialled-as-airport-workers-in-japan?traffic_source=rss",
+      "published": "Thu, 30 Apr 2026 10:56:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Civilians or Hezbollah: Who did Israel hit on Lebanon’s ‘Black Wednesday’?",
       "description": "Israel says it targeted Hezbollah, but experts say the evidence proves otherwise.",
       "url": "https://www.aljazeera.com/news/2026/4/30/civilians-or-hezbollah-who-did-israel-hit-on-lebanons-black-wednesday?traffic_source=rss",
@@ -2185,28 +2238,6 @@
       "description": "Police in the UK have released bodycam footage showing the arrest of a suspect after two Jewish men were stabbed.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/4/30/london-police-release-bodycam-of-arrest-after-two-jewish-men-stabbed?traffic_source=rss",
       "published": "Thu, 30 Apr 2026 04:32:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Oil prices soar on fears of long supply disruption, US siege of Iran ports",
-      "description": "US President Trump meets with oil firms over ways to minimise impact on fuel supplies amid US blockade of Iranian ports.",
-      "url": "https://www.aljazeera.com/news/2026/4/30/oil-prices-soar-on-fears-of-long-supply-disruption-us-siege-of-iran-ports?traffic_source=rss",
-      "published": "Thu, 30 Apr 2026 04:06:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US indicts Sinaloa governor, 9 others over Mexican drug cartel links",
-      "description": "Indictment alleges that Governor Ruben Rocha Moya and other current and former officials worked with cartel leaders.",
-      "url": "https://www.aljazeera.com/news/2026/4/30/us-charges-sinaloa-state-governor-9-others-over-mexican-drug-cartel-links?traffic_source=rss",
-      "published": "Thu, 30 Apr 2026 03:12:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2379,17 +2410,6 @@
       "is_ticker": false
     },
     {
-      "title": "EU says Meta is failing to keep underage users off Facebook and Instagram",
-      "description": "The European Union accused Meta on Wednesday of failing to stop underage users from accessing Facebook and Instagram, in violation of the bloc's digital rules that require sites to protect minors.",
-      "url": "https://www.npr.org/2026/04/29/g-s1-119157/eu-meta-underage-users",
-      "published": "Wed, 29 Apr 2026 04:44:38 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "First dots on the roadmap to exiting fossil fuels",
       "description": "The message from inaugural talks on exiting fossil fuels was clear. It's not if, but when and how.",
       "url": "https://www.dw.com/en/first-dots-on-the-roadmap-to-exiting-fossil-fuels/a-76992981?maca=en-rss-en-all-1573-xml-mrss",
@@ -2500,10 +2520,10 @@
       "is_ticker": false
     },
     {
-      "title": "Activists say Israel has intercepted their Gaza aid flotilla near Crete, detaining crews",
+      "title": "Activists say Israeli forces intercepted their Gaza aid flotilla near Crete, detaining crews",
       "description": "Activists attempting to break Israel’s maritime blockade of Gaza say Israeli forces have intercepted their flotilla near the southern Greek island of Crete",
       "url": "https://abcnews.com/International/wireStory/activists-israel-intercepted-gaza-aid-flotilla-crete-detaining-132524803",
-      "published": "Thu, 30 Apr 2026 05:46:13 -0400",
+      "published": "Thu, 30 Apr 2026 07:46:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2514,7 +2534,7 @@
       "title": "French teen charged in Singapore over a vending machine straw-licking video",
       "description": "A French teen faces charges in Singapore after posting a video of himself licking a straw from an orange juice vending machine and putting it back",
       "url": "https://abcnews.com/International/wireStory/french-teen-charged-singapore-vending-machine-straw-licking-132524239",
-      "published": "Thu, 30 Apr 2026 05:30:15 -0400",
+      "published": "Thu, 30 Apr 2026 07:46:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2566,22 +2586,11 @@
       "is_ticker": false
     },
     {
-      "title": "Thailand ex-PM Thaksin is set for prison release next month after getting parole",
-      "description": "Former Thai Prime Minister Thaksin Shinawatra is set to be released from a Bangkok prison next month after a Justice Ministry panel decision to grant him parole",
-      "url": "https://abcnews.com/International/wireStory/thailand-pm-thaksin-set-prison-release-month-after-132501614",
-      "published": "Wed, 29 Apr 2026 14:40:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "He once struck a peace deal with Israel and says Lebanon's leaders should try again now",
-      "description": "Former Lebanese President Amin Gemayel believes the time might be right to pursue peace talks with Israel",
-      "url": "https://abcnews.com/International/wireStory/struck-peace-deal-israel-lebanons-leaders-now-132500354",
-      "published": "Wed, 29 Apr 2026 14:40:51 -0400",
-      "source": "ABC News International",
+      "title": "Maritime spies catch $800M oil scheme as Trump's naval blockade squeezes Tehran and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/maritime-spies-catch-800m-oil-scheme-trumps-naval-blockade-squeezes-tehran-more-top-headlines",
+      "published": "Thu, 30 Apr 2026 07:19:10 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
