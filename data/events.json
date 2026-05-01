@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01T22:23:08.104285Z",
+  "last_updated": "2026-05-01T22:49:32.915163Z",
   "event_count": 221,
   "events": [
     {
@@ -719,20 +719,6 @@
       "ticker_label": "🪖 Missing Oscar found after Academy Award winner blocked from taking it on flight"
     },
     {
-      "title": "Italian firefighters respond to Tuscany wildfires",
-      "description": "Wildfires have ravaged over 810 hectares (2,000 acres) of forest in Tuscany.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/italian-firefighters-respond-to-tuscany-wildfires?traffic_source=rss",
-      "published": "Fri, 01 May 2026 15:11:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Italian firefighters respond to Tuscany wildfires"
-    },
-    {
       "title": "Youssou N'Dour and Fatoumata Diawara headline FEMUA 2026",
       "description": "Over the last 18 years, the FEMUA has established itself as a major date in the African cultural calendar, with concerts in Anoumabo and Dimbokro in Ivory Coast. Showcasing a continent of musical styles – including Afrobeat, rumba and rap – the event was founded by A'Salfo, frontman for the band Magic System. FRANCE 24's reporters tell us more about this year's line-up, special guest country Gabon and the wealth of cultural events taking place at FEMUA 2026.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260501-youssou-n-dour-and-fatoumata-diawara-headline-femua-2026",
@@ -898,6 +884,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump tells Congress ceasefire means he does not need their approval for Iran war"
+    },
+    {
+      "title": "Who shot a Secret Service officer at the Trump press dinner?",
+      "description": "Court papers do not explicitly accuse the suspect of shooting the officer, even as officials say it was not \"friendly fire\".",
+      "url": "https://www.bbc.com/news/articles/cm2pmk0r3pjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 21:44:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Who shot a Secret Service officer at the Trump press dinner?"
     },
     {
       "title": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
@@ -1069,6 +1069,17 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia wants to be first nation in the world to eliminate a cancer - can it?",
+      "description": "For the first time, Australia has recorded no new cervical cancer diganoses in women under 25.",
+      "url": "https://www.bbc.com/news/articles/cd6w15vgp7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 01 May 2026 19:30:36 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1513,20 +1524,6 @@
       "ticker_label": "🪖 UN-backed data undercuts viral Gaza famine claims as child malnutrition falls"
     },
     {
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "description": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 18:05:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Oil price hits highest since 2022 after report Trump to be briefed on new Iran options"
-    },
-    {
       "title": "Let them eat baguette: French bakeries enjoy May Day exemption",
       "description": "French Prime Minister Sébastien Lecornu on Friday ordered several baguettes in front of cameras at a village bakery in a public display of support for a bill to allow bakeries and florists to open on May Day, a sacrosanct holiday for French workers, if they volunteer to work in writing and are paid double wages. The country's main trade unions oppose the bill.",
       "url": "https://www.france24.com/en/france/20260501-baguettes-take-centre-stage-on-france-s-labour-day",
@@ -1814,21 +1811,7 @@
       "is_ticker": false
     },
     {
-      "title": "US to withdraw thousands of troops from Germany - reports",
-      "description": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadership.",
-      "url": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany-reports/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 1 May 2026 22:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 US to withdraw thousands of troops from Germany - reports"
-    },
-    {
-      "title": "'Iran's most potent weapon': Telegraph's Adrian Blomfield offers rare frontline glimpse of Hormuz",
+      "title": "Inside Iran’s ‘mosquito fleet’: Telegraph’s Adrian Blomfield with a rare frontline glimpse of Hormuz",
       "description": "Gavin Lee welcomes Adrian Blomfield, Senior Foreign Correspondent at The Telegraph. His reporting from the Strait of Hormuz offers a rare, intimate view beyond satellite imagery and policy abstraction. “One of the things you get a sense of when you're out on the water,” he reflects, “is just how much more complicated the picture is.” That complexity is not theoretical. It is kinetic, obscured by haze and shaped by “about 300 small speedboats… bouncing along the water” at high speeds, forming a dense and ambiguous maritime ecosystem where smugglers, civilians and military actors blur into a single, indistinguishable flow.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260501-iran-s-most-potent-weapon-telegraph-s-adrian-blomfield-offers-rare-frontline-glimpse-of-hormuz",
       "published": "Fri, 01 May 2026 17:55:36 GMT",
@@ -1839,7 +1822,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'Iran's most potent weapon': Telegraph's Adrian Blomfield offers rare frontline glimpse of Hormuz"
+      "ticker_label": "🪖 Inside Iran’s ‘mosquito fleet’: Telegraph’s Adrian Blomfield with a rare frontline glimpse of Hormuz"
     },
     {
       "title": "Pimps in France turn to TikTok, luring minors into prostitution",
@@ -1950,7 +1933,7 @@
       "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
       "description": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
       "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 01 May 2026 22:06:05 GMT",
+      "published": "Fri, 01 May 2026 22:35:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2046,18 +2029,15 @@
       "is_ticker": false
     },
     {
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "description": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 30 Apr 2026 23:44:00 GMT",
-      "source": "BBC News",
+      "title": "Trump considering option to ‘blast the hell out of’ Iran",
+      "description": "US President Donald Trump said he is \"not happy\" with the latest peace proposal from Iran.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/trump-considering-option-to-blast-the-hell-out-of-iran?traffic_source=rss",
+      "published": "Fri, 01 May 2026 22:27:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Venice Biennale jury resigns days before start of top art exhibition"
+      "is_ticker": false
     },
     {
       "title": "May Day rallies sweep US, demanding reforms for working-class rights",
@@ -2286,7 +2266,7 @@
       "title": "M 5.2 - 19 km SE of Silver Springs, Nevada",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-05-01 08:17:19 UTC 2026-05-01 08:17:19 UTC at epicenter Location 39.307°N 119.047°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980",
-      "published": "2026-05-01T22:20:35.302Z",
+      "published": "2026-05-01T22:44:14.000Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2325,6 +2305,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "US to withdraw thousands of troops from Germany",
+      "description": "The decision to cut US troops comes amid rising tensions after German Chancellor Friedrich Merz said the US was being \"humiliated\" by Iran's leadership.",
+      "url": "https://www.dw.com/en/us-to-withdraw-thousands-of-troops-from-germany/a-77016071?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 1 May 2026 22:00:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 US to withdraw thousands of troops from Germany"
     },
     {
       "title": "Can Iran withstand the US naval blockade?",
@@ -2432,6 +2426,17 @@
       "is_ticker": false
     },
     {
+      "title": "Tessalit army base taken by rebels",
+      "description": "In tonight's programme, the army and its Russian mercenary allies surrender the strategic Tessalit military base near the Algerian border. Also in DRC, Joseph Kabila hits back at US accusations he’s backing rebel fighters. And Gabon is the guest of honour at The Anoumabo Urban Music Festival in Abidjan.",
+      "url": "https://www.france24.com/en/tessalit-army-base-taken-by-rebels",
+      "published": "Fri, 01 May 2026 21:18:31 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump says he will raise tariffs on EU autos to 25% for 'not complying' with trade deal",
       "description": "US ​President Donald Trump on Friday said he will increase tariffs ​on ‌vehicles from the European Union to ‌25% next week, accusing the bloc of ⁠not complying with its 2025 trade deal.",
       "url": "https://www.france24.com/en/americas/20260501-trump-says-he-will-raise-tariffs-on-eu-autos-to-25",
@@ -2447,17 +2452,6 @@
       "description": "This week on Paris des Arts, Valérie Fayolle meets the man electrifying the stage at Paris's Théâtre Édouard VII. With his raw energy, comedian Redouane Bougheraba opens up about his latest one-man show, \"Mon Premier Spectacle\".",
       "url": "https://www.france24.com/en/tv-shows/paris-des-arts/20260501-a-cultural-stroll-through-paris-with-actor-redouane-bougheraba-and-singer-camille",
       "published": "Fri, 01 May 2026 15:40:06 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "'We should be able to open up negotiations' with Ukraine, Sweden's EU minister says",
-      "description": "During her recent visit to France, we caught up with Sweden's minister for EU affairs, Jessica Rosencrantz. We discuss the energy crunch and what it means for Europe's competitiveness; Sweden's and the EU's relationship with Ukraine; and Sweden's dynamic tech and innovation scene.",
-      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260501-we-should-be-able-to-open-up-negotiations-with-ukraine-sweden-s-eu-minister-says",
-      "published": "Fri, 01 May 2026 12:45:23 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
