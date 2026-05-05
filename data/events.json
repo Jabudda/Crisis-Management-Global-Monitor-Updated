@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05T04:35:55.482968Z",
+  "last_updated": "2026-05-05T05:57:54.803806Z",
   "event_count": 219,
   "events": [
     {
@@ -51,6 +51,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin and Zelensky both unilaterally declare conflicting 2-day truces"
+    },
+    {
+      "title": "An explosion at a fireworks plant in China kills at least 21 people, state media says",
+      "description": "State media in China says an explosion at a fireworks plant in a central Chinese province has killed at least 21 people and injured 61 others",
+      "url": "https://abcnews.com/International/wireStory/explosion-fireworks-plant-china-kills-21-people-state-132658212",
+      "published": "Tue, 05 May 2026 01:46:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Britain warns another terror attack is 'highly likely' within 6 months after London stabbing",
@@ -209,17 +220,6 @@
       "ticker_label": "🪖 Middle East crisis puts aid, food, fuel further out of reach for millions already struggling – UN agencies"
     },
     {
-      "title": "Victorian budget 2026: state records first post-pandemic surplus but financial health uncertain as debt nears $200bn",
-      "description": "Labor’s 2026-27 budget shows $727m operating surplus for this financial year as debt forecast to soar by decade’s end Winners and losers: Victoria’s 2026 budget cuts transport costs and helps parents - but will future generations suffer? Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Victoria has recorded a surplus for the first time since the pandemic but the state’s financial recovery remains uncertain with debt forecast to near $200bn in coming years amid global uncertainty. The 2026-27 Victorian budget, handed down on Tuesday, shows the state recorded a $727m operating surplus in 2025-26, a slight improvement on December’s pre-budget update of $710m and the $611m forecast last May . Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/04/victoria-state-budget-2026-surplus",
-      "published": "Tue, 05 May 2026 03:56:37 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "China: Explosion at fireworks factory kills at least 21",
       "description": "A blast at a fireworks factory in China has killed 21 people and wounded 61 others. President Xi Jinping has called for a thorough probe.",
       "url": "https://www.dw.com/en/china-explosion-at-fireworks-factory-kills-at-least-21/a-77045835?maca=en-rss-en-all-1573-xml-mrss",
@@ -246,6 +246,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Weather tracker: Tornadoes and giant hail in central US"
+    },
+    {
+      "title": "Russia declares a truce in Ukraine to mark Victory Day",
+      "description": "Russia declared a unilateral ceasefire in Ukraine for Friday and Saturday to mark the defeat of Nazi Germany in World War II, but threatened to strike back at Kyiv if it tries to disrupt festivities.",
+      "url": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
+      "published": "Tue, 05 May 2026 01:47:24 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia declares a truce in Ukraine to mark Victory Day"
     },
     {
       "title": "Iran fires 'warning shots' as US Navy says its ships entered Gulf via Hormuz",
@@ -323,18 +337,15 @@
       "ticker_label": "🪖 US and UAE report Iran attacks as military pushes to reopen Strait of Hormuz"
     },
     {
-      "title": "Gangland wars killing dozens of bystanders, report Swedish police",
-      "description": "Deaths due to gang violence included people hit by stray bullets, cases of mistaken identity, and relatives of gang members.",
-      "url": "https://www.aljazeera.com/news/2026/5/4/gangland-wars-killing-dozens-of-bystanders-report-swedish-police?traffic_source=rss",
-      "published": "Mon, 04 May 2026 19:12:36 +0000",
-      "source": "Al Jazeera",
+      "title": "Leipzig: 2 killed after car drives into crowd",
+      "description": "Around 20 other people were injured, including three seriously. The driver, a 33-year-old German national, was detained at the scene in the center of the eastern German city.",
+      "url": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 5 May 2026 02:08:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Gangland wars killing dozens of bystanders, report Swedish police"
+      "is_ticker": false
     },
     {
       "title": "Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath",
@@ -349,17 +360,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia offers Ukraine May 8-9 ceasefire amid WWII anniversary, but threatens major reprisals in same breath"
-    },
-    {
-      "title": "Leipzig: 2 killed after car drives into crowd",
-      "description": "Around 20 other people were injured, including three seriously. The driver, a 33-year-old German national, was detained at the scene in the center of the eastern German city.",
-      "url": "https://www.dw.com/en/leipzig-2-killed-after-car-drives-into-crowd/a-77043222?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 4 May 2026 17:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "MIDDLE EAST LIVE 1 May: Strain on food, fuel and aid systems continues",
@@ -398,7 +398,7 @@
       "is_ticker": false
     },
     {
-      "title": "Middle East war live: Saudi Arabia calls for de-escalation after US–Iran clashes",
+      "title": "Middle East war live: Saudi Arabia calls for de-escalation after US-Iran clashes",
       "description": "Saudi Arabia called on Tuesday to de-escalate the conflict in the Middle East after Iran and the United States traded fire, rattling a fragile ceasefire. The UN Security Council is set to hold a closed-door meeting on Lebanon later in the day. Follow our liveblog for the latest developments.",
       "url": "https://www.france24.com/en/middle-east/20260505-middle-east-war-live-saudi-arabia-calls-for-de-escalation-after-us%E2%80%93iran-clashes",
       "published": "Tue, 05 May 2026 01:03:49 GMT",
@@ -409,7 +409,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Middle East war live: Saudi Arabia calls for de-escalation after US–Iran clashes"
+      "ticker_label": "🪖 Middle East war live: Saudi Arabia calls for de-escalation after US-Iran clashes"
     },
     {
       "title": "Jailed Hong Kong pro-democracy activist Jimmy Lai wins free speech award in Germany",
@@ -640,20 +640,6 @@
       "is_ticker": false
     },
     {
-      "title": "Missile alert sounded in United Arab Emirates for first time since ceasefire with Iran.",
-      "description": "Authorities in the United Arab Emirates have issued a emergency missile alert urging residents to immediately seek shelter",
-      "url": "https://abcnews.com/International/wireStory/us-denies-iran-struck-military-vessel-new-effort-132627214",
-      "published": "Mon, 04 May 2026 09:14:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Missile alert sounded in United Arab Emirates for first time since ceasefire with Iran."
-    },
-    {
       "title": "WHO leads response to cruise ship hantavirus outbreak",
       "description": "An outbreak of deadly hantavirus aboard a cruise ship in the Atlantic Ocean has triggered an international public health response.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167433",
@@ -776,17 +762,6 @@
       "is_ticker": false
     },
     {
-      "title": "Mali leader Goita takes defence post after minister killed",
-      "description": "Military leader promotes himself after defence minister killed in attacks linked to al-Qaeda and Tuareg separatists.",
-      "url": "https://www.aljazeera.com/news/2026/5/4/mali-leader-goita-takes-defence-post-after-minister-killed?traffic_source=rss",
-      "published": "Mon, 04 May 2026 19:42:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
       "description": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of saving the summer holiday amid a jet fuel shortage. Heidi Alexander, the transport secretary, said at the weekend that part of the answer to the strait of Hormuz crisis was to import more fuel from the US and west Africa. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
@@ -870,10 +845,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: RBA interest rates decision at 2.30pm; Hanson considers lower-house run",
+      "title": "Australia news live: Bullock says more rate hikes possible as Chalmers says Reserve Bank decision will make life tougher for Australians",
       "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Two marine rescue volunteers who went to help others are among those who have died in a tragic yacht accident on Monday night. As we reported below, three people died as volunteers went to the aid of a yacht at the Ballina bar in northern New South Wales. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/05/hantavirus-cruise-budget-jim-chalmers-rba-interest-rates-cost-of-living-mortgage-royal-commission-antisemitism-victoria-state-budget-ntwnfb",
-      "published": "Tue, 05 May 2026 04:25:32 GMT",
+      "published": "Tue, 05 May 2026 05:42:30 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 14,
@@ -881,7 +856,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Australia news live: RBA interest rates decision at 2.30pm; Hanson considers lower-house run"
+      "ticker_label": "💥 Australia news live: Bullock says more rate hikes possible as Chalmers says Reserve Bank decision will make life tougher for Australians"
     },
     {
       "title": "Nigeria evacuating 130 citizens from South Africa after anti-migrant protests turn violent",
@@ -1017,20 +992,6 @@
       "ticker_label": "🪖 Rubio warns China after Panama ship detentions, calls hemisphere sovereignty 'non-negotiable'"
     },
     {
-      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-      "description": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
-      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 05 May 2026 04:34:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US strikes Iranian fast boats as Iran attacks UAE oil facility"
-    },
-    {
       "title": "Three dead after monster truck crashes into crowd",
       "description": "At least 38 people were injured when the vehicle ploughed into the crowd at a show in Colombia.",
       "url": "https://www.bbc.com/news/articles/czx2d54wwr4o?at_medium=RSS&at_campaign=rss",
@@ -1093,14 +1054,17 @@
     },
     {
       "title": "Cruise ship waiting for help after suspected outbreak of hantavirus onboard killed 3",
-      "description": "A Dutch cruise ship with nearly 150 people on board including 17 Americans is waiting for help off Cape Verde after a suspected hantavirus outbreak killed three passengers",
+      "description": "A cruise ship with nearly 150 people is waiting for help off Cape Verde's coast in the Atlantic Ocean after three passengers died and three others were left seriously ill in a suspected hantavirus outbreak",
       "url": "https://abcnews.com/International/wireStory/cruise-ship-waiting-after-suspected-outbreak-rare-hantavirus-132630269",
-      "published": "Mon, 04 May 2026 09:14:39 -0400",
+      "published": "Tue, 05 May 2026 01:30:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Cruise ship waiting for help after suspected outbreak of hantavirus onboard killed 3"
     },
     {
       "title": "Middle East: Fighting and displacement in Lebanon; call for ‘sustained access’ in Gaza",
@@ -1256,17 +1220,6 @@
       "is_ticker": false
     },
     {
-      "title": "Jews tell antisemitism inquiry of surge in hate before Bondi Hanukkah massacre",
-      "description": "An Australian inquiry into antisemitism has heard from Jewish Australians who feel increasingly fearful after a massacre at a Hanukkah celebration",
-      "url": "https://abcnews.com/International/wireStory/australian-jews-antisemitism-inquiry-surge-hate-bondi-hanukkah-132627590",
-      "published": "Mon, 04 May 2026 08:10:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
       "description": "The operator of the MV Hondius ship says a Dutch couple and a German national have died.",
       "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
@@ -1375,10 +1328,10 @@
       "is_ticker": false
     },
     {
-      "title": "A driver plows into a group of people in the German city of Leipzig, injuring several",
-      "description": "Police say a driver has plowed into a group of people in the center of the German city of Leipzig and several were injured",
-      "url": "https://abcnews.com/International/wireStory/driver-plows-group-people-german-city-leipzig-injuring-132639088",
-      "published": "Mon, 04 May 2026 12:21:14 -0400",
+      "title": "Modi’s party set to take control of West Bengal, dealing blow to opposition",
+      "description": "Indian Prime Minister Narendra Modi’s Hindu nationalist party has wrested control of the opposition stronghold of West Bengal in a key state election",
+      "url": "https://abcnews.com/International/wireStory/modis-party-set-control-west-bengal-key-election-132628657",
+      "published": "Tue, 05 May 2026 00:01:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1458,18 +1411,32 @@
       "ticker_label": "🪖 Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender"
     },
     {
-      "title": "Christchurch gunman fails in bid to appeal against guilty pleas in New Zealand court",
-      "description": "Australian white supremacist who murdered 51 Muslims said poor mental health made him admit to crimes The Australian white supremacist who murdered 51 Muslim worshippers at two mosques in Christchurch in 2019 has been prevented from appealing against his guilty pleas, after one of New Zealand’s highest courts said his bid was “utterly devoid of merit”. Brenton Tarrant, who is responsible for the worst mass shooting in New Zealand’s history, asked the court of appeal in February to allow him to appeal against his guilty pleas, claiming harsh prison conditions had affected his mental health and compelled him to admit to the crimes. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/apr/30/christchurch-gunman-shooter-mosque-attacker-appeal-fails-ntwnfb",
-      "published": "Thu, 30 Apr 2026 02:57:59 GMT",
+      "title": "RBA interest rates: Reserve Bank hikes official cash rate to 4.35% in blow to mortgage holders",
+      "description": "Reserve Bank of Australia raises rates for third consecutive meeting, lifting them to early-2025 levels Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Use our loan calculator to see how rate hikes could affect you The Reserve Bank has delivered a third straight interest rate hike to contain growing inflationary pressures linked to higher fuel prices, even as it warned the Iranian war would deliver a major blow to the economy. The widely expected decision to lift the cash rate to 4.35% from 4.1% comes as the central bank revealed a gloomy new set of forecasts that showed intensifying cost-of-living pressures alongside weaker growth. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/05/rba-interest-rate-decision-reserve-bank-australia-rates-inflation",
+      "published": "Tue, 05 May 2026 05:16:23 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Christchurch gunman fails in bid to appeal against guilty pleas in New Zealand court"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 RBA interest rates: Reserve Bank hikes official cash rate to 4.35% in blow to mortgage holders"
+    },
+    {
+      "title": "Australian author Craig Silvey pleads guilty to possessing and distributing child exploitation material",
+      "description": "Prosecutors drop two other charges against Jasper Jones author, 43, including allegations he produced child exploitation material Award‑winning author Craig Silvey has pleaded guilty to possessing and distributing child exploitation material, while a charge that he produced such material has been dropped. Silvey, 43, was first charged in January after detectives from Western Australia police’s child abuse squad raided his Fremantle home, allegedly catching him communicating online with child exploitation offenders and seizing his electronic devices. Continue reading...",
+      "url": "https://www.theguardian.com/books/2026/may/05/craig-silvey-pleads-guilty-child-exploitation-material-ntwnfb",
+      "published": "Tue, 05 May 2026 04:36:42 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Australian author Craig Silvey pleads guilty to possessing and distributing child exploitation material"
     },
     {
       "title": "Gas prices went up more than 30 cents a gallon last week. How high could they go?",
@@ -1623,6 +1590,17 @@
       "ticker_label": "✈️ Deadly China plane crash was caused by fuel cut-off, says report"
     },
     {
+      "title": "Amsterdam bans public adverts for meat and fossil fuels",
+      "description": "Local politicians say the move is in line with the Dutch capital's environmental targets.",
+      "url": "https://www.bbc.com/news/articles/c9wejdekpwyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 03 May 2026 23:07:44 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Iran issues threat after Trump announces Strait of Hormuz 'humanitarian gesture' and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/iran-issues-threat-after-trump-announces-strait-hormuz-humanitarian-gesture-more-top-headlines",
@@ -1660,6 +1638,17 @@
       "description": "Attendance at European Political Community meeting in Yerevan seen as part of effort to build ties after US rupture Canada is to become the first non-European country to attend a meeting of the European Political Community when the prime minister, Mark Carney, joins Monday’s summit of the 48-plus nation grouping in Yerevan, Armenia. Carney has said he is determined to build a new network of trade and diplomatic alliances after the loss of US markets under Donald Trump. His presence will also represent a show of western support for Armenia in its efforts to distance itself from Russia at a time when Washington’s approach to Moscow’s opponents, such as Ukraine, is at best ambiguous. Canadian diplomats have rejected suggestions Ottawa might seek EU membership. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
       "published": "Sun, 03 May 2026 14:57:14 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia eyes security pact with Fiji as pushback from Beijing undermines agreement with Vanuatu",
+      "description": "Foreign minister Penny Wong visits Fiji this week to progress the security and economic agreement Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Australia looks close to signing a landmark security and economic agreement with Fiji, part of the Albanese government’s efforts to contain China’s growing influence across the Pacific. But, pushback from Beijing has undermined a separate deal with Vanuatu’s government, resulting in a scaling back of a deal aimed at locking in Australia as the country’s primary security partner. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/05/australia-eyes-security-pact-with-fiji-as-pushback-from-beijing-undermines-agreement-with-vanuatu",
+      "published": "Tue, 05 May 2026 05:34:18 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
@@ -1723,6 +1712,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Judge apologizes to alleged would-be Trump assassin, drags Jan 6 suspects into rant over jail complaints"
+    },
+    {
+      "title": "A small plane crashes into building in Brazil, killing three",
+      "description": "A small plane carrying five people crashed into a residential building in Belo Horizonte, Brazil, shortly after takeoff.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/a-small-plane-crashes-into-building-in-brazil-killing-three?traffic_source=rss",
+      "published": "Tue, 05 May 2026 04:56:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ A small plane crashes into building in Brazil, killing three"
     },
     {
       "title": "Russia and Ukraine declare competing ceasefires",
@@ -1794,6 +1797,17 @@
       "url": "https://www.france24.com/en/anti-bezos-campaign-urges-met-gala-boycott-in-new-york",
       "published": "Mon, 04 May 2026 19:06:05 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "A driver plows into a group of people in the German city of Leipzig, injuring several",
+      "description": "Authorities say a driver has plowed into people in a busy shopping area in the German city of Leipzig",
+      "url": "https://abcnews.com/International/wireStory/driver-plows-group-people-german-city-leipzig-injuring-132639088",
+      "published": "Mon, 04 May 2026 22:42:19 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1880,6 +1894,20 @@
       "is_ticker": false
     },
     {
+      "title": "Taiwan's president says state visits are 'basic right' after trip he says Beijing tried to block",
+      "description": "Taiwan President Lai Ching-te said state visits are a basic right of governments after returning from a three-day trip to Eswatini that Taiwan's government says China tried to block",
+      "url": "https://abcnews.com/International/wireStory/taiwans-president-state-visits-basic-after-trip-beijing-132662169",
+      "published": "Tue, 05 May 2026 01:44:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Taiwan's president says state visits are 'basic right' after trip he says Beijing tried to block"
+    },
+    {
       "title": "Major city bans ads for meat, fossil fuels in sweeping crackdown critics call overreach",
       "description": "Amsterdam has reportedly banned public ads for meat and fossil fuels, removing burger, airline, and gas-powered car promotions from city billboards.",
       "url": "https://www.foxnews.com/world/major-city-bans-ads-meat-fossil-fuels-sweeping-crackdown-critics-call-overreach",
@@ -1935,6 +1963,17 @@
       "is_ticker": false
     },
     {
+      "title": "Man City have lost control of the Premier League title race: Guardiola",
+      "description": "Man City's 3–3 draw at Everton has left them five points adrift of leaders Arsenal, albeit with a game in hand.",
+      "url": "https://www.aljazeera.com/sports/2026/5/5/man-city-have-lost-control-of-the-premier-league-title-race-guardiola?traffic_source=rss",
+      "published": "Tue, 05 May 2026 05:38:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1946,10 +1985,10 @@
       "is_ticker": false
     },
     {
-      "title": "A sun-baked Senegal village erupts in color for one of Africa’s biggest dance festivals",
-      "description": "Twenty-five dance companies from across Africa have showcased their talent at the African Dance Biennial in Senegal",
-      "url": "https://abcnews.com/International/wireStory/sun-baked-senegal-village-erupts-color-africas-biggest-132629118",
-      "published": "Mon, 04 May 2026 09:14:02 -0400",
+      "title": "A Taiwanese town embraces a slow pace of life through a snail race",
+      "description": "The Taiwanese town of Fenglin has embraced its slow pace of life, using snail races to celebrate a focus on sustainability and community",
+      "url": "https://abcnews.com/International/wireStory/taiwanese-town-embraces-slow-pace-life-snail-race-132661058",
+      "published": "Tue, 05 May 2026 00:34:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1957,10 +1996,10 @@
       "is_ticker": false
     },
     {
-      "title": "Modi’s party set to take control of West Bengal, dealing blow to opposition",
-      "description": "Indian Prime Minister Narendra Modi’s ruling party is poised to take control of West Bengal, an opposition stronghold, in a key local election",
-      "url": "https://abcnews.com/International/wireStory/modis-party-set-control-west-bengal-key-election-132628657",
-      "published": "Mon, 04 May 2026 09:06:18 -0400",
+      "title": "A sun-baked Senegal village erupts in color for one of Africa’s biggest dance festivals",
+      "description": "Twenty-five dance companies from across Africa have showcased their talent at the African Dance Biennial in Senegal",
+      "url": "https://abcnews.com/International/wireStory/sun-baked-senegal-village-erupts-color-africas-biggest-132629118",
+      "published": "Mon, 04 May 2026 09:14:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -2257,17 +2296,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia’s property investor borrowing rises at fastest rate in a decade – despite interest rate rises",
-      "description": "Owner-occupier mortgage growth slowed under growing costs while investor loans grew by $42bn in the year to March, a 9.6% increase Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Property investor borrowing rose at its fastest rate in a decade in March, according to the Reserve Bank, despite higher interest rates and speculation about property tax changes . Owner-occupier loan growth slowed under the weight of growing mortgage costs but investor lending is continuing its record surge. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/05/australias-property-investor-borrowing-rises-at-fastest-rate-in-a-decade-despite-interest-rate-rises",
-      "published": "Mon, 04 May 2026 15:00:28 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "M 5.2 - 19 km SE of Silver Springs, Nevada",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-05-01 08:17:19 UTC 2026-05-01 08:17:19 UTC at epicenter Location 39.307°N 119.047°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00916980",
@@ -2294,17 +2322,6 @@
       "description": "President Trump announced that the U.S will \"guide\" stranded ships through the Strait of Hormuz. And, Democrats face an uphill battle to gain Senate control. Here are the key races to watch.",
       "url": "https://www.npr.org/2026/05/04/g-s1-119970/up-first-newsletter-strait-of-hormuz-iran-lousiana-congressional-maps-senate-democrats-claim-sharks-rudy-giuliani",
       "published": "Mon, 04 May 2026 08:16:10 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Entrepreneurs fight pile-up of garbage in the West Bank",
-      "description": "Israeli restrictions on movement in the West Bank are impeding garbage trucks from reaching landfills, leaving Palestinians living amid mounds of trash. Two Palestinian entrepreneurs are trying to change this.",
-      "url": "https://www.npr.org/2026/05/03/nx-s1-5787449/entrepreneurs-fight-pile-up-of-garbage-in-the-west-bank",
-      "published": "Sun, 03 May 2026 17:24:05 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2447,10 +2464,32 @@
       "is_ticker": false
     },
     {
+      "title": "Armenia hosts a historic EU summit as it charts a course away from Russia",
+      "description": "Armenia hosts the first European Union summit in Yerevan on Tuesday, marking a deepening of ties that's been years in the making",
+      "url": "https://abcnews.com/International/wireStory/armenia-hosts-historic-eu-summit-charts-russia-132662533",
+      "published": "Tue, 05 May 2026 01:44:31 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Alberta separatist group says it has enough signatures to trigger referendum on leaving Canada",
+      "description": "Alberta separatists have submitted nearly 302,000 signatures to trigger a referendum on leaving Canada",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatist-group-signatures-trigger-referendum-leaving-canada-132648409",
+      "published": "Tue, 05 May 2026 01:46:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Argentina's Milei restores press access to presidency after a ban sparks backlash",
       "description": "President Javier Milei of Argentina has restored press access to his government headquarters",
       "url": "https://abcnews.com/International/wireStory/argentinas-milei-restores-press-access-presidency-after-ban-132635825",
-      "published": "Mon, 04 May 2026 10:41:31 -0400",
+      "published": "Mon, 04 May 2026 22:58:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2500,42 +2539,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "European leaders see Trump's troop drawdown from Germany as new proof they must go it alone",
-      "description": "European leaders say President Donald Trump's decision to withdraw U.S. troops from Germany is fresh proof that Europe must take care of its own security",
-      "url": "https://abcnews.com/International/wireStory/european-leaders-trumps-troop-drawdown-germany-new-proof-132627308",
-      "published": "Mon, 04 May 2026 08:23:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Remote working encouraged at leading English cricket club seeking to boost attendances",
-      "description": "Working from home is the new normal for millions of people in the U.K., and Surrey County Cricket Club has spotted an opportunity to galvanize attendances at its south London ground",
-      "url": "https://abcnews.com/International/wireStory/uk-cricket-club-welcomes-remote-workers-jobs-watch-132627116",
-      "published": "Mon, 04 May 2026 07:37:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "More than 300 families evacuate in Philippines due to ashfall from volcano",
-      "description": "Philippine officials say nearly 200,000 people have been affected by massive plumes of ash that billowed from Mayon volcano over the weekend due to the collapse of lava deposits from its slopes",
-      "url": "https://abcnews.com/International/wireStory/300-families-evacuate-philippines-due-ashfall-volcano-132626579",
-      "published": "Mon, 04 May 2026 07:22:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ More than 300 families evacuate in Philippines due to ashfall from volcano"
     },
     {
       "title": "UN winds down Türkiye-Syria aid route, after more than 65,000 lifesaving journeys",
