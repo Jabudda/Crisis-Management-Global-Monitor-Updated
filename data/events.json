@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T19:07:15.161510Z",
+  "last_updated": "2026-05-06T20:06:42.159313Z",
   "event_count": 218,
   "events": [
     {
@@ -376,15 +376,18 @@
       "ticker_label": "🪖 Carney appoints former war crimes prosecutor as Canada governor general"
     },
     {
-      "title": "Gang-controlled streets, shuttered newsrooms: How violence is eroding Haiti’s media",
-      "description": "Journalists working in Haiti are under constant threat of death or injury from rapidly expanding criminal gangs, as they continue to report news and information which they hope will help keep fellow citizens safe.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167414",
-      "published": "Fri, 01 May 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Israeli strike kills colonel in Gaza police force, say Palestinian medics",
+      "description": "At least 17 others wounded in a targeted attack on Naseem al-Kalazani's vehicle in western Khan Younis city.",
+      "url": "https://www.aljazeera.com/news/2026/5/6/israeli-strike-kills-colonel-in-gaza-police-force-say-palestinian-medics?traffic_source=rss",
+      "published": "Wed, 06 May 2026 19:31:42 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 21,
+      "severity_score": 20,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strike kills colonel in Gaza police force, say Palestinian medics"
     },
     {
       "title": "Iran is reviewing a U.S. proposal as Trump threatens renewed bombing if it doesn't agree",
@@ -501,6 +504,20 @@
       "ticker_label": "🪖 LIVE: 2026 World Press Freedom Day"
     },
     {
+      "title": "Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako",
+      "description": "Fighters attack 'Africa's Alcatraz', which detains high-value prisoners, and disrupt crucial supply chains to capital.",
+      "url": "https://www.aljazeera.com/news/2026/5/6/al-qaeda-linked-fighters-storm-mali-prison-block-food-supplies-to-bamako?traffic_source=rss",
+      "published": "Wed, 06 May 2026 19:43:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Al-Qaeda-linked fighters storm Mali prison, block food supplies to Bamako"
+    },
+    {
       "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
       "description": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
       "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
@@ -569,7 +586,7 @@
     },
     {
       "title": "Israel bombs Beirut’s southern suburb as it targets Hezbollah commander",
-      "description": "It was the first attack on Beirut's southern since a truce in the Israel-Hezbollah war went into force on April 17.",
+      "description": "It was the first attack on Beirut's southern suburbs since a truce in the Israel-Hezbollah war went into force on April 17.",
       "url": "https://www.aljazeera.com/news/2026/5/6/israel-bombs-beiruts-southern-suburb-as-it-targets-radwan-force-commander?traffic_source=rss",
       "published": "Wed, 06 May 2026 17:35:39 +0000",
       "source": "Al Jazeera",
@@ -807,20 +824,6 @@
       "ticker_label": "🪖 Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war"
     },
     {
-      "title": "Elderly man rescued from rubble after Israeli strike on Lebanon",
-      "description": "An 80-year-old man has been pulled out from under the rubble of his house in the south.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/elderly-man-rescued-from-rubble-after-israeli-strike-on-lebanon?traffic_source=rss",
-      "published": "Wed, 06 May 2026 13:31:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Elderly man rescued from rubble after Israeli strike on Lebanon"
-    },
-    {
       "title": "Skeletons in their clothing: Recovering bodies from the rubble in Gaza",
       "description": "It was one of the deadliest Israeli strikes of the Gaza war, devastating one extended family. A year and a half later, the survivors find their loved ones' remains.",
       "url": "https://www.npr.org/2026/05/06/nx-s1-5811930/gaza-recovering-bodies",
@@ -960,17 +963,6 @@
       "is_ticker": false
     },
     {
-      "title": "South Carolina inmate who believes he is immortal cannot be executed due to mental illness, judge rules",
-      "description": "A judge ruled that a South Carolina inmate who killed a state trooper is incompetent to be executed due to mental illness delusions, citing mental health experts.",
-      "url": "https://www.foxnews.com/us/south-carolina-inmate-who-believes-he-immortal-cannot-executed-due-mental-illness-judge-rules",
-      "published": "Tue, 05 May 2026 22:41:17 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
       "description": "Reports have raised hopes of an agreement between the US and Iran after days of escalation.",
       "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
@@ -1023,6 +1015,17 @@
       "url": "https://www.bbc.com/news/articles/cgkpmy6l2deo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 06 May 2026 11:34:56 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "What does the BJP’s victory in West Bengal mean for India’s democracy?",
+      "description": "These state elections could reshape national politics for 200 million Muslims.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/6/what-does-the-bjps-victory-in-west-bengal-mean-for-indias-democracy?traffic_source=rss",
+      "published": "Wed, 06 May 2026 19:34:35 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1114,6 +1117,17 @@
       "url": "https://abcnews.com/International/wireStory/protest-groups-block-access-russian-pavilion-venice-biennale-132701728",
       "published": "Wed, 06 May 2026 09:20:40 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "As housing insecurity grows, global leaders push for action",
+      "description": "“Housing is the gateway to all other rights” said actor and humanitarian Richard Gere, who has joined UN efforts to combat homelessness.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167452",
+      "published": "Wed, 06 May 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1229,20 +1243,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Pro-Palestine group protests outside Israeli real estate event in New York"
-    },
-    {
-      "title": "Araghchi in Beijing: How China could shape the direction of the US-Iran war",
-      "description": "Analysts say shared US and Chinese interests in reopening the Strait of Hormuz could create a path towards peace.",
-      "url": "https://www.aljazeera.com/news/2026/5/6/araghchi-in-beijing-how-china-could-shape-the-direction-of-the-us-iran-war?traffic_source=rss",
-      "published": "Wed, 06 May 2026 13:47:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Araghchi in Beijing: How China could shape the direction of the US-Iran war"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1457,6 +1457,20 @@
       "ticker_label": "🪖 Uncertainty continues over safety in the  Strait of Hormuz"
     },
     {
+      "title": "Sheriff hints at 'financial situation' as Special Forces vet eludes manhunt after allegedly shooting wife",
+      "description": "A retired Army Special Forces veteran allegedly tried to kill his wife in Tennessee, prompting a massive manhunt involving multiple agencies.",
+      "url": "https://www.foxnews.com/us/sheriff-hints-financial-situation-special-forces-vet-eludes-manhunt-allegedly-shooting-wife",
+      "published": "Wed, 06 May 2026 15:36:20 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Sheriff hints at 'financial situation' as Special Forces vet eludes manhunt after allegedly shooting wife"
+    },
+    {
       "title": "Fiancé of influencer who died on safari getaway breaks silence after passport seized: 'Total devastation'",
       "description": "NJ influencer Ashly Robinson's fiancé speaks out after her apparent suicide in Zanzibar as authorities continue investigating her suspicious death.",
       "url": "https://www.foxnews.com/us/fianc-influencer-died-safari-getaway-breaks-silence-passport-seized-total-devastation",
@@ -1615,29 +1629,15 @@
       "is_ticker": false
     },
     {
-      "title": "Burkina Faso authorities accused of secretly detaining prominent journalist",
-      "description": "RSF says investigation found Atiana Serge Oulon held at Ouagadougou villa, contradicting authorities' account.",
-      "url": "https://www.aljazeera.com/news/2026/5/6/burkina-faso-authorities-accused-of-secretly-detaining-prominent-journalist?traffic_source=rss",
-      "published": "Wed, 06 May 2026 13:52:18 +0000",
+      "title": "Infected passengers evacuated from hantavirus cruise ship",
+      "description": "Three passengers have been evacuated from a cruise ship off the coast of Cape Verde after an outbreak of hantavirus.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/infected-passengers-evacuated-from-hantavirus-cruise-ship?traffic_source=rss",
+      "published": "Wed, 06 May 2026 19:42:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Russian drone hits kindergarten in Ukraine",
-      "description": "A Russian drone strike has hit a kindergarten in Ukraine’s Sumy region.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/russian-drone-hits-kindergarten-in-ukraine?traffic_source=rss",
-      "published": "Wed, 06 May 2026 13:42:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian drone hits kindergarten in Ukraine"
     },
     {
       "title": "‘Terrifying’: political candidate violently abused and schoolboy thrown into bin, antisemitism royal commission hears",
@@ -2531,6 +2531,17 @@
       "is_ticker": false
     },
     {
+      "title": "California businessman found guilty of selling faulty COVID tests, defrauding customers",
+      "description": "California man linked to controversial underground biolab convicted in $4 million COVID-19 test fraud scheme involving fake FDA-approved test kits.",
+      "url": "https://www.foxnews.com/us/california-businessman-found-guilty-selling-faulty-covid-tests-defrauding-customers",
+      "published": "Wed, 06 May 2026 15:42:27 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "American cruise ship passenger dies during stop at island vacation hot spot",
       "description": "An 83-year-old American tourist died in an apparent drowning while snorkeling at Great Stirrup Cay, Norwegian Cruise Line's private Bahamas island.",
       "url": "https://www.foxnews.com/us/american-cruise-ship-passenger-dies-during-stop-island-vacation-hot-spot",
@@ -2621,17 +2632,6 @@
       "description": "A 26-year-old man was sentenced to 15 years to life for the pickaxe murder of his half-brother, who had cerebral palsy and used a wheelchair.",
       "url": "https://www.foxnews.com/us/california-man-sentenced-prison-using-pickaxe-kill-teen-brother-cerebral-palsy",
       "published": "Wed, 06 May 2026 02:50:41 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Kentucky man accused of kidnapping, killing woman and keeping her body under trailer before disposal",
-      "description": "A Kentucky man is set to stand trial for allegedly abducting and killing a mother of three whose body was found on a roadside seven years ago.",
-      "url": "https://www.foxnews.com/us/kentucky-man-accused-kidnapping-killing-woman-keeping-her-body-under-trailer-before-disposal",
-      "published": "Wed, 06 May 2026 01:11:32 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
