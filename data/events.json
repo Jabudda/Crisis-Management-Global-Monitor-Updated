@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06T04:43:09.490725Z",
+  "last_updated": "2026-05-06T06:05:15.004487Z",
   "event_count": 221,
   "events": [
     {
@@ -15,20 +15,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Explosion at China fireworks factory kills 26 people"
-    },
-    {
-      "title": "Teen gun attack at Brazilian school kills two staff and injures children",
-      "description": "A 13-year-old student was arrested after a school shooting in Brazil’s Acre on Tuesday state left two staff members dead and two others injured, including an 11-year-old girl. The attack at São José Institute has shocked the country, which has seen a rise in violence at schools in recent years.",
-      "url": "https://www.france24.com/en/americas/20260506-teen-gun-attack-at-brazilian-school-kills-two-staff-and-injures-children",
-      "published": "Wed, 06 May 2026 02:08:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 37,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Teen gun attack at Brazilian school kills two staff and injures children"
     },
     {
       "title": "Explosion at a fireworks plant in China kills at least 21 people, injures dozens more: report",
@@ -76,6 +62,20 @@
       "severity_score": 35,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Teen shooter at Brazilian school kills two staff, injures children",
+      "description": "A 13-year-old student was arrested after a school shooting in Brazil’s Acre on Tuesday that left two staff members dead and two others injured, including an 11-year-old girl. The attack at Sao Jose Institute has shocked the country, which has seen a rise in violence at schools in recent years.",
+      "url": "https://www.france24.com/en/americas/20260506-teen-gun-attack-at-brazilian-school-kills-two-staff-and-injures-children",
+      "published": "Wed, 06 May 2026 02:08:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Teen shooter at Brazilian school kills two staff, injures children"
     },
     {
       "title": "UN warns of worsening human rights crisis in Mali after deadly attacks",
@@ -203,20 +203,6 @@
       "is_ticker": false
     },
     {
-      "title": "Weather tracker: Tornadoes and giant hail in central US",
-      "description": "Strongest tornado hits Mineral Wells, Texas, where disaster was declared. Elsewhere, extreme rain inundates China Spring is the season for severe thunderstorms across the central US, and the start of this week was a particularly active period for the region. A favourable weather pattern fuelled intense thunderstorms on Monday through Wednesday, bringing strong winds, very large hail and strong tornadoes. Eight tornadoes were reported on Monday, including an EF2 tornado that ripped through the town of Sycamore, Kansas. On Tuesday, a more widespread event tore across the mid-west, most notably as a severe hailstorm moved through Springfield, Missouri. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/may/01/weather-tracker-tornadoes-and-giant-hail-in-central-us",
-      "published": "Fri, 01 May 2026 08:05:12 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Weather tracker: Tornadoes and giant hail in central US"
-    },
-    {
       "title": "Russia declares a truce in Ukraine to mark Victory Day",
       "description": "Russia declared a unilateral ceasefire in Ukraine for Friday and Saturday to mark the defeat of Nazi Germany in World War II, but threatened to strike back at Kyiv if it tries to disrupt festivities.",
       "url": "https://www.npr.org/2026/05/05/g-s1-120129/russia-declares-a-truce-in-ukraine-to-mark-victory-day",
@@ -331,8 +317,8 @@
       "ticker_label": "🪖 Ukraine: Dozens killed hours before Kyiv-proposed ceasefire"
     },
     {
-      "title": "Rubio says US military has completed offensive operations in Iran",
-      "description": "The United States said on Tuesday that it had ended offensive operations against Iran, but warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
+      "title": "Rubio says US military completed offensive operations in Iran",
+      "description": "The United States said on Tuesday that it had ended offensive operations against Iran. But Washington warned it could unleash a “devastating” response to new threats in the Strait of Hormuz, as clashes and rival warnings from Tehran raised fears that a fragile ceasefire could collapse.",
       "url": "https://www.france24.com/en/middle-east/20260505-rubio-says-us-military-has-completed-offensive-operations-in-iran",
       "published": "Tue, 05 May 2026 22:39:05 GMT",
       "source": "France24",
@@ -342,7 +328,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Rubio says US military has completed offensive operations in Iran"
+      "ticker_label": "🪖 Rubio says US military completed offensive operations in Iran"
     },
     {
       "title": "Zelenskyy blasts ‘absolute cynicism’ as deadly Russian barrage hits Ukraine before planned ceasefire",
@@ -527,7 +513,7 @@
     },
     {
       "title": "Hantavirus-hit cruise ship to arrive in Canary Islands in 'three to four days'",
-      "description": "Two critically ill crew from the MV Hondius will be evacuated via Cape Verde to the Netherlands after a deadly hantavirus outbreak that has killed three. The quarantined vessel, anchored off Praia, is expected to resume its journey to the Canary Islands once evacuations are complete.",
+      "description": "Two critically ill crew members from the MV Hondius will be evacuated via Cape Verde to the Netherlands after a deadly hantavirus outbreak that has killed three. The quarantined vessel, anchored off Praia, is expected to resume its journey to the Canary Islands once evacuations are complete.",
       "url": "https://www.france24.com/en/europe/20260505-hantavirus-hit-cruise-ship-to-arrive-in-canary-islands",
       "published": "Tue, 05 May 2026 21:54:26 GMT",
       "source": "France24",
@@ -576,6 +562,17 @@
       "ticker_label": "🚨 Texas gunman kills 2, wounds 3 during targeted business meetup: police"
     },
     {
+      "title": "US president Trump restarts Pope feud ahead of Rubio visit to Vatican",
+      "description": "Donald Trump has reignited his public attacks on Pope Leo, claiming he supports Iran obtaining nuclear weapons.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/6/us-president-trump-restarts-pope-feud-ahead-of-rubio-visit-to-vatican?traffic_source=rss",
+      "published": "Wed, 06 May 2026 05:23:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Japanese PM Takaichi in push to revise pacifist constitution as regional tensions rise",
       "description": "Due to its wartime past, Japan adopted a pacifist Constitution that limits its military to self-defence. Now Prime Minister Sanae Takaichi is calling for 'advanced discussions' on revising the Constitution, setting up a panel tasked with reviewing the country's security and defence policies as regional tensions escalate. FRANCE 24's Sharon Gaffney speaks with Giulio Pugliese, Lecturer in Strategic Communications at King's College London and Director of the EU-Asia Project at the European University Institute.",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20260505-japanese-pm-takaichi-in-push-to-revise-pacifist-constitution-as-regional-tensions-rise",
@@ -602,20 +599,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump hard-pressed to get better Iran nuclear deal than Obama's"
-    },
-    {
-      "title": "Three killed after small plane crashes in southeastern Brazil",
-      "description": "A small airplane with ​five occupants crashed into a building on Monday in the city of Belo Horizonte in southeastern Brazil, ​killing ‌three people, local officials and ⁠firefighters said.",
-      "url": "https://www.france24.com/en/video/20260505-three-killed-after-small-plane-crashes-in-southeastern-brazil",
-      "published": "Tue, 05 May 2026 15:28:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Three killed after small plane crashes in southeastern Brazil"
     },
     {
       "title": "Counterterror police probe attack at former London synagogue amid antisemitic attacks",
@@ -680,6 +663,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 'Killing off the country': Iran executes dozens, arrests 4,000-plus in war crackdown"
+    },
+    {
+      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
+      "description": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months.",
+      "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 06 May 2026 04:53:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city"
     },
     {
       "title": "'Nothing will bring back my son': How 10 minutes of bombing by Israel shattered lives in Lebanon",
@@ -754,10 +751,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: Craig Silvey books permanently removed from WA public school curriculum; Canva fined by corporate regulator",
+      "title": "Australia news live: Craig Silvey books permanently removed from WA public school curriculum; body found after car sinks in weir near Sydney",
       "description": "Education minister confirmed a temporary ban would be made permanent after author pleaded guilty to child exploitation offences. Follow updates live Get our breaking news email , free app or daily news podcast Federal shadow treasurer says any handouts in budget could add to inflation The federal shadow treasurer, Tim Wilson , has warned that potential cash handouts in next week’s federal budget could add to inflation. Unfortunately when the government hasn’t take inflation seriously, we’ve ended up in this situation and the risk is that if you keep handing out money to households, what you’ll actually do is fuel inflation. This is a government that cuts taxes. We’ve cut taxes already and we will cut taxes again, we made that clear and we made that public. The issue is, the budget won’t be pumping a lot of extra stimulus in the economy, in fact overall we’ll be winding back spending in the budget. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/06/national-cabinet-fuel-crisis-anthony-albanese-labor-angus-taylor-coalition-matt-canavan-federal-budget-interest-rates-reserve-bank-inflation-fears-ntwnfb",
-      "published": "Wed, 06 May 2026 04:25:57 GMT",
+      "published": "Wed, 06 May 2026 05:42:32 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -765,7 +762,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Australia news live: Craig Silvey books permanently removed from WA public school curriculum; Canva fined by corporate regulator"
+      "ticker_label": "🪖 Australia news live: Craig Silvey books permanently removed from WA public school curriculum; body found after car sinks in weir near Sydney"
     },
     {
       "title": "Boko Haram militants kill at least 23 troops in Chad attack",
@@ -904,7 +901,7 @@
       "is_ticker": false
     },
     {
-      "title": "G7 trade ministers meet in Paris as global tensions and tariff threats mount",
+      "title": "G7 trade ministers meet in Paris as global tensions, tariff threats mount",
       "description": "G7 trade ministers have gathered in Paris as global economic tensions intensify, with talks set to focus on critical minerals, industrial policy and trade resilience. The meeting comes against a backdrop of Middle East turmoil and renewed US tariff threats, adding pressure to already strained efforts to coordinate a unified response among major economies.",
       "url": "https://www.france24.com/en/europe/20260505-g7-trade-ministers-meet-in-paris-as-global-tensions-and-tariff-threats-mount",
       "published": "Tue, 05 May 2026 23:50:51 GMT",
@@ -915,7 +912,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 G7 trade ministers meet in Paris as global tensions and tariff threats mount"
+      "ticker_label": "💥 G7 trade ministers meet in Paris as global tensions, tariff threats mount"
     },
     {
       "title": "Race to find port for cruise ship as WHO traces how hantavirus spread",
@@ -1067,7 +1064,7 @@
     },
     {
       "title": "Middle East war live: Trump pauses US Strait of Hormuz escort operation",
-      "description": "US President Donald Trump has said he is pausing the American operation to escort vessels through the Strait of Hormuz as negotiations with Iran continue. The move comes as US forces maintain a blockade of Iranian ports and tensions persist in the Gulf despite a fragile ceasefire. Follow our liveblog for the latest updates.",
+      "description": "President Donald Trump has said he is pausing the American operation to escort vessels through the Strait of Hormuz as negotiations with Iran continue. The move comes as US forces maintain a blockade of Iranian ports and tensions persist in the Gulf despite a fragile ceasefire. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260506-middle-east-war-live-trump-pauses-us-strait-of-hormuz-escort-operation",
       "published": "Wed, 06 May 2026 00:06:37 GMT",
       "source": "France24",
@@ -1141,6 +1138,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine reports Russian strike after Kyiv-declared ceasefire begins",
+      "description": "Ukraine said Russia struck an industrial facility in the southern Zaporizhzhia region on Wednesday morning, hours after a unilateral ceasefire declared by Kyiv had come into effect. Both Kyiv and Moscow announced competing ceasefires on different dates this week as Russia prepares to celebrate the anniversary of the Soviet Union's victory over Nazi Germany.",
+      "url": "https://www.france24.com/en/europe/20260506-ukraine-reports-russian-strike-after-kyiv-declared-ceasefire-begins",
+      "published": "Wed, 06 May 2026 05:30:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine reports Russian strike after Kyiv-declared ceasefire begins"
+    },
+    {
       "title": "Putin ‘doesn’t care' about Russians or Ukrainians: ‘Pageantry and symbolism’ over civilian lives",
       "description": "Rochelle Ferguson Bouyahi is pleased to welcome the Director of the Eurasia Democracy Initiative, Peter Zalmayev, to offer context & perspective on the battlefield dynamics and political theatre of Russia's war on Ukraine. While Russia invokes symbolic gestures tied to historical commemorations, beneath the surface of geopolitical spectacle, Zalmaev points to a quieter revolution. “The answer is the drones,” highlighting it's effectiveness in an asymmetrical war. Yet, the most revealing is Zalmayev's portrayal of Putin’s internal state: “a renewed sense of fear for his life.”",
       "url": "https://www.france24.com/en/pageantry-and-symbolism-over-civilian-lives-putin-doesn-t-care-about-russians-or-ukrainians",
@@ -1153,17 +1164,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin ‘doesn’t care' about Russians or Ukrainians: ‘Pageantry and symbolism’ over civilian lives"
-    },
-    {
-      "title": "Sudanese military downs drone launched by paramilitary forces at the main airport, officials say",
-      "description": "Sudanese officials say that a drone launched by the paramilitary Rapid Support Forces targeted the airport in Khartoum, the country's capital",
-      "url": "https://abcnews.com/International/wireStory/sudanese-military-downs-drone-launched-paramilitary-forces-main-132646560",
-      "published": "Mon, 04 May 2026 15:51:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "South Carolina inmate who believes he is immortal cannot be executed due to mental illness, judge rules",
@@ -1298,20 +1298,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "description": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 06 May 2026 02:18:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump says US to pause operation to guide vessels through Strait of Hormuz"
-    },
-    {
       "title": "'I had to stick to the plan': Officer describes retrieving crocodile with human remains inside",
       "description": "DNA tests are underway to confirm whether remains found inside the crocodile match that of a missing man.",
       "url": "https://www.bbc.com/news/articles/cp8pqz63808o?at_medium=RSS&at_campaign=rss",
@@ -1365,20 +1351,6 @@
       "ticker_label": "🪖 Miscalculation over Strait of Hormuz could ‘bring an all-out war’"
     },
     {
-      "title": "Video: Trump says Iran should ‘wave the white flag’",
-      "description": "US President Donald Trump said Iran should ‘wave the white flag of surrender’ in the war.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/5/video-trump-says-iran-should-wave-the-white-flag?traffic_source=rss",
-      "published": "Tue, 05 May 2026 18:48:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Video: Trump says Iran should ‘wave the white flag’"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1402,6 +1374,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Canadian fiddler sues Google after AI Overview wrongly claimed he was a sex offender"
+    },
+    {
+      "title": "Horrified Wagga residents call for proper sanitation at homeless camp where baby was found dead",
+      "description": "Tent where twins were born up to a 15-minute walk away from nearest public toilets or running water Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The tent where a newborn baby was found dead at Wagga beach at the weekend was part of a homeless encampment up to a 15-minute walk away from the nearest public toilets or running water, with residents in a nearby apartment block saying conditions were “worse than a Syrian war camp”. The tragedy has prompted fury in the community, with residents of Wagga Wagga calling on authorities to take urgent action to make the encampments safe and sanitary. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/06/wagga-homeless-camp-baby-found-dead-sanitation-ntwnfb",
+      "published": "Wed, 06 May 2026 05:11:00 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Horrified Wagga residents call for proper sanitation at homeless camp where baby was found dead"
     },
     {
       "title": "The Iran war sent jet fuel prices sky-high. Here's what air travelers should know",
@@ -2062,6 +2048,17 @@
       "is_ticker": false
     },
     {
+      "title": "Local elections could hasten the exit of Britain's embattled prime minister",
+      "description": "British voters are casting ballots in elections that could hasten the end of Prime Minister Keir Starmer’s troubled term",
+      "url": "https://abcnews.com/International/wireStory/local-elections-hasten-exit-britains-embattled-prime-minister-132698003",
+      "published": "Wed, 06 May 2026 01:29:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "German car-ramming suspect's motive remains unclear. Officials say he had psychiatric treatment",
       "description": "German investigators say the suspect in a car-ramming in the city of Leipzig that left two people dead doesn’t appear to have had any political or religious motive but had spent time recently at a psychiatric hospital",
       "url": "https://abcnews.com/International/wireStory/german-car-ramming-suspects-motive-remains-unclear-officials-132671752",
@@ -2144,6 +2141,17 @@
       "url": "https://www.bbc.com/news/articles/cg7pz2xj4l3o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 05 May 2026 05:28:28 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran’s Araghchi holds talks with China’s Wang Yi in Beijing",
+      "description": "Iran's foreign minister meets his Chinese counterpart one week before President Donald Trump's visit to Beijing.",
+      "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing?traffic_source=rss",
+      "published": "Wed, 06 May 2026 04:55:02 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2250,17 +2258,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US plans to hike tariffs on EU cars to 25% will hit luxury market the most"
-    },
-    {
-      "title": "US push for Lebanon and Israel leaders to meet could inflame tensions",
-      "description": "Lebanon's President Joseph Aoun is under pressure to meet with Israel's Benjamin Netanyahu on a US visit this month.",
-      "url": "https://www.aljazeera.com/features/2026/5/5/us-push-for-lebanon-and-israel-leaders-to-meet-could-inflame-tensions?traffic_source=rss",
-      "published": "Tue, 05 May 2026 18:38:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2384,10 +2381,10 @@
       "is_ticker": false
     },
     {
-      "title": "Rare comet to flash through New Zealand skies – before it disappears for 170,000 years",
-      "description": "Over the next two weeks stargazers have a chance to spot the blue-green orb and smudgy tail of comet known as C/2025 R3 PanSTARRS A comet formed on the edges of the solar system will grace southern skies over the next fortnight, giving viewers a rare chance to glimpse it before it disappears from view for another 170,000 years. The comet – known as C/2025 R3 PanSTARRS – had been travelling through the northern hemisphere but has “swung around the sun” and is now visible in the south, said Josh Aoraki, an astronomer at Te Whatu Stardome in Auckland, New Zealand. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/may/04/rare-comet-new-zealand",
-      "published": "Mon, 04 May 2026 03:25:07 GMT",
+      "title": "Singapore introduces caning for boys who bully others at school",
+      "description": "Under new guidelines caning will only be used in schools for male students aged nine and above Male school students who bully others, including through cyberbullying, will face caning as a “last resort” under new guidelines introduced in Singapore. Male students can face up to three strokes of the cane under the new rules, which were discussed in parliament on Tuesday. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+      "published": "Wed, 06 May 2026 05:26:02 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2395,10 +2392,10 @@
       "is_ticker": false
     },
     {
-      "title": "‘It’s quite distressing’: rate rise brings new pain for would-be homebuyers",
-      "description": "Property prices are still rising at the entry level and as borrowing costs increase, the home ownership dream is even further out of reach Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The third Reserve Bank rate hike in a row has delivered a blow not only to mortgaged homeowners, but also to those hoping to break into the property market like Dani Hunterford and her husband. They have been saving for a deposit but have been left frustrated as another rate hike appears to put their homeowning dream out of reach again. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/05/its-quite-distressing-rate-rise-brings-new-pain-for-would-be-homebuyers",
-      "published": "Tue, 05 May 2026 15:00:42 GMT",
+      "title": "Rare comet to flash through New Zealand skies – before it disappears for 170,000 years",
+      "description": "Over the next two weeks stargazers have a chance to spot the blue-green orb and smudgy tail of comet known as C/2025 R3 PanSTARRS A comet formed on the edges of the solar system will grace southern skies over the next fortnight, giving viewers a rare chance to glimpse it before it disappears from view for another 170,000 years. The comet – known as C/2025 R3 PanSTARRS – had been travelling through the northern hemisphere but has “swung around the sun” and is now visible in the south, said Josh Aoraki, an astronomer at Te Whatu Stardome in Auckland, New Zealand. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/04/rare-comet-new-zealand",
+      "published": "Mon, 04 May 2026 03:25:07 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2648,6 +2645,17 @@
       "is_ticker": false
     },
     {
+      "title": "Kentucky man accused of kidnapping, killing woman and keeping her body under trailer before disposal",
+      "description": "A Kentucky man is set to stand trial for allegedly abducting and killing a mother of three whose body was found on a roadside seven years ago.",
+      "url": "https://www.foxnews.com/us/kentucky-man-accused-kidnapping-killing-woman-keeping-her-body-under-trailer-before-disposal",
+      "published": "Wed, 06 May 2026 01:11:32 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Ohio brothers who posed as Middle Eastern royalty receive lengthy sentence for $21M fraud scheme",
       "description": "Two Ohio brothers who faked being Middle Eastern royalty are sentenced in a $21 million fraud scheme that prosecutors say involved bribery.",
       "url": "https://www.foxnews.com/us/ohio-brothers-posed-middle-eastern-royalty-receive-lengthy-sentence-21m-fraud-scheme",
@@ -2663,17 +2671,6 @@
       "description": "The man accused of attempting to assassinate President Donald Trump during the White House Correspondents' Association Dinner has been indicted by a grand jury.",
       "url": "https://www.foxnews.com/us/cole-allen-indicted-grand-jury-four-charges-related-alleged-trump-assassination-attempt-sources",
       "published": "Tue, 05 May 2026 15:49:48 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Slain college student's parents rip into daughter's killer after murder guilty plea",
-      "description": "Parents of slain Belmont University freshman Jillian Ludwig tore into her killer after he pleaded guilty to second-degree murder in Nashville court.",
-      "url": "https://www.foxnews.com/us/slain-college-students-parents-rip-daughters-killer-murder-guilty-plea",
-      "published": "Tue, 05 May 2026 12:11:42 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
