@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T14:54:24.752876Z",
+  "last_updated": "2026-05-09T15:25:58.785321Z",
   "event_count": 220,
   "events": [
     {
@@ -21,6 +21,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 39,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Nuclear energy in the Middle East: A realistic choice or a risk?",
+      "description": "As global electricity demand grows, so does the popularity of nuclear energy. In the Middle East, several countries are evaluating or advancing nuclear power projects, balancing weighty issues such as regional security, climatic conditions and international cooperation.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167448",
+      "published": "Sat, 09 May 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 38,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -243,6 +254,17 @@
       "ticker_label": "🪖 Russia's Victory Day celebrations are dampened by ongoing war with Ukraine"
     },
     {
+      "title": "Contact tracing begins after Hantavirus-hit cruise passengers disembarks in St. Helena",
+      "description": "Health authorities have launched international contact tracing efforts following three deaths aboard a cruise ship linked to suspected hantavirus exposure. Officials are monitoring passengers who disembarked in St. Helena, while suspected cases in Alicante and Barcelona remain under observation pending test results. FRANCE 24's Sarah Morris reports from Madrid.",
+      "url": "https://www.france24.com/en/video/20260509-contact-tracing-for-hantavirus",
+      "published": "Sat, 09 May 2026 14:45:45 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Russia marks Victory Day with scaled-back parade",
       "description": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II. But this year, for the first time in nearly two decades, the parade took place without tanks, missiles and other heavy weapons, aside from a traditional flyover of combat jets over fears of an Ukrainian attack.",
       "url": "https://www.france24.com/en/russia-marks-victory-day-with-scaled-back-parade",
@@ -307,6 +329,20 @@
       "ticker_label": "🚨 Canadian high school where deadly mass shooting occurred to be torn down"
     },
     {
+      "title": "Moscow marks Victory Day amid tight security",
+      "description": "Russian President Vladimir Putin on Saturday voiced confidence of victory in Ukraine as he oversaw a military parade on Red Square commemorating the defeat of Nazi Germany in World War II – a show that didn't include heavy weapons for the first time in nearly two decades. Security was tight in Moscow as Putin and several foreign leaders attended the parade, which was scaled down even as a US-brokered three-day ceasefire eased concerns about possible Ukrainian attempts to disrupt the festivities.",
+      "url": "https://www.france24.com/en/moscow-marks-victory-day-amid-tight-security",
+      "published": "Sat, 09 May 2026 14:20:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Moscow marks Victory Day amid tight security"
+    },
+    {
       "title": "Security Council holds closed-door talks following attacks on United Arab Emirates",
       "description": "As the crisis in the Strait of Hormuz continues, the United Nations reiterates its commitment to support efforts towards peace, UN Spokesperson Stéphane Dujarric said on Wednesday during his media briefing from New York.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167453",
@@ -347,20 +383,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 IDF claims to have taken out Hamas commander who participated in Oct 7"
-    },
-    {
-      "title": "Israeli settlers set fire to homes and cars in violent West Bank raids",
-      "description": "Dozens of Israeli settlers stormed various areas of the West Bank, set cars on fire, and attacked Palestinians.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/israeli-settlers-set-fire-to-homes-and-cars-in-violent-west-bank-raids?traffic_source=rss",
-      "published": "Sat, 09 May 2026 07:18:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Israeli settlers set fire to homes and cars in violent West Bank raids"
     },
     {
       "title": "'Atmosphere closer to wartime': Moscow’s muted Victory Day reflects growing security fears",
@@ -631,6 +653,20 @@
       "ticker_label": "🪖 Has Trump's Iran ceasefire just collapsed?"
     },
     {
+      "title": "One dead in US after being struck by taking off Frontier Airlines plane",
+      "description": "Authorities say individual jumped fence at Denver International Airport in Colorado before being struck.",
+      "url": "https://www.aljazeera.com/news/2026/5/9/one-dead-in-us-after-being-struck-by-taking-off-frontier-airlines-plane?traffic_source=rss",
+      "published": "Sat, 09 May 2026 14:37:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ One dead in US after being struck by taking off Frontier Airlines plane"
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -757,20 +793,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US awaits Iran's response to latest proposal amid technical ceasefire"
-    },
-    {
-      "title": "One Page Peace Plan for Iran? Starmer’s Sinking Ship, Musk V Altman",
-      "description": "In a week thats’s seen renewed hope for ending the war in Iran, ten weeks since it started, with four weeks of stalemate, a ceasefire and skirmishes over the blockade of the Strait of Hormuz. Intermittent peace talks have boiled down to a fourteen-point, one-page “memorandum of understanding”, crafted by Steve Witkoff and Jared Kushner, which has been sent to Pakistani mediators and is being reviewed by Iran.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260508-one-page-peace-plan-for-iran-starmer-s-sinking-ship-musk-v-altman",
-      "published": "Fri, 08 May 2026 18:22:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 One Page Peace Plan for Iran? Starmer’s Sinking Ship, Musk V Altman"
     },
     {
       "title": "Two killed in latest US strike on alleged drug trafficking boat",
@@ -1033,17 +1055,6 @@
       "url": "https://abcnews.com/International/wireStory/pope-celebrates-anniversary-election-visit-pompeii-pray-shrine-132773585",
       "published": "Fri, 08 May 2026 16:55:32 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "As housing insecurity grows, global leaders push for action",
-      "description": "“Housing is the gateway to all other rights” said actor and humanitarian Richard Gere, who has joined UN efforts to combat homelessness.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167452",
-      "published": "Wed, 06 May 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1360,17 +1371,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
-      "description": "The country's interior ministry said legal proceedings are under way against the 41 people arrested.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
-      "published": "Sat, 09 May 2026 13:53:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1773,17 +1773,6 @@
       "is_ticker": false
     },
     {
-      "title": "Can artificial intelligence help Nollywood tell African stories differently without losing its soul?",
-      "description": "Artificial intelligence is no longer just a Silicon Valley debate: it’s becoming part of Africa’s creative revolution. In Nigeria, filmmakers and digital artists are experimenting with AI tools to create films, archive disappearing oral histories and imagine new African futures. Obinna Okere-keocha, founder of Naija Artificial Intelligence Film Festival, and filmmaker Malik Afegbua, use AI to preserve fading oral traditions by creating digital archives.",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260508-can-artificial-intelligence-help-nollywood-tell-african-stories-differently-without-losing-its-soul",
-      "published": "Fri, 08 May 2026 21:00:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "LIVE: Manchester City vs Brentford – Premier League",
       "description": "Follow our live build-up, with full team news coverage, ahead of our text commentary stream as City chase Arsenal.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/5/9/live-manchester-city-vs-brentford-premier-league?traffic_source=rss",
@@ -1810,17 +1799,6 @@
       "description": "Britain’s Prime Minister Keir Starmer is under growing pressure after Labour suffered major setbacks in local elections across England, while also struggling in Wales and Scotland as Reform UK continued to gain support. The results have raised fresh questions about Starmer’s leadership less than a year after leading Labour back into government. France 24’s Gavin Lee speaks to James Lyons, who served under Starmer in Downing Street and previously worked as political editor at the Daily Mirror and The Sunday Times.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260509-uk-local-elections-starmer-must-address-voters-frustration-over-change",
       "published": "Sat, 09 May 2026 11:19:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "British PM Starmer says he won't quit after local elections drubbing",
-      "description": "British Prime Minister Keir Starmer said Friday he will not resign after local elections that saw his governing Labour Party suffer big losses and the hard-right Reform UK make important gains. The local elections were widely seen as an unofficial referendum on Starmer.",
-      "url": "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing",
-      "published": "Fri, 08 May 2026 19:11:17 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 2,
@@ -1908,10 +1886,10 @@
       "ticker_label": "💥 Hovering objects and flashing lights: what we learned from UFO documents released by the Pentagon"
     },
     {
-      "title": "Hungary's new PM sworn in after landslide victory over Orbán",
+      "title": "'I will serve not rule over Hungary,' says new PM",
       "description": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán.",
       "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 09 May 2026 13:58:01 GMT",
+      "published": "Sat, 09 May 2026 15:12:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1919,7 +1897,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Hungary's new PM sworn in after landslide victory over Orbán"
+      "ticker_label": "🌪️ 'I will serve not rule over Hungary,' says new PM"
     },
     {
       "title": "Australia's right-wing One Nation party scores historic parliamentary win",
@@ -1977,6 +1955,17 @@
       "is_ticker": false
     },
     {
+      "title": "Palestinians run West Bank freedom marathon along separation wall",
+      "description": "Palestinians ran alongside the separation wall today, a structure that cuts them off from their land and their families.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/palestinians-run-west-bank-freedom-marathon-along-separation-wall?traffic_source=rss",
+      "published": "Sat, 09 May 2026 14:53:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Israel to release two detained Gaza flotilla activists",
       "description": "Lawyer representing Saif Abu Keshek and Thiago Avila tells Al Jazeera they will be 'released to their home countries'.",
       "url": "https://www.aljazeera.com/news/2026/5/9/israel-to-release-two-detained-gaza-flotilla-activists?traffic_source=rss",
@@ -1988,8 +1977,19 @@
       "is_ticker": false
     },
     {
+      "title": "Bahrain rounds up dozens over alleged links to Iran’s IRGC",
+      "description": "Interior Ministry says legal proceedings are under way against the 41 people arrested.",
+      "url": "https://www.aljazeera.com/news/2026/5/9/bahrain-rounds-up-dozens-over-alleged-links-to-irans-irgc?traffic_source=rss",
+      "published": "Sat, 09 May 2026 13:53:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Peter Magyar sworn in as Hungary’s PM, ending Orban’s 16 years in power",
-      "description": "Magyar's Tisza party has secured a huge parliamentary majority.",
+      "description": "Magyar's Tisza party secured a huge parliamentary majority in last month's election.",
       "url": "https://www.aljazeera.com/news/2026/5/9/peter-magyar-sworn-in-as-hungarys-pm-ending-orbans-16-years-in-power?traffic_source=rss",
       "published": "Sat, 09 May 2026 13:38:10 +0000",
       "source": "Al Jazeera",
@@ -2069,17 +2069,6 @@
       "description": "Pallegama Hemarathana is accused of abusing an 11-year-old girl in a temple.",
       "url": "https://www.aljazeera.com/news/2026/5/9/senior-sri-lankan-monk-arrested-for-alleged-child-sex-crimes?traffic_source=rss",
       "published": "Sat, 09 May 2026 09:13:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Spain’s Canary Islands brace for incoming hantavirus-stricken cruise ship",
-      "description": "The 140 passengers and crew on the MV Hondius will be 'completely isolated' and evacuated, say Spanish authorities.",
-      "url": "https://www.aljazeera.com/news/2026/5/9/spains-canary-islands-brace-for-incoming-hantavirus-stricken-cruise-ship?traffic_source=rss",
-      "published": "Sat, 09 May 2026 07:42:06 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2325,6 +2314,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US: Pentagon releases trove of classified UFO files"
+    },
+    {
+      "title": "2026-05-09 12:16 A WEEK IN FRANCE 0905",
+      "description": "2026-05-09 12:16 A WEEK IN FRANCE 0905",
+      "url": "https://www.france24.com/en/2026-05-09-12-16-a-week-in-france-0905",
+      "published": "Sat, 09 May 2026 14:37:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Pentagon releases new files on UFOs",
