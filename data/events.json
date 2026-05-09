@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09T12:29:36.939057Z",
+  "last_updated": "2026-05-09T12:56:32.894608Z",
   "event_count": 219,
   "events": [
     {
@@ -23,20 +23,6 @@
       "severity_score": 39,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Iran war live: Israel attacks Lebanon as US expects Iran’s response to deal",
-      "description": "Israel killed 31 people in southern Lebanon on Friday, including a rescue worker, Lebanon's National News Agency said.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
-      "published": "Sat, 09 May 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Israel attacks Lebanon as US expects Iran’s response to deal"
     },
     {
       "title": "Three suspected narco-terrorists killed in US military strike on drug-trafficking vessel in Eastern Pacific",
@@ -377,6 +363,20 @@
       "ticker_label": "🌪️ Israeli settlers set fire to homes and cars in violent West Bank raids"
     },
     {
+      "title": "Iran war live: Israel attacks Lebanon as US expects Iran’s response to deal",
+      "description": "No letup in Israel's deadly attacks on Lebanon despite a US-brokered ceasefire.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/9/iran-war-live-tehrans-reply-to-us-deal-expected-amid-clashes-in-hormuz?traffic_source=rss",
+      "published": "Sat, 09 May 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war live: Israel attacks Lebanon as US expects Iran’s response to deal"
+    },
+    {
       "title": "Three hikers 'creating online content' killed on active volcano after 'ignoring safety warnings'",
       "description": "A volcanic eruption has killed three hikers \"driven by the desire to create online content\" after they defied safety warnings and attempted an ascent.",
       "url": "https://news.sky.com/story/mount-dukono-erupts-three-hikers-creating-online-content-killed-on-indonesia-volcano-13541659",
@@ -403,6 +403,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Three hikers killed after climbing restricted Indonesian volcano to create online content, police say"
+    },
+    {
+      "title": "Guardian reporter and colleagues detained and beaten by Somali police",
+      "description": "Mohamed Bulbul arrested in Mogadishu after covering case of woman allegedly being tortured in prison A journalist who covered the case of a woman who said she was being tortured in prison was detained and beaten with pistols by Somali authorities, along with two others, for his reporting for the Guardian. Mohamed Bulbul was arrested with the journalists Abdihafid Nor Barre and Abdishakur Mohamed Mohamud on Friday evening while in a restaurant in the centre of the Somali capital, Mogadishu. They said they were assaulted by members of Somalia’s US-trained counter-terrorism police unit and taken to be questioned by police. All three were released in the early hours of Saturday morning. Continue reading...",
+      "url": "https://www.theguardian.com/global-development/2026/may/09/guardian-reporter-and-colleagues-detained-and-beaten-by-somali-police",
+      "published": "Sat, 09 May 2026 12:27:59 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Guardian reporter and colleagues detained and beaten by Somali police"
     },
     {
       "title": "Ukraine: Over 3,000 attacks on healthcare since full-scale Russian invasion",
@@ -550,15 +564,18 @@
       "ticker_label": "🪖 Cambodians struggle with displaced lives amid tense ceasefire with Thailand"
     },
     {
-      "title": "Nigerian refinery accused of sacking union members is key to UK plan to tackle jet fuel shortage",
-      "description": "Heidi Alexander says part of answer to strait of Hormuz crisis is importing more fuel from US and west Africa A refinery in Nigeria accused of dismissing workers for joining a union has emerged as key to the UK government’s hopes of saving the summer holiday amid a jet fuel shortage. Heidi Alexander, the transport secretary, said at the weekend that part of the answer to the strait of Hormuz crisis was to import more fuel from the US and west Africa. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/may/04/nigeria-refinery-dangote-uk-plan-jet-fuel-shortage-strait-of-hormuz",
-      "published": "Mon, 04 May 2026 15:58:29 GMT",
+      "title": "Indonesian rescuers retrieve body from Mount Dukono as search continues",
+      "description": "Woman recovered after volcanic eruption on remote island, while operation to find two missing Singaporeans goes on Rescuers on Saturday recovered the body of an Indonesian woman who was caught in a volcanic eruption on Mount Dukono on Indonesia’s remote island of Halmahera, as search operations continued for the bodies of two Singaporeans, officials said. The dead hikers were among 20 who set out to scale the 1,355m (4,445ft) volcano in defiance of safety restrictions and became stranded when Dukono erupted early on Friday, spewing a thick ash column about 6 miles (10km) into the air. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/09/indonesia-volcano-mount-dukono-search-bodies-recovered",
+      "published": "Sat, 09 May 2026 12:43:38 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Indonesian rescuers retrieve body from Mount Dukono as search continues"
     },
     {
       "title": "Three hikers dead after Indonesia’s Mount Dukono volcano erupts",
@@ -598,17 +615,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Has Trump's Iran ceasefire just collapsed?"
-    },
-    {
-      "title": "Car plows into pedestrian zone killing 2 as police detain driver and investigate motive",
-      "description": "Two people were killed and several others seriously injured after a car drove into a pedestrian zone in Leipzig, Germany. Police detained a 33-year-old suspect as officials investigate the cause.",
-      "url": "https://www.foxnews.com/world/car-plows-pedestrian-zone-killing-2-police-detain-driver-investigate-motive",
-      "published": "Mon, 04 May 2026 15:06:11 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -1510,20 +1516,6 @@
       "ticker_label": "💥 Germany's sugar tax sparks 'nanny state' debate"
     },
     {
-      "title": "Pioneer in the fight against AIDS: Botswana's ex-President Festus Mogae died",
-      "description": "The former President of the Republic of Botswana, Festus Mogae, has died. The democrat was considered the architect of the Southern African country's economic rise and a pioneer in the fight against AIDS.",
-      "url": "https://www.dw.com/en/pioneer-in-the-fight-against-aids-botswana-s-ex-president-festus-mogae-died/a-77095797?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 8 May 2026 11:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Pioneer in the fight against AIDS: Botswana's ex-President Festus Mogae died"
-    },
-    {
       "title": "Magyar to succeed Orban as Hungary's new prime minister",
       "description": "Pro-European conservative Peter Magyar arrived at Hungary's parliament Saturday morning to be sworn in as prime minister, on a promise of \"regime change\" after nationalist Viktor Orban's 16 years in power. The former government insider-turned-critic scored a landslide victory last month, pledging wide-ranging reforms to fight corruption.",
       "url": "https://www.france24.com/en/magyar-to-succeed-orban-as-hungary-s-new-prime-minister",
@@ -1622,6 +1614,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire"
+    },
+    {
+      "title": "Tariffs or not? How EU is dealing with US 'dealmaking'",
+      "description": "Earlier this week, President Trump threatened European car makers with 25% tariffs before walking it back later in the week. How is the EU dealing with this unpredictability?",
+      "url": "https://www.dw.com/en/tariffs-or-not-how-eu-is-dealing-with-us-dealmaking/a-77100109?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 9 May 2026 12:39:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Trump announces 3-day ceasefire between Ukraine and Russia",
@@ -1991,6 +1994,17 @@
       "is_ticker": false
     },
     {
+      "title": "Australia’s populist One Nation scores first-ever lower house victory",
+      "description": "The far-right party's winning candidate, David Farley, has advocated for stricter migration and farming reforms.",
+      "url": "https://www.aljazeera.com/news/2026/5/9/australias-populist-one-nation-scores-first-ever-lower-house-victory?traffic_source=rss",
+      "published": "Sat, 09 May 2026 12:20:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Displaced Lebanese children keep learning amid displacement",
       "description": "A school in Sidon is now home to displaced families from southern Lebanon, but classes are still running.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/displaced-lebanese-children-keep-learning-amid-displacement-2?traffic_source=rss",
@@ -2083,17 +2097,6 @@
       "description": "Britain’s famed natural historian David Attenborough is celebrating his 100th birthday.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/8/celebrated-naturalist-david-attenborough-marks-100th-birthday?traffic_source=rss",
       "published": "Fri, 08 May 2026 22:06:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Laura Fernandez sworn in as Costa Rica’s new president",
-      "description": "Fernandez enters office with her right-wing party holding an absolute majority in the legislature.",
-      "url": "https://www.aljazeera.com/news/2026/5/8/laura-fernandez-sworn-in-as-costa-ricas-new-president?traffic_source=rss",
-      "published": "Fri, 08 May 2026 20:12:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2233,17 +2236,6 @@
       "is_ticker": false
     },
     {
-      "title": "Two men first in British history to be found guilty of spying for China",
-      "description": "Chi Leung Wai and Chung Biu Yuen convicted over surveillance of dissidents in ‘shadow policing’ operation A UK Border Force officer and Hong Kong trade official based in London have been found guilty of spying for China and surveilling dissidents through a “shadow policing” operation. Chi Leung “Peter” Wai, 38, and Chung Biu Yuen, 65, also known as Bill, were found guilty at the Old Bailey of assisting a foreign intelligence service, making them the first people in British history to be convicted of spying for China. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/may/07/two-men-guilty-spying-for-china-uk-wai-yuen",
-      "published": "Thu, 07 May 2026 16:43:06 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Woman who returned from Syria refused bail – as it happened",
       "description": "This blog is now closed Get our breaking news email , free app or daily news podcast David Attenborough at 100: ‘I had thought I would celebrate quietly’ In a dose of good news, Sir David Attenborough is 100 today. The veteran broadcaster said he expected to celebrate quietly, but expressed gratitude for the well-wishes he had received. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/08/woman-charged-with-joining-islamic-state-syria-sydney-royal-commission-antisemitism-hearings-anthony-albanese-labor-angus-taylor-coalition-farrer-byelection-nsw-victoria-queensland-politics-ntwnfb",
@@ -2281,7 +2273,7 @@
     },
     {
       "title": "India news: Suvendu Adhikari takes oath as West Bengal's first BJP chief minister",
-      "description": "Prime Minister Narendra Modi attended the swearing-in ceremony of Adhikari. Meanwhile, in Tamil Nadu, Vijay is still grappling with the numbers to claim power. DW has the latest.",
+      "description": "Prime Minister Narendra Modi attended the swearing-in ceremony of Adhikari. Meanwhile, in Tamil Nadu, Joseph Vijay's road to power has been cleared after his party secured outside support. DW has the latest.",
       "url": "https://www.dw.com/en/india-news-suvendu-adhikari-takes-oath-as-west-bengal-s-first-bjp-chief-minister/live-77102224?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 9 May 2026 08:58:00 GMT",
       "source": "Deutsche Welle",
@@ -2457,10 +2449,10 @@
       "is_ticker": false
     },
     {
-      "title": "Laura Fernández sworn in as Costa Rica president, keeping outgoing president in 2 high-profile posts",
-      "description": "Laura Fernández has been sworn in as Costa Rica's president, with outgoing President Rodrigo Chaves serving as her minister of the presidency and minister of finance",
-      "url": "https://abcnews.com/International/wireStory/laura-fernndez-sworn-costa-rica-president-keeping-outgoing-132792395",
-      "published": "Fri, 08 May 2026 16:29:05 -0400",
+      "title": "Hungary's incoming PM plans a 'regime-change celebration' to mark Orbán's departure",
+      "description": "Péter Magyar takes office as Hungary's prime minister on Saturday, ending Viktor Orbán's 16-year rule",
+      "url": "https://abcnews.com/International/wireStory/hungarys-incoming-prime-minister-plans-regime-change-celebration-132771046",
+      "published": "Fri, 08 May 2026 03:19:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2468,10 +2460,10 @@
       "is_ticker": false
     },
     {
-      "title": "Hungary's incoming PM plans a 'regime-change celebration' to mark Orbán's departure",
-      "description": "Péter Magyar takes office as Hungary's prime minister on Saturday, ending Viktor Orbán's 16-year rule",
-      "url": "https://abcnews.com/International/wireStory/hungarys-incoming-prime-minister-plans-regime-change-celebration-132771046",
-      "published": "Fri, 08 May 2026 03:19:50 -0400",
+      "title": "Laura Fernández sworn in as Costa Rica president, keeping outgoing president in 2 high-profile posts",
+      "description": "Laura Fernández has been sworn in as Costa Rica's president, with outgoing President Rodrigo Chaves serving as her minister of the presidency and minister of finance",
+      "url": "https://abcnews.com/International/wireStory/laura-fernndez-sworn-costa-rica-president-keeping-outgoing-132792395",
+      "published": "Fri, 08 May 2026 16:29:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2644,6 +2636,17 @@
       "url": "https://www.foxnews.com/us/illegal-immigrant-charged-decade-long-serial-rape-case-rap-sheet-arrested-twice-ice",
       "published": "Fri, 08 May 2026 12:57:47 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "As Trump forces NATO to pay up, alliance races to close military gap with US",
+      "description": "Trump pressures NATO allies to boost defense spending as experts describe a decades-long commitment gap between political promises and military capability.",
+      "url": "https://www.foxnews.com/world/trump-forces-nato-pay-up-alliance-races-close-military-gap-us",
+      "published": "Sat, 09 May 2026 08:30:58 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
