@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10T10:00:21.138279Z",
+  "last_updated": "2026-05-10T10:35:11.709036Z",
   "event_count": 220,
   "events": [
     {
@@ -35,6 +35,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 38,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Argentina in spotlight over hantavirus as authorities retrace footsteps of ship’s passengers",
+      "description": "Thirty years after first person-to-person transmission was documented in Patagonia, scientists say global heating could increase world’s exposure An outbreak in rural communities 30 years ago in the Patagonia area of Argentina led scientists, for the first time, to document person-to-person transmission of hantavirus, which until then had been known only to spread through contact with rodents. Nearly a decade ago another outbreak, also in Patagonia, provided detailed evidence of inter-human transmission when an infected 68-year-old rural worker attended a birthday party in a small village. The infection spread and resulted in 11 deaths. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/10/hantavirus-is-not-easily-spread-but-is-global-heating-upping-our-exposure",
+      "published": "Sun, 10 May 2026 04:00:15 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 37,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -177,17 +188,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US military kills two alleged narco-terrorists in lethal strike on drug vessel in Eastern Pacific"
-    },
-    {
-      "title": "Argentina races to find origins of cruise ship hantavirus outbreak, amid reports some passengers have returned to US",
-      "description": "Argentina, where the MV Hondius cruise departed, consistently ranked by WHO as having highest incidence of hantavirus in region Officials and experts in Argentina are scrambling to determine if their country is the source of a deadly hantavirus outbreak that has gripped an Atlantic cruise ship, amid reports that a number of passengers have already returned to their home countries. Argentina, where the cruise to Antarctica departed, is consistently ranked by the World Health Organization (WHO) as having the highest incidence of the rare, rodent-borne disease in Latin America. Investigators there are working to contact trace the source of contamination. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/may/07/argentina-origins-hantavirus-outbreak-cruise-ship-mv-hondius",
-      "published": "Thu, 07 May 2026 01:53:51 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Dozens killed in jihadist attacks in central Mali",
@@ -486,20 +486,6 @@
       "ticker_label": "🌪️ Three hikers 'creating online content' killed on active volcano after 'ignoring safety warnings'"
     },
     {
-      "title": "Suicide bomber, gunmen kill 3 police officers in attack on security post in northwest Pakistan",
-      "description": "Police say a suicide bomber accompanied by several gunmen has detonated an explosives-laden vehicle near a security post in northwest Pakistan, triggering an intense exchange of fire that killed at least three police officers",
-      "url": "https://abcnews.com/International/wireStory/suicide-bomber-gunmen-kill-3-police-officers-attack-132815562",
-      "published": "Sat, 09 May 2026 15:38:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Suicide bomber, gunmen kill 3 police officers in attack on security post in northwest Pakistan"
-    },
-    {
       "title": "Iran warns the US against attacks on its oil tankers and other ships but ceasefire appears to hold",
       "description": "Iran's Revolutionary Guard navy has warned of a “heavy assault” on one of the U.S. bases in the region if Iranian oil tankers or commercial vessels are attacked",
       "url": "https://abcnews.com/International/wireStory/fragile-ceasefire-holds-us-awaits-iran-response-bahrain-132807132",
@@ -512,6 +498,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran warns the US against attacks on its oil tankers and other ships but ceasefire appears to hold"
+    },
+    {
+      "title": "Suicide bomber, gunmen kill 3 police officers in attack on security post in northwest Pakistan",
+      "description": "Police say a suicide bomber accompanied by several gunmen has detonated an explosives-laden vehicle near a security post in northwest Pakistan, triggering an intense exchange of fire that killed at least three police officers",
+      "url": "https://abcnews.com/International/wireStory/suicide-bomber-gunmen-kill-3-police-officers-attack-132815562",
+      "published": "Sat, 09 May 2026 15:38:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Suicide bomber, gunmen kill 3 police officers in attack on security post in northwest Pakistan"
     },
     {
       "title": "Three hikers killed after climbing restricted Indonesian volcano to create online content, police say",
@@ -642,7 +642,7 @@
       "title": "Death toll rises to 14 in Pakistan suicide attack. Taliban splinter group claim blast",
       "description": "Authorities report that the death toll from a suicide attack on a security post in northwest Pakistan has risen to 14 police officers",
       "url": "https://abcnews.com/International/wireStory/death-toll-rises-14-pakistan-suicide-attack-pakistan-132822359",
-      "published": "Sun, 10 May 2026 03:38:11 -0400",
+      "published": "Sun, 10 May 2026 06:10:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
@@ -751,17 +751,6 @@
       "ticker_label": "🪖 Israel strikes kill several in Lebanon despite truce"
     },
     {
-      "title": "Rwanda-backed rebels accuse the US of falling short as a peace mediator in Congo's conflict",
-      "description": "Rebels in Congo say the United States has fallen short as a mediator in efforts to end the conflict in the African country’s mineral-rich east",
-      "url": "https://abcnews.com/International/wireStory/rwanda-backed-rebels-accuse-us-falling-short-peace-132814895",
-      "published": "Sat, 09 May 2026 15:06:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Indonesian police arrest 321 foreigners in an operation to crack down on banned online gambling",
       "description": "Indonesian police have arrested 321 foreign nationals in a raid on an alleged online gambling operation in the country’s capital",
       "url": "https://abcnews.com/International/wireStory/indonesian-police-arrest-321-foreigners-operation-crack-banned-132814333",
@@ -796,6 +785,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 World News in Brief: Somalia drought response, Gaza and Ukraine aid updates, human rights abuses in Tunisia"
+    },
+    {
+      "title": "Iran military warns of ‘surprising’ methods of warfare if attacked again",
+      "description": "Iran’s army spokesman says if the ‘enemy’ were to attack again, they would face new methods of warfare.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss",
+      "published": "Sun, 10 May 2026 10:10:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran military warns of ‘surprising’ methods of warfare if attacked again"
     },
     {
       "title": "Two wins, two losses: What India, Pakistan have learned a year after war",
@@ -1024,10 +1027,10 @@
       "ticker_label": "🪖 Two killed in latest US strike on alleged drug trafficking boat"
     },
     {
-      "title": "Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13",
-      "description": "Three Israeli drone strikes on vehicles south of Beirut have killed four people",
-      "url": "https://abcnews.com/International/wireStory/israeli-drone-strikes-beirut-kill-4-southern-airstrikes-132812182",
-      "published": "Sat, 09 May 2026 15:11:30 -0400",
+      "title": "British military says ship caught fire after being hit off coast of Qatar",
+      "description": "The shaky ceasefire in the Iran war is being tested again",
+      "url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166",
+      "published": "Sun, 10 May 2026 06:09:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1035,7 +1038,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli drone strikes near Beirut kill 4 and southern airstrikes kill at least 13"
+      "ticker_label": "🪖 British military says ship caught fire after being hit off coast of Qatar"
     },
     {
       "title": "Central African Republic: Funding cuts put humanitarian support at risk",
@@ -1301,6 +1304,17 @@
       "is_ticker": false
     },
     {
+      "title": "Cape Verde: Tiny nation, massive World Cup dream",
+      "description": "In Cape Verde, a small island nation off West Africa, World Cup qualification is transforming dreams on and off the pitch.",
+      "url": "https://www.npr.org/2026/05/10/nx-s1-5796264/cape-verde-tiny-nation-massive-world-cup-dream",
+      "published": "Sun, 10 May 2026 06:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Organizers of a canceled human rights conference in Zambia say China intervened",
       "description": "Zambia was due to host Rights Con, the world's biggest digital rights gathering, this week -- but abruptly canceled the event. Organizers blame Chinese pressure for the decision.",
       "url": "https://www.npr.org/2026/05/08/nx-s1-5809455/organizers-of-a-canceled-human-rights-conference-in-zambia-say-china-intervened",
@@ -1403,17 +1417,6 @@
       "is_ticker": false
     },
     {
-      "title": "Syria sees first government reshuffle since al-Assad’s ouster: State media",
-      "description": "Interim President Ahmed al-Sharaa's reshuffle comes amid protests over poor government performance.",
-      "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
-      "published": "Sun, 10 May 2026 08:55:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
       "description": "Israel kills at least 24 people in Lebanon in one day as Tehran's response to US proposal to end the war is awaited.",
       "url": "https://www.aljazeera.com/news/2026/5/10/iran-war-day-72-tehran-yet-to-reply-to-us-plan-israel-bombs-lebanon?traffic_source=rss",
@@ -1481,20 +1484,6 @@
       "ticker_label": "🪖 New film portrays Thomas and Erika Mann — with an oddly twisted premise"
     },
     {
-      "title": "Iran war: US expecting Tehran's response to proposed deal",
-      "description": "President Donald Trump said Washington was expecting an answer from Tehran over a proposed deal to set up talks to end the war. Follow live.",
-      "url": "https://www.dw.com/en/iran-war-us-expecting-tehran-s-response-to-proposed-deal/live-77102104?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 9 May 2026 02:42:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war: US expecting Tehran's response to proposed deal"
-    },
-    {
       "title": "Putin says Ukraine war likely to end soon - despite Ukrainian battlefield gains",
       "description": "President Vladimir Putin has said he believes the Ukraine war is coming to an end.",
       "url": "https://news.sky.com/story/putin-says-ukraine-war-likely-to-end-soon-despite-ukrainian-battlefield-gains-13542111",
@@ -1509,20 +1498,6 @@
       "ticker_label": "🪖 Putin says Ukraine war likely to end soon - despite Ukrainian battlefield gains"
     },
     {
-      "title": "Iran war disruptions spark higher costs and lost income in Bangladesh",
-      "description": "Tariqul Islam, a ride-share driver in Bangladesh, faces long fuel lines due to supply disruptions linked to the war in Iran",
-      "url": "https://abcnews.com/International/wireStory/iran-war-disruptions-spark-higher-costs-lost-income-132821732",
-      "published": "Sun, 10 May 2026 02:25:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war disruptions spark higher costs and lost income in Bangladesh"
-    },
-    {
       "title": "Press freedom alarm as Niger suspends 9 French media outlets over 'national security'",
       "description": "Reporters Without Borders has condemned Niger's suspension of nine French media outlets",
       "url": "https://abcnews.com/International/wireStory/press-freedom-alarm-niger-suspends-9-french-media-132814800",
@@ -1532,6 +1507,34 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit",
+      "description": "China says exports have risen 14.1% in April from a year earlier, despite the Iran war and lingering impacts from higher U.S. tariffs",
+      "url": "https://abcnews.com/International/wireStory/china-april-exports-jump-141-year-ago-ahead-132804345",
+      "published": "Sat, 09 May 2026 02:33:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 China says April exports jump 14.1% from a year ago ahead of Trump-Xi summit"
+    },
+    {
+      "title": "Surfers in war-torn Gaza find rare moments of joy taking to the waves",
+      "description": "Despite the dire situation in Gaza, a few surfers find joy riding the waves",
+      "url": "https://abcnews.com/International/wireStory/surfers-war-torn-gaza-find-rare-moments-joy-132805445",
+      "published": "Sat, 09 May 2026 02:42:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Surfers in war-torn Gaza find rare moments of joy taking to the waves"
     },
     {
       "title": "Indonesian rescuers find 1 body after volcano eruption as search continues for 2 more",
@@ -1546,6 +1549,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Indonesian rescuers find 1 body after volcano eruption as search continues for 2 more"
+    },
+    {
+      "title": "Iran war disruptions spark higher costs and lost income in Bangladesh",
+      "description": "Tariqul Islam, a ride-share driver in Bangladesh, faces long fuel lines due to supply disruptions linked to the war in Iran",
+      "url": "https://abcnews.com/International/wireStory/iran-war-disruptions-spark-higher-costs-lost-income-132821732",
+      "published": "Sun, 10 May 2026 06:09:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war disruptions spark higher costs and lost income in Bangladesh"
     },
     {
       "title": "Shocking video shows giant black plume of smoke rising from Tennessee plastic recycling facility fire",
@@ -1736,17 +1753,6 @@
       "is_ticker": false
     },
     {
-      "title": "Florida jury convicts 4 men who plotted assassination of Haiti's president from South Florida hub",
-      "description": "A federal jury in Florida convicted four men for their roles in the 2021 assassination of Haitian President Jovenel Moïse, a plot planned in Miami.",
-      "url": "https://www.foxnews.com/us/florida-jury-convicts-4-men-plotted-assassination-haitis-president-south-florida-hub",
-      "published": "Fri, 08 May 2026 16:14:02 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Labour MP puts Cabinet 'on notice,' threatens to trigger leadership challenge against Starmer by Monday",
       "description": "U.K. Prime Minister Keir Starmer faces a potential Labour leadership challenge after the party suffered major losses in Thursday's local elections.",
       "url": "https://www.foxnews.com/world/labour-mp-puts-cabinet-notice-threatens-trigger-leadership-challenge-starmer-monday",
@@ -1759,10 +1765,21 @@
     },
     {
       "title": "Spain starts evacuating virus-hit cruise ship in Tenerife",
-      "description": "Spanish passengers are the first leave the MV Hondius, after an outbreak saw three people die and several infected.",
+      "description": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected.",
       "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 10 May 2026 09:14:51 GMT",
+      "published": "Sun, 10 May 2026 10:01:58 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Syria sees first government reshuffle since al-Assad’s ouster",
+      "description": "Interim President Ahmed al-Sharaa's reshuffle comes amid protests over poor government performance.",
+      "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
+      "published": "Sun, 10 May 2026 08:55:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1784,17 +1801,6 @@
       "description": "Hantavirus is usually spread by rodents but can in rare cases be transmitted person to person.",
       "url": "https://www.aljazeera.com/news/2026/5/10/cruise-ship-hit-by-hantavirus-outbreak-arrives-in-tenerife?traffic_source=rss",
       "published": "Sun, 10 May 2026 06:48:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "‘No Kings’ protest outside Buckingham Palace",
-      "description": "British anti-royals have staged a ‘No Kings’ protest outside Buckingham Palace in London.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/aje-onl-nf_clip-no-kings-protest-090526?traffic_source=rss",
-      "published": "Sun, 10 May 2026 02:22:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1888,17 +1894,6 @@
       "ticker_label": "✈️ European nations dispatch planes to evacuate citizens from hantavirus-hit cruise ship"
     },
     {
-      "title": "British military says ship caught fire after being hit off coast of Qatar",
-      "description": "The British military says a ship caught fire after being hit by an unknown projectile off the coast of Qatar",
-      "url": "https://abcnews.com/International/wireStory/british-military-ship-caught-fire-after-hit-off-132822166",
-      "published": "Sun, 10 May 2026 02:34:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1987,6 +1982,17 @@
       "is_ticker": false
     },
     {
+      "title": "Berlin: Fighting the city's young far-right scene",
+      "description": "A recent police raid on Germany's neo-Nazi scene has revealed how alarmingly young some of its members are. But those targeted by this hatred are fighting back.",
+      "url": "https://www.dw.com/en/berlin-fighting-the-city-s-young-far-right-scene/a-77098275?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 10 May 2026 10:17:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Manchester City keep pressure on Arsenal in title race with win over Brentford",
       "description": "Manchester City kept the Premier League title race alive with a 3-0 win over Brentford on Saturday afternoon. League leaders Arsenal will look to re-establish their five-point lead by beating West Ham on Sunday, with another three league fixtures to come.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260510-manchester-city-keep-pressure-on-arsenal-in-title-race-with-win-over-brentford",
@@ -1999,7 +2005,7 @@
     },
     {
       "title": "'A full-time job': How a self-proclaimed Swiss king's 'empire' is riling local authorities",
-      "description": "Jonas Lauwiner was widely dismissed as an eccentric when he held a coronation and crowned himself king of Switzerland in 2019. Since then, he has used a loophole in Swiss law to acquire a 117,000-square-metre “land empire”, but local authorities are keen to stop him in his tracks.",
+      "description": "Jonas Lauwiner was widely dismissed as an eccentric when he crowned himself king of Switzerland in 2019 and used a loophole in Swiss law to acquire a 117,000-square-metre “land empire”. Lauwiner tells FRANCE 24 that the local authorities who are keen to stop him are just jealous they didn't think of it first.",
       "url": "https://www.france24.com/en/europe/20260510-how-switzerland-self-proclaimed-king-built-a-land-empire-that-riling-local-authorities",
       "published": "Sun, 10 May 2026 07:47:43 GMT",
       "source": "France24",
@@ -2111,6 +2117,17 @@
       "is_ticker": false
     },
     {
+      "title": "Libya’s Zawiya refinery resumes full operations",
+      "description": "Refinery closed for about two days after fighting near the facility 40km west of Tripoli.",
+      "url": "https://www.aljazeera.com/news/2026/5/10/libyas-zawiya-refinery-resumes-full-operations?traffic_source=rss",
+      "published": "Sun, 10 May 2026 09:51:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "AFC Asian Cup 2027: Japan to face defending champions Qatar in tough draw",
       "description": "Saudi Arabia will host the 2027 tournament from January 7 to February 5 and will face Palestine, Kuwait and Oman.",
       "url": "https://www.aljazeera.com/sports/2026/5/10/afc-asian-cup-2027-japan-land-defending-champions-qatar-in-tough-draw?traffic_source=rss",
@@ -2170,17 +2187,6 @@
       "description": "Paris seeks to repair economic and security ties while countering rising anti-French sentiment across Africa.",
       "url": "https://www.aljazeera.com/news/2026/5/10/macron-tours-east-africa-amid-push-to-redefine-frances-role-in-africa?traffic_source=rss",
       "published": "Sun, 10 May 2026 05:38:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Satellite images show likely oil slick off Iran’s Kharg Island",
-      "description": "Satellite images have captured a suspected oil slick spanning dozens of square kilometres near Iran’s Kharg Island.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/satellite-images-show-likely-oil-slick-off-irans-kharg-island?traffic_source=rss",
-      "published": "Sun, 10 May 2026 01:23:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2331,21 +2337,10 @@
       "is_ticker": false
     },
     {
-      "title": "Colombia's rogue hippos could find refuge in India",
-      "description": "In Colombia, a plan to cull Pablo Escobar's invasive hippos is challenged by an Indian billionaire's offer to relocate dozens of the animals to India's wildlife reserve instead.",
-      "url": "https://www.npr.org/2026/05/08/nx-s1-5814169/cocaine-hippos-colombia-india",
-      "published": "Fri, 08 May 2026 12:24:19 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Hantavirus: Passengers evacuate off MV Hondius in Tenerife",
       "description": "Germany and the US are among the countries sending aircraft to fly their citizens home. The ship anchored at a port in Tenerife.",
       "url": "https://www.dw.com/en/hantavirus-passengers-evacuate-off-mv-hondius-in-tenerife/live-77063670?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 10 May 2026 09:06:00 GMT",
+      "published": "Sun, 10 May 2026 09:58:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2472,21 +2467,10 @@
       "is_ticker": false
     },
     {
-      "title": "Bolivia’s fuel shortages and 'junk gasoline' drive a surge in electric cars",
-      "description": "A small but growing number of Bolivians are trading their fossil fuel-powered vehicles for electric ones",
-      "url": "https://abcnews.com/International/wireStory/bolivias-fuel-shortages-junk-gasoline-drive-surge-electric-132822557",
-      "published": "Sun, 10 May 2026 04:43:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Syria's interim president moves his brother out of a top post in a government reshuffle",
-      "description": "Syria’s interim President Ahmad al-Sharaa has reshuffled several top government posts and removed his brother from a key position",
-      "url": "https://abcnews.com/International/wireStory/syrias-interim-president-moves-brother-top-post-government-132817945",
-      "published": "Sun, 10 May 2026 00:46:14 -0400",
+      "title": "Fuel shortages and high prices push adoption of EVs in Africa, led by Ethiopia",
+      "description": "Use of electric vehicles in Africa is surging, led by Ethiopia, as soaring prices and fuel shortages compel countries to opt for cleaner and cheaper transport",
+      "url": "https://abcnews.com/International/wireStory/fuel-shortages-high-prices-push-adoption-evs-africa-132803856",
+      "published": "Sat, 09 May 2026 04:50:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2505,10 +2489,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope blesses Serie A champion Inter Milan and reminds them to be responsible 'heroes'",
-      "description": "Pope Leo XIV has blessed Serie A champion Inter Milan",
-      "url": "https://abcnews.com/International/wireStory/pope-blesses-serie-champion-inter-milan-reminds-responsible-132812833",
-      "published": "Sun, 10 May 2026 00:50:11 -0400",
+      "title": "Vatican sending new signals of openness but limitations in outreach to LGBTQ+ Catholics",
+      "description": "The Vatican is sending new signals about how it intends to minister to LGBTQ+ Catholics in the Pope Leo XIV era",
+      "url": "https://abcnews.com/International/wireStory/vatican-sending-new-signals-openness-limitations-outreach-lgbtq-132805265",
+      "published": "Sat, 09 May 2026 01:46:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2531,6 +2515,17 @@
       "description": "Moscow marks Victory Day with a scaled down Red Square parade under tight security Saturday. This is a photo gallery curated by AP photo editors.",
       "url": "https://abcnews.com/International/wireStory/photos-show-russias-victory-day-scaled-red-square-132807035",
       "published": "Sat, 09 May 2026 10:22:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump's deal making with Xi next week may determine Hong Kong jailed activist Jimmy Lai's fate",
+      "description": "As Donald Trump's meeting with his Chinese counterpart Xi Jinping approaches, the family of Hong Kong's jailed activist Jimmy Lai is hopeful that the U.S. President could help free their father",
+      "url": "https://abcnews.com/International/wireStory/trumps-deal-making-xi-week-determine-hong-kong-132804536",
+      "published": "Sat, 09 May 2026 07:05:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2579,6 +2574,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167455",
       "published": "Wed, 06 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Nancy Guthrie was alive when abducted, blood evidence shows 'last stand' on front porch: retired FBI agent",
+      "description": "Blood spatter evidence shows Nancy Guthrie made a last stand on her porch before being abducted, and the suspect made key mistakes, retired FBI agent says.",
+      "url": "https://www.foxnews.com/us/nancy-guthrie-alive-abducted-blood-evidence-shows-last-stand-front-porch-retired-fbi-agent",
+      "published": "Sun, 10 May 2026 06:00:51 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
