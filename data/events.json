@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T15:31:37.951216Z",
+  "last_updated": "2026-05-13T16:55:42.829030Z",
   "event_count": 221,
   "events": [
     {
@@ -67,20 +67,6 @@
       "ticker_label": "🌪️ Weather tracker: US and Mexico brace for heatwave as deadly floods hit South Africa"
     },
     {
-      "title": "Gunfire erupts in Philippine Senate amid ICC arrest bid for senator",
-      "description": "Gunfire broke out inside the Philippine Senate late Wednesday as authorities attempted to arrest Sen. Ronald dela Rosa, who is wanted by the International Criminal Court (ICC) on charges of crimes against humanity linked to former president Rodrigo Duterte’s anti-drug crackdown. The cause of the shooting and any casualties were not immediately known.",
-      "url": "https://www.france24.com/en/asia-pacific/20260513-gunfire-erupts-in-philippine-senate-amid-icc-arrest-bid-for-senator",
-      "published": "Wed, 13 May 2026 13:14:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Gunfire erupts in Philippine Senate amid ICC arrest bid for senator"
-    },
-    {
       "title": "Mass protests in Argentina decry Milei's funding cuts to prized public universities",
       "description": "Tens of thousands of Argentines were flooding the streets of major cities nationwide to protest funding cuts by libertarian President Javier Milei to the public university system — a near-universal point of pride in this crisis-prone country",
       "url": "https://abcnews.com/International/wireStory/mass-protests-argentina-decry-mileis-funding-cuts-prized-132900612",
@@ -121,6 +107,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Lebanon says two paramedics among 13 killed in Israeli strikes"
+    },
+    {
+      "title": "Deadly Russian drone attacks on Ukraine resume after ceasefire expires",
+      "description": "Six people have been killed after Zelensky warned of \"more waves\" of Russian strikes through Wednesday.",
+      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 16:39:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Deadly Russian drone attacks on Ukraine resume after ceasefire expires"
     },
     {
       "title": "Gunshots fired in Philippines senate in standoff with senator Ronald dela Rosa",
@@ -177,6 +177,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Gaborone gold rush: how Botswana rose to the top of men’s sprinting"
+    },
+    {
+      "title": "Israeli singer Noa speaks to FRANCE 24 as Israel's participation sparks Eurovision backlash",
+      "description": "Ten countries, including favourite Finland and controversial competitor Israel, secured places on Tuesday in the final of the Eurovision Song Contest. The contest’s 70th anniversary edition has been overshadowed by divisions, with five countries — Spain, Ireland, the Netherlands, Slovenia and Iceland — boycotting in protest against Israel’s war in Gaza, which has killed at least 75,000 Palestinians since the October 7 Hamas attack on Israel. For more, FRANCE 24’s Nadia Massih is joined by renowned Israeli singer Noa, who previously represented Israel at Eurovision in 2009 alongside Mira Awad, a Palestinian citizen of Israel. Noa has frequently used her platform to speak out against Israel’s treatment of Palestinians in both the occupied West Bank and Gaza.",
+      "url": "https://www.france24.com/en/video/20260513-israeli-singer-noa-speaks-to-france-24-as-israel-s-participation-sparks-eurovision-backlash",
+      "published": "Wed, 13 May 2026 15:43:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli singer Noa speaks to FRANCE 24 as Israel's participation sparks Eurovision backlash"
     },
     {
       "title": "Armed drones leading cause of civilian death in Sudan war: UN rights chief",
@@ -299,20 +313,6 @@
       "ticker_label": "🪖 North Korea updates constitution to require automatic nuclear strike if Kim Jong Un is assassinated: report"
     },
     {
-      "title": "Russian drone attacks kill 13 in Ukraine after ceasefire expires",
-      "description": "Attacks are continuing after Ukraine's president warned of \"more waves\" of Russian strikes throughout Wednesday.",
-      "url": "https://www.bbc.com/news/articles/ce3pj85depzo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 14:51:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian drone attacks kill 13 in Ukraine after ceasefire expires"
-    },
-    {
       "title": "World News in Brief: Haiti crisis continues, Gaza-West Bank update, Sir David Attenborough at 100",
       "description": "Haiti continues to face escalating violence and deepening insecurity, with gangs expanding their reach beyond Port-au-Prince and civilians increasingly caught between armed groups and security operations.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167475",
@@ -320,6 +320,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "No, two French soldiers have not been killed in a Russian attack in Ukraine",
+      "description": "Pro-Russian accounts are claiming that Sergeant Bin Chen and Corporal Axel Delplanque \"vanished\" in Odesa, Ukraine, during an underwater mission. While it is true that these two French service members recently lost their lives, the circumstances of their deaths have no connection to any Russian attack.",
+      "url": "https://www.france24.com/en/europe/20260513-two-french-soldiers-not-been-killed-russian-attack-ukraine",
+      "published": "Wed, 13 May 2026 16:47:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -333,6 +344,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk",
+      "description": "The UN Interim Force in Lebanon (UNIFIL) said on Wednesday that escalating drone activity and nearby explosions involving suspected Hezbollah drones and Israeli forces are endangering its personnel and threatening already fragile stability in southern Lebanon.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167496",
+      "published": "Wed, 13 May 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk"
     },
     {
       "title": "Storm, displacement and hidden wartime explosives deepen emergency in Solomon Islands",
@@ -375,28 +400,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israeli attacks on Gaza increased by 35% since Iran ceasefire: Report"
-    },
-    {
-      "title": "Fabled Argentine city Ushuaia tries to shrug off hantavirus suspicions",
-      "description": "Argentina's city \"at the end of the world,\" Ushuaia, the jump-off point for expeditions to the Antarctic, is laboring under suspicion of being the source of the deadly hantavirus outbreak that killed three cruise ship passengers. The MV Hondius set sail from this spectacular Patagonian port, sandwiched between snow-capped mountains and the South Atlantic, on April 1.",
-      "url": "https://www.france24.com/en/video/20260513-fabled-argentine-city-ushuaia-tries-to-shrug-off-hantavirus-suspicions",
-      "published": "Wed, 13 May 2026 13:24:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "NGO sounds alarm as online child sexual abuse material surges in France",
-      "description": "Every single second, two pieces of child sexual abuse material are shared online. Now, an international group that fights to address the causes and effects of sexual violence against children and adolescents is singling out France for particular criticism. The NGO Cameleon says that France, and the rest of Europe as well, is becoming a haven for online child sexual abuse content.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260513-ngo-sounds-alarm-as-online-child-sexual-abuse-material-surges-in-france",
-      "published": "Wed, 13 May 2026 13:04:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "World News in Brief: Human rights in Mongolia, surge in sexual violence in Haiti, worsening hunger in Afghanistan",
@@ -483,7 +486,7 @@
       "title": "Philippine Senate in lockdown after gunshots fired",
       "description": "Police commandos entered the building where a senator wanted by the International Criminal Court had sought refuge.",
       "url": "https://www.bbc.com/news/articles/cnvp730yd52o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 15:04:16 GMT",
+      "published": "Wed, 13 May 2026 15:35:15 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 18,
@@ -506,20 +509,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Strait of Hormuz de-escalation is urgent, says UN chief"
-    },
-    {
-      "title": "Ukraine: Over 3,000 attacks on healthcare since full-scale Russian invasion",
-      "description": "The World Health Organization (WHO) has verified more than 3,000 attacks on healthcare in Ukraine since Russia launched its full-scale invasion in February 2022, the UN agency reported on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167468",
-      "published": "Fri, 08 May 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine: Over 3,000 attacks on healthcare since full-scale Russian invasion"
     },
     {
       "title": "Iran regime power players may eye Russia in Assad-style escape as US talks falter: expert",
@@ -589,28 +578,6 @@
       "ticker_label": "🪖 Amid US-Israel war on Iran, Arizona awaits Iranian team before World Cup"
     },
     {
-      "title": "UN urges independent probes into deadly Nigeria, Chad air attacks",
-      "description": "UN rights chief 'shocked' by reports that Nigerian and Chadian forces killed over 100 civilians and seeks inquiries.",
-      "url": "https://www.aljazeera.com/news/2026/5/13/un-urges-independent-probes-into-deadly-nigeria-chad-air-attacks?traffic_source=rss",
-      "published": "Wed, 13 May 2026 11:40:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Gang violence displaces hundreds in Haiti’s capital",
-      "description": "People in Cite Soleil neighbourhood of Port-au-Prince protest as gang violence shuts hospitals and displaces hundreds.",
-      "url": "https://www.aljazeera.com/gallery/2026/5/13/gang-violence-displaces-hundreds-in-haitis-capital?traffic_source=rss",
-      "published": "Wed, 13 May 2026 10:58:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Satellites add a new layer to global poverty data",
       "description": "A new study using satellite data finds that 58% of the global population has been assigned to the wrong tier in the UN's Human Development Index. That can have real-world consequences for how aid reaches people.",
       "url": "https://www.dw.com/en/satellites-add-a-new-layer-to-global-poverty-data/a-77130563?maca=en-rss-en-all-1573-xml-mrss",
@@ -625,7 +592,7 @@
       "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
       "description": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit.",
       "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 13:51:13 GMT",
+      "published": "Wed, 13 May 2026 16:20:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -661,6 +628,20 @@
       "is_ticker": false
     },
     {
+      "title": "Africa Forward Summit: Africa must \"build off the basis of what it already owns\"",
+      "description": "“Africa must build not on the basis of what it lacks, but on the basis of what it already owns.” Achille Mbembe tells #F24Spotlight Africa must reconcile its “intimate knowledge” of the world with its own wealth and values ➡️https://go.france24.com/FpEM",
+      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-africa-must-build-off-the-basis-of-what-it-already-owns",
+      "published": "Wed, 13 May 2026 15:46:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Africa Forward Summit: Africa must \"build off the basis of what it already owns\""
+    },
+    {
       "title": "In Sudan, both sides 'have taken the country to the dogs': Kenya's Ruto",
       "description": "As the Africa Forward summit concluded in Nairobi, FRANCE 24 sat down with Kenya's President William Ruto. For him, the summit was \"significant\" after French President Emmanuel Macron announced investments in Africa in areas such as the energy transition, digital and AI. Ruto also discussed the war in Sudan, refuting claims that he is siding with the paramilitary Rapid Support Forces (RSF). \"Both SAF (the Sudanese Armed Forces) and RSF are cut from the same cloth,\" he said. \"And they have taken the country to the dogs, so to speak\".",
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260513-in-sudan-both-sides-have-taken-the-country-to-the-dogs-kenya-s-ruto",
@@ -675,10 +656,10 @@
       "ticker_label": "🪖 In Sudan, both sides 'have taken the country to the dogs': Kenya's Ruto"
     },
     {
-      "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
-      "description": "The passengers and crew have disembarked from the hantavirus-hit cruise ship MV Hondius in Tenerife and many have returned to their home countries, as the UN World Health Organization (WHO) said the operation demonstrated a “triumph of solidarity”.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167487",
-      "published": "Mon, 11 May 2026 12:00:00 +0000",
+      "title": "World News in Brief: Conflict drives hunger in DR Congo, mass corporal punishment in Afghanistan, Earth’s sand is running out",
+      "description": "More than 26.5 million people in the Democratic Republic of the Congo are facing acute hunger, according to a new analysis from UN-backed food security experts published Tuesday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167495",
+      "published": "Tue, 12 May 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
@@ -686,10 +667,10 @@
       "is_ticker": false
     },
     {
-      "title": "Malaria vaccine is saving children’s lives: WHO",
-      "description": "New evidence shows that malaria vaccination is significantly reducing child deaths in Africa and could have an even greater impact as programmes expand, the World Health Organization (WHO) said on Friday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167472",
-      "published": "Fri, 08 May 2026 12:00:00 +0000",
+      "title": "Hantavirus-hit ship evacuation completed as quarantines begin",
+      "description": "The passengers and crew have disembarked from the hantavirus-hit cruise ship MV Hondius in Tenerife and many have returned to their home countries, as the UN World Health Organization (WHO) said the operation demonstrated a “triumph of solidarity”.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167487",
+      "published": "Mon, 11 May 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 16,
@@ -734,20 +715,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin hails Russia's test launch of a new ballistic missile"
-    },
-    {
-      "title": "King Charles III lays out UK government agenda as Starmer's job hangs in the balance",
-      "description": "King Charles III laid out on Wednesday the British government’s legislative program for the coming year or so, as Prime Minister Keir Starmer fought to remain in power following rising discontent within his Labour Party. In a speech to lawmakers laced with all the pomp that accompanies the ceremonial opening of Parliament, the king said the U.K.'s energy policy, defense and national security would be tested as it deals with the fallout from the wars in Iran and Ukraine. FRANCE 24's Bénédicte Paviot reports from London.",
-      "url": "https://www.france24.com/en/video/20260513-king-charles-iii-lays-out-uk-government-agenda-as-starmer-s-job-hangs-in-the-balance",
-      "published": "Wed, 13 May 2026 13:25:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 King Charles III lays out UK government agenda as Starmer's job hangs in the balance"
     },
     {
       "title": "Israel passes law setting up military tribunal for 7 October attackers",
@@ -822,6 +789,17 @@
       "is_ticker": false
     },
     {
+      "title": "'I'm confident that an African country will win the World Cup': CAF President Patrice Motsepe",
+      "description": "In an interview with FRANCE 24, the president of the Confederation of African Football (CAF) discussed the upcoming World Cup and AFCON competitions. \"I'm confident that an African country will win the World Cup,\" Patrice Motsepe said. \"We have to aspire high and high\". He also addressed the unprecedented decision by the CAF to strip Senegal of the most recent AFCON title and hand it to Morocco. \"Things are back to normal,\" Motsepe insisted. \"Based on what has happened since the AFCON in Morocco, we are now stronger, more united than ever.\"",
+      "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260513-i-m-confident-that-an-african-country-will-win-the-world-cup-caf-president-patrice-motsep",
+      "published": "Wed, 13 May 2026 15:47:59 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Body of missing US soldier recovered off coast of Morocco",
       "description": "1st Lt Kendrick Lamont Key Jr was participating in military exercise among US, Nato allies and African countries A search team recovered the body of a US soldier who went missing near a cliff during a training exercise in Cap Draa, Morocco, the US army said on Sunday. Moroccan searchers found the remains on Saturday in the water within a mile (1.6km) of where the soldier went missing on 2 May, the army said in a statement. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/may/10/missing-soldier-body-recovered-morocco",
@@ -875,6 +853,17 @@
       "ticker_label": "🪖 Taiwan new key player as Ukraine shifts drone supply chain away from China"
     },
     {
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "description": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money.",
+      "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 13 May 2026 13:37:53 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "The Bahamas goes to polls in three-way battle with immigration a key issue",
       "description": "Rising cost of living such as high gas prices also a concern in election that will have record number of voters Voters in the Bahamas head to the polls on Tuesday in a hotly contested general election featuring high-profile candidates such as the former basketball champion Rick Fox. Voters in the Caribbean archipelago are divided over concerns about immigration, especially from neighbouring Haiti, and the rising cost of living, with significant spikes in gas prices caused by war in the Middle East. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/12/bahamas-goes-to-polls-caribbean-election-battle",
@@ -903,20 +892,6 @@
       "ticker_label": "🪖 Ceasefire in sight? What's next for Russia's war in Ukraine"
     },
     {
-      "title": "As Trump heads to China, past US flubs on US policy toward Taiwan can be a warning",
-      "description": "American presidents have navigated a verbal tightrope for nearly 50 years regarding official U.S. policy toward Taiwan and China",
-      "url": "https://abcnews.com/International/wireStory/trump-heads-china-past-us-flubs-us-policy-132902764",
-      "published": "Wed, 13 May 2026 04:12:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 As Trump heads to China, past US flubs on US policy toward Taiwan can be a warning"
-    },
-    {
       "title": "10 rescued after a small plane crashes off the Florida coast",
       "description": "Authorities in the Bahamas say that an aircraft crashed 80 miles off the coast of Florida on Tuesday, and that all 10 people aboard have been rescues",
       "url": "https://abcnews.com/International/wireStory/10-rescued-after-small-plane-crashes-off-florida-132897610",
@@ -929,6 +904,20 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ 10 rescued after a small plane crashes off the Florida coast"
+    },
+    {
+      "title": "As Trump heads to China, past US flubs on US policy toward Taiwan can be a warning",
+      "description": "American presidents have navigated a verbal tightrope for nearly 50 years regarding official U.S. policy toward Taiwan and China",
+      "url": "https://abcnews.com/International/wireStory/trump-heads-china-past-us-flubs-us-policy-132902764",
+      "published": "Wed, 13 May 2026 04:12:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 As Trump heads to China, past US flubs on US policy toward Taiwan can be a warning"
     },
     {
       "title": "Middle East: Deadly weekend in Lebanon, continued violence in Gaza",
@@ -1034,6 +1023,17 @@
       "ticker_label": "🪖 Man dies in Sydney prison unit that watchdog wanted shut down because it ‘cannot provide a safe environment’"
     },
     {
+      "title": "Trump-Xi Summit: China wants to 'displace' the US in world order",
+      "description": "“China is more interested in displacing the US, rather than replacing it.” Philippe Le Corre tells #F24Debate China aims to make itself more central to the world order by diminishing US relevance ➡️https://f24.my/BuzY",
+      "url": "https://www.france24.com/en/video/20260513-trump-xi-summit-china-wants-to-displace-the-us-in-world-order",
+      "published": "Wed, 13 May 2026 16:25:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "WHO chief heads to Tenerife to oversee Sunday arrival of hantavirus-hit ship",
       "description": "The Director-General of the World Health Organization (WHO), Tedros Adhanom Ghebreyesus, has issued a direct plea for calm and solidarity to the citizens of Tenerife ahead of the scheduled arrival of the MV Hondius on Sunday",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167476",
@@ -1123,6 +1123,20 @@
       "is_ticker": false
     },
     {
+      "title": "Africa Forward Summit: Navigating the nuances of data governance in Africa",
+      "description": "Data responsibility matters. Peter Addo explains the data governance challenges African nations must reckon with as AI infrastructure grows. More on #F24Debate➡️https://go.france24.com/kQ7s",
+      "url": "https://www.france24.com/en/video/20260513-africa-forward-summit-navigating-the-nuances-of-data-governance-in-africa",
+      "published": "Wed, 13 May 2026 15:28:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Africa Forward Summit: Navigating the nuances of data governance in Africa"
+    },
+    {
       "title": "Ukraine officials name Zelenskyy's ex-chief of staff as a suspect in money-laundering probe",
       "description": "Two national agencies fighting corruption in Ukraine have named Ukrainian President Volodymyr Zelenskyy’s former chief of staff as an official suspect in a major graft investigation",
       "url": "https://abcnews.com/International/wireStory/ukraine-officials-zelenskyys-chief-staff-suspect-money-laundering-132871550",
@@ -1157,7 +1171,7 @@
     },
     {
       "title": "Chinese court awards compensation to sacked worker replaced by AI",
-      "description": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job security A court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,000 in compensation. The worker, whose surname is Zhou, joined a tech company in the eastern city of Hangzhou in 2022 to work as a quality assurance supervisor overseeing large language models used in AI products. Continue reading...",
+      "description": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job security A court in China has ruled in favour of a worker whose company replaced him with artificial intelligence (AI), awarding him more than £28,000 in compensation. The worker, whose surname is Zhou, joined a tech company in the eastern city of Hangzhou in 2022 as a quality assurance supervisor overseeing large language models used in AI products. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
       "published": "Wed, 13 May 2026 14:58:57 GMT",
       "source": "The Guardian World",
@@ -1190,20 +1204,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "REPLAY: King Charles lays out Starmer's agenda as PM fights for survival",
-      "description": "King Charles III outlined UK leader Keir Starmer's legislative plans during a pomp-filled ceremony Wednesday, despite uncertainty over the prime minister's future as he faces calls to resign from his own party. The monarch's address, and its lavish traditions, was meant to be a brief interlude from the open warfare within the ruling Labour party over whether the unpopular premier should step down following disastrous local polls.",
-      "url": "https://www.france24.com/en/video/20260513-replay-king-charles-lays-out-starmer-s-agenda-as-pm-fights-for-survival",
-      "published": "Wed, 13 May 2026 13:23:50 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 REPLAY: King Charles lays out Starmer's agenda as PM fights for survival"
     },
     {
       "title": "Trump v Xi: Who will win the battle of the superpowers in Beijing?",
@@ -1395,6 +1395,20 @@
       "ticker_label": "🪖 How Americans see China now"
     },
     {
+      "title": "Russia unleashes fatal barrage of drones at Ukraine",
+      "description": "At least six people have died in Ukraine, after Russia launched hundreds of drones as far as Ukraine's western regions bordering NATO.",
+      "url": "https://www.dw.com/en/russia-unleashes-fatal-barrage-of-drones-at-ukraine/a-77152246?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 13 May 2026 16:13:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Russia unleashes fatal barrage of drones at Ukraine"
+    },
+    {
       "title": "Trump arrives in China ahead of summit with Xi Jinping",
       "description": "During high-stakes talks with China's leader, US President Donald Trump is expected to address the Iran war, trade and Taiwan. Trump posted while en route that he wants China to \"open up\" to US business. Follow DW.",
       "url": "https://www.dw.com/en/trump-arrives-in-china-ahead-of-summit-with-xi-jinping/live-77140304?maca=en-rss-en-all-1573-xml-mrss",
@@ -1423,10 +1437,10 @@
       "ticker_label": "🪖 Indians growing anxious as Modi asks them to cut on fuel"
     },
     {
-      "title": "Xi-Trump summit: The humble soybean at the heart of a trade dispute between the US and China",
-      "description": "It’s not just rare earths and AI. The humble soybean is also at the heart of a trade dispute between the US and China. For decades the US was China’s preferred source of soy – buying billions of dollars worth in 2024. But when Washington launched a trade war on China, Beijing stopped buying US soy altogether. Since last October’s truce between Xi Jinping and Donald Trump, China has started to buy the bean again. But how long will this relationship last ?",
-      "url": "https://www.france24.com/en/video/20260513-xi-trump-summit-the-humble-soybean-at-the-heart-of-a-trade-dispute-between-the-us-and-china",
-      "published": "Wed, 13 May 2026 13:27:15 GMT",
+      "title": "Trump arrives in China for historic trip",
+      "description": "US President Donald #Trump has arrived in Beijing for highly anticipated talks with his Chinese counterpart #Xi Jinping. The two leaders are expected to discuss the #Iran war, trade and #US arms sales to #Taiwan. The visit to #China is the first from a US leader since 2017.",
+      "url": "https://www.france24.com/en/video/20260513-trump-arrives-in-china-for-historic-trip",
+      "published": "Wed, 13 May 2026 15:30:37 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1434,7 +1448,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Xi-Trump summit: The humble soybean at the heart of a trade dispute between the US and China"
+      "ticker_label": "🪖 Trump arrives in China for historic trip"
     },
     {
       "title": "Some Japanese snack packages are turning black-and-white as Iran war depletes ink supply",
@@ -1609,17 +1623,6 @@
       "is_ticker": false
     },
     {
-      "title": "French woman battling 'severe' hantavirus as outbreak grows to 11",
-      "description": "A French woman repatriated from a cruise ship struck by hantavirus was Tuesday in intensive care on a ventilator battling a severe case of the rare disease, a doctor said. The woman, one of five French passengers flown back from the MV Hondius and placed in isolation in Paris, started to feel very unwell on Sunday night and tested positive. FRANCE 24's Antonia Kerrigan reports from Paris's Bichat hospital.",
-      "url": "https://www.france24.com/en/video/20260513-french-woman-battling-severe-hantavirus-as-outbreak-grows-to-11",
-      "published": "Wed, 13 May 2026 13:22:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1689,7 +1692,7 @@
       "title": "More than 1,000 passengers held on cruise after gastrointestinal illness outbreak",
       "description": "The ship, which set sail from Belfast on Friday, is at port in Bordeaux after 49 people fell ill from gastrointestinal illness.",
       "url": "https://www.bbc.com/news/articles/cn5pe4yel1ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 12:53:05 GMT",
+      "published": "Wed, 13 May 2026 16:43:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1769,33 +1772,8 @@
       "is_ticker": false
     },
     {
-      "title": "Sarkozy appeal trial: Prosecution wrapping case ahead of sentencing request",
-      "description": "Almost two months after the start of the appeal trial concerning allegations of Libyan funding of Nicolas Sarkozy’s 2007 presidential campaign, the prosecution takes the floor to present its closing arguments. Sarkozy, 71, has faced a raft of accusations since leaving office after a single term from 2007 to 2012. He has denied all allegations in all cases. FRANCE 24's Olivia Bizot reports.",
-      "url": "https://www.france24.com/en/video/20260513-sarkozy-appeal-trial-prosecution-wrapping-case-ahead-of-sentencing-request",
-      "published": "Wed, 13 May 2026 13:21:06 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Sarkozy appeal trial: Prosecution wrapping case ahead of sentencing request"
-    },
-    {
-      "title": "Israel and favorite Finland advance to the Eurovision final",
-      "description": "Ten countries including favorite Finland and contentious competitor Israel won places Tuesday in the Eurovision Song Contest final, while five nations were sent home after the first day of competition in the pop music extravaganza. But divisions are clouding the contest’s 70th anniversary edition, with five countries — Spain, Ireland, the Netherlands, Slovenia and Iceland — boycotting to protest Israel’s inclusion.",
-      "url": "https://www.france24.com/en/video/20260513-israel-and-favorite-finland-advance-to-the-eurovision-final",
-      "published": "Wed, 13 May 2026 12:25:31 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Passengers banned from leaving British cruise ship over likely stomach flu outbreak",
-      "description": "Over 1,700 passengers and crew members have been ordered not to leave their cruise ship while French health officials carry out tests after a likely stomach flu outbreak onboard.",
+      "title": "More than 1,700 passengers banned from leaving British cruise ship over likely stomach flu outbreak",
+      "description": "More than 1,700 passengers and crew members have been ordered not to leave their cruise ship while French health officials carry out tests after a likely stomach flu outbreak onboard.",
       "url": "https://news.sky.com/story/over-1000-passengers-banned-from-leaving-british-cruise-ship-docked-in-france-over-likely-stomach-flu-outbreak-13543587",
       "published": "Wed, 13 May 2026 14:38:00 +0100",
       "source": "Sky News World",
@@ -1857,6 +1835,17 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Les Simpson: Québécois version of show to return on air after uncertainty",
+      "description": "Beloved animated series will return for 36th season in the fall after telecoms giant Bell Media reaches deal with Disney Fans of Les Simpson have a message for anyone who doubted the future of the beloved and long-running Québécois version of the animated satirical show: Mange de la crotte. Les Simpson will return for its 36th season in the fall after telecoms giant Bell Media said it had reached an agreement with Disney for the rights to air and dub the show. The deal caps nearly a year of uncertainty surrounding the adaptation, which is beloved in Canada’s lone francophone province. Continue reading...",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/may/13/les-simpson-quebecois-show-returns",
+      "published": "Wed, 13 May 2026 15:54:48 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1951,6 +1940,31 @@
       "is_ticker": false
     },
     {
+      "title": "UK PM Starmer clings on as leadership talk overshadows king's speech",
+      "description": "The pomp of a speech by King Charles III to Britain's parliament Wednesday failed to quell speculation that a senior government minister is poised to launch a leadership challenge against embattled Prime Minister Keir Starmer. The monarch's address opening a new parliamentary session was overshadowed by reports that allies of Health Secretary Wes Streeting had said he was preparing to resign to trigger a contest to oust Starmer from office.",
+      "url": "https://www.france24.com/en/video/20260513-uk-pm-starmer-clings-on-as-leadership-talk-overshadows-king-s-speech",
+      "published": "Wed, 13 May 2026 15:23:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Prosecutors demand 7-year sentence for Sarkozy in Libya financing case",
+      "description": "French prosecutors on Wednesday requested a seven-year prison sentence for former president Nicolas Sarkozy in an appeal trial on charges that he sought Libyan financing for his 2007 election. Sarkozy, France's right-wing leader from 2007 to 2012, has always denied any wrongdoing but last year became modern France's first former president to have gone to jail over the case, before he was released after 20 days pending his appeal trial. FRANCE 24's Olivia Bizot reports from the courthouse in Paris.",
+      "url": "https://www.france24.com/en/video/20260513-prosecutors-demand-7-year-sentence-for-sarkozy-in-libya-financing-case",
+      "published": "Wed, 13 May 2026 15:22:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Prosecutors demand 7-year sentence for Sarkozy in Libya financing case"
+    },
+    {
       "title": "27 cruise ship workers deported after CBP discovered trove of child pornography",
       "description": "CBP says it deported 27 cruise ship workers allegedly linked to child pornography, with at least 10 reportedly employed by Disney Wonder cruise lines.",
       "url": "https://www.foxnews.com/us/27-cruise-ship-workers-deported-cbp-discovered-trove-child-pornography",
@@ -1958,6 +1972,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "LIVE: Manchester City vs Crystal Palace – Premier League",
+      "description": "Follow our live build-up with full team news coverage ahead of our text commentary stream.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/5/13/live-manchester-city-vs-crystal-palace-premier-league-football?traffic_source=rss",
+      "published": "Wed, 13 May 2026 15:33:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2020,7 +2045,7 @@
       "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
       "description": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh.",
       "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 15:20:58 GMT",
+      "published": "Wed, 13 May 2026 15:36:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2105,11 +2130,33 @@
       "is_ticker": false
     },
     {
-      "title": "Thief jailed after stealing unreleased Beyoncé music from car",
-      "description": "The man smashed into a car and stole luggage containing hard drives with the singer's tracks.",
-      "url": "https://www.bbc.com/news/articles/cx213vnvxvwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 13 May 2026 00:01:04 GMT",
-      "source": "BBC News",
+      "title": "Is the Pentagon’s UFO dump a political distraction?",
+      "description": "After Department of Defense released files relating to UFOs, the internet combs through what is real and what isn’t.",
+      "url": "https://www.aljazeera.com/video/the-take-2/2026/5/13/aje-onl-tt_usa_ufos_full_v2-120526?traffic_source=rss",
+      "published": "Wed, 13 May 2026 16:14:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "India’s salt workers brave brutal heat on Gujarat’s desert plains",
+      "description": "Gujarat accounts for 75% of India’s output of salt, produced under punishing conditions by tens of thousands of workers.",
+      "url": "https://www.aljazeera.com/gallery/2026/5/13/indias-salt-workers-endure-brutal-heat-in-gujarats-remote-desert?traffic_source=rss",
+      "published": "Wed, 13 May 2026 16:05:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Reform UK leader Farage faces parliamentary probe over nearly $7m gift",
+      "description": "If found guilty, the right-wing populist could be suspended from the House ⁠of Commons for a period of time.",
+      "url": "https://www.aljazeera.com/news/2026/5/13/reform-uk-leader-farage-faces-parliamentary-investigation-over-7m-gift?traffic_source=rss",
+      "published": "Wed, 13 May 2026 15:40:47 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2167,28 +2214,6 @@
       "description": "Support from Washington is conditional on clear progress in curbing pro-Iran militia activity.",
       "url": "https://www.aljazeera.com/opinions/2026/5/13/why-trump-decided-to-back-iraqs-prime-minister-designate-ali-al-zaidi?traffic_source=rss",
       "published": "Wed, 13 May 2026 12:59:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
-      "description": "Trump faces mounting pressure amid stalled Iran peace talks as domestic discontent grows and geopolitical stakes rise.",
-      "url": "https://www.aljazeera.com/news/2026/5/13/trump-faces-slew-of-bad-options-on-iran-as-diplomacy-falters?traffic_source=rss",
-      "published": "Wed, 13 May 2026 11:42:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-      "description": "Israel bulldozes Palestinian shops to make way for settlement-linked road",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/13/israel-bulldozes-palestinian-shops-to-make-way-for-settlement-linked-road?traffic_source=rss",
-      "published": "Wed, 13 May 2026 11:03:45 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2317,17 +2342,6 @@
       "is_ticker": false
     },
     {
-      "title": "Six people found dead inside train car at rail yard near Texas-Mexico border",
-      "description": "Discovery was made by Union Pacific employee inspecting stopped train at the yard in Laredo before it continued its journey north Sign up for the Breaking News US newsletter email Rail workers in Texas found six people dead inside a boxcar at a yard close to the Mexican border on Sunday afternoon, officials said. The discovery was made by a Union Pacific employee inspecting the stopped train at the yard in Laredo before it continued its journey north, a spokesperson for the Laredo police department said, citing the railroad freight company. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/may/11/six-people-found-dead-train-car-texas-mexico-border",
-      "published": "Mon, 11 May 2026 14:27:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Why budget rhetoric won’t match reality for many younger Australians",
       "description": "Figures show the treasurer’s reforms will make the tax system fairer but some will not have the advantages enjoyed by their parents As Jim Chalmers was doing the round of the parliamentary press gallery on Tuesday, he was encouraging journalists to see the tax reforms in the budget as the most ambitious since the turn of the century. The core of the tax package is that instead of paying tax on just half of profits on the sale of investments held for more than a year, we will return to the pre-1999 version where investors would get a discount based on inflation. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/13/why-budget-rhetoric-wont-match-reality-for-many-younger-australians",
@@ -2433,11 +2447,36 @@
       "ticker_label": "💥 OpenAI boss Sam Altman says Musk wanted control of company"
     },
     {
-      "title": "Canvas owner secures student data in deal with hacking group",
-      "description": "The ShinyHunters hacking group stole student data from the popular education platform Canvas last week. Parent company Instructure apologized for the hack and said Canvas \"remains safe to use.\"",
-      "url": "https://www.dw.com/en/canvas-owner-secures-student-data-in-deal-with-hacking-group/a-77138028?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 12 May 2026 19:23:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Why is the UK’s Prime Minister Keir Starmer so unpopular?",
+      "description": "This week British Prime Minister Keir Starmer has been fighting for his political survival as more than 80 members of his own party have asked him to step down, and recent polls show him to be Britain’s most unpopular leader on record. Just two years ago Starmer entered Downing Steet after winning a landslide victory – where did it all go wrong?",
+      "url": "https://www.france24.com/en/europe/20260513-why-is-the-uk-embattled-prime-minister-keir-starmer-so-unpopular",
+      "published": "Wed, 13 May 2026 16:29:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Why is the UK’s Prime Minister Keir Starmer so unpopular?"
+    },
+    {
+      "title": "Cannes 2026: Park Chan-wook and Demi Moore ready to judge festival contenders",
+      "description": "It's Day 1 of the annual cinematic marathon for the Cannes jury weighing up the features in competition for the Palme d'Or, with 22 films to consider. Critic Emma Jones tells us more about the members of director Park Chan-wook's jury, and we discuss the first two competition screenings: \"Nagi Notes\" and \"A Woman's Life\", as well as the hotly anticipated features from Asghar Farhadi, Pedro Almodovar and Cristian Mungiu.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260513-cannes-2026-park-chan-wook-and-demi-moore-ready-to-judge-festival-contenders",
+      "published": "Wed, 13 May 2026 15:36:41 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Cannes opens with strong Asian presence and 'Fast and Furious' nostalgia",
+      "description": "It's time for the Cannes Film Festival jury to begin weighing up the 22 films competing for the Palme d'Or. FRANCE 24 film critic Emma Jones is on the French Riviera to walk us through the main themes emerging from this year's competition. The official selection boasts a strong Asian presence, with one South Korean film in competition and three Japanese features, including Hirokazu Kore-eda’s \"Sheep in the Box\".",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260513-cannes-opens-with-strong-asian-presence-and-fast-and-furious-nostalgia",
+      "published": "Wed, 13 May 2026 15:22:09 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2448,39 +2487,6 @@
       "description": "No description available.",
       "url": "https://www.france24.com/en/france/20260513-prosecutors-to-announce-sentences-sought-for-sarkozy-in-libya-appeal-trial",
       "published": "Wed, 13 May 2026 14:35:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Who walks the red carpet at Cannes?",
-      "description": "🎞️ Who really walks the steps at Cannes Film Festival?Not just the stars and not on the same carpet! 🚕Celebrities arrive by car, guests on foot, and badges decide everything. At Cannes, even the red carpet has a hierarchy.",
-      "url": "https://www.france24.com/en/who-walks-the-red-carpet-at-cannes",
-      "published": "Wed, 13 May 2026 13:20:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hantavirus: US cruiseship passenger gives quarantine room tour",
-      "description": "Jake Rosmarin is one of the 18 #MVHondius passengers who have been repatriated to the US to be monitored, in case they test positive for #hantavirus. His time in quarantine could last up to 42-days, as the #virus can have an incubation period of up to eight weeks.",
-      "url": "https://www.france24.com/en/video/20260513-hantavirus-us-cruiseship-passenger-gives-quarantine-room-tour",
-      "published": "Wed, 13 May 2026 12:58:46 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Who holds the cards at the Trump-Xi summit in Beijing?",
-      "description": "US President Donald Trump arrived in Beijing on Wednesday for his first visit to China since 2017. The stakes are high for the two-day summit, which analysts suggest could mark a tipping point in the relationship between the superpowers – likely in Chinese President Xi Jinping’s favour.",
-      "url": "https://www.france24.com/en/asia-pacific/20260513-who-holds-the-cards-at-the-trump-xi-beijing-summit",
-      "published": "Wed, 13 May 2026 12:30:11 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
