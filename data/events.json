@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T18:53:34.182188Z",
+  "last_updated": "2026-05-16T19:30:13.968029Z",
   "event_count": 222,
   "events": [
     {
@@ -174,6 +174,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest"
+    },
+    {
+      "title": "Firefighter killed in massive lumber mill explosion in Maine; at least 10 injured",
+      "description": "A lumber mill explosion in Searsmont, Maine, on Friday left one firefighter dead and injured several others, as officials investigate cause of massive fire.",
+      "url": "https://www.foxnews.com/us/maine-governor-urges-residents-stay-clear-fiery-lumber-mill-explosion-searsmont",
+      "published": "Fri, 15 May 2026 14:22:02 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages",
@@ -382,15 +393,18 @@
       "is_ticker": false
     },
     {
-      "title": "Maine governor travels to fiery lumber mill explosion in Searsmont, at least 11 injured",
-      "description": "Maine Gov. Janet Mills says she has been briefed on the lumber mill explosion in Searsmont, Maine, urging residents to stay clear of the area.",
-      "url": "https://www.foxnews.com/us/maine-governor-urges-residents-stay-clear-fiery-lumber-mill-explosion-searsmont",
-      "published": "Fri, 15 May 2026 14:22:02 -0400",
-      "source": "Fox News US",
+      "title": "Warning of record global temperatures",
+      "description": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 14 May 2026 15:29:02 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 21,
+      "severity_score": 20,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Warning of record global temperatures"
     },
     {
       "title": "Australia: Man dies after shark attack off holiday island",
@@ -580,20 +594,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pakistan faces pressure over mediator role in Iran war",
-      "description": "With Pakistan stepping in the middle of a major geopolitical conflict, Islamabad is forced to balance between Washington, Tehran, Beijing and key Gulf allies. A recent US media report places it under even more scrutiny.",
-      "url": "https://www.dw.com/en/pakistan-faces-pressure-over-mediator-role-in-iran-war/a-77174786?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 15 May 2026 14:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Pakistan faces pressure over mediator role in Iran war"
-    },
-    {
       "title": "Nigeria police detain 3 suspects in a rare school attack in the south of the country",
       "description": "Police in Nigeria say they have detained three gunmen who allegedly stormed into two primary schools in a rare attack in the southwest of the country",
       "url": "https://abcnews.com/International/wireStory/nigeria-police-detain-3-suspects-rare-school-attack-133031087",
@@ -739,6 +739,17 @@
       "is_ticker": false
     },
     {
+      "title": "Spanish Foreign Minister on Spain’s clash with the Trump administration",
+      "description": "Jose Manuel Albares speaks to Redi Tlhabi about Spain’s commitment to international law and relations with the US.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/spanish-foreign-minister-on-spains-clash-with-the-trump-administration?traffic_source=rss",
+      "published": "Sat, 16 May 2026 18:41:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "DRC health minister warns ‘very high’ Ebola lethality rate as toll hits 80",
       "description": "Africa CDC concerned that outbreak of Bundibugyo strain could spread rapidly due to intense population movement.",
       "url": "https://www.aljazeera.com/news/2026/5/16/drc-health-minister-warns-very-high-ebola-lethality-rate-as-toll-hits-80?traffic_source=rss",
@@ -826,17 +837,6 @@
       "description": "Mexico’s teachers are threatening to disrupt next month’s 2026 FIFA World Cup if their demands for higher pay.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/mexico-teachers-threaten-world-cup-disruption-over-pay?traffic_source=rss",
       "published": "Sat, 16 May 2026 13:01:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel’s Image Crisis: Becoming Too Big to Spin?",
-      "description": "Israel has never spent more on its national propaganda campaigns.",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss",
-      "published": "Sat, 16 May 2026 11:24:43 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
@@ -1270,6 +1270,17 @@
       "is_ticker": false
     },
     {
+      "title": "Man drives car into pedestrians in Italy, injuring eight",
+      "description": "Seven people were injured, two seriously, before passers-by gave chase and stopped the man.",
+      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 16 May 2026 18:21:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
       "description": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
       "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
@@ -1314,6 +1325,17 @@
       "url": "https://www.bbc.com/news/articles/c78qzpg0n0go?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 15 May 2026 23:04:41 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Francesca Albanese on Israeli sexual violence suffered by Palestinians",
+      "description": "Francesca Albanese speaks to Redi Tlhabi about sexual violence suffered by Palestinians at the hands of Israeli forces.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/5/16/francesca-albanese-on-israeli-sexual-violence-suffered-by-palestinians?traffic_source=rss",
+      "published": "Sat, 16 May 2026 18:46:54 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1572,6 +1594,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germany gets ahead in the new space race",
+      "description": "German companies of all sizes and all over the country are developing satellites and space applications. They want to be part of the lucrative industry, which is increasingly crucial for civilian and military purposes.",
+      "url": "https://www.dw.com/en/germany-gets-ahead-in-the-new-space-race/a-77177359?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 16 May 2026 19:25:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Middle East updates: Big crowds at Nakba Day rally in London",
       "description": "Big crowds have gathered in London to mark Nakba Day. Meanwhile, Iran's state TV reports that European countries are discussing the safe transit of ships through the Strait of Hormuz.",
       "url": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-xml-mrss",
@@ -1663,17 +1696,6 @@
       "is_ticker": false
     },
     {
-      "title": "Democratic governor under fire over clemency for 2020 election denier",
-      "description": "Tina Peters, a Republican former county clerk, is serving a nine-year sentence for tampering with election equipment.",
-      "url": "https://www.bbc.com/news/articles/c0l2kln7dzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 16:32:48 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "From misfit to rap sensation: A 'Reble' storms into Indian hip-hop",
       "description": "Reble has emerged as one of hip-hop’s most distinctive new voices, channelling defiance into a sound rooted in India’s northeast.",
       "url": "https://www.bbc.com/news/articles/c4g0z40xwx7o?at_medium=RSS&at_campaign=rss",
@@ -1719,20 +1741,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Robert Lewandowski to leave Barcelona with his ‘mission complete’",
-      "description": "Veteran Polish striker helped Barca to three La Liga titles, including this season's trophy, and the 2025 Copa del Rey.",
-      "url": "https://www.aljazeera.com/sports/2026/5/16/robert-lewandowski-to-leave-barcelona-with-his-mission-complete?traffic_source=rss",
-      "published": "Sat, 16 May 2026 12:02:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Robert Lewandowski to leave Barcelona with his ‘mission complete’"
     },
     {
       "title": "The Eurovision Song Contest reaches its grand final with pop and protests",
@@ -2005,21 +2013,10 @@
       "is_ticker": false
     },
     {
-      "title": "Palestinian leaders hold rare party meeting as polls show rising discontent",
-      "description": "The Fatah faction elects top decision makers, but ordinary Palestinians feel the party and its leader are out of touch.",
-      "url": "https://www.bbc.com/news/articles/clyp1lnp4ygo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 15 May 2026 23:05:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Judge declares another mistrial in Harvey Weinstein New York rape case",
-      "description": "It marks the third time a New York jury has considered the case against the 74-year-old disgraced film mogul.",
-      "url": "https://www.bbc.com/news/articles/c152lexw1vxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 01:32:47 GMT",
+      "title": "Watch: What did we learn from Trump's visit to China?",
+      "description": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 15 May 2026 13:25:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
