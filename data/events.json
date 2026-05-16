@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-16T09:07:47.005212Z",
+  "last_updated": "2026-05-16T10:01:35.679513Z",
   "event_count": 222,
   "events": [
     {
@@ -73,7 +73,7 @@
       "title": "Senior IS leader killed by US and Nigerian forces",
       "description": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 08:45:09 GMT",
+      "published": "Sat, 16 May 2026 09:22:49 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 36,
@@ -96,20 +96,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump says ISIL second-in-command Abu-Bilal al-Minuki killed"
-    },
-    {
-      "title": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
-      "description": "Lebanon's Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-      "published": "Sat, 16 May 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended"
     },
     {
       "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
@@ -135,20 +121,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba"
-    },
-    {
-      "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
-      "description": "Mounting waste and limited access to sanitation sites are deepening health risks for families across Gaza, as humanitarian workers warn that overcrowded dumping areas and worsening living conditions threaten vulnerable communities.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
-      "published": "Wed, 13 May 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine"
     },
     {
       "title": "Where is Dela Rosa? Philippine senator outmanoeuvres president in evading arrest",
@@ -322,6 +294,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israel says it has killed Hamas commander in Gaza air strike"
+    },
+    {
+      "title": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
+      "description": "Iranian FM's warning comes as Israel continues to attack Lebanon, hours after agreeing to a 45-day ceasefire extension.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "published": "Sat, 16 May 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war live: Tehran warns more economic woes for US over ‘war of choice’"
     },
     {
       "title": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
@@ -678,15 +664,18 @@
       "is_ticker": false
     },
     {
-      "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
-      "description": "Three women and a child among civilians killed in Israel's latest attacks on Gaza City.",
-      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
-      "published": "Fri, 15 May 2026 21:05:22 +0000",
-      "source": "Al Jazeera",
+      "title": "Middle East war live: Israel strikes southern Lebanon hours after ceasefire extension",
+      "description": "Israel launched new air strikes against Hezbollah in southern Lebanon on Saturday, hours after the two countries agreed to extend a truce following talks in the US. The April 17 ceasefire, which did not end Israeli strikes in Lebanese territory, will be extended for 45 days, said the US. Follow our live coverage for all the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire",
+      "published": "Sat, 16 May 2026 05:01:39 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Middle East war live: Israel strikes southern Lebanon hours after ceasefire extension"
     },
     {
       "title": "World Cup could see dangerous heat and humidity, experts warn",
@@ -787,6 +776,20 @@
       "ticker_label": "🪖 War worsens Lebanon's economic crisis with job losses, price gouging and slow business"
     },
     {
+      "title": "As war displaces millions in DR Congo, new schools offer children hope beyond violence",
+      "description": "Ten-year-old Shadrac Anyazaka does not hesitate when asked about his future. “After finishing my studies, I would like to become President of the Republic one day,” he tells visitors to his school in eastern Democratic Republic of the Congo (DRC).",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167527",
+      "published": "Fri, 15 May 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 As war displaces millions in DR Congo, new schools offer children hope beyond violence"
+    },
+    {
       "title": "Somalia at ‘real risk of famine’ as Middle East war fallout continues",
       "description": "At least six million people in Somalia are going days without enough food, UN aid teams warned on Friday, highlighting that nearly two million of this number are young children “at high risk of illness or death”.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167516",
@@ -813,17 +816,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian attacks on Ukrainian civilians are a clear violation of humanitarian law, says senior UN official"
-    },
-    {
-      "title": "What are World Cup 2026 national team base camps and their locations?",
-      "description": "Training and accommodation locations for Argentina, Portugal, Spain, Brazil, England, Iran and other World Cup teams.",
-      "url": "https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss",
-      "published": "Fri, 15 May 2026 21:07:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -873,6 +865,20 @@
       "ticker_label": "🪖 Israel launches deadly air strikes on Gaza City apartment building"
     },
     {
+      "title": "Putin to hold taks with Xi in China days after Trump’s trip to Beijing",
+      "description": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping during a two-day trip to Beijing next week, the Kremlin said Saturday. The meeting comes days after US President Donald Trump's state visit to China, which ended with warm diplomatic optics but few resolutions to key trade and geopolitical issues, including the Russian war on Ukraine and the US-Israeli war on Iran.",
+      "url": "https://www.france24.com/en/asia-pacific/20260516-putin-to-hold-taks-with-xi-in-china-days-after-trump-s-trip-to-beijing",
+      "published": "Sat, 16 May 2026 09:33:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Putin to hold taks with Xi in China days after Trump’s trip to Beijing"
+    },
+    {
       "title": "US and Nigerian forces 'eliminate' IS group senior leader in joint mission",
       "description": "Nigeria's President Bola Tinubu on Saturday confirmed President Donald Trump's announcement that US and Nigerian forces killed a senior Islamic State (IS) group senior leader in a joint mission in the West African nation.",
       "url": "https://www.france24.com/en/africa/20260516-us-and-nigerian-forces-eliminate-is-group-senior-leader-in-joint-mission",
@@ -909,20 +915,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ebola outbreak confirmed in DR Congo, Uganda: African health agency",
-      "description": "A new outbreak of the infectious Ebola virus has killed dozens of people in a remote part of Congo, according to the Africa CDC health authority. Neighboring Uganda later said one person had died in an \"imported\" case.",
-      "url": "https://www.dw.com/en/ebola-outbreak-confirmed-in-dr-congo-uganda-african-health-agency/a-77166606?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 15 May 2026 08:12:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Ebola outbreak confirmed in DR Congo, Uganda: African health agency"
-    },
-    {
       "title": "Ukraine vows retribution after Russian strike on housing block kills 24",
       "description": "President Volodymyr Zelenskiy promised retribution against Russia on Friday after laying red roses at the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people, including three children.",
       "url": "https://www.france24.com/en/ukraine-vows-retribution-after-russian-strike-on-housing-block-kills-24",
@@ -935,20 +927,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine vows retribution after Russian strike on housing block kills 24"
-    },
-    {
-      "title": "Middle East war live: Israel, Lebanon extend shaky ceasefire",
-      "description": "Israel and Lebanon have agreed to extend a ceasefire, which was set to expire Sunday, and to hold expanded talks on a political settlement, the US announced after two days of talks in Washington. The April 17 ceasefire, which did not end fighting between Israel and Hezbollah, will be extended for 45 days, said the US. Follow our live coverage for all the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire",
-      "published": "Sat, 16 May 2026 05:01:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Middle East war live: Israel, Lebanon extend shaky ceasefire"
     },
     {
       "title": "Trump & Xi, Carry on Westminster, the french pivot",
@@ -1063,6 +1041,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Canada is welcome to join Eurovision, says song contest director"
+    },
+    {
+      "title": "China, US, Israel compete in fast-growing laser weapons race",
+      "description": "More Gulf states are turning to laser weapons to combat drones in the Iran war. Israel even loaned the UAE theirs. But do they actually work?",
+      "url": "https://www.dw.com/en/china-us-israel-compete-in-fast-growing-laser-weapons-race/a-77174766?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 16 May 2026 09:13:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 China, US, Israel compete in fast-growing laser weapons race"
     },
     {
       "title": "Andreas Rettig: 'You can't separate sports and politics'",
@@ -1184,17 +1176,6 @@
       "is_ticker": false
     },
     {
-      "title": "Clashes erupt in Bolivia as miners set off dynamite and police fire tear gas",
-      "description": "Clashes have erupted in Bolivia's capital as police use tear gas to disperse miners trying to breach the government palace",
-      "url": "https://abcnews.com/International/wireStory/clashes-erupt-bolivia-miners-set-off-dynamite-police-132979678",
-      "published": "Thu, 14 May 2026 18:58:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report",
       "description": "UKMTO reports a ship was boarded by unauthorized personnel near the Strait of Hormuz off the UAE coast and headed toward Iranian territorial waters.",
       "url": "https://www.foxnews.com/world/ship-seized-coast-uae-near-strait-hormuz-may-floating-armory-report",
@@ -1247,28 +1228,6 @@
       "url": "https://www.npr.org/2026/05/15/nx-s1-5823435/world-cup-official-song-shakira-burna-boy",
       "published": "Fri, 15 May 2026 15:22:21 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "'FIFA got greedy' ― Why football fans in India may not be able to watch World Cup games on TV this year",
-      "description": "The 2026 World Cup is weeks away, but one of the most populated countries in the world doesn't have a broadcasting deal. Why?",
-      "url": "https://www.dw.com/en/fifa-got-greedy-―-why-football-fans-in-india-may-not-be-able-to-watch-world-cup-games-on-tv-this-year/a-77131796?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 15 May 2026 09:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "A test for Ukraine, a dilemma for Zelensky: What's at stake in the Andriy Yermak corruption probe",
-      "description": "The arrest of Ukraine President Volodymyr Zelensky’s former right-hand man Andriy Yermak Thursday in connection to a corruption scandal comes as a major test for both the Ukrainian government and the country's independent anti-corruption agencies. Yermak is accused of laundering 460 million hryvnia (more than $10 million) in dirty money through an elite real estate project outside of Kyiv – and of having used a secret phone to consult an astrologer on key government appointments.",
-      "url": "https://www.france24.com/en/europe/20260515-test-for-ukraine-dilemma-zelensky-what-stake-andriy-yermak-corruption-probe",
-      "published": "Fri, 15 May 2026 17:27:15 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1394,6 +1353,20 @@
       "is_ticker": false
     },
     {
+      "title": "Taiwan urges Trump to advance arms deal after China summit",
+      "description": "Taiwan reminded the US of its commitment to provide it with arms after the US president warned the democratic, self-governing island against formally declaring independence in the wake of his summit with China's Xi.",
+      "url": "https://www.dw.com/en/taiwan-urges-trump-to-advance-arms-deal-after-china-summit/a-77178649?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 16 May 2026 09:22:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Taiwan urges Trump to advance arms deal after China summit"
+    },
+    {
       "title": "US-China summit exposes Trump's limits on Iran war, Taiwan",
       "description": "Donald Trump hopes to have China help him end the war in Iran, but this goal seemed far from guaranteed as he wrapped up his two-day visit to Beijing. Xi Jinping, in turn, took the chance to warn the US over Taiwan.",
       "url": "https://www.dw.com/en/us-china-summit-exposes-trump-s-limits-on-iran-war-taiwan/a-77171942?maca=en-rss-en-all-1573-xml-mrss",
@@ -1406,20 +1379,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US-China summit exposes Trump's limits on Iran war, Taiwan"
-    },
-    {
-      "title": "India hikes petrol, diesel prices as economic woes from Iran war mount",
-      "description": "For the first time in four years, Indian fuel retailers have increased the prices of petrol and diesel. Analysts warn this could be the first of many hikes.",
-      "url": "https://www.dw.com/en/india-hikes-petrol-diesel-prices-as-economic-woes-from-iran-war-mount/a-77166898?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 15 May 2026 08:47:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 India hikes petrol, diesel prices as economic woes from Iran war mount"
     },
     {
       "title": "UK leadership crisis deepens: Starmer faces growing calls to step down",
@@ -1484,6 +1443,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran war energy shock drives interest in ethanol and other biofuels across hard-hit Asia"
+    },
+    {
+      "title": "Remains of 2nd US soldier missing in Morocco recovered",
+      "description": "The U.S. military says the remains of the second U.S. Army soldier who went missing during military exercises in Morocco have been recovered",
+      "url": "https://abcnews.com/International/wireStory/remains-2nd-us-soldier-missing-military-exercises-morocco-132938261",
+      "published": "Wed, 13 May 2026 19:16:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Gaza reconstruction envisages building ‘islands’ out of rubble",
@@ -1641,22 +1611,25 @@
       "is_ticker": false
     },
     {
+      "title": "US: New York's Long Island railway workers go on strike",
+      "description": "Nearly 300,000 passengers rely on the LIRR daily to travel between New York City, its boroughs and suburban Long Island.",
+      "url": "https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 16 May 2026 09:33:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US: New York's Long Island railway workers go on strike"
+    },
+    {
       "title": "Germany news: Nearly half the country wants governing conservative coalition out",
       "description": "A survey has shown that just 30% of people in Germany want the coalition government to continue. Meanwhile, pro-Palestinian demonstrators are to hold a march in Berlin to mark Nakba Day. DW has more.",
       "url": "https://www.dw.com/en/germany-news-nearly-half-the-country-wants-governing-conservative-coalition-out/live-77178633?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 16 May 2026 08:57:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "They got banned: Cannes’ most controversial figures",
-      "description": "From shocking statements to red carpet bans… Cannes has never been just about cinema. Lars von Trier, Harvey Weinstein, Roman Polanski… FRANCE 24’s Stella Elgersma looks back at the scandals that marked the Festival 🎬",
-      "url": "https://www.france24.com/en/they-got-banned-cannes-most-controversial-figures",
-      "published": "Fri, 15 May 2026 17:37:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1674,10 +1647,10 @@
       "is_ticker": false
     },
     {
-      "title": "Belarus authoritarian leader welcomes US evangelist Franklin Graham to hold massive gathering",
-      "description": "Belarus’ authoritarian leader has greeted U.S. evangelist Franklin Graham, who arrived in the tightly controlled country to hold the largest evangelical gathering in its history",
-      "url": "https://abcnews.com/International/wireStory/belarus-authoritarian-leader-welcomes-us-evangelist-franklin-graham-133003759",
-      "published": "Fri, 15 May 2026 11:39:04 -0400",
+      "title": "Latin American nationals deported by the US to Congo face an uncertain future",
+      "description": "Fifteen people deported from the U.S. to Congo under the Trump administration's policy face difficult conditions",
+      "url": "https://abcnews.com/International/wireStory/latin-american-nationals-deported-us-congo-face-uncertain-132999774",
+      "published": "Fri, 15 May 2026 10:50:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1696,10 +1669,10 @@
       "is_ticker": false
     },
     {
-      "title": "Latin American nationals deported by the US to Congo face an uncertain future",
-      "description": "Fifteen people deported from the U.S. to Congo under the Trump administration's policy face difficult conditions",
-      "url": "https://abcnews.com/International/wireStory/latin-american-nationals-deported-us-congo-face-uncertain-132999774",
-      "published": "Fri, 15 May 2026 10:50:03 -0400",
+      "title": "Belarus authoritarian leader welcomes US evangelist Franklin Graham to hold massive gathering",
+      "description": "Belarus’ authoritarian leader has greeted U.S. evangelist Franklin Graham, who arrived in the tightly controlled country to hold the largest evangelical gathering in its history",
+      "url": "https://abcnews.com/International/wireStory/belarus-authoritarian-leader-welcomes-us-evangelist-franklin-graham-133003759",
+      "published": "Fri, 15 May 2026 11:39:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -2013,6 +1986,42 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
+      "description": "An armed Israeli settler blindfolded and detained a Palestinian man in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israeli-settler-blindfolds-and-detains-palestinian-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sat, 16 May 2026 09:37:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Israeli settler blindfolds and detains Palestinian in occupied West Bank"
+    },
+    {
+      "title": "Britain is losing the ability to tell anti-Semitism from dissent",
+      "description": "The collapse of that distinction protects no one — least of all the Jewish communities it claims to defend.",
+      "url": "https://www.aljazeera.com/opinions/2026/5/16/britain-is-losing-the-ability-to-tell-anti-semitism-from-dissent?traffic_source=rss",
+      "published": "Sat, 16 May 2026 09:06:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "From the Nakba to Gaza’s ruins: One man’s lifetime of displacement",
+      "description": "Nakba survivor in Gaza recounts displacement after 1948 and 2023 and his unwavering attachment to his homeland.",
+      "url": "https://www.aljazeera.com/features/2026/5/16/from-the-nakba-to-gazas-ruins-one-mans-lifetime-of-displacement?traffic_source=rss",
+      "published": "Sat, 16 May 2026 09:05:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Russia’s Putin to visit China following Trump’s trip",
       "description": "Putin and Chinese President Xi Jinping plan to 'further strengthen the comprehensive partnership', the Kremlin says.",
       "url": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
@@ -2105,17 +2114,6 @@
       "description": "Lawyers say new evidence suggests Trump admin 'engineered' outcome of case against pro-Palestine Columbia student.",
       "url": "https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss",
       "published": "Fri, 15 May 2026 21:13:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What did Trump and Xi discuss during the China summit?",
-      "description": "US President Donald Trump concluded a two-day summit in Beijing with Chinese leader Xi Jinping.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
-      "published": "Fri, 15 May 2026 20:43:16 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2426,6 +2424,17 @@
       "is_ticker": false
     },
     {
+      "title": "French judge to probe complaint against Saudi’s MBS over journalist Jamal Khashoggi’s killing",
+      "description": "A French investigative magistrate is set to investigate a complaint filed by rights groups against the Kingdom of Saudi Arabia and its crown prince, Mohammed Bin Salman, also known as MBS, over the 2018 assassination of journalist Jamal Khashoggi in the Saudi consulate in Istanbul, according to a source. The probe comes after years of legal wrangling over the admissibility of the case.",
+      "url": "https://www.france24.com/en/france/20260516-french-judge-to-probe-complaint-against-saudi-s-mbs-over-journalist-jamal-khashoggi-s-killing",
+      "published": "Sat, 16 May 2026 09:07:51 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "'No sign' of China's willingness to pressure Iran after Trump's visit",
       "description": "Reza Sayah has more.",
       "url": "https://www.france24.com/en/no-sign-of-china-s-willingness-to-pressure-iran-after-trump-s-visit",
@@ -2492,54 +2501,10 @@
       "is_ticker": false
     },
     {
-      "title": "Argentina's beef consumption falls to lowest level in 20 years as prices soar",
-      "description": "Argentina’s beef consumption has fallen to its lowest level in two decades as soaring prices and weakening purchasing power push many families to replace beef with cheaper proteins like chicken and pork",
-      "url": "https://abcnews.com/International/wireStory/argentinas-beef-consumption-falls-lowest-level-20-years-133026920",
-      "published": "Sat, 16 May 2026 04:09:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Some see 'King of the North' as UK government's savior. First he needs a seat in Parliament",
-      "description": "Britain’s government is in turmoil, and some see Andy Burnham as the one to save it",
-      "url": "https://abcnews.com/International/wireStory/king-north-uk-governments-savior-seat-parliament-133025774",
-      "published": "Sat, 16 May 2026 00:22:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UK government faces weeks of uncertainty over the prime minister's future",
-      "description": "The British government faces weeks of uncertainty as embattled Prime Minister Keir Starmer prepares for a leadership challenge from the popular mayor of Manchester, Andy Burnham",
-      "url": "https://abcnews.com/International/wireStory/uk-government-faces-weeks-uncertainty-prime-ministers-future-132994036",
-      "published": "Fri, 15 May 2026 06:00:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Indonesia's first giant panda cub, Rio, is growing and healthy before his public debut",
       "description": "The first giant panda born in Indonesia was squirming as veterinarians checked his hearing and eyesight and confirmed the furry cub was growing and healthy",
       "url": "https://abcnews.com/International/wireStory/indonesias-giant-panda-cub-rio-growing-healthy-public-132992902",
       "published": "Fri, 15 May 2026 07:34:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Australia bans a neo-Nazi network under new law that criminalizes hate groups",
-      "description": "Australia says a neo-Nazi network will be the second organization being banned under its new law criminalizing hate groups and support for them",
-      "url": "https://abcnews.com/International/wireStory/australia-bans-neo-nazi-network-new-law-criminalizes-132992621",
-      "published": "Fri, 15 May 2026 04:53:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2558,10 +2523,10 @@
       "is_ticker": false
     },
     {
-      "title": "The Eurovision final lineup is confirmed after 5 more countries are sent packing",
-      "description": "The Eurovision Song Contest final lineup is set after Thursday's second semifinal",
-      "url": "https://abcnews.com/International/wireStory/eurovision-final-lineup-confirmed-after-5-countries-packing-132981330",
-      "published": "Fri, 15 May 2026 08:02:30 -0400",
+      "title": "Putin to visit Chinese leader Xi Jinping days after Trump's trip to Beijing",
+      "description": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping on a two-day trip to Beijing next week, the Kremlin says",
+      "url": "https://abcnews.com/International/wireStory/putin-visit-chinese-leader-xi-jinping-days-after-133027821",
+      "published": "Sat, 16 May 2026 05:12:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2569,10 +2534,54 @@
       "is_ticker": false
     },
     {
-      "title": "CIA Director John Ratcliffe met with Raul Castro's grandson in Havana, US and Cuban officials say",
-      "description": "Cuban and U.S. officials say that CIA Director John Ratcliffe has met with Cuban officials including Raul Castro’s grandson during a high-level visit to the island",
-      "url": "https://abcnews.com/International/wireStory/cia-director-john-ratcliffe-met-raul-castros-grandson-132980033",
-      "published": "Fri, 15 May 2026 07:59:44 -0400",
+      "title": "Australia bans a neo-Nazi network under new law that criminalizes hate groups",
+      "description": "Australia says a neo-Nazi network will be the second organization being banned under its new law criminalizing hate groups and support for them",
+      "url": "https://abcnews.com/International/wireStory/australia-bans-neo-nazi-network-new-law-criminalizes-132992621",
+      "published": "Fri, 15 May 2026 04:53:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK government faces weeks of uncertainty over the prime minister's future",
+      "description": "The British government faces weeks of uncertainty as embattled Prime Minister Keir Starmer prepares for a leadership challenge from the popular mayor of Manchester, Andy Burnham",
+      "url": "https://abcnews.com/International/wireStory/uk-government-faces-weeks-uncertainty-prime-ministers-future-132994036",
+      "published": "Fri, 15 May 2026 06:00:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Argentina's beef consumption falls to lowest level in 20 years as prices soar",
+      "description": "Argentina’s beef consumption has fallen to its lowest level in two decades as soaring prices and weakening purchasing power push many families to replace beef with cheaper proteins like chicken and pork",
+      "url": "https://abcnews.com/International/wireStory/argentinas-beef-consumption-falls-lowest-level-20-years-133026920",
+      "published": "Sat, 16 May 2026 05:06:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Some see 'King of the North' as UK government's savior. First he needs a seat in Parliament",
+      "description": "Britain’s government is in turmoil, and some see Andy Burnham as the one to save it",
+      "url": "https://abcnews.com/International/wireStory/king-north-uk-governments-savior-seat-parliament-133025774",
+      "published": "Sat, 16 May 2026 00:22:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Macron ends Africa trip in Ethiopia with focus on UN reform and inclusive governance",
+      "description": "French President Emmanuel Macron has concluded his Africa visit with talks in Ethiopia",
+      "url": "https://abcnews.com/International/wireStory/macron-ends-africa-trip-ethiopia-focus-reform-inclusive-132932417",
+      "published": "Wed, 13 May 2026 16:32:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
