@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T23:25:06.030737Z",
+  "last_updated": "2026-05-17T23:52:11.823699Z",
   "event_count": 222,
   "events": [
     {
@@ -10,6 +10,17 @@
       "source": "BBC News",
       "type": "rss",
       "severity_score": 57,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "News live: Australian health officials to work on ebola outbreak response, minister says; $2bn state-federal deal for new Queensland housing",
+      "description": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalmers maintains tax changes about making a ‘tangible difference’ in the housing market Chalmers says he understands some Australians will have “strong views” about the politics surrounding the changes to the capital gains tax discount and negative gearing. He went on: We understand that people will have strong views about the politics of this but it is the substance of the changes that we are making that matters most and the substance of what we are announcing today: tens of thousands of new homes for Queenslanders including tens of thousands of homes for first home buyers. This is how you make a tangible difference to the housing market in this country, taking difficult decisions, building more homes, making more of those homes available to first home buyers. I’m confident that the substance of what we’re doing is the right decision, taken for the right reasons. This is a budget which makes hard decisions to get more Australians into homes. It is a budget for workers, a budget for first home buyers and a budget for future generations who would otherwise be locked out of the housing market. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
+      "published": "Sun, 17 May 2026 23:44:36 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 53,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -48,17 +59,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump says Islamic State ‘second in command’ killed by US and Nigerian forces"
-    },
-    {
-      "title": "News live: Australian health officials to work on ebola outbreak response, minister says; NSW police arrest 993 in domestic violence sweep",
-      "description": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news live Get our breaking news email , free app or daily news podcast Nearly 1,000 people charged in NSW operation targeting those with history of domestic violence NSW police charged nearly 1,000 people during a four-day, statewide operation targeting offenders with a history of domestic violence. Domestic and family violence is a stain on our society. These offenders rely on fear and control, and [Operation] Amarok is about turning that pressure back onto them. If you use violence, intimidation or coercive control, police will come for you. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
-      "published": "Sun, 17 May 2026 22:59:30 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 45,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Ebola outbreak in Central Africa declared a ‘Public Health Emergency of International Concern’",
@@ -596,6 +596,34 @@
       "ticker_label": "🪖 Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year"
     },
     {
+      "title": "In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos",
+      "description": "In Senegal, wrestling, known as laamb in the native Wolof, is a national sport deeply rooted in village life. The country’s top wrestlers earn the title “King of the Arenas,” drawing massive crowds and TV audiences. Laamb is unique for its spectacle, featuring elaborate costumes, protective charms, and rituals. Fighters — draped in elaborate costumes and protective charms believed to ward off injury and channel spiritual power — perform to the beat of sabar drums, emphasizing the sport’s spiritual side, which for many is as important as the fight itself. Over time, laamb has evolved into a professional sport with sponsors and prize money. For young men like Omar, 22, it offers a chance at wealth and fame, though most wrestlers face financial challenges and hope for success abroad. For young men like Omar, 22, an amateur wrestler, the arena represents a shot at wealth and fame. “I do this because wrestling pays more than being a footballer in this country,” he said. “If I become a...",
+      "url": "https://abcnews.com/International/wireStory/senegals-wrestling-arenas-rituals-share-spotlight-fight-photos-133027408",
+      "published": "Sat, 16 May 2026 10:55:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos"
+    },
+    {
+      "title": "Drones are making Sudan's war even deadlier for civilians",
+      "description": "Experts say drone warfare has become the deadliest threat to civilians in Sudan's conflict, with both the military and the rival paramilitary Rapid Support Forces being supplied by various countries",
+      "url": "https://abcnews.com/International/wireStory/drones-making-sudans-war-deadlier-civilians-133026513",
+      "published": "Sat, 16 May 2026 02:42:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Drones are making Sudan's war even deadlier for civilians"
+    },
+    {
       "title": "Suspected drunk driver kills 2 pedestrians in violent chain-reaction crash on Manhattan's Upper West Side",
       "description": "A suspected drunk driver allegedly killed two pedestrians and injured others in a violent chain-reaction crash near Amsterdam Avenue in Manhattan Friday.",
       "url": "https://www.foxnews.com/us/suspected-drunk-driver-kills-2-pedestrians-violent-chain-reaction-crash-manhattans-upper-west-side",
@@ -702,45 +730,6 @@
       "ticker_label": "🌪️ Nigeria police detain 3 suspects in a rare school attack in the south of the country"
     },
     {
-      "title": "Congolese report constant burials as deaths in new Ebola outbreak reach 87",
-      "description": "Authorities say at least 87 people have died in Congo’s new Ebola disease outbreak in the eastern Ituri province",
-      "url": "https://abcnews.com/International/wireStory/congolese-report-constant-burials-deaths-new-ebola-outbreak-133028502",
-      "published": "Sat, 16 May 2026 20:39:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Congolese report constant burials as deaths in new Ebola outbreak reach 87"
-    },
-    {
-      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "description": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 22:27:44 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Lebanon says six killed in Israeli strike as US announces ceasefire extension"
-    },
-    {
-      "title": "Freight train and bus crash kills at least eight in Bangkok",
-      "description": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
-      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 14:14:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Itay's Meloni heads to Modena after car-ramming attack",
       "description": "Italian Prime Minister Giorgia Meloni and President Sergio Mattarella travelled to the northern city of Modena on ​Sunday, a day after eight people were injured in a car-ramming attack.",
       "url": "https://news.sky.com/story/meloni-cancels-meetings-to-visit-modena-after-car-ramming-attack-13545099",
@@ -750,20 +739,6 @@
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "1 dead and 9 missing after pickup truck falls off bridge in southern China",
-      "description": "One worker has died and nine remained missing after a pickup truck fell of a bridge in southwest China on Saturday, state media reported",
-      "url": "https://abcnews.com/International/wireStory/1-dead-9-missing-after-pickup-truck-falls-133046077",
-      "published": "Sun, 17 May 2026 07:32:04 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 1 dead and 9 missing after pickup truck falls off bridge in southern China"
     },
     {
       "title": "Trump says Abu-Bilal al-Minuki, second in command of ISIS globally, killed in US-Nigerian operation",
@@ -778,6 +753,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump says Abu-Bilal al-Minuki, second in command of ISIS globally, killed in US-Nigerian operation"
+    },
+    {
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "description": "Since the US and Israel attacked Iran on 28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 23:02:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'This may be the last time you hear my voice': Political executions surge in Iran since start of war"
     },
     {
       "title": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
@@ -1108,20 +1097,6 @@
       "ticker_label": "🪖 Around 10 'new' victims come forward in France's Epstein investigation"
     },
     {
-      "title": "Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say",
-      "description": "Maryna Homeniuk fled Ukraine after Russia’s full-scale invasion four years ago",
-      "url": "https://abcnews.com/International/wireStory/young-kyiv-couple-killed-fierce-russian-airstrike-hoped-133045552",
-      "published": "Sun, 17 May 2026 05:39:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say"
-    },
-    {
       "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
       "description": "Civilians across Gaza, the West Bank and Lebanon continue to face mounting hardship as conflict, displacement and ongoing military operations deepen humanitarian needs and strain already limited aid efforts, according to the latest updates from UN agencies.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167521",
@@ -1249,7 +1224,21 @@
       "ticker_label": "🪖 Trump faces split among retired US commanders over whether to resume Iran strikes"
     },
     {
-      "title": "Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "description": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals.",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 19:23:20 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump warns 'clock is ticking' for Iran as peace progress stalls"
+    },
+    {
+      "title": "Big tobacco is exploiting fears of the illicit market to unwind health gains, experts warn",
       "description": "Cigarettes kill 66 Australians every day, health groups say, criticising MPs who heard evidence from Philip Morris in secret Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Big tobacco is exploiting fears of the illicit market to unwind longstanding health policies, leading health campaigners have warned, amid a parliamentary inquiry which took secret evidence from the cigarette manufacturer Philip Morris. A coalition of 15 health organisations including the Cancer Council and the Heart Foundation, as well as health experts and researchers, have accused the industry of trying to reshape public debate to push for major cuts to government excise. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
       "published": "Sun, 17 May 2026 15:00:44 GMT",
@@ -1260,7 +1249,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn"
+      "ticker_label": "🪖 Big tobacco is exploiting fears of the illicit market to unwind health gains, experts warn"
     },
     {
       "title": "Cuba buys more than 300 drones from Russia and Iran — report",
@@ -1299,10 +1288,10 @@
       "ticker_label": "🪖 Ship seized off coast of UAE near Strait of Hormuz may have been 'floating armory': report"
     },
     {
-      "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
-      "description": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
-      "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 23:15:30 GMT",
+      "title": "From escaping child marriage 'to an old pervert' to becoming Sierra Leone's first lady",
+      "description": "The private world of one of Africa's most powerful political women is revealed in a BBC World Service exclusive.",
+      "url": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 23:01:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1446,6 +1435,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war",
+      "description": "Machines are increasingly replacing humans on the front line, but troops are still vital for defending territory.",
+      "url": "https://www.bbc.com/news/articles/c3w2xqj9x13o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 17 May 2026 23:02:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war"
     },
     {
       "title": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
@@ -1651,10 +1654,10 @@
       "ticker_label": "🪖 'Everyone is doing it': The dark art of GPS jamming in the Iran war"
     },
     {
-      "title": "Humpback whale released after spectacular rescue effort found dead",
-      "description": "The whale had repeatedly becoming stranded off Germany’s Baltic Sea coast.",
-      "url": "https://abcnews.com/International/wireStory/humpback-whale-released-after-spectacular-rescue-effort-found-133032671",
-      "published": "Sat, 16 May 2026 12:10:10 -0400",
+      "title": "Shark fatally mauls spearfishing diver off Australia's Rottnest Island, police say",
+      "description": "A shark has fatally mauled a diver off an Australian tourist island, police say",
+      "url": "https://abcnews.com/International/wireStory/shark-fatally-mauls-spearfishing-diver-off-australias-rottnest-133028026",
+      "published": "Sat, 16 May 2026 07:06:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1662,10 +1665,10 @@
       "is_ticker": false
     },
     {
-      "title": "Shark fatally mauls spearfishing diver off Australia's Rottnest Island, police say",
-      "description": "A shark has fatally mauled a diver off an Australian tourist island, police say",
-      "url": "https://abcnews.com/International/wireStory/shark-fatally-mauls-spearfishing-diver-off-australias-rottnest-133028026",
-      "published": "Sat, 16 May 2026 07:06:55 -0400",
+      "title": "Humpback whale released after spectacular rescue effort found dead",
+      "description": "The whale had repeatedly becoming stranded off Germany’s Baltic Sea coast.",
+      "url": "https://abcnews.com/International/wireStory/humpback-whale-released-after-spectacular-rescue-effort-found-133032671",
+      "published": "Sat, 16 May 2026 12:10:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1767,6 +1770,17 @@
       "is_ticker": false
     },
     {
+      "title": "London police out in force dealing with rival rallies and a soccer final",
+      "description": "Police in London are patrolling the streets of the U.K. capital as tens of thousands join two major demonstrations and soccer fans congregate for the final of England’s major domestic cup competition",
+      "url": "https://abcnews.com/International/wireStory/london-police-prepare-busy-day-big-rallies-planned-133028023",
+      "published": "Sat, 16 May 2026 10:50:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "DRC struggling to contain Ebola outbreak as cases spread",
       "description": "The Democratic Republic of Congo has faced repeated Ebola outbreaks.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/drc-struggling-to-contain-ebola-outbreak-as-cases-spread?traffic_source=rss",
@@ -1854,7 +1868,7 @@
     },
     {
       "title": "Four crew members ejected after military jets crash during US air show",
-      "description": "All four crew members were safely ejected after two navy jets crashed during an air show in Idaho.",
+      "description": "All four crew members were safely ejected after two navy jets crashed during an air show at Mountain Home Air Force Base in Idaho.",
       "url": "https://news.sky.com/story/four-crew-members-ejected-after-military-jets-crash-during-us-air-show-13545329",
       "published": "Sun, 17 May 2026 21:12:00 +0100",
       "source": "Sky News World",
@@ -1966,17 +1980,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "North Korean women's soccer team arrives in South Korea for regional tournament",
-      "description": "A North Korean women’s soccer team has arrived in South Korea to compete in a regional tournament",
-      "url": "https://abcnews.com/International/wireStory/north-korean-womens-soccer-team-arrives-south-korea-133045454",
-      "published": "Sun, 17 May 2026 05:39:27 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2135,11 +2138,11 @@
       "is_ticker": false
     },
     {
-      "title": "'Look Mum, one point': Why does the UK keep getting Eurovision wrong?",
-      "description": "After four years of flops, the BBC has to think hard about how it approaches Eurovision in 2027.",
-      "url": "https://www.bbc.com/news/articles/cy72e81dp28o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 17 May 2026 02:13:36 GMT",
-      "source": "BBC News",
+      "title": "Pakistan interior minister holds talks with Iranian president in Tehran",
+      "description": "Pakistan Interior Minister Mohsin Naqvi met Iranian President Masoud Pezeshkian in Tehran",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
+      "published": "Sun, 17 May 2026 23:28:25 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2183,17 +2186,6 @@
       "description": "Republicans hope to reclaim Ossoff's Senate seat after 2020 upset; Democrats will pick champion for governor's race.",
       "url": "https://www.aljazeera.com/news/2026/5/17/what-to-know-about-georgias-primary-as-republicans-set-sights-on-senate?traffic_source=rss",
       "published": "Sun, 17 May 2026 14:42:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Is Christian Zionism in the US on a decline?",
-      "description": "Support for Israel among young American conservatives is weakening. That might not bode well for Christian Zionism.",
-      "url": "https://www.aljazeera.com/features/2026/5/17/is-christian-zionism-in-the-us-on-a-decline?traffic_source=rss",
-      "published": "Sun, 17 May 2026 14:32:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2482,28 +2474,6 @@
       "is_ticker": false
     },
     {
-      "title": "Peru's electoral board confirms June 7 presidential runoff with Fujimori and Sánchez",
-      "description": "Peruvian electoral authorities have confirmed the results of the first round of presidential elections",
-      "url": "https://abcnews.com/International/wireStory/perus-electoral-board-confirms-june-7-presidential-runoff-133050906",
-      "published": "Sun, 17 May 2026 11:07:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers",
-      "description": "Three Finnish divers have arrived in the Maldives to help search for the bodies of four Italian divers believed to be in an underwater cave",
-      "url": "https://abcnews.com/International/wireStory/3-finnish-divers-arrive-maldives-remap-search-bodies-133046319",
-      "published": "Sun, 17 May 2026 10:52:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "It's official: Wes Streeting of the Labour Party wants to be Britain's next prime minister",
       "description": "Wes Streeting's ambition to head the British government was one of the worst-kept secrets in U.K. politics",
       "url": "https://abcnews.com/International/wireStory/official-wes-streeting-labour-party-britains-prime-minister-133045646",
@@ -2515,10 +2485,10 @@
       "is_ticker": false
     },
     {
-      "title": "Researchers stunned by forgotten medieval book in Rome hiding the oldest English poem",
-      "description": "Researchers in Dublin have uncovered the oldest surviving English poem in a Roman library",
-      "url": "https://abcnews.com/International/wireStory/researchers-stunned-forgotten-medieval-book-rome-hiding-oldest-133045261",
-      "published": "Sun, 17 May 2026 09:22:02 -0400",
+      "title": "Putin to visit Chinese leader Xi Jinping days after Trump's trip to Beijing",
+      "description": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping on a two-day trip to Beijing next week, the Kremlin says",
+      "url": "https://abcnews.com/International/wireStory/putin-visit-chinese-leader-xi-jinping-days-after-133027821",
+      "published": "Sat, 16 May 2026 10:10:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2537,10 +2507,21 @@
       "is_ticker": false
     },
     {
-      "title": "Russia eases citizenship rules for residents of Moldova’s breakaway Transnistria",
-      "description": "The Kremlin has approved new measures allowing citizens from Moldova’s breakaway region of Transnistria to gain Russian citizenship more easily",
-      "url": "https://abcnews.com/International/wireStory/russia-eases-citizenship-rules-residents-moldovas-breakaway-transnistria-133028707",
-      "published": "Sat, 16 May 2026 10:54:17 -0400",
+      "title": "Researchers stunned by forgotten medieval book in Rome hiding the oldest English poem",
+      "description": "Researchers in Dublin have uncovered the oldest surviving English poem in a Roman library",
+      "url": "https://abcnews.com/International/wireStory/researchers-stunned-forgotten-medieval-book-rome-hiding-oldest-133045261",
+      "published": "Sun, 17 May 2026 09:22:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers",
+      "description": "Three Finnish divers have arrived in the Maldives to help search for the bodies of four Italian divers believed to be in an underwater cave",
+      "url": "https://abcnews.com/International/wireStory/3-finnish-divers-arrive-maldives-remap-search-bodies-133046319",
+      "published": "Sun, 17 May 2026 10:52:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2552,6 +2533,28 @@
       "description": "Pope Leo XIV is adding a trip to France to his busy 2026 travel schedule",
       "url": "https://abcnews.com/International/wireStory/pope-visit-france-september-stop-unesco-133028623",
       "published": "Sat, 16 May 2026 10:54:47 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Peru's electoral board confirms June 7 presidential runoff with Fujimori and Sánchez",
+      "description": "Peruvian electoral authorities have confirmed the results of the first round of presidential elections",
+      "url": "https://abcnews.com/International/wireStory/perus-electoral-board-confirms-june-7-presidential-runoff-133050906",
+      "published": "Sun, 17 May 2026 11:07:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Argentina's beef consumption falls to lowest level in 20 years as prices soar",
+      "description": "Argentina’s beef consumption has fallen to its lowest level in two decades as soaring prices and weakening purchasing power push many families to replace beef with cheaper proteins like chicken and pork",
+      "url": "https://abcnews.com/International/wireStory/argentinas-beef-consumption-falls-lowest-level-20-years-133026920",
+      "published": "Sat, 16 May 2026 05:06:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
