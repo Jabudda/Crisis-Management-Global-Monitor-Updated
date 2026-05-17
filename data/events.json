@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17T11:31:02.818921Z",
+  "last_updated": "2026-05-17T12:30:15.265197Z",
   "event_count": 221,
   "events": [
     {
@@ -68,6 +68,17 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 43,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Executions nearly doubled in the U.S. last year, and soared abroad",
+      "description": "The number of people killed in state-sanctioned executions worldwide rose to a 44-year high in 2025, according to a new report from Amnesty International.",
+      "url": "https://www.npr.org/2026/05/17/nx-s1-5824521/executions-amnesty-international-report",
+      "published": "Sun, 17 May 2026 08:01:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 42,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -142,6 +153,17 @@
       "ticker_label": "💥 Senior IS leader killed in joint operation, US and Nigeria say"
     },
     {
+      "title": "WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know",
+      "description": "DRC outbreak causes more than 80 deaths and spreads to neighbouring Uganda.",
+      "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-drc-uganda-a-global-emergency-what-to-know?traffic_source=rss",
+      "published": "Sun, 17 May 2026 11:21:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "WHO declares Ebola outbreak in Central Africa a public health emergency after 80 suspected deaths",
       "description": "The WHO declared the Ebola outbreak in the DRC and Uganda an international public health emergency after dozens of suspected deaths were reported.",
       "url": "https://www.foxnews.com/world/who-declares-ebola-outbreak-central-africa-public-health-emergency-80-suspected-deaths",
@@ -151,6 +173,20 @@
       "severity_score": 34,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Middle East: Drone strike sparks fire at UAE nuclear plant",
+      "description": "No party has claimed responsibility for the strike on the Barakah nuclear power plant, but Iran has repeatedly launched attacks on the UAE since the start of the war. Follow DW for more.",
+      "url": "https://www.dw.com/en/middle-east-drone-strike-sparks-fire-at-uae-nuclear-plant/live-77179563?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 16 May 2026 14:50:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Middle East: Drone strike sparks fire at UAE nuclear plant"
     },
     {
       "title": "UN welcomes $1.8 billion US boost for humanitarian operations",
@@ -429,20 +465,6 @@
       "ticker_label": "🪖 Afghan mothers and children face worsening hunger crisis, WFP warns"
     },
     {
-      "title": "FBI brings Iraqi man accused of coordinating nearly 20 terror attacks in Europe to face trial in New York",
-      "description": "Mohammad al-Saadi faces federal charges after allegedly planning 18 terror attacks targeting Jewish institutions across Europe, prosecutors say.",
-      "url": "https://www.foxnews.com/us/fbi-brings-iraqi-man-accused-coordinating-nearly-20-terror-attacks-europe-face-trial-new-york",
-      "published": "Fri, 15 May 2026 13:58:08 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 FBI brings Iraqi man accused of coordinating nearly 20 terror attacks in Europe to face trial in New York"
-    },
-    {
       "title": "WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency",
       "description": "DR Congo accounts for all but two of the suspected cases, both of which were reported in neighbouring Uganda.",
       "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency?traffic_source=rss",
@@ -452,20 +474,6 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Israel says it killed the leader of Hamas' military wing",
-      "description": "Israel says it has killed the leader of Hamas' military wing, one of the architects of the Oct, 7, 2023, attacks that triggered the war in Gaza.",
-      "url": "https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader",
-      "published": "Sat, 16 May 2026 01:15:57 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel says it killed the leader of Hamas' military wing"
     },
     {
       "title": "Ukraine launches around 600 drones at Russia, Zelensky claims ‘justified’ attack",
@@ -624,7 +632,7 @@
       "is_ticker": false
     },
     {
-      "title": "Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year",
+      "title": "Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year",
       "description": "Four people were killed in overnight Ukrainian drone strikes on Russia, authorities have said – in what appears to be the largest attack on Moscow in over a year.",
       "url": "https://news.sky.com/story/four-killed-in-russia-as-ukraine-launches-largest-drone-attack-on-moscow-in-over-a-year-13544979",
       "published": "Sun, 17 May 2026 09:12:00 +0100",
@@ -635,21 +643,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Four killed in Russia as Ukraine launches largest drone attack on Moscow in over a year"
-    },
-    {
-      "title": "In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos",
-      "description": "In Senegal, wrestling, known as laamb in the native Wolof, is a national sport deeply rooted in village life. The country’s top wrestlers earn the title “King of the Arenas,” drawing massive crowds and TV audiences. Laamb is unique for its spectacle, featuring elaborate costumes, protective charms, and rituals. Fighters — draped in elaborate costumes and protective charms believed to ward off injury and channel spiritual power — perform to the beat of sabar drums, emphasizing the sport’s spiritual side, which for many is as important as the fight itself. Over time, laamb has evolved into a professional sport with sponsors and prize money. For young men like Omar, 22, it offers a chance at wealth and fame, though most wrestlers face financial challenges and hope for success abroad. For young men like Omar, 22, an amateur wrestler, the arena represents a shot at wealth and fame. “I do this because wrestling pays more than being a footballer in this country,” he said. “If I become a...",
-      "url": "https://abcnews.com/International/wireStory/senegals-wrestling-arenas-rituals-share-spotlight-fight-photos-133027408",
-      "published": "Sat, 16 May 2026 10:55:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos"
+      "ticker_label": "🪖 Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year"
     },
     {
       "title": "Suspected drunk driver kills 2 pedestrians in violent chain-reaction crash on Manhattan's Upper West Side",
@@ -808,6 +802,20 @@
       "ticker_label": "🪖 Middle East: Israel attacks south Lebanon day after ceasefire extension"
     },
     {
+      "title": "1 dead and 9 missing after pickup truck falls off bridge in southern China",
+      "description": "One worker has died and nine remained missing after a pickup truck fell of a bridge in southwest China on Saturday, state media reported",
+      "url": "https://abcnews.com/International/wireStory/1-dead-9-missing-after-pickup-truck-falls-133046077",
+      "published": "Sun, 17 May 2026 07:32:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 1 dead and 9 missing after pickup truck falls off bridge in southern China"
+    },
+    {
       "title": "Trump says Abu-Bilal al-Minuki, second in command of ISIS globally, killed in US-Nigerian operation",
       "description": "President Trump announced U.S. and Nigerian forces eliminated Abu-Bilal al-Minuki, whom he identified as the second in command of ISIS globally.",
       "url": "https://www.foxnews.com/world/trump-says-abu-bilal-al-minuki-second-command-isis-globally-killed-us-nigerian-operation",
@@ -912,6 +920,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Maldives military diver dies searching for four Italian divers missing inside underwater cave system",
+      "description": "A Maldivian military diver died from decompression sickness during a perilous mission to recover bodies of four Italian divers trapped in a deep underwater cave.",
+      "url": "https://www.foxnews.com/world/maldives-military-diver-dies-searching-four-italian-divers-missing-inside-underwater-cave-system",
+      "published": "Sun, 17 May 2026 07:55:31 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Maldives military diver dies searching for four Italian divers missing inside underwater cave system"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -1072,6 +1094,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israel comes second at Eurovision amid boycotts and backlash",
+      "description": "Bulgaria won Eurovision, pushing Israel into second place amid boycotts and protests over Israel’s war on Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss",
+      "published": "Sun, 17 May 2026 12:05:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israel comes second at Eurovision amid boycotts and backlash"
+    },
+    {
       "title": "Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say",
       "description": "Maryna Homeniuk fled Ukraine after Russia’s full-scale invasion four years ago",
       "url": "https://abcnews.com/International/wireStory/young-kyiv-couple-killed-fierce-russian-airstrike-hoped-133045552",
@@ -1140,17 +1176,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "FIFA holds ‘positive’ talks with Iranian football officials on World Cup",
-      "description": "FIFA offers solutions for each of Iran's concerns before games in US, Iran's football chief says.",
-      "url": "https://www.aljazeera.com/sports/2026/5/17/fifa-holds-positive-talks-with-iranian-football-officials-on-world-cup?traffic_source=rss",
-      "published": "Sun, 17 May 2026 06:53:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1498,17 +1523,6 @@
       "ticker_label": "🪖 Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon"
     },
     {
-      "title": "‘Timmy’ the rescued humpback whale confirmed dead",
-      "description": "‘Timmy’ the rescued humpback whale confirmed dead, found off Danish coast.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/timmy-the-rescued-humpback-whale-confirmed-dead?traffic_source=rss",
-      "published": "Sun, 17 May 2026 05:51:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1764,17 +1778,6 @@
       "is_ticker": false
     },
     {
-      "title": "Middle East updates: Big crowds at Nakba Day rally in London",
-      "description": "Big crowds have gathered in London to mark Nakba Day. Meanwhile, Iran's state TV reports that European countries are discussing the safe transit of ships through the Strait of Hormuz.",
-      "url": "https://www.dw.com/en/middle-east-updates-big-crowds-at-nakba-day-rally-in-london/live-77179563?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 16 May 2026 14:50:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US: New York's Long Island railway workers go on strike",
       "description": "Nearly 300,000 passengers rely on the LIRR daily to travel between New York City, its boroughs and suburban Long Island.",
       "url": "https://www.dw.com/en/us-new-york-s-long-island-railway-workers-go-on-strike/a-77178863?maca=en-rss-en-all-1573-xml-mrss",
@@ -1982,17 +1985,6 @@
       "ticker_label": "🪖 UK defense shortfalls highlighted as Britain avoids Iran offensive role amid Trump criticism"
     },
     {
-      "title": "Trump administration rejects UN migration declaration, says 'mass migration was never safe'",
-      "description": "The State Department said it objects to U.N. efforts to \"advocate and facilitate replacement immigration in the United States and across the broader West.\"",
-      "url": "https://www.foxnews.com/world/trump-administration-rejects-un-migration-declaration-says-mass-migration-never-safe",
-      "published": "Mon, 11 May 2026 21:36:58 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "US planning to charge ex-Cuban leader Raúl Castro",
       "description": "Charges could come as soon as next week in a case reportedly focused on Cuba's downing of two planes in 1996.",
       "url": "https://www.bbc.com/news/articles/c1w2gnd9xp2o?at_medium=RSS&at_campaign=rss",
@@ -2123,7 +2115,7 @@
       "title": "Canadian from hantavirus-hit cruise ship tests positive",
       "description": "The individual is one of four former passengers on the MV Hondius isolating on Vancouver Island, British Columbia.",
       "url": "https://www.bbc.com/news/articles/c2k2p057ezno?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 20:36:53 GMT",
+      "published": "Sun, 17 May 2026 12:07:54 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2481,6 +2473,17 @@
       "is_ticker": false
     },
     {
+      "title": "3 Finnish divers arrive in the Maldives to remap the search for the bodies of 4 Italian divers",
+      "description": "Three Finnish divers have arrived in the Maldives to help search for the bodies of four Italian divers believed to be in an underwater cave",
+      "url": "https://abcnews.com/International/wireStory/3-finnish-divers-arrive-maldives-remap-search-bodies-133046319",
+      "published": "Sun, 17 May 2026 07:29:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "It's official: Wes Streeting of the Labour Party wants to be Britain's next prime minister",
       "description": "Wes Streeting's ambition to head the British government was one of the worst-kept secrets in U.K. politics",
       "url": "https://abcnews.com/International/wireStory/official-wes-streeting-labour-party-britains-prime-minister-133045646",
@@ -2547,22 +2550,22 @@
       "is_ticker": false
     },
     {
-      "title": "Argentina's beef consumption falls to lowest level in 20 years as prices soar",
-      "description": "Argentina’s beef consumption has fallen to its lowest level in two decades as soaring prices and weakening purchasing power push many families to replace beef with cheaper proteins like chicken and pork",
-      "url": "https://abcnews.com/International/wireStory/argentinas-beef-consumption-falls-lowest-level-20-years-133026920",
-      "published": "Sat, 16 May 2026 05:06:02 -0400",
-      "source": "ABC News International",
+      "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
+      "description": "The Committee on the Exercise of the Inalienable Rights of the Palestinian People meets Friday at the UN Headquarters to commemorate the 78th anniversary of the Nakba. Senior UN officials, including General Assembly President Annalena Baerbock and Assistant Secretary-General Khaled Khiari, are expected to address the meeting. The event will also feature testimonies from Palestinian families and a tribute to historian of Palestine and the Nakba, Walid Khalidi. Follow our live updates from the meeting as it happens.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167519",
+      "published": "Fri, 15 May 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "LIVE UPDATES: UN committee commemorates the 78th anniversary of the Nakba",
-      "description": "The Committee on the Exercise of the Inalienable Rights of the Palestinian People meets Friday at the UN Headquarters to commemorate the 78th anniversary of the Nakba. Senior UN officials, including General Assembly President Annalena Baerbock and Assistant Secretary-General Khaled Khiari, are expected to address the meeting. The event will also feature testimonies from Palestinian families and a tribute to historian of Palestine and the Nakba, Walid Khalidi. Follow our live updates from the meeting as it happens.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167519",
-      "published": "Fri, 15 May 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Teen vanished from home decades ago – now feds hope new image and shifting loyalties reveal truth",
+      "description": "Authorities renew their call for information in the 1980 disappearance of 14-year-old Laureen Rahn from her Manchester, New Hampshire, apartment.",
+      "url": "https://www.foxnews.com/us/teen-vanished-from-home-decades-ago-now-feds-hope-new-image-shifting-loyalties-reveal-truth",
+      "published": "Sun, 17 May 2026 08:00:58 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
