@@ -1,17 +1,31 @@
 {
-  "last_updated": "2026-05-18T05:32:45.135394Z",
+  "last_updated": "2026-05-18T07:40:12.661048Z",
   "event_count": 222,
   "events": [
     {
       "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
       "description": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency.",
       "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 18 May 2026 01:10:06 GMT",
+      "published": "Mon, 18 May 2026 06:15:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 57,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Drone strikes UAE nuclear plant highlighting risk of renewed war",
+      "description": "A drone strike sparked a fire on the edge of the United Arab Emirates' sole nuclear power plant on Sunday in what authorities called an \"unprovoked terrorist attack.\"",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122534/drone-strikes-uae-nuclear-plant",
+      "published": "Mon, 18 May 2026 01:37:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 53,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Drone strikes UAE nuclear plant highlighting risk of renewed war"
     },
     {
       "title": "UN pleads for Equatorial Guinea not to send US asylum seekers to their home countries: ‘Their life would be in danger’",
@@ -37,6 +51,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump says Islamic State ‘second in command’ killed by US and Nigerian forces"
+    },
+    {
+      "title": "'Staggering' Iran toll drives up global executions to 40-year high, Amnesty says",
+      "description": "The number of worldwide executions jumped to their highest level since 1981 in 2025, pushed in part by a \"staggering\" increase in Iran's use of the death penalty, according to Amnesty International on Monday. The UK-based rights group said it had confirmed the executions of at least 2,707 people globally, 2,159 of which were in Iran.",
+      "url": "https://www.france24.com/en/asia-pacific/20260518-staggering-iran-toll-drives-up-global-executions-to-40-year-high-amnesty-says",
+      "published": "Mon, 18 May 2026 00:05:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 45,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Ebola outbreak in Central Africa declared a ‘Public Health Emergency of International Concern’",
@@ -86,18 +111,15 @@
       "is_ticker": false
     },
     {
-      "title": "WHO declares international emergency over Ebola outbreak",
-      "description": "The World Health Organization said the Ebola outbreak could be much larger than what is currently being detected and reported. The UN agency warned of health risks to other countries.",
-      "url": "https://www.dw.com/en/who-declares-international-emergency-over-ebola-outbreak/a-77184899?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 17 May 2026 04:06:00 GMT",
+      "title": "Ebola in Africa is a constant threat: Symptoms, treatment and vaccines",
+      "description": "You need to know Ebola is highly contagious and deadly. It's spreads internationally, such as in May 2026 in the Democratic Republic of the Congo and Uganda outbreak. But that doesn't automatically make it a pandemic.",
+      "url": "https://www.dw.com/en/ebola-in-africa-is-a-constant-threat-symptoms-treatment-and-vaccines/a-71524627?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 18 May 2026 06:31:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
-      "severity_score": 42,
+      "severity_score": 40,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 WHO declares international emergency over Ebola outbreak"
+      "is_ticker": false
     },
     {
       "title": "WHO declares emergency as Ebola outbreak kills more than 80 in DR Congo",
@@ -206,6 +228,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba"
+    },
+    {
+      "title": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
+      "description": "The fear of renewed US strikes in Iran looms while Israeli attacks continue in Lebanon despite extended 'ceasefire'.",
+      "url": "https://www.aljazeera.com/news/2026/5/18/iran-war-day-80-trump-issues-warning-tehran-ready-to-confront-aggression?traffic_source=rss",
+      "published": "Mon, 18 May 2026 07:24:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war day 80: Trump issues warning; Tehran ready to confront aggression"
     },
     {
       "title": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
@@ -454,20 +490,6 @@
       "ticker_label": "🪖 Iran war live: Trump threatens Tehran; Saudi, UAE report drone attacks"
     },
     {
-      "title": "Pianist Jayson Gillham’s case against MSO mustn’t turn into ‘roving inquiry’ on Middle East conflict, judge warns",
-      "description": "Federal court case begins for classical pianist who alleges Melbourne Symphony Orchestra unlawfully discriminated due to his views Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The judge hearing the case of a classical pianist who alleges the Melbourne Symphony Orchestra unlawfully discriminated against him because of his views on Israeli forces killing Palestianian journalists says the matter will not be a “roving inquiry” over conflict in the Middle East. Pianist Jayson Gillham is suing the MSO over a cancelled Melbourne concert he was contracted to perform on 15 August 2024, a cancellation which he claims was an attempt to silence him over his stance on the Gaza conflict. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/18/pianist-jayson-gillham-cancellation-case-mso-melbourne-symphony-orchestra-court-palestianian-journalists-gaza-ntwnfb",
-      "published": "Mon, 18 May 2026 03:25:18 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Pianist Jayson Gillham’s case against MSO mustn’t turn into ‘roving inquiry’ on Middle East conflict, judge warns"
-    },
-    {
       "title": "Ukraine conducts large-scale drone strikes on Russia, killing 4 and wounding 12 others",
       "description": "One of Ukraine's largest drone strikes on Russia killed at least four people, including three near Moscow, and wounded a dozen others, local authorities said Sunday.",
       "url": "https://www.npr.org/2026/05/17/nx-s1-5824987/ukrainian-drone-strikes-on-russia-kill-4-moscow",
@@ -491,20 +513,6 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Ukrainian drone strikes on Russia kills at least 4 and wound 12 others",
-      "description": "One of Ukraine's largest drone strikes on Russia killed at least four people, including three near Moscow, and wounded a dozen others, local authorities said Sunday. Debris fell on Russia's largest airport without causing damage.",
-      "url": "https://www.france24.com/en/video/20260517-ukrainian-drone-strikes-on-russia-kills-at-least-4-and-wound-12-others",
-      "published": "Sun, 17 May 2026 14:25:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Ukrainian drone strikes on Russia kills at least 4 and wound 12 others"
     },
     {
       "title": "Blackouts and shortages disrupt healthcare across Cuba",
@@ -560,7 +568,7 @@
       "ticker_label": "🪖 Yemen parties agree under UN mediation to release 1,600 detainees"
     },
     {
-      "title": "Austin police arrest 2 juveniles allegedly linked to 12 random shootings injuring 4 people",
+      "title": "Austin police arrest 3 juveniles allegedly linked to 12 random shootings injuring 4 people",
       "description": "Austin police arrested two juveniles after 12 random shootings across the city injured four people, struck a fire station and prompted a shelter-in-place.",
       "url": "https://www.foxnews.com/us/austin-police-arrest-2-juveniles-allegedly-linked-12-random-shootings-injuring-4-people",
       "published": "Sun, 17 May 2026 21:41:24 -0400",
@@ -571,7 +579,7 @@
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Austin police arrest 2 juveniles allegedly linked to 12 random shootings injuring 4 people"
+      "ticker_label": "🚨 Austin police arrest 3 juveniles allegedly linked to 12 random shootings injuring 4 people"
     },
     {
       "title": "ISIS terror leader at large after US strike kills top commander amid rising Africa threat: analyst",
@@ -613,20 +621,6 @@
       "ticker_label": "🪖 Israel kills at least five in Lebanon after ‘ceasefire’ extended"
     },
     {
-      "title": "Three community kitchen workers among eight killed by Israel in Gaza",
-      "description": "Israeli attacks on Gaza have killed at least 871 Palestinians since the so-called ceasefire started last year.",
-      "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
-      "published": "Sun, 17 May 2026 16:31:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Three community kitchen workers among eight killed by Israel in Gaza"
-    },
-    {
       "title": "Bulgarian banger 'Bangaranga' bags country its 1st Eurovision win",
       "description": "Bulgaria was not among the favorites to win. But performer Dara's catchy, banging anthem bested 24 other nations at the 70th edition of the international singing extravaganza.",
       "url": "https://www.npr.org/2026/05/16/nx-s1-5824393/eurovision-winner-dara-bangaranga-bulgaria-vienna-austria",
@@ -652,18 +646,15 @@
       "ticker_label": "🪖 Indian worker among four killed as Ukraine launches largest drone attack on Moscow in over a year"
     },
     {
-      "title": "In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos",
-      "description": "In Senegal, wrestling, known as laamb in the native Wolof, is a national sport deeply rooted in village life. The country’s top wrestlers earn the title “King of the Arenas,” drawing massive crowds and TV audiences. Laamb is unique for its spectacle, featuring elaborate costumes, protective charms, and rituals. Fighters — draped in elaborate costumes and protective charms believed to ward off injury and channel spiritual power — perform to the beat of sabar drums, emphasizing the sport’s spiritual side, which for many is as important as the fight itself. Over time, laamb has evolved into a professional sport with sponsors and prize money. For young men like Omar, 22, it offers a chance at wealth and fame, though most wrestlers face financial challenges and hope for success abroad. For young men like Omar, 22, an amateur wrestler, the arena represents a shot at wealth and fame. “I do this because wrestling pays more than being a footballer in this country,” he said. “If I become a...",
-      "url": "https://abcnews.com/International/wireStory/senegals-wrestling-arenas-rituals-share-spotlight-fight-photos-133027408",
-      "published": "Sat, 16 May 2026 10:55:58 -0400",
+      "title": "Gunmen kill 10 people in a town in Mexico's Puebla state, authorities say",
+      "description": "Mexican officials say at least 10 people have been killed in an attack by gunmen in the state of Puebla",
+      "url": "https://abcnews.com/International/wireStory/gunmen-kill-10-people-town-mexicos-puebla-state-133055117",
+      "published": "Mon, 18 May 2026 01:39:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 In Senegal’s wrestling arenas, rituals share the spotlight with the fight, in photos"
+      "is_ticker": false
     },
     {
       "title": "Suspected drunk driver kills 2 pedestrians in violent chain-reaction crash on Manhattan's Upper West Side",
@@ -705,6 +696,17 @@
       "ticker_label": "🪖 Mali’s forces target rebel alliance in junta’s fight to keep power"
     },
     {
+      "title": "Pianist Jayson Gillham says he never considered apologising for Gaza comments, trial hears",
+      "description": "Federal court case begins for classical pianist who alleges Melbourne Symphony Orchestra unlawfully discriminated due to his views Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A classical pianist who alleges the Melbourne Symphony Orchestra unlawfully discriminated against him because of his views on Israeli forces killing Palestinian journalists says he did not consider apologising for making the statement at the centre of the case. Pianist Jayson Gillham is suing the MSO over a cancelled Melbourne concert he was contracted to perform on 15 August 2024, a cancellation which he claims was an attempt to silence him over his stance on the Gaza conflict. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/18/pianist-jayson-gillham-cancellation-case-mso-melbourne-symphony-orchestra-court-palestianian-journalists-gaza-ntwnfb",
+      "published": "Mon, 18 May 2026 06:51:07 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Iranian man barely survives bombing, but wants war to go on",
       "description": "An Iranian man who was buried under rubble in US Israel bombing campaign says he wants the war to go on, and destroy the regime.",
       "url": "https://www.npr.org/2026/05/16/nx-s1-5820984/iranian-man-barely-survives-bombing-but-wants-war-to-go-on",
@@ -733,6 +735,20 @@
       "ticker_label": "🚨 Ten dead in Mexico shooting"
     },
     {
+      "title": "A strong quake in south China kills 2 and triggers evacuation of 7,000",
+      "description": "A 5.2 magnitude earthquake has struck south China's Guangxi region, killing two people and toppling buildings",
+      "url": "https://abcnews.com/International/wireStory/strong-quake-south-china-kills-2-triggers-evacuation-133061118",
+      "published": "Mon, 18 May 2026 03:29:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ A strong quake in south China kills 2 and triggers evacuation of 7,000"
+    },
+    {
       "title": "Man dies after attack by 13-foot great white shark near popular island resort: officials",
       "description": "A 38-year-old man was killed in a shark attack near Rottnest Island off Australia's western coast, authorities say, urging additional caution in the area.",
       "url": "https://www.foxnews.com/world/man-dies-attack-13-foot-great-white-shark-popular-island-resort-officials",
@@ -756,6 +772,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks"
+    },
+    {
+      "title": "Nigeria police detain 3 suspects in a rare school attack in the south of the country",
+      "description": "Police in Nigeria say they have detained three gunmen who allegedly stormed into two primary schools in a rare attack in the southwest of the country",
+      "url": "https://abcnews.com/International/wireStory/nigeria-police-detain-3-suspects-rare-school-attack-133031087",
+      "published": "Sat, 16 May 2026 10:53:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Nigeria police detain 3 suspects in a rare school attack in the south of the country"
     },
     {
       "title": "Julianne Moore says true gender equality still distant at Cannes",
@@ -839,20 +869,6 @@
       "ticker_label": "💥 New Epstein victims turn up in French probe — prosecutor"
     },
     {
-      "title": "Ebola: WHO warns about risk of spread in DR Congo and Uganda",
-      "description": "Trish Newport, Emergency Programme Manager for MSF's Ebola response in Ituri, DRC, is our guest.",
-      "url": "https://www.france24.com/en/ebola-who-wars-about-risk-of-spread-in-dr-congo-and-uganda",
-      "published": "Sun, 17 May 2026 14:22:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ebola: WHO warns about risk of spread in DR Congo and Uganda"
-    },
-    {
       "title": "Attacks on schools in Nigeria leave more than 80 children missing, officials say",
       "description": "Officials say that more than 80 children are missing after suspected militants attacked schools in Nigeria in the past week",
       "url": "https://abcnews.com/International/wireStory/latest-militant-attacks-schools-nigeria-leave-80-children-133053873",
@@ -862,20 +878,6 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "War worsens Lebanon's economic crisis with job losses, price gouging and slow business",
-      "description": "The latest war between Israel and Hamas, and the closure of the Strait of Hormuz, have sent economic shock waves across the Mideast",
-      "url": "https://abcnews.com/International/wireStory/war-worsens-lebanons-economic-crisis-job-losses-price-132990998",
-      "published": "Fri, 15 May 2026 08:00:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 War worsens Lebanon's economic crisis with job losses, price gouging and slow business"
     },
     {
       "title": "As war displaces millions in DR Congo, new schools offer children hope beyond violence",
@@ -992,12 +994,26 @@
       "title": "Australia news live: Chalmers complains of ‘unhinged scare campaign’ against budget as Taylor calls new trust rules a ‘death tax by stealth’",
       "description": "The treasurer concedes Labor has taken a political hit after the latest Newspoll found a negative response to last Tuesday’s budget. Follow today’s news live Get our breaking news email , free app or daily news podcast Data reveals how Coles and Woolworths switch promotions in sync You’re looking to buy an electric toothbrush. You’re in Woolworths and you see one of the Oral-B kits advertised for sale at $99.50. We understand that people will have strong views about the politics of this but it is the substance of the changes that we are making that matters most and the substance of what we are announcing today: tens of thousands of new homes for Queenslanders including tens of thousands of homes for first home buyers. This is how you make a tangible difference to the housing market in this country, taking difficult decisions, building more homes, making more of those homes available to first home buyers. I’m confident that the substance of what we’re doing is the right decision, taken for the right reasons. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
-      "published": "Mon, 18 May 2026 05:08:29 GMT",
+      "published": "Mon, 18 May 2026 07:13:11 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Ukraine's Dnipro and Odesa targeted in Russian strikes",
+      "description": "At least a dozen were injured in central and southern Ukraine overnight, local authorities said. The latest strikes come a day after Kyiv launched hundreds of drone strikes on Russian territory over the weekend.",
+      "url": "https://www.dw.com/en/ukraine-s-dnipro-and-odesa-targeted-in-russian-strikes/a-77192579?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 18 May 2026 06:25:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine's Dnipro and Odesa targeted in Russian strikes"
     },
     {
       "title": "Ukrainian drones hit Russia in massive overnight attack",
@@ -1089,20 +1105,6 @@
       "is_ticker": false
     },
     {
-      "title": "Around 10 'new' victims come forward in France's Epstein investigation",
-      "description": "French prosecutors investigating Jeffrey Epstein’s alleged trafficking network say around ten previously unidentified suspected victims have recently contacted authorities, widening a probe into possible abuse committed in France or involving French accomplices linked to the late financier.",
-      "url": "https://www.france24.com/en/americas/20260517-around-10-new-victims-come-forward-in-france-s-epstein-investigation",
-      "published": "Sun, 17 May 2026 13:07:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Around 10 'new' victims come forward in France's Epstein investigation"
-    },
-    {
       "title": "Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say",
       "description": "Maryna Homeniuk fled Ukraine after Russia’s full-scale invasion four years ago",
       "url": "https://abcnews.com/International/wireStory/young-kyiv-couple-killed-fierce-russian-airstrike-hoped-133045552",
@@ -1115,20 +1117,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Young Kyiv couple killed in a fierce Russian airstrike hoped to start a family, mourners say"
-    },
-    {
-      "title": "Search in waters off the Maldives for bodies of Italians killed in cave dive accident",
-      "description": "Maldivian authorities are conducting a high-risk search for four Italian divers who died in a scuba accident",
-      "url": "https://abcnews.com/International/wireStory/authorities-search-waters-maldives-after-5-italians-killed-132994343",
-      "published": "Fri, 15 May 2026 11:29:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Search in waters off the Maldives for bodies of Italians killed in cave dive accident"
     },
     {
       "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
@@ -1214,6 +1202,31 @@
       "is_ticker": false
     },
     {
+      "title": "Escaped tiger shot by German police after attacking man",
+      "description": "The tiger escaped a facility owned by local trainer Carmen Zander, also known as Germany's \"Tiger Queen\", according to local media reports.",
+      "url": "https://www.bbc.com/news/articles/cwy217yw7nxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 18 May 2026 07:07:53 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Earthquake hits southern China, toppling buildings",
+      "description": "A magnitude 5.2 earthquake has struck southern China, causing over a dozen buildings to collapse, killing at least two.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/earthquake-hits-southern-china-toppling-buildings?traffic_source=rss",
+      "published": "Mon, 18 May 2026 07:03:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Earthquake hits southern China, toppling buildings"
+    },
+    {
       "title": "Israel launches strikes on southern Lebanon despite extending ‘ceasefire’",
       "description": "Al Jazeera’s Obaida Hitto reports from Tyre in southern Lebanon on the latest Israeli strikes in the region.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/israel-launches-strikes-on-southern-lebanon-despite-extending?traffic_source=rss",
@@ -1226,17 +1239,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israel launches strikes on southern Lebanon despite extending ‘ceasefire’"
-    },
-    {
-      "title": "Sudanese army advances in Blue Nile state deepen displacement crisis",
-      "description": "The Sudanese army has made advances in Blue Nile state, with renewed fighting forcing families into overcrowded camps",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/sudanese-army-advances-in-blue-nile-state-deepen-displacement-crisis?traffic_source=rss",
-      "published": "Sun, 17 May 2026 17:40:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1259,6 +1261,20 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "France's justice minister to visit Algeria amid diplomatic thaw",
+      "description": "France's Justice Minister Gérald Darmanin is set to visit Algeria on Monday amid a diplomatic thaw to discuss improving judicial cooperation, including the fate of detained French sports journalist Christophe Gleizes, who was arrested in 2024 for \"glorifying terrorism\".",
+      "url": "https://www.france24.com/en/france/20260518-france-justice-minister-to-visit-algeria-amid-diplomatic-thaw-jailed-journalist-christophe-gleizes",
+      "published": "Mon, 18 May 2026 05:54:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 France's justice minister to visit Algeria amid diplomatic thaw"
     },
     {
       "title": "What to know about joint US-Nigeria operation that killed a senior militant leader",
@@ -1337,17 +1353,6 @@
       "description": "The private world of one of Africa's most powerful political women is revealed in a BBC World Service exclusive.",
       "url": "https://www.bbc.com/news/articles/cvgzpz7zyd4o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 17 May 2026 23:01:51 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Secret police and propaganda: The Chinese agents spying on expats in US",
-      "description": "Experts say two espionage cases in the US highlight China's attempts to peddle influence globally over the past decade.",
-      "url": "https://www.bbc.com/news/articles/cm2p8z261ylo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 23:15:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1463,6 +1468,17 @@
       "ticker_label": "🪖 Inside the 'kill-zone' on Ukraine's front line, where new weapons have transformed war"
     },
     {
+      "title": "Sinner wins Italian Open to complete career Golden Masters",
+      "description": "The first Italian to win the title in 50 years enters the French Open as favourite with Alcaraz out injured.",
+      "url": "https://www.aljazeera.com/sports/2026/5/18/sinner-wins-italian-open-to-complete-career-golden-masters?traffic_source=rss",
+      "published": "Mon, 18 May 2026 06:27:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "How ISWAP and Boko Haram are reshaping the Lake Chad Basin",
       "description": "Communities in the Lake Chad Basin face rising violence amid economic hardship and weak governance.",
       "url": "https://www.aljazeera.com/news/2026/5/18/how-iswap-and-boko-haram-are-reshaping-the-lake-chad-basin?traffic_source=rss",
@@ -1472,20 +1488,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Italy’s leaders visit victims of Modena car-ramming, stabbing attacks",
-      "description": "The attacks carried out by 31-year-old Salim El Khoudri appear related 'to a situation of psychiatric distress'.",
-      "url": "https://www.aljazeera.com/news/2026/5/17/italian-leaders-visit-victims-of-modena-car-ramming-stabbing-attacks?traffic_source=rss",
-      "published": "Sun, 17 May 2026 17:17:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Italy’s leaders visit victims of Modena car-ramming, stabbing attacks"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1538,20 +1540,6 @@
       "ticker_label": "💥 Timmy the humpback whale found dead off Danish coast"
     },
     {
-      "title": "The war in Ukraine is at a standstill as societal fatigue grows in Russia",
-      "description": "With the peace process stalled, there are signs of growing public fatigue in Russia with the Kremlin's war as Ukraine uses robotic warfare to stay in the fight.",
-      "url": "https://www.npr.org/2026/05/16/nx-s1-5822468/the-war-in-ukraine-is-at-a-standstill-as-societal-fatigue-grows-in-russia",
-      "published": "Sat, 16 May 2026 07:43:41 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 The war in Ukraine is at a standstill as societal fatigue grows in Russia"
-    },
-    {
       "title": "Middle East: Trump warns Iran 'time is ticking' on deal",
       "description": "The US president said the Iranians should agree to a deal \"or there won't be anything left of them\" amid stalled peace talks. DW has more.",
       "url": "https://www.dw.com/en/middle-east-trump-warns-iran-time-is-ticking-on-deal/live-77179563?maca=en-rss-en-all-1573-xml-mrss",
@@ -1566,17 +1554,6 @@
       "ticker_label": "🪖 Middle East: Trump warns Iran 'time is ticking' on deal"
     },
     {
-      "title": "Dead humpback whale off Denmark is 'Timmy'",
-      "description": "Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany's Baltic coast. It comes two weeks after a contentious rescue operation.",
-      "url": "https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 17 May 2026 07:28:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Germany news: UNICEF says child well-being ranking 'alarming'",
       "description": "A new study ranks Germany near the bottom in child well-being and education. Meanwhile, an escaped tiger was killed by police after injuring a man near Leipzig. DW has more.",
       "url": "https://www.dw.com/en/germany-news-unicef-says-child-well-being-ranking-alarming/live-77178633?maca=en-rss-en-all-1573-xml-mrss",
@@ -1588,18 +1565,15 @@
       "is_ticker": false
     },
     {
-      "title": "India news: CNG gas price hiked in Delhi NCR amid Iran war fallout",
-      "description": "The price of CNG has increased in Delhi and the surrounding region for the second time in two days, as India grapples with the economic impact of the Iran war. DW has more.",
-      "url": "https://www.dw.com/en/india-news-cng-gas-price-hiked-in-delhi-ncr-amid-iran-war-fallout/live-77178271?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 17 May 2026 06:06:00 GMT",
+      "title": "Dead humpback whale off Denmark is 'Timmy'",
+      "description": "Divers have confirmed that a dead humpback whale spotted off Denmark is the same creature that spent weeks beached off Germany's Baltic coast. It comes two weeks after a contentious rescue operation.",
+      "url": "https://www.dw.com/en/dead-humpback-whale-off-denmark-is-timmy/a-77184917?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 17 May 2026 07:28:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 India news: CNG gas price hiked in Delhi NCR amid Iran war fallout"
+      "is_ticker": false
     },
     {
       "title": "Trump warns Iran that 'there won't be anything left of them' without peace deal",
@@ -1616,17 +1590,6 @@
       "ticker_label": "🪖 Trump warns Iran that 'there won't be anything left of them' without peace deal"
     },
     {
-      "title": "UK leadership crisis: ‘Keir Starmer is a lame duck Prime Minister’ says former Labour adviser",
-      "description": "It’s been a tumultuous week for Britain’s Prime Minister, Sir Keir Starmer, who is facing a leadership crisis. Following a chaotic week in which nearly 90 Labour MPs called on Starmer to resign, along with a series of ministerial resignations, the Prime Minister is clinging on to power. Former Health Secretary Wes Streeting has said he would stand in any leadership contest, while Andy Burnham, Mayor of Greater Manchester, is plotting a return to Parliament after confirming he will stand in the Makerfield by-election. To discuss the unfolding events, France 24’s Gavin Lee is joined by Karl Hansen, former Labour adviser and political writer for Tribune Magazine.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260517-uk-leadership-crisis-keir-starmer-is-a-lame-duck-prime-minister-says-former-labour-adviser",
-      "published": "Sun, 17 May 2026 13:22:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "'Everyone is doing it': The dark art of GPS jamming in the Iran war",
       "description": "More than a million GPS jamming incidents have been recorded since the start of the Iran war, with experts telling Sky News that \"everyone is doing it\".",
       "url": "https://news.sky.com/story/everyone-is-doing-it-the-dark-art-of-gps-jamming-in-the-iran-war-13542156",
@@ -1641,10 +1604,10 @@
       "ticker_label": "🪖 'Everyone is doing it': The dark art of GPS jamming in the Iran war"
     },
     {
-      "title": "Cuban dancer finds meaning and work in the streets as the island's art scene fades",
-      "description": "Renowned Cuban dancer and choreographer Juan Miguel Mas, has faced significant challenges due to Cuba's economic crisis",
-      "url": "https://abcnews.com/International/wireStory/cuban-dancer-finds-meaning-work-streets-islands-art-132992619",
-      "published": "Fri, 15 May 2026 07:59:43 -0400",
+      "title": "Humpback whale released after spectacular rescue effort found dead",
+      "description": "The whale had repeatedly becoming stranded off Germany’s Baltic Sea coast.",
+      "url": "https://abcnews.com/International/wireStory/humpback-whale-released-after-spectacular-rescue-effort-found-133032671",
+      "published": "Sat, 16 May 2026 12:10:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1680,6 +1643,39 @@
       "ticker_label": "💥 King Charles 'shocked and saddened' over soldier's 'unexplained' death at horse show he attended"
     },
     {
+      "title": "Police running out of room to store illegal cigarettes they’ve seized amid Australia’s booming illicit trade",
+      "description": "Inquiry into black market hears cost of destroying vapes has also soared, with some requiring manual dismantling Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Police are struggling to store a growing wave of illegal cigarettes and vapes seized from criminals, with secure facilities at capacity and the high cost of destroying illicit products becoming prohibitive. The Australian federal police (AFP) has been spending as much as $13 a kilogram for vapes to be destroyed, with some companies requiring the cartridge, battery and heating element to be manually dismantled. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/18/illegal-tobacco-cigarettes-vapes-australia-police-run-out-storage",
+      "published": "Mon, 18 May 2026 07:12:30 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Taiwan’s president defends US arms purchases that Trump called 'bargaining chip'",
+      "description": "Taiwan’s president says arms purchases from the United States are crucial for regional stability, after President Donald Trump questioned continued U.S. support for Taiwan following his visit to China",
+      "url": "https://abcnews.com/International/wireStory/taiwans-president-defends-us-arms-purchases-trump-called-133052120",
+      "published": "Mon, 18 May 2026 01:37:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Canadian cruise passenger gets a presumptive positive hantavirus test result after ship outbreak",
+      "description": "Canadian officials have reported that one of four Canadians returning from a cruise ship with a hantavirus outbreak has a “presumptive positive” test result",
+      "url": "https://abcnews.com/International/wireStory/canadian-cruise-passenger-gets-presumptive-positive-hantavirus-test-133039187",
+      "published": "Sat, 16 May 2026 18:57:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1703,17 +1699,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Xi Jinping prepares to welcome Vladimir Putin to China, four days after hosting Donald Trump"
-    },
-    {
-      "title": "The townspeople of Vilseck, Germany, worry that Trump may pull out 5,000 U.S. troops",
-      "description": "President Trump's troop withdrawal threat rattles residents of a small Bavarian town reliant on U.S. military personnel and their families for both income and friendships built over decades.",
-      "url": "https://www.npr.org/2026/05/16/nx-s1-5815881/trump-germany-withdrawal-nato-us-troops-vilseck",
-      "published": "Sat, 16 May 2026 06:00:00 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "North Korean women's football team makes rare visit to South",
@@ -1749,10 +1734,10 @@
       "is_ticker": false
     },
     {
-      "title": "Latin American nationals deported by the US to Congo face an uncertain future",
-      "description": "Fifteen people deported from the U.S. to Congo under the Trump administration's policy face difficult conditions",
-      "url": "https://abcnews.com/International/wireStory/latin-american-nationals-deported-us-congo-face-uncertain-132999774",
-      "published": "Fri, 15 May 2026 10:50:03 -0400",
+      "title": "Hong Kong court hears final arguments in former Tiananmen vigil organizers' trial",
+      "description": "A Hong Kong court is hearing final arguments in the national security trial of two organizers of vigils commemorating the 1989 Tiananmen Square crackdown",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-court-hears-final-arguments-former-tiananmen-133060816",
+      "published": "Mon, 18 May 2026 02:34:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1760,13 +1745,13 @@
       "is_ticker": false
     },
     {
-      "title": "London police out in force dealing with rival rallies and a soccer final",
-      "description": "Police in London are patrolling the streets of the U.K. capital as tens of thousands join two major demonstrations and soccer fans congregate for the final of England’s major domestic cup competition",
-      "url": "https://abcnews.com/International/wireStory/london-police-prepare-busy-day-big-rallies-planned-133028023",
-      "published": "Sat, 16 May 2026 10:50:03 -0400",
-      "source": "ABC News International",
+      "title": "Driver of crashed train tested positive for drugs, Thai police say",
+      "description": "The freight train collided with a bus in Bangkok, killing eight people and injuring dozens of others.",
+      "url": "https://www.bbc.com/news/articles/c3v2ngnpgl9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 18 May 2026 07:03:56 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 6,
+      "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1780,20 +1765,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Israel kills three Palestinians in strike on an aid kitchen in Gaza",
-      "description": "Israel bombed a kitchen that provided meals to the displaced in Gaza, killing three and injuring others.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-kills-three-palestinians-in-strike-on-an-aid-kitchen-in-gaza?traffic_source=rss",
-      "published": "Sun, 17 May 2026 19:15:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel kills three Palestinians in strike on an aid kitchen in Gaza"
     },
     {
       "title": "Canada confirms first hantavirus case in isolation in British Columbia",
@@ -1822,7 +1793,7 @@
     },
     {
       "title": "England defeat France to secure eighth consecutive Women’s Six Nations title",
-      "description": "England won a record eighth consecutive Women's Six Nations title and fifth successive Grand Slam after beating host France 43-28 on Sunday. Unbeaten France with backing from its largest ever home crowd was expected to seriously threaten England's relentless domination of the championship.",
+      "description": "England won a record eighth consecutive Women's Six Nations title and fifth successive Grand Slam after beating host France 43-28 on Sunday. Unbeaten France, with backing from its largest ever home crowd, was expected to seriously threaten England's relentless domination of the championship.",
       "url": "https://www.france24.com/en/sport/20260517-england-defeat-france-to-secure-eighth-consecutive-women-s-six-nations-title",
       "published": "Sun, 17 May 2026 18:52:37 GMT",
       "source": "France24",
@@ -1857,6 +1828,17 @@
       "ticker_label": "🪖 Ukraine strikes Russia: Zelensky says response to Moscow's agression 'justified'"
     },
     {
+      "title": "Nine UK citizens exposed to hantavirus returning to Britain",
+      "description": "Nine people connected to the MV Hondius cruise ship, which was hit by a hantavirus outbreak, are set to arrive in the UK.",
+      "url": "https://news.sky.com/story/ukhsa-gives-update-on-hantavirus-contacts-returning-to-uk-13545270",
+      "published": "Sun, 17 May 2026 18:29:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Four crew members ejected after military jets crash during US air show",
       "description": "All four crew members were safely ejected after two navy jets crashed during an air show at Mountain Home Air Force Base in Idaho.",
       "url": "https://news.sky.com/story/four-crew-members-ejected-after-military-jets-crash-during-us-air-show-13545329",
@@ -1871,33 +1853,11 @@
       "ticker_label": "✈️ Four crew members ejected after military jets crash during US air show"
     },
     {
-      "title": "Nine UK citizens exposed to hantavirus returning to Britain",
-      "description": "Nine people connected to the MV Hondius cruise ship, which was hit by a hantavirus outbreak, are set to arrive in the UK.",
-      "url": "https://news.sky.com/story/ukhsa-gives-update-on-hantavirus-contacts-returning-to-uk-13545270",
-      "published": "Sun, 17 May 2026 18:29:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Train driver charged after deadly crash in Thailand&#160;",
       "description": "A train driver has been charged with ‌negligence after a freight ‌train collided with a bus at a rail crossing in Bangkok, ​killing eight people and injuring 32.",
       "url": "https://news.sky.com/story/train-driver-charged-after-deadly-crash-in-thailand-13545087",
       "published": "Sun, 17 May 2026 15:08:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Cargo train hits a public bus at a Bangkok rail crossing, killing at least 8",
-      "description": "A train has crashed into a public bus in Bangkok, killing at least eight people",
-      "url": "https://abcnews.com/International/wireStory/cargo-train-hits-public-bus-bangkok-rail-crossing-133028024",
-      "published": "Sat, 16 May 2026 08:57:59 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -2056,6 +2016,17 @@
       "is_ticker": false
     },
     {
+      "title": "Growing bread queues in Gaza as Israel restricts fuel, flour imports",
+      "description": "Bread shortages deepen in Gaza as flour imports dwindle and bakeries struggle to meet rising demand amid fuel scarcity.",
+      "url": "https://www.aljazeera.com/news/2026/5/18/growing-bread-lines-gaza-israel-restricts-fuel-flour?traffic_source=rss",
+      "published": "Mon, 18 May 2026 06:49:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -2067,15 +2038,18 @@
       "is_ticker": false
     },
     {
-      "title": "‘Quieter and cleaner’: Sydney to trial electric ferry after two-year delay, with new fish market route slated for 2029",
-      "description": "NSW transport minister says contracts signed for 24-metre, battery electric ferry to be trialled for 12 months from 2028 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Spluttering journeys across Sydney Harbour could soon be a thing of the past after a trial of the city’s first Australian-made and designed electric ferry. The New South Wales government says contracts have been signed for the new 24-metre, battery electric ferry to be trialled for 12 months from 2028 – two years later than originally planned. It is hoped it will operate on a new Sydney fish market route when it enters passenger service in 2029. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/18/sydney-electric-ferry-trial-new-fish-market-route",
-      "published": "Mon, 18 May 2026 04:01:33 GMT",
-      "source": "The Guardian World",
+      "title": "Former mayor shot dead in central Colombia during election campaign",
+      "description": "A former mayor allied with presidential candidate Abelardo de La Espriella was shot dead in Colombia’s heartland, local authorities say",
+      "url": "https://abcnews.com/International/wireStory/former-mayor-shot-dead-central-colombia-election-campaign-133038668",
+      "published": "Sat, 16 May 2026 18:59:48 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Former mayor shot dead in central Colombia during election campaign"
     },
     {
       "title": "Driver identified after car plows into crowd injuring 8; passerby stabbed",
@@ -2128,11 +2102,22 @@
       "is_ticker": false
     },
     {
-      "title": "Foreign tourists are falling out of love with Goa - here's why",
-      "description": "Foreign visitors to Goa have nearly halved from their pre-Covid peak even as domestic tourism is booming.",
-      "url": "https://www.bbc.com/news/articles/cy827p9lg03o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 16 May 2026 23:08:06 GMT",
-      "source": "BBC News",
+      "title": "Britain faces weeks of leadership limbo in slow-motion coup against Starmer",
+      "description": "Keir Starmer battles to retain his authority, critics say he's a 'lame-duck' leader.",
+      "url": "https://www.aljazeera.com/news/2026/5/18/britain-faces-weeks-of-leadership-limbo-in-slow-motion-coup-against-starmer?traffic_source=rss",
+      "published": "Mon, 18 May 2026 06:53:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Former UK Health Secretary Wes Streeting announces bid to replace Starmer",
+      "description": "Former UK Health Secretary Wes Streeting has announced he will run against Prime Minister Keir Starmer as Labour leader",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/former-uk-health-secretary-wes-streeting-announces-bid-to-replace-starmer?traffic_source=rss",
+      "published": "Mon, 18 May 2026 06:12:23 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2179,28 +2164,6 @@
       "description": "Pakistan Interior Minister Mohsin Naqvi met Iranian President Masoud Pezeshkian in Tehran",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/pakistan-interior-minister-holds-talks-with-iranian-president-in-tehran?traffic_source=rss",
       "published": "Sun, 17 May 2026 23:28:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Peruvian authorities confirm Fujimori and Sanchez advance to runoff",
-      "description": "Candidates will face off on June 7 election after first round of voting marred by logistical errors, fraud allegations.",
-      "url": "https://www.aljazeera.com/news/2026/5/17/peruvian-authorities-confirm-fujimori-and-sanchez-advance-to-runoff?traffic_source=rss",
-      "published": "Sun, 17 May 2026 18:29:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "France listening to 10 ‘new’ suspected victims of Epstein: Prosecutor",
-      "description": "French magistrates investigate possible offences involving French perpetrators who facilitated Jeffrey Epstein's crimes.",
-      "url": "https://www.aljazeera.com/news/2026/5/17/france-listening-to-10-new-suspected-victims-of-epstein-prosecutor?traffic_source=rss",
-      "published": "Sun, 17 May 2026 17:44:07 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2340,10 +2303,10 @@
       "is_ticker": false
     },
     {
-      "title": "Passenger detained and banned from Qantas after allegedly biting attendant on flight from Australia to US",
-      "description": "Flight from Melbourne to Dallas forced to land in Tahiti due to man’s alleged disruptive behaviour Get our breaking news email , free app or daily news podcast A passenger has been detained in Tahiti and banned from future Qantas travel after a plane travelling on a long-haul flight from Australia to the US was diverted at the weekend after the man allegedly bit a flight attendant. The QF21 flight left Melbourne at 2.30pm on Friday en route to Dallas and was diverted to Papeete in Tahiti seven hours later when the behaviour of the disruptive passenger forced it to land. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/may/17/qantas-passenger-banned-alleged-biting-flight-attendant-melbourne-tahiti-dallas-ntwnfb",
-      "published": "Mon, 18 May 2026 02:03:30 GMT",
+      "title": "‘Quieter and cleaner’: Sydney to trial electric ferry after two-year delay",
+      "description": "NSW transport minister says contracts signed for 24-metre, battery electric ferry to be trialled for 12 months from 2028 Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Spluttering journeys across Sydney Harbour may soon give way to quieter trips with the New South Wales government to trial an electric ferry from 2028 before the fleet is expanded. The government said on Monday that contracts had been signed for the new 24-metre, battery electric ferry to be trialled for 12 months from 2028 – two years later than originally planned. It is hoped it will operate on a new Sydney fish market route when it enters passenger service in 2029. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/18/sydney-electric-ferry-trial-new-fish-market-route",
+      "published": "Mon, 18 May 2026 04:01:33 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2367,6 +2330,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sxwq",
       "published": "2026-05-17T23:52:55.821Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Peru's electoral board confirms June 7 presidential runoff",
+      "description": "Authorities confirmed on Sunday the official results of the first round of the presidential elections in early April, with Keiko Fujimori and Roberto Sánchez advancing to the runoff on June 7.",
+      "url": "https://www.npr.org/2026/05/18/g-s1-122536/peru-presidential-runoff",
+      "published": "Mon, 18 May 2026 01:50:23 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2456,6 +2430,28 @@
       "ticker_label": "💥 German transport minister promotes green hydrogen in Japan"
     },
     {
+      "title": "Ligue 1: Lille qualify for Champions League despite last matchday loss",
+      "description": "Lille lost to Auxerre (2-0) but retain third place at the end of the final matchday of Ligue 1. Lyon finish fourth, Marseille fifth.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260518-ligue-1-lille-qualify-for-champions-league-despite-last-matchday-loss",
+      "published": "Mon, 18 May 2026 06:12:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "California jury to deliberate on Musk's blockbuster lawsuit against OpenAI",
+      "description": "A jury is set to deliberate Monday on Silicon Valley's first major AI trial, pitting billionaire Elon Musk against AI giant OpenAI and its CEO Sam Altman. In his lawsuit, Musk argued that OpenAI's pivot to an $850 billion juggernaut betrayed its original nonprofit mandate and that it improperly used a $38 million donation.",
+      "url": "https://www.france24.com/en/americas/20260518-california-jury-set-to-deliberate-on-silicon-valley-s-first-major-ai-trial",
+      "published": "Mon, 18 May 2026 01:17:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Cannes Film Festival: Follow the latest news with Eve Jackson",
       "description": "Eve Jackson is live from Cannes.",
       "url": "https://www.france24.com/en/cannes-film-festival-follow-the-latest-news-with-eve-jackson",
@@ -2467,10 +2463,10 @@
       "is_ticker": false
     },
     {
-      "title": "Are Google and SpaceX plotting space-based data centres?",
-      "description": "Tech giants are increasingly looking beyond Earth to solve one of AI's biggest growing pains: where to put all the computers.",
-      "url": "https://www.france24.com/en/business/20260517-are-google-and-spacex-plotting-space-based-data-centres",
-      "published": "Sun, 17 May 2026 13:37:26 GMT",
+      "title": "France’s film giant Canal+ to blacklist hundreds over petition against right-wing owner",
+      "description": "France's biggest film producer Canal+ will no longer work with hundreds of industry professionals who signed a petition against right-wing owner Vincent Bolloré, the group's chief executive announced Sunday at the Cannes Film Festival, sending shockwaves through the European film industry. The petition called on people to mobilise against \"the growing grip of the far right\" on French film.",
+      "url": "https://www.france24.com/en/france/20260517-shock-threat-by-billionaire-bollore-s-canal-group-rocks-french-cinema",
+      "published": "Sun, 17 May 2026 15:17:11 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2511,21 +2507,10 @@
       "is_ticker": false
     },
     {
-      "title": "It's official: Wes Streeting of the Labour Party wants to be Britain's next prime minister",
-      "description": "Wes Streeting's ambition to head the British government was one of the worst-kept secrets in U.K. politics",
-      "url": "https://abcnews.com/International/wireStory/official-wes-streeting-labour-party-britains-prime-minister-133045646",
-      "published": "Sun, 17 May 2026 05:39:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Researchers stunned by forgotten medieval book in Rome hiding the oldest English poem",
-      "description": "Researchers in Dublin have uncovered the oldest surviving English poem in a Roman library",
-      "url": "https://abcnews.com/International/wireStory/researchers-stunned-forgotten-medieval-book-rome-hiding-oldest-133045261",
-      "published": "Sun, 17 May 2026 09:22:02 -0400",
+      "title": "Peru's electoral board confirms June 7 presidential runoff with Fujimori and Sánchez",
+      "description": "Peruvian electoral authorities have confirmed the results of the first round of presidential elections",
+      "url": "https://abcnews.com/International/wireStory/perus-electoral-board-confirms-june-7-presidential-runoff-133050906",
+      "published": "Sun, 17 May 2026 22:34:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2544,10 +2529,10 @@
       "is_ticker": false
     },
     {
-      "title": "Peru's electoral board confirms June 7 presidential runoff with Fujimori and Sánchez",
-      "description": "Peruvian electoral authorities have confirmed the results of the first round of presidential elections",
-      "url": "https://abcnews.com/International/wireStory/perus-electoral-board-confirms-june-7-presidential-runoff-133050906",
-      "published": "Sun, 17 May 2026 11:07:11 -0400",
+      "title": "It's official: Wes Streeting of the Labour Party wants to be Britain's next prime minister",
+      "description": "Wes Streeting's ambition to head the British government was one of the worst-kept secrets in U.K. politics",
+      "url": "https://abcnews.com/International/wireStory/official-wes-streeting-labour-party-britains-prime-minister-133045646",
+      "published": "Sun, 17 May 2026 20:49:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2555,10 +2540,10 @@
       "is_ticker": false
     },
     {
-      "title": "Indonesia's first giant panda cub, Rio, is growing and healthy before his public debut",
-      "description": "The first giant panda born in Indonesia was squirming as veterinarians checked his hearing and eyesight and confirmed the furry cub was growing and healthy",
-      "url": "https://abcnews.com/International/wireStory/indonesias-giant-panda-cub-rio-growing-healthy-public-132992902",
-      "published": "Fri, 15 May 2026 07:34:18 -0400",
+      "title": "Researchers stunned by forgotten medieval book in Rome hiding the oldest English poem",
+      "description": "Researchers in Dublin have uncovered the oldest surviving English poem in a Roman library",
+      "url": "https://abcnews.com/International/wireStory/researchers-stunned-forgotten-medieval-book-rome-hiding-oldest-133045261",
+      "published": "Sun, 17 May 2026 09:22:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2566,10 +2551,10 @@
       "is_ticker": false
     },
     {
-      "title": "Zimbabwe’s vivid English first names carry family histories, from Privilege to Shame",
-      "description": "In Zimbabwe, first names like Have-A-Look, Handsome, Promise, Confidence and Trust carry deep significance",
-      "url": "https://abcnews.com/International/wireStory/zimbabwes-vivid-english-names-carry-family-histories-privilege-132986570",
-      "published": "Fri, 15 May 2026 08:00:40 -0400",
+      "title": "Venezuela says it deported close ally of Maduro to face judicial proceedings in US",
+      "description": "Venezuela’s government says it has deported a close ally of Nicolás Maduro to face judicial proceedings in the U.S. less than three years after the businessman was pardoned by President Joe Biden as part of a prisoner swap",
+      "url": "https://abcnews.com/International/wireStory/venezuela-deported-close-ally-maduro-face-judicial-proceedings-133039643",
+      "published": "Sat, 16 May 2026 18:54:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2577,10 +2562,10 @@
       "is_ticker": false
     },
     {
-      "title": "Putin to visit Chinese leader Xi Jinping days after Trump's trip to Beijing",
-      "description": "Russian President Vladimir Putin will meet with Chinese leader Xi Jinping on a two-day trip to Beijing next week, the Kremlin says",
-      "url": "https://abcnews.com/International/wireStory/putin-visit-chinese-leader-xi-jinping-days-after-133027821",
-      "published": "Sat, 16 May 2026 10:10:03 -0400",
+      "title": "Russia eases citizenship rules for residents of Moldova’s breakaway Transnistria",
+      "description": "The Kremlin has approved new measures allowing citizens from Moldova’s breakaway region of Transnistria to gain Russian citizenship more easily",
+      "url": "https://abcnews.com/International/wireStory/russia-eases-citizenship-rules-residents-moldovas-breakaway-transnistria-133028707",
+      "published": "Sat, 16 May 2026 10:54:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
