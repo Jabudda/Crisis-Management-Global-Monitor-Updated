@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19T01:13:20.697849Z",
+  "last_updated": "2026-05-19T02:25:13.337251Z",
   "event_count": 221,
   "events": [
     {
@@ -74,6 +74,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 45,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia news live: NSW premier ‘devastated’ by domestic violence murder charges after seeing ‘glimmers of progress’ on prevention",
+      "description": "Chris Minns says NSW government will continue to push for reforms on bail conditions. Follow today’s news live Get our breaking news email , free app or daily news podcast Global Sumud Flotilla participants urge Australian government to intervene and ‘keep us safe’ The Australians that the Global Sumud Flotilla allege have been kidnapped by the Israel Defense Forces (IDF) are academics, doctors, students, activists and film-makers. This is now the second time Israel has illegally abducted Australian citizens in international waters, and our government has said nothing … For as long as Australia continues to support Israel’s genocide, Australians will keep sailing. You never know the minute when the Israelis decide that ‘yeah, let’s fuck over some ordinary people,’ 500 of them, who have got a whole load of baby food in boats trying to break their illegal siege in international waters. Here we are in international waters, and our governments are completely failing us. Do everything that you can to keep us safe. When people are unwell with colds or flu, they can’t donate, even if they want to. But the need for blood doesn’t slow down. Patients undergoing cancer treatment, people needing surgery, and those injured in accidents rely on blood every single day. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
+      "published": "Tue, 19 May 2026 02:03:41 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 43,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -174,17 +185,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "News live: Dfat ‘urgently seeking’ welfare updates for 11 Australians taken from Gaza aid flotilla",
-      "description": "Spokesperson said Dfat encouraged those wishing to deliver humanitarian aid to Gaza ‘to do so through established channels’. Follow today’s news live Get our breaking news email , free app or daily news podcast Global Sumud Flotilla participants urge Australian government to intervene and ‘keep us safe’ The Australians that the Global Sumud Flotilla allege have been kidnapped by the Israel Defense Forces (IDF) are academics, doctors, students, activists and film-makers. This is now the second time Israel has illegally abducted Australian citizens in international waters, and our government has said nothing … For as long as Australia continues to support Israel’s genocide, Australians will keep sailing. You never know the minute when the Israelis decide that ‘yeah, let’s fuck over some ordinary people,’ 500 of them, who have got a whole load of baby food in boats trying to break their illegal siege in international waters. Here we are in international waters, and our governments are completely failing us. Do everything that you can to keep us safe. When people are unwell with colds or flu, they can’t donate, even if they want to. But the need for blood doesn’t slow down. Patients undergoing cancer treatment, people needing surgery, and those injured in accidents rely on blood every single day. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
-      "published": "Tue, 19 May 2026 01:01:29 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 33,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -454,6 +454,20 @@
       "ticker_label": "🪖 WHO sounds alarm over nicotine pouches targeting young people"
     },
     {
+      "title": "San Diego mosque shooting leaves 3 victims, 2 teen suspects dead, police say",
+      "description": "San Diego Police and SWAT officers rushed to the Islamic Center of San Diego Monday afternoon after reports of an active shooter prompted evacuations and a large emergency response.",
+      "url": "https://www.foxnews.com/us/san-diego-mosque-shooting-leaves-3-victims-2-teen-suspects-dead-police-say",
+      "published": "Mon, 18 May 2026 15:53:19 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 San Diego mosque shooting leaves 3 victims, 2 teen suspects dead, police say"
+    },
+    {
       "title": "Death toll from Israeli strikes on Lebanon passes 3,000, officials say",
       "description": "It marks a grim milestone in the conflict between Israel and the Lebanese armed group Hezbollah since March, despite a nominal ceasefire.",
       "url": "https://www.bbc.com/news/articles/cqjpglyjwjeo?at_medium=RSS&at_campaign=rss",
@@ -491,6 +505,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Afghan mothers and children face worsening hunger crisis, WFP warns"
+    },
+    {
+      "title": "Cuba warns of ‘bloodbath’ as US imposes new sanctions amid rising tensions",
+      "description": "Cuba’s leadership warned Monday of a “bloodbath” in the event of a US attack, as Washington imposed new sanctions on the country’s intelligence agency and senior officials. The escalation comes amid reports of heightened military tensions and claims of Cuban drone acquisitions from Russia and Iran.",
+      "url": "https://www.france24.com/en/americas/20260519-cuba-warns-of-bloodbath-as-us-imposes-new-sanctions-amid-rising-tensions",
+      "published": "Tue, 19 May 2026 01:36:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Cuba warns of ‘bloodbath’ as US imposes new sanctions amid rising tensions"
     },
     {
       "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant",
@@ -822,20 +850,6 @@
       "ticker_label": "🪖 LGBTIQ+ face mounting violence and discrimination, warns UN rights chief"
     },
     {
-      "title": "Active shooter reported at San Diego Islamic center as SWAT, emergency crews respond",
-      "description": "San Diego Police and SWAT officers rushed to the Islamic Center of San Diego Monday afternoon after reports of an active shooter prompted evacuations and a large emergency response.",
-      "url": "https://www.foxnews.com/us/active-shooter-reported-san-diego-islamic-center-swat-emergency-crews-respond",
-      "published": "Mon, 18 May 2026 15:53:19 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Active shooter reported at San Diego Islamic center as SWAT, emergency crews respond"
-    },
-    {
       "title": "US suspends joint defence effort with Canada dating back to World War II",
       "description": "The Trump administration has frequently accused US allies of failing to live up to mutual defence obligations.",
       "url": "https://www.aljazeera.com/news/2026/5/18/us-suspends-joint-defence-effort-with-canada-dating-back-to-world-war-ii?traffic_source=rss",
@@ -910,17 +924,6 @@
       "description": "Officials say gunmen in two separate attacks have shot and killed two police officers assigned to protect polio vaccination teams in northwest Pakistan",
       "url": "https://abcnews.com/International/wireStory/gunmen-kill-2-police-officers-assigned-protect-polio-133069008",
       "published": "Mon, 18 May 2026 10:53:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Attacks on schools in Nigeria leave more than 80 children missing, officials say",
-      "description": "Officials say that more than 80 children are missing after suspected militants attacked schools in Nigeria in the past week",
-      "url": "https://abcnews.com/International/wireStory/latest-militant-attacks-schools-nigeria-leave-80-children-133053873",
-      "published": "Sun, 17 May 2026 14:37:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -1292,20 +1295,6 @@
       "is_ticker": false
     },
     {
-      "title": "Russia and Belarus stage joint nuclear weapons drills",
-      "description": "Moscow and Minsk held joint military drills to practice using Russian nuclear weapons, the Belarus defence ministry said on Monday. Russia deployed nuclear-capable hypersonic missiles to its western neighbour last year, and in 2024 released revised doctrine placing Belarus under its nuclear umbrella.",
-      "url": "https://www.france24.com/en/europe/20260518-russia-and-belarus-stage-joint-nuclear-weapons-drills",
-      "published": "Mon, 18 May 2026 16:18:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia and Belarus stage joint nuclear weapons drills"
-    },
-    {
       "title": "Belarus launches joint drills with Russia to practice nuclear weapons use",
       "description": "They'll practice use of nuclear weapons Moscow deployed in Belarus.",
       "url": "https://abcnews.com/International/wireStory/belarus-launches-joint-drills-russia-practice-nuclear-weapons-133071824",
@@ -1456,7 +1445,7 @@
       "title": "Three killed in suspected hate crime at San Diego mosque",
       "description": "A note left by one of the teenage suspects contains general \"hate rhetoric\", investigators say.",
       "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 19 May 2026 00:54:14 GMT",
+      "published": "Tue, 19 May 2026 01:35:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -2546,17 +2535,6 @@
       "is_ticker": false
     },
     {
-      "title": "Brazilian court to rule on whether Belo Sun’s Amazon gold mine stays suspended",
-      "description": "A Brazilian court is set to rule on the controversial Volta Grande gold mine project in the Amazon, operated by Canadian company Belo Sun",
-      "url": "https://abcnews.com/International/wireStory/brazilian-court-rule-belo-suns-amazon-gold-mine-133081228",
-      "published": "Mon, 18 May 2026 15:17:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "What to know about the political chaos engulfing the UK's Labour Party and efforts to unseat Starmer",
       "description": "Beleaguered British Prime Minister Keir Starmer is trying to return to the business of running government",
       "url": "https://abcnews.com/International/wireStory/political-chaos-engulfing-uks-labour-party-efforts-unseat-133075451",
@@ -2612,6 +2590,17 @@
       "is_ticker": false
     },
     {
+      "title": "Brazilian court to rule on whether Belo Sun’s Amazon gold mine stays suspended",
+      "description": "A Brazilian court is set to rule on the controversial Volta Grande gold mine project in the Amazon, operated by Canadian company Belo Sun",
+      "url": "https://abcnews.com/International/wireStory/brazilian-court-rule-belo-suns-amazon-gold-mine-133081228",
+      "published": "Mon, 18 May 2026 15:17:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Iranian Nobel laureate Narges Mohammadi released from hospital",
       "description": "Iranian Nobel Peace Prize laureate Narges Mohammadi has been released from the hospital after more than two weeks",
       "url": "https://abcnews.com/International/wireStory/iranian-nobel-laureate-narges-mohammadi-released-hospital-133061670",
@@ -2621,6 +2610,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Rwandan genocide suspect Kabuga dies in custody in The Hague",
+      "description": "Félicien Kabuga, accused of bankrolling the Rwandan genocide, died in a hospital in The Hague while in custody, a U.N. court said",
+      "url": "https://abcnews.com/International/wireStory/rwandan-genocide-suspect-kabuga-dies-custody-hague-133037785",
+      "published": "Mon, 18 May 2026 08:00:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Rwandan genocide suspect Kabuga dies in custody in The Hague"
     },
     {
       "title": "Turning silence into stories: Cambodian activist amplifies LGBTQI+ youth voices",
