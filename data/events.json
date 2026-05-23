@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23T11:00:05.478180Z",
+  "last_updated": "2026-05-23T11:34:34.330763Z",
   "event_count": 223,
   "events": [
     {
@@ -59,7 +59,7 @@
       "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
       "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 10:26:56 GMT",
+      "published": "Sat, 23 May 2026 11:23:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 48,
@@ -235,6 +235,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "China coal mine blast kills at least 90, leaves nine missing",
+      "description": "A gas explosion at the Liushenyu coal mine in China’s Shanxi province has killed at least 90 workers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/china-coal-mine-blast-kills-at-least-90-leaves-nine-missing?traffic_source=rss",
+      "published": "Sat, 23 May 2026 10:59:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -496,20 +507,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Torrential rain and floods batter China, killing at least 12 and forcing mass evacuations",
-      "description": "Torrential rain and floods have hit parts of China, killing at least 12 people and forcing tens of thousands to evacuate",
-      "url": "https://abcnews.com/International/wireStory/torrential-rain-floods-batter-china-killing-12-forcing-133137028",
-      "published": "Wed, 20 May 2026 02:26:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Torrential rain and floods batter China, killing at least 12 and forcing mass evacuations"
     },
     {
       "title": "Middle East war live: Iran considers latest peace proposal, accuses US of 'excessive demands'",
@@ -774,6 +771,17 @@
       "ticker_label": "🪖 US government releases UFO sighting reports - 'Orbs swarming in all directions'"
     },
     {
+      "title": "Senegal’s President Faye sacks PM Sonko and dissolves government",
+      "description": "The renewed instability could complicate bailout negotiations with the International Monetary Fund.",
+      "url": "https://www.aljazeera.com/news/2026/5/23/senegals-president-faye-sacks-pm-sonko-and-dissolves-government?traffic_source=rss",
+      "published": "Sat, 23 May 2026 10:35:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -797,20 +805,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US judge dismisses criminal indictment against Kilmar Ábrego García"
-    },
-    {
-      "title": "Cubans outraged at US charges against Raúl Castro as fears of military strikes grow",
-      "description": "It’s a nerve-racking time for Havana neighbours of top Cuban officials as fears of US attack mount A new question in being asked in Havana as people digest the news that the US has brought criminal charges against Cuba’s 94-year-old former president, Raúl Castro: who’s your neighbour? If you happen to live near a senior figure in Cuba’s government or armed forces, others suck their teeth in an expression of concerned sympathy. For the first time, US military strikes on the island are being considered a serious possibility. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/may/21/cuba-us-attack-raul-castro-indictment",
-      "published": "Thu, 21 May 2026 16:15:51 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Cubans outraged at US charges against Raúl Castro as fears of military strikes grow"
     },
     {
       "title": "Argentine freed from Venezuelan prison urges pressure to release remaining prisoners",
@@ -916,7 +910,7 @@
       "title": "Ukrainian drone attack triggers fire at a Russian oil terminal",
       "description": "A Ukrainian drone attack has caused a fire at a Russian oil terminal, according to officials in Russia’s Krasnodar region",
       "url": "https://abcnews.com/International/wireStory/ukrainian-drone-attack-triggers-fire-russian-oil-terminal-133246913",
-      "published": "Sat, 23 May 2026 06:32:24 -0400",
+      "published": "Sat, 23 May 2026 06:34:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -924,22 +918,36 @@
       "is_ticker": false
     },
     {
-      "title": "UN agencies step up Ebola response in eastern DR Congo",
-      "description": "United Nations agencies have moved swiftly to support efforts to contain the latest Ebola outbreak in eastern Democratic Republic of the Congo (DRC), delivering emergency medical supplies, protective equipment and logistics support.",
-      "url": "https://news.un.org/feed/view/en/story/2026/05/1167567",
-      "published": "Thu, 21 May 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Gunmen open fire in two separate attacks in Honduras, killing at least 16 people",
+      "description": "Gunmen have opened fire in two separate attacks on the Honduran coast, killing at least 16 people, including six police officers",
+      "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-separate-attacks-honduras-killing-16-133200849",
+      "published": "Thu, 21 May 2026 17:04:11 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
     },
     {
-      "title": "Bakery owner found dead near lake shoreline as police launch homicide investigation: officials",
-      "description": "Police ruled the death of kosher bakery owner Albert Itzkowitz, 75, found with gunshot wounds along Kissena Lake in Queens, a homicide Thursday.",
-      "url": "https://www.foxnews.com/us/bakery-owner-found-dead-near-lake-shoreline-police-launch-homicide-investigation-officials",
-      "published": "Fri, 22 May 2026 12:07:24 -0400",
-      "source": "Fox News US",
+      "title": "Brazilian grieving father says justice still missing after Airbus, Air France guilty verdict",
+      "description": "A Paris appeals court has found Airbus and Air France guilty of manslaughter in the 2009 crash of Flight 447 from Rio to Paris",
+      "url": "https://abcnews.com/International/wireStory/brazilian-grieving-father-justice-missing-after-airbus-air-133201312",
+      "published": "Thu, 21 May 2026 17:02:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Brazilian grieving father says justice still missing after Airbus, Air France guilty verdict"
+    },
+    {
+      "title": "UN agencies step up Ebola response in eastern DR Congo",
+      "description": "United Nations agencies have moved swiftly to support efforts to contain the latest Ebola outbreak in eastern Democratic Republic of the Congo (DRC), delivering emergency medical supplies, protective equipment and logistics support.",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167567",
+      "published": "Thu, 21 May 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -1062,6 +1070,20 @@
       "is_ticker": false
     },
     {
+      "title": "Man Utd’s Fernandes trumps Arsenal to Premier League player of season award",
+      "description": "Arsenal's Gabriel, David Raya and Declan Rice and Man City's Erling Haaland and Antoine Semenyo pipped to EPL award.",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss",
+      "published": "Sat, 23 May 2026 10:51:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Man Utd’s Fernandes trumps Arsenal to Premier League player of season award"
+    },
+    {
       "title": "World Cup 2026: Which star players will miss the tournament?",
       "description": "Al Jazeera takes a look at the high-profile players who will play no part in the tournament in North America.",
       "url": "https://www.aljazeera.com/sports/2026/5/23/world-cup-2026-which-star-players-will-miss-the-tournament?traffic_source=rss",
@@ -1117,6 +1139,17 @@
       "is_ticker": false
     },
     {
+      "title": "The trolls come indoors as a Danish recycling artist stages his first museum exhibit",
+      "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
+      "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
+      "published": "Sat, 23 May 2026 04:15:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Japanese woman who scaled the world's 14 top peaks says she wants to share joy",
       "description": "Naoko Watanabe, the first woman to summit K2 three times, has also climbed the world's 14 highest peaks",
       "url": "https://abcnews.com/International/wireStory/japanese-woman-scaled-worlds-14-top-peaks-share-133242248",
@@ -1128,10 +1161,10 @@
       "is_ticker": false
     },
     {
-      "title": "The trolls come indoors as a Danish recycling artist stages his first museum exhibit",
-      "description": "For more than a decade, Danish recycling artist Thomas Dambo has scattered wooden troll sculptures around the world",
-      "url": "https://abcnews.com/International/wireStory/trolls-indoors-danish-recycling-artist-stages-museum-exhibit-133246216",
-      "published": "Sat, 23 May 2026 04:15:48 -0400",
+      "title": "Indictment of former Cuban president includes 5 fighter jet pilots involved in 1996 plane downings",
+      "description": "Federal authorities in the United States have charged former Cuban President Raúl Castro and five fighter pilots in the 1996 downing of civilian planes operated by Miami-based exiles",
+      "url": "https://abcnews.com/International/wireStory/indictment-former-cuban-president-includes-5-fighter-jet-133197733",
+      "published": "Fri, 22 May 2026 02:50:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1205,6 +1238,17 @@
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "‘Canada is handing people over to ICE’: refugees rejected at border face US detention",
+      "description": "As Canada tightens asylum rules, refugees reuniting with family say they were turned over to ICE and jailed for months after failed border claims As each day in US detention passes, Markens Appolon can feel the life he had dreamed of slipping away. The 25-year-old fled Haiti to escape the rampant gang violence that upended his university studies in economics, and planned to join family in Montreal. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/23/canadians-refugees-rejected-face-ice-detention",
+      "published": "Sat, 23 May 2026 11:00:28 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1342,10 +1386,10 @@
       "ticker_label": "🪖 British troops train for war with Russia from the London Underground"
     },
     {
-      "title": "What to know about the death of Congolese man in Ireland",
-      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
-      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
-      "published": "Fri, 22 May 2026 07:28:09 -0400",
+      "title": "Pope Leo visits Italy's 'Land of Fires' as families seek justice for children lost to toxic waste",
+      "description": "Families in a toxic-waste polluted area around Naples are preparing to meet Pope Leo XIV during a pastoral visit",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-visits-italys-land-fires-families-seek-133246420",
+      "published": "Sat, 23 May 2026 04:15:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1353,10 +1397,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo visits Italy's 'Land of Fires' as families seek justice for children lost to toxic waste",
-      "description": "Families in a toxic-waste polluted area around Naples are preparing to meet Pope Leo XIV during a pastoral visit",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-visits-italys-land-fires-families-seek-133246420",
-      "published": "Sat, 23 May 2026 04:15:44 -0400",
+      "title": "What to know about the death of Congolese man in Ireland",
+      "description": "Hundreds of people in Ireland are calling for justice after the death of a Congolese man restrained by security guards in Dublin",
+      "url": "https://abcnews.com/International/wireStory/death-congolese-man-ireland-133214248",
+      "published": "Fri, 22 May 2026 07:28:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1543,6 +1587,17 @@
       "url": "https://news.sky.com/story/south-africas-julius-malema-the-opposition-leader-who-has-thrown-africas-oldest-surviving-political-party-into-disarray-again-13545092",
       "published": "Fri, 22 May 2026 00:01:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Canadian regulator triples American streamers' financial contributions to Canadian content",
+      "description": "Canada’s federal broadcast regulator says large online streaming services must contribute 15% of their Canadian revenues to Canadian content",
+      "url": "https://abcnews.com/International/wireStory/canadian-regulator-triples-american-streamers-financial-contributions-canadian-133203451",
+      "published": "Thu, 21 May 2026 17:47:17 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1748,17 +1803,6 @@
       "ticker_label": "🪖 Hezbollah MP reveals three things needed for lasting ceasefire with Israel"
     },
     {
-      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
-      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
-      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
-      "published": "Fri, 22 May 2026 02:11:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "How South African scientists identified hantavirus on a cruise ship thousands of miles away",
       "description": "South African infectious disease expert Lucille Blumberg was part of a team that identified a hantavirus outbreak on a Dutch cruise ship",
       "url": "https://abcnews.com/International/wireStory/south-african-scientists-identified-hantavirus-cruise-ship-thousands-133246689",
@@ -1784,18 +1828,15 @@
       "is_ticker": false
     },
     {
-      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
-      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
-      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
-      "published": "Thu, 21 May 2026 23:23:32 -0400",
+      "title": "Serbia's protesting students renew pressure on Vucic with a big weekend rally",
+      "description": "Serbia’s university students are gearing up for a major rally this weekend, pushing for political changes under President Aleksandar Vucic",
+      "url": "https://abcnews.com/International/wireStory/serbias-protesting-students-renew-pressure-vucic-big-weekend-133211155",
+      "published": "Fri, 22 May 2026 02:11:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Air France flight to US diverted to Montreal due to Ebola travel restrictions"
+      "is_ticker": false
     },
     {
       "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
@@ -1864,10 +1905,10 @@
       "is_ticker": false
     },
     {
-      "title": "Alberta province plans a public vote on whether to hold a binding referendum on leaving Canada",
-      "description": "The government in the oil-rich province of Alberta plans a referendum on leaving Canada but says it won't actually be a vote on whether to separate",
-      "url": "https://abcnews.com/International/wireStory/alberta-province-plans-public-vote-hold-binding-referendum-133208316",
-      "published": "Fri, 22 May 2026 02:23:27 -0400",
+      "title": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers",
+      "description": "Bundibugyo is the somewhat easy-to-mispronounce name of a species of Ebola",
+      "url": "https://abcnews.com/International/wireStory/ugandans-rue-link-bundibugyo-ebola-virus-type-named-133244301",
+      "published": "Fri, 22 May 2026 23:34:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1875,10 +1916,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ugandans rue link to Bundibugyo, the Ebola virus type named after a district of cocoa farmers",
-      "description": "Bundibugyo is the somewhat easy-to-mispronounce name of a species of Ebola",
-      "url": "https://abcnews.com/International/wireStory/ugandans-rue-link-bundibugyo-ebola-virus-type-named-133244301",
-      "published": "Fri, 22 May 2026 23:34:48 -0400",
+      "title": "Alberta province plans a public vote on whether to hold a binding referendum on leaving Canada",
+      "description": "The government in the oil-rich province of Alberta plans a referendum on leaving Canada but says it won't actually be a vote on whether to separate",
+      "url": "https://abcnews.com/International/wireStory/alberta-province-plans-public-vote-hold-binding-referendum-133208316",
+      "published": "Fri, 22 May 2026 02:23:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -2167,42 +2208,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump releases new batch of previously classified UFO files",
-      "description": "The Trump administration has released a second batch of previously classified files on UFO sightings.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/trump-releases-new-batch-of-previously-classified-ufo-files?traffic_source=rss",
-      "published": "Sat, 23 May 2026 05:33:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Trump releases new batch of previously classified UFO files"
-    },
-    {
-      "title": "Over 1.6 million pilgrims arrive in Saudi Arabia for hajj pilgrimage",
-      "description": "More than 1.6 million Muslim pilgrims have arrived in Saudi Arabia for the annual Hajj pilgrimage",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/over-1-6-million-pilgrims-arrive-in-saudi-arabia-for-hajj-pilgrimage?traffic_source=rss",
-      "published": "Sat, 23 May 2026 04:20:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Are India and Pakistan quietly preparing to restart dialogue?",
-      "description": "India and Pakistan remain publicly entrenched, even as unofficial voices push for renewed dialogue and restraint.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/are-india-and-pakistan-quietly-preparing-to-restart-dialogue?traffic_source=rss",
-      "published": "Sat, 23 May 2026 04:11:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2327,7 +2332,7 @@
       "title": "M 6.0 - 13 km S of Honaunau-Napoopoo, Hawaii",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-05-23 07:46:01 UTC 2026-05-23 07:46:01 UTC at epicenter Location 19.340°N 155.843°W Depth 22.64 km (14.07 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427",
-      "published": "2026-05-23T10:53:47.738Z",
+      "published": "2026-05-23T11:30:29.413Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2503,17 +2508,6 @@
       "ticker_label": "💥 Two-time NASCAR champion dies aged 41"
     },
     {
-      "title": "NATO allies bewildered by Trump's about face on US troop moves in Europe",
-      "description": "NATO allies and defense officials are bewildered by U.S. President Donald Trump's decision to send 5,000 U.S. troops to Poland",
-      "url": "https://abcnews.com/International/wireStory/nato-allies-bewildered-trumps-face-us-troop-moves-133212186",
-      "published": "Fri, 22 May 2026 03:57:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Everest record-holder Kami Rita Sherpa urges limit on climbers as crowds swell",
       "description": "A renowned Mount Everest guide who scaled the peak a record 32nd time this week says there's an urgent need to limit climbers on the summit",
       "url": "https://abcnews.com/International/wireStory/everest-record-holder-kami-rita-sherpa-urges-limit-133212475",
@@ -2525,32 +2519,21 @@
       "is_ticker": false
     },
     {
+      "title": "NATO allies bewildered by Trump's about face on US troop moves in Europe",
+      "description": "NATO allies and defense officials are bewildered by U.S. President Donald Trump's decision to send 5,000 U.S. troops to Poland",
+      "url": "https://abcnews.com/International/wireStory/nato-allies-bewildered-trumps-face-us-troop-moves-133212186",
+      "published": "Fri, 22 May 2026 03:57:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Puerto Rico governor promises to alleviate power and water shortages",
       "description": "Puerto Rico Gov. Jenniffer González is pledging to boost the amount of electric energy available to power the U.S. territory as chronic outages persist",
       "url": "https://abcnews.com/International/wireStory/puerto-rico-governor-promises-alleviate-power-water-shortages-133207393",
       "published": "Thu, 21 May 2026 23:22:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Cuba secured its independence on May 20, 1902, but the island doesn't celebrate it. Here's why",
-      "description": "Cuba's independence on May 20, 1902, isn't celebrated by its socialist government",
-      "url": "https://abcnews.com/International/wireStory/cuba-secured-independence-20-1902-island-celebrate-133166823",
-      "published": "Wed, 20 May 2026 18:53:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A veteran Panama Canal engineer becomes first woman to lead the interoceanic waterway",
-      "description": "Panamanian President José Raúl Mulino has announced Ilya Espino de Marotta as the new head of the Panama Canal, starting October 1",
-      "url": "https://abcnews.com/International/wireStory/veteran-panama-canal-engineer-woman-lead-interoceanic-waterway-133197757",
-      "published": "Thu, 21 May 2026 17:11:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2577,6 +2560,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167555",
       "published": "Wed, 20 May 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Key names to know as Murdaugh double-murder case gets stunning reset",
+      "description": "Alex Murdaugh faces a murder retrial after a court found clerk Becky Hill improperly influenced jurors. Here are the key names to know now.",
+      "url": "https://www.foxnews.com/us/key-names-know-murdaugh-double-murder-case-gets-stunning-reset",
+      "published": "Sat, 23 May 2026 07:00:21 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
