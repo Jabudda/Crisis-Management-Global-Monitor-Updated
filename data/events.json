@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-23T15:57:20.881231Z",
-  "event_count": 222,
+  "last_updated": "2026-05-23T16:28:31.959423Z",
+  "event_count": 223,
   "events": [
     {
       "title": "Security Council LIVE: Civilians in conflict under spotlight amid rising global toll",
@@ -20,7 +20,7 @@
       "title": "China mine death toll at least 82 after gas blast",
       "description": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi province At least 82 people have been killed in a gas explosion at a coalmine in northern China’s Shanxi province, in the country’s worst mining disaster in 17 years. The explosion happened on Friday at 7.29pm (12.29 BST) while 247 workers were underground at the Liushenyu coalmine in Qinyuan county, the state media agency Xinhua reported. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
-      "published": "Sat, 23 May 2026 09:57:03 GMT",
+      "published": "Sat, 23 May 2026 15:58:40 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 55,
@@ -29,17 +29,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 China mine death toll at least 82 after gas blast"
-    },
-    {
-      "title": "At least 82 killed in Chinese coal mine explosion, state media reports",
-      "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 23 May 2026 15:18:40 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 48,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Putin blames Ukraine after six killed in drone strike on school",
@@ -77,6 +66,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 44,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "At least 82 killed in Chinese coal mine explosion",
+      "description": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years.",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 23 May 2026 15:18:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 43,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -573,6 +573,20 @@
       "ticker_label": "🪖 Toxic chemical leak forces thousands to evacuate near Los Angeles"
     },
     {
+      "title": "Formula 1 legend 'injured during home invasion'",
+      "description": "Police in Switzerland are investigating a home invasion in which four-time Formula 1 world champion Alain Prost was reportedly injured.",
+      "url": "https://news.sky.com/story/alain-prost-formula-1-legend-injured-during-home-invasion-in-switzerland-13547293",
+      "published": "Sat, 23 May 2026 14:10:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Formula 1 legend 'injured during home invasion'"
+    },
+    {
       "title": "World News in Brief: Lives lost and aid destroyed in Ukraine, rainfall alert for Horn of Africa, $710 million appeal for Rohingya refugees",
       "description": "The Representative of the UN refugee agency, UNHCR, in Ukraine has strongly condemned the deadly and destructive Russian missile and drone strikes in Dnipro on Tuesday night.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167562",
@@ -785,17 +799,6 @@
       "ticker_label": "🪖 US government releases UFO sighting reports - 'Orbs swarming in all directions'"
     },
     {
-      "title": "Senegal’s President Faye sacks PM Sonko and dissolves government",
-      "description": "The renewed instability could complicate bailout negotiations with the International Monetary Fund.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/senegals-president-faye-sacks-pm-sonko-and-dissolves-government?traffic_source=rss",
-      "published": "Sat, 23 May 2026 10:35:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -854,6 +857,20 @@
       "is_ticker": false
     },
     {
+      "title": "Iran and US are close to an understanding aimed at ending the war, officials say",
+      "description": "The United States and Iran are close to agreeing on a memorandum of understanding to end the war, according to two regional officials and a diplomat",
+      "url": "https://abcnews.com/International/wireStory/iran-us-close-understanding-aimed-ending-war-officials-133250509",
+      "published": "Sat, 23 May 2026 12:05:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran and US are close to an understanding aimed at ending the war, officials say"
+    },
+    {
       "title": "Senegal's president sacks PM and former ally after months-long feud",
       "description": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
       "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
@@ -874,6 +891,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "US Secretary of State kicks off India visit, invites Modi to White House",
+      "description": "US-Israel war with Iran among issues looming large as Rubio expected to seek to mend in ties with New Delhi.",
+      "url": "https://www.aljazeera.com/news/2026/5/23/rubio-kicks-off-india-visit-invites-modi-to-the-white-house?traffic_source=rss",
+      "published": "Sat, 23 May 2026 15:52:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US Secretary of State kicks off India visit, invites Modi to White House"
     },
     {
       "title": "Rising global costs threaten Mexico’s production costs and food stability",
@@ -973,15 +1004,18 @@
       "ticker_label": "🪖 US, Nigeria strike ISIS fighters again from the air after killing senior leader"
     },
     {
-      "title": "More than 500 children killed in measles outbreak in Bangladesh",
-      "description": "Most cases recorded by doctors among children aged between six months and five years.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh?traffic_source=rss",
-      "published": "Sat, 23 May 2026 15:42:05 +0000",
+      "title": "Overnight Israeli strikes on Gaza leave behind heavy destruction",
+      "description": "Overnight Israeli strikes devastated the Nuseirat and Bureij refugee camps in central Gaza despite an ongoing ceasefire.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/overnight-israeli-strikes-on-gaza-leave-behind-heavy-destruction?traffic_source=rss",
+      "published": "Sat, 23 May 2026 15:53:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Overnight Israeli strikes on Gaza leave behind heavy destruction"
     },
     {
       "title": "White House pauses removal of detainees to the DRC as Ebola outbreak widens",
@@ -1183,20 +1217,6 @@
       "is_ticker": false
     },
     {
-      "title": "Man Utd’s Fernandes trumps Arsenal to Premier League player of season award",
-      "description": "Arsenal's Gabriel, David Raya and Declan Rice, and Man City's Erling Haaland and Antoine Semenyo, pipped to EPL award.",
-      "url": "https://www.aljazeera.com/sports/2026/5/23/man-utds-fernandes-trumps-arsenal-to-premier-league-player-of-season-award?traffic_source=rss",
-      "published": "Sat, 23 May 2026 10:51:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Man Utd’s Fernandes trumps Arsenal to Premier League player of season award"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1288,17 +1308,6 @@
       "ticker_label": "🪖 The pollution that outlives war"
     },
     {
-      "title": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
-      "description": "His comments come as Russia accuses Ukraine of killing 12 in an attack on a college.",
-      "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
-      "published": "Sat, 23 May 2026 10:10:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1375,17 +1384,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US: Tulsi Gabbard resigns as Trump's intelligence chief"
-    },
-    {
-      "title": "US bourbon bets big on India's growing market",
-      "description": "Bourbon, the uniquely US take on whiskey, is facing its most serious inventory crisis in decades. The industry is increasingly looking to India to boost sales.",
-      "url": "https://www.dw.com/en/us-bourbon-bets-big-on-india-s-growing-market/a-77265868?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 22 May 2026 14:03:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Uganda confirms three new Ebola cases as Africa CDC warns 10 countries 'at risk'",
@@ -1717,6 +1715,17 @@
       "is_ticker": false
     },
     {
+      "title": "More than 500 children die in measles outbreak in Bangladesh",
+      "description": "Most cases recorded by doctors among children aged between six months and five years.",
+      "url": "https://www.aljazeera.com/news/2026/5/23/more-than-500-children-killed-in-measles-outbreak-in-bangladesh?traffic_source=rss",
+      "published": "Sat, 23 May 2026 15:42:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
       "description": "The premier is offering 2,000 apprenticeships at the revived State Electricity Commission as part of a pre-election push Get our breaking news email , free app or daily news podcast Jacinta Allan has used Labor’s final state conference before the election to announce a plan for a government-owned electricity body to hire apprentices to address significant workforce shortages and job insecurity. The Victorian premier announced the plan in a speech that drew on her father’s experience as a linesman at the State Electricity Commission (SEC), which was revived by Daniel Andrews in 2023 after being privatised by former premier Jeff Kennett in the 1990s. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference",
@@ -1861,20 +1870,6 @@
       "is_ticker": false
     },
     {
-      "title": "Air France flight to US diverted to Montreal due to Ebola travel restrictions",
-      "description": "U.S. Customs and Border Protection said an Air France flight bound for Detroit was diverted to Montreal after a passenger from the Congo boarded “in error” amid flight restrictions tied to the Ebola outbreak",
-      "url": "https://abcnews.com/International/wireStory/air-france-flight-us-diverted-montreal-due-ebola-133186688",
-      "published": "Thu, 21 May 2026 23:23:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Air France flight to US diverted to Montreal due to Ebola travel restrictions"
-    },
-    {
       "title": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
       "description": "U.S.-brokered Israel-UAE alliance shows signs of strain after Netanyahu's claimed secret UAE visit drew a swift denial amid rising Iran tensions.",
       "url": "https://www.foxnews.com/world/netanyahu-blunder-threatens-us-backed-israel-uae-alliance-critical-moment-iran-analyst",
@@ -1992,6 +1987,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran sends ‘mixed’ messages as Pakistani mediators depart Tehran",
+      "description": "Pakistan’s army chief, Field Marshal Asim Munir, has reportedly departed Iran after holding multiple meetings.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/iran-sends-mixed-messages-as-pakistani-mediators-depart-tehran?traffic_source=rss",
+      "published": "Sat, 23 May 2026 16:06:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2189,6 +2195,17 @@
       "is_ticker": false
     },
     {
+      "title": "Mamelodi Sundowns vs AS FAR Rabat: CAF Champions League final preview",
+      "description": "South Africa's Mamelodi Sundowns are seeking to end a below-par season on a high when they face AS FAR Rabat in Morocco.",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/mamelodi-sundowns-vs-far-rabat-caf-champions-league-final-preview?traffic_source=rss",
+      "published": "Sat, 23 May 2026 15:48:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "French Open has ‘positive’ meeting with players over tennis dispute",
       "description": "Roland Garros director discusses greater revenue sharing with player representatives after boycott-impacted media day.",
       "url": "https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss",
@@ -2209,20 +2226,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Senegal’s President Faye sacks PM Sonko as deepening rift erupts",
-      "description": "Supporters of Senegal’s ousted prime minister have rallied outside his home in Dakar.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/senegals-president-faye-sacks-pm-sonko-as-deepening-rift-erupts?traffic_source=rss",
-      "published": "Sat, 23 May 2026 10:19:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Senegal’s President Faye sacks PM Sonko as deepening rift erupts"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2349,7 +2352,7 @@
       "title": "M 6.0 - 13 km S of Honaunau-Napoopoo, Hawaii",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-05-23 07:46:01 UTC 2026-05-23 07:46:01 UTC at epicenter Location 19.340°N 155.843°W Depth 22.64 km (14.07 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427",
-      "published": "2026-05-23T15:36:17.955Z",
+      "published": "2026-05-23T16:08:21.342Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2395,6 +2398,17 @@
       "url": "https://www.npr.org/2026/05/22/nx-s1-5830108/italys-prime-minister-wants-israel-to-apologize-for-treatment-of-flotilla-activists",
       "published": "Fri, 22 May 2026 04:43:01 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "In Iran, internet access becomes a luxury for the few",
+      "description": "Despite the ongoing internet blockade in Iran, access to \"Internet-Pro\" is available to select groups for a fee. Access to information and communication is increasingly becoming a luxury.",
+      "url": "https://www.dw.com/en/in-iran-internet-access-becomes-a-luxury-for-the-few/a-77231518?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 23 May 2026 16:22:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2500,10 +2514,10 @@
       "is_ticker": false
     },
     {
-      "title": "Everest record-holder Kami Rita Sherpa urges limit on climbers as crowds swell",
-      "description": "A renowned Mount Everest guide who scaled the peak a record 32nd time this week says there's an urgent need to limit climbers on the summit",
-      "url": "https://abcnews.com/International/wireStory/everest-record-holder-kami-rita-sherpa-urges-limit-133212475",
-      "published": "Fri, 22 May 2026 05:53:41 -0400",
+      "title": "NATO allies bewildered by Trump's about face on US troop moves in Europe",
+      "description": "NATO allies and defense officials are bewildered by U.S. President Donald Trump's decision to send 5,000 U.S. troops to Poland",
+      "url": "https://abcnews.com/International/wireStory/nato-allies-bewildered-trumps-face-us-troop-moves-133212186",
+      "published": "Fri, 22 May 2026 03:57:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2511,10 +2525,10 @@
       "is_ticker": false
     },
     {
-      "title": "NATO allies bewildered by Trump's about face on US troop moves in Europe",
-      "description": "NATO allies and defense officials are bewildered by U.S. President Donald Trump's decision to send 5,000 U.S. troops to Poland",
-      "url": "https://abcnews.com/International/wireStory/nato-allies-bewildered-trumps-face-us-troop-moves-133212186",
-      "published": "Fri, 22 May 2026 03:57:08 -0400",
+      "title": "Everest record-holder Kami Rita Sherpa urges limit on climbers as crowds swell",
+      "description": "A renowned Mount Everest guide who scaled the peak a record 32nd time this week says there's an urgent need to limit climbers on the summit",
+      "url": "https://abcnews.com/International/wireStory/everest-record-holder-kami-rita-sherpa-urges-limit-133212475",
+      "published": "Fri, 22 May 2026 05:53:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2533,10 +2547,10 @@
       "is_ticker": false
     },
     {
-      "title": "A veteran Panama Canal engineer becomes first woman to lead the interoceanic waterway",
-      "description": "Panamanian President José Raúl Mulino has announced Ilya Espino de Marotta as the new head of the Panama Canal, starting October 1",
-      "url": "https://abcnews.com/International/wireStory/veteran-panama-canal-engineer-woman-lead-interoceanic-waterway-133197757",
-      "published": "Thu, 21 May 2026 17:11:57 -0400",
+      "title": "Cuba secured its independence on May 20, 1902, but the island doesn't celebrate it. Here's why",
+      "description": "Cuba's independence on May 20, 1902, isn't celebrated by its socialist government",
+      "url": "https://abcnews.com/International/wireStory/cuba-secured-independence-20-1902-island-celebrate-133166823",
+      "published": "Wed, 20 May 2026 18:53:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
