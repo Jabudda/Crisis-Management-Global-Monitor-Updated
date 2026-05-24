@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24T12:33:45.944228Z",
+  "last_updated": "2026-05-24T13:37:09.316137Z",
   "event_count": 223,
   "events": [
     {
@@ -76,6 +76,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Weather tracker: Heavy rain triggers flooding and landslides in parts of China"
+    },
+    {
+      "title": "Russia pounds Kyiv in powerful drone and missile attack",
+      "description": "At least two people were killed and 77 injured in the attack, which included the use of a powerful hypersonic ballistic missile called the Oreshnik, which is capable of carrying a nuclear warhead.",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
+      "published": "Sun, 24 May 2026 05:12:28 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 39,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia pounds Kyiv in powerful drone and missile attack"
     },
     {
       "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
@@ -223,8 +237,8 @@
       "is_ticker": false
     },
     {
-      "title": "More than 20 people killed in suicide bombing targeting Pakistani passenger train",
-      "description": "At least 23 people have been killed after a suicide bomber detonated his explosive-laden car near a railway in the city of Quetta, in southwestern Pakistan, just as a passenger train passed. More than 70 people were also injured in the blast so powerful that two of the train cars overturned and caught fire.",
+      "title": "Dozens killed in suicide bombing targeting Pakistani passenger train",
+      "description": "At least 24 people have been killed after a suicide bomber detonated his explosive-laden car near a railway in the city of Quetta, in southwestern Pakistan, just as a passenger train passed. More than 70 people were also injured in the blast so powerful that two of the train cars overturned and caught fire.",
       "url": "https://www.france24.com/en/asia-pacific/20260524-more-than-20-people-killed-in-suicide-bombing-targeting-pakistani-passenger-train",
       "published": "Sun, 24 May 2026 10:12:01 GMT",
       "source": "France24",
@@ -234,7 +248,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 More than 20 people killed in suicide bombing targeting Pakistani passenger train"
+      "ticker_label": "💥 Dozens killed in suicide bombing targeting Pakistani passenger train"
     },
     {
       "title": "30,000 people flee fresh violence in Haiti as hunger crisis deepens",
@@ -395,6 +409,17 @@
       "is_ticker": false
     },
     {
+      "title": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+      "description": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
+      "url": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
+      "published": "Sun, 24 May 2026 12:19:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Severe global food crisis could come within the year, says UN agency",
       "description": "Maximo Torero, Chief Economist at The Food and Agriculture Organization of the United Nations, warns that the war in Iran is choking the global supply of fertilizer and a food crisis could follow within a year.",
       "url": "https://www.npr.org/2026/05/23/nx-s1-5829924/severe-global-food-crisis-could-come-within-the-year-says-un-agency",
@@ -460,20 +485,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Shark attack: man dies on Great Barrier Reef in far north Queensland"
-    },
-    {
-      "title": "At least four killed in Kyiv airstrikes as hypersonic missile used during attacks",
-      "description": "At least four people have been killed in in Ukraine after a wave of Russian missile and drone strikes, regional officials have said, with a hypersonic missile used to target Kyiv.",
-      "url": "https://news.sky.com/story/at-least-four-killed-in-kyiv-airstrikes-as-zelenskyy-claims-hypersonic-missile-used-during-attacks-13547478",
-      "published": "Sun, 24 May 2026 06:56:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At least four killed in Kyiv airstrikes as hypersonic missile used during attacks"
     },
     {
       "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
@@ -665,6 +676,20 @@
       "is_ticker": false
     },
     {
+      "title": "Suicide car bombing attack on a train in Pakistan kills dozens",
+      "description": "A Baloch separatist group has claimed responsibility for an attack on a train carrying soldiers in Quetta, Pakistan.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/suicide-car-bombing-attack-on-a-train-in-pakistan-kills-dozens?traffic_source=rss",
+      "published": "Sun, 24 May 2026 12:35:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Suicide car bombing attack on a train in Pakistan kills dozens"
+    },
+    {
       "title": "Formula 1 legend 'injured during home invasion'",
       "description": "Police in Switzerland are investigating a home invasion in which four-time Formula 1 world champion Alain Prost was reportedly injured.",
       "url": "https://news.sky.com/story/alain-prost-formula-1-legend-injured-during-home-invasion-in-switzerland-13547293",
@@ -682,7 +707,7 @@
       "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
       "description": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
       "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 24 May 2026 12:12:20 GMT",
+      "published": "Sun, 24 May 2026 13:02:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -827,34 +852,6 @@
       "is_ticker": false
     },
     {
-      "title": "Man dies in northeast Australia after shark attack",
-      "description": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
-      "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
-      "published": "Sun, 24 May 2026 07:13:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Man dies in northeast Australia after shark attack"
-    },
-    {
-      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
-      "description": "Ukrainian President Volodymyr Zelenskyy said Sunday Russia used the powerful hypersonic Oreshnik ballistic missile during a mass drone and missile attack on Kyiv on Sunday that killed at least two people.",
-      "url": "https://www.npr.org/2026/05/24/nx-s1-5833050/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv",
-      "published": "Sun, 24 May 2026 05:12:28 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia uses hypersonic Oreshnik missile in mass attack on Kyiv"
-    },
-    {
       "title": "The squeeze on Cuba now includes compensation lawsuits",
       "description": "American University professor William LeoGrande explains how the Supreme Court's decision to allow lawsuits seeking compensation for assets seized in the Cuban revolution to move forward fits in context of current political crisis on the island.",
       "url": "https://www.npr.org/2026/05/23/nx-s1-5830447/the-squeeze-on-cuba-now-includes-compensation-lawsuits",
@@ -878,6 +875,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Hypersonic missile used in Kyiv strike: What we know about it",
+      "description": "At least four people have been killed in in Ukraine after a wave of Russian missile and drone strikes, regional officials have said, with a hypersonic missile used to target Kyiv.",
+      "url": "https://news.sky.com/story/at-least-four-killed-in-kyiv-airstrikes-as-zelenskyy-claims-hypersonic-missile-used-during-attacks-13547478",
+      "published": "Sun, 24 May 2026 06:56:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Hypersonic missile used in Kyiv strike: What we know about it"
     },
     {
       "title": "Spearfisher mauled in Australia's second fatal shark attack in a week",
@@ -967,17 +978,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US judge dismisses criminal indictment against Kilmar Ábrego García"
-    },
-    {
-      "title": "France bans Israel minister Ben-Gvir after flotilla video",
-      "description": "The Israeli far-right minister released a video taunting detained Gaza aid flotilla activists, prompting widespread criticism at home and internationally.",
-      "url": "https://www.dw.com/en/france-bans-israel-minister-ben-gvir-after-flotilla-video/a-77273641?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 23 May 2026 13:55:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "9-story building under construction in the Philippines collapses; 21 missing",
@@ -1081,17 +1081,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Gunman shot dead by Secret Service agents near White House: What we know"
-    },
-    {
-      "title": "Attacks on Ebola centres intensify in eastern DRC amid outbreak fears",
-      "description": "Anger and mistrust growing over Ebola burials as traditions clash with medical response to prevent spread.",
-      "url": "https://www.aljazeera.com/news/2026/5/24/attacks-on-ebola-centres-intensify-in-eastern-drc-amid-outbreak-fears?traffic_source=rss",
-      "published": "Sun, 24 May 2026 07:29:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "White House pauses removal of detainees to DRC as Ebola outbreak widens",
@@ -1615,6 +1604,20 @@
       "ticker_label": "🪖 US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief"
     },
     {
+      "title": "What both sides have said about a U.S.-Iran deal",
+      "description": "President Trump took to social media Saturday and said the U.S. and Iran are close to deal on ending the war. But the president didn't offer details and it's not yet clear where Iran stands.",
+      "url": "https://www.npr.org/2026/05/24/nx-s1-5832613/what-both-sides-have-said-about-a-u-s-iran-deal",
+      "published": "Sun, 24 May 2026 08:54:35 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 What both sides have said about a U.S.-Iran deal"
+    },
+    {
       "title": "What we know about the status of a U.S.-Iran deal",
       "description": "NPR's Ayesha Rascoe speaks to Ariane Tabatabaithe, Public Service Fellow at Lawfare, about where things stand on a potential deal between the U.S. and Iran on ending the war.",
       "url": "https://www.npr.org/2026/05/24/nx-s1-5833058/what-we-know-about-the-status-of-a-u-s-iran-deal",
@@ -1834,17 +1837,6 @@
       "url": "https://www.theguardian.com/us-news/2026/may/22/venezuelan-makeup-artist-cecot-spain-asylum",
       "published": "Fri, 22 May 2026 10:00:56 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "NATO allies confused by Trump's unexpected move to deploy 5,000 U.S. troops to Poland",
-      "description": "Some NATO allies say they are confused by President Trump's different statements on U.S. troop deployments to Europe.",
-      "url": "https://www.npr.org/2026/05/23/nx-s1-5831245/nato-allies-confused-by-trumps-unexpected-move-to-deploy-5-000-u-s-troops-to-poland",
-      "published": "Sat, 23 May 2026 07:39:58 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -2163,6 +2155,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germany plans to address growing use of date-rape drugs",
+      "description": "Germany's justice minister is seeking harsher penalties for the use of date-rape drugs in sexual assaults. But victims say more needs to be done about a growing problem.",
+      "url": "https://www.dw.com/en/germany-plans-to-address-growing-use-of-date-rape-drugs/a-77261733?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 24 May 2026 13:29:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Enhanced Games: Why 'crippling injuries' are the least of it",
       "description": "Doping in sports is nothing new. Athletes at the Enhanced Games will know the risks — severe injury, even paralysis. But bioethicists are also concerned we're opening the gates to altering our fundamental human biology.",
       "url": "https://www.dw.com/en/enhanced-games-why-crippling-injuries-are-the-least-of-it/a-77248463?maca=en-rss-en-all-1573-xml-mrss",
@@ -2425,7 +2428,7 @@
       "title": "M 6.0 - 13 km S of Honaunau-Napoopoo, Hawaii",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - VII Time 2026-05-23 07:46:01 UTC 2026-05-23 07:46:01 UTC at epicenter Location 19.340°N 155.843°W Depth 22.64 km (14.07 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74966427",
-      "published": "2026-05-24T11:38:14.300Z",
+      "published": "2026-05-24T13:30:07.702Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
