@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-27T16:45:05.222537Z",
-  "event_count": 223,
+  "last_updated": "2026-05-27T18:03:37.546535Z",
+  "event_count": 222,
   "events": [
     {
       "title": "World News in Brief: Sudan and Haiti updates, Afghan women’s rights",
@@ -143,17 +143,6 @@
       "ticker_label": "🌪️ Five villagers found alive in Laos cave as search continues for two missing"
     },
     {
-      "title": "3 dead in South Korea after collapse at overpass demolition site",
-      "description": "Three people have been killed and three others injured when an old overpass undergoing demolition partially collapsed in the South Korean capital",
-      "url": "https://abcnews.com/International/wireStory/3-dead-south-korea-after-collapse-overpass-demolition-133305431",
-      "published": "Tue, 26 May 2026 22:58:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Wars and geopolitical divisions constitute ‘dangerous erosion’ of  world order, warns UN chief",
       "description": "The UN Charter is facing one of its gravest tests in decades, Secretary-General António Guterres told the Security Council on Tuesday, warning that wars, arms races, climate shocks and the erosion of international law are placing intense pressure on the multilateral system established to prevent a third world war.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167589",
@@ -274,18 +263,29 @@
       "ticker_label": "🌪️ Thai rescuers join effort to free seven people trapped in Laos cave"
     },
     {
-      "title": "Iran says US violated ceasefire with strikes near Hormuz",
-      "description": "Iran accused the United States on Tuesday of breaching a fragile ceasefire with strikes near the Strait of Hormuz, threatening efforts to end nearly seven weeks of conflict. Washington said the attacks were defensive, targeting missile sites and vessels allegedly laying mines.",
-      "url": "https://www.france24.com/en/middle-east/20260526-iran-says-us-violated-ceasefire-with-strikes-near-hormuz-war",
-      "published": "Tue, 26 May 2026 22:31:03 GMT",
+      "title": "New York and New Jersey subpoena FIFA in World Cup ticket sales investigation",
+      "description": "The US states of New York and New Jersey on Wednesday launched an investigation into FIFA over its ticket sales for the World Cup, with officials alleging the international football association of \"fake scarcity and impossibly high prices\".",
+      "url": "https://www.france24.com/en/sport/20260527-new-york-and-new-jersey-subpoena-fifa-in-world-cup-ticket-sales-investigation",
+      "published": "Wed, 27 May 2026 17:10:32 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "US ally pledges support for Trump's push to break Iran's grip on Hormuz: 'We are ready to contribute'",
+      "description": "Czech Foreign Minister Macinka voices strong support for Trump, defends increased European defense spending and warns Iran poses a global nuclear threat.",
+      "url": "https://www.foxnews.com/world/us-ally-pledges-support-trumps-push-break-irans-grip-hormuz-we-ready-contribute",
+      "published": "Wed, 27 May 2026 13:35:05 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran says US violated ceasefire with strikes near Hormuz"
+      "ticker_label": "🪖 US ally pledges support for Trump's push to break Iran's grip on Hormuz: 'We are ready to contribute'"
     },
     {
       "title": "At least 82 killed after massive gas explosion rips through coal mine in China",
@@ -355,7 +355,7 @@
       "ticker_label": "🪖 DR Congo facing 'catastrophic collision' of Ebola and war, WHO chief warns"
     },
     {
-      "title": "Israeli defence ministry says it killed new Hamas military leader in Gaza",
+      "title": "Israel kills new Hamas military leader in Gaza",
       "description": "Israel's defence ministry said Wednesday they had targeted and killed the new leader of Hamas's military wing, Mohammed Odeh, during air strikes in Gaza City, less than two weeks after killing his predecessor. Defence Minister Israel Katz called him “one of the architects” of the October 7 attacks that triggered more than two years of war in Gaza.",
       "url": "https://www.france24.com/en/middle-east/20260527-israeli-defence-ministry-says-it-killed-new-hamas-military-leader-in-gaza",
       "published": "Wed, 27 May 2026 12:02:33 GMT",
@@ -366,7 +366,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli defence ministry says it killed new Hamas military leader in Gaza"
+      "ticker_label": "🪖 Israel kills new Hamas military leader in Gaza"
     },
     {
       "title": "India news: Modi warns of heat wave dangers",
@@ -409,6 +409,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Brazilian candidate Flavio Bolsonaro asks Trump to designate crime groups as terrorists"
+    },
+    {
+      "title": "5 villagers missing in a flooded Laos cave for more than a week have been found alive",
+      "description": "Five villagers trapped in a flooded cave in central Laos for over a week have been found alive",
+      "url": "https://abcnews.com/International/wireStory/5-villagers-missing-flooded-laos-cave-week-found-133340208",
+      "published": "Wed, 27 May 2026 08:10:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ 5 villagers missing in a flooded Laos cave for more than a week have been found alive"
     },
     {
       "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
@@ -504,6 +518,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US embassy in Ukraine warns of 'potentially significant air attack' that could happen in next 24 hours"
+    },
+    {
+      "title": "FIFA subpoenaed by New York, New Jersey in World Cup ticket investigation",
+      "description": "US States react following increasing criticism of football's global governing body for the pricing of 2026 World Cup.",
+      "url": "https://www.aljazeera.com/sports/2026/5/27/fifa-subpoenaed-by-new-york-new-jersey-in-world-cup-ticket-investigation?traffic_source=rss",
+      "published": "Wed, 27 May 2026 17:23:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Iran: Global internet access to reopen after 3-month blackout",
@@ -634,20 +659,6 @@
       "ticker_label": "🚨 Australian police plan to form a heavily armed team in response to Bondi Beach massacre"
     },
     {
-      "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
-      "description": "Israel's military tells residents of Tyre it will \"act forcefully\" against the armed group, after another wave of strikes in south and east Lebanon.",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 15:16:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates"
-    },
-    {
       "title": "'Catastrophic collision' of Ebola and conflict, WHO head says as Uganda closes border",
       "description": "The eastern Democratic Republic of Congo (DRC) \"faces a catastrophic collision of disease and conflict\" as the Ebola outbreak continues, the head of the World Health Organization (WHO) has said.",
       "url": "https://news.sky.com/story/catastrophic-collision-of-ebola-and-conflict-who-head-says-in-ceasefire-plea-as-uganda-closes-border-13548444",
@@ -740,20 +751,6 @@
       "ticker_label": "🪖 Israeli strikes kill dozens in southern Lebanon as Netanyahu expands ground campaign"
     },
     {
-      "title": "Exceptionally early heat wave shatters records and brings deaths in Europe",
-      "description": "A spring heat wave is scorching parts of Western Europe, breaking temperature records and triggering government warnings",
-      "url": "https://abcnews.com/International/wireStory/exceptionally-early-heat-wave-shatters-records-brings-deaths-133306923",
-      "published": "Wed, 27 May 2026 00:04:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Exceptionally early heat wave shatters records and brings deaths in Europe"
-    },
-    {
       "title": "Iran expands restrictions on distribution of news content by international media outlets",
       "description": "Iran is expanding restrictions on distribution of news content from the country",
       "url": "https://abcnews.com/International/wireStory/iran-expands-restrictions-distribution-news-content-international-media-133350213",
@@ -765,15 +762,18 @@
       "is_ticker": false
     },
     {
-      "title": "Woman killed by flying restaurant umbrella in freak accident at South Carolina lakeside restaurant",
-      "description": "A freak accident at a South Carolina restaurant left a woman dead after a gust of wind turned a patio umbrella into a fatal projectile, officials say.",
-      "url": "https://www.foxnews.com/us/woman-killed-flying-restaurant-umbrella-freak-accident-south-carolina-lakeside-restaurant",
-      "published": "Tue, 26 May 2026 16:19:07 -0400",
-      "source": "Fox News US",
+      "title": "Chief of communications intel agency says Russia is relentlessly targeting UK",
+      "description": "A U.K. spy chief is warning that Britain and its allies risk losing a cyber conflict against adversaries like Russia unless cybersecurity is treated with greater urgency",
+      "url": "https://abcnews.com/International/wireStory/chief-communications-intel-agency-russia-relentlessly-targeting-uk-133336550",
+      "published": "Wed, 27 May 2026 00:57:59 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Chief of communications intel agency says Russia is relentlessly targeting UK"
     },
     {
       "title": "World's humanitarian system buckling, 'no longer fit for purpose,' US-based researchers say",
@@ -813,6 +813,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 North Korea says it tested new warheads, technology and navigation in latest launches"
+    },
+    {
+      "title": "Flooding from Euphrates River damages homes and prompts evacuations in Syria",
+      "description": "Water levels of the Euphrates River in northern and eastern Syria have risen, causing flooding over the past two days",
+      "url": "https://abcnews.com/International/wireStory/flooding-euphrates-river-damages-homes-prompts-evacuations-syria-133326979",
+      "published": "Wed, 27 May 2026 02:33:46 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Flooding from Euphrates River damages homes and prompts evacuations in Syria"
     },
     {
       "title": "Muslims worldwide celebrate Eid al-Adha, the Festival of Sacrifice",
@@ -863,17 +877,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 USAID was shut down 'to soothe ego' of Musk, whistleblower says"
-    },
-    {
-      "title": "3 killed after passenger van hits an elephant in a Ugandan national park",
-      "description": "Police in Uganda say three people have been killed when the van they were traveling in hit an elephant in a national park",
-      "url": "https://abcnews.com/International/wireStory/3-killed-after-passenger-van-hits-elephant-ugandan-133304781",
-      "published": "Tue, 26 May 2026 04:16:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Khalida Popal and Javier Zanetti among football stars appointed UN Champions",
@@ -952,20 +955,6 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Russia maintains attacks on Ukraine as Kyiv warned to brace for major barrage",
-      "description": "Ukraine’s air force says Russia launched over 100 drones and two ballistic missiles at Ukraine overnight",
-      "url": "https://abcnews.com/International/wireStory/russia-maintains-attacks-ukraine-kyiv-warned-brace-major-133306068",
-      "published": "Tue, 26 May 2026 06:09:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia maintains attacks on Ukraine as Kyiv warned to brace for major barrage"
     },
     {
       "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground",
@@ -1054,6 +1043,20 @@
       "ticker_label": "🪖 Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictions in Gaza"
     },
     {
+      "title": "Israel strikes Tyre after ordering evacuation of south Lebanon city",
+      "description": "Israel's military says it struck Hezbollah targets after telling residents it would \"act forcefully\" against the group.",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 17:12:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israel strikes Tyre after ordering evacuation of south Lebanon city"
+    },
+    {
       "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
       "description": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
       "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
@@ -1069,7 +1072,7 @@
     },
     {
       "title": "Samsung memory chip staff in line for £310,000 bonuses after AI profit-sharing deal",
-      "description": "Agreement averts strike and shows latest impact of AI boom as two more chipmakers join $1tn club Employees at Samsung Electronics’s memory chip division are to receive bonuses averaging about £310,000 each through a landmark profit-sharing agreement, as the AI boom drives up chipmakers’ profits. Fears of a strike at Samsung were averted on Wednesday after two unions for the world’s largest memory chipmaker said that 74% of the 62,616 workers who cast their votes had backed the deal. Continue reading...",
+      "description": "Agreement averts strike and shows latest impact of AI boom as two more chipmakers join $1tn club Employees at Samsung Electronics’ memory chip division are to receive bonuses averaging about £310,000 each through a landmark profit-sharing agreement, as the AI boom drives up chipmakers’ profits. Fears of a strike at Samsung were averted on Wednesday after two unions for the world’s largest memory chipmaker said 74% of the 62,616 workers who cast their votes had backed the deal. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal",
       "published": "Wed, 27 May 2026 11:53:19 GMT",
       "source": "The Guardian World",
@@ -1093,36 +1096,22 @@
       "is_ticker": false
     },
     {
-      "title": "Middle East war live: Israeli strikes hit outskirts of southern Lebanon’s city of Tyre",
-      "description": "Israeli air strikes hit the outskirts of Tyre in southern Lebanon after the army called on residents in and around the city to leave their homes. The Israeli military said it was carrying out strikes on what it described as “command centres” belonging to the militant group Hezbollah. Follow our liveblog for all the latest updates.",
-      "url": "https://www.france24.com/en/middle-east/20260527-middle-east-live-new-strikes-threaten-ceasefires-in-iran-lebanon",
-      "published": "Wed, 27 May 2026 01:48:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Middle East war live: Israeli strikes hit outskirts of southern Lebanon’s city of Tyre"
-    },
-    {
-      "title": "Teen charged in Anna Kepner’s cruise ship killing could be taken into custody after hearing: Expert",
-      "description": "The teen stepbrother accused in Anna Kepner's death aboard a Carnival cruise ship appears in federal court as prosecutors push for detention.",
-      "url": "https://www.foxnews.com/us/teen-charged-anna-kepner-cruise-ship-killing-could-taken-custody-hearing-expert",
-      "published": "Wed, 27 May 2026 06:30:17 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "First Ghanaians evacuated from South Africa over immigration protests land in Accra",
       "description": "It follows recent protests that have led to fears there could be a resurgence in xenophobic violence.",
       "url": "https://www.bbc.com/news/articles/cy0269pwxg3o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 27 May 2026 16:14:34 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "South Africa: 300 Ghanaians leave amid xenophobic tensions",
+      "description": "Hundreds of Ghanaians are leaving South Africa on special repatriation flights as anti-immigration protests and violence against foreigners escalate in the richer African nation.",
+      "url": "https://www.dw.com/en/south-africa-300-ghanaians-leave-amid-xenophobic-tensions/a-77319838?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 27 May 2026 17:45:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -1155,20 +1144,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Middle East: Israel says Hamas' armed wing chief killed"
-    },
-    {
-      "title": "Iran medicine shortages worsened by war",
-      "description": "Amid a fragile ceasefire with the US and Israel, Iranians are finding it harder to access essential medicines as imports and payment systems are disrupted.",
-      "url": "https://www.dw.com/en/iran-medicine-shortages-worsened-by-war/a-77297190?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 27 May 2026 05:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran medicine shortages worsened by war"
     },
     {
       "title": "Trump Board of Peace's official Gaza fund is empty despite billions pledged, source says",
@@ -1310,6 +1285,20 @@
       "is_ticker": false
     },
     {
+      "title": "Europe: New far-right generation turns away from Putin",
+      "description": "🇺🇦🇷🇺 \"The image of Putin as the great power is totally gone.\"Thibault Muzergues tells #F24Debate the new generation of European right-wing politicians are distancing themselves from Russia, turning instead towards #Ukraine",
+      "url": "https://www.france24.com/en/video/20260527-europe-new-far-right-generation-turns-away-from-putin",
+      "published": "Wed, 27 May 2026 16:33:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Europe: New far-right generation turns away from Putin"
+    },
+    {
       "title": "New Zealand sees brain drain to Australia amid stagnating economy",
       "description": "New Zealand is facing a major brain drain. Even former prime minister Jacinda Ardern has chosen to relocate to Australia. Her decision has reignited a debate over the country's persistent struggle to retain its talent, against a backdrop of a stagnating economy and a soaring cost of living. Our Auckland correspondent Emma Garboud-Lorenzoni reports.",
       "url": "https://www.france24.com/en/tv-shows/focus/20260527-new-zealand-sees-brain-drain-to-australia-amid-stagnating-economy",
@@ -1319,20 +1308,6 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "UAE accused of training Colombian mercenaries for Sudan's war",
-      "description": "Human Rights Watch reports that the United Arab Emirates trained Colombian mercenaries to fight alongside a paramilitary group in Sudan's war",
-      "url": "https://abcnews.com/International/wireStory/uae-accused-training-colombian-mercenaries-sudans-war-133301838",
-      "published": "Mon, 25 May 2026 23:46:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UAE accused of training Colombian mercenaries for Sudan's war"
     },
     {
       "title": "Federal agents in New Jersey beat back anti-ICE agitators in chaos outside Delaney Hall detention facility",
@@ -1401,6 +1376,17 @@
       "is_ticker": false
     },
     {
+      "title": "World number two Rybakina sent spinning out of French Open by Starodubtseva",
+      "description": "Ukraine's Yuliia Starodubtseva won a surprise victory over world number two Elena Rybakina on Wednesday, knocking her out of the French Open after the Kazakh player blew a one-set lead under the sweltering sun.",
+      "url": "https://www.france24.com/en/sport/20260527-world-number-two-rybakina-sent-spinning-out-of-french-open-by-starodubtseva",
+      "published": "Wed, 27 May 2026 16:09:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Funerals, beauty queens and bombs: The Ukrainian city that won’t let Putin win",
       "description": "Mayor Sadovyi says Lviv has lost 2,000 citizens and built rehabilitation centers as the city tries to remain unbroken amid Russia's ongoing war.",
       "url": "https://www.foxnews.com/world/funerals-beauty-queens-bombs-ukrainian-city-wont-let-putin-win",
@@ -1427,6 +1413,31 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Can EU find a Russia whisperer to mediate an end to war in Ukraine?"
+    },
+    {
+      "title": "Eid celebrations in Gaza overshadowed by Israeli attacks",
+      "description": "Palestinians across Gaza marked Eid al-Adha prayers amongst rubble and destruction as Israeli attacks continued.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/eid-celebrations-in-gaza-overshadowed-by-israeli-attacks?traffic_source=rss",
+      "published": "Wed, 27 May 2026 17:14:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Will the AI race fuel another boom or another bubble?",
+      "description": "AI giants are racing towards public listings as valuations soar.",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/27/will-the-ai-race-fuel-another-boom-or-another-bubble?traffic_source=rss",
+      "published": "Wed, 27 May 2026 17:05:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Will the AI race fuel another boom or another bubble?"
     },
     {
       "title": "Rescue teams celebrate as survivors found in Laos cave",
@@ -1590,24 +1601,21 @@
       "ticker_label": "🪖 NASA lays out moon base plans including buggies, landers and drones"
     },
     {
-      "title": "Pope Leo warns about AI and calls for regulation as he quotes from The Lord Of The Rings",
-      "description": "Pope Leo has called for robust regulation of artificial intelligence (AI) in a sweeping manifesto on safeguarding humankind.",
-      "url": "https://news.sky.com/story/pope-leo-warns-about-ai-and-calls-for-regulation-as-he-quotes-from-the-lord-of-the-rings-13547991",
-      "published": "Mon, 25 May 2026 20:10:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Pope Leo warns about AI and calls for regulation as he quotes from The Lord Of The Rings"
-    },
-    {
       "title": "US has deported thousands of Cubans and Venezuelans to danger in Mexico, Human Rights Watch says",
       "description": "The Trump administration has deported nearly 13,000 Cubans, Venezuelans and others to Mexico, where they face cartel violence and limited legal options",
       "url": "https://abcnews.com/International/wireStory/us-deported-thousands-cubans-venezuelans-danger-mexico-human-133337977",
       "published": "Wed, 27 May 2026 03:38:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Former Greek anti-austerity leader Alexis Tsipras steps back into politics",
+      "description": "Alexis Tsipras, the combative anti‑austerity leader who railed against Brussels during Greece’s debt crisis, has returned to politics ahead of elections next year",
+      "url": "https://abcnews.com/International/wireStory/former-greek-anti-austerity-leader-alexis-tsipras-steps-133323885",
+      "published": "Wed, 27 May 2026 02:32:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1627,6 +1635,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Displaced in Gaza: From home comforts to the shattering horror of war"
+    },
+    {
+      "title": "Jewish UCLA students beaten with sticks, pepper sprayed and knocked out by anti-Israel campus mob: lawsuit",
+      "description": "The DOJ sues the University of California system, alleging UCLA failed to protect Jewish and Israeli students from antisemitic violence on campus.",
+      "url": "https://www.foxnews.com/us/jewish-ucla-students-beaten-sticks-pepper-sprayed-knocked-anti-israel-campus-mob-lawsuit",
+      "published": "Wed, 27 May 2026 13:00:54 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Manhunt launched for samurai sword attack suspect with sex crime conviction after party assault: sheriff",
@@ -1751,17 +1770,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ebola treatment center set on fire in Congo after residents clash with authorities over victim's body",
-      "description": "Angry residents reportedly set fire to an Ebola treatment center in eastern Congo during a clash over retrieving the body of a suspected Ebola victim.",
-      "url": "https://www.foxnews.com/world/ebola-treatment-center-set-fire-congo-residents-clash-authorities-victims-body",
-      "published": "Fri, 22 May 2026 03:45:19 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Hundreds of children die within months as measles cases soar in Bangladesh",
       "description": "The country has recorded more than 60,000 suspected cases of measles in just over two months.",
       "url": "https://www.bbc.com/news/articles/cwy2d5d7wn5o?at_medium=RSS&at_campaign=rss",
@@ -1795,9 +1803,9 @@
       "is_ticker": false
     },
     {
-      "title": "New NDIS eligibility rules will cut 240,000 participants from scheme in four years, documents reveal",
-      "description": "Modelling predicts 241,000 people on the scheme before January 2028 won’t be receiving supports by mid-2031 Get our breaking news email , free app or daily news podcast More than 240,000 participants are expected to be shifted off the national disability insurance scheme in the four years after new eligibility rules are introduced, internal documents reveal. Newly released departmental modelling also shows proposed cuts to funding for social, civic and community participation will help achieve the single biggest saving of the measures the Albanese government is pursuing to contain the scheme’s ballooning growth. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/28/ndis-document-reveals-241000-disability-participants-cut-in-four-years",
+      "title": "Soft toys, memes and a movie villain: Labor tries to simplify the message but selling a budget isn’t child’s play",
+      "description": "As the budget fight plays out fiercely online, Labor senator Ellie Whiteaker turns to a zebra and a giraffe for help Get our breaking news email , free app or daily news podcast Selling a complicated federal budget isn’t exactly child’s play, but Anthony Albanese and Jim Chalmers could do worse than following the example of their colleague’s toy giraffe and zebra to help explain their contentious tax changes. The budget fight is dominating parliament and Senate estimates, but it’s being fought just as fiercely online. The weapons of choice? Memes, fluffy animals and a questionable reference to a serial killer cannibal. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/27/soft-toys-memes-and-a-movie-villain-labor-tries-to-simplify-the-message-but-selling-a-budget-isnt-childs-play",
       "published": "Wed, 27 May 2026 15:00:22 GMT",
       "source": "The Guardian World",
       "type": "rss",
@@ -1806,9 +1814,9 @@
       "is_ticker": false
     },
     {
-      "title": "Soft toys, memes and a movie villain: Labor tries to simplify the message but selling a budget isn’t child’s play",
-      "description": "As the budget fight plays out fiercely online, Labor senator Ellie Whiteaker turns to a zebra and a giraffe for help Get our breaking news email , free app or daily news podcast Selling a complicated federal budget isn’t exactly child’s play, but Anthony Albanese and Jim Chalmers could do worse than following the example of their colleague’s toy giraffe and zebra to help explain their contentious tax changes. The budget fight is dominating parliament and Senate estimates, but it’s being fought just as fiercely online. The weapons of choice? Memes, fluffy animals and a questionable reference to a serial killer cannibal. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/may/27/soft-toys-memes-and-a-movie-villain-labor-tries-to-simplify-the-message-but-selling-a-budget-isnt-childs-play",
+      "title": "New NDIS eligibility rules will cut 240,000 participants from scheme in four years, documents reveal",
+      "description": "Modelling predicts 241,000 people on the scheme before January 2028 won’t be receiving supports by mid-2031 Get our breaking news email , free app or daily news podcast More than 240,000 participants are expected to be shifted off the national disability insurance scheme in the four years after new eligibility rules are introduced, internal documents reveal. Newly released departmental modelling also shows proposed cuts to funding for social, civic and community participation will help achieve the single biggest saving of the measures the Albanese government is pursuing to contain the scheme’s ballooning growth. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/may/28/ndis-document-reveals-241000-disability-participants-cut-in-four-years",
       "published": "Wed, 27 May 2026 15:00:22 GMT",
       "source": "The Guardian World",
       "type": "rss",
@@ -1822,28 +1830,6 @@
       "url": "https://www.dw.com/en/eu-enlargement-is-the-bloc-ready-to-welcome-new-members/a-77319025?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 27 May 2026 15:36:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "A rare public trial opens in Paris child abuse case as parents seek a national wake-up call",
-      "description": "Parents’ groups in France are calling for more attention to child abuse scandals as a rare public trial opens in Paris",
-      "url": "https://abcnews.com/International/wireStory/rare-public-trial-opens-paris-child-abuse-case-133315094",
-      "published": "Tue, 26 May 2026 12:58:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Quad foreign ministers hold talks in New Delhi on Indo-Pacific cooperation",
-      "description": "Foreign ministers from the Quad countries of Australia, India, Japan, and the United States are meeting in New Delhi to strengthen cooperation in the Indo-Pacific and their concern over China’s growing influence in the region",
-      "url": "https://abcnews.com/International/wireStory/quad-foreign-ministers-hold-talks-new-delhi-indo-133303571",
-      "published": "Tue, 26 May 2026 02:09:58 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1886,25 +1872,11 @@
       "ticker_label": "🪖 Ecuadorian survivors of suspected drone strike seek answers and restitution"
     },
     {
-      "title": "North Korea tests new lightweight multi-purpose missile launch system",
-      "description": "North Korea said on Wednesday it had tested a new lightweight multi-purpose missile launch system and a multiple tactical cruise missile weapon system a day earlier, under the supervision of leader Kim Jong Un. South Korea's military said the North fired several projectiles, including a ballistic missile that flew about 80 km (50 miles).",
-      "url": "https://www.france24.com/en/asia-pacific/20260527-north-korea-tests-new-lightweight-multi-purpose-missile-launch-system",
-      "published": "Wed, 27 May 2026 02:08:04 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 North Korea tests new lightweight multi-purpose missile launch system"
-    },
-    {
-      "title": "Temperatures soar across Europe as 'heat dome' drives May records",
-      "description": "A “heat dome” is driving unusually high temperatures across Europe, pushing readings well above seasonal norms. The UK and France have already set May records while Spain and Italy are facing heat alerts and limits on outdoor work. Scientists say climate change is making these kinds of extreme heat events more common.",
-      "url": "https://www.france24.com/en/europe/20260527-temperatures-soar-across-europe-as-heat-dome-drives-may-records-heatwave-france-uk-italy-spain",
-      "published": "Wed, 27 May 2026 00:30:14 GMT",
-      "source": "France24",
+      "title": "Spanish police search headquarters of PM Sánchez’s ruling Socialist party",
+      "description": "Spanish police have mounted a search of the headquarters of the ruling Socialist Party as part of an ongoing investigation into possible financial wrongdoing",
+      "url": "https://abcnews.com/International/wireStory/spanish-police-search-headquarters-ruling-socialist-party-133338206",
+      "published": "Wed, 27 May 2026 08:26:04 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1958,17 +1930,6 @@
       "ticker_label": "💥 'Bibi's hair on fire': Trump-Netanyahu public 'rift' masked unified front against Iran, analyst says"
     },
     {
-      "title": "India's communists once ruled millions. What happened to them?",
-      "description": "The story of the rise and decline of India’s communists - from ruling states to struggling for relevance.",
-      "url": "https://www.bbc.com/news/articles/cwy2gr1rpnqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 26 May 2026 23:12:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1992,28 +1953,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 North Korea tests AI-guided missiles for the first time"
-    },
-    {
-      "title": "Planes carrying 19 Australians linked to the Islamic State group land in Melbourne and Sydney",
-      "description": "Two planes carrying 19 Australian women and children linked to the Islamic State group in Syria have landed in Melbourne and Sydney",
-      "url": "https://abcnews.com/International/wireStory/19-australian-women-children-linked-islamic-state-group-133301859",
-      "published": "Tue, 26 May 2026 08:17:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "In Britain, Brexit is debated again as Starmer’s grip on power slips",
-      "description": "The PM is promising to strengthen EU ties at a time when the eurosceptic Reform party is on the rise.",
-      "url": "https://www.aljazeera.com/news/2026/5/27/brexit-debate-reignites?traffic_source=rss",
-      "published": "Wed, 27 May 2026 11:56:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
@@ -2116,6 +2055,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Terrified residents in crime-plagued blue city throw up giant barricades to stop chaos"
+    },
+    {
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "description": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms.",
+      "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 27 May 2026 17:37:33 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Trump says US 'not satisfied' with Iran deal yet"
     },
     {
       "title": "Woman caught after 30 years on the run is jailed for armed robberies",
@@ -2265,31 +2218,6 @@
       "description": "Zimbabwe is compensating European farmers. The original dispossession goes unrecognised.",
       "url": "https://www.aljazeera.com/opinions/2026/5/27/the-west-only-discovers-property-rights-when-the-landowners-are-white?traffic_source=rss",
       "published": "Wed, 27 May 2026 11:59:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Doctor buried after he died treating Ebola patients in DRC",
-      "description": "Doctor buried after he died treating Ebola patients in DRC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/doctor-buried-after-he-died-treating-ebola-patients-in-drc?traffic_source=rss",
-      "published": "Wed, 27 May 2026 11:38:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Doctor buried after he died treating Ebola patients in DRC"
-    },
-    {
-      "title": "Ghana begins repatriating citizens as xenophobia surges in South Africa",
-      "description": "Ghana begins repatriating citizens as xenophobia surges in South Africa",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/27/ghana-begins-repatriating-citizens-as-xenophobia-surges-in-south-africa?traffic_source=rss",
-      "published": "Wed, 27 May 2026 11:26:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2465,17 +2393,6 @@
       "is_ticker": false
     },
     {
-      "title": "M 6.6 - southern East Pacific Rise",
-      "description": "PAGER - GREEN ShakeMap - I Time 2026-05-20 17:43:01 UTC 2026-05-20 17:43:01 UTC at epicenter Location 55.984°S 122.299°W Depth 10.00 km (6.21 mi)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000sz1d",
-      "published": "2026-05-21T18:12:25.066Z",
-      "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Turkey: Leadership dispute engulfs opposition CHP",
       "description": "The top figures in Turkey's main opposition party differ on how to resolve the leadership vacuum after a court annulled its 2023 primary. One wants the party delegates to pick a leader, the other wants members to vote.",
       "url": "https://www.dw.com/en/turkey-leadership-dispute-engulfs-opposition-chp/a-77317144?maca=en-rss-en-all-1573-xml-mrss",
@@ -2542,6 +2459,17 @@
       "is_ticker": false
     },
     {
+      "title": "Cockroach Janta Party: India's youth turn judge's jab into viral political movement",
+      "description": "A satirical political movement has gone viral amongst India's youth with an unusual mascot at the helm: the cockroach. The Cockroach Janta Party was born after India's chief justice referred to unemployed youth as \"cockroaches\". Though he later said he was misquoted, his comments ricocheted online. As outrage escalated, 30-year-old Abhijeet Dipke asked: \"What if all cockroaches come together?\" The online satirical movement now has nearly 23 million Instagram followers and counting.",
+      "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260527-cockroach-janta-party-india-s-youth-turn-judge-s-jab-into-viral-political-movement",
+      "published": "Wed, 27 May 2026 17:47:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Film show: French WWII epic 'De Gaulle: Resistance' hits screens",
       "description": "Ben Croll takes us through four films from the Cannes Film Festival which are being released in cinemas this week. One of France's biggest film events of the year is Antonin Baudry's \"De Gaulle: Resistance\", the first of a two-part WWII epic centred on French general Charles de Gaulle, from the fall of France in 1940 to the liberation in 1945. Ben tells us why this film is part of a new trend of French blockbusters focused on uniquely French stories.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260527-film-show-french-wwii-epic-de-gaulle-resistance-hits-screens",
@@ -2586,10 +2514,10 @@
       "is_ticker": false
     },
     {
-      "title": "How unwell is Donald Trump?",
-      "description": "👉 Follow Trump100 on your podcast app 👈",
-      "url": "https://news.sky.com/story/how-unwell-is-donald-trump-13548340",
-      "published": "Wed, 27 May 2026 04:18:00 +0100",
+      "title": "Germany's most-wanted woman, 67, jailed after decades on run",
+      "description": "A former member of the notorious Baader-Meinhof gang has been jailed for a string of armed robberies after decades on the run.",
+      "url": "https://news.sky.com/story/former-baader-meinhof-gang-member-daniela-klette-67-jailed-for-armed-robberies-after-decades-on-the-run-13548489",
+      "published": "Wed, 27 May 2026 16:14:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2601,6 +2529,17 @@
       "description": "Police have searched the Madrid headquarters of Spain's ruling Socialist Party over a potential illegal payments scheme.",
       "url": "https://news.sky.com/story/spanish-police-search-prime-ministers-party-headquarters-in-madrid-over-corruption-allegations-13548414",
       "published": "Wed, 27 May 2026 11:09:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "How unwell is Donald Trump?",
+      "description": "👉 Follow Trump100 on your podcast app 👈",
+      "url": "https://news.sky.com/story/how-unwell-is-donald-trump-13548340",
+      "published": "Wed, 27 May 2026 04:18:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2630,32 +2569,10 @@
       "is_ticker": false
     },
     {
-      "title": "Muslim pilgrims perform Hajj rituals in strong heat as Eid al-Adha celebrations start",
-      "description": "Pilgrims in Saudi Arabia threw pebbles at a large pillar in a symbolic ritual during the final days of Hajj",
-      "url": "https://abcnews.com/International/wireStory/muslim-pilgrims-perform-hajj-rituals-intense-heat-eid-133342481",
-      "published": "Wed, 27 May 2026 08:10:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Brazil's Flávio Bolsonaro leans into Trump connection as scandal shakes his presidential bid",
-      "description": "Brazilian Sen. Flávio Bolsonaro is in Washington, leaning on his family's connection with former U.S. President Donald Trump",
-      "url": "https://abcnews.com/International/wireStory/brazils-flvio-bolsonaro-leans-trump-connection-scandal-shakes-133320407",
-      "published": "Tue, 26 May 2026 16:35:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Inquiry into antisemitism in Australia condemns online hatred and bigotry targeting witnesses",
-      "description": "The head of an inquiry into antisemitism in Australia has condemned online hatred and bigotry targeting Jewish witnesses",
-      "url": "https://abcnews.com/International/wireStory/inquiry-antisemitism-australia-condemns-online-hatred-bigotry-targeting-133304491",
-      "published": "Tue, 26 May 2026 02:06:46 -0400",
+      "title": "Ghana begins repatriating citizens from South Africa due to anti-immigration tensions",
+      "description": "Ghana has started a voluntary repatriation program for its citizens as a reaction to anti-immigration tensions in South Africa",
+      "url": "https://abcnews.com/International/wireStory/ghana-begins-repatriating-citizens-south-africa-due-anti-133348937",
+      "published": "Wed, 27 May 2026 12:14:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2677,10 +2594,76 @@
       "ticker_label": "💥 Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says"
     },
     {
+      "title": "Muslim pilgrims perform Hajj rituals in strong heat as Eid al-Adha celebrations start",
+      "description": "Pilgrims in Saudi Arabia threw pebbles at a large pillar in a symbolic ritual during the final days of Hajj",
+      "url": "https://abcnews.com/International/wireStory/muslim-pilgrims-perform-hajj-rituals-intense-heat-eid-133342481",
+      "published": "Wed, 27 May 2026 08:10:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Climbers meet in Nepal to discuss the challenges of scaling Mount Everest",
+      "description": "Climbers and officials have met in Kathmandu to discuss the risks of scaling Mount Everest",
+      "url": "https://abcnews.com/International/wireStory/climbers-meet-nepal-discuss-challenges-scaling-mount-everest-133340902",
+      "published": "Wed, 27 May 2026 08:26:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Philippine bishop and ex-ICC judge lead new inquiry into thousands of Duterte-era killings",
+      "description": "A group led by a Roman Catholic bishop in the Philippines has launched a fact-finding body to document accounts of ex-President Rodrigo Duterte’s anti-drugs crackdown",
+      "url": "https://abcnews.com/International/wireStory/philippine-bishop-icc-judge-lead-new-inquiry-thousands-133339072",
+      "published": "Wed, 27 May 2026 08:31:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Penpa Tsering sworn in for a second term to lead Tibet’s government-in-exile",
+      "description": "Penpa Tsering has been sworn in for a second term as the president of Tibet’s government-in-exile based in India",
+      "url": "https://abcnews.com/International/wireStory/penpa-tsering-sworn-term-lead-tibets-government-exile-133338199",
+      "published": "Wed, 27 May 2026 05:26:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Brazil's Flávio Bolsonaro leans into Trump connection as scandal shakes his presidential bid",
+      "description": "Brazilian Sen. Flávio Bolsonaro is in Washington, leaning on his family's connection with former U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/brazils-flvio-bolsonaro-leans-trump-connection-scandal-shakes-133320407",
+      "published": "Tue, 26 May 2026 16:35:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Longtime GOP senator loses primary after rival's Trump endorsement and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/longtime-gop-senator-loses-primary-rivals-trump-endorsement-more-top-headlines",
       "published": "Wed, 27 May 2026 07:16:57 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Teen stepbrother accused of killing Anna Kepner on Carnival cruise remains free before trial",
+      "description": "A judge ruled Wednesday that the teenage stepbrother accused of killing 18-year-old Anna Kepner aboard a Carnival cruise ship will remain free while awaiting trial.",
+      "url": "https://www.foxnews.com/us/teen-stepbrother-accused-killing-anna-kepner-carnival-cruise-remains-free-before-trial",
+      "published": "Wed, 27 May 2026 06:30:17 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
