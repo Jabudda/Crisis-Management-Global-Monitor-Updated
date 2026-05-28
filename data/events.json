@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-28T15:17:43.946794Z",
+  "last_updated": "2026-05-28T16:50:03.167243Z",
   "event_count": 222,
   "events": [
     {
@@ -17,15 +17,18 @@
       "ticker_label": "🪖 World News in Brief: Sudan and Haiti updates, Afghan women’s rights"
     },
     {
-      "title": "'You see love every day and journalists don't always convey that': Author Sally Hayden",
-      "description": "A world-renowned Irish journalist and author whose reporting from conflict zones and migration routes has earned international recognition has told FRANCE 24 that in her reporting she sees love every day, and that journalists don't always convey that. Sally Hayden is a winner of the Orwell Prize, and in her new book \"This is Also a Love Story\" she turns away from the headlines and statistics to focus on love, as well as connection and human resilience in the middle of catastrophe. She spoke to us in Perspective.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260528-you-see-love-every-day-and-journalists-don-t-always-convey-that-author-sally-hayden",
-      "published": "Thu, 28 May 2026 12:04:15 GMT",
+      "title": "Crackdown on culture: Israel censoring Palestinian voices",
+      "description": "A United Nations commission, Amnesty International and Human Rights Watch have all separately concluded that Israel has committed genocide in Gaza, where tens of thousands of Palestinians have been killed since the start of the war in October 2023. The cultural life of the enclave is also profoundly threatened, with historic buildings destroyed and writers, poets and academics among that huge death toll.",
+      "url": "https://www.france24.com/en/tv-shows/middle-east-matters/20260528-crackdown-on-culture-israel-censoring-palestinian-voices",
+      "published": "Thu, 28 May 2026 15:34:59 GMT",
       "source": "France24",
       "type": "rss",
-      "severity_score": 41,
+      "severity_score": 39,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Crackdown on culture: Israel censoring Palestinian voices"
     },
     {
       "title": "WHO chief calls for urgent Ebola action and pandemic preparedness",
@@ -54,6 +57,17 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ International airlines urged to stick to safety measures in wake of Ebola outbreak"
+    },
+    {
+      "title": "US, Mexico, Canada announce Ebola-related travel measures for World Cup",
+      "description": "World Cup hosts agree steps to counter Ebola threat after WHO declares public health emergency ​of international concern",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/us-mexico-canada-announce-ebola-related-travel-measures-for-world-cup?traffic_source=rss",
+      "published": "Thu, 28 May 2026 15:52:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
@@ -124,20 +138,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Five people found alive after week trapped in flooded Laos cave"
-    },
-    {
-      "title": "Five villagers found alive in Laos cave as search continues for two missing",
-      "description": "Video appears to show divers discovering group sitting on a rock surrounded by flood water Rescuers have reached five of seven people who have been trapped for a week in a flooded, remote cave in Laos, after days spent navigating narrow, inundated passageways amid persistent rain. Video footage shared on social media by rescue divers showed the five men crouched together on a rocky ledge in a dark cave chamber, surrounded by muddy water. “There’s no need to cry,” one of the rescue team told the men, who first entered the cave on Wednesday. Two men remain unaccounted for. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/may/27/five-villagers-found-alive-in-laos-cave-as-search-continues-for-two-missing",
-      "published": "Wed, 27 May 2026 13:44:48 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 33,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Five villagers found alive in Laos cave as search continues for two missing"
     },
     {
       "title": "Iran condemns US ceasefire 'violations' after strikes in south",
@@ -274,6 +274,17 @@
       "ticker_label": "🪖 Ukraine asks Trump for more US air defence help against Russian missile attacks"
     },
     {
+      "title": "WHO chief heads to ‘hardest hit’ Ituri as DRC’s 17th Ebola outbreak spreads",
+      "description": "DRC battles Bundibugyo strain as confirmed cases rise to 121, with 17 deaths and 246 suspected fatalities reported.",
+      "url": "https://www.aljazeera.com/news/2026/5/28/who-chief-heads-to-hardest-hit-ituri-as-drcs-17th-ebola-outbreak-spreads?traffic_source=rss",
+      "published": "Thu, 28 May 2026 16:21:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
       "description": "The World Food Programme (WFP) has deplored a Russian attack on a warehouse in Dnipro, Ukraine that destroyed “a significant quantity” of food aid destined for thousands in frontline areas.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167586",
@@ -311,20 +322,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Canada to order military plane fleet from Sweden in shift from US suppliers"
-    },
-    {
-      "title": "Five people stuck in flooded cave in Laos for week found alive",
-      "description": "Five people who were stuck in a flooded cave in central Laos for more than a week have been found alive, but two others are still missing, rescuers say.",
-      "url": "https://news.sky.com/story/five-people-stuck-in-flooded-cave-in-laos-for-week-found-alive-rescuers-say-13548432",
-      "published": "Wed, 27 May 2026 12:37:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Five people stuck in flooded cave in Laos for week found alive"
     },
     {
       "title": "US embassy in Ukraine warns of 'potentially significant air attack' that could happen in next 24 hours",
@@ -380,20 +377,6 @@
       "ticker_label": "🪖 Security Council LIVE: Human cost of Ukraine war, a pattern that ‘defies’ international law, says senior UN aid official"
     },
     {
-      "title": "Israel intensifies attacks on southern Lebanon, killing at least 16 people",
-      "description": "Southern Lebanon empties out under bombardment as Red Cross warns of worsening crisis.",
-      "url": "https://www.aljazeera.com/news/2026/5/28/israel-intensifies-attacks-on-southern-lebanon-killing-at-least-16-people?traffic_source=rss",
-      "published": "Thu, 28 May 2026 10:58:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel intensifies attacks on southern Lebanon, killing at least 16 people"
-    },
-    {
       "title": "Ebola risk ‘very high’ in eastern DR Congo as UN intensifies response",
       "description": "The UN is rushing emergency personnel, funding and supplies into eastern Democratic Republic of the Congo (DRC) to counter the fast-growing Ebola outbreak spreading through conflict-ravaged provinces.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167575",
@@ -419,46 +402,18 @@
       "ticker_label": "💥 Deadly suicide blast rips through Pakistan train route, killing at least 23"
     },
     {
-      "title": "Lebanon: Massive fireball as Israel strikes city of Tyre",
-      "description": "A massive fireball was seen rising into the air Thursday as heavy Israeli strikes pounded Lebanon's southern coastal city of Tyre. The strikes, which come as Muslims celebrate the holiday of Eid al-Adha, followed a warning by Israel that it had declared a new swathe of southern Lebanon a combat zone and told residents to evacuate.",
-      "url": "https://www.france24.com/en/video/20260528-lebanon-massive-fireball-as-israel-strikes-city-of-tyre",
-      "published": "Thu, 28 May 2026 10:30:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Lebanon: Massive fireball as Israel strikes city of Tyre"
-    },
-    {
-      "title": "Australian police plan to form a heavily armed team in response to Bondi Beach massacre",
-      "description": "An Australian government inquiry has heard that a state police force has worked to form a heavily armed rapid response team since the Bondi Beach shooting",
-      "url": "https://abcnews.com/International/wireStory/australian-police-plan-form-heavily-armed-team-response-133338813",
-      "published": "Wed, 27 May 2026 06:10:04 -0400",
+      "title": "Iran war has complicated plans for an international force in Gaza that has yet to materialize",
+      "description": "An international stabilization force promised for Gaza has yet to materialize three months after it was announced at an event hosted by U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/iran-war-complicated-plans-international-force-gaza-materialize-133372461",
+      "published": "Thu, 28 May 2026 02:11:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Australian police plan to form a heavily armed team in response to Bondi Beach massacre"
-    },
-    {
-      "title": "Israel kills children in strikes on Gaza as fear taints Eid joy",
-      "description": "As Muslims around the world celebrate Eid, Palestinians in Gaza are facing fear, grief, and deadly attacks.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/israel-kills-children-in-strikes-on-gaza-as-fear-taints-eid-joy?traffic_source=rss",
-      "published": "Thu, 28 May 2026 10:47:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel kills children in strikes on Gaza as fear taints Eid joy"
+      "ticker_label": "🪖 Iran war has complicated plans for an international force in Gaza that has yet to materialize"
     },
     {
       "title": "Germany news: Health care staff protest plan for major cuts",
@@ -475,22 +430,39 @@
       "ticker_label": "🪖 Germany news: Health care staff protest plan for major cuts"
     },
     {
+      "title": "Gaza children with Down syndrome are still reckoning with the devastation of the war",
+      "description": "The war in Gaza has especially affected the most vulnerable groups in the enclave; among them are children with Down syndrome. During the war, health and education services dedicated to them have largely collapsed, according to specialists and families. Many children with Down syndrome in the coastal enclave suffer chronic health conditions, including poor blood circulation, cataracts, and respiratory problems, requiring constant medical care, according the Right to Live Society, a Palestinian nonprofit working to rehabilitate children with Down syndrome and Autism.",
+      "url": "https://www.france24.com/en/video/20260528-gaza-children-with-down-syndrome-are-still-reckoning-with-the-devastation-of-the-war",
+      "published": "Thu, 28 May 2026 15:27:30 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Gaza children with Down syndrome are still reckoning with the devastation of the war"
+    },
+    {
+      "title": "Iran: US base targeted in missile strike",
+      "description": "Iranian state television on Thursday released images it said showed missiles being launched at an American air base from where earlier in the day a strike had been launched on Iran’s port ⁠city of Bandar Abbas. It is the most serious trade of fire since an April ceasefire began and comes amid ongoing talks to end the war and reopen the Strait of Hormuz.",
+      "url": "https://www.france24.com/en/video/20260528-iran-us-base-targeted-in-missile-strike",
+      "published": "Thu, 28 May 2026 15:25:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran: US base targeted in missile strike"
+    },
+    {
       "title": "'Catastrophic collision' of Ebola and conflict, WHO head says as Uganda closes border",
       "description": "The eastern Democratic Republic of Congo (DRC) \"faces a catastrophic collision of disease and conflict\" as the Ebola outbreak continues, the head of the World Health Organization (WHO) has said.",
       "url": "https://news.sky.com/story/catastrophic-collision-of-ebola-and-conflict-who-head-says-in-ceasefire-plea-as-uganda-closes-border-13548444",
       "published": "Wed, 27 May 2026 13:26:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "Three wounded in Swiss train station 'bladed weapon' attack, phrase 'Allahu Akbar' allegedly shouted",
-      "description": "Police say a 31-year-old Swiss national was arrested after allegedly wounding three people using a bladed weapon at train station in Switzerland.",
-      "url": "https://www.foxnews.com/world/three-wounded-swiss-train-station-bladed-weapon-attack-phrase-allahu-akbar-allegedly-shouted",
-      "published": "Thu, 28 May 2026 09:43:20 -0400",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical",
@@ -525,11 +497,11 @@
       "ticker_label": "🪖 Are US and Iran close to peace or sliding back to war?"
     },
     {
-      "title": "Sixteen pupils killed in Kenya school fire",
-      "description": "Dozens of people were also injured in the fire, the cause of which is not yet known.",
-      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 12:24:11 GMT",
-      "source": "BBC News",
+      "title": "Fire kills 16 students at Kenyan girls’ boarding school",
+      "description": "At least 16 students were killed and dozens injured after a fire tore through the dormitory of a girls’ school in Kenya.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/fire-kills-16-students-at-kenyan-girls-boarding-school?traffic_source=rss",
+      "published": "Thu, 28 May 2026 16:25:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
@@ -580,17 +552,6 @@
       "url": "https://www.dw.com/en/kenya-deadly-fire-breaks-out-at-girls-boarding-school/a-77322221?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 28 May 2026 06:04:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran expands restrictions on distribution of news content by international media outlets",
-      "description": "Iran is expanding restrictions on distribution of news content from the country",
-      "url": "https://abcnews.com/International/wireStory/iran-expands-restrictions-distribution-news-content-international-media-133350213",
-      "published": "Wed, 27 May 2026 12:14:20 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
@@ -672,20 +633,6 @@
       "is_ticker": false
     },
     {
-      "title": "North Korea says it tested new warheads, technology and navigation in latest launches",
-      "description": "North Korea says its latest launches involved multiple weapons systems, including a nuclear-capable cruise missile that leader Kim Jong Un plans to deploy with front-line units facing South Korea",
-      "url": "https://abcnews.com/International/wireStory/north-korea-tested-new-warheads-technology-navigation-latest-133331467",
-      "published": "Wed, 27 May 2026 02:33:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 North Korea says it tested new warheads, technology and navigation in latest launches"
-    },
-    {
       "title": "President Sheinbaum allows Iran team to stay in Mexico during World Cup after US refusal",
       "description": "Fifa approached Mexico after US declined to host Iran squad despite it playing group games in the United States Mexico’s president, Claudia Sheinbaum , said on Monday her government agreed to allow the Iranian national football team to stay in Mexico during the World Cup , adding that the US did not want to host the team. The team will still play its group stage matches in the US but its base has been moved to Tijuana, Mexico, just south of San Diego, California, a move that Iran’s football federation announced recently and that was confirmed by Fifa, the sport’s governing body. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/25/mexico-fifa-iran-team",
@@ -714,7 +661,7 @@
       "title": "Iran says it targeted American base after fresh US strikes",
       "description": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war.",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 11:52:10 GMT",
+      "published": "Thu, 28 May 2026 15:53:05 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -723,6 +670,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran says it targeted American base after fresh US strikes"
+    },
+    {
+      "title": "Neymar set to miss Brazil World Cup opener due to calf injury",
+      "description": "Neymar was injured playing for Santos in the Brazil domestic league, and is now confirmed to miss World Cup friendlies.",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/neymar-out-of-brazil-world-cup-opener-due-to-calf-injury?traffic_source=rss",
+      "published": "Thu, 28 May 2026 15:34:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "The race for oil: will Jamaica be the next country to drill and what does that mean for its green pledges?",
@@ -767,6 +725,17 @@
       "ticker_label": "🪖 Zelensky says Ukraine needs US antiballistic missiles"
     },
     {
+      "title": "Latvian parliament approves new government after previous leader's coalition collapsed over drones",
+      "description": "Latvian lawmakers have approved a new coalition government that will lead the European Union and NATO member country in the coming months",
+      "url": "https://abcnews.com/International/wireStory/latvian-parliament-approves-new-government-after-previous-leaders-133386827",
+      "published": "Thu, 28 May 2026 11:35:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Khalida Popal and Javier Zanetti among football stars appointed UN Champions",
       "description": "With the World Cup just days away, 16 greats of the game have been appointed Football for the Goals (FFTG) Champions, using their profiles to raise awareness of the Sustainable Development Goals (SDGs) and advocate for a better future for people and the planet.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167582",
@@ -779,6 +748,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Khalida Popal and Javier Zanetti among football stars appointed UN Champions"
+    },
+    {
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "description": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 16:20:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders"
     },
     {
       "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
@@ -848,6 +831,17 @@
       "ticker_label": "🪖 Gaza: Life-saving medicines blocked as killing continues, disease gains ground"
     },
     {
+      "title": "Three wounded in Swiss train station 'bladed weapon' attack, phrase 'Allahu Akbar' allegedly shouted",
+      "description": "Police say a 31-year-old was arrested after allegedly wounding three people using a bladed weapon at train station in Switzerland.",
+      "url": "https://www.foxnews.com/world/three-wounded-swiss-train-station-bladed-weapon-attack-phrase-allahu-akbar-allegedly-shouted",
+      "published": "Thu, 28 May 2026 09:43:20 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Crash involving speeding train, minibus in Belgium leaves 4 dead including 2 children",
       "description": "Four people, including two children, were killed when a passenger train hit a minibus at a crossing near Buggenhout, Belgium, during the morning rush.",
       "url": "https://www.foxnews.com/world/crash-involving-speeding-train-minibus-belgium-leaves-4-dead-including-2-children",
@@ -862,7 +856,7 @@
       "title": "Israel hits Lebanese capital in 'targeted strike'",
       "description": "Beirut had until now largely been spared even as both Israel and Hezbollah accused each other of breaking last month's ceasefire.",
       "url": "https://www.bbc.com/news/articles/cgqpjwdv7xeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 15:07:56 GMT",
+      "published": "Thu, 28 May 2026 15:57:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 14,
@@ -871,6 +865,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israel hits Lebanese capital in 'targeted strike'"
+    },
+    {
+      "title": "Yemen’s former leader Abd-Rabbu Mansour Hadi dies in exile at 80",
+      "description": "Hadi was the internationally recognised president of Yemen who led a fractured government mostly from exile.",
+      "url": "https://www.aljazeera.com/news/2026/5/28/abedrabbo-mansour-hadi-yemens-former-leader-passes-away-in-exile-at-80?traffic_source=rss",
+      "published": "Thu, 28 May 2026 15:02:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -884,15 +889,18 @@
       "is_ticker": false
     },
     {
-      "title": "ICC trial for ex-Philippine President Duterte to start in November",
-      "description": "Judges at the International Criminal Court have set Nov. 30 as the start date for the trial of former Philippine President Rodrigo Duterte for crimes against humanity",
-      "url": "https://abcnews.com/International/wireStory/icc-trial-philippine-president-duterte-start-november-133345660",
-      "published": "Wed, 27 May 2026 21:21:59 -0400",
-      "source": "ABC News International",
+      "title": "Israel carries out strike on Beirut suburbs, first near capital in weeks",
+      "description": "An Israeli strike hit a building in the southern suburbs of the Lebanese capital on Thursday, the first strike to hit near Beirut in weeks amid a ceasefire that has failed to halt fighting between Israeli troops and Hezbollah in south ​Lebanon. The Israeli military ‌said it had conducted a precise strike in Beirut but did not offer additional details.",
+      "url": "https://www.france24.com/en/video/20260528-israel-carries-out-strike-on-beirut-suburbs-first-near-capital-in-weeks",
+      "published": "Thu, 28 May 2026 15:31:12 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israel carries out strike on Beirut suburbs, first near capital in weeks"
     },
     {
       "title": "Middle East update: Airstrikes and evacuation orders in Lebanon, aid restrictions in Gaza",
@@ -921,20 +929,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israeli strike in Gaza City kills new head of Hamas's military wing"
-    },
-    {
-      "title": "Samsung memory chip staff in line for £310,000 bonuses after AI profit-sharing deal",
-      "description": "Agreement averts strike and shows latest impact of AI boom as two more chipmakers join $1tn club Employees at Samsung Electronics’ memory chip division are to receive bonuses averaging about £310,000 each through a landmark profit-sharing agreement, as the AI boom drives up chipmakers’ profits. Fears of a strike at Samsung were averted on Wednesday after two unions for the world’s largest memory chipmaker said 74% of the 62,616 workers who cast their votes had backed the deal. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/may/27/samsung-memory-chip-staff-bonuses-ai-profit-sharing-deal",
-      "published": "Wed, 27 May 2026 11:53:19 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Samsung memory chip staff in line for £310,000 bonuses after AI profit-sharing deal"
     },
     {
       "title": "UK minister visits Australia for ‘lessons’ ahead of expected British social media crackdown",
@@ -987,6 +981,17 @@
       "ticker_label": "🪖 Hottest year on record almost certain to occur by end of 2030, UN warns"
     },
     {
+      "title": "EU to discuss potential restrictions on Chinese imports amid fears of overreliance",
+      "description": "Concerns among commissioners in bloc that surge in imports could lead to decline similar to that of US rust belt towns EU commissioners will meet on Friday for crunch talks aimed at imposing new restrictions on imports from China amid growing concern that Beijing is fuelling conditions for US-style rust belt towns in Europe. The surge in imports of everything from electric cars to key components in machines, medical devices and food stuffs has been dubbed China Shock 2.0, potentially mirroring the experience in the US 25 years ago when Beijing joined the World Trade Organization. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/may/28/eu-discuss-restrictions-chinese-imports-fears-overreliance",
+      "published": "Thu, 28 May 2026 16:29:59 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "More than 500 people have died in Bangladesh measles outbreak",
       "description": "Bangladesh is scrambling to vaccinate more children amid a measles outbreak that has killed more than 500 people, most of them children.",
       "url": "https://www.npr.org/2026/05/28/nx-s1-5836674/more-than-500-people-have-died-in-bangladesh-measles-outbreak",
@@ -999,34 +1004,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 More than 500 people have died in Bangladesh measles outbreak"
-    },
-    {
-      "title": "U.S. conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'",
-      "description": "U.S. forces have carried out new defensive strikes on an Iran military facility after downing Iranian attack drones. That's according to U.S. officials who were not authorized to comment publicly and spoke on the condition of anonymity.",
-      "url": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
-      "published": "Wed, 27 May 2026 01:37:20 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 U.S. conducts another strike against Iran after Trump says Iran is 'negotiating on fumes'"
-    },
-    {
-      "title": "Iran war: US downs Iranian drones, Tehran retaliates",
-      "description": "The US shot down Iranian drones and struck a control center in an effort to \"maintain the ceasefire.\" In retaliation, Tehran struck a US military base. DW has the latest.",
-      "url": "https://www.dw.com/en/iran-war-us-downs-iranian-drones-tehran-retaliates/live-77321432?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 28 May 2026 02:05:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war: US downs Iranian drones, Tehran retaliates"
     },
     {
       "title": "Fire at girls' boarding school in Kenya kills 16",
@@ -1043,6 +1020,28 @@
       "ticker_label": "🚑 Fire at girls' boarding school in Kenya kills 16"
     },
     {
+      "title": "Fire at school for girls in central Kenya causes unknown number of deaths",
+      "description": "A fire at a school for girls in central Kenya has caused an unknown number of deaths",
+      "url": "https://abcnews.com/International/wireStory/fire-school-girls-central-kenya-causes-unknown-number-133372833",
+      "published": "Thu, 28 May 2026 03:31:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "5 things to know about the protests challenging Bolivia's new president",
+      "description": "Less than six months ago, the inauguration of centrist President Rodrigo Paz seemed to usher in a new reality for Bolivians reeling from the worst economic crisis in a generation",
+      "url": "https://abcnews.com/International/wireStory/5-things-protests-challenging-bolivias-new-president-133358830",
+      "published": "Wed, 27 May 2026 14:23:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "A collision between a bus and a truck crash kills 10 people in Zimbabwe",
       "description": "A collision between a bus and a haulage truck has killed 10 people in central Zimbabwe",
       "url": "https://abcnews.com/International/wireStory/collision-bus-truck-crash-kills-10-people-zimbabwe-133358111",
@@ -1055,17 +1054,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 A collision between a bus and a truck crash kills 10 people in Zimbabwe"
-    },
-    {
-      "title": "5 things to know about the protests challenging Bolivia's new president",
-      "description": "Less than six months ago, the inauguration of centrist President Rodrigo Paz seemed to usher in a new reality for Bolivians reeling from the worst economic crisis in a generation",
-      "url": "https://abcnews.com/International/wireStory/5-things-protests-challenging-bolivias-new-president-133358830",
-      "published": "Wed, 27 May 2026 14:23:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "From Kharkiv to the UK’s health service: Ukrainian doctor rebuilds her life – and helps others do the same",
@@ -1121,33 +1109,22 @@
       "ticker_label": "🪖 Iran signals ‘mass sacrifice’ in 'high stakes' Saddam-era warning amid Trump deal talks"
     },
     {
-      "title": "Man arrested after three injured in stabbing at Swiss train station",
-      "description": "The suspect, a 31-year-old Swiss man, has been arrested, police say, as areas around the station are cordoned off.",
-      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 28 May 2026 10:52:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran says US must issue multiple-entry visas for its World Cup squad",
-      "description": "Iran's delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches.",
-      "url": "https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss",
-      "published": "Thu, 28 May 2026 11:43:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Earth on track for record heat over next 5 years — UN report",
+      "description": "Meteorologists predict a high chance that global average temperatures could reach record levels between 2026-2030.",
+      "url": "https://www.dw.com/en/earth-on-track-for-record-heat-over-next-5-years-un-report/a-77334533?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 28 May 2026 15:34:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1168,17 +1145,6 @@
       "ticker_label": "🪖 Ukraine: EU's Kallas warns against Russian mediator 'trap'"
     },
     {
-      "title": "Puerto Rico governor announces emergency to fight worsening coastal erosion",
-      "description": "Puerto Rico’s governor has announced a state of emergency following critical coastal erosion along the U.S. territory’s north coast",
-      "url": "https://abcnews.com/International/wireStory/puerto-rico-governor-announces-emergency-fight-worsening-coastal-133351848",
-      "published": "Wed, 27 May 2026 12:14:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Review of landmark nuclear treaty breaks up without consensus, raising arms race fears",
       "description": "After four weeks of negotiations at UN Headquarters in New York, the 11th Review Conference of the nuclear Non-Proliferation Treaty (NPT) ended on Friday without consensus on a final declaration.",
       "url": "https://news.un.org/feed/view/en/story/2026/05/1167580",
@@ -1186,17 +1152,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Paris neighbourhoods: The underrated 14th arrondissement",
-      "description": "In this edition of French Connections, Genie Godula and Florence Villeminot continue their tour of Paris with a stop in the most underrated district of the capital: the 14th arrondissement. Calm and residential, most tourists won't make the journey to this southern edge of the Left Bank, but it's definitely worth a trip if you want a delightful taste of behind-the-scenes Paris. Here you'll find a village feel with cosy streets, hidden alleys and quirky sights... not to mention 6 million skeletons beneath your feet in the Paris Catacombs! Join us as we wander around the quatorzième arrondissement.",
-      "url": "https://www.france24.com/en/tv-shows/french-connections/20260528-paris-neighbourhoods-the-underrated-14th-arrondissement",
-      "published": "Thu, 28 May 2026 12:44:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1314,6 +1269,28 @@
       "is_ticker": false
     },
     {
+      "title": "Brazil's Lula backs new oil, gas drilling in western Amazon",
+      "description": "Brazilian oil giant Petrobras announced Wednesday the drilling of new wells at an oil and gas field in the Amazon rainforest for the first time in a decade, at an event attended by President Luiz Inacio Lula da Silva. In November, Lula hosted the COP30 UN climate conference where he urged world leaders to present \"roadmaps\" for the transition away from fossil fuels.",
+      "url": "https://www.france24.com/en/video/20260528-brazil-s-lula-backs-new-oil-gas-drilling-in-western-amazon",
+      "published": "Thu, 28 May 2026 15:29:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Reconnected? Iranians say only 'drip-feed' internet has returned after three-month shutdown",
+      "description": "After almost three months of being cut off from the world, internet access was partially restored in Iran starting on Tuesday. While some rejoice at finally being reconnected and able to check in on their loved ones, many complain about the persistent slowness in connectivity and doubt a complete restoration will happen any time soon.",
+      "url": "https://www.france24.com/en/asia-pacific/20260528-reconnected-iranians-say-only-drip-feed-internet-has-returned-after-three-month-shutdown",
+      "published": "Thu, 28 May 2026 15:22:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Tennis: World No.1 Sinner eliminated from French Open under scorching temperatures",
       "description": "No description available.",
       "url": "https://www.france24.com/en/sport/20260528-sinner-eliminated-from-french-open-under-scorching-temperatures",
@@ -1350,6 +1327,17 @@
       "ticker_label": "🪖 Funerals, beauty queens and bombs: The Ukrainian city that won’t let Putin win"
     },
     {
+      "title": "Man arrested after three injured in stabbing at Swiss train station",
+      "description": "A 31-year-old Swiss man has been arrested, police say, as images from the scene show parts of the station cordoned off.",
+      "url": "https://www.bbc.com/news/articles/cddpllqv49qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 16:26:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Matthew Perry's assistant jailed for 41 months over actor's ketamine death",
       "description": "Kenneth Iwamasa, who pleaded guilty last year to one count of conspiracy to distribute ketamine causing death, said he \"will forever regret\" his actions.",
       "url": "https://www.bbc.com/news/articles/cjepvx151gqo?at_medium=RSS&at_campaign=rss",
@@ -1365,28 +1353,6 @@
       "description": "Bandar Abbas, which the US has targeted multiple times, occupies a strategically sensitive position in Strait of Hormuz.",
       "url": "https://www.aljazeera.com/news/2026/5/28/us-attacks-bandar-abbas-again-why-is-the-port-so-important-for-iran?traffic_source=rss",
       "published": "Thu, 28 May 2026 14:45:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "For Gaza, Eid joy is now a form of resistance",
-      "description": "Six were killed in Remal on Eid night. Minutes later, the stalls reopened.",
-      "url": "https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss",
-      "published": "Thu, 28 May 2026 11:18:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "The West Bank’s Youth Unemployment Crisis",
-      "description": "The West Bank's Youth Unemployment Crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/the-west-banks-youth-unemployment-crisis?traffic_source=rss",
-      "published": "Thu, 28 May 2026 10:51:06 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1423,17 +1389,6 @@
       "description": "Palestinians in the West Bank live amid garbage following Israeli restrictions. Two Palestinian entrepreneurs are trying to make a change.",
       "url": "https://www.npr.org/2026/05/27/g-s1-121673/israel-palestinians-trash-west-bank",
       "published": "Wed, 27 May 2026 10:45:58 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Why the French Open is named after Roland Garros, who didn't play tennis",
-      "description": "Roland Garros, a WWI-era pilot, is credited with revolutionizing aerial combat. The major Paris tennis tournament was named after him in 1928, a decade after his death in combat.",
-      "url": "https://www.npr.org/2026/05/26/nx-s1-5834922/roland-garros-french-open-namesake",
-      "published": "Tue, 26 May 2026 14:08:00 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 8,
@@ -1519,17 +1474,6 @@
       "is_ticker": false
     },
     {
-      "title": "US has deported thousands of Cubans and Venezuelans to danger in Mexico, Human Rights Watch says",
-      "description": "The Trump administration has deported nearly 13,000 Cubans, Venezuelans and others to Mexico, where they face cartel violence and limited legal options",
-      "url": "https://abcnews.com/International/wireStory/us-deported-thousands-cubans-venezuelans-danger-mexico-human-133337977",
-      "published": "Wed, 27 May 2026 03:38:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Zelenskyy heads to Sweden as Ukraine touts drone expertise honed in war with Russia",
       "description": "Ukrainian President Volodymyr Zelenskyy is visiting Stockholm for talks with Swedish Prime Minister Ulf Kristersson on defense cooperation",
       "url": "https://abcnews.com/International/wireStory/zelenskyy-heads-sweden-ukraine-touts-drone-expertise-honed-133374848",
@@ -1542,6 +1486,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Zelenskyy heads to Sweden as Ukraine touts drone expertise honed in war with Russia"
+    },
+    {
+      "title": "Verdict due in trial of man who admits plot to attack a Taylor Swift concert in Vienna",
+      "description": "A verdict is expected in the case of a man who admitted to plotting to attack a Taylor Swift concert in Vienna",
+      "url": "https://abcnews.com/International/wireStory/verdict-due-trial-man-admits-plot-attack-taylor-133373017",
+      "published": "Thu, 28 May 2026 01:57:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Displaced in Gaza: From home comforts to the shattering horror of war",
@@ -1721,10 +1676,10 @@
       "is_ticker": false
     },
     {
-      "title": "Berlin police arrest man suspected of being an accomplice to Holocaust Memorial stabbing",
-      "description": "An alleged accomplice of a man who was convicted of stabbing and seriously wounding a Spanish tourist at Berlin’s Holocaust Memorial last year has been arrested in the German capital",
-      "url": "https://abcnews.com/International/wireStory/berlin-police-arrest-man-suspected-accomplice-holocaust-memorial-133338378",
-      "published": "Wed, 27 May 2026 06:10:02 -0400",
+      "title": "Aid supplies reach heart of Congo's Ebola outbreak as WHO head travels to Kinshasa",
+      "description": "Aid supplies have been rushed in to the center of Congo's Ebola outbreak where medical workers are struggling with equipment shortages, distrustful locals and armed groups",
+      "url": "https://abcnews.com/International/wireStory/aid-supplies-reach-heart-congos-ebola-outbreak-head-133381820",
+      "published": "Thu, 28 May 2026 09:30:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1768,8 +1723,44 @@
       "ticker_label": "💥 US justice department launches criminal investigation into Trump accuser E Jean Carroll"
     },
     {
+      "title": "Questions over safety as 16 pupils die in another Kenya school fire",
+      "description": "Several parents were still waiting for news of their children roughly 12 hours after the fire.",
+      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 28 May 2026 16:28:29 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "US Treasury threatens Oman with sanctions over Hormuz Strait",
+      "description": "US official says Oman should know that Washington 'will aggressively target' actors that facilitate tolls in waterway.",
+      "url": "https://www.aljazeera.com/news/2026/5/28/us-treasury-threatens-oman-with-sanctions-over-hormuz-strait?traffic_source=rss",
+      "published": "Thu, 28 May 2026 15:44:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "IOC chief Coventry stirs social media storm over athlete payment comments",
+      "description": "Olympians slam the IOC chief and Zimbabwe's former medallist for saying athletes should not be paid at the Games.",
+      "url": "https://www.aljazeera.com/sports/2026/5/28/ioc-chief-coventry-stirs-social-media-storm-over-athlete-payment-comments?traffic_source=rss",
+      "published": "Thu, 28 May 2026 15:04:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ IOC chief Coventry stirs social media storm over athlete payment comments"
+    },
+    {
       "title": "Dormitory fire at Kenyan girls’ school kills at least 16 students",
-      "description": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke out just after midnight at Utumishi girls academy in Gilgil, Nakuru county, about 76 miles north-west of Nairobi, according to police. Continue reading...",
+      "description": "Parents face anxious wait for updates after blaze tears through Utumishi girls academy in Gilgil, Nakuru county A fire has ripped through a dormitory at a girls’ school in Kenya’s Rift valley, killing at least 16 students. The fire broke out just after midnight at Utumishi girls academy in Gilgil, Nakuru county, about 76 miles north-west of Nairobi, police said. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/may/28/dormitory-fire-at-kenya-school-students-utumishi-girls-academy-gilgil",
       "published": "Thu, 28 May 2026 14:57:11 GMT",
       "source": "The Guardian World",
@@ -1823,15 +1814,18 @@
       "is_ticker": false
     },
     {
-      "title": "'The Arab Spring was something from the people for the people': Singer Emel Mathlouthi",
-      "description": "The woman whose song was at the heart of the Arab Spring has told FRANCE 24 that even 15 years later she looks back on her role, and the role of the protesters with admiration. Tunisian-American artist Emel Mathlouthi's song Kelmti Horra, or \"My Word is Free\", became something of an anthem at the time as uprisings against the authorities sprang up in one county after another. This weekend she's in concert here in Paris, and she joined us beforehand in Perspective.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20260528-the-arab-spring-was-something-from-the-people-for-the-people-singer-emel-mathlouthi",
-      "published": "Thu, 28 May 2026 11:39:09 GMT",
-      "source": "France24",
+      "title": "An unknown number of students have died in a school fire in Kenya, and search teams are working to account for them",
+      "description": "An unknown number of students have died in a school fire in Kenya, and search teams are working to account for them",
+      "url": "https://abcnews.com/International/wireStory/unknown-number-students-died-school-fire-kenya-search-133372834",
+      "published": "Thu, 28 May 2026 01:56:43 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 An unknown number of students have died in a school fire in Kenya, and search teams are working to account for them"
     },
     {
       "title": "Canadian teen girl charged with arson after allegedly torching American baseball team's charter bus",
@@ -1881,6 +1875,17 @@
       "is_ticker": false
     },
     {
+      "title": "Australian woman charged over travel to Syria to join Islamic State",
+      "description": "The arrest came eight months after she returned to Australia with her children from Lebanon.",
+      "url": "https://www.npr.org/2026/05/28/g-s1-124669/australian-woman-charged-over-travel-to-syria-to-join-islamic-state",
+      "published": "Thu, 28 May 2026 12:33:04 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Iranians are back online after a monthslong shutdown but face heavy restrictions",
       "description": "Iranians began to regain internet access after authorities ended a monthslong shutdown. Users said service was slow and spotty in some areas, with apps like YouTube and Instagram heavily restricted.",
       "url": "https://www.npr.org/2026/05/28/g-s1-124610/iranians-back-online",
@@ -1907,6 +1912,28 @@
       "description": "An Australian woman has been charged with traveling to Syria and joining the Islamic State group",
       "url": "https://abcnews.com/International/wireStory/australian-police-charge-melbourne-woman-accused-traveling-syria-133373270",
       "published": "Thu, 28 May 2026 02:00:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Inside an African hotel where asylum seekers deported by the US are imprisoned",
+      "description": "Under an opaque $7.5 million deal with the Trump administration, Equatorial Guinea’s all-powerful president has turned a hotel owned by his family into a prison for asylum seekers deported from the United States",
+      "url": "https://abcnews.com/International/wireStory/inside-african-hotel-asylum-seekers-deported-us-imprisoned-133373020",
+      "published": "Thu, 28 May 2026 02:09:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Japan woos visiting Philippine leader during state visit with arms sales and China in mind",
+      "description": "Japan is treating Philippine President Ferdinand Marcos Jr. with exceptional hospitality on his four-day state visit",
+      "url": "https://abcnews.com/International/wireStory/japan-woos-visiting-philippine-leader-state-visit-arms-133371539",
+      "published": "Thu, 28 May 2026 02:11:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1983,28 +2010,6 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil to revive highway project through Amazon amid concerns",
-      "description": "Brazil will invest $75 million to pave a highway that cuts through the center of the Amazon rainforest. Environmentalists argue for strong protections to conserve an ecosystem so crucial to curbing climate change.",
-      "url": "https://www.dw.com/en/brazil-to-revive-highway-project-through-amazon-amid-concerns/a-77321412?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 28 May 2026 01:59:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Concerns grow over conditions at ICE facility in New Jersey",
-      "description": "Democratic members of Congress have toured the Immigration and Customs Enforcement detention center, which has become a focus point for opponents of US President Donald Trump's migration agenda.",
-      "url": "https://www.dw.com/en/concerns-grow-over-conditions-at-ice-facility-in-new-jersey/a-77321018?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 27 May 2026 23:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "France: 'We must consider the effect climate policies will have on the poorest'",
       "description": "🌏 Climate policy for all? François Gemenne stresses the importance of designing just and equitable strategies to tackle climate change. More on #F24Debate➡️https://f24.my/Bx0O",
       "url": "https://www.france24.com/en/video/20260528-france-we-must-consider-the-effect-climate-policies-will-have-on-the-poorest",
@@ -2020,17 +2025,6 @@
       "description": "Just days before the Islamic festival of Tabaski, livestock markets in Abidjan are slowing down. Burkina Faso and Mali have suspended exports, while insecurity and the closure of Sahel trade corridors are disrupting traditional supply routes. The result: sheep are becoming scarce and prices are soaring across Abidjan’s markets. Our team on the ground reports.",
       "url": "https://www.france24.com/en/video/20260528-i-coast-faces-sheep-shortage-ahead-of-tabaski-amid-sahel-trade-disruptions",
       "published": "Thu, 28 May 2026 13:38:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How Norwegian researchers are using satellite images to track tourism’s environmental impact",
-      "description": "Norway’s northern Lofoten Islands are attracting an increasing number of tourists, raising concerns about the environmental impact. To help document these effects, Norwegian researchers have launched a new project that utilises satellite images.",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260528-norwegian-researchers-satellite-images-track-tourism-environmental-impact",
-      "published": "Thu, 28 May 2026 09:54:22 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 3,
@@ -2076,6 +2070,17 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake",
+      "description": "Picture was created by administrator in charge of station’s Facebook account who wanted to create ‘friendlier image’ It was an arresting image and an irresistible story. A group of tough Thai police officers – five men and one woman – all wearing elaborate festival-style dresses, surrounding a drug dealer they had caught while undercover. The image, released by local police, was so compelling that it found its way on to the front page of the UK’s Daily Star, as well as in picture stories in the Telegraph, the Sun and the New York Post. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake",
+      "published": "Thu, 28 May 2026 16:05:33 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2159,17 +2164,6 @@
       "is_ticker": false
     },
     {
-      "title": "Hotel that refused to give tourist tap water acted lawfully, Italian court rules",
-      "description": "The Italian Supreme Court rejected a tourist's claim that her consumer rights were breached when she was only offered €7 bottled mineral water.",
-      "url": "https://www.bbc.com/news/articles/c4g4yd8q0j7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 27 May 2026 12:25:31 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Teenager Kouame beats Vallejo at French Open to match 23-year Nadal record",
       "description": "French teenager Moise Kouame, who became youngest Grand Slam match winner in first round, defeats Adolfo Daniel Vallejo.",
       "url": "https://www.aljazeera.com/sports/2026/5/28/teenager-kouame-loses-two-set-lead-to-exit-french-open-in-defeat-by-vallejo?traffic_source=rss",
@@ -2224,28 +2218,6 @@
       "description": "Mamdani wears Arsenal thobe during Eid al-Adha celebrations",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/mamdani-wears-arsenal-thobe-during-eid-al-adha-celebrations?traffic_source=rss",
       "published": "Thu, 28 May 2026 13:01:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Donald Trump’ buffalo in Bangladesh will be spared sacrifice",
-      "description": "An albino buffalo with a blond forelock has shot to fame in Bangladesh as people say it resembles Donald Trump.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/donald-trump-buffalo-in-bangladesh-will-be-spared-sacrifice?traffic_source=rss",
-      "published": "Thu, 28 May 2026 12:40:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Al Jazeera journalist’s emotional speech after winning Emmy",
-      "description": "Al Jazeera journalist’s emotional speech after winning Emmy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/al-jazeera-journalists-emotional-speech-after-winning-emmy-2?traffic_source=rss",
-      "published": "Thu, 28 May 2026 11:16:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2410,11 +2382,44 @@
       "is_ticker": false
     },
     {
+      "title": "Orthodox Jewish women in Israel may now take a rabbinic exam, like men",
+      "description": "Until now, only Orthodox Jewish men in Israel have been allowed to take exams to become rabbis. After a long campaign, women can now also take the test - but still can't become rabbis",
+      "url": "https://www.npr.org/2026/05/28/g-s1-124466/israel-orthodox-jewish-women-exam-religion",
+      "published": "Thu, 28 May 2026 12:16:56 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "In Colombia, a flashy lawyer touts his tough-on-crime approach in presidential race",
       "description": "In Colombia's election this Sunday, a flamboyant criminal lawyer — who flaunts his wealth, machismo and even his music videos — is pitching himself as the toughest candidate on crime.",
       "url": "https://www.npr.org/2026/05/28/nx-s1-5830412/in-colombia-a-flashy-lawyer-touts-his-tough-on-crime-approach-in-presidential-race",
       "published": "Thu, 28 May 2026 04:47:55 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "France moves to symbolically repeal slavery legislation",
+      "description": "Members of the lower house of the French parliament unanimously voted to abolish a series of royal edicts known as the \"Code noir\" or Black Code. The bill stops short of some lawmakers' demands like possible reparations.",
+      "url": "https://www.dw.com/en/france-moves-to-symbolically-repeal-slavery-legislation/a-77332888?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 28 May 2026 16:02:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Hormuz, Suez, Panama: Why one can't charge shipping fees",
+      "description": "Iran has been widely condemned for demanding up to $2 million per transit through the Strait of Hormuz. DW explores the reasons why Egypt can charge for the Suez Canal and Panama for its waterway, but not Tehran.",
+      "url": "https://www.dw.com/en/hormuz-suez-panama-why-one-can-t-charge-shipping-fees/a-77325707?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 28 May 2026 15:35:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2457,6 +2462,17 @@
       "is_ticker": false
     },
     {
+      "title": "Space race heats up between US, China as NASA lays out Moon base plans",
+      "description": "NASA has unveiled its plans to send humans to the Moon, which include establishing a permanent presence on Earth's nearest satellite by the 2030s. It comes as China moves ahead with its own lunar ambitions, launching three astronauts into outer space. FRANCE 24's Sharon Gaffney speaks to Michelle L. D. Hanlon, Executive Director at the Center for Air and Space Law at the University of Mississippi.",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260528-space-race-heats-up-between-us-china-as-nasa-lays-out-moon-base-plans",
+      "published": "Thu, 28 May 2026 15:57:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Patrick Bruel scandal: Can we separate the art from the artist?",
       "description": "In this edition of Entre Nous we dive into the \"Affaire Patrick Bruel\", as it is being called here in France. We discuss the accusations of sexual assault by some 30 women against the French singer and actor. We also examine some of the difficult questions this scandal and others like it raise: should we separate the art from the artist? What of the presumption of innocence? Finally, we look at how France's statute of limitations laws are being tested here.",
       "url": "https://www.france24.com/en/tv-shows/entre-nous/20260528-patrick-bruel-scandal-can-we-separate-the-art-from-the-artist",
@@ -2479,22 +2495,11 @@
       "is_ticker": false
     },
     {
-      "title": "France votes unanimously to abolish Code Noir, a colonial-era slavery law",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/france/20260528-france-moves-to-repeal-yet-to-be-abolished-slavery-law-code-noir",
-      "published": "Thu, 28 May 2026 10:24:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Russia looks to forced mobilisation after losing 500,000 soldiers in Ukraine",
-      "description": "PRESS REVIEW – Thursday, May 28, 2026: Papers discuss whether Russia could potentially invade Europe. But first, Spanish front pages cover the latest developments in the political corruption scandal that has hit the Socialist Party. Elsewhere, US President Donald Trump's renovation of the Lincoln Memorial Reflecting Pool continues to make headlines. Finally, some dogs are fashionable, but one pup is in the dog house.",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260528-russia-looks-to-forced-mobilisation-after-losing-500-000-soldiers-in-ukraine",
-      "published": "Thu, 28 May 2026 10:13:42 GMT",
-      "source": "France24",
+      "title": "'Unwell' Sinner slumps to shock defeat in French Open second round",
+      "description": "Jannik Sinner has slumped to a shock defeat in the second round of the French Open after becoming unwell on court.",
+      "url": "https://news.sky.com/story/unwell-jannik-sinner-suffers-shock-defeat-to-juan-manuel-cerundolo-in-french-open-second-round-13548784",
+      "published": "Thu, 28 May 2026 16:07:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2545,46 +2550,10 @@
       "is_ticker": false
     },
     {
-      "title": "Muslim pilgrims perform Hajj rituals in strong heat as Eid al-Adha celebrations start",
-      "description": "Pilgrims in Saudi Arabia threw pebbles at a large pillar in a symbolic ritual during the final days of Hajj",
-      "url": "https://abcnews.com/International/wireStory/muslim-pilgrims-perform-hajj-rituals-intense-heat-eid-133342481",
-      "published": "Wed, 27 May 2026 08:10:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Northern Ireland's former unionist leader faces trial in sexual abuse case involving 2 girls",
-      "description": "The former leader of Northern Ireland’s Democratic Unionist Party is on trial for allegedly sexually abusing two girls",
-      "url": "https://abcnews.com/International/wireStory/northern-irelands-former-unionist-leader-faces-trial-sexual-133357508",
-      "published": "Wed, 27 May 2026 14:24:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says",
-      "description": "The Organization for the Prohibition of Chemical Weapons says it has found dozens of undeclared chemical bombs and rockets in Syria",
-      "url": "https://abcnews.com/International/wireStory/watchdog-dozens-assad-era-chemical-weapons-found-syria-133348127",
-      "published": "Wed, 27 May 2026 10:55:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Dozens of Assad-era chemical weapons found in Syria in recent weeks, watchdog says"
-    },
-    {
-      "title": "Brazil is set to join other Latin American countries with a 40-hour, 5-day workweek",
-      "description": "Brazil was set to join other Latin American countries that have shortened working hours as the lower house approved a constitutional amendment establishing a 40-hour, five-day workweek",
-      "url": "https://abcnews.com/International/wireStory/brazil-set-join-latin-american-countries-40-hour-133372367",
-      "published": "Thu, 28 May 2026 02:11:27 -0400",
+      "title": "What to know about Code Noir, a shocking French law that oversaw the slavery of 1.4 million Africans",
+      "description": "France’s lower house has voted finally to scrub a foundational slavery-era edict from French law",
+      "url": "https://abcnews.com/International/wireStory/code-noir-shocking-french-law-oversaw-slavery-14-133382659",
+      "published": "Thu, 28 May 2026 09:30:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2606,6 +2575,28 @@
       "ticker_label": "💥 Italy seizes gold, luxury villas and cash tied to Sicilian Mafia drug-trafficking"
     },
     {
+      "title": "Colombians will vote in a high-stakes test of Gustavo Petro’s agenda",
+      "description": "Colombia is set to elect a new president and vice president on May 31",
+      "url": "https://abcnews.com/International/wireStory/colombians-vote-high-stakes-test-gustavo-petros-agenda-133372551",
+      "published": "Thu, 28 May 2026 02:10:43 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Brazil is set to join other Latin American countries with a 40-hour, 5-day workweek",
+      "description": "Brazil was set to join other Latin American countries that have shortened working hours as the lower house approved a constitutional amendment establishing a 40-hour, five-day workweek",
+      "url": "https://abcnews.com/International/wireStory/brazil-set-join-latin-american-countries-40-hour-133372367",
+      "published": "Thu, 28 May 2026 02:11:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Brazil to invest $75 million in highway through Amazon and unveils environmental protection plan",
       "description": "Brazil’s government has announced a $75 million investment in the BR-319 highway, a move environmentalists fear could speed up Amazon deforestation",
       "url": "https://abcnews.com/International/wireStory/brazil-invest-75-million-highway-amazon-unveils-environmental-133362051",
@@ -2617,10 +2608,10 @@
       "is_ticker": false
     },
     {
-      "title": "Colombians will vote in a high-stakes test of Gustavo Petro’s agenda",
-      "description": "Colombia is set to elect a new president and vice president on May 31",
-      "url": "https://abcnews.com/International/wireStory/colombians-vote-high-stakes-test-gustavo-petros-agenda-133372551",
-      "published": "Thu, 28 May 2026 02:10:43 -0400",
+      "title": "Northern Ireland's former unionist leader faces trial in sexual abuse case involving 2 girls",
+      "description": "The former leader of Northern Ireland’s Democratic Unionist Party is on trial for allegedly sexually abusing two girls",
+      "url": "https://abcnews.com/International/wireStory/northern-irelands-former-unionist-leader-faces-trial-sexual-133357508",
+      "published": "Wed, 27 May 2026 14:24:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
