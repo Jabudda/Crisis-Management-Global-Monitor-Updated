@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06T11:59:43.566938Z",
+  "last_updated": "2026-06-06T12:42:26.626915Z",
   "event_count": 224,
   "events": [
     {
@@ -210,6 +210,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Cockroach Janata Party holds first protest in New Delhi",
+      "description": "Hundreds of supporters of the Cockroach Janata Party, an online joke that drew millions across India, gathered for the first time in the national capital on Saturday, taking the social media movement off screens and into its biggest real-world test yet. The protest at Jantar Mantar in New Delhi, marks the movement’s first foray into street politics after weeks of dominating social media feeds and news headlines, attracting millions of online followers and widespread support among young Indians.",
+      "url": "https://www.france24.com/en/cockroach-janata-party-holds-first-protest-in-new-delhi",
+      "published": "Sat, 06 Jun 2026 12:26:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -540,9 +551,9 @@
       "ticker_label": "🪖 On China, Trump picked the right battle but the wrong strategy"
     },
     {
-      "title": "France: Veterans mark 82th anniversary of D-Day in Normandy",
+      "title": "France: Veterans mark 82nd anniversary of D-Day in Normandy",
       "description": "The last living World War II veterans have made the journey to France to commemorate the Normandy landings, which mark the beginning of the Allied campaign to liberate Western Europe from Nazi Germany.",
-      "url": "https://www.dw.com/en/france-veterans-mark-82th-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/france-veterans-mark-82nd-anniversary-of-d-day-in-normandy/a-77445246?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 6 Jun 2026 11:44:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -551,7 +562,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 France: Veterans mark 82th anniversary of D-Day in Normandy"
+      "ticker_label": "🪖 France: Veterans mark 82nd anniversary of D-Day in Normandy"
     },
     {
       "title": "Gaza’s public servants systematically targeted in Israeli strikes",
@@ -566,6 +577,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Gaza’s public servants systematically targeted in Israeli strikes"
+    },
+    {
+      "title": "Lebanon says three soldiers killed in Israeli attack on car",
+      "description": "The Israeli military is investigating the incident in south Lebanon, where it is fighting Hezbollah.",
+      "url": "https://www.bbc.com/news/articles/cj0g8jymg92o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 10:57:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Japan sees shortage of plastic bags, trays and gloves, as Iran war-induced naphtha shortage worsens",
@@ -951,20 +973,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
-      "description": "Israel kills two Lebanese army officers, one soldier, and issues more forced displacement orders for southern Lebanon.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash"
-    },
-    {
       "title": "Experts criticise plan for American-only Ebola quarantine centre in Kenya",
       "description": "Plan departs from policy of bringing CDC staff back to US for treatment and offering support to all health workers Former top US officials and other experts are urging the Trump administration to abandon plans for an Ebola quarantine and treatment centre in Kenya, as the union for workers with the US Centers for Disease Control and Prevention (CDC) calls for Americans exposed to Ebola to be brought home for treatment. Soon after the US revealed it was setting up a field hospital in Kenya for the Ebola quarantine and treatment of Americans, the Kenyan high court blocked the order – but the Kenyan and US governments moved forward anyway, with the first American responders reportedly landing at the Laikipia airbase on Saturday. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jun/04/experts-criticise-plan-for-american-only-ebola-quarantine-centre-in-kenya",
@@ -1032,15 +1040,29 @@
       "ticker_label": "🪖 US and Iran exchange strikes in Gulf in latest test of ceasefire"
     },
     {
-      "title": "Everest guide survived six-day ordeal by eating chocolate and 'chewing ice'",
-      "description": "Dawa Sherpa was spotted alive by a cleaning crew as he slid slowly down the world's tallest mountain and spoke to the BBC from hospital.",
-      "url": "https://www.bbc.com/news/articles/cn9p91295q8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 19:53:51 GMT",
-      "source": "BBC News",
+      "title": "Spain’s World Cup 2026 team preview: Players to watch, group matches, squad",
+      "description": "Led by some outrageously young and talented players, are Spain set to repeat another Euro-World Cup double in 2026?",
+      "url": "https://www.aljazeera.com/sports/2026/6/6/spains-world-cup-2026-team-preview-players-to-watch-group-matches-squad?traffic_source=rss",
+      "published": "Sat, 06 Jun 2026 12:07:24 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
+      "description": "Iranian officials say a 'large' number of key staff denied visas as the team is set to travel to Mexico.",
+      "url": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts?traffic_source=rss",
+      "published": "Sat, 06 Jun 2026 12:01:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts"
     },
     {
       "title": "Jordan World Cup 2026 preview: Players to watch, group matches and squad",
@@ -1069,17 +1091,6 @@
       "description": "Technology, more specifically AI, will play a big role in the new additions at the upcoming World Cup.",
       "url": "https://www.aljazeera.com/sports/2026/6/6/fifa-world-cup-2026-what-is-new-sensor-match-ball-ai-player-avatar?traffic_source=rss",
       "published": "Sat, 06 Jun 2026 06:54:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ronaldo joins Portugal training ahead of sixth World Cup appearance",
-      "description": "Portuguese star Cristiano Ronaldo hit the training pitch as he readies for his sixth World Cup appearance.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/aje-onl-nf_clip_-ronaldo-trains-with-portugal-ahead-of-fifa-050626?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 01:34:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1164,17 +1175,6 @@
       "is_ticker": false
     },
     {
-      "title": "Historic Big Boy steam locomotive draws crowds as America 250 tour heads east",
-      "description": "Union Pacific's Big Boy No. 4014, the world's largest operating steam locomotive, is drawing crowds as it makes its first East Coast tour ahead of America's 250th birthday.",
-      "url": "https://www.foxnews.com/us/historic-big-boy-steam-locomotive-draws-crowds-america-250-tour-heads-east",
-      "published": "Fri, 05 Jun 2026 05:16:51 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US, Shield of the Americas condemn 'ongoing efforts' to overthrow Bolivia's elected president amid unrest",
       "description": "The U.S. and the Shield of the Americas countries condemned ongoing efforts to overthrow Bolivia's elected President Rodrigo Paz amid weeks of mass protests.",
       "url": "https://www.foxnews.com/world/us-shield-americas-condemn-ongoing-efforts-overthrow-bolivias-elected-president-unrest",
@@ -1247,20 +1247,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin",
-      "description": "Trump seeks to shore up support among rural voters hard-hit by tariffs, economic fallout of war with Iran.",
-      "url": "https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices-in-wisconsin?traffic_source=rss",
-      "published": "Fri, 05 Jun 2026 21:02:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump makes pitch to farmers hard-hit by tariffs, high prices in Wisconsin"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1319,6 +1305,17 @@
       "ticker_label": "🪖 Germany's Iran war lessons after 100 days"
     },
     {
+      "title": "UK PM criticises Vance over comments about teen's stabbing death",
+      "description": "British Prime Minister Keir Starmer 's office on Friday condemned comments by US Vice President JD Vance, who blamed immigration for the death of a university student who was handcuffed as he lay dying from a stab wound.",
+      "url": "https://www.france24.com/en/uk-pm-criticises-vance-over-comments-about-teen-s-stabbing-death",
+      "published": "Sat, 06 Jun 2026 12:37:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Pope Leo visits Spain with focus on immigration",
       "description": "Pope Leo arrived in Spain on Saturday for a week-long visit, his first to an EU country outside Italy, where he will inaugurate ​a new tower ‌in Barcelona's famed Sagrada Familia basilica and meet migrants who braved dangerous Atlantic waters to reach ⁠Europe. FRANCE 24's Sarah Morris reports from Madrid.",
       "url": "https://www.france24.com/en/pope-leo-visits-spain-with-focus-on-immigration",
@@ -1353,20 +1350,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Pope Leo visits Spain to highlight migration, meet victims of sexual abuse by clergy",
-      "description": "Pope Leo XIV arrived in Spain on Saturday for a seven-day trip focused on migration, including a visit to the Canary Islands where he will honour thousands of migrants who died trying to reach Europe. The trip comes at a politically sensitive time as Prime Minister Pedro Sanchez is under attack over several corruption scandals involving his inner circle.",
-      "url": "https://www.france24.com/en/europe/20260606-pope-visits-spain-with-focus-on-migrants-amid-political-tensions",
-      "published": "Sat, 06 Jun 2026 02:37:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Pope Leo visits Spain to highlight migration, meet victims of sexual abuse by clergy"
     },
     {
       "title": "Man dies after shark attack in Australia",
@@ -1477,20 +1460,6 @@
       "is_ticker": false
     },
     {
-      "title": "Hezbollah's 'game changing' night-hunting weapon punches through Israel's defenses: expert",
-      "description": "Drone expert warns Hezbollah's nighttime drone capabilities are game changing, using thermal sensors to target IDF troops under cover of darkness.",
-      "url": "https://www.foxnews.com/world/hezbollahs-game-changing-night-hunting-weapon-punches-through-israels-defenses-expert",
-      "published": "Sun, 31 May 2026 18:26:50 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hezbollah's 'game changing' night-hunting weapon punches through Israel's defenses: expert"
-    },
-    {
       "title": "Fireworks reportedly trigger mass horse stampede through Rome streets, injuring several soldiers",
       "description": "Unauthorized fireworks reportedly triggered a mass horse stampede during a late-night rehearsal for Italy's Republic Day parade in Rome, injuring riders.",
       "url": "https://www.foxnews.com/world/fireworks-reportedly-trigger-mass-horse-stampede-rome-streets-injuring-several-soldiers",
@@ -1511,6 +1480,20 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Former French first lady dies at 93: Bernadette Chirac, a 'discreet force'",
+      "description": "Bernadette Chirac, the steel-willed former first lady of France who spent 12 years at the Élysée Palace from 1995 to 2007 beside President Jacques Chirac while building her own political power in rural Corrèze and turning a children’s hospital charity into a national institution, has died. She was 93. Beloved by many, Bernadette was a \"discreet force\" and the \"rock\" on which her husband's political career was based on, according to Paul Smith, head of modern languages and associate professor in French at the University of Nottingham.",
+      "url": "https://www.france24.com/en/former-french-first-lady-dies-at-93-bernadette-chirac-a-discreet-force",
+      "published": "Sat, 06 Jun 2026 12:40:30 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Former French first lady dies at 93: Bernadette Chirac, a 'discreet force'"
     },
     {
       "title": "Armenia prepares for vote amid shifting relations with Russia and the West",
@@ -1593,8 +1576,19 @@
       "ticker_label": "🪖 Ukraine strikes cargo ships and admits Romania drone blast"
     },
     {
+      "title": "‘Cockroach Party’ leader returns to India for first New Delhi protest",
+      "description": "'Cockroach Party' leader returns to India for first New Delhi protest.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/cockroach-party-leader-returns-to-india-for-first-new-delhi-protest?traffic_source=rss",
+      "published": "Sat, 06 Jun 2026 11:47:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Cockroach Janta Party rallies at New Delhi for youth protests",
-      "description": "Protesters call for Education Minister's resignation after exam scandals, symbolizing a lost faith in India's system.",
+      "description": "Protesters call for education minister's resignation after exam scandals, symbolizing a lost faith in India's system.",
       "url": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss",
       "published": "Sat, 06 Jun 2026 11:07:41 +0000",
       "source": "Al Jazeera",
@@ -1652,7 +1646,7 @@
     },
     {
       "title": "Supporters of India's Gen Z 'cockroach' party stage first protest in New Delhi",
-      "description": "Hundreds of mostly young Indians gathered in New Dehli on Saturday for the first street protest organised by the Cockroach Janata Party – a movement which began as an online joke but has quickly gained momentum among Indian youth disillusioned with their education, jobs and economic prospects.",
+      "description": "Hundreds of mostly young Indians gathered in New Dehli on Saturday for the first street protest organised by the Cockroach Janata Party – a movement which began as an online joke but has quickly gained momentum among Indian youth disillusioned with their education, employment and economic prospects.",
       "url": "https://www.france24.com/en/asia-pacific/20260606-supporters-of-india-gen-z-cockroach-party-stage-first-protest-new-delhi",
       "published": "Sat, 06 Jun 2026 08:57:16 GMT",
       "source": "France24",
@@ -1717,11 +1711,33 @@
       "is_ticker": false
     },
     {
+      "title": "Man dies after bitten by shark in Western Australia, police say",
+      "description": "The man was spearfishing off Michaelmas Island with his family, according to local reports.",
+      "url": "https://www.bbc.com/news/articles/c74yl98kv37o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 06 Jun 2026 08:20:50 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
       "description": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard.",
       "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 05 Jun 2026 21:35:55 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Russia says hundreds of Ukrainian drones downed as economic forum ends",
+      "description": "Russia's defence ministry said the drones were downed over 16 areas and regions, including Crimea.",
+      "url": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends?traffic_source=rss",
+      "published": "Sat, 06 Jun 2026 11:59:15 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1808,17 +1824,6 @@
       "is_ticker": false
     },
     {
-      "title": "Arrests of critics in Ghana provokes alarm over free speech under Mahama",
-      "description": "Ghana’s 14 arrests in 16 months linked to false news have raised concerns about free speech.",
-      "url": "https://www.aljazeera.com/news/2026/6/6/arrests-of-critics-in-ghana-provokes-alarm-over-free-speech-under-mahama?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 02:01:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1868,17 +1873,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Parisians will be able to swim for a second year in the Seine",
-      "description": "Parisians will once again be able to swim in the Seine this summer, city officials said Friday, building on the success of last year's historic reopening of the river after a century-long ban and a massive clean-up effort ahead of the 2024 Paris Olympics.",
-      "url": "https://www.france24.com/en/france/20260605-parisians-will-be-able-to-swim-for-a-second-year-in-the-seine-france",
-      "published": "Fri, 05 Jun 2026 16:14:53 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -1954,11 +1948,11 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-wife of Dubai ruler's nephew in custody, prosecutors say",
-      "description": "Zeynab Javadli had not been in contact with any of her friends since Tuesday.",
-      "url": "https://www.bbc.com/news/articles/cx2124zylxno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 05 Jun 2026 05:44:44 GMT",
-      "source": "BBC News",
+      "title": "Hundreds brave freezing weather in La Paz to line up for affordable food",
+      "description": "Hundreds of Bolivian residents are braving near-freezing temperatures to queue for affordable chicken in La Paz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/hundreds-brave-freezing-weather-in-la-paz-to-line-up-for-affordable-food?traffic_source=rss",
+      "published": "Sat, 06 Jun 2026 12:07:39 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -1991,17 +1985,6 @@
       "description": "Spurs in need of an unprecedented comeback when the best-of-seven series shifts to New York for games three and four.",
       "url": "https://www.aljazeera.com/sports/2026/6/6/new-york-knicks-hold-off-san-antonio-spurs-105-104-for-2-0-nba-finals-lead?traffic_source=rss",
       "published": "Sat, 06 Jun 2026 05:19:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Gaza fishermen stay afloat with dinghies made from doorframes",
-      "description": "Fishermen in Gaza are using dinghies made of reclaimed fiberglass, wood, and doorframes salvaged from rubble.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/6/gaza-fishermen-stay-afloat-with-dinghies-made-from-doorframes?traffic_source=rss",
-      "published": "Sat, 06 Jun 2026 01:13:29 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2353,32 +2336,24 @@
       "is_ticker": false
     },
     {
+      "title": "Pope Leo visits Spain to highlight migration, meet victims of sexual abuse by clergy",
+      "description": "Pope Leo XIV arrived in Spain on Saturday for a seven-day trip focused in part on migration, including a visit to the Canary Islands where he will honour thousands of migrants who died trying to reach Europe. Leo is also scheduled to meet with victims of sex abuse by Catholic clergy, which some 200,000 minors are estimated to have suffered in Spain since 1940.",
+      "url": "https://www.france24.com/en/europe/20260606-pope-visits-spain-with-focus-on-migrants-amid-political-tensions",
+      "published": "Sat, 06 Jun 2026 02:37:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Pope Leo visits Spain to highlight migration, meet victims of sexual abuse by clergy"
+    },
+    {
       "title": "France probes judicial 'dysfunction' after murder of 11‑year‑old Lyhanna shocks nation",
       "description": "No description available.",
       "url": "https://www.france24.com/en/france/20260605-france-probes-judicial-dysfunction-after-suspected-murder-of-11%E2%80%91year%E2%80%91old-lyhanna",
       "published": "Fri, 05 Jun 2026 16:47:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Why is Paris's oldest bridge called the 'New Bridge'?",
-      "description": "🌉 A runway for a Louis Vuitton show, covered entirely in fabric as part of two artistic installations, home to a now-demolished water pump... the oldest bridge in Paris, Pont Neuf, has seen it all. Why, then, does its name translate to \"New Bridge\"? FRANCE 24's Tanishk Saha explains.",
-      "url": "https://www.france24.com/en/video/20260605-why-is-paris-s-oldest-bridge-called-the-new-bridge",
-      "published": "Fri, 05 Jun 2026 16:16:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Zverev eases past Mensik in French Open semifinals, in striking distance of elusive Grand Slam title",
-      "description": "Germany's Alexander Zverev on Friday moved within one win of his first Grand Slam title by beating Czech Jakub Mensik in four sets to reach the French Open final. The second seed will face Italy's Flavio Cobolli after a 7-5, 6-2, 3-6, 6-3 victory as he chases a long-awaited crown at the majors.",
-      "url": "https://www.france24.com/en/sport/20260605-zverev-defeats-mensik-in-french-open-semifinals-and-nears-grand-slam-title",
-      "published": "Fri, 05 Jun 2026 15:55:11 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2455,10 +2430,10 @@
       "is_ticker": false
     },
     {
-      "title": "A maritime drone explodes at a Romanian Black Sea port, no one hurt",
-      "description": "A Ukrainian maritime drone has exploded at a Black Sea port in Romania, with three others self-detonating outside the port, according to Romanian authorities",
-      "url": "https://abcnews.com/International/wireStory/maritime-drone-explodes-romanian-black-sea-port-hurt-133610854",
-      "published": "Fri, 05 Jun 2026 13:54:04 -0400",
+      "title": "Cuba to open hotel sector to management by Cubans at home and abroad after chains leave island",
+      "description": "Cuba’s government says it is open to offering the management of the island's hotels to Cubans at home and abroad",
+      "url": "https://abcnews.com/International/wireStory/cuba-open-hotel-sector-management-cubans-home-abroad-133639460",
+      "published": "Fri, 05 Jun 2026 23:39:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2466,10 +2441,10 @@
       "is_ticker": false
     },
     {
-      "title": "Cuba to open hotel sector to management by Cubans at home and abroad after chains leave island",
-      "description": "Cuba’s government says it is open to offering the management of the island's hotels to Cubans at home and abroad",
-      "url": "https://abcnews.com/International/wireStory/cuba-open-hotel-sector-management-cubans-home-abroad-133639460",
-      "published": "Fri, 05 Jun 2026 23:39:19 -0400",
+      "title": "A maritime drone explodes at a Romanian Black Sea port, no one hurt",
+      "description": "A Ukrainian maritime drone has exploded at a Black Sea port in Romania, with three others self-detonating outside the port, according to Romanian authorities",
+      "url": "https://abcnews.com/International/wireStory/maritime-drone-explodes-romanian-black-sea-port-hurt-133610854",
+      "published": "Fri, 05 Jun 2026 13:54:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2515,6 +2490,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167636",
       "published": "Wed, 03 Jun 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Michigan athlete lured by Snapchat message before being shot, dumped in lake while still alive",
+      "description": "In 2018, Emilio Valdez was shot and found in Osmun Lake. After four years, Snapchat evidence helped convict Angel Jose Alvarez of second-degree murder.",
+      "url": "https://www.foxnews.com/us/michigan-athlete-lured-snapchat-message-shot-dumped-lake-still-alive",
+      "published": "Sat, 06 Jun 2026 08:00:28 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2581,6 +2567,17 @@
       "url": "https://www.foxnews.com/us/democrat-bankrolling-graham-platners-campaign-downplaying-abuse-allegations-more-top-headlines",
       "published": "Fri, 05 Jun 2026 07:24:43 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Jeff Bartos says UN reform is no longer an 'oxymoron' after $570M in cuts",
+      "description": "Jeff Bartos details $570 million in U.N. budget cuts and 2,900 eliminated positions as the Trump administration pushes historic reform efforts.",
+      "url": "https://www.foxnews.com/world/jeff-bartos-says-un-reform-no-longer-oxymoron-after-570m-cuts",
+      "published": "Sat, 06 Jun 2026 08:00:26 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
