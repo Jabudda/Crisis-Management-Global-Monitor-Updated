@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10T18:04:02.246829Z",
+  "last_updated": "2026-06-10T19:24:33.337271Z",
   "event_count": 220,
   "events": [
     {
@@ -29,20 +29,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Powerful earthquake in southern Philippines leaves at least 37 dead"
-    },
-    {
-      "title": "South Africa: Mass shooting kills 12 near Johannesburg",
-      "description": "Police are hunting for multiple suspects after gunmen killed 12 people in a Johannesburg settlement. The attack has highlighted ongoing violence in South Africa, where murder rates are among the world's highest.",
-      "url": "https://www.dw.com/en/south-africa-mass-shooting-kills-12-near-johannesburg/a-77483899?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 10 Jun 2026 07:30:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 37,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 South Africa: Mass shooting kills 12 near Johannesburg"
     },
     {
       "title": "4 states head to the polls. And, global conflicts are on the rise, new report says",
@@ -397,20 +383,6 @@
       "is_ticker": false
     },
     {
-      "title": "7-month-old baby shot by Israeli soldier in Hebron",
-      "description": "An Israeli soldier fired at a Palestinian family’s car in Hebron, fatally shooting a seven‑month‑old in the head.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/7-month-old-baby-shot-by-israeli-soldier-in-hebron?traffic_source=rss",
-      "published": "Wed, 10 Jun 2026 12:44:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 7-month-old baby shot by Israeli soldier in Hebron"
-    },
-    {
       "title": "War in Ukraine: Kyiv strikes key Russian supply lines",
       "description": "Russian troops rely on supplies via the land corridor to Crimea, but Ukrainian forces are now able to launch concentrated attacks along the critical route. Experts say this indicates growing Russian vulnerability.",
       "url": "https://www.dw.com/en/war-in-ukraine-kyiv-strikes-key-russian-supply-lines/a-77480640?maca=en-rss-en-all-1573-xml-mrss",
@@ -498,6 +470,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Cuba: Amid blockade, Pentagon chief issues military warning"
+    },
+    {
+      "title": "LISTEN: Dispatch audio captures frantic hunt for suspect in Penn State senior's fatal shooting",
+      "description": "Penn State senior Billy Schmidt was fatally shot in Philadelphia after allegedly chasing suspects who stole his cellphone, months before graduation.",
+      "url": "https://www.foxnews.com/us/listen-dispatch-audio-captures-frantic-hunt-suspect-penn-state-seniors-fatal-shooting",
+      "published": "Wed, 10 Jun 2026 15:04:57 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 LISTEN: Dispatch audio captures frantic hunt for suspect in Penn State senior's fatal shooting"
     },
     {
       "title": "WATCH: Surveillance video captures Penn State student's final moments before fatal shooting",
@@ -600,17 +586,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pakistan military helicopter crashes in Kashmir, all on board killed",
-      "description": "There has been a heavy security presence in Muzaffarabad amid protests in Pakistan-administered Kashmir in recent days.",
-      "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed?traffic_source=rss",
-      "published": "Wed, 10 Jun 2026 12:30:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Belfast stabbing suspect in court after night of protests",
       "description": "The suspect in the knife attack, a Sudanese man, has been remanded into custody. UK leaders have called for calm after the stabbing sparked anti-immigrant riots in Belfast overnight.",
       "url": "https://www.dw.com/en/belfast-stabbing-suspect-in-court-after-night-of-protests/a-77485962?maca=en-rss-en-all-1573-xml-mrss",
@@ -684,6 +659,34 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+      "description": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss",
+      "published": "Wed, 10 Jun 2026 18:22:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump warns of more attacks on Iran after US Apache helicopter downing"
+    },
+    {
+      "title": "UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast",
+      "description": "Anti-immigrant violence swept through Belfast, with homes and vehicles torched following a knife attack.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/uk-pm-starmer-slams-unjustified-anti-immigration-violence-in-belfast?traffic_source=rss",
+      "published": "Wed, 10 Jun 2026 18:00:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 UK PM Starmer slams ‘unjustified’ anti-immigration violence in Belfast"
     },
     {
       "title": "Mass shooting with at least 10 attackers in Johannesburg",
@@ -939,20 +942,6 @@
       "ticker_label": "🪖 Pro-US conservative faces leftist in Peru's high-stakes presidential runoff"
     },
     {
-      "title": "Netanyahu caught between the US, Lebanon war, and Iran ceasefire",
-      "description": "As elections near, Israel's PM finds himself squeezed between his voters, his allies, and his opponents.",
-      "url": "https://www.aljazeera.com/news/2026/6/10/netanyahu-caught-between-the-us-lebanon-war-and-iran-ceasefire?traffic_source=rss",
-      "published": "Wed, 10 Jun 2026 11:57:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Netanyahu caught between the US, Lebanon war, and Iran ceasefire"
-    },
-    {
       "title": "U.S. and Iran exchange strikes after Apache helicopter downing",
       "description": "Trump confirmed the two pilots in the U.S. helicopter, downed near the Strait of Hormuz, are safe. The U.S. responded by launching strikes on Iran, with Tehran attacking Bahrain, Kuwait and Jordan soon after.",
       "url": "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
@@ -1021,6 +1010,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Countries urged to ‘go further, faster’ and deliver on climate commitments"
+    },
+    {
+      "title": "FBI nabs 7 for alleged 'campaign of violence' to pressure University of Michigan, businesses over Israel ties",
+      "description": "College-aged activists allegedly waged a year-long campaign of intimidation and threats against University of Michigan officials and Jewish institutions.",
+      "url": "https://www.foxnews.com/us/fbi-nabs-7-alleged-campaign-violence-pressure-university-michigan-businesses-israel-ties",
+      "published": "Wed, 10 Jun 2026 14:07:23 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Nancy Guthrie sheriff caught with undeclared gun at airport faced no charges, bodycam video shows",
@@ -1209,20 +1209,6 @@
       "is_ticker": false
     },
     {
-      "title": "Hero’s welcome for Somali referee denied entry to US World Cup tournament",
-      "description": "The first Somali picked to referee a World Cup rose from Mogadishu's pitches, only to be barred at the US border.",
-      "url": "https://www.aljazeera.com/news/2026/6/10/heros-welcome-for-somali-referee-denied-entry-to-us-world-cup-tournament?traffic_source=rss",
-      "published": "Wed, 10 Jun 2026 12:15:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Hero’s welcome for Somali referee denied entry to US World Cup tournament"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1248,9 +1234,9 @@
       "ticker_label": "💥 ‘Not just a singer’: Argentinians queue for miles to mourn biggest rockstar most of world has never heard of"
     },
     {
-      "title": "World Cup 2026: Edin Dzeko still going strong for Bosnia",
-      "description": "With all so much unpleasantness surrounding this World Cup it's easy to forget that there's anything about it that can generate a smile. Bosnia captain Edin Dzeko's story can.",
-      "url": "https://www.dw.com/en/world-cup-2026-edin-dzeko-still-going-strong-for-bosnia/a-77340981?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "World Cup: Edin Dzeko still strong for Bosnia-Herzegovina",
+      "description": "With so much unpleasantness surrounding this year's World Cup it's easy to forget that there's anything about it that can elicit a smile. But the story of Bosnia-Herzegovina captain Edin Dzeko sure can.",
+      "url": "https://www.dw.com/en/world-cup-edin-dzeko-still-strong-for-bosnia-herzegovina/a-77340981?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 10 Jun 2026 09:03:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1428,6 +1414,34 @@
       "ticker_label": "🚨 Alleged Bondi Beach gunman charged with another 19 offences"
     },
     {
+      "title": "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
+      "description": "Immigrant advocates warn the funding bill offers few guardrails for ICE and CBP amid Trump's mass deportation campaign.",
+      "url": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss",
+      "published": "Wed, 10 Jun 2026 18:25:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 After a Democrat standoff, Trump signs $70bn immigration enforcement bill"
+    },
+    {
+      "title": "US military chief Hegseth warns Cuba against acquiring military arms",
+      "description": "Hegseth's visit to Guantanamo Bay, Cuba, comes as the Trump administration increases pressure against Cuba's government.",
+      "url": "https://www.aljazeera.com/news/2026/6/10/us-military-chief-hegseth-warns-cuba-against-acquiring-military-arms?traffic_source=rss",
+      "published": "Wed, 10 Jun 2026 18:09:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US military chief Hegseth warns Cuba against acquiring military arms"
+    },
+    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1597,17 +1611,6 @@
       "is_ticker": false
     },
     {
-      "title": "Karmelo Anthony jury begins deliberating, to consider manslaughter charge in track meet murder trial",
-      "description": "Karmelo Anthony's defense rests without his testimony in the murder trial for the stabbing death of Austin Metcalf at a Texas high school track meet.",
-      "url": "https://www.foxnews.com/us/karmelo-anthony-stays-silent-analysts-warn-defense-faces-uphill-battle-track-meet-stabbing-trial",
-      "published": "Tue, 09 Jun 2026 00:00:10 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Bystanders hailed as 'heroic' after intervening in brutal knife attack by Sudanese migrant in UK",
       "description": "A Sudanese man was arrested on suspicion of attempted murder after a knife attack in Belfast, Northern Ireland left a man in his 40s with serious injuries.",
       "url": "https://www.foxnews.com/world/bystanders-hailed-heroic-after-intervening-brutal-knife-attack-sudanese-migrant-uk",
@@ -1637,17 +1640,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Murder of Lyhanna, 11, enrages France and turns up heat on government",
-      "description": "Protesters are angry that the suspect had already been reported to police last August in a separate case.",
-      "url": "https://www.bbc.com/news/articles/c4gyd1w3e20o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 09 Jun 2026 14:27:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -2072,6 +2064,17 @@
       "is_ticker": false
     },
     {
+      "title": "Whale graveyard dating back five million years discovered",
+      "description": "The Indian Ocean site is \"far beyond anything we had imagined\", one researcher says.",
+      "url": "https://www.bbc.com/news/articles/c75ylx4xn10o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 10 Jun 2026 18:24:09 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine says missiles hit military plant deep inside Russia",
       "description": "Ukraine's military also says it has struck a Russian oil refinery and a \"shadow fleet\" oil tanker in the Black Sea.",
       "url": "https://www.bbc.com/news/articles/c5yzm2nzgr2o?at_medium=RSS&at_campaign=rss",
@@ -2113,6 +2116,28 @@
       "url": "https://www.bbc.com/news/articles/cdejn0gj12go?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 09 Jun 2026 17:46:55 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran says it will ‘not hesitate’ to defend itself after latest clashes",
+      "description": "Iran’s Foreign Ministry said overnight clashes in the Gulf between Tehran and Washington showed how Iran will respond.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss",
+      "published": "Wed, 10 Jun 2026 18:38:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Is Fortress Europe becoming more strict?",
+      "description": "The new EU's Pact on Migration and Asylum is the most sweeping overhaul of European asylum law in decades.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/is-fortress-europe-becoming-more-strict?traffic_source=rss",
+      "published": "Wed, 10 Jun 2026 17:33:44 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2175,31 +2200,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US bombs Iran’s water facilities: Why that’s so significant"
-    },
-    {
-      "title": "Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia",
-      "description": "Video shows a Ukrainian-made ‘FP-5 Flamingo’ cruise missile flying deep inside Russia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/10/ukraine-made-flamingo-missile-hits-target-900-km-inside-russia?traffic_source=rss",
-      "published": "Wed, 10 Jun 2026 12:44:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine-made ‘Flamingo’ missile hits target 900 km inside Russia"
-    },
-    {
-      "title": "Kashmiri rights activist wins partial court victory but remains behind bars",
-      "description": "The Delhi High Court grants bail to Kashmiri rights activist Khurram Parvez, jailed in India for nearly five years.",
-      "url": "https://www.aljazeera.com/news/2026/6/10/kashmiri-rights-activist-wins-partial-court-victory-but-remains-behind-bars?traffic_source=rss",
-      "published": "Wed, 10 Jun 2026 12:18:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2351,7 +2351,7 @@
       "title": "M 4.7 - 23 km E of Pāpa‘ikou, Hawaii",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-06-10 08:37:40 UTC 2026-06-10 08:37:40 UTC at epicenter Location 19.784°N 154.866°W Depth 39.18 km (24.35 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv74978947",
-      "published": "2026-06-10T18:02:05.049Z",
+      "published": "2026-06-10T19:17:55.201Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2362,7 +2362,7 @@
       "title": "M 6.1 - 102 km WNW of Mantua, Cuba",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-06-08 18:00:27 UTC 2026-06-08 18:00:27 UTC at epicenter Location 22.785°N 85.125°W Depth 26.00 km (16.16 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srjx",
-      "published": "2026-06-10T17:40:08.821Z",
+      "published": "2026-06-10T18:10:30.198Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2384,7 +2384,7 @@
       "title": "M 7.8 - 26 km SW of Kablalan, Philippines",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - IX Time 2026-06-07 23:37:41 UTC 2026-06-07 23:37:41 UTC at epicenter Location 5.592°N 125.047°E Depth 55.19 km (34.30 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000srb1",
-      "published": "2026-06-10T12:28:48.332Z",
+      "published": "2026-06-10T18:55:50.593Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2397,6 +2397,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00919749",
       "published": "2026-06-10T12:27:19.653Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bill Gates tells Epstein panel he 'never victimized anyone'",
+      "description": "The Microsoft co-founder and billionaire philanthropist Bill Gates voluntarily appeared before the House Oversight Committee. He said Jeffrey Epstein was \"working to use information\" about his extramarital affairs.",
+      "url": "https://www.dw.com/en/bill-gates-tells-epstein-panel-he-never-victimized-anyone/a-77496857?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 10 Jun 2026 18:43:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2611,17 +2622,6 @@
       "description": "Utah prosecutors urge judge to reject defense delay in Charlie Kirk assassination case, arguing the suspect's lawyers failed to meet stay criteria.",
       "url": "https://www.foxnews.com/us/utah-prosecutors-ask-judge-shut-delay-tactics-charlie-kirk-assassination-case",
       "published": "Tue, 09 Jun 2026 09:11:19 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Maine Democrats decide fate of Senate candidate dogged by explosive allegations and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/maine-democrats-decide-fate-senate-candidate-dogged-explosive-allegations-more-top-headlines",
-      "published": "Tue, 09 Jun 2026 06:46:58 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
