@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12T20:18:42.586545Z",
+  "last_updated": "2026-06-12T21:08:16.999671Z",
   "event_count": 223,
   "events": [
     {
@@ -157,7 +157,7 @@
       "ticker_label": "🚨 Vance Boelter changes plea to guilty in Minn. lawmaker shootings that killed Rep. Melissa Hortman, husband"
     },
     {
-      "title": "Shooting in Midland, Texas, leaves 1 dead, multiple others injured",
+      "title": "Deceased gunman identified after shooting in Midland, Texas, leaves 1 dead, 10 wounded",
       "description": "Midland, Texas Mayor Lori Blong said there are 11 victims, including one death, in a shooting in the downtown area, and that the suspect is now dead.",
       "url": "https://www.foxnews.com/us/active-shooting-incident-midland-texas-dead-injured",
       "published": "Fri, 12 Jun 2026 12:03:32 -0400",
@@ -166,9 +166,9 @@
       "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Shooting in Midland, Texas, leaves 1 dead, multiple others injured"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Deceased gunman identified after shooting in Midland, Texas, leaves 1 dead, 10 wounded"
     },
     {
       "title": "Christian leaders hold emergency summit in Jerusalem to confront global rise in antisemitism",
@@ -330,17 +330,6 @@
       "ticker_label": "🪖 Liberals are scaring first-home buyers with warnings of negative equity – but experts believe there’s little to worry about"
     },
     {
-      "title": "G7 summit at Swiss-French border brings tight security in case violent protests occur",
-      "description": "French and Swiss authorities are imposing pandemic-like border restrictions as the G7 summit begins",
-      "url": "https://abcnews.com/International/wireStory/g7-summit-swiss-french-border-brings-tight-security-133773704",
-      "published": "Thu, 11 Jun 2026 02:08:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "At least one killed and nine hospitalised in Midland, Texas shooting",
       "description": "Authorities in Midland, Texas, say that suspected attacker confirmed dead after shooting and standoff with police.",
       "url": "https://www.aljazeera.com/news/2026/6/12/at-least-one-killed-and-nine-hospitalised-in-texas-shooting?traffic_source=rss",
@@ -353,17 +342,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 At least one killed and nine hospitalised in Midland, Texas shooting"
-    },
-    {
-      "title": "A fire on the Spanish island of Mallorca kills 2 people and injures several",
-      "description": "A fire that broke out in a tourist area on the Spanish island of Mallorca has killed two people and left several injured",
-      "url": "https://abcnews.com/International/wireStory/fire-spanish-island-mallorca-kills-2-people-injures-133774432",
-      "published": "Thu, 11 Jun 2026 09:06:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "‘Human rights are part of our DNA’: UN launches global alliance to counter rising threats",
@@ -653,6 +631,20 @@
       "ticker_label": "🪖 'We need more clean, homegrown, cheap European energy': EU Climate Commissioner"
     },
     {
+      "title": "Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula",
+      "description": "In a new blow to the Kremlin’s narrative that Moscow is winning the 4-year-old war in Ukraine, Kyiv’s forces have targeted fuel supplies to the Crimean Peninsula",
+      "url": "https://abcnews.com/International/wireStory/ukraine-hits-fuel-supplies-crimea-sparking-fuel-crisis-133803653",
+      "published": "Fri, 12 Jun 2026 04:40:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine hits fuel supplies to Crimea, sparking a fuel crisis on the Russian-held peninsula"
+    },
+    {
       "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
       "description": "More civilians were killed and injured in Ukraine in May than in any other month in the past four years, UN investigators said on Friday in their latest update.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167707",
@@ -822,6 +814,17 @@
       "ticker_label": "🪖 India bets big on domestic drones for future warfare"
     },
     {
+      "title": "Once beset by power outages, Puerto Ricans also hit with severe water shortages",
+      "description": "Thousands of Puerto Ricans are struggling with water shortages so severe that the governor of the U.S. territory has activated the National Guard and emergency responders are fielding calls every day",
+      "url": "https://abcnews.com/International/wireStory/beset-power-outages-puerto-ricans-hit-severe-water-133808073",
+      "published": "Fri, 12 Jun 2026 03:53:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Mother finds body of missing son two days after Kenya's Ebola quarantine centre protests",
       "description": "Sylvester Muigai Ndung'u was in Nanyuki to fetch a school uniform on Tuesday, his mother says.",
       "url": "https://www.bbc.com/news/articles/crlw3w84w30o?at_medium=RSS&at_campaign=rss",
@@ -898,34 +901,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukrainian strikes hit arms factory and oil refinery deep inside Russia"
-    },
-    {
-      "title": "Funeral is held for 22 Pakistani soldiers who died in a helicopter crash in Kashmir",
-      "description": "Authorities say rescuers have recovered the remains of all 22 soldiers aboard a military helicopter that crashed in Pakistan-administered Kashmir the previous day",
-      "url": "https://abcnews.com/International/wireStory/mass-funeral-held-22-pakistani-soldiers-died-helicopter-133775172",
-      "published": "Thu, 11 Jun 2026 06:16:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Funeral is held for 22 Pakistani soldiers who died in a helicopter crash in Kashmir"
-    },
-    {
-      "title": "UN mission in Afghanistan confirms death toll of 13 civilians in Pakistani airstrikes",
-      "description": "The United Nations mission in Afghanistan says it has documented the deaths of 13 civilians, mainly children and women, from Pakistani airstrikes on eastern Afghanistan",
-      "url": "https://abcnews.com/International/wireStory/mission-afghanistan-confirms-death-toll-13-civilians-pakistani-133777492",
-      "published": "Thu, 11 Jun 2026 07:46:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UN mission in Afghanistan confirms death toll of 13 civilians in Pakistani airstrikes"
     },
     {
       "title": "Austin Metcalf family facing threats, financial strain as Karmelo Anthony fundraising draws scrutiny",
@@ -1069,15 +1044,18 @@
       "is_ticker": false
     },
     {
-      "title": "Gunmen shoot and kill Mexican journalist in the eastern state of Veracruz",
-      "description": "A Mexican journalist has been shot and killed in Veracruz, marking the second media worker killing in the state this year",
-      "url": "https://abcnews.com/International/wireStory/gunmen-shoot-kill-mexican-journalist-eastern-state-veracruz-133794679",
-      "published": "Fri, 12 Jun 2026 02:08:57 -0400",
-      "source": "ABC News International",
+      "title": "Ukraine's EU accession bid gains traction as Hungary lifts veto",
+      "description": "The European Union will resume membership negotiations with Ukraine on Monday after Hungary's new government lifted a long-standing veto imposed by former prime minister Viktor Orban. EU leaders said all member states had agreed to open the first phase of accession talks with Ukraine and Moldova, marking a fresh show of support for Kyiv amid Russia's ongoing war.",
+      "url": "https://www.france24.com/en/europe/20260612-ukraine-s-eu-accession-bid-gains-traction-as-hungary-lifts-veto",
+      "published": "Fri, 12 Jun 2026 20:01:20 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine's EU accession bid gains traction as Hungary lifts veto"
     },
     {
       "title": "London judge sentences Palestine Action activists for raid at Israeli defense factory",
@@ -1133,10 +1111,10 @@
       "ticker_label": "🌪️ Brexit: 10 years of regret?"
     },
     {
-      "title": "India's viral Cockroach Party launches nationwide youth protests",
-      "description": "India’s viral Cockroach Janta Party has launched a nationwide protest campaign",
-      "url": "https://abcnews.com/International/wireStory/indias-viral-cockroach-party-launches-nationwide-youth-protests-133787416",
-      "published": "Thu, 11 Jun 2026 12:08:20 -0400",
+      "title": "Indonesian students protest government policies as economic pressures grow",
+      "description": "Hundreds of Indonesian students have protested in Jakarta, the capital, and other cities, demanding lower fuel and food prices",
+      "url": "https://abcnews.com/International/wireStory/indonesian-students-protest-government-policies-economic-pressures-grow-133810558",
+      "published": "Fri, 12 Jun 2026 07:49:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -1152,6 +1130,17 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
+      "description": "Musk's AI and reusable rocket company listed on the Nasdaq stock exchange with a value of $2.2tn.",
+      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 12 Jun 2026 20:46:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1498,21 +1487,21 @@
       "is_ticker": false
     },
     {
-      "title": "Not up for debate: Britain bans commentators Hasan Piker and Cenk Uygur",
-      "description": "This week, FRANCE 24's media show Scoop looks at Britain's decision to block controversial left-wing commentators Hasan Piker and Cenk Uygur from entering the country. The interior minister judged that their presence was \"not conducive to the public good\". This vague standard is increasingly being used to keep out high-profile foreigners. Our guest is Jemimah Steinfeld, the CEO of Index on Censorship.",
-      "url": "https://www.france24.com/en/tv-shows/scoop/20260612-not-up-for-debate-britain-bans-commentators-hasan-piker-and-cenk-uygur",
-      "published": "Fri, 12 Jun 2026 13:44:17 GMT",
-      "source": "France24",
+      "title": "Timmy, Germany's humpback whale, likely lived for only 5 days after controversial rescue effort",
+      "description": "The humpback whale that kept Germany spellbound for months likely lived for roughly five days after the final controversial rescue attempt failed to guide it back to its natural habitat in the Atlantic Ocean",
+      "url": "https://abcnews.com/International/wireStory/timmy-germanys-humpback-whale-lived-5-days-after-133810112",
+      "published": "Fri, 12 Jun 2026 07:49:07 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Kuwait closes its airspace over Iranian attacks",
-      "description": "Kuwait closes its airspace over Iranian attacks",
-      "url": "https://abcnews.com/International/wireStory/kuwait-closes-airspace-iranian-attacks-133771083",
-      "published": "Thu, 11 Jun 2026 01:02:04 -0400",
+      "title": "2 collisions on a Hungarian highway kill 8 people",
+      "description": "Police say two collisions on a highway in western Hungary have killed eight people",
+      "url": "https://abcnews.com/International/wireStory/2-collisions-hungarian-highway-kill-8-people-133809143",
+      "published": "Fri, 12 Jun 2026 07:49:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1534,15 +1523,18 @@
       "ticker_label": "🪖 Ahead of G7, Carney softens tone toward Trump with trade talks at stake"
     },
     {
-      "title": "Timmy, Germany's humpback whale, likely lived for only 5 days after controversial rescue effort",
-      "description": "The humpback whale that kept Germany spellbound for months likely lived for roughly five days after the final controversial rescue attempt failed to guide it back to its natural habitat in the Atlantic Ocean",
-      "url": "https://abcnews.com/International/wireStory/timmy-germanys-humpback-whale-lived-5-days-after-133810112",
-      "published": "Fri, 12 Jun 2026 07:49:07 -0400",
+      "title": "Dominican Republic pushes for tax increases to offset surge in oil prices",
+      "description": "The Dominican government says it plans to increase or implement new taxes to generate some $800 million in additional revenue a year to offset a surge in oil prices blamed on the Iran war",
+      "url": "https://abcnews.com/International/wireStory/dominican-republic-pushes-tax-increases-offset-surge-oil-133801032",
+      "published": "Thu, 11 Jun 2026 20:49:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Dominican Republic pushes for tax increases to offset surge in oil prices"
     },
     {
       "title": "Teen accused of killing elderly couple has brothers who allegedly shot deputy cops say 'will never walk again'",
@@ -1675,17 +1667,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran says deal to end fighting with US has 'never been closer'",
-      "description": "Both Iran and Pakistan say a deal has never been closer - echoing US President Donald Trump's statement on Thursday.",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 18:20:51 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US judge refuses to block Trump’s White House UFC fight",
       "description": "Federal judge rules UFC fight at White House on Trump’s birthday can proceed despite legal challenges.",
       "url": "https://www.aljazeera.com/news/2026/6/12/us-judge-refuses-to-block-ufc-fight-at-white-house-event?traffic_source=rss",
@@ -1742,7 +1723,7 @@
     },
     {
       "title": "German students up in arms about funding cuts",
-      "description": "Germany's research minister Dorothee Bär says German students' situation is \"very privileged\" and has rejected reform of the Federal Training Assistance Act (BAföG), in the process turning many students against her.",
+      "description": "Germany's research minister, Dorothee Bär, says the situation of German students is \"very privileged\" and has rejected reform of the Federal Training Assistance Act (BAföG), thereby turning many students against her.",
       "url": "https://www.dw.com/en/german-students-up-in-arms-about-funding-cuts/a-77528594?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 12 Jun 2026 16:03:00 GMT",
       "source": "Deutsche Welle",
@@ -1750,6 +1731,31 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Clashes erupt in Congo's capital amid opposition",
+      "description": "Violent clashes have erupted in Congo’s capital, Kinshasa, during a rally against a proposed constitutional change",
+      "url": "https://abcnews.com/International/wireStory/clashes-erupt-congos-capital-opposition-rejects-presidential-term-133822396",
+      "published": "Fri, 12 Jun 2026 15:08:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Kenya holds a memorial service for 16 victims of last month's girls school fire",
+      "description": "Hundreds of mourners gathered in Kenya’s central town of Gilgil for a memorial service to honor the lives of 16 students who died in a school fire last month that police said was caused by arson",
+      "url": "https://abcnews.com/International/wireStory/kenya-holds-memorial-service-16-victims-months-girls-133809909",
+      "published": "Fri, 12 Jun 2026 07:45:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Kenya holds a memorial service for 16 victims of last month's girls school fire"
     },
     {
       "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
@@ -1766,29 +1772,15 @@
       "ticker_label": "🪖 Trump now says a peace deal will be announced 'soon,' cancels further strikes"
     },
     {
-      "title": "First group of Nigerians returns home after anti-immigration protests in South Africa",
-      "description": "The first group of Nigerians has returned home from South Africa following government-ordered repatriation due to violent anti-immigration protests",
-      "url": "https://abcnews.com/International/wireStory/group-nigerians-returns-home-after-anti-immigration-protests-133775665",
-      "published": "Thu, 11 Jun 2026 07:04:05 -0400",
+      "title": "Philippines protests China's sanctions against its defense chief",
+      "description": "The Philippine government says China’s imposition of sanctions, including an entry ban, against Defense Secretary Gilberto Teodoro Jr. was “an unfriendly act” that could further strain relations",
+      "url": "https://abcnews.com/International/wireStory/philippines-protests-chinas-sanctions-defense-chief-unfriendly-act-133803028",
+      "published": "Thu, 11 Jun 2026 22:33:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Sudanese paramilitary drone strikes kill at least 15 people in central region, officials say",
-      "description": "Sudanese paramilitary forces have carried out drone strikes in a central region, killing at least 15 people and wounding dozens",
-      "url": "https://abcnews.com/International/wireStory/sudanese-paramilitary-drone-strikes-kill-15-people-central-133784827",
-      "published": "Thu, 11 Jun 2026 10:14:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sudanese paramilitary drone strikes kill at least 15 people in central region, officials say"
     },
     {
       "title": "DR Congo: Ebola spreads as agencies brace for child victims",
@@ -1981,10 +1973,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope visiting 'dock of shame' in Canary Islands where migrants slept in squalor",
-      "description": "Pope Leo XIV has traveled to the Canary Islands, an epicenter of the European migration debate",
-      "url": "https://abcnews.com/International/wireStory/pope-visiting-dock-shame-canary-islands-migrants-slept-133773977",
-      "published": "Thu, 11 Jun 2026 08:57:56 -0400",
+      "title": "Pope Leo XIV’s flight home from Spain was grounded so the king came to his aid",
+      "description": "Pope Leo XIV faced an unexpected travel delay when his charter flight back to Rome was grounded due to a technical issue",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xivs-flight-home-spain-grounded-king-133823769",
+      "published": "Fri, 12 Jun 2026 15:07:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -2010,6 +2002,17 @@
       "source": "CNN World",
       "type": "rss",
       "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "description": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 12 Jun 2026 21:04:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2081,20 +2084,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Watch: Four UFO videos newly declassified by US government",
-      "description": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
-      "url": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 12 Jun 2026 14:59:52 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Watch: Four UFO videos newly declassified by US government"
     },
     {
       "title": "US Congressman says Trump won’t send loads of money to Iran",
@@ -2521,10 +2510,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
-      "description": "South Korea’s ousted President Yoon Suk Yeol and his former defense minister have been sentenced to 30 years in prison in a case alleging Yoon ordered drone flights over Pyongyang to heighten tensions with North Korea and and justify declaring martial ...",
-      "url": "https://abcnews.com/International/wireStory/ousted-south-korean-president-yoon-prison-term-drone-133806058",
-      "published": "Thu, 11 Jun 2026 23:24:02 -0400",
+      "title": "EU agrees to launch membership talks with Ukraine next week",
+      "description": "The European Union has agreed to start membership talks with Ukraine next week",
+      "url": "https://abcnews.com/International/wireStory/eu-agrees-launch-membership-talks-ukraine-week-war-133826231",
+      "published": "Fri, 12 Jun 2026 15:04:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2554,15 +2543,29 @@
       "is_ticker": false
     },
     {
-      "title": "'King of the North' seeks path to becoming Britain's next leader in special election",
-      "description": "About 75,000 voters in northwest England are about to make a significant decision",
-      "url": "https://abcnews.com/International/wireStory/king-north-seeks-path-becoming-britains-leader-special-133772942",
-      "published": "Thu, 11 Jun 2026 02:18:05 -0400",
+      "title": "Ousted South Korean President Yoon given prison term for drone flights over Pyongyang",
+      "description": "South Korea’s ousted President Yoon Suk Yeol and his former defense minister have been sentenced to 30 years in prison in a case alleging Yoon ordered drone flights over Pyongyang to heighten tensions with North Korea and and justify declaring martial ...",
+      "url": "https://abcnews.com/International/wireStory/ousted-south-korean-president-yoon-prison-term-drone-133806058",
+      "published": "Thu, 11 Jun 2026 23:24:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Thai Princess Bajrakitiyabha, who was known for her legal work, dies at 47",
+      "description": "Thailand’s Princess Bajrakitiyabha Mahidol, a lawyer and the eldest of King Maha Vajiralongkorn’s children, has died at age 47",
+      "url": "https://abcnews.com/International/wireStory/thai-princess-bajrakitiyabha-legal-work-dies-47-133803559",
+      "published": "Thu, 11 Jun 2026 22:30:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Thai Princess Bajrakitiyabha, who was known for her legal work, dies at 47"
     },
     {
       "title": "‘The day never stops’ for aid workers braving missiles and drones in Ukraine",
