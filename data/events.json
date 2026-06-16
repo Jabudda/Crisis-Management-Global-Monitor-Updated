@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-06-16T02:25:18.534942Z",
-  "event_count": 221,
+  "last_updated": "2026-06-16T03:49:26.698767Z",
+  "event_count": 222,
   "events": [
-    {
-      "title": "'Epic folly': As the US and Iran both declare victory, 'none of the problems were resolved'",
-      "description": "Nadia Massih is pleased to welcome Ali Vaez, Director of the Iran project and Senior Advisor at the International Crisis Group. He argues that the war failed to achieve its principal strategic objectives while imposing enormous costs on all parties involved. Contrary to narratives portraying the outcome as a decisive victory for either side, Vaez frames the conflict as a classic \"lose-lose\" dynamic: Iran survived but emerged economically devastated; the United States and Israel degraded some Iranian capabilities but failed to secure regime change, eliminate Iran's strategic influence, or produce a substantially improved nuclear agreement.",
-      "url": "https://www.france24.com/en/video/20260615-epic-folly-as-the-us-and-iran-both-declare-victory-none-of-the-problems-were-resolved",
-      "published": "Mon, 15 Jun 2026 16:56:26 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 50,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'Epic folly': As the US and Iran both declare victory, 'none of the problems were resolved'"
-    },
     {
       "title": "WHO and Brazil urge world leaders to finalise Pandemic Agreement to prevent future global health crises",
       "description": "Global officials are calling on world leaders to finalise a crucial international agreement aimed at preventing future pandemics, according to a joint letter issued on Monday.",
@@ -51,6 +37,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Deadly Philippines earthquake found to have raised seabed by up to 2 metres"
+    },
+    {
+      "title": "Social media becomes world’s leading news source, report warns",
+      "description": "News consumers worldwide are increasingly turning to social media and video platforms for information, overtaking traditional outlets for the first time, according to a Reuters Institute report. The study warns that shifting habits, driven by younger audiences and AI tools, are reshaping the global news industry and threatening old media business models.",
+      "url": "https://www.france24.com/en/technology/20260616-social-media-becomes-leading-news-source-report-warns",
+      "published": "Tue, 16 Jun 2026 02:26:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 38,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Social media becomes world’s leading news source, report warns"
     },
     {
       "title": "World News in Brief: Turk condemns Northern Ireland riots, jobs at risk over animal disease spread, heatwaves spark public health crisis in Europe",
@@ -148,6 +148,20 @@
       "ticker_label": "🪖 Instability, war and closed borders: How aid workers get emergency food to hungry Afghan children"
     },
     {
+      "title": "Triple climate threats affect nearly half the world’s children",
+      "description": "Drought, extreme heat and heatwaves are the most prevalent trio of hazards endangering millions of children globally, warned a newly released climate report by the UN Children’s Fund (UNICEF).",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167723",
+      "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Triple climate threats affect nearly half the world’s children"
+    },
+    {
       "title": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
       "description": "As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
@@ -240,20 +254,6 @@
       "ticker_label": "✈️ 8 people dead after B-52 bomber crashes at US military base"
     },
     {
-      "title": "Confusion in Lebanon over US-Iran deal",
-      "description": "Fighting in southern Lebanon abated on Monday after the announcement of a US-Iran deal to end the wider conflict, but local authorities warned displaced people not to rush home and Israel said it would not withdraw its troops from the area amid confusion over exactly what the terms of the deal will mean for the country. France 24's Renée Davis has the latest from Beirut.",
-      "url": "https://www.france24.com/en/video/20260615-confusion-in-lebanon-over-us-iran-deal",
-      "published": "Mon, 15 Jun 2026 15:17:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Confusion in Lebanon over US-Iran deal"
-    },
-    {
       "title": "World News in Brief: State-supported safe houses in Haiti, EU pact strengthens refugee protection, demand for ‘critical minerals’ intensifies",
       "description": "Haiti has opened its first State-supported safe house for survivors of sexual violence with support from the UN, marking a significant step in responding to the growing crisis affecting women and girls.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167712",
@@ -300,6 +300,17 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran held by New Zealand in World Cup opener overshadowed by politics",
+      "description": "Iran twice came from behind to salvage a 2–2 draw against New Zealand in a World Cup opener overshadowed by geopolitical tensions, protests and months of conflict with the United States. The result leaves Team Melli still searching for a breakthrough on football's biggest stage.",
+      "url": "https://www.france24.com/en/sport/20260616-iran-held-by-new-zealand-in-world-cup-opener-overshadowed-by-politics",
+      "published": "Tue, 16 Jun 2026 03:20:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -435,18 +446,29 @@
       "ticker_label": "🪖 Iran deal: Trump is back to square one, but the cards are now in Tehran’s favor"
     },
     {
-      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
-      "description": "Hate speech is a grave and growing threat to peace and security, Secretary-General António Guterres warned on Thursday, calling for urgent action to break a cycle that can lead to genocide and other atrocity crimes.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700",
-      "published": "Thu, 11 Jun 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "A history of Iran's nuclear program and tensions with the US",
+      "description": "The United States and Iran have reached an interim deal aimed at ending their war and reopening the Strait of Hormuz",
+      "url": "https://abcnews.com/International/wireStory/history-irans-nuclear-program-tensions-us-interim-deal-133878780",
+      "published": "Mon, 15 Jun 2026 02:02:11 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed"
+      "ticker_label": "🪖 A history of Iran's nuclear program and tensions with the US"
+    },
+    {
+      "title": "World News in Brief: Risky return home in Lebanon, displacement in Gaza, emergency funding for Somalia",
+      "description": "Despite the agreement announced on Sunday between the United States and Iran, displaced people in Lebanon continue to face difficulties in returning to their communities, the UN Office for the Coordination of Humanitarian Affairs (OCHA) has reported.",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167724",
+      "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Russian strikes kill 11 and set historic cathedral in Kyiv ablaze",
@@ -830,17 +852,6 @@
       "ticker_label": "💥 South African jazz pianist Abdullah Ibrahim dies aged 91"
     },
     {
-      "title": "Australia news live: postal workers report rise in dog-related incidents; Lincraft to close after 80 years",
-      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”. I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do. Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people. And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
-      "published": "Tue, 16 Jun 2026 02:07:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Interim US-Iran peace deal sparks anger among Israelis, who lash out at Netanyahu",
       "description": "Israelis from across the political spectrum reacted angrily Monday to the news of an initial deal between the U.S. and Iran, calling it a disaster for Israel and directing their fury at one man: Prime Minister Benjamin Netanyahu. FRANCE 24's Noga Tarnopolsky reports from Jerusalem.",
       "url": "https://www.france24.com/en/interim-us-iran-peace-deal-sparks-anger-among-israelis-who-lash-out-at-netanyahu",
@@ -908,6 +919,17 @@
       "ticker_label": "🪖 7-year-old mourns father and brother killed in Israeli strike on Gaza"
     },
     {
+      "title": "Australia news live: Victorian premier survives spill speculation; SA electoral commissioner quits and local elections could be delayed; RBA interest rates decision today",
+      "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Gallagher on One Nation: ‘Opinion polls will come and go’ Katy Gallagher was also asked about the surge in One Nation, saying there was an obvious “reorganisation on the conservative side of politics”. I think there is a lot of uncertainty and worry about events that are happening across the world, the impact that has here. Cost of living is the No 1 issue with anyone you talk to right now, and the government just has to remain focused on that, and that’s what we intend to do. Opinion polls will come and go, they do. Our job is to make sure we’re making the right decisions for the right time and that it’s focused on the Australian people. And when there’s controversy about that, and we know we’ve had a lot of feedback around the budget, you know, our job is to front up and explain why we’ve taken those decisions. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/16/australia-news-live-victoria-wfh-work-from-home-labor-fuel-excise-budget-cost-of-living-albanese-chalmers-one-nation-hanson-rba-interest-rates-decision-ntwnfb",
+      "published": "Tue, 16 Jun 2026 03:33:08 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "One Nation branch official defended Hitler Youth and called Aboriginal people ‘stone age’ in racist posts",
       "description": "Exclusive: Aboriginal Australians and migrants the targets of John Drew, who claims he was once kicked out of Pauline Hanson’s party for being ‘too radical’ – but is now a branch official Warning: This article contains racially offensive language and outdated references Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man who has defended the Hitler Youth organisation and used offensive and racist language about Aboriginal people and migrants is working as a policy development officer for One Nation in Queensland. Guardian Australia can reveal that John Drew, who claims he was kicked out of One Nation more than 20 years ago for being “too radical”, says he has been a party branch official in Brisbane since late last year. This is despite One Nation claiming it has introduced a sophisticated new vetting tool – dubbed Operation Obsidian – that it applies to any person taking up a party role. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jun/16/one-nation-hitler-youth-john-drew-ntwnfb",
@@ -947,6 +969,20 @@
       "is_ticker": false
     },
     {
+      "title": "G7 leaders to meet Zelensky as Trump signals possible Ukraine breakthrough",
+      "description": "G7 leaders will hold talks with President Volodymyr Zelensky on Ukraine on Tuesday, as US President Donald Trump suggested there may be room for progress after more than four years of war with Russia. The summit in Evian will also address Iran, amid renewed diplomacy and continued fighting in Ukraine following Russian strikes.",
+      "url": "https://www.france24.com/en/europe/20260616-g7-leaders-to-meet-zelensky-as-trump-signals-possible-ukraine-breakthrough",
+      "published": "Tue, 16 Jun 2026 02:43:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 G7 leaders to meet Zelensky as Trump signals possible Ukraine breakthrough"
+    },
+    {
       "title": "Drone strikes in Sudan killed over 1,000 people in five months, says UN",
       "description": "More than 1,000 people were killed in drone strikes in Sudan in the first five months of this year, the United Nations has revealed.",
       "url": "https://news.sky.com/story/drone-strikes-in-sudan-killed-over-1000-people-in-five-months-says-un-13554375",
@@ -961,20 +997,6 @@
       "ticker_label": "🪖 Drone strikes in Sudan killed over 1,000 people in five months, says UN"
     },
     {
-      "title": "Kenya to pay compensation to almost 2,000 victims of violent protests",
-      "description": "Kenya’s president says victims of human rights abuses during a series of protests, in which hundreds of people died, were injured, or suffered business losses, will be compensated starting next week, marking a rare reparations process outside the judic...",
-      "url": "https://abcnews.com/International/wireStory/kenya-pay-compensation-2000-victims-violent-protests-133894409",
-      "published": "Mon, 15 Jun 2026 12:36:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Kenya to pay compensation to almost 2,000 victims of violent protests"
-    },
-    {
       "title": "At least 31 dead after bus crashes in Ethiopia",
       "description": "Police in Ethiopia report at least 31 people are dead after a bus crash in the northern Amhara region",
       "url": "https://abcnews.com/International/wireStory/31-dead-after-bus-crashes-ethiopia-133886447",
@@ -984,6 +1006,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Kenya to pay compensation to almost 2,000 victims of violent protests",
+      "description": "Kenya’s president says victims of human rights abuses during a series of protests, in which hundreds of people died, were injured, or suffered business losses, will be compensated starting next week, marking a rare reparations process outside the judic...",
+      "url": "https://abcnews.com/International/wireStory/kenya-pay-compensation-2000-victims-violent-protests-133894409",
+      "published": "Mon, 15 Jun 2026 21:37:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Kenya to pay compensation to almost 2,000 victims of violent protests"
     },
     {
       "title": "More strikes impact Lebanon hospitals as humanitarian situation deteriorates",
@@ -1050,6 +1086,17 @@
       "ticker_label": "🪖 London council seizes social housing flat rented by Sierra Leone first lady"
     },
     {
+      "title": "Starbucks Korea to temporarily shut all stores for history lesson after bungled coffee promotion",
+      "description": "The closures, so employees can watch a recorded lecture, will cost the company an estimated 2.1bn won ($1.4m) in sales Starbucks Korea will simultaneously close all its stores for a mandatory history lesson, after a disastrous promotion that evoked memories of a pro-democracy massacre sparked public and political backlash . More than 2,000 stores will temporarily close at 3pm on 22 June, the company said, so staff can watch recorded lectures on modern Korean history and engage in “social sensitivity” training. The half-day closures will cost Starbucks an estimated 2.1bn won ($1.4m) in lost sales, according to data firm IGAWorks. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jun/16/starbucks-korea-shut-all-stores-tank-day-promotion",
+      "published": "Tue, 16 Jun 2026 03:07:36 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Mourners line Bangkok streets to pay respects to Thailand’s Princess Bha",
       "description": "Funeral procession travels to palace as people remember royal’s campaigning and work for underprivileged As the sun began to set on the golden spires and gilded finials of Bangkok’s Grand Palace, the gates were open, waiting for the return of a princess. Since December 2022, Princess Bajrakitiyabha had been in hospital, having collapsed while out training her dogs. After nearly four years in a coma, the princess died earlier this week . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jun/13/bangkok-thailand-princess-bha-royal-funeral-procession-mourners",
@@ -1071,6 +1118,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Who is Vozinha, Cape Verde’s viral goalkeeper at the World Cup?",
+      "description": "From his hometown of Sao Vicente in Cape Verde, Vozinha has been his jersey name throughout his club career.",
+      "url": "https://www.aljazeera.com/sports/2026/6/16/who-is-vozinha-cape-verdes-viral-goalkeeper-at-the-world-cup?traffic_source=rss",
+      "published": "Tue, 16 Jun 2026 02:52:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1196,33 +1254,11 @@
       "is_ticker": false
     },
     {
-      "title": "World Cup 2026: Debutants Cape Verde hold European champions Spain to shock draw",
-      "description": "World Cup newcomers Cape Verde held off favourites Spain in a goalless draw in Atlanta on Monday, delivering a defensive masterclass in their first appearance on football's biggest stage to produce the first shock of the tournament against the European champions.",
-      "url": "https://www.france24.com/en/sport/20260615-world-cup-2026-debutants-cape-verde-hold-european-champions-spain-shock-goalless-draw",
-      "published": "Mon, 15 Jun 2026 17:56:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Stuff Matters... because boring stuff is often actually tremendously interesting",
       "description": "How did the light-emitting diode change the world? And, come to mention it, might it perversely actually prompt us to puff more carbon dioxide into the atmosphere?",
       "url": "https://news.sky.com/story/stuff-matters-because-boring-stuff-is-often-actually-tremendously-interesting-13553395",
       "published": "Mon, 15 Jun 2026 00:01:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Mexican president says FIFA should reflect on high World Cup ticket prices",
-      "description": "Mexican President Claudia Sheinbaum has urged FIFA to reconsider the high cost of tickets for the 2026 World Cup",
-      "url": "https://abcnews.com/International/wireStory/mexican-president-fifa-reflect-high-world-cup-ticket-133897361",
-      "published": "Mon, 15 Jun 2026 14:12:27 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1241,6 +1277,17 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Pakistani military aircraft crashes during training flight, killing 2 pilots"
+    },
+    {
+      "title": "Mexican president says FIFA should reflect on high World Cup ticket prices",
+      "description": "Mexican President Claudia Sheinbaum has urged FIFA to reconsider the high cost of tickets for the 2026 World Cup",
+      "url": "https://abcnews.com/International/wireStory/mexican-president-fifa-reflect-high-world-cup-ticket-133897361",
+      "published": "Mon, 15 Jun 2026 14:12:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Fleeing suspect in New Jersey strikes ICE agent, who opens fire",
@@ -1438,17 +1485,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine: Kyiv's historic cathedral set ablaze in Russian attack",
-      "description": "One of #Ukraine's most important religious landmarks was hit in an overnight Russian attack on June 15. Ukrainian President Volodymyr #Zelensky visited the cathedral and called for more pressure on Russian President Vladimir #Putin ahead of his attendance at the #G7 summit in #Paris.",
-      "url": "https://www.france24.com/en/video/20260615-ukraine-kyiv-s-historic-cathedral-set-ablaze-in-russian-attack",
-      "published": "Mon, 15 Jun 2026 15:41:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Trump has admitted defeat on Iran war after historic blunder",
       "description": "The Iran \"deal\" is a tacit admission of strategic defeat by the Trump administration and of a failure to achieve nearly all of his war aims.",
       "url": "https://news.sky.com/story/trumps-iran-war-is-one-of-the-greatest-strategic-blunders-in-us-history-13554425",
@@ -1477,6 +1513,20 @@
       "ticker_label": "🪖 Trump marks 80th birthday with cage fighting extravaganza - as US and Iran agree deal"
     },
     {
+      "title": "A Russian barrage in Ukraine kills 11 and damages a landmark cathedral",
+      "description": "A Russian bombardment of Ukraine's biggest cities has set ablaze part of an Eastern Orthodox landmark and killed 11 people",
+      "url": "https://abcnews.com/International/wireStory/russian-attack-sets-fire-centuries-religious-site-kyiv-133876592",
+      "published": "Mon, 15 Jun 2026 22:18:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A Russian barrage in Ukraine kills 11 and damages a landmark cathedral"
+    },
+    {
       "title": "Brazilian police say woman who rope jumped to her death was not tied by instructors",
       "description": "A Brazilian police investigator says that a 21-year-old woman who died in a rope jumping incident over the weekend was not attached to any safety equipment",
       "url": "https://abcnews.com/International/wireStory/brazilian-police-woman-rope-jumped-death-tied-instructors-133895673",
@@ -1489,20 +1539,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Brazilian police say woman who rope jumped to her death was not tied by instructors"
-    },
-    {
-      "title": "Owners of Dominican club where 236 died in collapse to stand trial",
-      "description": "The sibling owners of a Santo Domingo nightclub will stand trial for involuntary manslaughter after a roof collapse killed 236 people",
-      "url": "https://abcnews.com/International/wireStory/owners-dominican-club-236-died-collapse-stand-trial-133893282",
-      "published": "Mon, 15 Jun 2026 12:27:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Owners of Dominican club where 236 died in collapse to stand trial"
     },
     {
       "title": "Ukraine to start EU membership talks, ushering in years of reforms while fighting Russia’s war",
@@ -1622,17 +1658,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Argentinian activist who spent 50 years looking for disappeared son dies"
-    },
-    {
-      "title": "China arrests US academic at conference for ‘espionage activities’",
-      "description": "Arrest of Min Zin, who writes about Myanmar and Chinese foreign policy, comes just month after Trump visit to Beijing China has arrested a US scholar who writes about Myanmar and Chinese foreign policy on suspicion of spying. Min Zin was suspected of “engaging in espionage activities that endanger China’s national security,” China’s ministry of foreign affairs spokesperson, Lin Jian, said on Friday. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
-      "published": "Fri, 12 Jun 2026 10:27:08 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Starbucks Korea to close stores early for mandatory history training after row",
@@ -1768,32 +1793,21 @@
       "is_ticker": false
     },
     {
-      "title": "Uganda opposition figure seized by soldiers as army chief vows 'hurt and pain'",
-      "description": "An opposition figure in Uganda was detained on the orders of the army chief, who later threatened to inflict “hurt and pain” against him",
-      "url": "https://abcnews.com/International/wireStory/uganda-opposition-figure-seized-soldiers-army-chief-vows-133901692",
-      "published": "Mon, 15 Jun 2026 16:46:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Rwanda opposition leader Ingabire says she's physically unfit for trial",
-      "description": "Rwandan opposition leader Victoire Ingabire's trial on charges of plotting unrest against the government has been postponed for a day",
-      "url": "https://abcnews.com/International/wireStory/rwanda-opposition-leader-ingabire-shes-physically-unfit-trial-133891257",
-      "published": "Mon, 15 Jun 2026 11:40:31 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "UK court convicts 2 men of plot to torch houses, car linked to UK PM Starmer",
       "description": "Two men were convicted of a plot last year to set fire to two houses and a car linked to British Prime Minister Keir Starmer",
       "url": "https://abcnews.com/International/wireStory/london-court-convicts-2-men-plot-torch-2-133883145",
       "published": "Mon, 15 Jun 2026 08:58:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Uganda opposition figure seized by soldiers as army chief vows 'hurt and pain'",
+      "description": "An opposition figure in Uganda was detained on the orders of the army chief, who later threatened to inflict “hurt and pain” against him",
+      "url": "https://abcnews.com/International/wireStory/uganda-opposition-figure-seized-soldiers-army-chief-vows-133901692",
+      "published": "Mon, 15 Jun 2026 16:46:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1890,17 +1904,6 @@
       "ticker_label": "💥 Woman, 21, dies after being thrown from Brazil rope jump bridge without harness"
     },
     {
-      "title": "‘Grave concern’ after dozens of women arrested in Afghanistan for dress violations",
-      "description": "Gender equality agency UN Women is “gravely concerned” by the arrest of at least 30 women in Herat city last weekend in Afghanistan for allegedly violating dress requirements imposed by Taliban authorities.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167699",
-      "published": "Thu, 11 Jun 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Mike Waltz says Gulf allies back Trump’s Iran pressure campaign after regional trip: ‘Zero daylight’",
       "description": "Ambassador Mike Waltz says Gulf allies back Trump's blockade and economic pressure campaign against Iran, with UAE and Bahrain validating U.S. strategy.",
       "url": "https://www.foxnews.com/world/waltz-says-gulf-allies-back-trumps-iran-pressure-campaign-regional-trip-zero-daylight",
@@ -1961,6 +1964,17 @@
       "url": "https://www.france24.com/en/iran-deal-allows-tehran-to-charge-maritime-service-fees-on-hormuz-strait-transit-ministry-days",
       "published": "Mon, 15 Jun 2026 18:46:20 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Sweden requires public workers to report migrants not authorized to live there",
+      "description": "Sweden's parliament has passed a law requiring public sector workers to report unauthorized migrants to the police",
+      "url": "https://abcnews.com/International/wireStory/sweden-requires-public-workers-report-migrants-authorized-live-133892197",
+      "published": "Mon, 15 Jun 2026 23:15:10 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2229,17 +2243,6 @@
       "is_ticker": false
     },
     {
-      "title": "California Governor Newsom says US Department of Justice investigating him",
-      "description": "Newsom says he and wife targeted because he is considering running for president in 2028; DOJ has not confirmed probe.",
-      "url": "https://www.aljazeera.com/news/2026/6/15/california-governor-newsom-says-us-department-of-justice-investigating-him?traffic_source=rss",
-      "published": "Mon, 15 Jun 2026 19:54:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2372,6 +2375,17 @@
       "is_ticker": false
     },
     {
+      "title": "M 6.7 - 46 km ESE of Palu, Indonesia",
+      "description": "ShakeMap - VIII Time 2026-06-16 03:27:44 UTC 2026-06-16 03:27:44 UTC at epicenter Location 1.131°S 120.230°E Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st95",
+      "published": "2026-06-16T03:48:03.120Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "M 2.4 - 8 km NE of Bel Air North, Maryland",
       "description": "DYFI? - III Time 2026-06-15 15:02:24 UTC 2026-06-15 15:02:24 UTC at epicenter Location 39.617°N 76.310°W Depth 5.00 km (3.11 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000st41",
@@ -2493,6 +2507,17 @@
       "is_ticker": false
     },
     {
+      "title": "Middle East live: Vance says Strait of Hormuz will reopen without tolls",
+      "description": "US Vice President JD Vance said ships will pass through the Strait of Hormuz without tolls under a peace deal signed with Iran, while insisting Tehran must meet its commitments before receiving economic benefits. Officials said the agreement could unlock reconstruction funding, but key details remain to be negotiated. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260616-middle-east-live-vance-says-strait-of-hormuz-will-reopen-without-tolls",
+      "published": "Tue, 16 Jun 2026 03:07:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Stepson of Norway's crown prince jailed for two rapes",
       "description": "The stepson of Norway's Crown Prince Haakon has been jailed for two rapes - including one in the basement of his family's home.",
       "url": "https://news.sky.com/story/crown-prince-of-norways-stepson-jailed-for-four-years-over-two-rapes-13554218",
@@ -2504,32 +2529,21 @@
       "is_ticker": false
     },
     {
+      "title": "South Africa marks 50 years since Soweto uprising, but challenges linger",
+      "description": "South Africa marks the 50th anniversary of the Soweto uprising, a pivotal moment in the fight against apartheid",
+      "url": "https://abcnews.com/International/wireStory/south-africa-marks-50-years-soweto-uprising-challenges-133908136",
+      "published": "Mon, 15 Jun 2026 23:19:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Rare first edition of 'Wuthering Heights' with spelling mistakes is up for auction",
       "description": "A rare first-edition copy of Emily Brontë’s novel \"Wuthering Heights\" is up for auction for the first time in over a century",
       "url": "https://abcnews.com/International/wireStory/rare-edition-wuthering-heights-complete-spelling-mistakes-auction-133894843",
       "published": "Mon, 15 Jun 2026 12:46:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Syrian sentenced to 26 years in prison by Dutch court for crimes against humanity",
-      "description": "A Dutch court has convicted a Syrian man of crimes against humanity, sentencing him to 26 years in prison for torturing and raping opponents of former President Bashar Assad in 2013-14",
-      "url": "https://abcnews.com/International/wireStory/syrian-sentenced-26-years-prison-dutch-court-crimes-133892457",
-      "published": "Mon, 15 Jun 2026 12:04:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Greek minister calls criticism of tougher migration policies a ‘badge of honor’",
-      "description": "Greece’s migration minister calls criticism from human rights groups a “badge of honor” and plans to toughen migration policies",
-      "url": "https://abcnews.com/International/wireStory/greek-minister-calls-criticism-tougher-migration-policies-badge-133890775",
-      "published": "Mon, 15 Jun 2026 11:40:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2548,10 +2562,10 @@
       "is_ticker": false
     },
     {
-      "title": "Hong Kong opens consultation on 5-year plan that echoes mainland China's playbook",
-      "description": "Hong Kong has launched a public consultation for its first five-year plan in a politically symbolic step that brings it closer to mainland China’s development approach",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-opens-consultation-5-year-plan-echoes-133879176",
-      "published": "Mon, 15 Jun 2026 07:53:56 -0400",
+      "title": "Syrian sentenced to 26 years in prison by Dutch court for crimes against humanity",
+      "description": "A Dutch court has convicted a Syrian man of crimes against humanity, sentencing him to 26 years in prison for torturing and raping opponents of former President Bashar Assad in 2013-14",
+      "url": "https://abcnews.com/International/wireStory/syrian-sentenced-26-years-prison-dutch-court-crimes-133892457",
+      "published": "Mon, 15 Jun 2026 12:04:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
