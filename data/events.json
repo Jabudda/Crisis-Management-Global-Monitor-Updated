@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T15:34:52.956105Z",
-  "event_count": 221,
+  "last_updated": "2026-06-23T16:56:34.336309Z",
+  "event_count": 220,
   "events": [
     {
       "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
@@ -31,15 +31,18 @@
       "ticker_label": "💥 At least 13 killed and dozens injured after Qatar gas explosion"
     },
     {
-      "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
-      "description": "Authorities say confirmed cases of the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths",
-      "url": "https://abcnews.com/International/wireStory/confirmed-ebola-cases-congo-outbreak-top-1000-254-134087186",
-      "published": "Mon, 22 Jun 2026 06:42:02 -0400",
+      "title": "Offshore typhoon threatens Philippine provinces with possible flooding and rough seas",
+      "description": "Philippine authorities have warned of possible flooding, landslides and rough seas in the country’s two northernmost provinces as a powerful typhoon roared offshore",
+      "url": "https://abcnews.com/International/wireStory/offshore-typhoon-threatens-2-northern-philippine-provinces-flooding-134122817",
+      "published": "Tue, 23 Jun 2026 05:14:03 -0400",
       "source": "ABC News International",
       "type": "rss",
-      "severity_score": 32,
+      "severity_score": 30,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Offshore typhoon threatens Philippine provinces with possible flooding and rough seas"
     },
     {
       "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
@@ -49,6 +52,17 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Niger becomes the third country to leave the International Criminal Court",
+      "description": "Niger has formally left the International Criminal Court after accusing the global tribunal of what it says is selective justice",
+      "url": "https://abcnews.com/International/wireStory/niger-country-leave-international-criminal-court-134127144",
+      "published": "Tue, 23 Jun 2026 08:42:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -340,6 +354,34 @@
       "ticker_label": "🚨 Suspect 'neutralized' after Montreal shooting leaves at least 2 dead including officer"
     },
     {
+      "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
+      "description": "As U.S.-Iran talks continued, a break in the shipping bottleneck through the Strait of Hormuz appeared to be in the works.",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+      "published": "Tue, 23 Jun 2026 05:29:01 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal"
+    },
+    {
+      "title": "Europe heat wave: France measures hottest-ever day",
+      "description": "Monuments in Paris are working on reduced hours, as France recorded its hottest-ever average 24-hour temperature. Britain, France, Italy and Spain have issued red alerts and health warnings. More on DW.",
+      "url": "https://www.dw.com/en/europe-heat-wave-france-measures-hottest-ever-day/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 23 Jun 2026 11:51:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Europe heat wave: France measures hottest-ever day"
+    },
+    {
       "title": "Climate crisis: UN chief lays out solutions blueprint for clean energy transition",
       "description": "As a deadly heatwave continued to grip Europe on Tuesday, UN Secretary-General António Guterres issued an impassioned appeal for more ambitious global action on climate change caused by fossil fuels, to prevent irreversible damage.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167785",
@@ -385,20 +427,6 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Fact check: AI fakes around the World Cup spread political narratives",
-      "description": "Keir Starmer in a Croatia jersey. An Iranian protest against a US strike. Calls to arrest Brazil's President Lula. Adolf Hitler in the German fan section — all supposedly seen at the World Cup. But none of it is real.",
-      "url": "https://www.dw.com/en/fact-check-ai-fakes-around-the-world-cup-spread-political-narratives/a-77659085?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 22 Jun 2026 15:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Fact check: AI fakes around the World Cup spread political narratives"
     },
     {
       "title": "<a href=\"https://news.sky.com/story/heatwave-latest-amber-weather-warnings-for-extreme-heat-come-into-force-13555802?postid=11925347#liveblog-body\">Forty people drown in France in a week as country endures hottest night for 79 years</a>",
@@ -502,6 +530,20 @@
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Colombia: The 'Tiger's' victory signals a rightward shift",
+      "description": "With the election of Abelardo de la Espriella, an ultra-right-wing outsider has won the presidential runoff in Colombia for the first time. The tight victory marks a political shift and could trigger new conflicts.",
+      "url": "https://www.dw.com/en/colombia-the-tiger-s-victory-signals-a-rightward-shift/a-77675571?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 23 Jun 2026 16:19:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Colombia: The 'Tiger's' victory signals a rightward shift"
     },
     {
       "title": "Eiffel Tower closes early due to heatwave",
@@ -635,6 +677,17 @@
       "is_ticker": false
     },
     {
+      "title": "A red alert over France, and heat that may rewrite the record books",
+      "description": "Millions in France are enduring extreme heat, with temperatures soaring and 40 drowning deaths reported since June 18",
+      "url": "https://abcnews.com/International/wireStory/red-alert-france-heat-rewrite-record-books-134122303",
+      "published": "Tue, 23 Jun 2026 09:38:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Air traffic control audio captures tense moment two planes nearly collided at Boston Logan Airport",
       "description": "On Saturday, a Delta Air Lines plane and an American Airline plane came within 300 feet of colliding on the runway of Boston Logan International Airport.",
       "url": "https://www.foxnews.com/us/air-traffic-control-audio-captures-tense-moment-two-planes-nearly-collided-boston-logan-airport",
@@ -671,17 +724,6 @@
       "ticker_label": "🪖 Russian troop build-up threatens city seen as key to seizing Ukraine's Donbas"
     },
     {
-      "title": "Far-right millionaire wins Colombia’s razor-tight presidential election",
-      "description": "Leftwing opponent alleges vote count irregularities after Trump-endorsed lawyer Abelardo de la Espriella secures narrow majority A Trump-admiring far-right millionaire lawyer and self-styled “outsider” has defeated a leftwing senator by a razor-thin margin to win Colombia’s presidential runoff, in an election that promises to mark a dramatic shift in the country’s decades-long armed conflict. With 99.99% of ballots counted in the preliminary vote tally, the far-right lawyer Abelardo de la Espriella had secured 12.96m votes, or 49.66%, just 250,830 more than the leftist senator Iván Cepeda, who received 12.7m votes, or 48.7%. A further 1.6% of ballots were cast blank. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/jun/21/far-right-millionaire-abelardo-de-la-espriella-wins-colombia-presidential-runoff",
-      "published": "Mon, 22 Jun 2026 00:27:07 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Alan Greenspan, the legendary former Federal Reserve chair, dies",
       "description": "During his chairmanship, Greenspan was celebrated as possibly the best central banker in history. But later, his reputation was tarnished by the worst financial crisis since the Great Depression.",
       "url": "https://www.npr.org/2026/06/22/656930918/alan-greenspan-the-legendary-former-federal-reserve-chair-dies",
@@ -691,6 +733,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Ukraine says major Crimea bridge destroyed in latest attack",
+      "description": "Ukraine continues to hit infrastructure on the Crimea to isolate the Russian-annexed peninsula. Meanwhile, Russia attacked Volodymyr Zelenskyy's hometown with a ballistic missile in a deadly strike.",
+      "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 23 Jun 2026 16:19:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine says major Crimea bridge destroyed in latest attack"
     },
     {
       "title": "Israel, Lebanon to hold new round of US-hosted talks",
@@ -715,31 +771,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine gives Belarus ultimatum over Russian drone equipment",
-      "description": "President Volodymyr Zelenskyy has given Belarus's leader a week to remove equipment from his country used in Russian drone attacks on Ukraine.",
-      "url": "https://news.sky.com/story/ukraine-gives-belarus-ultimatum-over-russian-drone-equipment-13556147",
-      "published": "Sat, 20 Jun 2026 16:44:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Libyan warlord convicted over abuses at detention center, officials say",
-      "description": "A Libyan warlord has been convicted of human rights violations at a detention facility in the country's west",
-      "url": "https://abcnews.com/International/wireStory/libyan-warlord-convicted-abuses-detention-center-officials-134090945",
-      "published": "Mon, 22 Jun 2026 08:50:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Libyan warlord convicted over abuses at detention center, officials say"
-    },
-    {
       "title": "Political crisis deepens as Romanian lawmakers reject new government",
       "description": "Romanian lawmakers have rejected a new government proposed by Prime Minister-designate Adrian Vestea, deepening the country's political crisis",
       "url": "https://abcnews.com/International/wireStory/political-crisis-deepens-romanian-lawmakers-reject-new-government-134113292",
@@ -749,6 +780,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Missile strike kills three in Ukraine as Russia feels war’s economic strain",
+      "description": "Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.",
+      "url": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 16:29:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Missile strike kills three in Ukraine as Russia feels war’s economic strain"
     },
     {
       "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
@@ -827,34 +872,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Two suspects in custody after shooting at high school in Philippines kills 3",
-      "description": "Two students opened fire in a high school in the central Philippines, killing three fellow students and wounding 20 others",
-      "url": "https://abcnews.com/International/wireStory/suspects-custody-after-shooting-high-school-philippines-kills-134086480",
-      "published": "Tue, 23 Jun 2026 00:33:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Two suspects in custody after shooting at high school in Philippines kills 3"
-    },
-    {
-      "title": "A Russian drone strike in Ukraine kills 3 from one family, including a 13-year-old boy",
-      "description": "A Russian drone strike on Sumy in northeastern Ukraine has killed three members of one family, including a 13-year-old boy",
-      "url": "https://abcnews.com/International/wireStory/russian-drone-strike-ukraine-kills-3-family-including-134088347",
-      "published": "Mon, 22 Jun 2026 07:49:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A Russian drone strike in Ukraine kills 3 from one family, including a 13-year-old boy"
     },
     {
       "title": "Prominent businessman learns fate in boat crash case that killed teen, maimed another",
@@ -984,6 +1001,17 @@
       "is_ticker": false
     },
     {
+      "title": "Guinness crowns Canberra town crier as the world's loudest person at 122.4 decibels",
+      "description": "An Australian professional air conditioner cleaner and honorary town crier has been recognized as the world’s loudest person",
+      "url": "https://abcnews.com/International/wireStory/guinness-crowns-canberra-town-crier-worlds-loudest-person-134122713",
+      "published": "Tue, 23 Jun 2026 07:38:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Connecticut dad jumped to his death during concert at Madison Square Garden in NYC: report",
       "description": "A Connecticut man allegedly appeared intoxicated before jumping from a balcony at a Goose concert at Madison Square Garden, according to witnesses.",
       "url": "https://www.foxnews.com/us/madison-square-garden-concert-fall-connecticut-father",
@@ -1020,6 +1048,17 @@
       "ticker_label": "💥 Nancy Guthrie ransom note claimed that she had died, been ‘buried with nature,’ source says"
     },
     {
+      "title": "LIVE: England vs Ghana – World Cup 2026",
+      "description": "All our updates as Kane's England face Ghana in Group L, with buildup, team news coverage and text commentary stream.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/23/england-vs-ghana-live-world-cup-2026?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 16:01:19 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Mexico exhibition relives memories of Qatar World Cup 2022",
       "description": "An exhibition in Mexico held during the World Cup explores the legacy of Qatar 2022.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/mexico-exhibition-relives-memories-of-qatar-world-cup-2022?traffic_source=rss",
@@ -1031,7 +1070,7 @@
       "is_ticker": false
     },
     {
-      "title": "Portugal vs Uzbekistan LIVE: World Cup 2026",
+      "title": "LIVE: Portugal vs Uzbekistan – World Cup 2026",
       "description": "Follow live updates as Cristiano Ronaldo and Portugal face Uzbekistan, including the build-up and live text commentary.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/6/23/portugal-vs-uzbekistan-live-world-cup-2026?traffic_source=rss",
       "published": "Tue, 23 Jun 2026 13:30:00 +0000",
@@ -1046,17 +1085,6 @@
       "description": "Arab fans have come together in New York to show support for all Arab teams at the World Cup.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/arab-fans-celebrate-world-cup-results-in-new-york?traffic_source=rss",
       "published": "Tue, 23 Jun 2026 12:05:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Watch World Cup Day 12: Argentina, France advance to knockouts; Jordan out",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "url": "https://www.aljazeera.com/video/2026/6/23/video-world-cup-2026-highlights?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 10:35:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1133,22 +1161,22 @@
       "is_ticker": false
     },
     {
-      "title": "World Cup: Amiri another wildcard for Nagelsmann's Germany",
-      "description": "The Mainz midfielder with Afghan roots has become a key member of Germany's 2026 World Cup squad. Coach Julian Nagelsmann said Amiri can provide the team with a spark when it's most needed.",
-      "url": "https://www.dw.com/en/world-cup-amiri-another-wildcard-for-nagelsmann-s-germany/a-77663920?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 22 Jun 2026 20:50:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Billionaire to invest in ocean protection as UK and US scale back funding",
+      "description": "Michael Bloomberg has pledged $260m (£196m) to conserve the world's oceans, as major funders including the US and UK scale back science and conservation budgets.",
+      "url": "https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720",
+      "published": "Tue, 23 Jun 2026 05:00:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Billionaire to invest in ocean protection as UK and US scale back funding",
-      "description": "Michael Bloomberg has pledged $260m (£196m) to conserve the world's oceans, as major funders including the US and UK scale back science and conservation budgets.",
-      "url": "https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720",
-      "published": "Tue, 23 Jun 2026 05:00:00 +0100",
-      "source": "Sky News World",
+      "title": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
+      "description": "Security forces in Turkey have detained over 200 people with suspected links to extremist groups, including the Islamic State",
+      "url": "https://abcnews.com/International/wireStory/turkey-detains-209-raids-capital-ankara-ahead-julys-134122214",
+      "published": "Tue, 23 Jun 2026 08:02:03 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1170,17 +1198,6 @@
       "description": "Merlín the duck, Mexico’s unofficial World Cup mascot, stole the spotlight at President Claudia Sheinbaum’s news briefing",
       "url": "https://abcnews.com/International/wireStory/merlin-duck-steals-spotlight-president-sheinbaums-news-briefing-134102328",
       "published": "Mon, 22 Jun 2026 13:01:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
-      "description": "Security forces in Turkey have detained over 200 people with suspected links to extremist groups, including the Islamic State",
-      "url": "https://abcnews.com/International/wireStory/turkey-detains-209-raids-capital-ankara-ahead-julys-134122214",
-      "published": "Tue, 23 Jun 2026 08:02:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1224,7 +1241,7 @@
       "title": "Drowning deaths soar in France as Europe buckles in peak of heatwave",
       "description": "Forty people have drowned in heatwave-related deaths in France since last Thursday, Prime Minister Sébastien Lecornu says.",
       "url": "https://www.bbc.co.uk/news/articles/c79yvw3j114o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 14:37:11 GMT",
+      "published": "Tue, 23 Jun 2026 16:27:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1244,6 +1261,31 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Dozens of ships head through Strait of Hormuz after US-Iran deal"
+    },
+    {
+      "title": "Ransom note claims Nancy Guthrie died after abduction",
+      "description": "On Tuesday, Today show presenter Savannah Guthrie begged people to come forward, saying, \"We are in agony.\"",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 16:52:33 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ransom note claims Nancy Guthrie died after abduction"
+    },
+    {
+      "title": "South African police investigate murder amid rise in anti-migrant attacks",
+      "description": "The rise in anti-migrant attacks in South Africa has already left several people dead, with hundreds trying to leave.",
+      "url": "https://www.aljazeera.com/news/2026/6/23/south-african-police-investigate-murder-amid-rise-in-anti-migrant-attacks?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 15:27:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "More than 5,300 people still held in Myanmar scam centres: rights group",
@@ -1282,6 +1324,20 @@
       "is_ticker": false
     },
     {
+      "title": "Former Pinochet agents convicted over 1976 Washington DC carbomb murder",
+      "description": "Attack targeted former Chile ambassador Orlando Letelier and his US colleague Ronni Karpen Moffitt Fifty years after Gen Augusto Pinochet ’s secret police detonated a car bomb in the heart of Washington DC, killing Orlando Letelier, a former Chilean minister and ambassador to the US, and his American colleague Ronni Karpen Moffitt, a Santiago court has convicted three former agents of Moffitt’s murder. Judge Paola Plaza, a special minister for human rights in Chile, sentenced Pedro Espinoza, José Zara, and Raúl Iturriaga to 15 years in prison for their roles in the killing of Moffitt, 25. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jun/23/conviction-chile-washington-dc-car-bomb-attack-1976",
+      "published": "Tue, 23 Jun 2026 15:31:01 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Former Pinochet agents convicted over 1976 Washington DC carbomb murder"
+    },
+    {
       "title": "Montreal mayor calls for end to random police checks amid racial profiling investigation",
       "description": "City’s police force faces investigation of 16 officers accused of disproportionately targeting Black and Arab residents Montreal’s mayor has called for a halt to random police checks as the city’s police force grapples with an internal investigation into racism and racial profiling by 16 officers. Mayor Soraya Martinez Ferrada told reporters last week that her husband, who is Black, had been repeatedly stopped by police while driving. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jun/22/montreal-mayor-random-police-checks-racism-investigation",
@@ -1304,29 +1360,32 @@
       "is_ticker": false
     },
     {
-      "title": "Iran's president heads to Pakistan as the U.S. and Iran work on a war-ending deal",
-      "description": "President Masoud Pezeshkian's visit to Islamabad comes as technical teams were working on details of a deal, following high-level negotiations with Vice President Vance in Switzerland.",
-      "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
-      "published": "Tue, 23 Jun 2026 05:29:01 -0400",
-      "source": "NPR World News",
+      "title": "Hong Kong pro-democracy publisher Jimmy Lai honored by DW",
+      "description": "Before being imprisoned for 20 years, Jimmy Lai founded Hong Kong's largest pro-democracy newspaper. His son said the award shows that those who fight for the freedom of others \"are never alone.\"",
+      "url": "https://www.dw.com/en/hong-kong-pro-democracy-publisher-jimmy-lai-honored-by-dw/a-76991604?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 23 Jun 2026 15:33:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran's president heads to Pakistan as the U.S. and Iran work on a war-ending deal"
+      "ticker_label": "🪖 Hong Kong pro-democracy publisher Jimmy Lai honored by DW"
     },
     {
-      "title": "Taiwan begins 5-day military drill with tanks patrolling streets",
-      "description": "Taiwan has launched a five-day set of military drills aimed at boosting combat readiness against potential Chinese attacks",
-      "url": "https://abcnews.com/International/wireStory/taiwan-begins-5-day-military-drill-tanks-patrolling-134087603",
-      "published": "Tue, 23 Jun 2026 01:29:57 -0400",
+      "title": "Philippines temporarily blocks gaming app used by suspect in deadly school shooting",
+      "description": "Philippine authorities are temporarily blocking an online gaming app after a school shooting",
+      "url": "https://abcnews.com/International/wireStory/philippines-temporarily-blocks-gaming-app-suspect-deadly-school-134126784",
+      "published": "Tue, 23 Jun 2026 08:34:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Philippines temporarily blocks gaming app used by suspect in deadly school shooting"
     },
     {
       "title": "AI is getting women wrong as gender bias persists, data reveals",
@@ -1401,31 +1460,6 @@
       "is_ticker": false
     },
     {
-      "title": "Red heat alerts issued in France, Italy and Spain as 40C temperatures forecast",
-      "description": "The heatwave conditions are forecast to intensify in the coming days across central and western Europe.",
-      "url": "https://www.bbc.co.uk/news/articles/c0jy9g96086o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 16:42:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ransom note claims Nancy Guthrie died after abduction",
-      "description": "The note from the possible kidnappers reportedly stated that they did not mean for her to die and included an apology to the family.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgm0mgzl33o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 13:27:12 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Ransom note claims Nancy Guthrie died after abduction"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1441,6 +1475,17 @@
       "description": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
       "url": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
       "published": "Tue, 23 Jun 2026 07:17:26 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Who would pay for Trump's proposed $300 billion Iran reconstruction fund?",
+      "description": "It's still unclear who would fund a proposed $300 billion reconstruction plan for Iran. Former National Security Adviser Jake Sullivan called the whole approach \"something entirely new.\"",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5866577/iran-trump-deal-300-billion-obama",
+      "published": "Tue, 23 Jun 2026 06:51:02 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
@@ -1506,18 +1551,15 @@
       "is_ticker": false
     },
     {
-      "title": "What Israeli and Lebanese officials are saying before Washington talks",
-      "description": "Iran has made a ceasefire in Lebanon a key condition in its ongoing negotiations with the US.",
-      "url": "https://www.aljazeera.com/news/2026/6/23/what-israeli-and-lebanese-officials-are-saying-before-washington-talks?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 10:26:53 +0000",
+      "title": "Israeli police clash with anti-draft ultra-Orthodox protesters",
+      "description": "Israeli police clashed with Ultra-Orthodox (Haredi) Jews on Monday as they protested against mandatory conscription.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 16:22:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 What Israeli and Lebanese officials are saying before Washington talks"
+      "is_ticker": false
     },
     {
       "title": "‘Institutional threat’: election of far-right leader raises fears for democracy in Colombia",
@@ -1556,17 +1598,6 @@
       "ticker_label": "🚨 Gunman kills an officer at a Montreal hotel before being shot dead, police say"
     },
     {
-      "title": "Europe on red alert for record-breaking heat",
-      "description": "Dozens of people have drowned in France and Germany in recent days as people seek relief from \"oppressive\" heat. In Italy, more than a dozen cities are on high alert for extreme heat. DW has the latest.",
-      "url": "https://www.dw.com/en/europe-on-red-alert-for-record-breaking-heat/live-77663026?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 23 Jun 2026 11:51:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US: Trump threatens prison for Reflecting Pool 'vandalism'",
       "description": "The Trump administration spent $14.7 million repainting the pool \"American flag blue\" ahead of US' 250th anniversary celebrations. Weeks later, the paint is peeling off and algae has turned the water green.",
       "url": "https://www.dw.com/en/us-trump-threatens-prison-for-reflecting-pool-vandalism/a-77666251?maca=en-rss-en-all-1573-xml-mrss",
@@ -1578,15 +1609,18 @@
       "is_ticker": false
     },
     {
-      "title": "Fire tears through building in northern India, killing 14, mostly students",
-      "description": "A fire has torn through a commercial building in Lucknow, India, killing at least 14 people, mostly students",
-      "url": "https://abcnews.com/International/wireStory/fire-tears-building-northern-india-killing-14-students-134094142",
-      "published": "Mon, 22 Jun 2026 09:31:24 -0400",
+      "title": "Gunman kills a Montreal officer at a Hilton hotel before being shot dead, police say",
+      "description": "Police say a suspect armed with a long gun opened fire at a Montreal hotel, killing a police officer before officers returned fire, killing him",
+      "url": "https://abcnews.com/International/wireStory/gunman-kills-montreal-officer-hilton-hotel-shot-dead-134113521",
+      "published": "Mon, 22 Jun 2026 22:50:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Gunman kills a Montreal officer at a Hilton hotel before being shot dead, police say"
     },
     {
       "title": "Ebola in DR Congo: first month of outbreak sees record number of cases – UN humanitarians",
@@ -1622,17 +1656,6 @@
       "is_ticker": false
     },
     {
-      "title": "Supreme Court reinstates conviction in 1979 Etan Patz murder",
-      "description": "America's high court has reinstated the conviction of a man in connection with the 1979 disappearance of six-year-old child Etan Patz in New York City.",
-      "url": "https://www.foxnews.com/us/supreme-court-reinstates-conviction-1979-etan-patz-murder",
-      "published": "Mon, 22 Jun 2026 10:25:24 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US military conducts strike on another vessel carrying alleged narco-traffickers, killing 2",
       "description": "The U.S. military announced a lethal strike on a vessel in the Caribbean allegedly carrying narco-traffickers, killing two people and leaving six survivors.",
       "url": "https://www.foxnews.com/world/us-military-caribbean-drug-boat-strike",
@@ -1658,7 +1681,7 @@
       "is_ticker": false
     },
     {
-      "title": "Canadian healthcare staff decry ‘cruel hoax’ after scam email promises paid day off",
+      "title": "‘Cruel hoax’: Canadian healthcare staff decry employer’s email promising fake day off",
       "description": "Unions condemn ‘insensitive’ internal cybersecurity test sent to healthcare workers in Newfoundland and Labrador For years, healthcare staff in the Canadian province of Newfoundland and Labrador have felt overworked and underappreciated. Turnover, burnout and thinning resources were pushing workers in the sector to a breaking point. So when the email titled “June Holiday” arrived in thousands of inboxes, they felt a moment of overdue joy. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jun/22/canadian-healthcare-staff-scam-email-paid-day-off",
       "published": "Mon, 22 Jun 2026 17:30:23 GMT",
@@ -1691,17 +1714,6 @@
       "is_ticker": false
     },
     {
-      "title": "Vondrousova, ex-Wimbledon champion, insists she has ‘never doped’",
-      "description": "Vondrousova, who won Wimbledon in 2023, was issued a four-year ban from tennis after she refused to submit a ⁠sample.",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/vondrousova-ex-wimbledon-champion-insists-she-has-never-doped?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 10:31:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1724,8 +1736,8 @@
       "is_ticker": false
     },
     {
-      "title": "Iran, Oman mull charging Strait of Hormuz maritime service fees",
-      "description": "Iran and Oman said Tuesday they would examine charges for maritime services in the Strait of Hormuz through a joint working group, pressing ahead with discussions over the strategic waterway despite US opposition to Tehran's proposed fee system.",
+      "title": "Iran, Oman mull charging Strait of Hormuz 'maritime service fees'",
+      "description": "Iran and Oman said Tuesday they would examine charges for what they called maritime service fees in the Strait of Hormuz through a joint working group, pressing ahead with discussions over the strategic waterway despite US opposition to any sort of toll system.",
       "url": "https://www.france24.com/en/middle-east/20260623-iran-oman-mull-charging-strait-of-hormuz-maritime-service-fees",
       "published": "Tue, 23 Jun 2026 15:30:33 GMT",
       "source": "France24",
@@ -1793,17 +1805,6 @@
       "is_ticker": false
     },
     {
-      "title": "Mamdani defends AIPAC ‘monsters’ comment",
-      "description": "New York City Mayor Zohran Mamdani has defended calling AIPAC ‘monsters’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/mamdani-defends-aipac-monsters-comment?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 11:02:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1844,6 +1845,17 @@
       "description": "Researchers say their hunting method - which allows them to prey on dangerous ants - is unprecedented.",
       "url": "https://www.bbc.co.uk/news/articles/c70y138y995o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 10:05:53 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US top court says Rastafarian man cannot sue prison guards who cut his dreadlocks",
+      "description": "The former Louisiana inmate argued his Rastafarian faith was violated after prison officials focibly shaved off his hair.",
+      "url": "https://www.bbc.co.uk/news/articles/cx247v39r1no?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 15:57:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1903,6 +1915,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c3vy3e6q90qo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 22 Jun 2026 22:04:41 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "The $3.7bn man: Inside one of US’s biggest Medicare frauds",
+      "description": "US businessman has been arrested in Turkiye after a year on the run from authorities.",
+      "url": "https://www.aljazeera.com/economy/2026/6/23/the-3-7bn-man-inside-one-of-americas-biggest-medicare-frauds?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 15:45:24 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2001,17 +2024,6 @@
       "description": "While AC keeps us cool, it can also cause dry skin and irritation. Here are some tips to keep comfortable this summer.",
       "url": "https://www.aljazeera.com/news/2026/6/23/how-does-air-conditioning-work-and-how-does-it-affect-your-body?traffic_source=rss",
       "published": "Tue, 23 Jun 2026 11:07:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran’s President Pezeshkian lands in Pakistan for talks after US deal",
-      "description": "Pakistan hosts Iranian President Masoud Pezeshkian after mediating the breakthrough US-Iran negotiations in Switzerland.",
-      "url": "https://www.aljazeera.com/news/2026/6/23/irans-president-lands-in-pakistan-after-crucial-talks-with-us?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 10:37:05 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2195,32 +2207,21 @@
       "is_ticker": false
     },
     {
+      "title": "Afghan Taliban hold first, closed-door talks with EU on deportations",
+      "description": "Rights groups criticized the meeting, saying it undermines the EU's human rights obligations.",
+      "url": "https://www.npr.org/2026/06/23/g-s1-129648/afghan-taliban-hold-first-closed-door-talks-with-eu-on-deportations",
+      "published": "Tue, 23 Jun 2026 11:34:44 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Britain left the EU 10 years ago. Its politics has been an unruly mess",
       "description": "Brexit fractured the European Union, and broke British politics. A decade on, millions of voters have deserted the two big parties for alternatives.",
       "url": "https://www.npr.org/2026/06/23/nx-s1-5867281/brexit-10-years-later",
       "published": "Tue, 23 Jun 2026 02:12:41 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UK PM Keir Starmer resigns. And, US and Iran agree to roadmap for final deal",
-      "description": "British Prime Minister Keir Starmer announced his resignation on Monday. And, the U.S. and Iran have agreed to a \"roadmap\" to reach a final deal within 60 days.",
-      "url": "https://www.npr.org/2026/06/22/g-s1-129268/up-first-newsletter-keir-starmer-iran-us-vance-trump-reflection-pool",
-      "published": "Mon, 22 Jun 2026 07:27:29 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Keir Starmer has resigned, paving way for a 7th U.K. prime minister in 10 years",
-      "description": "Prime Minister Keir Starmer is stepping down. His likely successor, Andy Burnham, a popular former mayor, would become the U.K.'s seventh prime minister in 10 years.",
-      "url": "https://www.npr.org/2026/06/22/nx-s1-5866231/keir-starmer-resigns",
-      "published": "Mon, 22 Jun 2026 05:19:02 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2294,17 +2295,6 @@
       "is_ticker": false
     },
     {
-      "title": "Meet Andy Burnham, Britain's likely next prime minister",
-      "description": "Now that British Prime Minister Keir Starmer announced his resignation, all eyes are on Andy Burnham. The former mayor of Manchester is seen as the favorite to succeed Starmer to lead the United Kingdom.",
-      "url": "https://www.dw.com/en/meet-andy-burnham-britain-s-likely-next-prime-minister/a-77664543?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 22 Jun 2026 18:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Brexit: Discord in the UK music industry, 10 years on",
       "description": "Ten years after the referendum that shook the United Kingdom, what impact has Brexit had on one of its greatest exports: music? From major festivals in the UK to the grassroots venues in Europe determined to host British bands, FRANCE 24's Olivia Salazar-Winspear sets out to meet the people keeping the music scene alive.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260623-brexit-discord-in-the-uk-music-industry-10-years-on",
@@ -2360,39 +2350,6 @@
       "is_ticker": false
     },
     {
-      "title": "Northern Ireland's former unionist leader convicted of decades-old child sex abuse claims",
-      "description": "Jeffrey Donaldson, former leader of Northern Ireland’s largest unionist party, has been convicted of rape and sex abuse charges involving two girls",
-      "url": "https://abcnews.com/International/wireStory/northern-irelands-former-unionist-leader-convicted-decades-child-134095964",
-      "published": "Mon, 22 Jun 2026 09:52:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Afghan Taliban to hold rare, closed-door talks with EU officials on deportations",
-      "description": "A Taliban delegation is in Brussels for talks with the European Union, focusing on deportations, according to a Taliban official",
-      "url": "https://abcnews.com/International/wireStory/afghan-taliban-hold-rare-closed-door-talks-eu-134123288",
-      "published": "Tue, 23 Jun 2026 06:10:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How Starmer went from Labour Party hero to calling it quits within 2 years",
-      "description": "British Prime Minister Keir Starmer has admitted defeat, resigning less than two years after leading his party to a massive victory in 2024",
-      "url": "https://abcnews.com/International/wireStory/starmer-labour-party-hero-calling-quits-2-years-134120804",
-      "published": "Tue, 23 Jun 2026 03:22:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Thai woman faces Myanmar court in an immigration trial tied to US diplomat’s killing",
       "description": "A Thai woman accused of killing her U.S. diplomat ex-husband has appeared in a Myanmar court",
       "url": "https://abcnews.com/International/wireStory/thai-woman-faces-myanmar-court-immigration-trial-tied-134127842",
@@ -2418,32 +2375,65 @@
       "is_ticker": false
     },
     {
-      "title": "Britain's economic woes fuel Brexit discontent a decade after vote to leave EU",
-      "description": "Simon Boyd’s firm makes prefabricated steel structures on the south coast of England and ships them to customers as far away as Ghana and Barbados",
-      "url": "https://abcnews.com/International/wireStory/britains-economic-woes-fuel-discontent-brexit-decade-after-134086767",
-      "published": "Mon, 22 Jun 2026 03:06:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
-      "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
-      "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
-      "published": "Mon, 22 Jun 2026 07:51:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Lithuanian government steps down after coalition reshuffle",
       "description": "Lithuanian Prime Minister Inga Ruginienė and her cabinet have stepped down after changes to the ruling coalition",
       "url": "https://abcnews.com/International/wireStory/lithuanian-government-steps-after-coalition-reshuffle-134127077",
       "published": "Tue, 23 Jun 2026 09:21:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Man arrested over collecting human body parts taken from cemeteries, police say",
+      "description": "Police in Hungary have arrested a 30-year-old man for collecting human body parts",
+      "url": "https://abcnews.com/International/wireStory/man-arrested-hungary-collecting-human-body-parts-cemeteries-134124996",
+      "published": "Tue, 23 Jun 2026 08:26:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Estranged husband of former Scottish leader sentenced to more than 5 years in prison",
+      "description": "The estranged husband of former Scottish First Minister Nicola Sturgeon has been sentenced to five years and three months in prison",
+      "url": "https://abcnews.com/International/wireStory/estranged-husband-former-scottish-leader-sentenced-5-years-134124516",
+      "published": "Tue, 23 Jun 2026 07:53:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Afghan Taliban to hold rare, closed-door talks with EU officials on deportations",
+      "description": "A Taliban delegation is in Brussels for talks with the European Union, focusing on deportations, according to a Taliban official",
+      "url": "https://abcnews.com/International/wireStory/afghan-taliban-hold-rare-closed-door-talks-eu-134123288",
+      "published": "Tue, 23 Jun 2026 06:10:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "How Brexit broke British politics",
+      "description": "Brexit fractured the European Union, and it broke British politics",
+      "url": "https://abcnews.com/International/wireStory/britain-left-eu-10-years-ago-politics-unruly-134121224",
+      "published": "Tue, 23 Jun 2026 09:38:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "How Starmer went from Labour Party hero to calling it quits within 2 years",
+      "description": "British Prime Minister Keir Starmer has admitted defeat, resigning less than two years after leading his party to a massive victory in 2024",
+      "url": "https://abcnews.com/International/wireStory/starmer-labour-party-hero-calling-quits-2-years-134120804",
+      "published": "Tue, 23 Jun 2026 03:22:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2456,6 +2446,28 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167743",
       "published": "Fri, 19 Jun 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Austin Metcalf's father haunted by Karmelo Anthony trial visuals released: ‘I had never seen those pictures’",
+      "description": "Convicted killer Karmelo Anthony is fighting to appeal his 35-year sentence for murdering Austin Metcalf at a Texas high school track meet in 2025.",
+      "url": "https://www.foxnews.com/us/austin-metcalf-father-haunted-karmelo-anthony-trial-visuals-released-never-seen-pictures",
+      "published": "Tue, 23 Jun 2026 12:13:17 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "From the Moon to Mars: Engineering the Future of Human Exploration",
+      "description": "The journey to Mars begins with the Moon. This video explores how Lockheed Martin is helping NASA prepare for the next era of human exploration through Orion, Artemis, robotic missions, lunar resources and technologies designed to help astronauts live, work and travel safely in deep space",
+      "url": "https://www.foxnews.com/us/from-moon-mars-engineering-future-human-exploration",
+      "published": "Tue, 23 Jun 2026 11:29:10 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2488,17 +2500,6 @@
       "description": "A Florida church overseer allegedly hid cameras in a bathroom and changing room, leading to video voyeurism charges after images were found on his laptop.",
       "url": "https://www.foxnews.com/us/florida-man-allegedly-recorded-girls-church-bathroom-hidden-camera-arrested-voyeurism-charges",
       "published": "Mon, 22 Jun 2026 12:09:17 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Former Gambino associate turned New Jersey councilman accused of running loansharking ring while in office",
-      "description": "Former Gambino crime family associate turned New Jersey councilman John Alite allegedly ran an illegal loansharking ring while in office, authorities say.",
-      "url": "https://www.foxnews.com/us/former-gambino-associate-turned-new-jersey-councilman-accused-running-loansharking-ring-office",
-      "published": "Mon, 22 Jun 2026 10:59:36 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
