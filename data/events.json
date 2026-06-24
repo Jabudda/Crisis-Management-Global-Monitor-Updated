@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23T23:55:06.214195Z",
+  "last_updated": "2026-06-24T01:03:22.212190Z",
   "event_count": 220,
   "events": [
     {
@@ -42,15 +42,32 @@
       "is_ticker": false
     },
     {
-      "title": "Confirmed Ebola cases in Congo outbreak top 1,000 with 254 deaths, authorities say",
-      "description": "Authorities say confirmed cases of the Ebola outbreak in eastern Congo have reached 1,003, including 254 deaths",
-      "url": "https://abcnews.com/International/wireStory/confirmed-ebola-cases-congo-outbreak-top-1000-254-134087186",
-      "published": "Mon, 22 Jun 2026 06:42:02 -0400",
+      "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+      "description": "US and Iran offer conflicting statements as negotiators push towards reaching a final, comprehensive deal.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz"
+    },
+    {
+      "title": "Offshore typhoon threatens Philippine provinces with possible flooding and rough seas",
+      "description": "Philippine authorities have warned of possible flooding, landslides and rough seas in the country’s two northernmost provinces as a powerful typhoon roared offshore",
+      "url": "https://abcnews.com/International/wireStory/offshore-typhoon-threatens-2-northern-philippine-provinces-flooding-134122817",
+      "published": "Tue, 23 Jun 2026 05:14:03 -0400",
       "source": "ABC News International",
       "type": "rss",
-      "severity_score": 32,
+      "severity_score": 30,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Offshore typhoon threatens Philippine provinces with possible flooding and rough seas"
     },
     {
       "title": "CDC to tap $107m in emergency funding for Ebola response in DRC and Uganda",
@@ -60,6 +77,17 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Niger becomes the third country to leave the International Criminal Court",
+      "description": "Niger has formally left the International Criminal Court after accusing the global tribunal of what it says is selective justice",
+      "url": "https://abcnews.com/International/wireStory/niger-country-leave-international-criminal-court-134127144",
+      "published": "Tue, 23 Jun 2026 08:42:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -120,6 +148,20 @@
       "ticker_label": "🪖 Security Council LIVE: Warnings of ‘dangerous cycle of escalation’ in Ukraine"
     },
     {
+      "title": "Suspected California library gunman influenced by Columbine shooting and wore matching shirt, officials say",
+      "description": "Chico library shooting suspect Bradley Scott Sayer was allegedly influenced by the 1999 Columbine massacre, officials say. He killed two and was arrested.",
+      "url": "https://www.foxnews.com/us/suspected-california-library-gunman-influenced-columbine-shooting-wore-matching-shirt-officials-say",
+      "published": "Tue, 23 Jun 2026 20:22:42 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Suspected California library gunman influenced by Columbine shooting and wore matching shirt, officials say"
+    },
+    {
       "title": "Myanmar: Aid decline compounds suffering amid ongoing military attacks",
       "description": "A drop in humanitarian assistance is worsening the suffering of millions of people in Myanmar after five years of conflict-related violence, the UN human rights office, OHCHR, said in a report published on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167777",
@@ -129,6 +171,31 @@
       "severity_score": 24,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Tasmanian devils, swift parrots, black swans: the animals at risk if bird flu takes off in Australia",
+      "description": "Federal government identifies more than 150 native and unique bird species and 10 mammal species at ‘very high risk’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast More than 150 of Australia’s native and unique bird species have been assessed as being at “very high risk” of extinction or major decline if they catch the deadly H5N1 bird flu strain, with Western Australia’s celebrated black swans among the most susceptible. The federal government analysis of Australia’s 800 different birds and 350 mammals reflects the high level of concern among experts about the arrival of the H5N1 strain, which has killed millions of birds and mammals around the world. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/24/h5n1-bird-flu-australia-native-bird-mammal-species-at-risk",
+      "published": "Tue, 23 Jun 2026 15:00:19 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Trains resume after radio issue resolved, Deutsche Bahn says",
+      "description": "Train services across Germany have resumed following a technical meltdown on Tuesday night. But regional and suburban rail operators warned that continued delays were possible into Wednesday morning.",
+      "url": "https://www.dw.com/en/trains-resume-after-radio-issue-resolved-deutsche-bahn-says/a-77682758?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 23 Jun 2026 21:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trains resume after radio issue resolved, Deutsche Bahn says"
     },
     {
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
@@ -190,17 +257,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 LISTEN: Mom’s 911 call helps feds tap out suspect in White House UFC terror plot"
-    },
-    {
-      "title": "Tesla crash that killed a woman under US federal investigation",
-      "description": "A Tesla driver on Friday said he was using ‘self-driving’ technology after his vehicle sped into a Texas home.",
-      "url": "https://www.bbc.co.uk/news/articles/c07yp02mxyjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 22 Jun 2026 22:20:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "'A very different Afghanistan: Violence now linked to socioeconomic pressures'",
@@ -282,17 +338,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal"
-    },
-    {
-      "title": "Trains resume after radio issue resolved, Deutsche Bahn says",
-      "description": "Train services across the country have resumed following a technical meltdown on Tuesday night.",
-      "url": "https://www.dw.com/en/trains-resume-after-radio-issue-resolved-deutsche-bahn-says/a-77682758?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 23 Jun 2026 21:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Europe heat wave: France measures hottest-ever day",
@@ -442,20 +487,6 @@
       "is_ticker": false
     },
     {
-      "title": "Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war",
-      "description": "François Picard is pleased to welcome Wayne Jordash, President of Global Rights Compliance Foundation. He argues that the European Union's approach to alumina exports exposes a fundamental flaw: while seeking to constrain Russia's military-industrial capabilities through sanctions, European authorities continue to permit the export of a strategic raw material that may ultimately support Russian weapons production.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260623-irish-company-assisting-in-commission-of-crimes-by-supplying-alumina-to-russia-for-ukraine-war",
-      "published": "Tue, 23 Jun 2026 17:26:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Irish company 'assisting in commission of crimes' by supplying alumina to Russia for Ukraine war"
-    },
-    {
       "title": "Sudan: Drone attacks endanger civilians and shut down critical services in El Obeid",
       "description": "Escalating violence in and around the Sudanese city of El Obeid is putting civilians at increased risk and disrupting essential services, the UN aid coordination office OCHA said on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167781",
@@ -587,6 +618,17 @@
       "ticker_label": "✈️ Weather tracker: Severe thunderstorms sweep Europe and east Asia"
     },
     {
+      "title": "A red alert over France, and heat that may rewrite the record books",
+      "description": "Millions in France are enduring extreme heat, with temperatures soaring and 40 drowning deaths reported since June 18",
+      "url": "https://abcnews.com/International/wireStory/red-alert-france-heat-rewrite-record-books-134122303",
+      "published": "Tue, 23 Jun 2026 09:38:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Air traffic control audio captures tense moment two planes nearly collided at Boston Logan Airport",
       "description": "On Saturday, a Delta Air Lines plane and an American Airline plane came within 300 feet of colliding on the runway of Boston Logan International Airport.",
       "url": "https://www.foxnews.com/us/air-traffic-control-audio-captures-tense-moment-two-planes-nearly-collided-boston-logan-airport",
@@ -662,31 +704,6 @@
       "ticker_label": "🪖 Ukraine says major Crimea bridge destroyed in latest attack"
     },
     {
-      "title": "Libyan warlord convicted over abuses at detention center, officials say",
-      "description": "A Libyan warlord has been convicted of human rights violations at a detention facility in the country's west",
-      "url": "https://abcnews.com/International/wireStory/libyan-warlord-convicted-abuses-detention-center-officials-134090945",
-      "published": "Mon, 22 Jun 2026 08:50:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Libyan warlord convicted over abuses at detention center, officials say"
-    },
-    {
-      "title": "Political crisis deepens as Romanian lawmakers reject new government",
-      "description": "Romanian lawmakers have rejected a new government proposed by Prime Minister-designate Adrian Vestea, deepening the country's political crisis",
-      "url": "https://abcnews.com/International/wireStory/political-crisis-deepens-romanian-lawmakers-reject-new-government-134113292",
-      "published": "Mon, 22 Jun 2026 17:42:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Rubio arrives in UAE with aim to head off Gulf Arab unease over tentative Iran deal",
       "description": "U.S. Secretary of State Marco Rubio is in the United Arab Emirates on the first leg of a three-nation tour of Gulf countries aimed at easing their concerns about the result of an agreement intended to end the war with Iran",
       "url": "https://abcnews.com/International/wireStory/rubio-arrives-uae-aim-head-off-gulf-arab-134140687",
@@ -757,31 +774,6 @@
       "ticker_label": "🚨 Afghan Taliban clamp down on women, smartphones, protests"
     },
     {
-      "title": "Armed group in Nigeria kills at least 20 people and exchanges gunfire with police",
-      "description": "Police say an armed group has killed at least 20 people in Nigeria",
-      "url": "https://abcnews.com/International/wireStory/armed-group-nigeria-kills-20-people-exchanges-gunfire-134123492",
-      "published": "Tue, 23 Jun 2026 07:22:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Two suspects in custody after shooting at high school in Philippines kills 3",
-      "description": "Two students opened fire in a high school in the central Philippines, killing three fellow students and wounding 20 others",
-      "url": "https://abcnews.com/International/wireStory/suspects-custody-after-shooting-high-school-philippines-kills-134086480",
-      "published": "Tue, 23 Jun 2026 00:33:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Two suspects in custody after shooting at high school in Philippines kills 3"
-    },
-    {
       "title": "Kenyan authorities to charge students with murder in dorm fire that killed 16 girls",
       "description": "Prosecutors in Kenya have prepared murder charges against students accused of starting a deadly dormitory fire in May",
       "url": "https://abcnews.com/International/wireStory/kenyan-authorities-charge-students-murder-dorm-fire-killed-134142955",
@@ -794,6 +786,17 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Kenyan authorities to charge students with murder in dorm fire that killed 16 girls"
+    },
+    {
+      "title": "Armed group in Nigeria kills at least 20 people and exchanges gunfire with police",
+      "description": "Police say an armed group has killed at least 20 people in Nigeria",
+      "url": "https://abcnews.com/International/wireStory/armed-group-nigeria-kills-20-people-exchanges-gunfire-134123492",
+      "published": "Tue, 23 Jun 2026 07:22:09 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Major dispute to threaten Trump's Iran deal over billions in frozen Tehran funds: expert",
@@ -810,7 +813,7 @@
       "ticker_label": "🪖 Major dispute to threaten Trump's Iran deal over billions in frozen Tehran funds: expert"
     },
     {
-      "title": "Germany rail network halted nationwide due to IT malfunction",
+      "title": "Germany rail network briefly halted nationwide due to IT malfunction",
       "description": "Rail company Deutsche Bahn had to pause train services across the country for more than two-and-a-half hours.",
       "url": "https://www.bbc.co.uk/news/articles/crm0ek4z7ggo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 23:46:01 GMT",
@@ -954,11 +957,25 @@
       "is_ticker": false
     },
     {
-      "title": "Trains across Germany halted due to problem with communication system",
-      "description": "Germany's railway system was brought to a halt, leaving some passengers stranded across the country due to an IT issue.",
-      "url": "https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238",
-      "published": "Tue, 23 Jun 2026 23:47:00 +0100",
-      "source": "Sky News World",
+      "title": "Savannah Guthrie's mother may be dead, according to note from kidnappers",
+      "description": "“Today” co-host Savannah Guthrie made an emotional on-air appeal on Tuesday for information about her mother, who disappeared from her Arizona home nearly five months ago, a day after reports revealed a previously undisclosed note suggesting the missing 84-year-old may have died shortly after her abduction.",
+      "url": "https://www.france24.com/en/americas/20260624-savannah-guthrie-mother-may-be-dead-according-to-note-from-kidnappers",
+      "published": "Wed, 24 Jun 2026 00:39:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Savannah Guthrie's mother may be dead, according to note from kidnappers"
+    },
+    {
+      "title": "Guinness crowns Canberra town crier as the world's loudest person at 122.4 decibels",
+      "description": "An Australian professional air conditioner cleaner and honorary town crier has been recognized as the world’s loudest person",
+      "url": "https://abcnews.com/International/wireStory/guinness-crowns-canberra-town-crier-worlds-loudest-person-134122713",
+      "published": "Tue, 23 Jun 2026 07:38:25 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
@@ -976,14 +993,14 @@
       "is_ticker": false
     },
     {
-      "title": "Connecticut dad jumped to his death during concert at Madison Square Garden in NYC: report",
-      "description": "A Connecticut man allegedly appeared intoxicated before jumping from a balcony at a Goose concert at Madison Square Garden, according to witnesses.",
-      "url": "https://www.foxnews.com/us/madison-square-garden-concert-fall-connecticut-father",
-      "published": "Tue, 23 Jun 2026 03:07:29 -0400",
-      "source": "Fox News US",
+      "title": "Ronaldo late to World Cup party but still able to steal the show",
+      "description": "Portugal coach Martinez says Ronaldo’s rivalry with the likes of Messi drives both players to stay at their best.",
+      "url": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-late-to-world-cup-party-but-still-able-to-steal-the-show?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 23:46:08 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1013,28 +1030,6 @@
       "description": "FIFA also stripped journalist Jorge Chipi Vera of World Cup credentials after he criticised Almiron's red card on air.",
       "url": "https://www.aljazeera.com/sports/2026/6/23/paraguays-almiron-suspended-for-one-game-after-red-card-for-covering-mouth?traffic_source=rss",
       "published": "Tue, 23 Jun 2026 21:36:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "US says Iran can stay for two days before Egypt World Cup game",
-      "description": "Iran's team will still need to leave the US shortly after their third group-stage match against Egypt on Friday.",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 19:45:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ronaldo scores twice as Portugal thrash Uzbekistan 5-0 at World Cup 2026",
-      "description": "Cristiano Ronaldo becomes first player to score at six World Cup tournaments as Portugal thrash debutants Uzbekistan.",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/ronaldo-scores-twice-as-portugal-thrash-uzbekistan-5-0-at-world-cup-2026?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 19:17:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1083,6 +1078,17 @@
       "url": "https://www.dw.com/en/curacao-s-trailblazing-doctor-at-the-world-cup/a-77679539?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 23 Jun 2026 18:17:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "World Cup 2026: Ronaldo becomes first player to score in six editions",
+      "description": "Scoring a brace against Uzbekistan on Tuesday, Cristiano Ronaldo made history by becoming the first player to score in six different editions of the FIFA World Cup. The 41-year-old will hope to secure Portugal a knockout stage berth, with the squad facing Colombia for their final group stage match on Saturday.",
+      "url": "https://www.france24.com/en/video/20260623-world-cup-2026-ronaldo-becomes-first-player-to-score-in-six-editions",
+      "published": "Tue, 23 Jun 2026 22:58:24 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1144,10 +1150,10 @@
       "is_ticker": false
     },
     {
-      "title": "Priced out of World Cup games, Mexican fans take celebrations into their own hands",
-      "description": "Mexicans are reclaiming the FIFA World Cup with street celebrations as high ticket prices keep many out of stadiums",
-      "url": "https://abcnews.com/International/wireStory/priced-world-cup-games-mexican-fans-celebrations-hands-134122189",
-      "published": "Tue, 23 Jun 2026 04:10:12 -0400",
+      "title": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
+      "description": "Security forces in Turkey have detained over 200 people with suspected links to extremist groups, including the Islamic State",
+      "url": "https://abcnews.com/International/wireStory/turkey-detains-209-raids-capital-ankara-ahead-julys-134122214",
+      "published": "Tue, 23 Jun 2026 08:02:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1155,10 +1161,10 @@
       "is_ticker": false
     },
     {
-      "title": "Merlin the duck steals the spotlight at President Sheinbaum's news briefing",
-      "description": "Merlín the duck, Mexico’s unofficial World Cup mascot, stole the spotlight at President Claudia Sheinbaum’s news briefing",
-      "url": "https://abcnews.com/International/wireStory/merlin-duck-steals-spotlight-president-sheinbaums-news-briefing-134102328",
-      "published": "Mon, 22 Jun 2026 13:01:40 -0400",
+      "title": "Priced out of World Cup games, Mexican fans take celebrations into their own hands",
+      "description": "Mexicans are reclaiming the FIFA World Cup with street celebrations as high ticket prices keep many out of stadiums",
+      "url": "https://abcnews.com/International/wireStory/priced-world-cup-games-mexican-fans-celebrations-hands-134122189",
+      "published": "Tue, 23 Jun 2026 04:10:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1214,6 +1220,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ransom note claims Nancy Guthrie died after abduction"
+    },
+    {
+      "title": "UN begins evacuation of 11,000 sailors stranded in Strait of Hormuz",
+      "description": "The UN's maritime agency launched an operation to evacuate more than 11,000 sailors stranded in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/un-begins-evacuation-of-11000-sailors-stranded-in-strait-of-hormuz?traffic_source=rss",
+      "published": "Tue, 23 Jun 2026 23:49:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Massive fire rips through Indonesia sandal factory",
@@ -1316,20 +1333,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia politics live: paid parental leave ‘not safe’ with One Nation, Plibersek warns; Bragg says ‘we want more investors’ in housing market",
-      "description": "Social services minister says Pauline Hanson ‘completely unsympathetic’ to financial stress of having a baby. Follow today’s news live Get our breaking news email , free app or daily news podcast Ruston pushes for overhaul to controversial aged care tool Over to her portfolio, the shadow health and aged care minister, Anne Ruston , will introduce a private member’s bill to change the government’s controversial integrated assessment tool. The three things it seeks to do is to restore the discretion of a human assessor to make sure that the algorithm in their professional judgment doesn’t make an error. It also requires greater transparency so that every decision that’s made, the person can know how the algorithm was used, how professional judgment was applied, so they know why they received the level of care that they got. And we also want to make sure that anybody who has received an assessment since this algorithm computer-only decision-making mechanism has been in place, that they can have a reassessment because we believe that so many of the results have clearly been incorrect. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
-      "published": "Tue, 23 Jun 2026 23:49:59 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Australia politics live: paid parental leave ‘not safe’ with One Nation, Plibersek warns; Bragg says ‘we want more investors’ in housing market"
-    },
-    {
       "title": "US, Iran give conflicting claims over Hormuz fees",
       "description": "US top diplomat Rubio said Washington will not accept tolls on shipping in the Strait of Hormuz. But Iran has said they want to charge \"maritime service fees.\" And Israel and Lebanon are set for talks in the US.",
       "url": "https://www.dw.com/en/us-iran-give-conflicting-claims-over-hormuz-fees/live-77666574?maca=en-rss-en-all-1573-xml-mrss",
@@ -1394,15 +1397,40 @@
       "ticker_label": "🪖 Achieving net-zero carbon emissions can reduce the intensity, duration, and frequency of heat waves"
     },
     {
-      "title": "Taiwan begins 5-day military drill with tanks patrolling streets",
-      "description": "Taiwan has launched a five-day set of military drills aimed at boosting combat readiness against potential Chinese attacks",
-      "url": "https://abcnews.com/International/wireStory/taiwan-begins-5-day-military-drill-tanks-patrolling-134087603",
-      "published": "Tue, 23 Jun 2026 01:29:57 -0400",
+      "title": "Trains across Germany briefly halted after communication system issue",
+      "description": "Germany's railway system was brought to a halt on Tuesday evening, leaving passengers stranded across the country following an IT issue.",
+      "url": "https://news.sky.com/story/german-railway-network-comes-to-halt-due-to-problem-with-communication-system-13557238",
+      "published": "Tue, 23 Jun 2026 23:47:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "US slaps new sanctions on Cuban companies key to island's crumbling economy",
+      "description": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis",
+      "url": "https://abcnews.com/International/wireStory/us-slaps-new-sanctions-cuban-companies-key-islands-134138588",
+      "published": "Tue, 23 Jun 2026 13:18:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Philippines temporarily blocks gaming app used by suspect in deadly school shooting",
+      "description": "Philippine authorities are temporarily blocking an online gaming app after a school shooting",
+      "url": "https://abcnews.com/International/wireStory/philippines-temporarily-blocks-gaming-app-suspect-deadly-school-134126784",
+      "published": "Tue, 23 Jun 2026 08:34:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Philippines temporarily blocks gaming app used by suspect in deadly school shooting"
     },
     {
       "title": "New Security Council resolution upholds accountability for attacks against peacekeepers",
@@ -1435,6 +1463,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167774",
       "published": "Mon, 22 Jun 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump hopes Nancy Guthrie is found for family that ‘has gone through hell’ with ransom notes, pleas for help",
+      "description": "President Donald Trump says he hopes investigators find Nancy Guthrie, missing mother of Savannah Guthrie, as the search enters its 20th week in Arizona.",
+      "url": "https://www.foxnews.com/us/trump-hopes-nancy-guthrie-found-family-gone-hell-ransom-notes-pleas-help",
+      "published": "Tue, 23 Jun 2026 20:20:13 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1618,6 +1657,17 @@
       "ticker_label": "🪖 Israeli troops kill two in south Lebanon after lull in fighting, authorities say"
     },
     {
+      "title": "Eight sentenced to 450 years in prison over anti-ICE riot where officer was shot",
+      "description": "An officer was shot in the neck during the Texas disorder by \"Antifa Cell operatives\", prosecutors said.",
+      "url": "https://www.bbc.co.uk/news/articles/clyedgnyn4mo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 00:00:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Dettol apologises after ad to clean up 'toxic men' backfires in China",
       "description": "The ad sparked accusations of sexism in China, after featuring a man looking for a partner who is \"not tainted by other men\".",
       "url": "https://www.bbc.co.uk/news/articles/ced4vq6zylpo?at_medium=RSS&at_campaign=rss",
@@ -1638,20 +1688,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Displaced Lebanese return south under fragile ceasefire deal",
-      "description": "Displaced Lebanese are heading back south after a US-Iran backed ceasefire halted months of Israeli bombardment.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/displaced-lebanese-return-south-under-fragile-ceasefire-deal?traffic_source=rss",
-      "published": "Tue, 23 Jun 2026 19:04:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Displaced Lebanese return south under fragile ceasefire deal"
     },
     {
       "title": "A red alert over France, and heat that may rewrite the record books",
@@ -1704,17 +1740,6 @@
       "ticker_label": "🪖 Putin says Russia 'ready for peace talks' after Ukraine refinery strikes"
     },
     {
-      "title": "Fire tears through building in northern India, killing 14, mostly students",
-      "description": "A fire has torn through a commercial building in Lucknow, India, killing at least 14 people, mostly students",
-      "url": "https://abcnews.com/International/wireStory/fire-tears-building-northern-india-killing-14-students-134094142",
-      "published": "Mon, 22 Jun 2026 09:31:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Ebola in DR Congo: first month of outbreak sees record number of cases – UN humanitarians",
       "description": "Ebola has been spreading at unprecedented speed in the eastern Democratic Republic of the Congo (DRC), bringing risk and fear into people’s daily lives, UN humanitarians said on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167786",
@@ -1738,17 +1763,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Former SLED investigator who testified at Alex Murdaugh trial fired from Charleston County Sheriff's Office"
-    },
-    {
-      "title": "Coast Guard helicopter crashes during Alaska training mission, injuring four crew members",
-      "description": "A Coast Guard MH-60 Jayhawk helicopter crashed during routine training near Sitka, Alaska, with four crew members sustaining minor injuries.",
-      "url": "https://www.foxnews.com/us/coast-guard-helicopter-crash-alaska",
-      "published": "Tue, 23 Jun 2026 00:33:49 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "US military conducts strike on another vessel carrying alleged narco-traffickers, killing 2",
@@ -1803,6 +1817,17 @@
       "url": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 23 Jun 2026 17:40:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Leaders of four Central European countries meet in Hungary to reboot regional group",
+      "description": "The leaders of four Central European countries have revived their regional alliance, the Visegrád Four, during a meeting in Hungary",
+      "url": "https://abcnews.com/International/wireStory/leaders-central-european-countries-meet-hungary-reboot-regional-134146477",
+      "published": "Tue, 23 Jun 2026 16:47:35 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1868,17 +1893,6 @@
       "description": "With algae-green water and blue peeling paint, the Lincoln Memorial Reflecting Pool is set to be drained again, despite Donald Trump's recent renovation costing over $14 million. Trump has blamed the problems on \"vandalism,\" claiming a 350-foot gash was deliberately cut into the pool and saying multiple arrests have been made. However, he has not publicly provided evidence for the claims, despite journalists pressing him for proof.",
       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260623-trump-without-evidence-blames-vandalism-as-reflecting-pool-turns-green-again",
       "published": "Tue, 23 Jun 2026 20:58:41 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran, Oman mull charging Strait of Hormuz 'maritime service fees'",
-      "description": "Iran and Oman said Tuesday they would examine charges for what they called maritime service fees in the Strait of Hormuz through a joint working group, pressing ahead with discussions over the strategic waterway despite US opposition to any sort of toll system.",
-      "url": "https://www.france24.com/en/middle-east/20260623-iran-oman-mull-charging-strait-of-hormuz-maritime-service-fees",
-      "published": "Tue, 23 Jun 2026 15:30:33 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 3,
@@ -1952,6 +1966,17 @@
       "is_ticker": false
     },
     {
+      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
+      "description": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 23 Jun 2026 23:25:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Zambia ex-president's family wins latest legal battle over what should happen to his body",
       "description": "Edgar Lungu's family and the Zambian government remained in dispute 12 months after he died.",
       "url": "https://www.bbc.co.uk/news/articles/c8r2yryr5mvo?at_medium=RSS&at_campaign=rss",
@@ -1964,17 +1989,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Zambia ex-president's family wins latest legal battle over what should happen to his body"
-    },
-    {
-      "title": "Chinese e-commerce giant Alibaba sues US government over defence blacklist",
-      "description": "It is suing the US defence department after it was added to a list of firms with ties to the Chinese military.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 23:25:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Spider which uses spring trap to capture prey discovered in Australia",
@@ -2219,21 +2233,24 @@
       "is_ticker": false
     },
     {
-      "title": "Multiple Airbus A380 planes to be grounded for urgent inspections after cracks found in wings",
-      "description": "Airbus to inspect 15 Emirates and one Qantas plane after cracks found in structural wing beam of some jets Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Airbus will inspect 16 A380 planes, five of them immediately, after cracks were found in a key wing component on aircraft used by the Emirates and Qantas airlines. The European Union Aviation Safety Agency (EASA) has ordered urgent inspections requiring airlines to examine the wing-spar structure on the affected jets after inspectors found cracks during routine maintenance checks. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/24/airbus-a380-wing-cracks-planes-grounded-qantas-emirates",
-      "published": "Tue, 23 Jun 2026 23:01:26 GMT",
+      "title": "Australia politics live: energy minister asks regulator to investigate big jump in power companies’ supply fees",
+      "description": "Social services minister says Pauline Hanson ‘completely unsympathetic’ to financial stress of having a baby. Follow today’s news live Get our breaking news email , free app or daily news podcast Ruston pushes for overhaul to controversial aged care tool Over to her portfolio, the shadow health and aged care minister, Anne Ruston , will introduce a private member’s bill to change the government’s controversial integrated assessment tool. The three things it seeks to do is to restore the discretion of a human assessor to make sure that the algorithm in their professional judgment doesn’t make an error. It also requires greater transparency so that every decision that’s made, the person can know how the algorithm was used, how professional judgment was applied, so they know why they received the level of care that they got. And we also want to make sure that anybody who has received an assessment since this algorithm computer-only decision-making mechanism has been in place, that they can have a reassessment because we believe that so many of the results have clearly been incorrect. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
+      "published": "Wed, 24 Jun 2026 00:49:34 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Australia politics live: energy minister asks regulator to investigate big jump in power companies’ supply fees"
     },
     {
-      "title": "Labor’s tax deal with the Greens is a crucial win – but its NDIS changes could pay the price",
-      "description": "The victory may have dinged Labor’s chances of easily passing its significant cost-cutting reforms to the NDIS through the Senate in August Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The government scored a crucial win on Tuesday, securing support for its tax changes through the Senate . But that victory may have dinged Labor’s chances of easily passing its other major budget measure – significant cost-cutting reforms to the NDIS – through the Senate in August. Labor’s deal with the Greens sees an inquiry into the NDIS extended for two months, with plans for new public hearings and more time for a committee process, after even the health minister, Mark Butler, admitted he had heard “confronting” evidence from the disability community fearful of losing access to key supports. Eight additional weeks of a public inquiry, spearheaded by an activist party hellbent on trying to kill this bill, is not nothing. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/24/labors-tax-deal-with-the-greens-is-a-crucial-win-but-its-ndis-changes-could-pay-the-price",
-      "published": "Tue, 23 Jun 2026 15:00:19 GMT",
+      "title": "Multiple Airbus A380 planes to be grounded for urgent inspections after cracks found in wings",
+      "description": "Airbus to inspect 15 Emirates and one Qantas plane after cracks found in structural wing beam of some jets Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Airbus will inspect 16 A380 planes, five of them immediately, after cracks were found in a key wing component on aircraft used by the Emirates and Qantas airlines. The European Union Aviation Safety Agency (EASA) has ordered urgent inspections requiring airlines to examine the wing-spar structure on the affected jets after inspectors found cracks during routine maintenance checks. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/24/airbus-a380-wing-cracks-planes-grounded-qantas-emirates",
+      "published": "Tue, 23 Jun 2026 23:01:26 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2351,43 +2368,21 @@
       "is_ticker": false
     },
     {
+      "title": "EU observers back Colombia vote count amid challenge to results",
+      "description": "A European Union mission has highlighted the transparency and efficiency of Colombia's presidential election vote count",
+      "url": "https://abcnews.com/International/wireStory/eu-observers-back-colombia-vote-count-amid-challenge-134142196",
+      "published": "Tue, 23 Jun 2026 14:08:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "China’s newest aircraft carrier sails through the Taiwan Strait",
       "description": "China's newest and most powerful aircraft carrier, the Fujian, has sailed through the Taiwan Strait, according to Taiwan's Defense Ministry",
       "url": "https://abcnews.com/International/wireStory/chinas-newest-aircraft-carrier-sails-taiwan-strait-134133986",
       "published": "Tue, 23 Jun 2026 11:02:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Northern Ireland's former unionist leader convicted of decades-old child sex abuse claims",
-      "description": "Jeffrey Donaldson, former leader of Northern Ireland’s largest unionist party, has been convicted of rape and sex abuse charges involving two girls",
-      "url": "https://abcnews.com/International/wireStory/northern-irelands-former-unionist-leader-convicted-decades-child-134095964",
-      "published": "Mon, 22 Jun 2026 09:52:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Afghan Taliban to hold rare, closed-door talks with EU officials on deportations",
-      "description": "A Taliban delegation is in Brussels for talks with the European Union, focusing on deportations, according to a Taliban official",
-      "url": "https://abcnews.com/International/wireStory/afghan-taliban-hold-rare-closed-door-talks-eu-134123288",
-      "published": "Tue, 23 Jun 2026 06:10:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How Starmer went from Labour Party hero to calling it quits within 2 years",
-      "description": "British Prime Minister Keir Starmer has admitted defeat, resigning less than two years after leading his party to a massive victory in 2024",
-      "url": "https://abcnews.com/International/wireStory/starmer-labour-party-hero-calling-quits-2-years-134120804",
-      "published": "Tue, 23 Jun 2026 03:22:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2420,32 +2415,43 @@
       "is_ticker": false
     },
     {
-      "title": "Britain's economic woes fuel Brexit discontent a decade after vote to leave EU",
-      "description": "Simon Boyd’s firm makes prefabricated steel structures on the south coast of England and ships them to customers as far away as Ghana and Barbados",
-      "url": "https://abcnews.com/International/wireStory/britains-economic-woes-fuel-discontent-brexit-decade-after-134086767",
-      "published": "Mon, 22 Jun 2026 03:06:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Germany plans to take 40% in Leopard tank maker KNDS, joining France as stakeholder",
-      "description": "The German government says it intends to take a 40% stake in defense contractor KNDS, whose products include Leopard and Leclerc tanks, as it tries to strengthen European production along with NATO ally France",
-      "url": "https://abcnews.com/International/wireStory/germany-plans-40-leopard-tank-maker-knds-joining-134088240",
-      "published": "Mon, 22 Jun 2026 07:51:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Lithuanian government steps down after coalition reshuffle",
       "description": "Lithuanian Prime Minister Inga Ruginienė and her cabinet have stepped down after changes to the ruling coalition",
       "url": "https://abcnews.com/International/wireStory/lithuanian-government-steps-after-coalition-reshuffle-134127077",
       "published": "Tue, 23 Jun 2026 09:21:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Man arrested over collecting human body parts taken from cemeteries, police say",
+      "description": "Police in Hungary have arrested a 30-year-old man for collecting human body parts",
+      "url": "https://abcnews.com/International/wireStory/man-arrested-hungary-collecting-human-body-parts-cemeteries-134124996",
+      "published": "Tue, 23 Jun 2026 08:26:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Estranged husband of former Scottish leader sentenced to more than 5 years in prison",
+      "description": "The estranged husband of former Scottish First Minister Nicola Sturgeon has been sentenced to five years and three months in prison",
+      "url": "https://abcnews.com/International/wireStory/estranged-husband-former-scottish-leader-sentenced-5-years-134124516",
+      "published": "Tue, 23 Jun 2026 07:53:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Afghan Taliban to hold rare, closed-door talks with EU officials on deportations",
+      "description": "A Taliban delegation is in Brussels for talks with the European Union, focusing on deportations, according to a Taliban official",
+      "url": "https://abcnews.com/International/wireStory/afghan-taliban-hold-rare-closed-door-talks-eu-134123288",
+      "published": "Tue, 23 Jun 2026 06:10:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
