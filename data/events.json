@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-24T12:18:47.480859Z",
-  "event_count": 220,
+  "last_updated": "2026-06-24T13:19:32.298283Z",
+  "event_count": 221,
   "events": [
     {
       "title": "Philippines blocks GoreBox gaming app after school shooting kills three",
@@ -77,6 +77,42 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Fears grow for civilians as paramilitary group closes in on strategic Sudanese city",
+      "description": "Paramilitary attacks on a city of a half-million people in Sudan have raised international alarm that mass violence against civilians might follow",
+      "url": "https://abcnews.com/International/wireStory/fears-grow-civilians-paramilitary-group-closes-strategic-sudanese-134158673",
+      "published": "Wed, 24 Jun 2026 03:46:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "North Korea's Kim claims progress on nuclear-armed navy as new warship is placed into service",
+      "description": "North Korea has commissioned a 5,000-ton destroyer that leader Kim Jong Un touts as a symbol of the country’s growing naval and nuclear capabilities, state media reported Wednesday",
+      "url": "https://abcnews.com/International/wireStory/north-koreas-kim-claims-progress-nuclear-armed-navy-134153016",
+      "published": "Wed, 24 Jun 2026 00:58:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 North Korea's Kim claims progress on nuclear-armed navy as new warship is placed into service"
+    },
+    {
+      "title": "Niger becomes the third country to leave the International Criminal Court",
+      "description": "Niger has formally left the International Criminal Court after accusing the global tribunal of what it says is selective justice",
+      "url": "https://abcnews.com/International/wireStory/niger-country-leave-international-criminal-court-134127144",
+      "published": "Tue, 23 Jun 2026 08:42:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -176,6 +212,17 @@
       "ticker_label": "🪖 Trains resume after radio issue resolved, Deutsche Bahn says"
     },
     {
+      "title": "France confirms first Ebola case in doctor who had worked in DRC",
+      "description": "French health ministry says patient’s contacts are being traced and that risk to European public is very low The first case of Ebola has been confirmed in France, the country’s health ministry has said, in a doctor who had returned from a humanitarian mission to an area affected by the outbreak in the Democratic Republic of the Congo. The patient was transferred to a specialist facility and was in a stable condition, the ministry said in a statement . “All precautionary measures, including the patient’s isolation, were taken upon his arrival in the country, with transfer to the hospital under secure conditions to prevent any risk of contamination.” Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/jun/24/france-ebola-first-case-doctor-drc",
+      "published": "Wed, 24 Jun 2026 12:11:21 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Sweat, tears and camaraderie as 20,000 runners take on world’s largest ultramarathon",
       "description": "For one day every June, South Africa’s searing racial inequality seems to melt away at Comrades race In the early morning dark, thousands of runners waited, jostling with anticipation. South Africa’s national anthem rang out. Then the haunting swell of Shosholoza , first sung by Zimbabwean migrant workers in South Africa’s goldmines. Finally, that unmistakable, spine-tingling piano: Chariots of Fire. Runners gather before the start of the marathon Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jun/21/comrades-ultramarathon-south-africa",
@@ -207,20 +254,6 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "UN nuclear agency boss says inspectors will visit Iran's nuclear sites",
-      "description": "The head of the U.N.’s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a key component in the interim deal between the United States and Iran to reach an end to the war",
-      "url": "https://abcnews.com/International/wireStory/nuclear-agency-boss-inspectors-visit-irans-nuclear-sites-134157660",
-      "published": "Wed, 24 Jun 2026 02:51:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UN nuclear agency boss says inspectors will visit Iran's nuclear sites"
     },
     {
       "title": "Play puts spotlight on Kenya’s crisis of gender-based violence",
@@ -276,6 +309,20 @@
       "ticker_label": "🚨 Suspect 'neutralized' after Montreal shooting leaves at least 2 dead including officer"
     },
     {
+      "title": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+      "description": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian minister says such access would only be part of a final deal with the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 24 Jun 2026 12:32:00 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UN nuclear chief says inspectors will visit Iran sites as part of war deal"
+    },
+    {
       "title": "North Korea commissions warship as Kim eyes nuclear navy",
       "description": "Kim Jong Un vows to equip North Korea's navy with nuclear weapons, signaling a strategic shift in military capabilities.",
       "url": "https://www.aljazeera.com/gallery/2026/6/24/north-korea-commissions-warship-as-kim-eyes-nuclear-navy?traffic_source=rss",
@@ -288,20 +335,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 North Korea commissions warship as Kim eyes nuclear navy"
-    },
-    {
-      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-      "description": "Iran and the US clash over nuclear inspections and Hormuz as negotiators push for a final deal within 60 days.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
-      "published": "Wed, 24 Jun 2026 07:04:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers"
     },
     {
       "title": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
@@ -332,15 +365,18 @@
       "ticker_label": "🪖 World Cup 2026: Ronaldo answers critics as Portugal get back on track"
     },
     {
-      "title": "France outage leaves 68,000 homes without power as record heatwave spreads north",
-      "description": "A power outage caused by a record-breaking heatwave left around 68,000 households without electricity in France's western Brittany on Wednesday as the national weather agency issued a red alert for extreme weather covering most of the country, including the northernmost region around Calais.",
-      "url": "https://www.france24.com/en/europe/20260624-france-outage-leaves-68000-homes-without-power-record-heatwave-spreads-north-brittany",
-      "published": "Wed, 24 Jun 2026 06:32:06 GMT",
-      "source": "France24",
+      "title": "UN nuclear agency boss says inspectors will visit Iran's nuclear sites",
+      "description": "The head of the U.N.’s nuclear agency says Iranian nuclear enrichment sites would be visited by his inspectors, a key component in the interim U.S.-Iran to reach an end to the war",
+      "url": "https://abcnews.com/International/wireStory/nuclear-agency-boss-inspectors-visit-irans-nuclear-sites-134157660",
+      "published": "Wed, 24 Jun 2026 08:50:05 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UN nuclear agency boss says inspectors will visit Iran's nuclear sites"
     },
     {
       "title": "Climate crisis: UN chief lays out solutions blueprint for clean energy transition",
@@ -366,17 +402,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia preparing hybrid attacks on NATO's eastern flank, intelligence warns"
-    },
-    {
-      "title": "Ghana conference calls for formal apology for transatlantic slave trade",
-      "description": "Global framework for reparatory justice adopted at event includes demand for compensation and debt relief More than money: the logic of slavery reparations A global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade. Heads of state and government and other officials formally approved the strategy on Friday at a gathering in a hotel in the capital, Accra, which was the first major meeting since the adoption of the landmark United Nations (UN) resolution declaring the trafficking of enslaved Africans as the gravest crime against humanity. Continue reading...",
-      "url": "https://www.theguardian.com/news/2026/jun/19/global-framework-reparations-justice-adopted-at-landmark-conference-in-accra-ghana",
-      "published": "Fri, 19 Jun 2026 17:26:45 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "<a href=\"https://news.sky.com/story/heatwave-latest-amber-weather-warnings-for-extreme-heat-come-into-force-13555802?postid=11925347#liveblog-body\">Forty people drown in France in a week as country endures hottest night for 79 years</a>",
@@ -418,7 +443,7 @@
       "ticker_label": "🪖 UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls"
     },
     {
-      "title": "Ukraine strikes knock out power in key city in Russian-occupied Crimea",
+      "title": "Biggest city in Crimea without power after Ukraine strikes",
       "description": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
       "url": "https://www.bbc.co.uk/news/articles/c3ryv72pjqno?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 24 Jun 2026 09:48:24 GMT",
@@ -429,7 +454,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine strikes knock out power in key city in Russian-occupied Crimea"
+      "ticker_label": "🪖 Biggest city in Crimea without power after Ukraine strikes"
     },
     {
       "title": "French woman allegedly held captive by husband for 12 years rescued in Pakistan",
@@ -555,34 +580,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Bondi Beach shooting hero pleads not guilty to alleged assault on his father"
-    },
-    {
-      "title": "Diabetes patients in Gaza face survival battle amid war shortages",
-      "description": "Insulin and equipment shortages in Gaza pose fatal risks, leading to critical health complications.",
-      "url": "https://www.aljazeera.com/features/2026/6/24/diabetes-patients-in-gaza-face-survival-battle-amid-war-shortages?traffic_source=rss",
-      "published": "Wed, 24 Jun 2026 06:04:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Diabetes patients in Gaza face survival battle amid war shortages"
-    },
-    {
-      "title": "Colombia: The 'Tiger's' victory signals a rightward shift",
-      "description": "With the election of Abelardo de la Espriella, an ultra-right-wing outsider has won the presidential runoff in Colombia for the first time. The tight victory marks a political shift and could trigger new conflicts.",
-      "url": "https://www.dw.com/en/colombia-the-tiger-s-victory-signals-a-rightward-shift/a-77675571?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 23 Jun 2026 16:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Colombia: The 'Tiger's' victory signals a rightward shift"
     },
     {
       "title": "Police officer, passer-by and gunman killed in hotel shoot-out",
@@ -732,17 +729,6 @@
       "is_ticker": false
     },
     {
-      "title": "A red alert over France, and heat that may rewrite the record books",
-      "description": "Millions in France are enduring extreme heat, with temperatures soaring and 40 drowning deaths reported since June 18",
-      "url": "https://abcnews.com/International/wireStory/red-alert-france-heat-rewrite-record-books-134122303",
-      "published": "Tue, 23 Jun 2026 09:38:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "IAEA chief says inspectors will visit nuclear sites under Iran-U.S. interim deal",
       "description": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after the U.S. and Iran offered contradictory remarks about the issue.",
       "url": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
@@ -752,20 +738,6 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Ukraine says major Crimea bridge destroyed in latest attack",
-      "description": "Ukraine continues to hit infrastructure on the Crimea to isolate the Russian-annexed peninsula. Meanwhile, Russia attacked Volodymyr Zelenskyy's hometown with a ballistic missile in a deadly strike.",
-      "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 23 Jun 2026 16:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine says major Crimea bridge destroyed in latest attack"
     },
     {
       "title": "Rubio arrives in UAE with aim to head off Gulf Arab unease over tentative Iran deal",
@@ -836,17 +808,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UN maritime body to begin evacuating sailors as Hormuz toll dispute continues"
-    },
-    {
-      "title": "Armed group in Nigeria kills at least 20 people and exchanges gunfire with police",
-      "description": "Police say an armed group has killed at least 20 people in Nigeria",
-      "url": "https://abcnews.com/International/wireStory/armed-group-nigeria-kills-20-people-exchanges-gunfire-134123492",
-      "published": "Tue, 23 Jun 2026 07:22:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Kenyan authorities to charge students with murder in dorm fire that killed 16 girls",
@@ -963,10 +924,10 @@
       "ticker_label": "💥 Whistleblower investigating Ecuadorian president’s family business was murdered, activists say"
     },
     {
-      "title": "Guinness crowns Canberra town crier as the world's loudest person at 122.4 decibels",
-      "description": "An Australian professional air conditioner cleaner and honorary town crier has been recognized as the world’s loudest person",
-      "url": "https://abcnews.com/International/wireStory/guinness-crowns-canberra-town-crier-worlds-loudest-person-134122713",
-      "published": "Tue, 23 Jun 2026 07:38:25 -0400",
+      "title": "UK, Germany and France express concern over Chinese actions east of Taiwan",
+      "description": "Great Britain, France and Germany have issued a rare joint statement expressing alarm over Chinese activities east of the self-ruled island of Taiwan",
+      "url": "https://abcnews.com/International/wireStory/uk-germany-france-express-concern-chinese-actions-east-134164362",
+      "published": "Wed, 24 Jun 2026 08:45:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -1002,7 +963,7 @@
       "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
       "description": "Brad Lander unseats Dan Goldman in a race that laid bare the city's divisions over the Israel-Gaza war.",
       "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 24 Jun 2026 05:07:55 GMT",
+      "published": "Wed, 24 Jun 2026 13:03:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1018,6 +979,28 @@
       "url": "https://www.bbc.co.uk/news/articles/c0my4n38myjo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 21:57:05 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "World Cup 2026: Full group schedule and top third-round matches to watch",
+      "description": "Remaining group schedule, teams, as well as the best third-round group fixtures at the tournament in North America.",
+      "url": "https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-full-group-schedule-and-top-third-round-matches-to-watch?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 12:36:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "World Cup 2026: Messi, Mbappe, Haaland contest best ever Golden Boot race?",
+      "description": "Lionel Messi leads the way with five goals with Kylian Mbappe and Erling Haaland second with four goals each.",
+      "url": "https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-messi-mbappe-haaland-contest-best-ever-golden-boot-race?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 12:02:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1064,17 +1047,6 @@
       "description": "Here's a look at the viral moments, on-field controversies, the biggest players, best performances, goals and more.",
       "url": "https://www.aljazeera.com/sports/2026/6/24/world-cup-2026-key-takeaways-second-round-group-matches-messi-ronaldo-mbappe-haaland-salah?traffic_source=rss",
       "published": "Wed, 24 Jun 2026 09:23:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Watch World Cup Day 13: Portugal’s Ronaldo breaks record while England draw",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "url": "https://www.aljazeera.com/video/2026/6/24/video-world-cup-2026-highlights?traffic_source=rss",
-      "published": "Wed, 24 Jun 2026 06:00:41 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1162,6 +1134,20 @@
       "is_ticker": false
     },
     {
+      "title": "\"VAR went for coffee\" as England escape punishment against Ghana",
+      "description": "The Black Stars' head coach Carlos Queiroz had strong words about the refereeing after two fowls from the Three Lions went unchecked, and the two sides played out a goalless draw. Meanwhile Colombia qualified for the knockout round beating DR Congo 1-0 and Cristiano Ronaldo became the first player to score in six World Cups.",
+      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260624-var-went-for-coffee-as-england-escape-punishment-against-ghana",
+      "published": "Wed, 24 Jun 2026 12:18:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 \"VAR went for coffee\" as England escape punishment against Ghana"
+    },
+    {
       "title": "All guns blazing as Messi, Mbappé and Haaland lead World Cup Golden Boot race",
       "description": "Just Fontaine has reigned as the World Cup's record scorer at a single tournament since 1958. But with Lionel Messi, Kylian Mbappé and Erling Haaland each piling on the goals for their respective countries, and the likes of Harry Kane and Cristiano Ronaldo in pursuit, the decades-old record is looking vulnerable for the first time.",
       "url": "https://www.france24.com/en/sport/20260624-world-cup-2026-messi-mbappe-haaland-golden-boot-race-kane-ronaldo",
@@ -1189,28 +1175,6 @@
       "url": "https://news.sky.com/story/billionaire-to-invest-in-ocean-protection-as-uk-and-us-scale-back-funding-13556720",
       "published": "Tue, 23 Jun 2026 05:00:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Priced out of World Cup games, Mexican fans take celebrations into their own hands",
-      "description": "Mexicans are reclaiming the FIFA World Cup with street celebrations as high ticket prices keep many out of stadiums",
-      "url": "https://abcnews.com/International/wireStory/priced-world-cup-games-mexican-fans-celebrations-hands-134122189",
-      "published": "Tue, 23 Jun 2026 04:10:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Turkey detains 209 in raids in the capital ahead of July's NATO summit",
-      "description": "Security forces in Turkey have detained over 200 people with suspected links to extremist groups, including the Islamic State",
-      "url": "https://abcnews.com/International/wireStory/turkey-detains-209-raids-capital-ankara-ahead-julys-134122214",
-      "published": "Tue, 23 Jun 2026 08:02:03 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1342,6 +1306,17 @@
       "is_ticker": false
     },
     {
+      "title": "Inside the gold-mining town where the Ebola outbreak likely started",
+      "description": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
+      "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
+      "published": "Wed, 24 Jun 2026 05:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "India news: Protests in northern region Ladakh over talks with Delhi",
       "description": "Businesses in both northern Leh and Kargil districts remained shut to protest the alleged retraction of key constitutional and administrative agreements. Follow DW for more.",
       "url": "https://www.dw.com/en/india-news-protests-in-northern-region-ladakh-over-talks-with-delhi/live-77686712?maca=en-rss-en-all-1573-xml-mrss",
@@ -1378,9 +1353,9 @@
       "ticker_label": "🪖 US: Senate vote calls for an end to Trump's Iran war in rare bipartisan rebuke"
     },
     {
-      "title": "Germany news: Pistorius to scrap warship project",
-      "description": "The Defense Ministry is dropping a multi-billion-euro project to build F126 frigates, media say. Train services have resumed after a communications glitch overnight. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-pistorius-to-scrap-warship-project/live-77684448?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Germany news: Major warship project to be scrapped",
+      "description": "The Defense Ministry is dropping a multi-billion-euro project to build F126 frigates, media say. And train services have resumed after a communications glitch overnight halted Germany's rail network . DW has more.",
+      "url": "https://www.dw.com/en/germany-news-major-warship-project-to-be-scrapped/live-77684448?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 24 Jun 2026 06:21:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1389,18 +1364,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany news: Pistorius to scrap warship project"
-    },
-    {
-      "title": "US, Iran give conflicting claims over Hormuz fees",
-      "description": "US top diplomat Rubio said Washington will not accept tolls on shipping in the Strait of Hormuz. But Iran has said they want to charge \"maritime service fees.\" And Israel and Lebanon are set for talks in the US.",
-      "url": "https://www.dw.com/en/us-iran-give-conflicting-claims-over-hormuz-fees/live-77666574?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 23 Jun 2026 17:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
+      "ticker_label": "🪖 Germany news: Major warship project to be scrapped"
     },
     {
       "title": "US Senate passes symbolic rebuke to Trump over Iran war",
@@ -1426,6 +1390,31 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "US slaps new sanctions on Cuban companies key to island's crumbling economy",
+      "description": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis",
+      "url": "https://abcnews.com/International/wireStory/us-slaps-new-sanctions-cuban-companies-key-islands-134138588",
+      "published": "Tue, 23 Jun 2026 13:18:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Philippines temporarily blocks gaming app used by suspect in deadly school shooting",
+      "description": "Philippine authorities are temporarily blocking an online gaming app after a school shooting",
+      "url": "https://abcnews.com/International/wireStory/philippines-temporarily-blocks-gaming-app-suspect-deadly-school-134126784",
+      "published": "Tue, 23 Jun 2026 08:34:00 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Philippines temporarily blocks gaming app used by suspect in deadly school shooting"
     },
     {
       "title": "New Security Council resolution upholds accountability for attacks against peacekeepers",
@@ -1544,8 +1533,8 @@
       "is_ticker": false
     },
     {
-      "title": "France reports first Ebola case after doctor returning from DR Congo tests positive",
-      "description": "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of Congo (DRC) tested positive.",
+      "title": "France reports first Ebola case",
+      "description": "France has reported its first case of Ebola during the latest outbreak after a doctor returning from the Democratic Republic of the Congo (DRC) tested positive.",
       "url": "https://news.sky.com/story/france-reports-first-ebola-case-after-doctor-returning-from-dr-congo-tests-positive-13556940",
       "published": "Wed, 24 Jun 2026 06:14:00 +0100",
       "source": "Sky News World",
@@ -1613,6 +1602,17 @@
       "is_ticker": false
     },
     {
+      "title": "Is xenophobia in South Africa risking investment?",
+      "description": "Vigilante groups and right-wing populist forces are stoking anti-immigrant sentiment and demanding that they leave the country by June 30. Experts fear serious economic implications for the country and the region.",
+      "url": "https://www.dw.com/en/is-xenophobia-in-south-africa-risking-investment/a-77687020?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 24 Jun 2026 13:08:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Scotland: Sturgeon's ex-husband Peter Murrell jailed for 5 years and 3 months",
       "description": "Peter Murrell pleaded guilty to embezzling funds in his role as chief executive of the Scottish National Party. He held the SNP's purse strings while his then-wife, Nicola Sturgeon, was Scottish First Minister.",
       "url": "https://www.dw.com/en/scotland-sturgeon-s-ex-husband-peter-murrell-jailed-for-5-years-and-3-months/a-77678072?maca=en-rss-en-all-1573-xml-mrss",
@@ -1674,18 +1674,18 @@
       "ticker_label": "💥 Kenya to charge students with murder over deadly school fire"
     },
     {
-      "title": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-      "description": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 23 Jun 2026 16:47:45 GMT",
-      "source": "BBC News",
+      "title": "Japan weighs deploying forces to demine the Strait of Hormuz",
+      "description": "Japan is considering sending its navy to help clear mines in the Strait of Hormuz following the US-Iran ceasefire.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/japan-weighs-deploying-forces-to-demine-the-strait-of-hormuz?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 12:31:35 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli troops kill two in south Lebanon after lull in fighting, authorities say"
+      "ticker_label": "🪖 Japan weighs deploying forces to demine the Strait of Hormuz"
     },
     {
       "title": "Kenya braces for return of Gen Z protests – how did they begin?",
@@ -1713,19 +1713,8 @@
       "ticker_label": "🪖 Ukraine strikes strategic Russian bridge in Crimea"
     },
     {
-      "title": "Power outages in France as Europe bakes in record heat",
-      "description": "Italy declares red heatwave alert in 16 cities, including Rome, as UK prepares for highest ever June temperatures.",
-      "url": "https://www.aljazeera.com/news/2026/6/24/power-outage-in-france-as-europe-bakes-in-record-heat?traffic_source=rss",
-      "published": "Wed, 24 Jun 2026 07:45:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "#Parisians flock to #canal to escape suffocating #heat",
-      "description": "#France is experiencing its worst heatwave in history, with #Paris hitting above 40 degrees celsius on June 23. To help its residents cope with the exceptionally high temperatures, the city has opened an area of the #CanalSaintMartin to swimmers. A successful idea, although residents say more should be done to adapt the city to this type of heat.",
+      "description": "#France is experiencing its worst heatwave in history, with #Paris hitting above 40 degrees Celsius on June 23. To help its residents cope with the exceptionally high temperatures, the city has opened an area of the #CanalSaintMartin to swimmers. A successful idea, although Parisians say more should be done.",
       "url": "https://www.france24.com/en/video/20260624-parisians-flock-to-canal-to-escape-suffocating-heat",
       "published": "Wed, 24 Jun 2026 11:18:33 GMT",
       "source": "France24",
@@ -1832,17 +1821,6 @@
       "is_ticker": false
     },
     {
-      "title": "In the Ebola epicenter, a gold-mining town reacts with fear, disbelief and grit",
-      "description": "NPR reports from Mongbwalu in the Democratic Republic of Congo. The fight to contain the virus faces obstacles from lack of supplies to residents who doubt that the virus is real.",
-      "url": "https://www.npr.org/2026/06/24/nx-s1-5863157/ebola-outbreak-democratic-republic-congo-health-crisis",
-      "published": "Wed, 24 Jun 2026 05:00:00 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Poland, Ukraine: Dispute between two close allies deepens",
       "description": "Polish President Karol Nawrocki last week stripped Ukrainian President Volodymyr Zelenskyy of Poland's highest state honor. How did it come to this? And what has it got to do with next year's election in Poland?",
       "url": "https://www.dw.com/en/poland-ukraine-dispute-between-two-close-allies-deepens/a-77680193?maca=en-rss-en-all-1573-xml-mrss",
@@ -1866,6 +1844,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Rubio kicks off Gulf 'charm offensive' amid allies' fears over US - Iran deal"
+    },
+    {
+      "title": "Leaders of four Central European countries meet in Hungary to reboot regional group",
+      "description": "The leaders of four Central European countries have revived their regional alliance, the Visegrád Four, during a meeting in Hungary",
+      "url": "https://abcnews.com/International/wireStory/leaders-central-european-countries-meet-hungary-reboot-regional-134146477",
+      "published": "Tue, 23 Jun 2026 16:47:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
@@ -1893,7 +1882,7 @@
       "title": "Japan says China has detained 2 of its citizens suspected of smuggling banned items",
       "description": "China has detained two Japanese citizens suspected of smuggling prohibited items, reportedly linked to rare earths",
       "url": "https://abcnews.com/International/wireStory/japan-china-detained-2-citizens-suspected-smuggling-banned-134160212",
-      "published": "Wed, 24 Jun 2026 05:58:30 -0400",
+      "published": "Wed, 24 Jun 2026 06:34:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -2005,6 +1994,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cz0j87vpz79o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 23 Jun 2026 14:19:21 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iranians cautiously optimistic about thorny deal with US",
+      "description": "Iran is watching closely as months of complex negotiations lie ahead amid internal political disputes.",
+      "url": "https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss",
+      "published": "Wed, 24 Jun 2026 12:44:07 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2248,6 +2248,28 @@
       "is_ticker": false
     },
     {
+      "title": "Southeast Asia boost defense ties but avoids firm alliances",
+      "description": "Countries across the region are expanding defense cooperation in ways that change the South China Sea equation but fall short of a new anti-China bloc.",
+      "url": "https://www.dw.com/en/southeast-asia-boost-defense-ties-but-avoids-firm-alliances/a-77689233?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 24 Jun 2026 13:06:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump offers Iran an economic lifeline — with strings",
+      "description": "Iran has seen a speedy rebound in oil exports after the US-Iran deal granted immediate waivers on US sanctions. Relief on frozen assets and a $300 billion reconstruction fund now hinge on Tehran meeting key conditions.",
+      "url": "https://www.dw.com/en/trump-offers-iran-an-economic-lifeline-with-strings/a-77621800?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 24 Jun 2026 12:26:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "North Korean soldier crosses border to South",
       "description": "South Korea's military says it is investigating the soldier's reasons for crossing the inner-Korean border. While dozens of North Koreans flee each year, usually via China, crossing directly south is very rare.",
       "url": "https://www.dw.com/en/north-korean-soldier-crosses-border-to-south/a-77687834?maca=en-rss-en-all-1573-xml-mrss",
@@ -2339,10 +2361,24 @@
       "is_ticker": false
     },
     {
-      "title": "China’s newest aircraft carrier sails through the Taiwan Strait",
-      "description": "China's newest and most powerful aircraft carrier, the Fujian, has sailed through the Taiwan Strait, according to Taiwan's Defense Ministry",
-      "url": "https://abcnews.com/International/wireStory/chinas-newest-aircraft-carrier-sails-taiwan-strait-134133986",
-      "published": "Tue, 23 Jun 2026 11:02:36 -0400",
+      "title": "Ukraine destroys key rail bridge as it aims to 'isolate Crimea'",
+      "description": "Ukraine said its forces destroyed a key railway bridge in Crimea, as it seeks to isolate the Russian-occupied peninsula.",
+      "url": "https://news.sky.com/story/ukraine-destroys-key-rail-bridge-as-fresh-attacks-aim-to-isolate-crimea-13557321",
+      "published": "Wed, 24 Jun 2026 11:05:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Ukraine destroys key rail bridge as it aims to 'isolate Crimea'"
+    },
+    {
+      "title": "Andy Burnham inches closer to power in Britain as Keir Starmer seeks a legacy",
+      "description": "Andy Burnham is closer to becoming Britain’s next prime minister without a contest",
+      "url": "https://abcnews.com/International/wireStory/andy-burnham-inches-closer-power-britain-keir-starmer-134159482",
+      "published": "Wed, 24 Jun 2026 05:46:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2350,10 +2386,10 @@
       "is_ticker": false
     },
     {
-      "title": "Afghan Taliban to hold rare, closed-door talks with EU officials on deportations",
-      "description": "A Taliban delegation is in Brussels for talks with the European Union, focusing on deportations, according to a Taliban official",
-      "url": "https://abcnews.com/International/wireStory/afghan-taliban-hold-rare-closed-door-talks-eu-134123288",
-      "published": "Tue, 23 Jun 2026 06:10:10 -0400",
+      "title": "German railway says outage that halted all trains was caused by scheduled work",
+      "description": "Germany's railway network operator says a late-night communication system outage left trains and travelers stranded around Germany was caused by workers swapping out a component",
+      "url": "https://abcnews.com/International/wireStory/german-railway-outage-halted-trains-caused-scheduled-work-134158974",
+      "published": "Wed, 24 Jun 2026 06:50:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2361,10 +2397,10 @@
       "is_ticker": false
     },
     {
-      "title": "How Starmer went from Labour Party hero to calling it quits within 2 years",
-      "description": "British Prime Minister Keir Starmer has admitted defeat, resigning less than two years after leading his party to a massive victory in 2024",
-      "url": "https://abcnews.com/International/wireStory/starmer-labour-party-hero-calling-quits-2-years-134120804",
-      "published": "Tue, 23 Jun 2026 03:22:09 -0400",
+      "title": "Archaeologists find huge Viking textile production site in Denmark",
+      "description": "Archaeologists say they have discovered a huge Viking Age textile production site in Denmark that dates back more than 1,000 years and underlines the sophistication of Viking society",
+      "url": "https://abcnews.com/International/wireStory/archaeologists-find-huge-viking-textile-production-site-denmark-134157070",
+      "published": "Wed, 24 Jun 2026 01:02:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2376,6 +2412,28 @@
       "description": "In Johannesburg, a correctional facility is transforming perceptions with a gallery showcasing inmates' artwork",
       "url": "https://abcnews.com/International/wireStory/south-african-prisons-open-art-galleries-showcase-inmates-134157098",
       "published": "Wed, 24 Jun 2026 01:09:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "EU observers back Colombia vote count amid challenge to results",
+      "description": "A European Union mission has highlighted the transparency and efficiency of Colombia's presidential election vote count",
+      "url": "https://abcnews.com/International/wireStory/eu-observers-back-colombia-vote-count-amid-challenge-134142196",
+      "published": "Tue, 23 Jun 2026 14:08:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "China’s newest aircraft carrier sails through the Taiwan Strait",
+      "description": "China's newest and most powerful aircraft carrier, the Fujian, has sailed through the Taiwan Strait, according to Taiwan's Defense Ministry",
+      "url": "https://abcnews.com/International/wireStory/chinas-newest-aircraft-carrier-sails-taiwan-strait-134133986",
+      "published": "Tue, 23 Jun 2026 11:02:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2408,54 +2466,10 @@
       "is_ticker": false
     },
     {
-      "title": "German railway says outage that halted all trains was caused by scheduled work",
-      "description": "Germany's railway network operator says a late-night communication system outage left trains and travelers stranded around Germany was caused by workers swapping out a component",
-      "url": "https://abcnews.com/International/wireStory/german-railway-outage-halted-trains-caused-scheduled-work-134158974",
-      "published": "Wed, 24 Jun 2026 06:50:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Lithuanian government steps down after coalition reshuffle",
       "description": "Lithuanian Prime Minister Inga Ruginienė and her cabinet have stepped down after changes to the ruling coalition",
       "url": "https://abcnews.com/International/wireStory/lithuanian-government-steps-after-coalition-reshuffle-134127077",
       "published": "Tue, 23 Jun 2026 09:21:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Archaeologists find huge Viking textile production site in Denmark",
-      "description": "Archaeologists say they have discovered a huge Viking Age textile production site in Denmark that dates back more than 1,000 years and underlines the sophistication of Viking society",
-      "url": "https://abcnews.com/International/wireStory/archaeologists-find-huge-viking-textile-production-site-denmark-134157070",
-      "published": "Wed, 24 Jun 2026 01:02:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Estranged husband of former Scottish leader sentenced to more than 5 years in prison",
-      "description": "The estranged husband of former Scottish First Minister Nicola Sturgeon has been sentenced to five years and three months in prison",
-      "url": "https://abcnews.com/International/wireStory/estranged-husband-former-scottish-leader-sentenced-5-years-134124516",
-      "published": "Tue, 23 Jun 2026 07:53:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Man arrested over collecting human body parts taken from cemeteries, police say",
-      "description": "Police in Hungary have arrested a 30-year-old man for collecting human body parts",
-      "url": "https://abcnews.com/International/wireStory/man-arrested-hungary-collecting-human-body-parts-cemeteries-134124996",
-      "published": "Tue, 23 Jun 2026 08:26:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
