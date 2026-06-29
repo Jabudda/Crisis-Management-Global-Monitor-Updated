@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T21:35:51.262094Z",
+  "last_updated": "2026-06-29T22:29:06.990788Z",
   "event_count": 220,
   "events": [
     {
@@ -263,6 +263,17 @@
       "ticker_label": "🪖 Israel moves to formally recognize Armenian WWI deaths as a genocide"
     },
     {
+      "title": "Monaco explosion leaves three wounded as authorities probe deliberate attack",
+      "description": "Three people were wounded in an explosion at a residential building in Monaco on Monday in what authorities said was a deliberate attack. The blast occurred around 9 p.m. (1900 GMT) on a street near the French border. Minister of State Christophe Mirmand said the explosion was \"very likely an attack,\" AFP reported.",
+      "url": "https://www.france24.com/en/europe/20260629-monaco-residential-building-explosion-deliberate-attack",
+      "published": "Mon, 29 Jun 2026 21:35:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
       "description": "Israel’s Cabinet has approved a proposal to designate the violence against Armenians by the Ottoman Empire during World War I as genocide",
       "url": "https://abcnews.com/International/wireStory/israel-moves-formally-recognize-armenian-wwi-deaths-genocide-134289492",
@@ -375,15 +386,18 @@
       "ticker_label": "🪖 Pakistani airstrikes kill dozens of civilians in Afghanistan, officials say"
     },
     {
-      "title": "Pakistan's military says 3 soldiers killed in militant attack",
-      "description": "Pakistan’s military says three paramilitary soldiers were killed and four others wounded in fighting after militants launched an overnight attack on a Rangers regional headquarters in the southern port city of Karachi",
-      "url": "https://abcnews.com/International/wireStory/pakistans-military-3-soldiers-killed-militant-attack-karachi-134285782",
-      "published": "Sun, 28 Jun 2026 02:59:07 -0400",
+      "title": "Zelenskyy condemns 'horrific attacks' as Russian strikes kill 11, wound 40 in Ukraine",
+      "description": "Ukrainian President Volodymyr Zelenskyy says Russian missiles and drones have killed at least 11 civilians and injured 40 others",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-condemns-horrific-attacks-russian-strikes-kill-8-134305252",
+      "published": "Mon, 29 Jun 2026 13:04:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelenskyy condemns 'horrific attacks' as Russian strikes kill 11, wound 40 in Ukraine"
     },
     {
       "title": "Europe's heatwave linked to 1,300 deaths, WHO says, as Germany hits record 41.7C",
@@ -450,6 +464,20 @@
       "ticker_label": "🚨 Chicago bloodshed leaves 3 dead, 15 shot days after Mayor Johnson launches new gun violence office"
     },
     {
+      "title": "Venezuela's deadly quakes put its U.S.-backed government to the test",
+      "description": "Venezuela's La Guaira state bore the brunt of the earthquake damage, bringing memories of a 1999 disaster that became President Hugo Chávez's first major test. Now, it's the acting leader's challenge.",
+      "url": "https://www.npr.org/2026/06/29/nx-s1-5873975/venezuelan-quake-tests-government",
+      "published": "Mon, 29 Jun 2026 16:19:02 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Venezuela's deadly quakes put its U.S.-backed government to the test"
+    },
+    {
       "title": "Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like",
       "description": "NPR's Leila Fadel asks former national security adviser and 2015 Iran deal negotiator Jake Sullivan about ceasefire talks amid new strikes by the U.S. and Iran.",
       "url": "https://www.npr.org/2026/06/29/nx-s1-5873990/us-iran-ceasefire-new-normal-gulf-flareups",
@@ -462,6 +490,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Former Iran nuclear deal negotiator on what U.S.-Iran 'new normal' looks like"
+    },
+    {
+      "title": "'Architecture, city design a frontline of defense' against heatwaves, expert says",
+      "description": "FRANCE 24's Sharon Gaffney discusses cooling solutions in urban environments with Ronita Bardhan, Professor of Sustainable Built Environment and Health at the University of Cambridge. She says that \"ultimately architecture and city design is becoming more of a public health infrastructure frontline of defense in this warming world\". The record-breaking heatwave in Europe has caused more than 1,300 excess deaths, according to the WHO.",
+      "url": "https://www.france24.com/en/tv-shows/a-propos/20260629-architecture-city-design-a-frontline-of-defense-against-heatwaves-expert-says",
+      "published": "Mon, 29 Jun 2026 21:32:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'Architecture, city design a frontline of defense' against heatwaves, expert says"
     },
     {
       "title": "South Africa braces for anti-migrant protests",
@@ -601,6 +643,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Senegal president Faye to call referendum on constitutional reform limiting his powers"
+    },
+    {
+      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+      "description": "Afghan officials say overnight strikes by Pakistani forces have killed at least 36 civilians and injured more than 160",
+      "url": "https://abcnews.com/International/wireStory/pakistani-airstrikes-kill-36-civilians-afghanistan-wound-160-134300449",
+      "published": "Mon, 29 Jun 2026 06:50:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say"
     },
     {
       "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
@@ -770,6 +826,20 @@
       "ticker_label": "🪖 Sudan: Window is closing to prevent wider escalation in El Obeid"
     },
     {
+      "title": "Gunman kills 6 at youth welfare facility in suspected child custody dispute: reports",
+      "description": "German President Frank-Walter Steinmeier said he was \"deeply shocked\" after six people were killed in a shooting at a facility housing mothers and children.",
+      "url": "https://www.foxnews.com/world/gunman-kills-6-youth-welfare-facility-suspected-child-custody-dispute-reports",
+      "published": "Mon, 29 Jun 2026 17:42:36 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Gunman kills 6 at youth welfare facility in suspected child custody dispute: reports"
+    },
+    {
       "title": "Ukraine launches what appears to be one of its largest drone attacks against Russia: report",
       "description": "Ukraine launched a massive drone attack against Russia as the brutal, years-long war between the two European countries continues to drag on.",
       "url": "https://www.foxnews.com/world/ukraine-launches-largest-drone-attacks-russia-report",
@@ -870,18 +940,18 @@
       "is_ticker": false
     },
     {
-      "title": "Afghan families mourn loved ones as border tensions with Pakistan rise",
-      "description": "Afghan officials say Pakistani attacks killed at least 36 civilians, while Pakistan says its forces killed 29 fighters.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/afghan-families-mourn-loved-ones-as-border-tensions-with-pakistan-rise?traffic_source=rss",
-      "published": "Mon, 29 Jun 2026 16:15:35 +0000",
-      "source": "Al Jazeera",
+      "title": "Australia politics live: McIntosh doubles down on call for Liberal ‘rebrand’; PM backs Hogan on Hanson",
+      "description": "Meanwhile Anthony Albanese says tax reforms ‘make system fairer’ and tells 7.30 the housing market was ‘broken’. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rates, and forecasts that house prices in Sydney and Melbourne could fall more than $100,000. Auction clearance rates in Brisbane came up on the weekend, if you compare the preliminary numbers from the week before. They also came up in Adelaide. They came up nationally in aggregate, as I understand it. But in Sydney and Melbourne, we saw some softness there, that actually predated the budget announcements. It doesn’t make a lot of sense to replace one big distortion that Howard and Costello introduced when they made that big policy mistake in 1999 and ruined the housing market for too many people, especially young people; [it] doesn’t make sense to replace that big distortion with another big distortion. And so we’re applying this CGT discount – there’s still a discount, just calculated differently to reflect real gains – we’re applying it fairly and neutrally across the board so that we don’t introduce another big distortion and repeat the mistakes. Some people think that we’re stuck in the past and our policies need to resonate with the Australia of today and the future. So I think it’d be a really good time for us to revisit our values. If things aren’t resonating, and if people are actually latching on to our policies and believing in that, but they’re not wanting to vote for us, then maybe we need to do something about the brand, I want us to have more cut-through on our policies. I worked for John Howard back in the day, and my patch, we were the Howard battlers, we’re the Menzies Forgotten people, and we’re Tony Tradie. So we are pretty much the heartland of Australia. And when the heartland of Australia tells you that you need to get more cut-through to get more voters on your side, then you need to listen to the people. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
+      "published": "Mon, 29 Jun 2026 22:19:39 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Afghan families mourn loved ones as border tensions with Pakistan rise"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Australia politics live: McIntosh doubles down on call for Liberal ‘rebrand’; PM backs Hogan on Hanson"
     },
     {
       "title": "Venezuela quake death toll rises to 1,719, more than 5,000 injured",
@@ -1003,20 +1073,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia politics live: Anthony Albanese says tax reforms ‘make system fairer’ and backs Paul Hogan on Pauline Hanson",
-      "description": "The prime minister tells 7.30 the housing market was ‘broken’. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalmers won’t commit to giving workers under 18 superannuation Jim Chalmers won’t heed the call from advocates including the Australian Council of Trade Unions and the Greens, to guarantee superannuation payments for workers under the age of 18. This is a really important issue. I actually met with a delegation of young workers about this last week. We are always looking for ways to strengthen the superannuation system to make is deliver for more workers. We’ve indicated a willingness to continue to engage with young people, with unions, with the super sectors, but what the next set of changes may be. For us the focus is pay day super because it comes in from tomorrow. This is a really important warning from the ACCC because we want to make sure that every cent of the government’s fuel excise cut is passed on to motorists who need this extra bit of relief. It’s been really terrific to see petrol prices and diesel prices come down very substantially in recent months. In fact, this week, we think for the first time, both petrol and diesel is cheaper than it was before the war in the Middle East began. But people are still under pressure. That’s why we’re extending this fuel price relief, this petrol and diesel tax cut for another month, at a tapered rate. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
-      "published": "Mon, 29 Jun 2026 21:17:17 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Australia politics live: Anthony Albanese says tax reforms ‘make system fairer’ and backs Paul Hogan on Pauline Hanson"
-    },
-    {
       "title": "American Airlines flight aborts Miami takeoff after business jet enters runway",
       "description": "American Airlines Flight 308 aborted takeoff at Miami International Airport after a business jet crossed the active runway in a frightening near miss.",
       "url": "https://www.foxnews.com/us/american-airlines-flight-aborts-miami-takeoff-business-jet-enters-runway",
@@ -1134,6 +1190,20 @@
       "is_ticker": false
     },
     {
+      "title": "Venezuela earthquake victims shelter at golf course",
+      "description": "Hundreds of Venezuelans are sheltering at a golf course in La Guaira after last week's deadly earthquakes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/venezuela-earthquake-victims-shelter-at-golf-course?traffic_source=rss",
+      "published": "Mon, 29 Jun 2026 21:27:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Venezuela earthquake victims shelter at golf course"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1242,28 +1312,6 @@
       "is_ticker": false
     },
     {
-      "title": "French hospitals 'better prepared': 'Important lessons learned from deadly 2003 heatwave'",
-      "description": "Nadia Massih is pleased to welcome Dr. Antoine Flahault, Epidemiologist, Researcher, and Professor at Université Paris Cité - Hospital Bichat. France's latest heatwave has once again exposed healthcare systems were largely designed for another era. While the immediate focus often falls on soaring temperatures and overcrowded emergency departments, Dr. Flahault argues that the deeper issue is institutional adaptation. He suggests that France has learned important lessons since the deadly 2003 heatwave, with hospitals adopting better clinical practices and emergency planning. Yet as heatwaves become more frequent and intense, protecting vulnerable populations will increasingly require structural investment, particularly widespread access to air conditioning in hospitals, care homes, schools and, for those most at risk, private homes.",
-      "url": "https://www.france24.com/en/video/20260629-french-hospitals-better-prepared-important-lessons-learned-from-deadly-2003-heatwave-1",
-      "published": "Mon, 29 Jun 2026 14:47:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel slams UN report as 'political blood libel' for alleging deliberate targeting of Palestinian children",
-      "description": "Israel's U.N. ambassador and analysts slam a new report alleging the deliberate targeting of Palestinian children, calling it a biased political attack.",
-      "url": "https://www.foxnews.com/world/israel-slams-un-report-political-blood-libel-alleging-deliberate-targeting-palestinian-children",
-      "published": "Thu, 25 Jun 2026 06:13:37 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
       "description": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
       "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
@@ -1276,6 +1324,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US says it has agreed to 'stand down' after exchange of strikes with Iran"
+    },
+    {
+      "title": "LIVE: Netherlands vs Morocco – FIFA World Cup 2026",
+      "description": "Follow the updates, with live build-up, team news coverage, and our text commentary stream of the last-32 match.",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/29/live-netherlands-vs-morocco-fifa-world-cup-2026?traffic_source=rss",
+      "published": "Mon, 29 Jun 2026 21:35:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Martinelli scores late as Brazil beat Japan 2-1, into World Cup last 16",
@@ -1316,17 +1375,6 @@
       "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
       "published": "Mon, 29 Jun 2026 12:09:00 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Trade tensions shake up Brazil's caipirinha spirit",
-      "description": "U.S. tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.",
-      "url": "https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe",
-      "published": "Sun, 28 Jun 2026 11:45:42 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1394,6 +1442,17 @@
       "ticker_label": "🪖 Trump's final appeal of E Jean Carroll sex abuse case rejected"
     },
     {
+      "title": "Lilo & Stitch star Daveigh Chase's cause of death was Aids",
+      "description": "The actress, who also crawled out of a TV in horror film The Ring, passed away in LA this month, aged 35.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 29 Jun 2026 21:21:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards",
       "description": "Taylor had an emotional reaction to being presented with the Icon of the Year award by Janet Jackson.",
       "url": "https://www.bbc.co.uk/news/articles/cpd3y6lv819o?at_medium=RSS&at_campaign=rss",
@@ -1406,6 +1465,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Teyana Taylor's tears and Lauryn Hill tribute steal show at BET Awards"
+    },
+    {
+      "title": "Marco Rubio meets Libyan commander as US pushes to resolve Libya crisis",
+      "description": "The US top diplomat commends Libyan leaders' efforts to 'overcome divisions' after talks with LNA's Saddam Haftar.",
+      "url": "https://www.aljazeera.com/news/2026/6/29/marco-rubio-meets-libyan-commander-as-us-pushes-to-resolve-libya-crisis?traffic_source=rss",
+      "published": "Mon, 29 Jun 2026 21:30:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Israeli attacks kill eight people in Gaza and a teenager in the West Bank",
@@ -1503,20 +1573,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Shooting in northern Germany leaves 6 people dead. Suspected shooter arrested"
-    },
-    {
-      "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-      "description": "The White House has soured on Israel’s war with Hezbollah in Lebanon",
-      "url": "https://abcnews.com/International/wireStory/trump-presses-syria-hezbollah-raising-alarm-lebanon-israel-134286496",
-      "published": "Sun, 28 Jun 2026 06:59:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel"
     },
     {
       "title": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
@@ -1660,6 +1716,17 @@
       "url": "https://www.theguardian.com/global-development/2026/jun/26/woman-sadia-moalim-ali-three-year-jail-sentence-somalia-online-comments-governement",
       "published": "Fri, 26 Jun 2026 10:00:14 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Senegalese lawmakers pass divisive reform curbing presidential powers",
+      "description": "Senegal's National Assembly has adopted a controversial constitutional amendment that expands its role and reduces presidential powers",
+      "url": "https://abcnews.com/International/wireStory/senegalese-lawmakers-pass-divisive-reform-curbing-presidential-powers-134316484",
+      "published": "Mon, 29 Jun 2026 14:19:58 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1862,11 +1929,11 @@
       "is_ticker": false
     },
     {
-      "title": "Jazz à Vienne celebrates late Miles Davis for 45th edition",
-      "description": "In this edition of arts24, Marjorie Hache is in the town of Vienne in southeastern France, where the 45th edition of \"Jazz à Vienne\" is taking place. Headliners include the likes of Jon Batiste, Marcus Miller, Buena Vista Social Club and Jeff Mills. The festival is also shining a spotlight on late jazz legend Miles Davis, 100 years since his birth. The American musician played at the festival four times during his life and left a lasting mark on the town. Marjorie also shares one of her festival highlights: Cameroonian band Akutuk's concert in a swimming pool in an ode to their ancestral links with water. She also chats with New Orleans trumpeter James Andrews, who is transforming the streets of Vienne into a giant parade.",
-      "url": "https://www.france24.com/en/tv-shows/arts24/20260629-jazz-%C3%A0-vienne-celebrates-late-miles-davis-for-45th-edition",
-      "published": "Mon, 29 Jun 2026 15:01:54 GMT",
-      "source": "France24",
+      "title": "Heat forces yodelers at annual Swiss festival to sing in fountains",
+      "description": "Yodelers at a festival in Basel, Switzerland, turned city fountains into rehearsal spaces during Europe’s June heat wave",
+      "url": "https://abcnews.com/International/wireStory/heat-forces-yodelers-annual-swiss-festival-sing-fountains-134314760",
+      "published": "Mon, 29 Jun 2026 13:02:50 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -1907,20 +1974,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "The Ring and Lilo & Stitch actress Daveigh Chase died of Aids",
-      "description": "Substance abuse was listed as another significant condition the former child star was experiencing.",
-      "url": "https://www.bbc.co.uk/news/articles/cx2xyx1qjnyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 29 Jun 2026 21:21:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 The Ring and Lilo & Stitch actress Daveigh Chase died of Aids"
     },
     {
       "title": "Indian journalists condemn 'denial' of voting and passport rights of prominent editor",
@@ -2037,28 +2090,6 @@
       "description": "Beasley, Davis and an NBA agent are among six defendants indicted on charges related to alleged sports betting plot.",
       "url": "https://www.aljazeera.com/sports/2026/6/29/ex-nba-players-malik-beasley-ed-davis-indicted-in-gambling-case?traffic_source=rss",
       "published": "Mon, 29 Jun 2026 16:38:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US petrol prices ease despite ongoing uncertainties with Iran",
-      "description": "US–Iran peace talks ease market volatility, but uncertainty keeps oil prices hovering, complicating recovery efforts.",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
-      "published": "Mon, 29 Jun 2026 16:01:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US Supreme Court rebuffs Trump’s appeal in E Jean Carroll case",
-      "description": "The US Supreme Court has rejected a push by President Trump to throw out a jury's findings of sexual assault.",
-      "url": "https://www.aljazeera.com/news/2026/6/29/us-supreme-court-rebuffs-trumps-appeal-in-e-jean-carroll-case?traffic_source=rss",
-      "published": "Mon, 29 Jun 2026 15:59:52 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2234,7 +2265,7 @@
       "title": "M 7.5 - 28 km SE of Yumare, Venezuela",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-06-24 22:05:11 UTC 2026-06-24 22:05:11 UTC at epicenter Location 10.435°N 68.472°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000t7zp",
-      "published": "2026-06-29T20:42:58.275Z",
+      "published": "2026-06-29T22:18:52.260Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2399,6 +2430,17 @@
       "is_ticker": false
     },
     {
+      "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
+      "description": "Peru's conservative president-elect Keiko Fujimori pledged on Monday to restore \"order and hope\" after narrowly defeating left-wing rival Roberto Sanchez in a presidential run-off dominated by surging crime. Fujimori, declared the winner of the June 7 election, said on X Peru was moving closer to \"the path of order and hope\" for all citizens.",
+      "url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory",
+      "published": "Mon, 29 Jun 2026 22:04:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "South Korea bets big on AI with nearly a trillion dollars in investment",
       "description": "South Korea bets big on AI with nearly a trillion dollars worth of investment through 2029. Comcast announces it will spin off NBCUniversal into a separate, publicly traded company. And, France takes aim at Shein, Temu and AliExpress with a new law.",
       "url": "https://www.france24.com/en/south-korea-bets-big-on-ai-with-nearly-a-trillion-dollars-of-investment",
@@ -2432,17 +2474,6 @@
       "is_ticker": false
     },
     {
-      "title": "French parliament passes fast fashion bill targeting Shein and Temu",
-      "description": "The French parliament on Monday passed a bill aimed at curbing the rise of fast fashion, targeting major Asian e-commerce platforms such as Shein and Temu.",
-      "url": "https://www.france24.com/en/france/20260629-french-parliament-passes-fast-fashion-bill-targeting-shein-and-temu",
-      "published": "Mon, 29 Jun 2026 15:37:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Man charged with murder after girl's body found in suitcase in Thailand",
       "description": "An Australian man has been charged with the murder of a teenage girl in Thailand after her body was found in a suitcase by police on Saturday.",
       "url": "https://news.sky.com/story/man-charged-with-murder-after-girls-body-found-in-suitcase-in-thailand-13558757",
@@ -2454,43 +2485,10 @@
       "is_ticker": false
     },
     {
-      "title": "Iraqi officials, including lawmakers, arrested on corruption charges",
-      "description": "Iraqi political officials have been arrested on corruption charges",
-      "url": "https://abcnews.com/International/wireStory/iraqi-officials-including-lawmakers-arrested-corruption-charges-overnight-134285889",
-      "published": "Sun, 28 Jun 2026 16:26:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
-      "description": "A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies",
-      "url": "https://abcnews.com/International/wireStory/europes-record-heat-overwhelmed-paris-mortuaries-left-families-134300107",
-      "published": "Mon, 29 Jun 2026 02:34:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ugandan army chief orders the closure of a major news platform",
-      "description": "Uganda's military chief and son of President Yoweri Museveni has ordered the shutdown of a major news organization",
-      "url": "https://abcnews.com/International/wireStory/ugandan-army-chief-orders-closure-major-news-platform-134286328",
-      "published": "Sun, 28 Jun 2026 08:10:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A Chinese dissident recounts his perilous dinghy escape to South Korea and how he got to Canada",
-      "description": "Chinese dissident Dong Guangping has finally reached Canada after a perilous escape from China",
-      "url": "https://abcnews.com/International/wireStory/chinese-dissident-recounts-perilous-dinghy-escape-south-korea-134299867",
-      "published": "Mon, 29 Jun 2026 06:49:55 -0400",
+      "title": "High-profile politician in Haiti accused of corruption meets with judge for interview",
+      "description": "A former ambassador and member of Haiti’s since-dissolved transitional presidential council has appeared in court for an interview with a judge to face corruption charges",
+      "url": "https://abcnews.com/International/wireStory/high-profile-politician-haiti-accused-corruption-meets-judge-134318486",
+      "published": "Mon, 29 Jun 2026 14:35:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2509,28 +2507,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia to double potential fines for Facebook and Instagram over child social media accounts",
-      "description": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts",
-      "url": "https://abcnews.com/International/wireStory/australia-double-potential-fines-facebook-instagram-child-social-134299301",
-      "published": "Mon, 29 Jun 2026 03:54:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "China imposes export controls on 40 Japanese entities as tensions with Tokyo rise",
-      "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
-      "url": "https://abcnews.com/International/wireStory/china-imposes-export-controls-40-japanese-entities-tensions-134300236",
-      "published": "Mon, 29 Jun 2026 06:41:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Malaysia extends search for MH370 for another year, keeping families’ hopes alive",
       "description": "Malaysia has extended its contract with Ocean Infinity for another year to search for wreckage of Malaysia Airlines flight 370",
       "url": "https://abcnews.com/International/wireStory/malaysia-extends-search-mh370-year-keeping-families-hopes-134301629",
@@ -2542,10 +2518,10 @@
       "is_ticker": false
     },
     {
-      "title": "Milei's top aide and Cabinet chief resigns over spiraling corruption scandal",
-      "description": "Argentine President Javier Milei’s Cabinet chief and close ally, Manuel Adorni, has resigned following a corruption scandal that has roiled the government, undermining its flagship campaign pledge to stamp out endemic graft in the political elite",
-      "url": "https://abcnews.com/International/wireStory/mileis-top-aide-cabinet-chief-resigns-spiraling-corruption-134282465",
-      "published": "Sun, 28 Jun 2026 01:16:58 -0400",
+      "title": "Thai airline employee arrested in Australia on suspicion of importing heroin",
+      "description": "Australian police have arrested a Thai airline employee for allegedly importing over a kilogram of heroin into Melbourne",
+      "url": "https://abcnews.com/International/wireStory/thai-airline-employee-arrested-australia-suspicion-importing-heroin-134301180",
+      "published": "Mon, 29 Jun 2026 06:49:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2564,10 +2540,43 @@
       "is_ticker": false
     },
     {
-      "title": "High-profile politician in Haiti accused of corruption meets with judge for interview",
-      "description": "A former ambassador and member of Haiti’s since-dissolved transitional presidential council has appeared in court for an interview with a judge to face corruption charges",
-      "url": "https://abcnews.com/International/wireStory/high-profile-politician-haiti-accused-corruption-meets-judge-134318486",
-      "published": "Mon, 29 Jun 2026 14:35:54 -0400",
+      "title": "China imposes export controls on 40 Japanese entities as tensions with Tokyo rise",
+      "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
+      "url": "https://abcnews.com/International/wireStory/china-imposes-export-controls-40-japanese-entities-tensions-134300236",
+      "published": "Mon, 29 Jun 2026 06:41:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
+      "description": "A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies",
+      "url": "https://abcnews.com/International/wireStory/europes-record-heat-overwhelmed-paris-mortuaries-left-families-134300107",
+      "published": "Mon, 29 Jun 2026 02:34:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "A Chinese dissident recounts his perilous dinghy escape to South Korea and how he got to Canada",
+      "description": "Chinese dissident Dong Guangping has finally reached Canada after a perilous escape from China",
+      "url": "https://abcnews.com/International/wireStory/chinese-dissident-recounts-perilous-dinghy-escape-south-korea-134299867",
+      "published": "Mon, 29 Jun 2026 06:49:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia to double potential fines for Facebook and Instagram over child social media accounts",
+      "description": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts",
+      "url": "https://abcnews.com/International/wireStory/australia-double-potential-fines-facebook-instagram-child-social-134299301",
+      "published": "Mon, 29 Jun 2026 03:54:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
