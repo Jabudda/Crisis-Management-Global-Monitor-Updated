@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29T23:27:27.647745Z",
+  "last_updated": "2026-06-29T23:53:23.790892Z",
   "event_count": 220,
   "events": [
     {
@@ -224,17 +224,6 @@
       "ticker_label": "🌪️ Venezuelan earthquake death toll hits at least 920 as US rescuers race against critical survival window"
     },
     {
-      "title": "South Africa: Thousands of foreigners flee ahead of anti-immigration 'deadline'",
-      "description": "Anti-#immigration groups in #SouthAfrica have set a 'deadline': by June 30 all undocumented immigrants must have left the country, or groups will 'shut the country down'. The weeks up to the 'deadline' have been marred by xenophobic violence, from attacks on foreign-owned businesses to #immigrants killed during #protests. Demonstrators accuse them, without evidence, of stealing jobs - despite them representing about 4% of the population -, collapsing public services and #crime.",
-      "url": "https://www.france24.com/en/video/20260629-south-africa-thousands-of-foreigners-flee-ahead-of-anti-immigration-deadline",
-      "published": "Mon, 29 Jun 2026 16:27:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Israel moves to formally recognize Armenian WWI deaths as a genocide",
       "description": "Israel's Cabinet approved a proposal to designate violence against Armenians by the Ottoman Empire during World War I as a genocide. The step reflects deteriorating ties between Israel and Turkey.",
       "url": "https://www.npr.org/2026/06/29/g-s1-130772/israel-armenian-wwi-deaths-genocide",
@@ -372,15 +361,18 @@
       "ticker_label": "🪖 Pakistani airstrikes kill dozens of civilians in Afghanistan, officials say"
     },
     {
-      "title": "Pakistan's military says 3 soldiers killed in militant attack",
-      "description": "Pakistan’s military says three paramilitary soldiers were killed and four others wounded in fighting after militants launched an overnight attack on a Rangers regional headquarters in the southern port city of Karachi",
-      "url": "https://abcnews.com/International/wireStory/pakistans-military-3-soldiers-killed-militant-attack-karachi-134285782",
-      "published": "Sun, 28 Jun 2026 02:59:07 -0400",
+      "title": "Zelenskyy condemns 'horrific attacks' as Russian strikes kill 11, wound 40 in Ukraine",
+      "description": "Ukrainian President Volodymyr Zelenskyy says Russian missiles and drones have killed at least 11 civilians and injured 40 others",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-condemns-horrific-attacks-russian-strikes-kill-8-134305252",
+      "published": "Mon, 29 Jun 2026 13:04:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelenskyy condemns 'horrific attacks' as Russian strikes kill 11, wound 40 in Ukraine"
     },
     {
       "title": "New Mexico governor demands federal reparations after accusing DEA of fueling state's fentanyl crisis",
@@ -528,6 +520,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone",
+      "description": "Two people were killed and several others were injured after an Israeli strike hit the Mawasi area of Khan Younis, Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/29/israeli-strike-kills-two-setting-tents-ablaze-in-gaza-humanitarian-zone?traffic_source=rss",
+      "published": "Mon, 29 Jun 2026 23:29:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strike kills two, setting tents ablaze in Gaza humanitarian zone"
+    },
+    {
       "title": "Deadly heatwave grips Italy and Balkans as wildfire fears grow",
       "description": "Older people remain most at risk as the heatwave drives up excess deaths across Europe.",
       "url": "https://www.aljazeera.com/news/2026/6/29/deadly-heatwave-grips-italy-and-balkans-as-wildfire-fears-grow?traffic_source=rss",
@@ -642,18 +648,18 @@
       "is_ticker": false
     },
     {
-      "title": "Senegal president Faye to call referendum on constitutional reform limiting his powers",
-      "description": "Senegal's President Bassirou Diomaye Faye will call a referendum on a proposed constitutional amendment that would strengthen the power of parliament and the prime minister, the country's justice minister said Monday. The country's National Assembly overwhelmingly backed the reform in a vote earlier in the day that saw roughly 50 opposition protesters attempt to storm the building.",
-      "url": "https://www.france24.com/en/africa/20260629-senegal-president-faye-to-call-referendum-on-constitutional-reform-limiting-his-powers",
-      "published": "Mon, 29 Jun 2026 15:57:40 GMT",
-      "source": "France24",
+      "title": "Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say",
+      "description": "Afghan officials say overnight strikes by Pakistani forces have killed at least 36 civilians and injured more than 160",
+      "url": "https://abcnews.com/International/wireStory/pakistani-airstrikes-kill-36-civilians-afghanistan-wound-160-134300449",
+      "published": "Mon, 29 Jun 2026 06:50:01 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Senegal president Faye to call referendum on constitutional reform limiting his powers"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Pakistani airstrikes kill 36 civilians in Afghanistan and wound 160, officials say"
     },
     {
       "title": "UN details humanitarian toll of strikes on Ukrainian power industry",
@@ -876,17 +882,6 @@
       "ticker_label": "🪖 Art biennial Manifesta revives Germany's postwar churches"
     },
     {
-      "title": "World Cup 2026: Martinelli to the rescue as Brazil down Japan in last-32 thriller",
-      "description": "Five-time champions Brazil survived an early World Cup scare when they fought back from a goal down at half-time to beat a stubborn Japan 2-1 in Houston. Substitute Gabriel Martinelli squeezed in a shot at the far post deep in stoppage time to break Japanese hearts and send Brazil to the last 16.",
-      "url": "https://www.france24.com/en/sport/20260629-brazil-vs-japan-live-selecao-take-on-world-cup-dark-horses-samurai-blue-for-place-in-last-16",
-      "published": "Mon, 29 Jun 2026 16:05:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "A rights group warns Vietnam is ramping up arrests under broad laws to crush dissent",
       "description": "A rights group is warning that Vietnam is increasingly using broadly worded laws to arrest activists, dissidents and others seen as threats to Communist Party rule",
       "url": "https://abcnews.com/International/wireStory/rights-group-warns-vietnam-ramping-arrests-broad-laws-134298160",
@@ -937,10 +932,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia politics live: McIntosh doubles down on call for Liberal ‘rebrand’; PM backs Hogan on Hanson",
-      "description": "Meanwhile Anthony Albanese says tax reforms ‘make system fairer’ and tells 7.30 the housing market was ‘broken’. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rates, and forecasts that house prices in Sydney and Melbourne could fall more than $100,000. Auction clearance rates in Brisbane came up on the weekend, if you compare the preliminary numbers from the week before. They also came up in Adelaide. They came up nationally in aggregate, as I understand it. But in Sydney and Melbourne, we saw some softness there, that actually predated the budget announcements. It doesn’t make a lot of sense to replace one big distortion that Howard and Costello introduced when they made that big policy mistake in 1999 and ruined the housing market for too many people, especially young people; [it] doesn’t make sense to replace that big distortion with another big distortion. And so we’re applying this CGT discount – there’s still a discount, just calculated differently to reflect real gains – we’re applying it fairly and neutrally across the board so that we don’t introduce another big distortion and repeat the mistakes. Some people think that we’re stuck in the past and our policies need to resonate with the Australia of today and the future. So I think it’d be a really good time for us to revisit our values. If things aren’t resonating, and if people are actually latching on to our policies and believing in that, but they’re not wanting to vote for us, then maybe we need to do something about the brand, I want us to have more cut-through on our policies. I worked for John Howard back in the day, and my patch, we were the Howard battlers, we’re the Menzies Forgotten people, and we’re Tony Tradie. So we are pretty much the heartland of Australia. And when the heartland of Australia tells you that you need to get more cut-through to get more voters on your side, then you need to listen to the people. Continue reading...",
+      "title": "Australia politics live: Geoffrey Watson criticises ‘silly’ call to pause Victorian big build projects over corruption",
+      "description": "McIntosh doubles down on call for Liberal ‘rebrand’. Follow today’s news live Get our breaking news email , free app or daily news podcast Chalmers defends house price forecasts The government has been facing some heat over the cooling house market around Australia with falling auction clearance rates, and forecasts that house prices in Sydney and Melbourne could fall more than $100,000. Auction clearance rates in Brisbane came up on the weekend, if you compare the preliminary numbers from the week before. They also came up in Adelaide. They came up nationally in aggregate, as I understand it. But in Sydney and Melbourne, we saw some softness there, that actually predated the budget announcements. It doesn’t make a lot of sense to replace one big distortion that Howard and Costello introduced when they made that big policy mistake in 1999 and ruined the housing market for too many people, especially young people; [it] doesn’t make sense to replace that big distortion with another big distortion. And so we’re applying this CGT discount – there’s still a discount, just calculated differently to reflect real gains – we’re applying it fairly and neutrally across the board so that we don’t introduce another big distortion and repeat the mistakes. Some people think that we’re stuck in the past and our policies need to resonate with the Australia of today and the future. So I think it’d be a really good time for us to revisit our values. If things aren’t resonating, and if people are actually latching on to our policies and believing in that, but they’re not wanting to vote for us, then maybe we need to do something about the brand, I want us to have more cut-through on our policies. I worked for John Howard back in the day, and my patch, we were the Howard battlers, we’re the Menzies Forgotten people, and we’re Tony Tradie. So we are pretty much the heartland of Australia. And when the heartland of Australia tells you that you need to get more cut-through to get more voters on your side, then you need to listen to the people. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/30/australia-politics-live-anthony-albanese-tax-reform-pauline-hanson-one-nation-multiculturalism-question-time-angus-taylor-coalition-royal-commission-ntwnfb",
-      "published": "Mon, 29 Jun 2026 23:19:04 GMT",
+      "published": "Mon, 29 Jun 2026 23:46:36 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -948,7 +943,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Australia politics live: McIntosh doubles down on call for Liberal ‘rebrand’; PM backs Hogan on Hanson"
+      "ticker_label": "🪖 Australia politics live: Geoffrey Watson criticises ‘silly’ call to pause Victorian big build projects over corruption"
     },
     {
       "title": "Venezuela quake death toll rises to 1,719, more than 5,000 injured",
@@ -1323,6 +1318,17 @@
       "ticker_label": "🪖 US says it has agreed to 'stand down' after exchange of strikes with Iran"
     },
     {
+      "title": "Paraguay shock Germany in shootout win for one of all-time World Cup upsets",
+      "description": "Germany lose on penalties to Paraguay after a 1-1 draw in their FIFA World Cup 2026 last-32 match.",
+      "url": "https://www.aljazeera.com/sports/2026/6/29/paraguay-shock-germany-in-shootout-win-for-one-of-all-time-world-cup-upsets?traffic_source=rss",
+      "published": "Mon, 29 Jun 2026 23:28:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "LIVE: Netherlands vs Morocco – FIFA World Cup 2026",
       "description": "Follow the updates, with live build-up, team news coverage, and our text commentary stream of the last-32 match.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/6/29/live-netherlands-vs-morocco-fifa-world-cup-2026?traffic_source=rss",
@@ -1372,6 +1378,39 @@
       "url": "https://www.theguardian.com/environment/2026/jun/29/weather-tracker-north-west-us-hit-by-snow-ahead-of-eastern-heatwave",
       "published": "Mon, 29 Jun 2026 12:09:00 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Germany out of World Cup after loss on penalties to Paraguay",
+      "description": "Germany lost in dramatic fashion against Paraguay in Boston to exit the 2026 World Cup at the first knockout stage.",
+      "url": "https://www.dw.com/en/germany-out-of-world-cup-after-loss-on-penalties-to-paraguay/a-77760529?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 29 Jun 2026 23:37:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Paraguay knock Germany out of World Cup 2026 on penalties",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/sport/20260629-world-cup-2026-paraguay-knock-germany-out-of-world-cup-on-penalties",
+      "published": "Mon, 29 Jun 2026 23:42:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Paraguay knock Germany out of World Cup 2026 on penalties",
+      "description": "Paraguay stunned Germany in a penalty shootout on Monday to reach the World Cup last 16 after a 1-1 draw following extra time. The South Americans won 4-3 on spot kicks, handing Germany their first-ever defeat in a World Cup penalty shootout and booking a place in the knockout stage.",
+      "url": "https://www.france24.com/en/sport/20260629-world-cup-2026-paraguay-knock-germany-out-of-world-cup-on-penalties",
+      "published": "Mon, 29 Jun 2026 23:39:55 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1572,20 +1611,6 @@
       "ticker_label": "🚨 Shooting in northern Germany leaves 6 people dead. Suspected shooter arrested"
     },
     {
-      "title": "Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel",
-      "description": "The White House has soured on Israel’s war with Hezbollah in Lebanon",
-      "url": "https://abcnews.com/International/wireStory/trump-presses-syria-hezbollah-raising-alarm-lebanon-israel-134286496",
-      "published": "Sun, 28 Jun 2026 06:59:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump presses Syria to take on Hezbollah, raising alarm in Lebanon and Israel"
-    },
-    {
       "title": "UN envoy urges parties to ‘stay the course’ towards peace in eastern DR Congo",
       "description": "The new head of the UN mission in the Democratic Republic of the Congo (DRC) has urged parties to the peace processes for the volatile eastern region to maintain momentum and fully implement their commitments.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167824",
@@ -1722,6 +1747,17 @@
       "is_ticker": false
     },
     {
+      "title": "Senegalese lawmakers pass divisive reform curbing presidential powers",
+      "description": "Senegal's National Assembly has adopted a controversial constitutional amendment that expands its role and reduces presidential powers",
+      "url": "https://abcnews.com/International/wireStory/senegalese-lawmakers-pass-divisive-reform-curbing-presidential-powers-134316484",
+      "published": "Mon, 29 Jun 2026 14:19:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Mamdani-backed socialists look to take New York playbook nationwide and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/mamdani-backed-socialists-look-take-new-york-playbook-nationwide-more-top-headlines",
@@ -1846,17 +1882,6 @@
       "is_ticker": false
     },
     {
-      "title": "Will Germany impose an age limit for social media?",
-      "description": "A quarter of German youth spend too much time on social media, with 350,000 considered to have an addiction problem. Education Minister Karin Prien is advocating for a legal minimum age of 13.",
-      "url": "https://www.dw.com/en/will-germany-impose-an-age-limit-for-social-media/a-77722470?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 28 Jun 2026 17:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Passenger plane landing in New York 'hit by drone'",
       "description": "A commercial pilot reported a collision with a drone as he approached New York's JFK Airport to land on Monday morning.",
       "url": "https://news.sky.com/story/passenger-plane-landing-at-new-yorks-jfk-airport-hit-by-drone-13559025",
@@ -1912,6 +1937,17 @@
       "url": "https://www.theguardian.com/world/2026/jun/27/australian-man-arrested-in-thailand-after-17-year-olds-body-found-in-suitcase",
       "published": "Sat, 27 Jun 2026 05:53:31 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Heat forces yodelers at annual Swiss festival to sing in fountains",
+      "description": "Yodelers at a festival in Basel, Switzerland, turned city fountains into rehearsal spaces during Europe’s June heat wave",
+      "url": "https://abcnews.com/International/wireStory/heat-forces-yodelers-annual-swiss-festival-sing-fountains-134314760",
+      "published": "Mon, 29 Jun 2026 13:02:50 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2057,28 +2093,6 @@
       "description": "Andy Burnham, Britain’s likely next leader, vowed to enact radical change to the nation’s politics during a speech.",
       "url": "https://www.aljazeera.com/video/2026/6/29/uks-prime-minister-in-waiting-vows-to-shake-up-politics?traffic_source=rss",
       "published": "Mon, 29 Jun 2026 17:31:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mehdi Hasan: Disrupting democracy’s decline",
-      "description": "With democracy on the decline in both the UK and US, Mehdi Hasan makes the case for independent journalism.",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/6/29/mehdi-hasan-disrupting-democracys-decline?traffic_source=rss",
-      "published": "Mon, 29 Jun 2026 17:30:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US Supreme Court backs Trump’s firings; Fed’s Cook reserved as exception",
-      "description": "Justices rule in favour of expanded executive power, preserving Lisa Cook’s Fed position amid Trump’s dismissal attempt.",
-      "url": "https://www.aljazeera.com/economy/2026/6/29/supreme-court-blocks-trumps-bid-to-fire-us-federal-reserves-lisa-cook?traffic_source=rss",
-      "published": "Mon, 29 Jun 2026 16:59:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2419,6 +2433,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump says Iran requested Doha meeting as Tehran denies direct US talks",
+      "description": "US President Donald Trump said on Monday Iran had requested a meeting in Doha on Tuesday, despite Tehran denying direct negotiations with Washington. Trump said the talks would occur in Qatar, while the White House said US envoy Steve Witkoff and adviser Jared Kushner would travel there for high-level meetings.",
+      "url": "https://www.france24.com/en/middle-east/20260629-trump-iran-doha-tehran-us-talks-hormuz-lebanon",
+      "published": "Mon, 29 Jun 2026 23:46:13 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Peru president-elect Fujimori vows 'order and hope' after narrow election victory",
       "description": "Peru's conservative president-elect Keiko Fujimori pledged on Monday to restore \"order and hope\" after narrowly defeating left-wing rival Roberto Sanchez in a presidential run-off dominated by surging crime. Fujimori, declared the winner of the June 7 election, said on X Peru was moving closer to \"the path of order and hope\" for all citizens.",
       "url": "https://www.france24.com/en/americas/20260629-peru-keiko-fujimori-election-victory",
@@ -2474,43 +2499,10 @@
       "is_ticker": false
     },
     {
-      "title": "Iraqi officials, including lawmakers, arrested on corruption charges",
-      "description": "Iraqi political officials have been arrested on corruption charges",
-      "url": "https://abcnews.com/International/wireStory/iraqi-officials-including-lawmakers-arrested-corruption-charges-overnight-134285889",
-      "published": "Sun, 28 Jun 2026 16:26:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
-      "description": "A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies",
-      "url": "https://abcnews.com/International/wireStory/europes-record-heat-overwhelmed-paris-mortuaries-left-families-134300107",
-      "published": "Mon, 29 Jun 2026 02:34:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ugandan army chief orders the closure of a major news platform",
-      "description": "Uganda's military chief and son of President Yoweri Museveni has ordered the shutdown of a major news organization",
-      "url": "https://abcnews.com/International/wireStory/ugandan-army-chief-orders-closure-major-news-platform-134286328",
-      "published": "Sun, 28 Jun 2026 08:10:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A Chinese dissident recounts his perilous dinghy escape to South Korea and how he got to Canada",
-      "description": "Chinese dissident Dong Guangping has finally reached Canada after a perilous escape from China",
-      "url": "https://abcnews.com/International/wireStory/chinese-dissident-recounts-perilous-dinghy-escape-south-korea-134299867",
-      "published": "Mon, 29 Jun 2026 06:49:55 -0400",
+      "title": "High-profile politician in Haiti accused of corruption meets with judge for interview",
+      "description": "A former ambassador and member of Haiti’s since-dissolved transitional presidential council has appeared in court for an interview with a judge to face corruption charges",
+      "url": "https://abcnews.com/International/wireStory/high-profile-politician-haiti-accused-corruption-meets-judge-134318486",
+      "published": "Mon, 29 Jun 2026 14:35:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2529,28 +2521,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia to double potential fines for Facebook and Instagram over child social media accounts",
-      "description": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts",
-      "url": "https://abcnews.com/International/wireStory/australia-double-potential-fines-facebook-instagram-child-social-134299301",
-      "published": "Mon, 29 Jun 2026 03:54:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "China imposes export controls on 40 Japanese entities as tensions with Tokyo rise",
-      "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
-      "url": "https://abcnews.com/International/wireStory/china-imposes-export-controls-40-japanese-entities-tensions-134300236",
-      "published": "Mon, 29 Jun 2026 06:41:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Malaysia extends search for MH370 for another year, keeping families’ hopes alive",
       "description": "Malaysia has extended its contract with Ocean Infinity for another year to search for wreckage of Malaysia Airlines flight 370",
       "url": "https://abcnews.com/International/wireStory/malaysia-extends-search-mh370-year-keeping-families-hopes-134301629",
@@ -2562,10 +2532,10 @@
       "is_ticker": false
     },
     {
-      "title": "Milei's top aide and Cabinet chief resigns over spiraling corruption scandal",
-      "description": "Argentine President Javier Milei’s Cabinet chief and close ally, Manuel Adorni, has resigned following a corruption scandal that has roiled the government, undermining its flagship campaign pledge to stamp out endemic graft in the political elite",
-      "url": "https://abcnews.com/International/wireStory/mileis-top-aide-cabinet-chief-resigns-spiraling-corruption-134282465",
-      "published": "Sun, 28 Jun 2026 01:16:58 -0400",
+      "title": "Thai airline employee arrested in Australia on suspicion of importing heroin",
+      "description": "Australian police have arrested a Thai airline employee for allegedly importing over a kilogram of heroin into Melbourne",
+      "url": "https://abcnews.com/International/wireStory/thai-airline-employee-arrested-australia-suspicion-importing-heroin-134301180",
+      "published": "Mon, 29 Jun 2026 06:49:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2584,10 +2554,43 @@
       "is_ticker": false
     },
     {
-      "title": "High-profile politician in Haiti accused of corruption meets with judge for interview",
-      "description": "A former ambassador and member of Haiti’s since-dissolved transitional presidential council has appeared in court for an interview with a judge to face corruption charges",
-      "url": "https://abcnews.com/International/wireStory/high-profile-politician-haiti-accused-corruption-meets-judge-134318486",
-      "published": "Mon, 29 Jun 2026 14:35:54 -0400",
+      "title": "China imposes export controls on 40 Japanese entities as tensions with Tokyo rise",
+      "description": "China has imposed new export controls on 40 Japanese entities, accusing them of contributing to Japan’s “remilitarization.”",
+      "url": "https://abcnews.com/International/wireStory/china-imposes-export-controls-40-japanese-entities-tensions-134300236",
+      "published": "Mon, 29 Jun 2026 06:41:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Europe's record heat has overwhelmed Paris mortuaries and left families in distress",
+      "description": "A record-breaking heat wave has overwhelmed mortuaries in Paris, leaving funeral directors struggling to find space for bodies",
+      "url": "https://abcnews.com/International/wireStory/europes-record-heat-overwhelmed-paris-mortuaries-left-families-134300107",
+      "published": "Mon, 29 Jun 2026 02:34:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "A Chinese dissident recounts his perilous dinghy escape to South Korea and how he got to Canada",
+      "description": "Chinese dissident Dong Guangping has finally reached Canada after a perilous escape from China",
+      "url": "https://abcnews.com/International/wireStory/chinese-dissident-recounts-perilous-dinghy-escape-south-korea-134299867",
+      "published": "Mon, 29 Jun 2026 06:49:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia to double potential fines for Facebook and Instagram over child social media accounts",
+      "description": "Australia plans to double potential fines for social media platforms, including Facebook and Instagram, who fail to prevent Australian children from holding accounts",
+      "url": "https://abcnews.com/International/wireStory/australia-double-potential-fines-facebook-instagram-child-social-134299301",
+      "published": "Mon, 29 Jun 2026 03:54:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
