@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T05:25:53.134541Z",
+  "last_updated": "2026-07-02T06:47:57.785129Z",
   "event_count": 223,
   "events": [
     {
@@ -43,6 +43,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 International cooperation critical as terrorism threat evolves"
+    },
+    {
+      "title": "At least 13 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’",
+      "description": "At least 13 dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 41,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 At least 13 killed in Kyiv as Zelenskyy warns of ‘massive Russian strike’"
     },
     {
       "title": "Police units deployed across South Africa before anti-immigration marches",
@@ -107,34 +121,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Venezuela earthquake death toll passes 1,700 as UN continues to scale up response"
-    },
-    {
-      "title": "Wildfire evacuation warning issued in northern Greece after father and son die in separate blaze",
-      "description": "Authorities in central Greece urged residents to evacuate as over 130 firefighters and aircraft battle a wildfire",
-      "url": "https://abcnews.com/International/wireStory/wildfire-evacuation-warning-issued-northern-greece-after-father-134376190",
-      "published": "Wed, 01 Jul 2026 10:38:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfire evacuation warning issued in northern Greece after father and son die in separate blaze"
-    },
-    {
-      "title": "At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’",
-      "description": "At least eight dead and dozens injured as Ukraine's forces defend against ballistic missiles, drones targeting capital.",
-      "url": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike?traffic_source=rss",
-      "published": "Thu, 02 Jul 2026 02:15:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At least 8 killed in Kyiv after Zelenskyy warns of ‘massive Russian strike’"
     },
     {
       "title": "Venezuela declares seven days of national mourning as quake death toll rises to 2,295",
@@ -257,18 +243,18 @@
       "ticker_label": "🌪️ EU sets up three months of talks with China over €360bn trade deficit"
     },
     {
-      "title": "Russian strikes on Kyiv kill at least 8 after Zelensky warns of 'massive attack'",
-      "description": "Russian missile and drone strikes hit Kyiv early on Thursday, sparking fires, killing at least eight people and injuring over three dozen, Ukrainian officials said, after President Volodymyr Zelensky warned that Moscow was preparing a \"massive attack\". The assault followed air raid warnings and Zelensky's decision to cut short a visit to Dublin after receiving intelligence that Russia was preparing a major strike.",
-      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
-      "published": "Wed, 01 Jul 2026 21:41:54 GMT",
-      "source": "France24",
+      "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+      "description": "Russia has launched a large-scale attack on Ukraine’s capital with missiles and drones that has killed 11 people and injured 54, including two children",
+      "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-kill-11-cause-damage-ukraine-134396794",
+      "published": "Thu, 02 Jul 2026 02:18:03 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian strikes on Kyiv kill at least 8 after Zelensky warns of 'massive attack'"
+      "ticker_label": "🪖 Russian missiles and drones kill 11 and cause damage across Ukraine capital"
     },
     {
       "title": "New WHO plan urges stronger action against fungal disease",
@@ -280,6 +266,20 @@
       "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
+      "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 02 Jul 2026 06:38:42 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 At least 13 killed in large-scale Russian missile and drone strikes on Kyiv"
     },
     {
       "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
@@ -374,20 +374,6 @@
       "is_ticker": false
     },
     {
-      "title": "At least 10 killed in large-scale Russian missile and drone strikes on Kyiv",
-      "description": "Russia launched its biggest strikes on the city in weeks with children among the \"significant number\" of casualties, Ukrainian officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 02 Jul 2026 05:00:57 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At least 10 killed in large-scale Russian missile and drone strikes on Kyiv"
-    },
-    {
       "title": "Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says",
       "description": "Report accuses paramilitary force of crimes including ethnic cleansing in systemic campaign against civilians The Sudanese paramilitary Rapid Support Forces committed crimes against humanity and ethnic cleansing during its campaign to capture El Fasher, Amnesty International has alleged. Many of the crimes, including murder, torture, rape, enslavement and sexual slavery, were carried out as part of a widespread and systematic attack against civilians and amounted to crimes against humanity, the human rights organisation said in a report released on Wednesday. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing",
@@ -402,24 +388,24 @@
       "ticker_label": "💥 Sudan’s RSF committed crimes against humanity in El Fasher, Amnesty says"
     },
     {
-      "title": "Russia launches major drone and missile attack on Kyiv",
-      "description": "Multiple explosions have been heard in Kyiv as Russian drones and missiles hit the Ukrainian capital.",
-      "url": "https://www.dw.com/en/russia-launches-major-drone-and-missile-attack-on-kyiv/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 2 Jul 2026 01:34:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Russia conducts deadly missile, drone strikes on Kyiv after Zelensky warns of ‘massive attack’",
+      "description": "Russian missile and drone strikes hit Kyiv early Thursday, sparking fires, killing at least nine people and injuring dozens, Ukrainian officials said, after President Volodymyr Zelensky warned that Moscow was preparing a \"massive attack\".",
+      "url": "https://www.france24.com/en/europe/20260701-fire-breaks-out-in-central-kyiv-after-explosion-during-air-raid-alert",
+      "published": "Wed, 01 Jul 2026 21:41:54 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia launches major drone and missile attack on Kyiv"
+      "ticker_label": "🪖 Russia conducts deadly missile, drone strikes on Kyiv after Zelensky warns of ‘massive attack’"
     },
     {
-      "title": "1 dead in Romania in a powerful storm after intense heatwave",
-      "description": "A powerful storm has struck Romania’s capital, killing one person and causing flooding in 20 counties",
-      "url": "https://abcnews.com/International/wireStory/1-dead-romania-powerful-storm-after-intense-heatwave-134369228",
-      "published": "Wed, 01 Jul 2026 08:28:33 -0400",
+      "title": "Wildfires kill a father and son in Greece and prompt evacuations in 2 villages",
+      "description": "Authorities in central Greece urged residents to evacuate as over 130 firefighters and aircraft battle a wildfire",
+      "url": "https://abcnews.com/International/wireStory/wildfire-evacuation-warning-issued-northern-greece-after-father-134376190",
+      "published": "Wed, 01 Jul 2026 22:18:02 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
@@ -427,7 +413,21 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ 1 dead in Romania in a powerful storm after intense heatwave"
+      "ticker_label": "🌪️ Wildfires kill a father and son in Greece and prompt evacuations in 2 villages"
+    },
+    {
+      "title": "1 dead in Romania in a powerful storm after intense heat wave",
+      "description": "A powerful storm has struck Romania’s capital, killing one person and causing flooding in 20 counties",
+      "url": "https://abcnews.com/International/wireStory/1-dead-romania-powerful-storm-after-intense-heatwave-134369228",
+      "published": "Wed, 01 Jul 2026 23:29:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ 1 dead in Romania in a powerful storm after intense heat wave"
     },
     {
       "title": "Four people die in mass fan celebrations in Mexico City after World Cup victory",
@@ -442,20 +442,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Four people die in mass fan celebrations in Mexico City after World Cup victory"
-    },
-    {
-      "title": "Sudan's RSF accused of crimes against humanity in el-Fasher",
-      "description": "Amnesty International says Sudan's Rapid Support Forces militia committed ethnic cleansing and crimes against humanity in its assault on the city of el-Fasher amid the longrunning civil war with Sudan's military.",
-      "url": "https://www.dw.com/en/sudan-s-rsf-accused-of-crimes-against-humanity-in-el-fasher/a-77781532?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 1 Jul 2026 11:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sudan's RSF accused of crimes against humanity in el-Fasher"
     },
     {
       "title": "US designates Ecuador’s Chone Killers gang as ‘terrorist’ organisation",
@@ -522,11 +508,11 @@
       "is_ticker": false
     },
     {
-      "title": "Explosion in Monaco injures 3, including Ukrainian tycoon",
-      "description": "Monaco 's chief prosecutor said the suspect who placed an explosive device that injured three people, including a reported Ukrainian tycoon, acted alone and remains at large.",
-      "url": "https://www.npr.org/2026/06/30/g-s1-130990/explosion-monaco-ukrainian-tycoon",
-      "published": "Tue, 30 Jun 2026 01:35:07 -0400",
-      "source": "NPR World News",
+      "title": "Hospital fire in northern Germany kills two, injures dozens",
+      "description": "A fire at a hospital in the northern German town of Ludwigslust has killed two people and injured dozens of others.",
+      "url": "https://www.dw.com/en/hospital-fire-in-northern-germany-kills-two-injures-dozens/a-77795154?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Jul 2026 05:40:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical",
@@ -678,20 +664,6 @@
       "ticker_label": "🌪️ Ivory Coast: Nearly 60 people killed in flooding since May"
     },
     {
-      "title": "Iran after Khamenei: What direction after Supreme Leader's funeral?",
-      "description": "Some days they talk. Some days they fight. Iran and the United States have settled into a pattern since the truce signed last month. This Wednesday in Doha... they’re sort of talking. Both sides present in indirect negotiations. Whatever comes of that, the attention's now shifting to Tehran, where the Islamic Republic’s preparing for Friday’s kickoff of four days of state funeral proceedings for slain Supreme Leader Ali Khamenei with the regime boasting of a growing list of foreign dignitaries, a show of strength for a regime that’s more than rebounded since Khamenei was killed on the very first day of the war. A funeral intended as a victory lap for a leadership that’s always revered martyrdom? Definitely.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260701-iran-after-khamenei-what-direction-after-supreme-leader-s-funeral",
-      "published": "Wed, 01 Jul 2026 18:22:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran after Khamenei: What direction after Supreme Leader's funeral?"
-    },
-    {
       "title": "At least 14 children killed after roof collapse of tutoring centre",
       "description": "At least 14 children have been killed after the roof of an under-construction tutoring centre collapsed in Pakistan.",
       "url": "https://news.sky.com/story/at-least-14-children-killed-after-roof-collapse-of-tutoring-centre-in-pakistan-13559302",
@@ -704,9 +676,9 @@
     },
     {
       "title": "Floods have killed at least 59 people so far this year in Ivory Coast",
-      "description": "Floods in Ivory Coast have killed at least 59 people this year, according to a government spokesperson on Wednesday",
+      "description": "Floods in Ivory Coast have killed at least 59 people this year, according to a government spokesperson",
       "url": "https://abcnews.com/International/wireStory/floods-killed-59-people-year-ivory-coast-ivory-134386880",
-      "published": "Wed, 01 Jul 2026 15:58:27 -0400",
+      "published": "Wed, 01 Jul 2026 21:38:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
@@ -715,6 +687,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Floods have killed at least 59 people so far this year in Ivory Coast"
+    },
+    {
+      "title": "Venezuelan medics fear earthquake aftermath will trigger widening medical crisis",
+      "description": "With far more dead than living people taken from the rubble a week after Venezuela’s devastating twin earthquakes, doctors say the biggest dangers now facing survivors were untreated wounds and infectious diseases",
+      "url": "https://abcnews.com/International/wireStory/venezuelan-medics-fear-infections-quake-injuries-search-untold-134377715",
+      "published": "Thu, 02 Jul 2026 02:17:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Venezuelan medics fear earthquake aftermath will trigger widening medical crisis"
     },
     {
       "title": "Mourners attend funerals for 14 Pakistani children killed in roof collapse",
@@ -761,6 +747,17 @@
       "url": "https://www.dw.com/en/germany-ukrainian-national-charged-over-nord-stream-blasts/a-77791335?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 1 Jul 2026 15:32:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "World Cup 2026: England struggled against DR Congo, Belgium beat Senegal",
+      "description": "Harry Kane rescued England campaign by scoring a brace to beat RD Congo (2-1). Belgium came from behind to overcome Senegal (3-2).",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260702-world-cup-2026-england-struggled-against-dr-congo-belgium-beat-senegal",
+      "published": "Thu, 02 Jul 2026 05:36:59 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
@@ -853,6 +850,31 @@
       "is_ticker": false
     },
     {
+      "title": "Russian missiles and drones kill 11 and cause damage across Ukraine capital",
+      "description": "The large-scale attack with ballistic and cruise missiles and drones damaged buildings and civilian infrastructure across the city. Many residents took shelter at metro stations.",
+      "url": "https://www.npr.org/2026/07/02/g-s1-131681/russian-attack-ukraine",
+      "published": "Thu, 02 Jul 2026 01:47:53 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian missiles and drones kill 11 and cause damage across Ukraine capital"
+    },
+    {
+      "title": "World Cup: Are Americans real soccer fans?",
+      "description": "The U.S. was often mocked leading up to this World Cup for not being a “soccer” country, but what about its fans? Antoine Besse went to a bar in Boston during a game to check out the atmosphere.",
+      "url": "https://www.france24.com/en/world-cup-are-americans-real-soccer-fans",
+      "published": "Thu, 02 Jul 2026 05:50:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Pope Leo pleads with breakaway Catholic group not to commit 'sin of extreme gravity'",
       "description": "Pope Leo XIV issued an urgent plea to the Society of St. Pius X to halt bishop consecrations without Vatican approval, warning of excommunication.",
       "url": "https://www.foxnews.com/world/pope-leo-pleads-breakaway-catholic-group-not-commit-sin-extreme-gravity",
@@ -867,21 +889,24 @@
       "ticker_label": "🪖 Pope Leo pleads with breakaway Catholic group not to commit 'sin of extreme gravity'"
     },
     {
+      "title": "Survivors look to foreign aid after the earthquakes in Venezuela",
+      "description": "Al Jazeera’s Teresa Bo reports from a golf course turned relief centre in Venezuela.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/survivors-look-to-foreign-aid-after-the-earthquakes-in-venezuela?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 04:54:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Survivors look to foreign aid after the earthquakes in Venezuela"
+    },
+    {
       "title": "Germany's Merz and soccer: A PR move that backfired",
       "description": "\"You've inspired us,\" read a post by Chancellor Merz on X right after Germany's lackluster performance and early elimination from the FIFA World Cup. It is seen as a communication blunder that has repercussions.",
       "url": "https://www.dw.com/en/germany-s-merz-and-soccer-a-pr-move-that-backfired/a-77790831?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 1 Jul 2026 16:01:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Hydration breaks: The most controversial issue at the World Cup",
-      "description": "The mandatory hydration breaks at the 2026 World Cup have sparked debate in the stands, on the pitch, and far beyond.",
-      "url": "https://www.dw.com/en/hydration-breaks-the-most-controversial-issue-at-the-world-cup/a-77783435?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 1 Jul 2026 11:40:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 13,
@@ -998,6 +1023,20 @@
       "ticker_label": "🪖 Greetings from London, where Banksy's flag man is a warning cry"
     },
     {
+      "title": "Russia launches attacks on Kyiv, killing at least 10 and injuring dozens",
+      "description": "Ballistic and cruise missiles and drones were used in the massive overnight strikes, which damaged residential buildings and civilian infrastructure, Ukrainian officials said.",
+      "url": "https://www.dw.com/en/russia-launches-attacks-on-kyiv-killing-at-least-10-and-injuring-dozens/a-77794194?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Jul 2026 01:34:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia launches attacks on Kyiv, killing at least 10 and injuring dozens"
+    },
+    {
       "title": "How the cocoa price crash is crushing West African farmers",
       "description": "Cocoa prices reached a peak in 2024 before plummeting by nearly 75%, dealing a financial blow to millions of farmers in Ghana and Cote d'Ivoire. Will the crisis mark a turning point for the sector?",
       "url": "https://www.dw.com/en/how-the-cocoa-price-crash-is-crushing-west-african-farmers/a-77784709?maca=en-rss-en-all-1573-xml-mrss",
@@ -1023,7 +1062,7 @@
       "is_ticker": false
     },
     {
-      "title": "Co-hosts USA beat Bosnia-Herzegovina to reach World Cup last 16",
+      "title": "World Cup 2026: Co-hosts USA beat Bosnia-Herzegovina to reach last 16",
       "description": "Folarin Balogun scored before being sent off as the United States defeated Bosnia and Herzegovina 2-0 on Wednesday to reach the World Cup last 16. Balogun struck just before halftime but was later dismissed following a nasty clash with Bosnia's Tarik Muharemovic. Malik Tillman sealed a US victory with a free kick, setting up a last-16 clash with Belgium.",
       "url": "https://www.france24.com/en/sport/20260702-co-hosts-usa-beat-bosnia-herzegovina-to-reach-world-cup-last-16",
       "published": "Thu, 02 Jul 2026 02:18:25 GMT",
@@ -1106,25 +1145,22 @@
       "is_ticker": false
     },
     {
-      "title": "Venezuelan medics fear infections from quake injuries as search for untold dead continues",
-      "description": "With far more dead than living people taken from the rubble a week after Venezuela’s historic twin earthquakes, doctors say the biggest dangers now facing survivors were untreated wounds and infectious diseases",
-      "url": "https://abcnews.com/International/wireStory/venezuelan-medics-fear-infections-quake-injuries-search-untold-134377715",
-      "published": "Wed, 01 Jul 2026 11:55:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Venezuelan medics fear infections from quake injuries as search for untold dead continues"
-    },
-    {
       "title": "Sudan: UN welcomes extension of vital aid corridor amid rising insecurity",
       "description": "The United Nations has welcomed Sudan’s decision to extend the opening of an aid corridor with neighbouring Chad and continues to express concern over the ongoing escalation in El Obeid, capital of North Kordofan state.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167836",
       "published": "Mon, 29 Jun 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Mexican national sentenced in border child smuggling case involving THC-laced candy",
+      "description": "A Mexican national was sentenced to five years in federal prison for a human smuggling scheme that used THC candy to sedate children as young as 5 years old.",
+      "url": "https://www.foxnews.com/us/mexican-national-sentenced-border-child-smuggling-case-involving-thc-laced-candy",
+      "published": "Thu, 02 Jul 2026 02:30:01 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1140,6 +1176,20 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
+      "description": "Brent falls below $71 a barrel amid reports of progress in talks to end the war permanently.",
+      "url": "https://www.aljazeera.com/economy/2026/7/2/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 05:17:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Oil prices fall to levels not seen since start of US-Israel war on Iran"
     },
     {
       "title": "Iran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks",
@@ -1250,28 +1300,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran football team welcomed home after World Cup exit",
-      "description": "Iran’s football team has landed back in Tehran after their World Cup",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/iran-football-team-welcomed-home-after-world-cup-exit?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 22:41:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "USA beat Bosnia and Herzegovina 2-0: FIFA World Cup 2026 – updates",
-      "description": "All our updates as USA beat Bosnia and Herzegovina in the round of 32 knockout stage in San Francisco.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/1/live-usa-vs-bosnia-and-herzegovina-fifa-world-cup-2026?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:03:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1294,10 +1322,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia politics live: Liberal MP kicked out of question time after shouting at PM ‘don’t you care’ about gambling victims",
+      "title": "Australia politics live: Albanese trashes Taylor’s Midwinter Ball speech saying ‘I would pretend it was all a bad dream’",
       "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Eight weeks to shred documents’: Wells on social media law delay The main reason for Anika Wells ’ media appearances this morning is to kick the Coalition and the Greens for sending that social media bill – increasing fines for platforms and handing the eSafety commissioner more power – into an eight-week inquiry. It’s not complex, and I think Angus Taylor should explain why he is honestly giving big tech eight more weeks to prepare their case, eight more weeks to get their ducks in a row, potentially eight weeks to shred documents now that they know these changes are coming. I think this is genuinely urgent. I’m crestfallen. Angus Taylor has decided to walk away from bipartisanship and he should explain why he would make such a craven and expedient decision. If you chose to watch – I don’t want to name any particular given that we’re on the ABC – but if you are watching the football World Cup on SBS, another public broadcaster, for example, you have the ability to opt out of seeing gambling advertising and from 1 January on streaming. And we know the trend for viewing in Australia is that more than half of the population now view these things online through streamers. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/02/australia-politics-live-defence-aukus-conroy-national-press-club-anthony-albanese-labor-question-time-angus-taylor-coalition-tax-reform-one-nation-pauline-hanson-ntwnfb",
-      "published": "Thu, 02 Jul 2026 05:18:30 GMT",
+      "published": "Thu, 02 Jul 2026 06:23:26 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1364,17 +1392,6 @@
       "description": "A bittersweet day for Congolese football. The Leopards had a one-nil lead up until half time at the World Cup knockout round in Atlanta on Wednesday, but England's Harry Kane scored twice in a second half rally.",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260701-congolese-leopards-lose-to-three-lions",
       "published": "Wed, 01 Jul 2026 20:52:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "World Cup 2026: England survive DR Congo scare as Kane’s late double sinks heroic Mpasi",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/sport/20260701-world-cup-2026-england-survive-dr-congo-scare-as-kane-s-late-double-sinks-heroic-mpasi",
-      "published": "Wed, 01 Jul 2026 18:06:08 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1551,7 +1568,7 @@
       "title": "Facing barbs and pressure from Trump, Europe's leaders close ranks",
       "description": "U.S. President Donald Trump’s attacks on Italy’s premier have had an unintended consequence",
       "url": "https://abcnews.com/International/wireStory/facing-barbs-pressure-trump-europes-leaders-close-ranks-134399170",
-      "published": "Thu, 02 Jul 2026 00:57:49 -0400",
+      "published": "Thu, 02 Jul 2026 02:18:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1649,6 +1666,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "China’s new ethnic unity law extends its legal reach overseas",
+      "description": "Rather than promote ethnic harmony, activists say the law could justify transnational repression.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/chinas-new-ethnic-unity-law-extends-its-legal-reach-overseas?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 06:30:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1923,6 +1951,17 @@
       "is_ticker": false
     },
     {
+      "title": "U.S. and Iran hold separate meetings in Qatar and agree to continue discussions",
+      "description": "U.S. and Iranian negotiators met separately on Wednesday with Qatari and Pakistani mediators, with \"positive progress made,\" and they agreed to continue discussions, host Qatar said.",
+      "url": "https://www.npr.org/2026/07/02/nx-s1-5878887/us-iran-meetings-qatar",
+      "published": "Thu, 02 Jul 2026 01:57:33 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Japan's new joint custody law reshapes divorce debate",
       "description": "As Japan introduces joint custody, some couples find it easier to part ways. But the reform sparks debate over whether children's interests are truly central in a system still led by parents.",
       "url": "https://www.dw.com/en/japan-s-new-joint-custody-law-reshapes-divorce-debate/a-77789539?maca=en-rss-en-all-1573-xml-mrss",
@@ -1970,7 +2009,7 @@
       "title": "EU issues new steel and e-commerce regulations to reduce trade imbalance with China",
       "description": "The European Union has introduced two measures to protect its steel industry and limit small e-commerce parcels",
       "url": "https://abcnews.com/International/wireStory/eu-issues-new-steel-commerce-regulations-reduce-trade-134369939",
-      "published": "Wed, 01 Jul 2026 08:58:09 -0400",
+      "published": "Wed, 01 Jul 2026 22:02:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -2022,8 +2061,8 @@
       "is_ticker": false
     },
     {
-      "title": "People smuggler convicted in France now seeking asylum in UK, BBC discovers",
-      "description": "Once described as \"the godfather\" of French migrant camps, he has been working in an English village.",
+      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
+      "description": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
       "url": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 02 Jul 2026 05:00:03 GMT",
       "source": "BBC News",
@@ -2149,7 +2188,40 @@
       "ticker_label": "💥 Man guilty of attempted murder of three children in Dublin"
     },
     {
-      "title": "Lawyer takes Trump to Task over Unchecked Presidential Powers",
+      "title": "Businessman on trial in Malta over prominent journalist’s murder",
+      "description": "Yorgen Fenech is charged with orchestrating the assassination of journalist Daphne Caruana Galizia.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/businessman-on-trial-in-malta-over-prominent-journalists-murder?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 06:18:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Taiwan needs to become a ‘hornet’s nest’ of drones, US diplomat says",
+      "description": "De ​facto US ambassador Raymond Greene says drones represent a 'game-changing opportunity' to enhance Taiwan's security.",
+      "url": "https://www.aljazeera.com/news/2026/7/2/taiwan-needs-to-become-a-hornets-nest-of-drones-us-diplomat-says?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 05:40:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Belgium fans erupt after latest-ever goal seals place in last 16",
+      "description": "Belgium fans celebrate a dramatic 3-2 victory over Senegal in extra time.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/belgium-fans-erupt-after-latest-ever-goal-seals-place-in-last-16?traffic_source=rss",
+      "published": "Thu, 02 Jul 2026 05:21:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Lawyer takes Trump to task over unchecked presidential powers",
       "description": "Constitutional lawyer Bruce Fein says the US was founded on the principle that governments exist to protect rights.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/lawyer-takes-trump-to-task-over-unchecked-presidential-powers?traffic_source=rss",
       "published": "Thu, 02 Jul 2026 03:16:38 +0000",
@@ -2164,50 +2236,6 @@
       "description": "President Trump has sought to limit mail-in voting and has ordered his administration to impose limits on the practice.",
       "url": "https://www.aljazeera.com/news/2026/7/1/us-judge-sides-with-naacp-over-proposed-mail-in-ballot-restrictions?traffic_source=rss",
       "published": "Wed, 01 Jul 2026 22:53:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "E Jean Carroll demands Donald Trump pay $5.8m in damages from 2019 case",
-      "description": "Carroll's lawyers have asked for an expedited resolution to the payment question after US Supreme Court declines appeal.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/e-jean-carroll-demands-donald-trump-pay-5-8m-in-damages-from-2019-case?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:45:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US signs $1 lease with Israel to build permanent embassy in West Jerusalem",
-      "description": "The US and Israel have signed a deal allocating land for a permanent US embassy in West Jerusalem.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/1/us-signs-1-lease-with-israel-to-build-permanent-embassy-in-west-jerusalem?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:09:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US Supreme Court hands wealthy donors more sway with latest decision",
-      "description": "Critics say the ruling invites corruption, benefitting wealthy donors and amplifying special interest sway in politics.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 21:04:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran to open ‘communication channel’ on MoU with US after talks in Qatar",
-      "description": "Iran's Deputy Foreign Minister Gharibabadi says part of $6bn in frozen assets would be used to buy goods Tehran needs.",
-      "url": "https://www.aljazeera.com/news/2026/7/1/iran-to-open-communication-channel-on-mou-with-us-after-talks-in-qatar?traffic_source=rss",
-      "published": "Wed, 01 Jul 2026 20:55:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2380,11 +2408,11 @@
       "is_ticker": false
     },
     {
-      "title": "Chinese billionaire Guo Wengui gets 30 years in U.S. prison for fraud conviction",
-      "description": "Guo said he came to the U.S. to destroy the Chinese Communist Party. But the judge said he instead diverted investor money to live lavishly.",
-      "url": "https://www.npr.org/2026/06/29/g-s1-130976/chinese-billionaire-guo-wengui-gets-30-years-in-u-s-prison-for-fraud-conviction",
-      "published": "Mon, 29 Jun 2026 21:43:29 -0400",
-      "source": "NPR World News",
+      "title": "Google faces EU top court ruling on record €4.1 billion fine",
+      "description": "The EU's highest court will rule on Google's appeal against a record antitrust fine, after the tech giant argued the bloc unfairly penalized innovation.",
+      "url": "https://www.dw.com/en/google-faces-eu-top-court-ruling-on-record-€4-1-billion-fine/a-77794948?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 2 Jul 2026 05:30:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2515,17 +2543,6 @@
       "is_ticker": false
     },
     {
-      "title": "Defying Pope Leo XIV and risking schism, traditionalists go ahead with Latin Mass consecrations",
-      "description": "A breakaway group of traditionalist Catholics has begun an ancient Latin Mass to consecrate four bishops without papal consent",
-      "url": "https://abcnews.com/International/wireStory/defying-pope-leo-xiv-risking-schism-traditionalists-ahead-134364654",
-      "published": "Wed, 01 Jul 2026 04:02:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Quake latest: Food grows scarcer for thousands of Venezuelan families",
       "description": "The deadly Venezuela quakes have deepened hardship for families who already needed support and left others without homes, income or regular access to food.",
       "url": "https://news.un.org/feed/view/en/story/2026/06/1167846",
@@ -2602,17 +2619,6 @@
       "description": "Four people arrested after 16 children were found in deplorable conditions in Vinton County, Ohio, officials said. Two children were flown to trauma centers.",
       "url": "https://www.foxnews.com/us/16-children-found-living-deplorable-ohio-home-conditions-4-arrested-pure-evil",
       "published": "Wed, 01 Jul 2026 14:24:21 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Socialist ousts 30-year Dem incumbent in House primary and more top headlines",
-      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
-      "url": "https://www.foxnews.com/us/socialist-ousts-dem-incumbent-primary-more-top-headlines",
-      "published": "Wed, 01 Jul 2026 07:35:10 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
