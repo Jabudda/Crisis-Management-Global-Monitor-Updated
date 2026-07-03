@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-03T23:27:11.930948Z",
-  "event_count": 222,
+  "last_updated": "2026-07-03T23:53:31.785525Z",
+  "event_count": 221,
   "events": [
     {
       "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
@@ -995,17 +995,6 @@
       "ticker_label": "🌪️ NASA launches spacecraft to recover sinking telescope"
     },
     {
-      "title": "Nine Thai monks killed as 11-year-old boy crashes pickup truck into pilgrimage walk",
-      "description": "An 11-year-old boy crashed a pickup truck into a group of monks on a pilgrimage walk in northeastern Thailand on Thursday, killing nine, officials said.",
-      "url": "https://news.sky.com/story/eight-thai-monks-killed-as-11-year-old-boy-crashes-pickup-truck-into-pilgrimage-walk-13559765",
-      "published": "Thu, 02 Jul 2026 10:57:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Iran begins public mourning for Ayatollah killed in February",
       "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
       "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
@@ -1963,14 +1952,17 @@
     },
     {
       "title": "Taylor Swift, Travis Kelce set for star-studded New York wedding",
-      "description": "City permits point to a major star-studded celebration at Madison Square Garden over the Fourth of July weekend, although the celebrity couple has not confirmed the event.",
+      "description": "City permits point to a major star-studded celebration at Madison Square Garden over the Fourth of July weekend. The couple has already tied the knot, their publicist said on Friday.",
       "url": "https://www.dw.com/en/taylor-swift-travis-kelce-set-for-star-studded-new-york-wedding/a-77812947?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 3 Jul 2026 22:13:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Taylor Swift, Travis Kelce set for star-studded New York wedding"
     },
     {
       "title": "Venice mayor proposes dynamic pricing for day-trippers with 50-euro ceiling",
