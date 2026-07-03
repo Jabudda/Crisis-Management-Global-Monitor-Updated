@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03T21:30:17.605929Z",
+  "last_updated": "2026-07-03T21:57:26.612299Z",
   "event_count": 222,
   "events": [
     {
@@ -195,6 +195,17 @@
       "url": "https://www.dw.com/en/sudan-catastrophe-unfolding-in-el-obeid-un-rights-envoy/a-77821446?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 3 Jul 2026 13:03:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "More than 400 dead in DR Congo's Ebola outbreak",
+      "description": "In tonight's edition, Ebola is spreading beyond its original hotspot in the DRC as a new case has been detected nearly 600 kilometers away. And another human rights catastrophe is unfolding in Sudan around the besieged city of al-Obeid, the UN says.",
+      "url": "https://www.france24.com/en/more-than-400-dead-in-dr-congo-s-ebola-outbreak",
+      "published": "Fri, 03 Jul 2026 21:39:49 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
@@ -603,17 +614,6 @@
       "ticker_label": "💥 NSW shadow upper house leader steps aside during Icac Liberals inquiry – as it happened"
     },
     {
-      "title": "Iranian leaders, foreign officials pay respects to Khamenei ahead of grand funeral",
-      "description": "Iranian officials and international dignitaries paid their respects to Iran's former leader Ali Khamenei on Friday as he lay in state in Tehran. Meanwhile mourners gathered outside the vast Grand Mosalla religious complex where his casket is on display, ahead of its opening to the public on Saturday morning.",
-      "url": "https://www.france24.com/en/middle-east/20260703-iranian-leaders-foreign-officials-pay-respects-to-khamenei-ahead-of-grand-funeral",
-      "published": "Fri, 03 Jul 2026 14:19:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "After 1,000 days of war: Many Israeli children carry trauma into summer break",
       "description": "Israeli children begin summer vacation still coping with war trauma, as 84% reportedly showed signs of emotional distress since the Hamas-led attack.",
       "url": "https://www.foxnews.com/world/after-1000-days-war-many-israeli-children-carry-trauma-summer-break",
@@ -637,20 +637,6 @@
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Heavy rain floods Mumbai during intense monsoon spell",
-      "description": "Heavy monsoon rains have inundated parts of Mumbai, India's financial capital, causing widespread flooding.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/heavy-rain-floods-mumbai-during-intense-monsoon-spell?traffic_source=rss",
-      "published": "Fri, 03 Jul 2026 16:27:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Heavy rain floods Mumbai during intense monsoon spell"
     },
     {
       "title": "At least nine monks killed in Thailand after boy drives truck into procession",
@@ -1070,6 +1056,20 @@
       "is_ticker": false
     },
     {
+      "title": "‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes",
+      "description": "Many survivors are sheltering in tents set up in public parks, after twin earthquakes destroyed rows of buildings.",
+      "url": "https://www.aljazeera.com/news/longform/2026/7/3/a-nightmare-strugging-with-the-aftermath-of-venezuelas-earthquakes?traffic_source=rss",
+      "published": "Fri, 03 Jul 2026 21:17:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ ‘A nightmare’: Strugging with the aftermath of Venezuela’s earthquakes"
+    },
+    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1150,7 +1150,7 @@
       "ticker_label": "🪖 Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns"
     },
     {
-      "title": "Salah set to face Messi as Egypt beat Australia on penalties at World Cup",
+      "title": "Salah awaits Messi as Egypt beat Australia on penalties at World Cup",
       "description": "Egypt beat Australia 4-2 on penalties after a 1-1 draw after extra time, and could now face Argentina in the last 16.",
       "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-beat-australia-on-penalties-to-win-first-world-cup-knockout-match?traffic_source=rss",
       "published": "Fri, 03 Jul 2026 21:05:06 +0000",
@@ -1162,7 +1162,7 @@
     },
     {
       "title": "Dutch football association to sue over racist slurs after World Cup exit",
-      "description": "The Netherlands' penalty loss to Morocco sparked an outpouring of social media abuse directed notably at Black players.",
+      "description": "The Netherlands' penalty loss to Morocco prompted an outpouring of social media abuse directed notably at Black players.",
       "url": "https://www.aljazeera.com/sports/2026/7/3/dutch-football-association-to-sue-over-racist-slurs-after-world-cup-exit?traffic_source=rss",
       "published": "Fri, 03 Jul 2026 20:58:14 +0000",
       "source": "Al Jazeera",
@@ -1216,8 +1216,8 @@
       "is_ticker": false
     },
     {
-      "title": "World Cup 2026: Salah's Egypt beat Australia in penalty shootout to reach last 16",
-      "description": "Mohamed Salah scored with a panenka as Egypt beat Australia 4-2 on penalties to clinch their first win in a World Cup knockout match, after their round of 32 match finished even at 1-1. They will face either Argentina or Cape Verde in the last 16.",
+      "title": "World Cup 2026: Salah's Egypt edge Australia on penalties to reach last 16",
+      "description": "Mohamed Salah coolly tucked away a panenka penalty as Egypt beat Australia 4-2 in a penalty shootout to clinch their first win in a World Cup knockout match, after their round of 32 match finished even at 1-1. They will face either Argentina or Cape Verde in the last 16.",
       "url": "https://www.france24.com/en/sport/20260703-world-cup-egypt-beat-australia-penalty-shootout-reach-last-16-salah",
       "published": "Fri, 03 Jul 2026 20:53:30 GMT",
       "source": "France24",
