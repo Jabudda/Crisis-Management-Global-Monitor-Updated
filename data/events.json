@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-06T12:20:56.546065Z",
-  "event_count": 217,
+  "last_updated": "2026-07-06T13:48:25.260830Z",
+  "event_count": 221,
   "events": [
     {
       "title": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
@@ -101,10 +101,10 @@
       "ticker_label": "🌪️ Côte d’Ivoire floods kill 59 as west Africa endures torrential rains"
     },
     {
-      "title": "Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region",
+      "title": "Ukraine warns of interceptor missile shortage as 20 killed in Kyiv region",
       "description": "President Zelensky says Sunday's \"massive Russian attack\" on Kyiv consisted of 68 missiles and 351 strike drones.",
       "url": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 12:15:43 GMT",
+      "published": "Mon, 06 Jul 2026 13:41:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 31,
@@ -112,7 +112,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine warns of interceptor missile shortage as 19 killed in Kyiv region"
+      "ticker_label": "🪖 Ukraine warns of interceptor missile shortage as 20 killed in Kyiv region"
     },
     {
       "title": "Putin 'starting to understand he may not win' the war in Ukraine",
@@ -138,6 +138,31 @@
       "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "At least 25 killed in Sri Lanka prison riots",
+      "description": "The two days of violence at Negombo Prison are the worst prison riots in the country in years.",
+      "url": "https://www.bbc.co.uk/news/articles/cvg77klne3yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 12:35:55 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Greece's Thessaloniki threatened by spreading wildfire",
+      "description": "A fast-moving wildfire broke out in Greece's second largest city on July 4, forcing residents of three small suburbs north of the city to evacuate. The fire ignited a ravine in a mountainous area and spread quickly, with strong winds hampering efforts to contain the fire. According to the country's public broadcaster, a 76-year-old man was arrested on suspicion of starting the wildfire, as he allegedly ignited the blaze after his vehicle produced sparks.",
+      "url": "https://www.france24.com/en/greece-s-thessaloniki-threatened-by-spreading-wildfire",
+      "published": "Mon, 06 Jul 2026 12:53:16 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Greece's Thessaloniki threatened by spreading wildfire"
     },
     {
       "title": "More than 300 children killed in Sudan war in 6 months, UNICEF says",
@@ -288,22 +313,25 @@
       "ticker_label": "🪖 Australian mother healing with 'beautiful messages' after losing arm to shark attack"
     },
     {
-      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
-      "description": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 09:50:30 GMT",
+      "title": "Wildfire in southern France forces evacuation of 10,000 people",
+      "description": "Tour de France organisers ban spectators from stage three as a wildfire hits the Pyrénées-Orientales region.",
+      "url": "https://www.bbc.co.uk/news/articles/crlwweye9glo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 13:08:23 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Wildfire in southern France forces evacuation of 10,000 people"
     },
     {
-      "title": "At least 20 people killed in Sri Lanka prison clashes",
-      "description": "More than 100 people wounded after violence broke out at a prison in Negombo on Sunday and continued on Monday.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/at-least-19-people-killed-in-sri-lanka-prison-clashes?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 08:28:35 +0000",
-      "source": "Al Jazeera",
+      "title": "Nigeria says two nationals killed in South Africa amid rise of anti-migrant attacks",
+      "description": "Nigeria's government said one of its nationals was reportedly killed by police officers \"using gruesome interrogation techniques\".",
+      "url": "https://www.bbc.co.uk/news/articles/cqj11lxwnn0o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 12:28:42 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
@@ -374,6 +402,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue",
+      "description": "Israeli attacks on Gaza City and Khan Younis also wounded more than 20 people, medical sources say.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/israeli-attacks-on-gaza-kill-at-least-6-as-ceasefire-violations-continue?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 12:15:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli attacks on Gaza kill at least 6 as ‘ceasefire’ violations continue"
+    },
+    {
       "title": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
       "description": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSF Fatima has lost count of the number of drone attacks on the besieged city of El Obeid in Sudan, but said the attacks this past weekend were the most violent so far. The drones hit schools and fuel stations, killing more than 20 people, including students, she said. “Over the past few months, seeing 40 or 45 drones is the norm. You can literally count them,” said the aid volunteer, whose name has been changed for fear of retribution. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/04/el-obeid-aid-workers-sudan-war-drone-strikes",
@@ -402,17 +444,6 @@
       "ticker_label": "🪖 Ukraine: Several killed in renewed attacks on Kyiv"
     },
     {
-      "title": "Clashes in Sri Lankan prison leave at least 25 dead and over 100 injured",
-      "description": "Clashes inside a Sri Lankan prison have killed at least 25 people and injured more than 100",
-      "url": "https://abcnews.com/International/wireStory/deadly-clashes-break-prison-sri-lanka-134509694",
-      "published": "Mon, 06 Jul 2026 08:17:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Global push for AI governance amid warnings of ‘catastrophic harm’",
       "description": "Can artificial intelligence benefit all of humanity – safely, fairly and without causing “catastrophic harm”? That is the question at the heart of a major UN summit opening in Geneva on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167862",
@@ -439,6 +470,28 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Supporters stopped from attending Tour de France as wildfires ravage South of France"
+    },
+    {
+      "title": "At least 25 people killed after Sri Lankan prison riot",
+      "description": "At least 25 people have been killed and more than 100 injured after a huge riot between inmates at a Sri Lankan prison.",
+      "url": "https://news.sky.com/story/at-least-25-people-killed-after-sri-lankan-prison-riot-13560944",
+      "published": "Mon, 06 Jul 2026 11:39:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "From AI to ‘killer robots’: UN chief issues urgent governance call",
+      "description": "UN chief António Guterres appealed on Monday for far-reaching, worldwide controls on Artificial Intelligence, as increasingly powerful AI chips that are designed for civilian use shift to the battlefield, where “killer robots” are already the norm.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167873",
+      "published": "Mon, 06 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
@@ -491,6 +544,20 @@
       "ticker_label": "🌪️ 'I ate ketchup and cheese,' says Venezuelan girl trapped under quake rubble for 32 hours"
     },
     {
+      "title": "El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?",
+      "description": "UN warns of 'catastrophe' in el-Obeid after RSF atrocities in el-Fasher last year.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/el-obeid-under-siege-by-rsf-could-this-be-sudans-next-el-fasher?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 12:21:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 El-Obeid under siege by RSF: Could this be Sudan’s next el-Fasher?"
+    },
+    {
       "title": "China says man who flew plane into Beijing skyscraper had mental health problems",
       "description": "Official statement offers the most detailed official account yet of the highly unusual and fatal incident in Beijing Chinese authorities said the man who flew a small plane into Beijing’s tallest skyscraper last week was a 66-year-old who had mental health problems. The statement published on Thursday offered the most detailed official account yet of the highly unusual incident that occurred in Beijing’s central business district on the evening of 26 June. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/03/china-man-small-plane-beijing-skyscraper-tower-mental-health-problems-statement",
@@ -517,6 +584,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ India news: Mumbai building collapse kills six, as heavy rains batter city"
+    },
+    {
+      "title": "Thousands flee homes as wildfires rage in southern Europe",
+      "description": "Thousands of people have been evacuated from their homes as wildfires burn through large areas of southern Europe, including in popular holiday destinations.",
+      "url": "https://news.sky.com/story/thousands-flee-homes-as-wildfires-rage-in-southern-europe-13560972",
+      "published": "Mon, 06 Jul 2026 12:35:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Thousands flee homes as wildfires rage in southern Europe"
     },
     {
       "title": "1 killed in attack on Crimea as Putin and Zelenskyy hold separate Trump calls",
@@ -636,29 +717,32 @@
       "ticker_label": "🪖 NYC health officials warn Central Park visitors after Legionnaires’ outbreak grows on Upper East Side"
     },
     {
-      "title": "Thousands welcome home Cape Verde footballers after stunning World Cup run",
-      "description": "Tens of thousands of fans formed an ocean of blue outside the airport in capital city, Praia.",
-      "url": "https://www.bbc.co.uk/news/articles/c70yy4xkeexo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 14:59:10 GMT",
+      "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
+      "description": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
+      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 12:07:44 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say",
-      "description": "Ukrainian President Volodymyr Zelenskyy had warned of a likely attack ahead of meeting with US President Donald Trump.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/russian-attacks-on-ukraine-kill-11-on-eve-of-nato-summit-authorities-say?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 06:35:50 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian attacks on Ukraine kill 11 on eve of NATO summit, authorities say"
+      "ticker_label": "🪖 Huge crowds fill Tehran streets for Khamenei's funeral procession"
+    },
+    {
+      "title": "Firefighters battle wildfires across southern Europe",
+      "description": "Wildfires are raging across several parts of southern Europe. They come on the heels of massive heat waves in much of the region.",
+      "url": "https://www.dw.com/en/firefighters-battle-wildfires-across-southern-europe/a-77851007?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 6 Jul 2026 13:36:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Firefighters battle wildfires across southern Europe"
     },
     {
       "title": "Macron's visit to Syria confirms normalisation strategy of post-Assad government",
@@ -670,20 +754,6 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Thousands evacuated in southwestern France as wildfire burns out of control",
-      "description": "Ten thousand people in southwestern France were forced to evacuate due to a wildfire that is still burning and has already destroyed 4,600 hectares of forest, authorities said on Monday.",
-      "url": "https://www.france24.com/en/france/20260706-thousands-evacuated-in-southwestern-france-as-wildfire-burns-out-of-control",
-      "published": "Mon, 06 Jul 2026 08:59:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Thousands evacuated in southwestern France as wildfire burns out of control"
     },
     {
       "title": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
@@ -789,6 +859,17 @@
       "ticker_label": "🪖 North Korean leader Kim observes weapons tests from new naval destroyer"
     },
     {
+      "title": "Watch: Russian attack leaves gaping hole in Kyiv residential building",
+      "description": "The BBC's Sarah Rainsford is at the scene of one of the blasts to hit Ukraine's capital overnight.",
+      "url": "https://www.bbc.co.uk/news/videos/cx2xxw99z88o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 13:07:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Russian missile and drone attack on Ukraine's capital kills at least 12",
       "description": "Russia launched waves of missiles and drones at Kyiv early Monday, killing at least 12 people in an attack that exposed widening gaps in Ukraine's air defenses, authorities said.",
       "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-12",
@@ -878,6 +959,20 @@
       "ticker_label": "💥 Interpol issues red notice for Ukrainian woman wanted for Monaco apartment bombing targeting oligarch"
     },
     {
+      "title": "China carries out ballistic missile test hours after warning neighbouring countries",
+      "description": "China carried out a long-range ballistic missile test in the south Pacific on Monday, sparking criticism from New Zealand and Australia.",
+      "url": "https://news.sky.com/story/china-carries-out-ballistic-missile-test-hours-after-warning-australia-and-new-zealand-13560852",
+      "published": "Mon, 06 Jul 2026 07:39:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 China carries out ballistic missile test hours after warning neighbouring countries"
+    },
+    {
       "title": "Major Ukrainian drone attack on Russia strikes St Petersburg oil terminal",
       "description": "Ukrainian drones have struck an oil terminal and port in St Petersburg and the surrounding region, Russian and Ukrainian officials say.",
       "url": "https://news.sky.com/story/st-petersburg-oil-terminal-hit-as-ukraine-targets-russia-in-major-drone-attack-13560510",
@@ -915,6 +1010,20 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Missouri mom of 5 fatally shot while buying slushies with children; police search for gunman"
+    },
+    {
+      "title": "Red card system in disarray over Trump, Fifa and Balogun decision",
+      "description": "The decision to effectively overturn the red card shown to United States forward Folarin Balogun leaves many unanswered questions.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cly99dxjkxxo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 09:06:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Red card system in disarray over Trump, Fifa and Balogun decision"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -964,21 +1073,10 @@
       "is_ticker": false
     },
     {
-      "title": "Protecting Corsican Scandola Nature Reserve amid tourism boom",
-      "description": "Scandola, a UNESCO-listed nature reserve off the coast of Corsica, is attracting a growing number of visitors from around the world – drawn to its dramatic landscapes and rich marine life. However, protecting its unique wildlife and fragile marine ecosystem is becoming an increasingly delicate balancing act. Our colleagues at France 2 and FRANCE 24's Guillaume Gougeon report.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20260706-protecting-corsican-scandola-national-reserve-amid-tourism-boom",
-      "published": "Mon, 06 Jul 2026 09:00:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "China test-launches ballistic missile from submarine in the Pacific",
       "description": "China’s navy has test-launched a long-range ballistic missile from one of its nuclear-powered submarines in the South Pacific",
       "url": "https://abcnews.com/International/wireStory/china-test-launches-ballistic-missile-submarine-pacific-134508966",
-      "published": "Mon, 06 Jul 2026 08:17:59 -0400",
+      "published": "Mon, 06 Jul 2026 08:50:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -1039,42 +1137,6 @@
       "is_ticker": false
     },
     {
-      "title": "Melbourne teacher receiving end-of-life care after horror head clash during suburban football game",
-      "description": "Epping footballer Nathan Fitzgerald, 27, remains in hospital after hitting his head during a game in Lalor on Saturday Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A suburban Melbourne footballer is receiving “end-of-life” care in hospital after a horror head clash saw him fall to the ground and hit his head on a covered cricket pitch, his club says. High school teacher Nathan Fitzgerald, 27, was taken to Royal Melbourne hospital on Saturday after the incident during an Australian rules football game in Lalor, in Melbourne’s north. His club has since raised concerns about the covered cricket pitch on the oval, where Fitzgerald was injured. Continue reading...",
-      "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
-      "published": "Mon, 06 Jul 2026 05:56:32 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "China conducts long-range ballistic missile test in South Pacific",
-      "description": "China said it test-launched a long-range ballistic missile in the South Pacific on Monday, after countries in the region reported having been warned of an imminent test.",
-      "url": "https://www.france24.com/en/asia-pacific/20260706-china-conducts-long-range-ballistic-missile-test-in-south-pacific",
-      "published": "Mon, 06 Jul 2026 07:32:27 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 China conducts long-range ballistic missile test in South Pacific"
-    },
-    {
-      "title": "Albanians take to the streets in protest for the 35th night in a row",
-      "description": "A massive demonstration has been held for a 35th consecutive day in the Albanian capital of Tirana, with protesters calling for the resignation of Prime Minister Edi Rama, the temporary replacement of his government by a government of technicians, cons...",
-      "url": "https://abcnews.com/International/wireStory/albanians-streets-protest-35th-night-row-134489184",
-      "published": "Sat, 04 Jul 2026 22:44:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
       "description": "Some of the famous guests have been posting on social media about the big day in New York.",
       "url": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
@@ -1086,11 +1148,33 @@
       "is_ticker": false
     },
     {
-      "title": "France survive Paraguay's 'disgraceful' and 'embarrassing' dark arts",
-      "description": "After dismantling all before them at this World Cup, France had to find a new way to win against a Paraguay side whose use of the dark arts angered many of those watching.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cn4dpd11v1eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 01:53:01 GMT",
-      "source": "BBC News",
+      "title": "The World Cup must pay its carbon bill",
+      "description": "Football’s biggest tournament should fund a serious plan to measure, reduce and account for its emissions.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/6/the-world-cup-must-pay-its-carbon-bill?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 12:48:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "USA vs Belgium – World Cup last 16: Trump, Balogun, prediction, start time",
+      "description": "Lobbying by President Trump and a last-minute U-turn by FIFA stir controversy before the knockout match.",
+      "url": "https://www.aljazeera.com/sports/2026/7/6/usa-vs-belgium-world-cup-last-16-balogun-trossard-prediction-kickoff?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 11:58:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Why FIFA’s Balogun red card suspension after Trump call is so controversial",
+      "description": "FIFA's unprecedented decision has led to a huge furore in the football world.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/why-fifas-balogun-red-card-suspension-after-trump-call-is-so-controversial?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 11:49:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1112,39 +1196,6 @@
       "description": "Round of 16 continues as Portugal-Spain rivalry renews before USA take on Belgium.",
       "url": "https://www.aljazeera.com/sports/2026/7/6/fifa-world-cup-round-of-16-bracket-schedule-portugal-vs-spain-prediction?traffic_source=rss",
       "published": "Mon, 06 Jul 2026 09:08:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Mexican fans proud despite World Cup exit",
-      "description": "Mexican fans proud despite World Cup exit",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/mexican-fans-proud-despite-world-cup-exit-2?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 08:44:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Watch World Cup Day 25: England beats Mexico; Norway eliminates Brazil",
-      "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
-      "url": "https://www.aljazeera.com/video/2026/7/6/video-world-cup-2026-highlights?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 08:30:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Portugal vs Spain: World Cup last 16 – Ronaldo, Yamal, start and prediction",
-      "description": "Cristiano Ronaldo's Portugal face Lamine Yamal-powered Spain in an Iberian football derby in the World Cup round of 16.",
-      "url": "https://www.aljazeera.com/sports/2026/7/6/portugal-vs-spain-fifa-world-cup-last-16-ronaldo-yamal-prediction-kickoff-start-time?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 07:43:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1202,6 +1253,20 @@
       "ticker_label": "💥 World Cup 2026: Trump, FIFA and the Balogun controversy"
     },
     {
+      "title": "World Cup 2026: England hold on against Mexico while Norway oust Brazil",
+      "description": "The Three Lions defied high altitude and a roaring home crowd to beat Mexico 3-2. Man of the match Jude Bellingham scored twice in the space of two minutes while Harry Kane's penalty kept England ahead of a fierce Mexico team. Meanwhile five-time champions Brazil were knocked-out by Norway, as Erling Haaland did what he does best to seal the win 2-1.",
+      "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260706-england-hold-on-against-mexico-while-norway-oust-brazil",
+      "published": "Mon, 06 Jul 2026 12:08:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 World Cup 2026: England hold on against Mexico while Norway oust Brazil"
+    },
+    {
       "title": "'Like we won a finae': England savour dramatic win and other World Cup news",
       "description": "England has won a nerve-racking World Cup classic 3-2 against Mexico on July 7 to reach the quarterfinals, after Jude Bellingham scored two goals and Harry Kanes scored a penalty. Norway has also made history by reaching the round of 8 for the first time, after disqualifying Brazil. FRANCE 24's James Vasina tells us more on what to know from the latest on the World Cup.",
       "url": "https://www.france24.com/en/like-we-won-a-finale-england-savour-dramatic-win-and-other-world-cup-news",
@@ -1211,20 +1276,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "US team’s Folarin Balogun free to play after Trump lobbies FIFA to remove ban",
-      "description": "PRESS REVIEW – Monday, 6 July 2026: First, the French papers ready themselves for an upcoming verdict in far-right presidential candidate Marine Le Pen's embezzlement case. Next, the New York Times features a long read on the battle for the internet’s soul. Also, Folarin Balogun will play in Team USA’s next game after US President Donald Trump lobbied FIFA to remove the match suspension he received after being shown a red card in the previous game. Finally, the Belgians have become shrimp shelling world champions.",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260706-us-team-s-folarin-balogun-free-to-play-after-trump-lobbies-fifa-to-remove-ban",
-      "published": "Mon, 06 Jul 2026 08:41:41 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US team’s Folarin Balogun free to play after Trump lobbies FIFA to remove ban"
     },
     {
       "title": "El Niño forecast to intensify, increasing likelihood of extreme weather",
@@ -1282,10 +1333,10 @@
       "is_ticker": false
     },
     {
-      "title": "'Hotter and hotter and hotter' - Europe's new climate in seven charts",
-      "description": "Temperature records were smashed in June - and scientists warn this is a sign of things to come.",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2j0j87reo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:57:05 GMT",
+      "title": "Thousands of forgotten WW1 soldiers recognised for first time",
+      "description": "Nearly 10,000 soldiers' names are being added to the official database of war dead, a cherished step for many of their descendants.",
+      "url": "https://www.bbc.co.uk/news/articles/cgqjpqjgxzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 05:04:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1293,7 +1344,46 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'Hotter and hotter and hotter' - Europe's new climate in seven charts"
+      "ticker_label": "🪖 Thousands of forgotten WW1 soldiers recognised for first time"
+    },
+    {
+      "title": "Baby dies after Israeli troops block emergency journey to hospital",
+      "description": "A baby died after his family’s attempt to reach hospital was blocked by Israel at a checkpoint in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 13:13:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Baby dies after Israeli troops block emergency journey to hospital"
+    },
+    {
+      "title": "Refugees killed in landslides at Rohingya camps in Bangladesh",
+      "description": "Refugees killed in landslides at Rohingya camps in Bangladesh",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/refugees-killed-in-landslides-at-rohingya-camps-in-bangladesh?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 13:07:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Refugees killed in landslides at Rohingya camps in Bangladesh"
+    },
+    {
+      "title": "Large-scale Russian attack on Ukraine before NATO summit",
+      "description": "Large-scale Russian attack on Ukraine before NATO summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 12:55:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Inmates and guards killed in deadly fighting at Sri Lanka prison",
@@ -1360,18 +1450,18 @@
       "ticker_label": "💥 Sri Lanka prison clashes leave dozens dead"
     },
     {
-      "title": "Students leave Gaza to continue studies, others in limbo",
-      "description": "More than three school years since the start of Israel's war in Gaza, more Palestinian students are restarting studies at universities abroad. Education has yet to return to normal, as schools expand online teaching.",
-      "url": "https://www.dw.com/en/students-leave-gaza-to-continue-studies-others-in-limbo/a-77816921?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 5 Jul 2026 16:28:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Russian spy plane dropped sonar trackers in path of Royal Navy aircraft carrier",
+      "description": "A Russian spy plane dropped tens of sonar devices in the path of the UK's flagship aircraft carrier in a suspected attempt to harass the warship that prompted RAF fighter jets to scramble.",
+      "url": "https://news.sky.com/story/russian-spy-plane-dropped-sonar-trackers-in-path-of-royal-navy-aircraft-carrier-13560985",
+      "published": "Mon, 06 Jul 2026 13:29:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Students leave Gaza to continue studies, others in limbo"
+      "ticker_label": "🪖 Russian spy plane dropped sonar trackers in path of Royal Navy aircraft carrier"
     },
     {
       "title": "China fires a missile from a submarine in a test launch in the South Pacific, state media say",
@@ -1449,24 +1539,46 @@
       "is_ticker": false
     },
     {
-      "title": "Belgium granted right to appeal FIFA's Balogun decision",
-      "description": "Belgium have been granted the right to appeal FIFA's decision to overturn US striker Folarin Balogun's suspension, The Athletic reported on Monday, which reportedly took place after an intervention from US President Donald Trump.",
-      "url": "https://www.france24.com/en/sport/20260706-belgium-granted-right-to-appeal-fifa-s-balogun-decision",
-      "published": "Mon, 06 Jul 2026 09:22:54 GMT",
+      "title": "In Tehran, funeral attendees grieve the loss of supreme leader Ali Khamenei",
+      "description": "In Iran, the funeral procession of the late supreme leader Ali Khamenei is moving through Tehran. Millions have turned out for the procession and the funeral of the ayatollah who had been lying in the capital's Grand Mosalla religious complex for two days. He will be buried in his home town on July 10.",
+      "url": "https://www.france24.com/en/in-tehran-funeral-attendees-grieve-the-loss-of-supreme-leader-ali-khamenei",
+      "published": "Mon, 06 Jul 2026 12:33:19 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Belgium granted right to appeal FIFA's Balogun decision"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 In Tehran, funeral attendees grieve the loss of supreme leader Ali Khamenei"
     },
     {
       "title": "Marine Le Pen appeal verdict: Why this moment matters for France",
       "description": "The leader of France's National Rally leads the opinion polls ahead of the 2027 presidential election and will now find out if she can stand.",
       "url": "https://www.bbc.co.uk/news/articles/clyeele4leeo?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 05 Jul 2026 23:31:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Is this a breakthrough moment for soccer in the US?",
+      "description": "Victory for the national team against Belgium on Monday could mean the sport takes further strides among American audiences.",
+      "url": "https://www.bbc.co.uk/news/articles/cd6exx1xl4po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 11:19:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Why an anti-sacrilege law in India's Punjab has sparked controversy",
+      "description": "The dispute has revived one of Punjab's most sensitive political and religious issues ahead of state elections next year.",
+      "url": "https://www.bbc.co.uk/news/articles/crlw1xrzd8yo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 06 Jul 2026 08:35:56 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1543,6 +1655,17 @@
       "is_ticker": false
     },
     {
+      "title": "In pictures: Marine Le Pen’s political rise and frustrated presidential ambitions",
+      "description": "French far-right figurehead Marine Le Pen could see her 40-year political career come to an end on Tuesday if French courts rule that she is guilty of embezzling public funds and ineligible to stand for the presidency in 2027. FRANCE 24 takes a look at how she rose to prominence in France and brought her National Rally party into mainstream politics.",
+      "url": "https://www.france24.com/en/france/20260706-in-pictures-marine-le-pen-s-political-rise-and-frustrated-presidential-ambitions",
+      "published": "Mon, 06 Jul 2026 12:58:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Super Typhoon Bavi makes landfall on US Pacific islands with huge wind gusts",
       "description": "The storm, with winds of nearly 290km/h (180mph) and gusts of 350km/h, is lashing the island of Rota.",
       "url": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
@@ -1600,6 +1723,17 @@
       "description": "Residents in Congo's Ebola outbreak zone are hopeful as researchers begin a study of two potential treatments",
       "url": "https://abcnews.com/International/wireStory/residents-eastern-congo-cling-hope-new-ebola-treatment-134493288",
       "published": "Sun, 05 Jul 2026 05:22:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Tanzanian authorities arrest dozens ahead of anti-government protests",
+      "description": "Tanzanian authorities have arrested dozens of people ahead of planned anti-government protests",
+      "url": "https://abcnews.com/International/wireStory/tanzanian-authorities-arrest-dozens-ahead-anti-government-protests-134511391",
+      "published": "Mon, 06 Jul 2026 08:49:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1668,20 +1802,6 @@
       "is_ticker": false
     },
     {
-      "title": "Super Typhoon Bavi makes landfall on US Pacific islands",
-      "description": "Local authorities on Rota, part of the Northern Mariana Islands, say they have received reports of 'major damages'.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/super-typhoon-bavi-makes-landfall-on-us-pacific-islands?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 07:59:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Super Typhoon Bavi makes landfall on US Pacific islands"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1729,17 +1849,6 @@
       "ticker_label": "💥 Syria expecting Macron visit in first for Western head-of-state since Assad"
     },
     {
-      "title": "Macron expected in Syria in first post-Assad visit by Western leader, Damascus says",
-      "description": "French President Emmanuel Macron is expected to visit Syria, the Syrian presidency announced on Sunday, without specifying the date of his visit, which will be the first by a head of state from a Western power since the 2024 ousting of longtime ruler Bashar al-Assad.",
-      "url": "https://www.france24.com/en/middle-east/20260706-macron-expected-in-syria-in-first-post-assad-visit-by-western-leader-damascus-says",
-      "published": "Mon, 06 Jul 2026 07:50:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "NATO chief faces challenge at summit as Trump demands 'loyalty'",
       "description": "Rutte has spent much of his time trying to keep the United States anchored.",
       "url": "https://abcnews.com/International/wireStory/nato-chief-faces-challenge-summit-trump-demands-loyalty-134493185",
@@ -1782,20 +1891,6 @@
       "severity_score": 4,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "China missile test draws criticism from Australia, New Zealand, Japan",
-      "description": "Countries raise concerns after Chinese military test-launches ballistic missile from submarine in the Pacific Ocean.",
-      "url": "https://www.aljazeera.com/news/2026/7/6/china-missile-test-draws-criticism-from-australia-new-zealand-japan?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 07:28:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 China missile test draws criticism from Australia, New Zealand, Japan"
     },
     {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
@@ -1944,17 +2039,6 @@
       "is_ticker": false
     },
     {
-      "title": "The African fishermen who blame Chinese trawlers for their woes",
-      "description": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
-      "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 23:30:40 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Bangladesh courts China even as ties with India improve",
       "description": "Relations between Dhaka and Delhi, that turned frosty under the interim government, are on the mend.",
       "url": "https://www.bbc.co.uk/news/articles/cy4e1lzwgvxo?at_medium=RSS&at_campaign=rss",
@@ -1966,10 +2050,10 @@
       "is_ticker": false
     },
     {
-      "title": "How Iran's new regime is very different to what came before",
-      "description": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
-      "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 05 Jul 2026 05:40:07 GMT",
+      "title": "The African fishermen who blame Chinese trawlers for their woes",
+      "description": "Fishing crews in Sierra Leone say large Chinese ships are illegally hoovering up stocks.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4gy9qy7vyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 05 Jul 2026 23:30:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1977,47 +2061,33 @@
       "is_ticker": false
     },
     {
-      "title": "Cowboys, fighter jets and US Border Patrol - inside Trump's big recruitment drive",
-      "description": "Space Force and Customs and Border Patrol are using a rodeo as a way to drive up recruitment numbers.",
-      "url": "https://www.bbc.co.uk/news/articles/ce3ex7rnpg6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 23:33:27 GMT",
-      "source": "BBC News",
+      "title": "Hamas announces dissolution of Gaza governing body",
+      "description": "A Palestinian technocratic committee will take its place to manage the enclave's day-to-day governance.",
+      "url": "https://www.aljazeera.com/news/2026/7/6/hamas-announces-dissolution-of-gaza-governing-body?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 13:36:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding",
-      "description": "The couple tied the knot in New York on Friday, after months of speculation about when, where and how it would happen.",
-      "url": "https://www.bbc.co.uk/news/articles/cvg5zn58nj2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 17:51:04 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Dior dress, Adam Sandler and a man of honour: What we know about Taylor and Travis's wedding"
-    },
-    {
-      "title": "More cows than pupils - what is behind mass school closures in rural Kenya?",
-      "description": "More than 2,000 primary schools are facing closure as enrolment numbers plummet.",
-      "url": "https://www.bbc.co.uk/news/articles/cy72mn3m7l3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 04 Jul 2026 00:51:44 GMT",
-      "source": "BBC News",
+      "title": "England boss jokes Trump could help lift defender’s suspension",
+      "description": "England boss jokes Trump could help lift defender’s suspension",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/england-boss-jokes-trump-could-help-lift-defenders-suspension?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 13:31:02 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "Watch: Why Australia's PM apologised for 'inappropriate' Kylie comments",
-      "description": "Australian Prime Minister Anthony Albanese has apologised for remarks he made about popstar Kylie Minogue in a podcast interview last week.",
-      "url": "https://www.bbc.co.uk/news/videos/c1kyylkz9vyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 06 Jul 2026 10:00:08 GMT",
-      "source": "BBC News",
+      "title": "Scorching heat worsens suffering in Gaza’s displacement camps",
+      "description": "Scorching heat worsens suffering in Gaza's displacement camps",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/scorching-heat-worsens-suffering-in-gazas-displacement-camps?traffic_source=rss",
+      "published": "Mon, 06 Jul 2026 11:44:04 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2050,50 +2120,6 @@
       "description": "As another far-right party gains ground, scrutiny of Farage's outside earnings challenges his anti-establishment image.",
       "url": "https://www.aljazeera.com/news/2026/7/6/uks-farages-gold-deal-tests-his-populist-brand-as-restore-britain-rises?traffic_source=rss",
       "published": "Mon, 06 Jul 2026 10:14:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Impeachment trial of Philippines VP Sara Duterte begins",
-      "description": "Impeachment trial of Philippines VP Sara Duterte begins",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/impeachment-trial-of-philippines-vp-sara-duterte-begins?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 08:23:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
-      "description": "Security camera video appears to show an Israeli soldier throwing a stun grenade into a car carrying young Palestinians.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 08:19:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Funeral procession for Iran’s slain Supreme Leader Ali Khamenei under way",
-      "description": "Iranians mourn along procession route before burial in Mashhad during weeklong ceremonies.",
-      "url": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 07:11:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Khamenei’s funeral procession moves through Tehran",
-      "description": "Crowds filled the streets of Tehran as the funeral procession for Iran’s Supreme Leader, Ayatollah Ali Khamenei, began.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/khameneis-funeral-procession-moves-through-tehran?traffic_source=rss",
-      "published": "Mon, 06 Jul 2026 07:05:35 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2222,10 +2248,24 @@
       "is_ticker": false
     },
     {
+      "title": "Melbourne teacher dies after head clash during suburban football game",
+      "description": "Epping footballer Nathan Fitzgerald, 27, died in hospital after hitting his head during a game in Lalor, club confirms Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A suburban Melbourne footballer has died in hospital after a clash of heads saw him fall to the ground and hit his head on a covered cricket pitch, his club confirmed on Monday night. High school teacher Nathan Fitzgerald, 27, was taken to Royal Melbourne hospital on Saturday after the incident during an Australian rules football game in Lalor in Melbourne’s north, and was said to be receiving “end of life” care. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/jul/06/nathan-fitzgerald-epping-footballer-victoria-head-injury-aussie-rules-football-game",
+      "published": "Mon, 06 Jul 2026 12:42:59 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Melbourne teacher dies after head clash during suburban football game"
+    },
+    {
       "title": "M 3.8 - 2 km E of Oak Harbor, Washington",
       "description": "ShakeMap - III DYFI? - IV Time 2026-07-02 06:35:47 UTC 2026-07-02 06:35:47 UTC at epicenter Location 48.289°N 122.607°W Depth 25.38 km (15.77 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714040221",
-      "published": "2026-07-06T03:00:32.105Z",
+      "published": "2026-07-06T12:42:41.747Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2343,6 +2383,28 @@
       "is_ticker": false
     },
     {
+      "title": "How are the millions attending Khamenei's funeral remembering the late ayatollah?",
+      "description": "The funeral procession for Iran's late supreme leader Ali Khamenei has begun in Tehran. Millions are expected to attend, possibly leading to crowds that could rival those that turned out for his predecessor nearly four decades ago. FRANCE 24's Reza Sayah went to the procession and tells us why so many admired the late ayatollah.",
+      "url": "https://www.france24.com/en/how-are-the-millions-attending-khamenei-s-funeral-remembering-the-late-ayatollah",
+      "published": "Mon, 06 Jul 2026 12:55:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Dissolution of Hamas's Gaza governing body won't bring 'significant change of life'",
+      "description": "Hamas announced on July 7 the dissolution of the body that has governed the Gaza Strip for nearly two decades. The decision would clear the way for a technocratic committee to implement civilian rule. But questions remain. FRANCE 24's Noga Tarnopolsky tells us more from Jerusalem.",
+      "url": "https://www.france24.com/en/dissolution-of-hamas-s-gaza-governing-body-won-t-bring-significant-change-of-life",
+      "published": "Mon, 06 Jul 2026 12:29:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "As a new heatwave looms, Europe falls for Chinese air conditioners",
       "description": "Hundreds of people besieged supermarkets in and around Paris, with scuffles and shouting matches breaking out as residents scrambled to get their hands on bargain air-cooling units before the next heatwave. With the hunt for affordability, Europeans are turning to Chinese AC units - despite trade tensions between Beijing and Brussels. FRANCE 24's Yena Lee tells us more.",
       "url": "https://www.france24.com/en/as-a-new-heatwave-looms-europe-falls-for-chinese-air-conditioners",
@@ -2445,7 +2507,29 @@
       "title": "Philippine Senate opens the impeachment trial of Vice President Sara Duterte",
       "description": "The Philippine Senate has started the impeachment trial of Vice President Sara Duterte in a politically volatile event that will unfold against the backdrop of her feud with President Ferdinand Marcos Jr. Thousands of police officers were deployed to s...",
       "url": "https://abcnews.com/International/wireStory/philippine-senate-opening-politically-volatile-impeachment-trial-vice-134505996",
-      "published": "Mon, 06 Jul 2026 08:17:56 -0400",
+      "published": "Mon, 06 Jul 2026 08:25:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Reform UK leader Nigel Farage faces questions over donations from convicted fraudster",
+      "description": "Nigel Farage is facing mounting scrutiny over undeclared financial gifts including a 5 million pound donation from a Thailand-based cryptocurrency billionaire",
+      "url": "https://abcnews.com/International/wireStory/reform-uk-leader-nigel-farage-faces-questions-donations-134512541",
+      "published": "Mon, 06 Jul 2026 08:41:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK sanctions Russian labs and people over chemical weapons used on Navalny, Skripal",
+      "description": "Britain has imposed sanctions on nine Russian people and entities for developing chemical weapons",
+      "url": "https://abcnews.com/International/wireStory/uk-sanctions-russian-labs-people-chemical-weapons-navalny-134514203",
+      "published": "Mon, 06 Jul 2026 09:39:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2469,28 +2553,6 @@
       "url": "https://abcnews.com/International/wireStory/timeline-marine-le-pens-political-career-rise-french-134510615",
       "published": "Mon, 06 Jul 2026 07:22:05 -0400",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope on vacation after decisive flexing of papal muscle",
-      "description": "Pope Leo XIV has had a whirlwind finale to the first half of 2026.",
-      "url": "https://abcnews.com/International/wireStory/pope-heads-vacation-after-decisive-flexing-papal-muscle-134494299",
-      "published": "Sun, 05 Jul 2026 20:05:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Quake latest: Food grows scarcer for thousands of Venezuelan families",
-      "description": "The deadly Venezuela quakes have deepened hardship for families who already needed support and left others without homes, income or regular access to food.",
-      "url": "https://news.un.org/feed/view/en/story/2026/06/1167846",
-      "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
