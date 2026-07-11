@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-11T03:10:12.549965Z",
+  "last_updated": "2026-07-11T04:35:38.380186Z",
   "event_count": 216,
   "events": [
     {
@@ -101,6 +101,20 @@
       "ticker_label": "💥 Greek police arrest 2 people over 2010 fatal arson attack on Athens bank"
     },
     {
+      "title": "Spain battles to contain one of its deadliest wildfires as at least 12 killed",
+      "description": "At least four Britons are believed to be among the victims of the blaze, which left another 23 people missing.",
+      "url": "https://www.bbc.co.uk/news/articles/c1wyv383j2xo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 11 Jul 2026 04:06:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Spain battles to contain one of its deadliest wildfires as at least 12 killed"
+    },
+    {
       "title": "Port Arthur: The shooting that changed Australia",
       "description": "Thirty years ago, Australia experienced the deadliest mass shooting in its history. The Port Arthur massacre transformed the country’s relationship to guns and reshaped firearms policy for decades. Now, following the Bondi Beach attack in December 2025, Australia is once again questioning whether those reforms are still sufficient. Mairead Dundas revisits Port Arthur for France 24",
       "url": "https://www.france24.com/en/tv-shows/revisited/20260710-port-arthur-the-shooting-that-changed-australia",
@@ -166,20 +180,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ 12 die in wildfire in Spain amid soaring temperatures"
-    },
-    {
-      "title": "Wildfire in southern Spain leaves at least 12 dead and 23 missing",
-      "description": "A local official said four of the victims may be British after a fire broke out near Los Gallardos, Almería.",
-      "url": "https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 10 Jul 2026 14:08:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfire in southern Spain leaves at least 12 dead and 23 missing"
     },
     {
       "title": "How Pauline Hanson courts UK’s far right – and builds a global brand – with ‘pseudo events’ and publicity stunts",
@@ -442,11 +442,36 @@
       "ticker_label": "🪖 New 911 audio captures neighbors warning of 'full-out war' before police were attacked in block party chaos"
     },
     {
+      "title": "Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers",
+      "description": "Haaland termed a 'beast' by England's Kane as the lethal forwards aim to carry their teams into the semifinals.",
+      "url": "https://www.aljazeera.com/sports/2026/7/11/kane-vs-haaland-in-england-vs-norway-world-cup-quarterfinal-of-strikers?traffic_source=rss",
+      "published": "Sat, 11 Jul 2026 03:54:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kane vs Haaland in England vs Norway World Cup quarterfinal of strikers"
+    },
+    {
       "title": "Colombia’s Jaminton Campaz receives death threats after World Cup exit",
       "description": "Campaz was threatened after failing to score in the last-16 match against Switzerland, which Colombia lost on penalties.",
       "url": "https://www.aljazeera.com/sports/2026/7/10/colombias-jaminton-campaz-receives-death-threats-after-world-cup-exit?traffic_source=rss",
       "published": "Fri, 10 Jul 2026 22:39:17 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "US: Trump looked to bypass federal election agency before firings, says report",
+      "description": "The White House explored declaring a national emergency to address alleged vulnerabilities in voting machines before Trump ousted leaders of the election commission, a report has found.",
+      "url": "https://www.dw.com/en/us-trump-looked-to-bypass-federal-election-agency-before-firings-says-report/a-77913362?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 11 Jul 2026 03:57:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical",
@@ -587,20 +612,6 @@
       "ticker_label": "🪖 Israel fortifies border with Jordan as Iran seeks new terror path"
     },
     {
-      "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
-      "description": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "published": "Sat, 11 Jul 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: US demands Iran publicly state Strait of Hormuz open for all"
-    },
-    {
       "title": "Trump signals support for Patriot production in Ukraine",
       "description": "US President Donald Trump says he may let Ukraine produce Patriot air defense missiles. Analysts welcome the move as a sign of support for the country — but warn it could take years before production begins.",
       "url": "https://www.dw.com/en/trump-signals-support-for-patriot-production-in-ukraine/a-77909681?maca=en-rss-en-all-1573-xml-mrss",
@@ -652,6 +663,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 'My childhood passion is now a lifetime commitment': Wildlife conservationist Krithi Karanth"
+    },
+    {
+      "title": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
+      "description": "US president says orders given to 'decimate and destroy all areas of Iran' if he is assassinated",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "published": "Sat, 11 Jul 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him"
     },
     {
       "title": "‘Software glitch’ blamed for mass outage – as it happened",
@@ -861,6 +886,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Former U.S. envoy reacts to Iran strikes and NATO summit"
+    },
+    {
+      "title": "US wants Iranian pledge to halt Hormuz attacks — officials",
+      "description": "US officials said Washington wants Tehran to publicly vow to end attacks on vessels in the strategic Strait of Hormuz. President Trump also threatened to \"completely decimate\" Iran if it attempted to assassinate him.",
+      "url": "https://www.dw.com/en/us-wants-iranian-pledge-to-halt-hormuz-attacks-officials/live-77913349?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 11 Jul 2026 03:20:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Nigerian military rescues 46 abducted school children",
@@ -1183,31 +1219,6 @@
       "description": "The World Cup can offer more than just entertainment, it can also benefit your mental well-being. DW explains why.",
       "url": "https://www.dw.com/en/why-the-world-cup-can-be-good-for-your-mental-health/a-77889619?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 10 Jul 2026 10:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ukrainian drone strikes ignite fires at Russian oil sites",
-      "description": "An overnight assault reached key oil facilities in southern Russia, adding pressure to a fuel network already strained by repeated Ukrainian strikes.",
-      "url": "https://www.dw.com/en/ukrainian-drone-strikes-ignite-fires-at-russian-oil-sites/a-77900682?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 10 Jul 2026 09:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukrainian drone strikes ignite fires at Russian oil sites"
-    },
-    {
-      "title": "What's behind Germany's World Cup woes?",
-      "description": "Germany have endured three straight disappointing World Cups. Experts say the reasons why are connected to football, but also to German society.",
-      "url": "https://www.dw.com/en/what-s-behind-germany-s-world-cup-woes/a-77886108?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 10 Jul 2026 08:47:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
@@ -2179,17 +2190,6 @@
       "description": "Sandra Wong did not know her great-grandfather growing up. But his legacy would catapult her into the public eye.",
       "url": "https://www.aljazeera.com/news/longform/2026/7/10/how-wong-kim-arks-legacy-reignited-the-fight-for-birthright-citizenship?traffic_source=rss",
       "published": "Fri, 10 Jul 2026 20:24:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "EU says ‘addictive’ features on Instagram and Facebook breach its rules",
-      "description": "Bloc says some design features on platforms built by Meta can cause users' brains to go into 'autopilot mode'.",
-      "url": "https://www.aljazeera.com/news/2026/7/10/eu-says-addictive-features-on-instagram-and-facebook-breach-its-rules?traffic_source=rss",
-      "published": "Fri, 10 Jul 2026 19:13:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
