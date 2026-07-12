@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T13:33:49.179234Z",
+  "last_updated": "2026-07-12T14:34:29.732822Z",
   "event_count": 221,
   "events": [
     {
@@ -116,9 +116,9 @@
     },
     {
       "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
-      "description": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, according to local media",
+      "description": "The unnamed pair were found semi-conscious with 40% burns after being trapped by the blazes raging through Almeria province, local media reports.",
       "url": "https://www.bbc.co.uk/news/articles/cx2x7441762o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 11:23:09 GMT",
+      "published": "Sun, 12 Jul 2026 13:35:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 35,
@@ -155,7 +155,7 @@
     },
     {
       "title": "Two dead and four injured in Toronto shooting",
-      "description": "Two people have been killed and four others have been wounded in a shooting at a street festival in Toronto, police have said.",
+      "description": "Two men have been killed and four other people have been wounded in a shooting at a street festival in Toronto, police have said.",
       "url": "https://news.sky.com/story/two-dead-and-four-injured-in-shooting-at-toronto-festival-police-say-13562675",
       "published": "Sun, 12 Jul 2026 02:41:00 +0100",
       "source": "Sky News World",
@@ -182,18 +182,18 @@
       "ticker_label": "🚨 Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded"
     },
     {
-      "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-      "description": "Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 07:53:41 +0000",
-      "source": "Al Jazeera",
+      "title": "Could AI help al-Qaeda and other groups plan terror attacks?",
+      "description": "Followers of extremist groups regularly ask how AI can help them plan terrorist attacks. A new study suggests that about one-third of AI chatbots might help them, if asked the right way.",
+      "url": "https://www.dw.com/en/could-ai-help-al-qaeda-and-other-groups-plan-terror-attacks/a-77909676?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 11 Jul 2026 05:48:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 28,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Missiles and drones fired at Gulf states after night of US strikes on Iran"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Could AI help al-Qaeda and other groups plan terror attacks?"
     },
     {
       "title": "Son of man who died in Spanish wildfire disputes authorities' warnings claim",
@@ -311,7 +311,7 @@
       "title": "Ukrainian attacks on Russia kill 1 as Kyiv continues to target tankers and refineries",
       "description": "A Ukrainian attack in southwest Russia killed one person and wounded three more, local officials said Sunday, as Kyiv’s forces continued to bombard Russia’s oil facilities",
       "url": "https://abcnews.com/International/wireStory/ukrainian-attacks-russia-kill-1-kyiv-continues-target-134689098",
-      "published": "Sun, 12 Jul 2026 07:26:11 -0400",
+      "published": "Sun, 12 Jul 2026 09:38:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 23,
@@ -498,6 +498,20 @@
       "is_ticker": false
     },
     {
+      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
+      "description": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.",
+      "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
+      "published": "Sat, 11 Jul 2026 21:32:36 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz"
+    },
+    {
       "title": "Typhoon slams into eastern China after forcing nearly two million people to flee",
       "description": "Typhoon Bavi weakened to a severe tropical storm on Sunday after making landfall in eastern China, where authorities evacuated nearly two million people and suspended transport as the powerful storm threatened flooding and destructive winds.",
       "url": "https://www.france24.com/en/asia-pacific/20260712-typhoon-slams-into-eastern-china-as-more-than-2-million-people-evacuated",
@@ -560,20 +574,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Peak heat in Europe just broke historic 1970s records"
-    },
-    {
-      "title": "Israel fortifies border with Jordan as Iran seeks new terror path",
-      "description": "IDF Division 96 has thwarted more than 20 smuggling attempts this year as Israel reactivates 45 military bases along the Jordan Valley border.",
-      "url": "https://www.foxnews.com/world/israel-fortifies-border-jordan-iran-seeks-new-terror-path",
-      "published": "Mon, 06 Jul 2026 15:47:59 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel fortifies border with Jordan as Iran seeks new terror path"
     },
     {
       "title": "Qatar: Former Emir Sheikh Hamad bin Khalifa Al Thani dies at 74",
@@ -646,20 +646,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Software glitch’ blamed for mass outage – as it happened"
-    },
-    {
-      "title": "US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states",
-      "description": "The United States attacked Iran early Sunday morning over an Iranian attack on a vessel in the Strait of Hormuz. Iran apparently responded with strikes targeting Bahrain, Qatar and the United Arab Emirates.",
-      "url": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
-      "published": "Sat, 11 Jul 2026 21:32:36 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US attacks Iran over ship being hit in Strait of Hormuz; Tehran lashes out again at Gulf Arab states"
     },
     {
       "title": "South Africa World Cup midfielder Adams dies aged 25",
@@ -1004,17 +990,6 @@
       "is_ticker": false
     },
     {
-      "title": "Berlin hostage crisis: Woman freed after hourslong standoff",
-      "description": "A man allegedly took a woman hostage in a supermarket, prompting a major police operation. The suspect reportedly \"pulled out\" a big knife before the supermarket closed on Friday evening.",
-      "url": "https://www.dw.com/en/berlin-hostage-crisis-woman-freed-after-hourslong-standoff/a-77913331?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 11 Jul 2026 07:54:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
       "description": "Atrocities committed by the Rapid Support Forces (RSF) militia against Sudanese civilians in El Fasher in October – including mass killings, abductions and gang rapes – bear the markers of genocide, independent UN human rights investigators reported on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167897",
@@ -1102,17 +1077,6 @@
       "description": "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.",
       "url": "https://www.aljazeera.com/video/2026/7/12/video-world-cup-2026-highlights?traffic_source=rss",
       "published": "Sun, 12 Jul 2026 08:10:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "France vs Spain World Cup semifinal: Prediction, Mbappe-Yamal, venue, stats",
-      "description": "European football titans France and Spain meet in a blockbuster FIFA World Cup 2026 final four matchup in Dallas.",
-      "url": "https://www.aljazeera.com/sports/2026/7/12/france-spain-fifa-world-cup-semifinals-mbappe-yamal-prediction-stats-venue?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 07:19:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1306,17 +1270,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Typhoon Bavi weakens to tropical storm as it slams into eastern China"
-    },
-    {
-      "title": "IRGC vows ‘crushing response’ to any further US attacks",
-      "description": "IRGC vows ‘crushing response’ to any further US attacks",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/irgc-vows-crushing-response-to-any-further-us-attacks?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 07:08:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1625,7 +1578,7 @@
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "description": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 13:10:21 GMT",
+      "published": "Sun, 12 Jul 2026 14:18:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1681,20 +1634,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 IRGC releases video of retaliatory missile strikes"
-    },
-    {
-      "title": "US CENTCOM completes third round of strikes on Iran",
-      "description": "US CENTCOM completes third round of strikes on Iran",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 07:58:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US CENTCOM completes third round of strikes on Iran"
     },
     {
       "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
@@ -1814,6 +1753,20 @@
       "ticker_label": "💥 California man picks up explosive device on a beach during July 4 cleanup, loses hand"
     },
     {
+      "title": "New Germany sex-crime figures reignite migration fight as exploitation probe expands",
+      "description": "Germany recorded 751 group rape cases in 2025 with 578 non-German suspects identified, as a Nuremberg grooming gang investigation continues to expand.",
+      "url": "https://www.foxnews.com/world/new-germany-sex-crime-figures-reignite-migration-fight-exploitation-probe-expands",
+      "published": "Sun, 12 Jul 2026 10:00:04 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 New Germany sex-crime figures reignite migration fight as exploitation probe expands"
+    },
+    {
       "title": "Jailed Catholic woman's hunger strike highlights Iran religious persecution — US demands action",
       "description": "Ghazal Marzban, a Catholic woman, is on hunger strike in Evin prison in Tehran as arrests of Christians jumped from 139 in 2024 to 254 in 2025.",
       "url": "https://www.foxnews.com/world/jailed-catholic-womans-hunger-strike-highlights-iran-religious-persecution-us-demands-action",
@@ -1903,7 +1856,7 @@
       "title": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at age 74, state news agency says",
       "description": "Sheikh Hamad bin Khalifa Al Thani has died at age 74",
       "url": "https://abcnews.com/International/wireStory/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-134688542",
-      "published": "Sun, 12 Jul 2026 04:57:03 -0400",
+      "published": "Sun, 12 Jul 2026 08:58:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -2027,6 +1980,17 @@
       "is_ticker": false
     },
     {
+      "title": "Driven by desperation: Yemenis resort to dangerous energy alternatives",
+      "description": "Solar energy systems are a good alternative to help Yemenis access electricity but there are hidden dangers.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/driven-by-desperation-yemenis-resort-to-dangerous-energy-alternatives?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 14:12:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -2123,6 +2087,39 @@
       "url": "https://www.bbc.co.uk/news/articles/cn7558gdvjro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 10 Jul 2026 23:02:59 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Friends turned foes: The split reshaping Senegal",
+      "description": "Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.",
+      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 13:51:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Marc Marquez dominates Germany MotoGP to close in on championship lead",
+      "description": "Reigning champion won his 10th German Grand Prix and moves to within 18 points of the riders' championship lead.",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/marc-marquez-dominates-germany-motogp-to-close-in-on-championship-lead?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 13:45:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
+      "description": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 13:28:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2396,6 +2393,17 @@
       "is_ticker": false
     },
     {
+      "title": "UK police says no evidence of political motive in murder ​of former minister Widdecombe",
+      "description": "Police on Sunday said that there is no evidence that the suspected murder ​of former British government minister Ann Widdecombe was politically motivated. Widdecombe, 78, was found dead at ⁠her home in rural southwest England on Thursday with what police described as \"serious injuries\".",
+      "url": "https://www.france24.com/en/europe/20260712-uk-police-says-no-evidence-of-political-motive-in-murder-of-former-minister-widdecombe",
+      "published": "Sun, 12 Jul 2026 14:12:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine's Zelensky proposes new PM in Ukraine government reshuffle",
       "description": "Ukrainian President Volodymyr Zelensky said on Sunday he had proposed replacing Prime Minister Yulia Svyrydenko as part of a broader government reshuffle aimed at implementing an \"updated political strategy\".",
       "url": "https://www.france24.com/en/europe/20260712-ukraine-s-zelensky-proposes-new-pm-in-ukraine-government-reshuffle",
@@ -2444,17 +2452,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Lindsey Graham, pivotal US Republican senator, dies suddenly at 71"
-    },
-    {
-      "title": "Argentina-Switzerland: Lautaro Martinez seals Albiceleste's passage to the semi-finals",
-      "description": "Argentina advanced to the semi-finals with a dramatic 3-1 extra-time victory over 10-man Switzerland, with Lautaro Martinez's late goal sealing their passage to face England. Relive our minute-by-minute commentary to see how things unfolded.",
-      "url": "https://www.france24.com/en/sport/20260712-argentina-switzerland-live-defending-champions-face-swiss-underdogs-for-semi-finals-spot",
-      "published": "Sun, 12 Jul 2026 00:35:11 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Trump ally Lindsey Graham dies - as Zelenskyy pays tribute",
