@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T17:25:41.199045Z",
+  "last_updated": "2026-07-12T17:50:43.289896Z",
   "event_count": 221,
   "events": [
     {
@@ -85,20 +85,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Nigeria says army has killed 300 bandits in north-western state of Zamfara"
-    },
-    {
-      "title": "Woman pleads for help over parents missing after Spanish wildfire",
-      "description": "Emergency crews and relatives are working to find survivors after Spain's worst wildfire for more than two decades killed at least 12 people.",
-      "url": "https://news.sky.com/story/rescuers-search-for-spanish-wildfire-survivors-as-woman-issues-plea-for-help-over-missing-parents-13562489",
-      "published": "Sat, 11 Jul 2026 09:41:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Woman pleads for help over parents missing after Spanish wildfire"
     },
     {
       "title": "Badly burned British couple rescued from ravine during Spain wildfires, reports say",
@@ -593,6 +579,20 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Toronto police looking for suspects after deadly shooting at festival",
+      "description": "At least two people are dead and at least four people are injured after a shooting on Saturday night at a festival celebrating Latin culture in Canada's biggest city.",
+      "url": "https://www.npr.org/2026/07/12/g-s1-133229/toronto-shooting-salsa-festival",
+      "published": "Sun, 12 Jul 2026 13:22:29 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Toronto police looking for suspects after deadly shooting at festival"
     },
     {
       "title": "Father, son killed in plane crash on way home from baseball game",
@@ -1524,7 +1524,7 @@
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "description": "Donald Trump pays tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 15:34:45 GMT",
+      "published": "Sun, 12 Jul 2026 17:40:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1577,20 +1577,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza"
-    },
-    {
-      "title": "9 months into a ceasefire, Israel now controls nearly 70% of Gaza",
-      "description": "When the U.S. brokered a ceasefire last year, Israel controlled half of Gaza. Now Israeli forces have pushed deeper, and Palestinians are paying a deadly price.",
-      "url": "https://www.npr.org/2026/07/10/nx-s1-5887357/israel-gaza-war-trump-ceasefire-military-control",
-      "published": "Fri, 10 Jul 2026 05:00:00 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 9 months into a ceasefire, Israel now controls nearly 70% of Gaza"
     },
     {
       "title": "US: Reporters subpoenaed over Air Force One stories",
@@ -2439,6 +2425,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Lindsey Graham, pivotal US Republican senator, dies suddenly at 71"
+    },
+    {
+      "title": "Ukraine's prime minister stepping down after only a year, in Zelenskyy reshuffle",
+      "description": "Ukrainian prime minister Yulia Svyrydenko has stepped down as President Volodymyr Zelenskyy begins a reshuffle of Ukraine's government.",
+      "url": "https://news.sky.com/story/ukraines-prime-minister-stepping-down-after-only-a-year-in-zelenskyy-reshuffle-13562826",
+      "published": "Sun, 12 Jul 2026 15:43:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Trump ally Lindsey Graham dies - as Zelenskyy pays tribute",
