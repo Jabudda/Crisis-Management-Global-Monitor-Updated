@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T20:49:01.808074Z",
+  "last_updated": "2026-07-12T21:20:57.957408Z",
   "event_count": 222,
   "events": [
     {
@@ -403,6 +403,17 @@
       "is_ticker": false
     },
     {
+      "title": "At least 27 killed in Bangkok bar fire",
+      "description": "Firefighters arrived at the scene in the Chatuchak district to find patrons running through blasting flames to escape.",
+      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 20:13:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Palestinian aid worker who organized World Cup screenings killed in Israeli strike",
       "description": "Palestinians are mourning Mohammed al-Wahidi, a beloved aid worker in Gaza. He was killed by as Israeli airstrike while en route to a World Cup screening which he organized.",
       "url": "https://www.npr.org/2026/07/11/nx-s1-5890044/palestinian-aid-worker-who-organized-world-cup-screenings-killed-in-israeli-strike",
@@ -484,6 +495,20 @@
       "ticker_label": "🪖 U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz"
     },
     {
+      "title": "Iran expands attacks on Gulf states after intense US strikes",
+      "description": "Iran reported strikes Sunday evening on two of its southern islands while Kuwait, where Tehran has repeatedly targeted US installations, said border posts and an offshore oil platform had been attacked. The as-yet unclaimed strikes came hours after Tehran and WashingtonStrait of Hormuz, offering contradicting statements as to whether the vital waterway was open to traffic.",
+      "url": "https://www.france24.com/en/middle-east/20260712-iran-expands-attacks-on-gulf-states-after-intense-us-strikes",
+      "published": "Sun, 12 Jul 2026 20:49:55 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran expands attacks on Gulf states after intense US strikes"
+    },
+    {
       "title": "Cuba plunges into third major blackout this year as power crisis worsens",
       "description": "Cuba suffered another islandwide blackout Monday as its struggling power grid collapsed, leaving millions without electricity while officials worked to restore service.",
       "url": "https://www.foxnews.com/world/cuba-plunges-third-major-blackout-year-power-crisis-worsens",
@@ -495,6 +520,34 @@
       "is_ticker": false
     },
     {
+      "title": "What would it mean for Ukraine if it actually starts producing Patriot missiles?",
+      "description": "NPR's Don Gonyea speaks with Seth Jones from the Center for Strategic and International Studies about President Trump granting Ukraine permission to produce Patriot missiles.",
+      "url": "https://www.npr.org/2026/07/12/nx-s1-5887435/what-would-it-mean-for-ukraine-if-it-actually-starts-producing-patriot-missiles",
+      "published": "Sun, 12 Jul 2026 17:08:18 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 What would it mean for Ukraine if it actually starts producing Patriot missiles?"
+    },
+    {
+      "title": "Venezuela sets up temporary housing, as death toll rises to almost 4,500",
+      "description": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to set up temporary housing to shelter thousands of people left homeless.",
+      "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-rises-to-almost-4-500/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 12 Jul 2026 21:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Venezuela sets up temporary housing, as death toll rises to almost 4,500"
+    },
+    {
       "title": "Thailand: Bangkok bar fire leaves dozens dead",
       "description": "At least 27 people were killed in a fire at a bar in the Thai capital, Prime Minister Anutin Charnvirakul told local media.",
       "url": "https://www.dw.com/en/thailand-bangkok-bar-fire-leaves-dozens-dead/a-77926451?maca=en-rss-en-all-1573-xml-mrss",
@@ -504,20 +557,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Venezuela sets up temporary housing, as death toll hits 4,300",
-      "description": "As the official death toll from the devastating earthquakes which struck northern Venezuela last month continues to rise, authorities are planning to set up temporary housing to shelter thousands of people left homeless.",
-      "url": "https://www.dw.com/en/venezuela-sets-up-temporary-housing-as-death-toll-hits-4-300/a-77924690?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 12 Jul 2026 19:24:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Venezuela sets up temporary housing, as death toll hits 4,300"
     },
     {
       "title": "France temporarily shuts down three nuclear reactors over heatwave",
@@ -546,17 +585,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Peak heat in Europe just broke historic 1970s records"
-    },
-    {
-      "title": "At least 27 killed in Bangkok bar fire, Thai authorities say",
-      "description": "Firefighters arrived at the scene to find patrons running through blasting flames to escape.",
-      "url": "https://www.bbc.co.uk/news/articles/c24yev53q06o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 20:13:14 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
@@ -860,7 +888,7 @@
     },
     {
       "title": "France opens terror probe after gun found in Jewish suburb",
-      "description": "Police said they found a \"military grade weapon\" during the search of a suspicious car, parked in a Paris neighborhood with a large Jewish population.",
+      "description": "Police said they found a \"military-grade weapon\" during the search of a suspicious car parked in a Paris neighborhood with a large Jewish population.",
       "url": "https://www.dw.com/en/france-opens-terror-probe-after-gun-found-in-jewish-suburb/a-77925431?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 12 Jul 2026 19:37:00 GMT",
       "source": "Deutsche Welle",
@@ -885,6 +913,28 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran war: US claims Strait of Hormuz is 'open' amid strikes"
+    },
+    {
+      "title": "Several people killed in Chile after car driven by navy officer crashes into an open-air market",
+      "description": "An off-duty Chilean navy member crashes a private vehicle into an open-air market in Viña del Mar, killing several people",
+      "url": "https://abcnews.com/International/wireStory/people-killed-chile-after-car-driven-navy-officer-134699056",
+      "published": "Sun, 12 Jul 2026 17:00:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "At least 27 people killed in fire at a Bangkok pub",
+      "description": "A huge fire engulfed a pub in Bangkok overnight.",
+      "url": "https://abcnews.com/International/wireStory/fire-breaks-pub-bangkok-killing-27-people-134698550",
+      "published": "Sun, 12 Jul 2026 17:12:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Bahamas plane crash that killed 10 included musicians and a DJ, union says",
@@ -962,20 +1012,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran war: US strategic success or diplomatic failure?",
-      "description": "Marc Lamont Hill challenges former United States diplomat Heino Klinck on the US-Israeli war in Iran.",
-      "url": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 16:34:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war: US strategic success or diplomatic failure?"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1021,17 +1057,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ More than 4,300 confirmed dead in Venezuela earthquakes"
-    },
-    {
-      "title": "Students abducted in May by Muslim militants in Nigeria are rescued, government says",
-      "description": "The government says a group of students abducted in May by Muslim militants in Nigeria's Oyo state have been rescued",
-      "url": "https://abcnews.com/International/wireStory/students-abducted-muslim-militants-nigeria-rescued-government-134658719",
-      "published": "Fri, 10 Jul 2026 14:48:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
@@ -1142,6 +1167,20 @@
       "is_ticker": false
     },
     {
+      "title": "The man who changed the Arab world",
+      "description": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani has died at age 74.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/the-man-who-changed-the-arab-world?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 21:09:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 The man who changed the Arab world"
+    },
+    {
       "title": "England vs Argentina: Greatest moments before FIFA World Cup semifinal",
       "description": "England and Argentina renew their longstanding football rivalry with a World Cup final place at stake.",
       "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-world-cup-england-vs-argentina-historic-rivalry-greatest-moments-semifinal?traffic_source=rss",
@@ -1212,17 +1251,6 @@
       "description": "Switzerland meanwhile is eliminated after losing to Argentina 3-1. Mac Allister gave the reigning champions the lead only ten minutes into the game, heading the ball past Gregor Kobel off a Leo Messi cross. Switzerland gained in momentum, culminating in an equalizer from Dan Ndoye. But that goal was quickly overshadowed after Embolo was handed a second yellow for diving and was sent off. That obviously made the challenge even greater for Switzerland, but la Nati defended valiantly one man down, dragging Argentina into extra time. In the end though, Julian Alvarez scored a stunning goal curled in from outside the box. As Switzerland pushed for a second leveller, they were caught on the counter, and suffered a third and final goal at the hands of an unconvincing Argentinian side...",
       "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260712-world-cup-2026-england-to-face-argentina-in-tense-semi-final",
       "published": "Sun, 12 Jul 2026 11:50:36 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "The week in pictures: Le Pen's comeback, Khamenei's funeral and Mbappé's wondergoal",
-      "description": "French far-right leader Marine Le Pen was cleared to run in next year's presidential election, despite having her embezzlement conviction confirmed, in a week that saw Iran hold days-long funeral ceremonies for slain supreme leader Ayatollah Ali Khamenei and football stars Kylian Mbappé and Lionel Messi deliver moments of magic to carry their teams into the World Cup semi-finals. FRANCE 24 looks back at some of the week's most striking images.",
-      "url": "https://www.france24.com/en/americas/20260712-the-week-in-pictures-le-pen-s-comeback-khamenei-s-funeral-and-mbapp%C3%A9-s-wondergoal",
-      "published": "Sun, 12 Jul 2026 10:53:34 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1579,6 +1607,17 @@
       "is_ticker": false
     },
     {
+      "title": "Fire engulfs popular Bangkok pub, killing 27 people and injuring 63",
+      "description": "Footage shared online by first responders showed a huge blaze raging in the Na Ladprao pub.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/fire-engulfs-popular-bangkok-pub-killing-27-people-and-injuring-63?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 20:48:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Nine dead as Russia and Ukraine trade drone and missile salvos",
       "description": "Ukraine is particularly vulnerable to Russian ballistic missiles due to critical shortage of Patriot munitions.",
       "url": "https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss",
@@ -1638,20 +1677,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-      "description": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
-      "url": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-      "published": "Fri, 10 Jul 2026 07:43:38 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza"
     },
     {
       "title": "US: Reporters subpoenaed over Air Force One stories",
@@ -1827,20 +1852,6 @@
       "severity_score": 4,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at age 74, state news agency says",
-      "description": "Sheikh Hamad bin Khalifa Al Thani has died at age 74",
-      "url": "https://abcnews.com/International/wireStory/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-134688542",
-      "published": "Sun, 12 Jul 2026 08:58:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at age 74, state news agency says"
     },
     {
       "title": "US, UK and 12 other nations reaffirm 2016 ruling invalidating China's claims in South China Sea",
@@ -2149,17 +2160,6 @@
       "is_ticker": false
     },
     {
-      "title": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
-      "description": "‘Sheikh Hamad will be fondly remembered across the Gulf’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/sheikh-hamad-will-be-fondly-remembered-across-the?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 16:38:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2306,7 +2306,7 @@
       "title": "M 4.1 - 2 km ESE of Frazier Park, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-07-12 10:38:04 UTC 2026-07-12 10:38:04 UTC at epicenter Location 34.813°N 118.926°W Depth 13.09 km (8.13 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41291863",
-      "published": "2026-07-12T20:43:49.867Z",
+      "published": "2026-07-12T21:06:53.421Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2494,6 +2494,20 @@
       "is_ticker": false
     },
     {
+      "title": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at 74",
+      "description": "Sheikh Hamad bin Khalifa Al Thani has died at age 74",
+      "url": "https://abcnews.com/International/wireStory/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-134688542",
+      "published": "Sun, 12 Jul 2026 16:57:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at 74"
+    },
+    {
       "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
       "description": "Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale",
       "url": "https://abcnews.com/International/wireStory/focus-turns-building-stronger-institutions-africa-speed-shift-134688538",
@@ -2564,20 +2578,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Mali's military says it's broken a rebel blockade around a strategic northern base",
-      "description": "Mali’s military says it has broken a rebel blockade around a strategic army base in the north as the junta battles a renewed offensive by separatists and al-Qaida-linked militants",
-      "url": "https://abcnews.com/International/wireStory/malis-military-broken-rebel-blockade-strategic-northern-base-134658395",
-      "published": "Fri, 10 Jul 2026 14:32:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Mali's military says it's broken a rebel blockade around a strategic northern base"
     },
     {
       "title": "Diplomats go virtual to witness Gaza displacement site up close",
