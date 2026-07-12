@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T15:25:30.771378Z",
+  "last_updated": "2026-07-12T15:50:33.197914Z",
   "event_count": 221,
   "events": [
     {
@@ -57,20 +57,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Weather tracker: Typhoon leaves people stranded on rooftops in China"
-    },
-    {
-      "title": "Security Council LIVE: Open debate on sexual violence in conflict",
-      "description": "The UN Security Council is holding an open debate Tuesday honouring the promise of international law to survivors of sexual violence in conflict as more reports emerge about warring parties using rape as a weapon, actions that constitute war crimes. Stay tuned for live updates from our meetings coverage team.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167894",
-      "published": "Wed, 08 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 39,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Security Council LIVE: Open debate on sexual violence in conflict"
     },
     {
       "title": "Venomous snakes escape breeding farms in southern China during flooding",
@@ -434,6 +420,20 @@
       "ticker_label": "🪖 Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'"
     },
     {
+      "title": "Syria says it arrested IS-linked suspects behind the Damascus bombings",
+      "description": "Syrian authorities have arrested several suspects linked to recent explosions in Damascus, including bombings during French President Emmanuel Macron's visit",
+      "url": "https://abcnews.com/International/wireStory/syria-arrested-linked-suspects-damascus-bombings-macrons-visit-134632898",
+      "published": "Fri, 10 Jul 2026 02:41:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Syria says it arrested IS-linked suspects behind the Damascus bombings"
+    },
+    {
       "title": "Prosecutors seeking death penalty for deported illegal alien indicted in murder of sister-in-law",
       "description": "Bangladeshi national Shahidul Islam, 44, allegedly killed his sister-in-law in Lake County, Florida, then fled to a sanctuary city after re-entering the U.S.",
       "url": "https://www.foxnews.com/us/prosecutors-seeking-death-penalty-deported-illegal-alien-indicted-murder-sister-in-law",
@@ -501,6 +501,20 @@
       "ticker_label": "🚨 At least two killed in Toronto street festival shooting"
     },
     {
+      "title": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+      "description": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 15:16:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli forces kill five Palestinians in latest attacks on Gaza"
+    },
+    {
       "title": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
       "description": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentres South Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales. The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later in the day. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
@@ -546,20 +560,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-      "description": "Tehran hits back at several GCC countries, following the most intense US bombing since an MoU was signed last month.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 09:13:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know"
     },
     {
       "title": "France temporarily shuts down three nuclear reactors over heatwave",
@@ -637,15 +637,18 @@
       "is_ticker": false
     },
     {
-      "title": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-      "description": "After Sheikh Hamad's death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
-      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 09:40:23 +0000",
-      "source": "Al Jazeera",
+      "title": "'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires",
+      "description": "The BBC's Nick Beake sees homes razed to the ground and \"a sea of black\" in one of the villages hit hardest by Spain's deadly wildfires.",
+      "url": "https://www.bbc.co.uk/news/videos/cddl1yrldelo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 15:33:27 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ 'This landscape is completely charred': Inside the village at epicentre of Spain's wildfires"
     },
     {
       "title": "‘Software glitch’ blamed for mass outage – as it happened",
@@ -787,10 +790,10 @@
       "ticker_label": "🪖 Alvarez's 112th-minute goal helps lift Argentina past Switzerland 3-1 and into World Cup semifinals"
     },
     {
-      "title": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "description": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+      "title": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "description": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 06:49:46 GMT",
+      "published": "Sun, 12 Jul 2026 15:35:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -798,7 +801,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US launches fresh strikes as Iran closes Strait of Hormuz"
+      "ticker_label": "🪖 US insists Strait of Hormuz is open as it exchanges strikes with Iran"
     },
     {
       "title": "Muslim judge in India faces death threats after convicting 'cow vigilantes'",
@@ -849,6 +852,20 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Bahamas plane crash that killed 10 included musicians and a DJ, union says"
+    },
+    {
+      "title": "Pakistani rescuers battle rough seas on 2nd day of search for cargo plane crew",
+      "description": "Officials say Pakistan Navy search and rescue teams are battling rough seas as they try to find the five-member crew of a cargo plane that crashed into the Arabian Sea",
+      "url": "https://abcnews.com/International/wireStory/pakistani-rescuers-battle-rough-seas-2nd-day-search-134608919",
+      "published": "Thu, 09 Jul 2026 06:07:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Pakistani rescuers battle rough seas on 2nd day of search for cargo plane crew"
     },
     {
       "title": "Surveillance video timeline tracks accused Charlie Kirk assassin across UVU campus before fatal rooftop shot",
@@ -926,17 +943,6 @@
       "ticker_label": "🌪️ More than 4,300 confirmed dead in Venezuela earthquakes"
     },
     {
-      "title": "Students abducted in May by Muslim militants in Nigeria are rescued, government says",
-      "description": "The government says a group of students abducted in May by Muslim militants in Nigeria's Oyo state have been rescued",
-      "url": "https://abcnews.com/International/wireStory/students-abducted-muslim-militants-nigeria-rescued-government-134658719",
-      "published": "Fri, 10 Jul 2026 14:48:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "‘Help is coming’: UN relief chief briefs on Venezuela quake recovery",
       "description": "The widespread solidarity shown to Venezuela must now be transformed into real, practical support for recovery from the deadly double earthquakes last month, UN relief chief Tom Fletcher said on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167899",
@@ -998,6 +1004,17 @@
       "is_ticker": false
     },
     {
+      "title": "Thai youth leaders push for inclusion, partnership and lasting change",
+      "description": "From local communities to the global stage, a diverse group of young leaders from Thailand is helping shape conversations on public policy, climate action, inclusion, indigenous rights, disability access and youth wellbeing.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167917",
+      "published": "Sat, 11 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators",
       "description": "Atrocities committed by the Rapid Support Forces (RSF) militia against Sudanese civilians in El Fasher in October – including mass killings, abductions and gang rapes – bear the markers of genocide, independent UN human rights investigators reported on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167897",
@@ -1048,11 +1065,11 @@
       "is_ticker": false
     },
     {
-      "title": "How a viral seal called Neil caused mayhem in Australia",
-      "description": "The five-year-old elephant seal attracted global attention during his recent time ashore in southern Tasmania.",
-      "url": "https://www.bbc.co.uk/news/videos/c05yr465yyro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 11 Jul 2026 21:19:05 GMT",
-      "source": "BBC News",
+      "title": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
+      "description": "FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 14:47:15 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1386,18 +1403,15 @@
       "is_ticker": false
     },
     {
-      "title": "Outgoing Colombia minister warns climate gains could be at risk under new government",
-      "description": "Colombia’s outgoing environment minister Irene Vélez Torres has warned that the incoming government could reverse recent climate and conservation gains, citing",
-      "url": "https://abcnews.com/International/wireStory/outgoing-colombia-minister-warns-climate-gains-risk-new-134665525",
-      "published": "Fri, 10 Jul 2026 19:34:35 -0400",
+      "title": "Fire at a shoe factory kills 28 in one of China's deadliest blazes in recent years",
+      "description": "A fire has broken out at a shoe factory in China's Fujian province, killing 28 people",
+      "url": "https://abcnews.com/International/wireStory/fire-shoe-factory-kills-28-chinas-deadliest-blazes-134620508",
+      "published": "Thu, 09 Jul 2026 12:50:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Outgoing Colombia minister warns climate gains could be at risk under new government"
+      "is_ticker": false
     },
     {
       "title": "Aid cuts leave at least one million women and girls without vital support",
@@ -1475,20 +1489,6 @@
       "ticker_label": "🪖 Hamas says it will dissolve Gaza government, but Israel warns group still seeks Hezbollah-style control"
     },
     {
-      "title": "Small plane crashes in the Bahamas, killing several people. Officials report one survivor",
-      "description": "A small plane carrying several people has crashed in the Bahamas, prompting the government to temporarily ground Flamingo Air flights",
-      "url": "https://abcnews.com/International/wireStory/small-plane-crashes-bahamas-killing-people-officials-report-134661400",
-      "published": "Fri, 10 Jul 2026 16:35:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Small plane crashes in the Bahamas, killing several people. Officials report one survivor"
-    },
-    {
       "title": "Irish police under fire for refusing to identify reported asylum seeker sought in American mother's murder",
       "description": "Irish police refuse to name the person of interest in Jamey Carney's Killarney murder. The suspect fled to Turkey before her body was found.",
       "url": "https://www.foxnews.com/world/irish-police-under-fire-refusing-identify-reported-asylum-seeker-sought-american-mothers-murder",
@@ -1539,7 +1539,7 @@
       "title": "US senator and close Trump ally Lindsey Graham dies after 'brief and sudden illness'",
       "description": "Donald Trump paid tribute to the 71-year-old South Carolina senator, calling him a \"true American patriot\" who will be \"greatly missed\".",
       "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 14:18:45 GMT",
+      "published": "Sun, 12 Jul 2026 15:34:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1556,20 +1556,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "People flee as Russian strike hits near Ukraine coffee shop",
-      "description": "Three cameras caught the moment people ducked then ran for cover in Sumy, in north eastern Ukraine.",
-      "url": "https://www.bbc.co.uk/news/videos/c8r27drk1nxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 12 Jul 2026 09:03:17 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 People flee as Russian strike hits near Ukraine coffee shop"
     },
     {
       "title": "British police make new arrest in Ann Widdecombe murder investigation",
@@ -1680,6 +1666,17 @@
       "url": "https://news.sky.com/story/new-york-times-journalists-subpoenaed-over-air-force-one-leak-after-donald-trumps-flight-on-qatari-gifted-jet-13562695",
       "published": "Sun, 12 Jul 2026 07:01:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Technology is driving an increase in online threats to the UK, senior officials say",
+      "description": "Senior British policing officials say technology and online platforms are increasingly being exploited for threats to the United Kingdom",
+      "url": "https://abcnews.com/International/wireStory/technology-driving-increase-online-threats-uk-senior-officials-134628433",
+      "published": "Thu, 09 Jul 2026 15:23:12 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1825,6 +1822,17 @@
       "is_ticker": false
     },
     {
+      "title": "Mali and Algeria reopen airspace and reinstate ambassadors, ending a yearlong rift",
+      "description": "Mali and Algeria have reopened their airspace and reinstated ambassadors, ending a diplomatic rift that began over a year ago",
+      "url": "https://abcnews.com/International/wireStory/mali-algeria-reopen-airspace-reinstate-ambassadors-ending-yearlong-134672474",
+      "published": "Sat, 11 Jul 2026 09:29:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Qatar's former ruler Sheikh Hamad bin Khalifa Al Thani has died at age 74, state news agency says",
       "description": "Sheikh Hamad bin Khalifa Al Thani has died at age 74",
       "url": "https://abcnews.com/International/wireStory/qatars-former-ruler-sheikh-hamad-bin-khalifa-al-134688542",
@@ -1843,17 +1851,6 @@
       "description": "The United States, United Kingdom and a dozen other Western and Asian countries have reasserted that China’s expansive claims in the South China Sea are illegal",
       "url": "https://abcnews.com/International/wireStory/us-uk-12-nations-reaffirm-2016-ruling-invalidating-134688444",
       "published": "Sun, 12 Jul 2026 00:49:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mali and Algeria reopen airspace and reinstate ambassadors, ending a yearlong rift",
-      "description": "Mali and Algeria have reopened their airspace and reinstated ambassadors, ending a diplomatic rift that began over a year ago",
-      "url": "https://abcnews.com/International/wireStory/mali-algeria-reopen-airspace-reinstate-ambassadors-ending-yearlong-134672474",
-      "published": "Sat, 11 Jul 2026 09:29:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1890,6 +1887,17 @@
       "description": "A 67 million-year-old Tyrannosaurus rex will go on sale in New York with a pre-sale value of $30m.",
       "url": "https://www.bbc.co.uk/news/articles/c4gykgyn1r4o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 11 Jul 2026 23:58:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "David Willey, esteemed BBC foreign correspondent, dies aged 93",
+      "description": "Willey is best known for covering the Vatican, and reported on five popes during his long career.",
+      "url": "https://www.bbc.co.uk/news/articles/cn9403518jro?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 12 Jul 2026 15:22:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -2065,10 +2073,10 @@
       "is_ticker": false
     },
     {
-      "title": "The architect of Qatari autonomy",
-      "description": "Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 14:42:27 +0000",
+      "title": "What made US Republican Senator Lindsey Graham a controversial figure",
+      "description": "Graham was known for his hawkish views on US defence and foreign policies.",
+      "url": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 15:03:49 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2076,10 +2084,10 @@
       "is_ticker": false
     },
     {
-      "title": "Friends turned foes: The split reshaping Senegal",
-      "description": "Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
-      "published": "Sun, 12 Jul 2026 13:51:28 +0000",
+      "title": "The architect of Qatari autonomy",
+      "description": "Sheikh Hamad bin Khalifa Al Thani made Qatar safe by making it relevant.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/12/the-architect-of-qatari-autonomy?traffic_source=rss",
+      "published": "Sun, 12 Jul 2026 14:42:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2498,10 +2506,10 @@
       "is_ticker": false
     },
     {
-      "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
-      "description": "Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale",
-      "url": "https://abcnews.com/International/wireStory/focus-turns-building-stronger-institutions-africa-speed-shift-134688538",
-      "published": "Sun, 12 Jul 2026 04:54:21 -0400",
+      "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
+      "description": "Japan has conducted a first test flight for its reusable rocket",
+      "url": "https://abcnews.com/International/wireStory/japans-space-agency-conducts-test-flight-experimental-reusable-134669204",
+      "published": "Fri, 10 Jul 2026 22:42:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2509,24 +2517,10 @@
       "is_ticker": false
     },
     {
-      "title": "Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated",
-      "description": "Typhoon Bavi is bringing strong winds and heavy rain to eastern China",
-      "url": "https://abcnews.com/International/wireStory/typhoon-bavi-brings-strong-winds-rain-eastern-china-134688080",
-      "published": "Sun, 12 Jul 2026 00:49:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated"
-    },
-    {
-      "title": "UK police release man arrested over killing of former politician Ann Widdecombe",
-      "description": "British police have released a 26-year-old man arrested in connection with the killing of former politician Ann Widdecombe",
-      "url": "https://abcnews.com/International/wireStory/uk-police-release-man-arrested-killing-former-politician-134671265",
-      "published": "Sat, 11 Jul 2026 08:26:03 -0400",
+      "title": "Focus turns to building stronger institutions in Africa to speed shift to renewable energy",
+      "description": "Africa’s renewable energy transition is entering a new phase as the continent shifts from proving that clean energy works to building the institutions needed to deploy it at scale",
+      "url": "https://abcnews.com/International/wireStory/focus-turns-building-stronger-institutions-africa-speed-shift-134688538",
+      "published": "Sun, 12 Jul 2026 04:54:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2548,21 +2542,24 @@
       "ticker_label": "🌪️ More than 1 million evacuated Typhoon Bavi hits China"
     },
     {
-      "title": "Japan's space agency conducts first test flight for experimental reusable rocket",
-      "description": "Japan has conducted a first test flight for its reusable rocket",
-      "url": "https://abcnews.com/International/wireStory/japans-space-agency-conducts-test-flight-experimental-reusable-134669204",
-      "published": "Fri, 10 Jul 2026 22:42:05 -0400",
+      "title": "Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated",
+      "description": "Typhoon Bavi is bringing strong winds and heavy rain to eastern China",
+      "url": "https://abcnews.com/International/wireStory/typhoon-bavi-brings-strong-winds-rain-eastern-china-134688080",
+      "published": "Sun, 12 Jul 2026 00:49:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Typhoon Bavi brings strong winds and rain to eastern China as more than 2 million people evacuated"
     },
     {
-      "title": "Nicaragua strips lawyers from practicing in ongoing crackdown on dissent",
-      "description": "Nicaragua's government has stripped many lawyers of their licenses to practice, according to a United Nations expert",
-      "url": "https://abcnews.com/International/wireStory/nicaragua-strips-lawyers-practicing-ongoing-crackdown-dissent-134663781",
-      "published": "Fri, 10 Jul 2026 17:25:04 -0400",
+      "title": "UK police release man arrested over killing of former politician Ann Widdecombe",
+      "description": "British police have released a 26-year-old man arrested in connection with the killing of former politician Ann Widdecombe",
+      "url": "https://abcnews.com/International/wireStory/uk-police-release-man-arrested-killing-former-politician-134671265",
+      "published": "Sat, 11 Jul 2026 08:26:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
