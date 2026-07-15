@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-15T13:35:59.378284Z",
-  "event_count": 223,
+  "last_updated": "2026-07-15T14:38:57.088354Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Haiti trapped by violence: Humanitarian aid deliveries struggle to reach local population",
@@ -65,6 +65,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israeli strike on police post in north Gaza kills seven, officials say"
+    },
+    {
+      "title": "Ebola outbreak in Congo passes 2,000 cases and 750 deaths",
+      "description": "The number of confirmed cases of Ebola in the Democratic Republic of Congo (DRC) has reached 2,011, with 754 deaths, according to government data.",
+      "url": "https://news.sky.com/story/ebola-outbreak-in-congo-passes-2000-cases-and-750-deaths-13563636",
+      "published": "Wed, 15 Jul 2026 11:00:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Bangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’",
@@ -229,18 +240,18 @@
       "is_ticker": false
     },
     {
-      "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-      "description": "More than 70 people were injured, with 24 of them still in critical condition, according to a statement by the Bangkok Metropolitan Administration.",
-      "url": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
-      "published": "Tue, 14 Jul 2026 02:43:57 -0400",
-      "source": "NPR World News",
+      "title": "Expert warns 'European temperatures are warming the fastest'",
+      "description": "In this edition, a climatologist talks to FRANCE 24 about our changing weather patterns and their effects on wildfires currently raging across Europe. Dr. Alan Kennedy-Asser, Senior researcher at the University of Bristol, sheds light on the issue against a backdrop of hundreds of French firefighters just managing to contain two fires that have raged across parts of the famous Fontainebleau forest near Paris.",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20260715-expert-warns-european-temperatures-are-warming-the-fastest",
+      "published": "Wed, 15 Jul 2026 13:44:10 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital"
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Expert warns 'European temperatures are warming the fastest'"
     },
     {
       "title": "‘This is a fire’: DRC Ebola outbreak is fastest-growing ever, warns WHO",
@@ -382,6 +393,34 @@
       "ticker_label": "🪖 China economic growth falls sharply, missing target"
     },
     {
+      "title": "France grapples with 'very worrying' drought after successive heatwaves",
+      "description": "Large parts of France are facing water restrictions as the country grapples with a drought described as \"exceptionally\" early and intense. France has been experiencing its third heatwave in as many months, accompanied by fierce wildfires further fuelled by dry conditions.",
+      "url": "https://www.france24.com/en/france/20260715-france-grapples-with-very-worrying-drought-after-successive-heatwaves",
+      "published": "Wed, 15 Jul 2026 13:37:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ France grapples with 'very worrying' drought after successive heatwaves"
+    },
+    {
+      "title": "Seven Britons dead after wildfires in Spain",
+      "description": "Two more British nationals are confirmed dead after wildfires in southern Spain.",
+      "url": "https://news.sky.com/story/seven-britons-among-13-dead-after-wildfires-in-spain-13563685",
+      "published": "Wed, 15 Jul 2026 13:02:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Seven Britons dead after wildfires in Spain"
+    },
+    {
       "title": "Security Council LIVE: Top UN officials call for de-escalation in Yemen",
       "description": "As the UN chief’s Special Envoy for Yemen, Hans Grundberg, calls for swift de-escalation following reports of Saudi Arabian airstrikes and Iranian aircraft landing in the country, the Security Council’s emergency meeting at 3pm (local time) on Monday heard briefings from top officials on the latest humanitarian and political situation.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167924",
@@ -422,20 +461,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran war: US launches fresh wave of strikes"
-    },
-    {
-      "title": "Ebola outbreak much larger than official figures, WHO says",
-      "description": "The outbreak, which has infected almost 2,000 people and killed more than 700, could be at least two to four times larger than official figures, the UN health agency warned. The current outbreak is in the DRC and Uganda.",
-      "url": "https://www.dw.com/en/ebola-outbreak-much-larger-than-official-figures-who-says/a-77951823?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 14 Jul 2026 14:47:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ebola outbreak much larger than official figures, WHO says"
     },
     {
       "title": "Chinese growth in second quarter weakest since Covid-19 era",
@@ -508,6 +533,20 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO",
+      "description": "Lithuania's president says intelligence suggests Russia is planning attacks on critical infrastructure in the Baltic states or Poland",
+      "url": "https://abcnews.com/International/wireStory/baltics-poland-warn-russia-launch-limited-military-hybrid-134779778",
+      "published": "Wed, 15 Jul 2026 10:31:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO"
     },
     {
       "title": "West Africa and the Sahel: Terrorism is changing its face",
@@ -910,20 +949,6 @@
       "ticker_label": "🪖 Israeli air attack on Gaza apartment kills family of three"
     },
     {
-      "title": "Bangkok pub fire death toll rises to 32 with 15 in intensive care",
-      "description": "Officials confirm two more deaths as 30 people remain in hospital, including 15 in intensive care units.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/bangkok-pub-fire-toll-rises-to-32-with-15-in-intensive-care?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 10:13:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Bangkok pub fire death toll rises to 32 with 15 in intensive care"
-    },
-    {
       "title": "Former Sydney church turned LGBTQ+ arts venue weighs legal action after landlord orders it to stop ‘offensive trade’",
       "description": "Divine Playhouse promoter and founder says venue faces significant operational, legal and financial challenges Get our breaking news email , free app or daily news podcast A former church turned arts venue at the centre of a culture war is exploring legal action after receiving a notice from its landlord that forced its organisers to close the space and cancel planned events. Divine Playhouse is facing possible eviction, with its landlord ordering the venue’s organisers, Heaps Gay Events, to stop “engaging in offensive trade”, days after religious groups protested its opening night. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/15/divine-playhouse-sydney-lgbtq-church-religious-protest-landlord-ntwnfb",
@@ -958,20 +983,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "EU, UK hit Russia with joint sanctions over cyber attacks",
-      "description": "The European Union and Britain targeted Russia Monday with coordinated sanctions over cyber attacks in Europe, accusing Moscow's FSB intelligence agency over involvement in digital strikes. Russia in response slammed the accusations as \"baseless\".",
-      "url": "https://www.france24.com/en/video/20260715-eu-uk-hit-russia-with-joint-sanctions-over-cyber-attacks",
-      "published": "Wed, 15 Jul 2026 09:53:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 EU, UK hit Russia with joint sanctions over cyber attacks"
     },
     {
       "title": "Yemen at risk of getting dragged back into war as Saudis and Houthis exchange airstrikes",
@@ -1025,6 +1036,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "A new chapter for America’s 250th: 'J250' initiative puts Jewish contributions in the spotlight",
+      "description": "The J250 Initiative launches with 250 stories of Jewish American patriots, scientists and leaders who shaped the nation from the Revolution onward.",
+      "url": "https://www.foxnews.com/world/new-chapter-americas-250th-j250-initiative-puts-jewish-contributions-spotlight",
+      "published": "Wed, 15 Jul 2026 10:15:59 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A new chapter for America’s 250th: 'J250' initiative puts Jewish contributions in the spotlight"
     },
     {
       "title": "Beloved musicians among victims in deadly Bahamas plane crash; aviation authority grounds flights",
@@ -1152,6 +1177,20 @@
       "is_ticker": false
     },
     {
+      "title": "Kenya's 'political gangs' fuel election fears",
+      "description": "Violent disruptions of political and civic events are raising concerns about the use of hired gangs as Kenya heads toward elections in 2027.",
+      "url": "https://www.dw.com/en/kenya-s-political-gangs-fuel-election-fears/a-77970615?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 15 Jul 2026 13:38:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kenya's 'political gangs' fuel election fears"
+    },
+    {
       "title": "Iran: Alleged Ahmadinejad plot highlights info war",
       "description": "Reports that Israel explored a scenario to effect regime change, involving former Iranian President Mahmoud Ahmadinejad reveal how the Iran war has also become a struggle over narratives and perception.",
       "url": "https://www.dw.com/en/iran-alleged-ahmadinejad-plot-highlights-info-war/a-77967268?maca=en-rss-en-all-1573-xml-mrss",
@@ -1180,17 +1219,6 @@
       "ticker_label": "🪖 Amid democratic backsliding, Will NATO 'raise concerns' over Turkey's crackdown on opposition?"
     },
     {
-      "title": "Thai youth leaders push for inclusion, partnership and lasting change",
-      "description": "From local communities to the global stage, a diverse group of young leaders from Thailand is helping shape conversations on public policy, climate action, inclusion, indigenous rights, disability access and youth wellbeing.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167917",
-      "published": "Sat, 11 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Massive T. rex fossil roars to $50 million sale, becoming one of the priciest ever auctioned",
       "description": "The T. rex nicknamed \"Gus\" shattered auction records after a 10-minute bidding war among seven bidders, but the debate over its future rages on.",
       "url": "https://www.foxnews.com/us/massive-t-rex-fossil-roars-50-million-sale-becoming-one-priciest-ever-auctioned",
@@ -1203,6 +1231,45 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Massive T. rex fossil roars to $50 million sale, becoming one of the priciest ever auctioned"
+    },
+    {
+      "title": "What DOGE saved, and what it cost",
+      "description": "The US government project that slashed foreign aid died on July 4. AJLabs looks at the cost in lives around the world.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/7/15/what-doge-saved-and-what-it-cost?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 13:46:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 What DOGE saved, and what it cost"
+    },
+    {
+      "title": "World Cup final Lamine Yamal: What to know about teenage Spain prodigy",
+      "description": "One of the best players in the world, Spain's 19-year-old Lamine Yamal, is gearing up for his first World Cup final.",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/lamine-yamal-name-history-barcelona-spain-fifa-world-cup-final-2026-what-to-know?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 13:38:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Far-right Israeli lawmaker raids Palestinian school and threatens shutdown",
+      "description": "Israel’s education committee head stormed a school in Jerusalem, vowing to shut it down over Palestinian symbols.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/far-right-israeli-lawmaker-raids-palestinian-school-and-threatens-shutdown?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 13:34:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Far-right Israeli lawmaker raids Palestinian school and threatens shutdown"
     },
     {
       "title": "Spain’s Oscar-winning actor raises Palestine flag at World Cup match",
@@ -1227,22 +1294,22 @@
       "is_ticker": false
     },
     {
-      "title": "World Cup: Djed Spence, England’s first Muslim player, lifts hopes",
-      "description": "Britain swells with pride over the 25-year-old, the first Muslim to wear the England jersey at a FIFA World Cup.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/a-role-model-djed-spence-first-muslim-england-player-lifts-hopes?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 10:15:15 +0000",
-      "source": "Al Jazeera",
+      "title": "The surreal facades of America's strip clubs",
+      "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
+      "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
+      "published": "Mon, 06 Mar 2023 14:13:40 GMT",
+      "source": "CNN World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "The surreal facades of America's strip clubs",
-      "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
-      "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
-      "published": "Mon, 06 Mar 2023 14:13:40 GMT",
-      "source": "CNN World",
+      "title": "Old rivals, new battle: Argentina and England clash in World Cup Semifinal",
+      "description": "Old rivals. New stakes. A World Cup final spot on the line. Argentina vs. England.",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893686/old-rivals-new-battle-argentina-and-england-clash-in-world-cup-semifinal",
+      "published": "Wed, 15 Jul 2026 10:05:39 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1285,8 +1352,8 @@
       "is_ticker": false
     },
     {
-      "title": "Spain dominate France and reach World Cup final",
-      "description": "It was France's biggest hurdle at the World Cup, and a team that they still haven't beaten since 2017. For Les Bleus, that unfortunate streak continues as Spain outclassed Didier Deschamps' side with a 2-0 win in Dallas. The 2010 champions will now get a chance to add a second star to their shirt, as they'll face either England or Argentina who are going head-to-head this Wednesday for a spot in the final.",
+      "title": "Spain dominate France and advance to World Cup final",
+      "description": "It was France's biggest hurdle at the World Cup – a team they haven't beaten since 2017. For Les Bleus, that streak continues as Spain outclassed Didier Deschamps' side with a 2-0 win in Dallas. The 2010 champions will now get a chance to add a second star to their shirt, as they'll face either England or Argentina who are going head-to-head this Wednesday for a spot in the final.",
       "url": "https://www.france24.com/en/tv-shows/world-cup-debrief/20260715-spain-dominate-france-and-reach-world-cup-final",
       "published": "Wed, 15 Jul 2026 12:18:25 GMT",
       "source": "France24",
@@ -1329,17 +1396,6 @@
       "is_ticker": false
     },
     {
-      "title": "After the 'near oppressive' clean girl era, cigarettes are trendy again",
-      "description": "PRESS REVIEW – Wednesday, July 15: French papers weep, while the Spanish press celebrates the World Cup semi-final. Also in France, papers discuss the assisted dying bill that will be voted on today. Finally: are cigarettes back in vogue?",
-      "url": "https://www.france24.com/en/after-the-near-oppressive-clean-girl-era-cigarettes-are-trendy-again",
-      "published": "Wed, 15 Jul 2026 10:16:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "World Cup football’s other goal: Helping young people talk about mental health",
       "description": "When Dr. Sahira Al Nahari founded Shifā Art, a Saudi Arabia-based organization using art to create conversations around mental health, she noticed that men attending her therapeutic art workshops often felt uncomfortable opening up about their feelings.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167941",
@@ -1373,7 +1429,7 @@
       "is_ticker": false
     },
     {
-      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
+      "title": "Rastafarians in Kenya fail in bid to get cannabis legalised for religious purposes",
       "description": "The court acknowledged the need for a broader national debate on cannabis policy in Kenya.",
       "url": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 15 Jul 2026 10:50:09 GMT",
@@ -1531,6 +1587,20 @@
       "is_ticker": false
     },
     {
+      "title": "Looted gold and gum arabic are bankrolling Sudan's war, UN warns",
+      "description": "Alongside gold, the little-known Sudanese commodity gum arabic – used in soft drinks, food, cosmetics and pharmaceuticals – continues to fuel the war.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167944",
+      "published": "Wed, 15 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Looted gold and gum arabic are bankrolling Sudan's war, UN warns"
+    },
+    {
       "title": "Reviving communities home by home in Gaza",
       "description": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
@@ -1572,17 +1642,6 @@
       "url": "https://www.foxnews.com/us/california-inmate-spent-45-years-death-row-murdering-pregnant-wife-dies",
       "published": "Tue, 14 Jul 2026 16:16:47 -0400",
       "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Argentinian flight instructor jumps to death from plane, 22-year-old student forced to land alone",
-      "description": "A 22-year-old student pilot was forced to land a Cessna 150 alone after her flight instructor jumped from the aircraft mid-flight over Córdoba, Argentina.",
-      "url": "https://www.foxnews.com/world/argentinian-flight-instructor-jumps-death-from-plane-22-year-old-student-forced-land-alone",
-      "published": "Thu, 09 Jul 2026 12:29:59 -0400",
-      "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1719,7 +1778,7 @@
       "is_ticker": false
     },
     {
-      "title": "U.S. and Iran standoff over the Strait of Hormuz intensifies",
+      "title": "The U.S. and Iran standoff over the Strait of Hormuz intensifies",
       "description": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
       "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
       "published": "Wed, 15 Jul 2026 05:56:31 -0400",
@@ -1902,17 +1961,6 @@
       "url": "https://www.theguardian.com/world/2026/jul/15/japan-bear-raids-fridge",
       "published": "Wed, 15 Jul 2026 04:27:29 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran executes 2 Islamic State members convicted of armed rebellion",
-      "description": "Iranian state television says two members of the Islamic State group have been executed after they were convicted of armed rebellion against the Islamic Republic",
-      "url": "https://abcnews.com/International/wireStory/iran-executes-2-islamic-state-members-convicted-armed-134736253",
-      "published": "Tue, 14 Jul 2026 05:06:08 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2112,6 +2160,17 @@
       "is_ticker": false
     },
     {
+      "title": "Iraq’s prime minister carries the title, but not the power",
+      "description": "Al-Zaidi’s Washington visit exposed the pressure reshaping Baghdad’s politics, security and economy.",
+      "url": "https://www.aljazeera.com/opinions/2026/7/15/iraqs-prime-minister-carries-the-title-but-not-the-power?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 13:57:10 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Could the US take control of Iran’s southern islands?",
       "description": "Operation would be a dramatic military spectacle but would carry costs analysts doubt Washington is willing to incur.",
       "url": "https://www.aljazeera.com/news/2026/7/15/could-the-us-take-control-of-irans-southern-islands?traffic_source=rss",
@@ -2138,28 +2197,6 @@
       "description": "A new treaty signed by Britain and the EU includes the removal of border checks between Spain and Gibraltar.",
       "url": "https://www.aljazeera.com/news/2026/7/15/gibraltar-border-controls-lifted-is-it-part-of-schengen-the-uk-or-both?traffic_source=rss",
       "published": "Wed, 15 Jul 2026 10:45:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Crowds cross between Spain and Gibraltar following UK-EU treaty",
-      "description": "A large crowd crossed between Spain and Gibraltar in the early hours of Wednesday morning, celebrating the UK-EU treaty.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/crowds-cross-between-spain-and-gibraltar-following-uk-eu-treaty?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 10:17:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Sheikh Hamad bin Khalifa Al Thani and Al Jazeera",
-      "description": "A tribute to the late Father Emir from Al Jazeera's Chairman of Board of Directors Sheikh Hamad bin Thamer Al Thani.",
-      "url": "https://www.aljazeera.com/opinions/2026/7/15/sheikh-hamad-bin-khalifa-al-thani-and-al-jazeera?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 09:32:25 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2365,6 +2402,17 @@
       "is_ticker": false
     },
     {
+      "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
+      "description": "Lagging consumer spending and business investment offset the boost from strong exports thanks partly to the boom in artificial intelligence.",
+      "url": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+      "published": "Wed, 15 Jul 2026 10:11:41 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Greetings from Paris, where an art installation transformed the Pont Neuf into a rocky cave",
       "description": "The oldest bridge in Paris was draped in fabric last month to appear like a mountain cave, in an installation by the artist JR. Unlike a real cave, though, it didn't provide respite from a brutal heat wave.",
       "url": "https://www.npr.org/2026/07/15/g-s1-132781/paris-heat-pont-neuf-jr-cave-caverne",
@@ -2387,6 +2435,17 @@
       "is_ticker": false
     },
     {
+      "title": "Retired vice admiral on whether the U.S. can control the Strait of Hormuz",
+      "description": "Can the U.S. control the Strait of Hormuz? NPR's A Martínez asks retired Vice Admiral Kevin Donegan, who commanded the Navy's Fifth Fleet and the Combined Maritime Forces in the Middle East.",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5893471/retired-vice-admiral-on-whether-the-u-s-can-control-the-strait-of-hormuz",
+      "published": "Wed, 15 Jul 2026 04:49:15 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Rep. Ro Khanna on being detained by Israeli settlers in the West Bank",
       "description": "NPR's Ailsa Chang speaks with Rep. Ro Khanna, D-Calif., about his recent trip to the occupied West Bank and temporary detention by Israeli settlers and soldiers.",
       "url": "https://www.npr.org/2026/07/14/nx-s1-5893386/rep-ro-khanna-on-being-detained-by-israeli-settlers-in-the-west-bank",
@@ -2399,28 +2458,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Rep. Ro Khanna on being detained by Israeli settlers in the West Bank"
-    },
-    {
-      "title": "The U.S. is back to blockading Iran as the Strait of Hormuz standoff escalates",
-      "description": "The U.S. military says it's begun its blockade of ships entering or exiting Iran's ports, as Iran vows to assert its own control over the critical Strait of Hormuz.",
-      "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
-      "published": "Tue, 14 Jul 2026 05:56:45 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pakistan urges restraint as its Mideast deal unravels",
-      "description": "Pakistan urges restraint as Iran and the U.S. clash and a memorandum of understanding unravels.",
-      "url": "https://www.npr.org/2026/07/13/nx-s1-5891718/pakistan-urges-restraint-as-its-mideast-deal-unravels",
-      "published": "Mon, 13 Jul 2026 16:55:21 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Germany news: Coalition has 'found its footing,' Merz says",
@@ -2484,15 +2521,18 @@
       "is_ticker": false
     },
     {
-      "title": "How the 2016 coup attempt changed Turkey for good",
+      "title": "Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today",
       "description": "Ten years ago, parts of the Turkish military attempted to overthrow the government of President Recep Tayyip Erdogan. The consequences of the failed coup continue to shape Turkey to this day. DW looks back.",
-      "url": "https://www.dw.com/en/how-the-2016-coup-attempt-changed-turkey-for-good/a-77955154?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/ten-years-ago-parts-of-the-turkish-military-tried-to-overthrow-the-erdogan-government-the-consequences-are-still-shaping-turkey-today/a-77955154?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 14 Jul 2026 19:00:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today"
     },
     {
       "title": "US troop withdrawal from Iraq set for September 30",
@@ -2528,10 +2568,35 @@
       "is_ticker": false
     },
     {
+      "title": "Gus the T-rex breaks dinosaur fossil sale record at auction",
+      "description": "A Tyrannosaurus rex skeleton has become the most expensive dinosaur fossil sold at auction after an unidentified buyer paid more than $50m (£37.3m) for it.",
+      "url": "https://news.sky.com/story/gus-the-50m-t-rex-breaks-dinosaur-fossil-sale-record-at-new-york-auction-13563667",
+      "published": "Wed, 15 Jul 2026 11:58:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Gus the T-rex breaks dinosaur fossil sale record at auction"
+    },
+    {
       "title": "Gibraltar ushers in new era as British territory's border fence with Spain removed",
       "description": "Spain and Gibraltar are celebrating the removal of a border checkpoint following a historic treaty between the EU and the UK.",
       "url": "https://news.sky.com/story/gibraltar-ushers-in-new-era-as-british-territorys-border-fence-with-spain-removed-13563633",
       "published": "Wed, 15 Jul 2026 10:53:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK working to ban goods and services exports to and imports from Israeli settlements",
+      "description": "The UK government is working on a ban on imports and exports to illegal Israeli settlements, the trade minister confirmed on Wednesday morning.",
+      "url": "https://news.sky.com/story/uk-working-to-ban-goods-and-services-exports-to-and-imports-from-israeli-settlements-13563617",
+      "published": "Wed, 15 Jul 2026 10:02:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2550,11 +2615,11 @@
       "is_ticker": false
     },
     {
-      "title": "Wife of passenger sucked out of plane window describes their ordeal",
-      "description": "A woman whose husband was partially sucked out of the window during a Ryanair flight has described how half of his body was left sticking out of the plane for \"up to two minutes\".",
-      "url": "https://news.sky.com/story/if-we-die-we-die-together-wife-of-passenger-sucked-out-of-plane-window-describes-ordeal-13563378",
-      "published": "Tue, 14 Jul 2026 13:34:00 +0100",
-      "source": "Sky News World",
+      "title": "Former Hungarian foreign minister resigns from parliament for job with Chinese automaker",
+      "description": "Hungary's former foreign minister, Péter Szijjártó, has resigned from parliament to join Chinese electric automaker BYD",
+      "url": "https://abcnews.com/International/wireStory/former-hungarian-foreign-minister-resigns-parliament-job-chinese-134782135",
+      "published": "Wed, 15 Jul 2026 10:30:57 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2576,17 +2641,6 @@
       "description": "A recently introduced malaria vaccine is helping reduce severe illness in children across Africa",
       "url": "https://abcnews.com/International/wireStory/new-malaria-vaccine-helps-africa-faces-test-completing-134769863",
       "published": "Wed, 15 Jul 2026 02:02:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "European troops join Paris Bastille Day parade in show of unity for Ukraine",
-      "description": "This year’s Bastille Day celebrations in France focus on European unity and support for Ukraine",
-      "url": "https://abcnews.com/International/wireStory/european-troops-warplanes-join-paris-bastille-day-parade-134736039",
-      "published": "Tue, 14 Jul 2026 21:13:56 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
