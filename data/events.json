@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T19:31:19.095807Z",
+  "last_updated": "2026-07-15T20:26:31.816400Z",
   "event_count": 225,
   "events": [
     {
@@ -96,17 +96,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Gunfire shatters Toronto Latin street festival, leaving at least 2 dead and multiple wounded"
-    },
-    {
-      "title": "Confirmed Ebola cases top 2,000 in Congo, including 754 deaths",
-      "description": "Ebola cases in Congo have reached 2,011, with 754 deaths, according to government data",
-      "url": "https://abcnews.com/International/wireStory/confirmed-ebola-cases-top-2000-congo-including-754-134772609",
-      "published": "Wed, 15 Jul 2026 08:58:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
@@ -346,6 +335,20 @@
       "ticker_label": "🪖 China’s monthly car ‌exports top 1m for first time as overall trade soars"
     },
     {
+      "title": "Firefighters battle 'contained' Fontainebleau forest fire near Paris amid arson probe",
+      "description": "With the two wildfires burning southeast of Paris now contained, for investigators, the focus is on how they started. Five people have been arrested, suspected of setting the blazes intentionally, including a volunteer fire fighter. Prosecutors say that a second suspect admitted to accidentally starting a fire by throwing away his cigarette. FRANCE 24's Monte Francis reports.",
+      "url": "https://www.france24.com/en/firefighters-battle-contained-fontainebleau-forest-fire-near-paris-amid-arson-probe",
+      "published": "Wed, 15 Jul 2026 19:31:33 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Firefighters battle 'contained' Fontainebleau forest fire near Paris amid arson probe"
+    },
+    {
       "title": "People continue to stand by refugees, Gen Z shows most empathy",
       "description": "Protection for refugees has been enshrined in international law for more than seven decades, but how much support is there today for those fleeing conflict and persecution?",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167934",
@@ -502,17 +505,6 @@
       "is_ticker": false
     },
     {
-      "title": "A boat carrying migrants capsizes off Libya's coast, with at least 50 dead or missing",
-      "description": "Authorities say a boat carrying about 60 migrants, including women and children, bound for European shores capsized off the coast of eastern Libya in the latest maritime tragedy off the North African country",
-      "url": "https://abcnews.com/International/wireStory/boat-carrying-migrants-capsizes-off-libyas-coast-50-134789575",
-      "published": "Wed, 15 Jul 2026 13:30:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Baltics and Poland warn Russia could launch limited military or hybrid provocation against NATO",
       "description": "Lithuania's president says intelligence suggests Russia is planning attacks on critical infrastructure in the Baltic states or Poland",
       "url": "https://abcnews.com/International/wireStory/baltics-poland-warn-russia-launch-limited-military-hybrid-134779778",
@@ -580,20 +572,6 @@
       "ticker_label": "🪖 US-Iran: Why the cycle of war, talks, repeat?"
     },
     {
-      "title": "Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?",
-      "description": "Retired Gen. Philip Breedlove says Ukrainian strikes on energy infrastructure force Putin to divert military assets as fuel shortages spread nationwide.",
-      "url": "https://www.foxnews.com/world/bringing-war-putins-front-door-ukraine-energy-strike-strategy-working",
-      "published": "Sat, 11 Jul 2026 07:08:00 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Bringing the war to Putin’s front door: Is Ukraine’s energy strike strategy working?"
-    },
-    {
       "title": "India-linked organized crime gangs pose global challenge",
       "description": "The Bishnoi case shows how India-based transnational organized crime networks have evolved into a global law enforcement concern.",
       "url": "https://www.dw.com/en/india-linked-organized-crime-gangs-pose-global-challenge/a-77972547?maca=en-rss-en-all-1573-xml-mrss",
@@ -644,17 +622,6 @@
       "ticker_label": "🪖 Trump retreat over Hormuz tolls suggests he is struggling to end Iran war"
     },
     {
-      "title": "Father, mother, daughter killed in Israeli attack on Gaza home",
-      "description": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 16:24:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Ukraine: Kyiv and EU agree on new drone production deal",
       "description": "Ukraine and the EU have agreed on a drone deal combining Kyiv’s know-how with the bloc's scale-up power. Meanwhile, Russian attacks caused more fatalities in Odesa as Moscow increasingly targets the port. DW has more.",
       "url": "https://www.dw.com/en/ukraine-kyiv-and-eu-agree-on-new-drone-production-deal/live-77962795?maca=en-rss-en-all-1573-xml-mrss",
@@ -680,36 +647,22 @@
       "ticker_label": "🌪️ Following years of wildfires, Europe must 'diversify' landscapes and strengthen land management"
     },
     {
-      "title": "ICE ordered to suspend most vehicle stops after second deadly shooting",
-      "description": "Trump administration officials told Immigration and Customs Enforcement (ICE) officers to suspend most vehicle stops after two deadly shootings within a week, people familiar with the decision said Tuesday. The policy change came after an ICE officer shot and killed a Colombian driver Monday in Maine and a week after one shot and killed a motorist in Houston.",
-      "url": "https://www.france24.com/en/video/20260715-ice-ordered-to-suspend-most-vehicle-stops-after-second-deadly-shooting",
-      "published": "Wed, 15 Jul 2026 15:09:36 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 ICE ordered to suspend most vehicle stops after second deadly shooting"
-    },
-    {
-      "title": "Trump says ICE should continue traffic stops, contradicting earlier suspension",
-      "description": "US President Donald Trump on Wednesday said US Immigration and Customs Enforcement (ICE) should continue to use traffic stops despite a decision the previous day to suspend the practice. The ban on vehicle stops came after an ICE agent fatally shot a Colombian driver in Maine and another motorist was killed in Texas last week by immigration officers.",
-      "url": "https://www.france24.com/en/americas/20260715-trump-says-ice-should-continue-traffic-stops-contradicting-new-ban",
-      "published": "Wed, 15 Jul 2026 15:09:22 GMT",
-      "source": "France24",
+      "title": "Family of girl injured in mass-stabbing welcome baby boy",
+      "description": "The parents of a seven-year-old girl who was severely injured in the 2023 Parnell Square attack in Dublin have spoken of their joy after welcoming a baby into their family.",
+      "url": "https://news.sky.com/story/family-of-girl-injured-in-dublin-mass-stabbing-that-sparked-riots-welcome-baby-boy-13563749",
+      "published": "Wed, 15 Jul 2026 16:28:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
     },
     {
-      "title": "Family of girl injured in mass-stabbing welcome baby boy",
-      "description": "The parents of a seven-year-old girl who was severely injured in the 2023 Parnell Square attack in Dublin have spoken of their joy after welcoming a baby into their family.",
-      "url": "https://news.sky.com/story/family-of-girl-injured-in-dublin-mass-stabbing-that-sparked-riots-welcome-baby-boy-13563749",
-      "published": "Wed, 15 Jul 2026 16:28:00 +0100",
-      "source": "Sky News World",
+      "title": "China investigates mine-safety official for corruption after deadly gas explosion",
+      "description": "China's top mine-safety official in a major coal region is under investigation for corruption",
+      "url": "https://abcnews.com/International/wireStory/china-investigates-mine-safety-official-corruption-after-deadly-134735751",
+      "published": "Tue, 14 Jul 2026 05:46:03 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
@@ -816,6 +769,17 @@
       "is_ticker": false
     },
     {
+      "title": "NASA chief visits Russia's space launchpad for U.S.-Russian crew launch",
+      "description": "A U.S.-Russian space crew has arrived at the International Space Station for an eight-month mission",
+      "url": "https://abcnews.com/International/wireStory/nasa-chief-visits-russias-space-launchpad-us-russian-134740311",
+      "published": "Tue, 14 Jul 2026 21:14:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Ukrainian prime minister resigns in Zelenskyy shake-up",
       "description": "Yulia Svyrydenko resigned as Ukraine's prime minister, with Zelenskyy saying he offered her a new role in relations with a key international partner.",
       "url": "https://www.foxnews.com/world/ukrainian-prime-minister-resigns-zelenskyy-shake-up",
@@ -825,6 +789,20 @@
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "England-Argentina live: Gordon strikes first as Three Lions take lead in semi-final",
+      "description": "England and Argentina clash in an eagerly awaited World Cup semi-final in Atlanta, with both nations seeking the last stage. The Three Lions and the Albiceleste bring history, rivalry, and star quality to this decisive encounter, with Harry Kane's England facing Lionel Messi's Argentina in a battle for the ages. Follow our liveblog for minute-by-minute commentary.",
+      "url": "https://www.france24.com/en/sport/20260715-england-argentina-live-kane-and-messi-battle-for-world-cup-final-spot",
+      "published": "Wed, 15 Jul 2026 17:53:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 England-Argentina live: Gordon strikes first as Three Lions take lead in semi-final"
     },
     {
       "title": "Why the US is launching naval drones at Iran’s port city of Bandar Abbas",
@@ -888,20 +866,6 @@
       "ticker_label": "🪖 Iran war: Tehran says it 'never welcomed war'"
     },
     {
-      "title": "Yemen at risk of getting dragged back into war as Saudis and Houthis exchange airstrikes",
-      "description": "A truce that ended nearly a decade of war in Yemen has mostly held since 2022",
-      "url": "https://abcnews.com/International/wireStory/yemen-risk-dragged-back-war-saudis-houthis-exchange-134755417",
-      "published": "Tue, 14 Jul 2026 21:06:04 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Yemen at risk of getting dragged back into war as Saudis and Houthis exchange airstrikes"
-    },
-    {
       "title": "Independent expert urges UK leaders to uphold Supreme Court ruling on women’s rights",
       "description": "A UN independent human rights expert has urged political leaders in the United Kingdom to support implementation of a Supreme Court ruling on the legal definition of sex, warning that opposition to updated equality guidance risks weakening protections for women and girls.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167937",
@@ -925,6 +889,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
+      "description": "Trump says Putin is \"ready to make a deal\" to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets.",
+      "url": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
+      "published": "Wed, 15 Jul 2026 15:37:53 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control"
     },
     {
       "title": "A new chapter for America’s 250th: 'J250' initiative puts Jewish contributions in the spotlight",
@@ -1027,17 +1005,6 @@
       "is_ticker": false
     },
     {
-      "title": "Cuba plunged into 3rd nationwide blackout in 2 weeks as fuel runs low",
-      "description": "Cuba is suffering another nationwide blackout, leaving the entire country without power",
-      "url": "https://abcnews.com/International/wireStory/cuba-plunged-3rd-nationwide-blackout-2-weeks-fuel-134766969",
-      "published": "Tue, 14 Jul 2026 22:18:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Mexico asks US state attorneys general to investigate migrant deaths in ICE custody",
       "description": "Mexico has formally requested that U.S. state attorneys general investigate cases of migrants who have died in Immigration and Customs Enforcement custody or during raids",
       "url": "https://abcnews.com/International/wireStory/mexico-asks-us-state-attorneys-general-investigate-migrant-134761936",
@@ -1053,7 +1020,7 @@
     },
     {
       "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
-      "description": "U.S. government photos show American soldiers unloading China's only aid flight at Simón Bolivar Airport as Venezuela reels from June earthquakes.",
+      "description": "U.S. government photos show American soldiers unloading China's only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes.",
       "url": "https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief",
       "published": "Wed, 15 Jul 2026 15:09:29 -0400",
       "source": "Fox News World",
@@ -1094,20 +1061,6 @@
       "ticker_label": "🪖 Kenya's 'political gangs' fuel election fears"
     },
     {
-      "title": "Massive T. rex fossil roars to $50 million sale, becoming one of the priciest ever auctioned",
-      "description": "The T. rex nicknamed \"Gus\" shattered auction records after a 10-minute bidding war among seven bidders, but the debate over its future rages on.",
-      "url": "https://www.foxnews.com/us/massive-t-rex-fossil-roars-50-million-sale-becoming-one-priciest-ever-auctioned",
-      "published": "Tue, 14 Jul 2026 18:33:41 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Massive T. rex fossil roars to $50 million sale, becoming one of the priciest ever auctioned"
-    },
-    {
       "title": "More people around the world now favour China over the US, Pew study suggests",
       "description": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
       "url": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
@@ -1119,21 +1072,24 @@
       "is_ticker": false
     },
     {
-      "title": "Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash",
-      "description": "Argentina vice president's remarks made ahead of the World Cup semifinal against England and amid sovereignty dispute.",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/argentine-vp-calls-england-pirates-ahead-of-world-cup-semifinal-clash?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 16:57:23 +0000",
+      "title": "Russia pounds Ukraine with missile, drone strikes",
+      "description": "Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 19:59:48 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia pounds Ukraine with missile, drone strikes"
     },
     {
-      "title": "World Cup: Spain and Barcelona star Yamal’s home hit by attempted burglary",
-      "description": "Lamine Yamal's targeted home was formerly owned by Barca great Gerard Pique and Colombian music star Shakira.",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/world-cup-spain-and-barcelona-star-yamals-home-hit-by-attempted-burglary?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 16:22:28 +0000",
+      "title": "Argentine VP calls England ‘pirates’ ahead of World Cup semifinal clash",
+      "description": "Argentina vice president's remarks made ahead of the World Cup semifinal against England and amid sovereignty dispute.",
+      "url": "https://www.aljazeera.com/sports/2026/7/15/argentine-vp-calls-england-pirates-ahead-of-world-cup-semifinal-clash?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 16:57:23 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1163,6 +1119,20 @@
       "is_ticker": false
     },
     {
+      "title": "The U.S. launches another wave of strikes on Iran as the Hormuz standoff intensifies",
+      "description": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
+      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
+      "published": "Wed, 15 Jul 2026 05:56:31 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 The U.S. launches another wave of strikes on Iran as the Hormuz standoff intensifies"
+    },
+    {
       "title": "England vs. Argentina: A football rivalry full of history",
       "description": "From the Falkland Islands to Diego Maradona and David Beckham, there is so much history between the two 2026 World Cup semifinalists.",
       "url": "https://www.dw.com/en/england-vs-argentina-a-football-rivalry-full-of-history/a-77962179?maca=en-rss-en-all-1573-xml-mrss",
@@ -1174,32 +1144,10 @@
       "is_ticker": false
     },
     {
-      "title": "England-Argentina live: Kane and Messi battle for World Cup final spot",
-      "description": "England and Argentina clash in an eagerly awaited World Cup semi-final in Atlanta, with both nations seeking the last stage. The Three Lions and the Albiceleste bring history, rivalry, and star quality to this decisive encounter, with Harry Kane's England facing Lionel Messi's Argentina in a battle for the ages. Follow our liveblog for minute-by-minute commentary.",
-      "url": "https://www.france24.com/en/sport/20260715-england-argentina-live-kane-and-messi-battle-for-world-cup-final-spot",
-      "published": "Wed, 15 Jul 2026 17:53:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "The Odyssey: Matt Damon, Lupita Nyong’o, Anne Hathaway relive the epic",
       "description": "In this edition, Critic Emma Jones tells us why Christopher Nolan’s take on the Greek epic was worth the wait – and the eye-watering budget – and how the themes of this ancient story still speak to contemporary audiences. The all-star cast includes Matt Damon as a world-weary Odysseus, Anne Hathaway embodies a very patient Penelope and Lupita Nyong’O plays both Helen of Troy and her twin sister Clytemnestra.",
       "url": "https://www.france24.com/en/tv-shows/arts24/20260715-the-odyssey-matt-damon-lupita-nyong-o-anne-hathaway-relive-the-epic",
       "published": "Wed, 15 Jul 2026 16:12:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Briton jailed in Iran given additional two-year sentence, family says",
-      "description": "The family ⁠of British ​couple Craig and Lindsay Foreman, who are serving a 10-year ​prison sentence in Iran on espionage charges that they deny, said on Wednesday that a judge had extended Craig Foreman's ​sentence ‌by two years for speaking to the ⁠media. The couple were arrested in 2025 while travelling through Iran by motorcycle ‌as part of a round-the-world journey. Britain has described ⁠their original sentences as \"totally unjustifiable\".",
-      "url": "https://www.france24.com/en/video/20260715-briton-jailed-in-iran-given-additional-two-year-sentence-family-says",
-      "published": "Wed, 15 Jul 2026 14:59:14 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 9,
@@ -1334,6 +1282,20 @@
       "ticker_label": "🚨 Acting AG Todd Blanche faces a key test. And, ICE pauses most traffic stops"
     },
     {
+      "title": "EU, Ukraine seal 'drone deal' to boost production, establish joint ventures",
+      "description": "EU chief Ursula von der Leyen on Wednesday announced a \"drone deal\" with Ukraine to boost joint production of the key battlefield technology. Ukraine has already signed similar deals with some individual EU countries and Gulf nations looking to tap into the expertise Kyiv has developed during more than four years of war with Russia. FRANCE 24's EU correspondent Dave Keating has more.",
+      "url": "https://www.france24.com/en/eu-ukraine-seal-drone-deal-to-boost-production-establish-joint-ventures",
+      "published": "Wed, 15 Jul 2026 19:34:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 EU, Ukraine seal 'drone deal' to boost production, establish joint ventures"
+    },
+    {
       "title": "'You cannot have a good assisted dying law without good palliative care'",
       "description": "For Spotlight, François Picard is pleased to welcome Anne Reynaud, Board Member of the Association for the Right to Die with Dignity. France's long awaited assisted dying legislation marks a profound shift in the country's approach to end of life care, but as Reynaud makes clear, the parliamentary vote is less the end of a debate than the beginning of a new ethical and legal era. Speaking from both personal experience and her professional role, Reynaud argues that the law represents meaningful progress while remaining more restrictive than the recommendations of France's Citizens' Convention.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260715-you-cannot-have-a-good-assisted-dying-law-without-good-palliative-care",
@@ -1384,6 +1346,20 @@
       "ticker_label": "🪖 Why is Trump risking a 'forever war' with Iran?"
     },
     {
+      "title": "Twin attacks by militants kill 3 police officers, wound 20 in restive northwest Pakistan",
+      "description": "Officials say a suicide bomber and a group of militants have attacked a police station and a security convoy hour apart in restive northwest Pakistan, killing at least three police officers and wounding 20 others",
+      "url": "https://abcnews.com/International/wireStory/twin-attacks-militants-kill-3-police-officers-wound-134793439",
+      "published": "Wed, 15 Jul 2026 15:42:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Twin attacks by militants kill 3 police officers, wound 20 in restive northwest Pakistan"
+    },
+    {
       "title": "Lebanon and Israel move toward implementing withdrawal agreement, US officials say",
       "description": "Lebanon and Israel have taken steps toward creating “pilot zones” in southern Lebanon, following U.S.-mediated talks in Rome",
       "url": "https://abcnews.com/International/wireStory/lebanon-israel-move-implementing-withdrawal-agreement-us-officials-134786502",
@@ -1396,6 +1372,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Lebanon and Israel move toward implementing withdrawal agreement, US officials say"
+    },
+    {
+      "title": "Heavy rain collapses roof and kills 11 people in northwest Pakistan",
+      "description": "Officials in northwest Pakistan say 11 people were killed overnight when heavy rain caused the roof of a mud-brick house to collapse",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-collapses-roof-kills-11-people-northwest-134736773",
+      "published": "Tue, 14 Jul 2026 07:26:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Colombia: Pockets of insecurity challenge ‘vibrant democracy’, Security Council told",
@@ -1423,6 +1410,20 @@
       "ticker_label": "🪖 Looted gold and gum arabic are bankrolling Sudan's war, UN warns"
     },
     {
+      "title": "Alcatraz boat victim identified as 79-year-old; search continues for 3 missing people",
+      "description": "Clifford Joseph Boisa, a Sutter County reserve deputy sheriff, died when a boat carrying extended family to a memorial service sank near Alcatraz Island.",
+      "url": "https://www.foxnews.com/us/alcatraz-boat-victim-identified-79-year-old-search-continues-3-missing-people",
+      "published": "Wed, 15 Jul 2026 16:02:12 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Alcatraz boat victim identified as 79-year-old; search continues for 3 missing people"
+    },
+    {
       "title": "Man accused of attacking, attempting to drown female jogger along Houston bayou: police",
       "description": "Deputies used a drone above White Oak Bayou and followed bike tracks to locate the suspect after the woman fought back and escaped the attack.",
       "url": "https://www.foxnews.com/us/man-accused-attacking-attempting-drown-female-jogger-houston-bayou",
@@ -1438,17 +1439,6 @@
       "description": "George Birmingham allegedly killed a military veteran and his wife with an electric saw and metallic object during a burglary in Reform, Alabama.",
       "url": "https://www.foxnews.com/us/alabama-sheriff-details-gruesome-murders-veteran-wife-inside-their-own-home",
       "published": "Wed, 15 Jul 2026 10:57:16 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Rescuers work to save nearly 50 bottlenose dolphins in historic Cape Cod stranding",
-      "description": "Nearly 50 bottlenose dolphins stranded across Cape Cod in what IFAW calls the largest known dolphin stranding in Massachusetts history so far.",
-      "url": "https://www.foxnews.com/us/rescuers-work-save-nearly-50-bottlenose-dolphins-historic-cape-cod-stranding",
-      "published": "Tue, 14 Jul 2026 18:09:25 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1511,6 +1501,17 @@
       "is_ticker": false
     },
     {
+      "title": "France's parliament adopts assisted dying law",
+      "description": "France on Wednesday moved closer to joining the ranks of countries that guarantee the right to assisted dying, a move championed by President Emmanuel Macron. Macron had promised an assisted dying law when he was re-elected for a second term in 2022, in a change seen as one of the most important social reforms since France allowed same-sex marriage in 2012. If the country's highest constitutional authority approves the legislation, France will join the Netherlands, Belgium, Switzerland and Canada in legalising assisted dying.",
+      "url": "https://www.france24.com/en/france-s-parliament-adopts-assisted-dying-law",
+      "published": "Wed, 15 Jul 2026 19:41:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "France’s National Assembly will give final approval to assisted-dying bill",
       "description": "France's National Assembly is set to give final approval to a bill allowing adults with incurable illnesses to receive lethal medication",
       "url": "https://abcnews.com/International/wireStory/frances-national-assembly-give-final-approval-assisted-dying-134771956",
@@ -1547,6 +1548,31 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine strikes 20 Russian vessels",
+      "description": "Ukraine released video of strikes on 20 Russian vessels in the Black Sea, including 17 oil tankers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/ukraine-strikes-20-russian-vessels?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 19:58:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine strikes 20 Russian vessels"
+    },
+    {
+      "title": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+      "description": "Protests were held in Paris and Gaza demanding the release of Palestinian doctor Hussam Abu Safia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 19:48:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Gas tanker explodes in fire near army barracks in Lebanon",
       "description": "A gas tanker exploded after soaring temperatures sparked a fire near the Lebanese Army barracks in Hermel.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/gas-tanker-explodes-in-fire-near-army-barracks-in-lebanon?traffic_source=rss",
@@ -1563,17 +1589,6 @@
       "url": "https://www.theguardian.com/business/2026/jul/15/china-economy-low-quarterly-growth-economic-concerns",
       "published": "Wed, 15 Jul 2026 10:48:27 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "The U.S. and Iran standoff over the Strait of Hormuz intensifies",
-      "description": "Iran threatened to block all oil exporting routes in the region on Wednesday in response to the U.S. maritime blockade of Iranian ports in the Strait of Hormuz.",
-      "url": "https://www.npr.org/2026/07/15/nx-s1-5894582/us-iran-updates",
-      "published": "Wed, 15 Jul 2026 05:56:31 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1608,6 +1623,17 @@
       "ticker_label": "🪖 US senators demand findings of probe into deadly strike on Iran school"
     },
     {
+      "title": "1000 evacuated from fire near Paris; Spanish authorities identify fire victims",
+      "description": "Hundreds of firefighters are battling two blazes in the Fontainebleau forest south of Paris",
+      "url": "https://abcnews.com/International/wireStory/1000-evacuated-fontainebleau-fire-paris-spanish-authorities-identify-134739773",
+      "published": "Tue, 14 Jul 2026 09:06:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Police arrest man who threatened to shoot Reform UK party leader Nigel Farage",
       "description": "London police have arrested a man who threatened to shoot Reform UK party leader Nigel Farage on social media",
       "url": "https://abcnews.com/International/wireStory/police-arrest-man-threatened-shoot-reform-uk-party-134783510",
@@ -1617,20 +1643,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Spanish authorities identify all 13 victims of deadly southern fire",
-      "description": "Spanish authorities have identified all 13 victims of a devastating fire in a remote expat community in southern Spain",
-      "url": "https://abcnews.com/International/wireStory/spanish-authorities-identify-13-victims-deadly-southern-fire-134776000",
-      "published": "Wed, 15 Jul 2026 08:54:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Spanish authorities identify all 13 victims of deadly southern fire"
     },
     {
       "title": "California suspect's alleged $30K meth stash seized after he left backpack in rideshare: police",
@@ -1697,17 +1709,6 @@
       "ticker_label": "💥 New Germany sex-crime figures reignite migration fight as exploitation probe expands"
     },
     {
-      "title": "Zelenskyy backs state energy company chief Koretskyi for new Ukraine PM",
-      "description": "Ukraine's parliament is expected to vote for the next prime minister on Thursday.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/zelenskyy-backs-state-energy-company-chief-koretskyi-for-new-pm?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 16:48:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1741,6 +1742,17 @@
       "is_ticker": false
     },
     {
+      "title": "Hong Kong booksellers are reportedly arrested over alleged sales of seditious publications",
+      "description": "Local media are reporting that authorities in Hong Kong have raided two bookstores and arrested five people for allegedly selling seditious publications",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-booksellers-reportedly-arrested-alleged-sales-seditious-134785134",
+      "published": "Wed, 15 Jul 2026 11:28:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Zambia's Guy Scott, who was Africa's first white head of state in decades, has died at 82",
       "description": "Guy Scott, the Zambian politician who briefly served as acting president to become Africa’s first white head of state in more than two decades, has died",
       "url": "https://abcnews.com/International/wireStory/zambias-guy-scott-africas-white-head-state-decades-134790854",
@@ -1753,17 +1765,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Zambia's Guy Scott, who was Africa's first white head of state in decades, has died at 82"
-    },
-    {
-      "title": "Hong Kong booksellers are reportedly arrested over alleged sales of seditious publications",
-      "description": "Local media are reporting that authorities in Hong Kong have raided two bookstores and arrested five people for allegedly selling seditious publications",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-booksellers-reportedly-arrested-alleged-sales-seditious-134785134",
-      "published": "Wed, 15 Jul 2026 11:28:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Dem lawmaker says Constitution barred police from stopping her after alleged 100 mph speeding",
@@ -1821,6 +1822,17 @@
       "is_ticker": false
     },
     {
+      "title": "UN agency investigating reports of 2 boats capsizing with Rohingya refugees",
+      "description": "The United Nations’ refugee agency says it is investigating reports that two boats carrying members of Myanmar’s persecuted Rohingya minority have capsized in the Bay of Bengal",
+      "url": "https://abcnews.com/International/wireStory/agency-investigating-reports-2-boats-capsizing-rohingya-refugees-134737235",
+      "published": "Tue, 14 Jul 2026 07:25:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1832,32 +1844,10 @@
       "is_ticker": false
     },
     {
-      "title": "Gibraltar and Spain end border checks in boost for businesses",
-      "description": "Thousands of people who travel every day between the southern tip of Spain and the British territory of Gibraltar will no longer have to cross a physical border, beginning on Wednesday. The official opening at midnight on Tuesday, after a border fence was removed, allows a new freedom of movement under a historic treaty between the European Union and the United Kingdom and will come as a welcome boost for local businesses.",
-      "url": "https://www.france24.com/en/video/20260715-gibraltar-and-spain-end-border-checks-in-boost-for-businesses",
-      "published": "Wed, 15 Jul 2026 15:13:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Horde of golden mini-Mozarts marks 270 years since the composer's birth in Salzburg",
       "description": "Visitors to Wolfgang Amadeus Mozart’s hometown can see the composer — and his dog — in miniature as Salzburg celebrates the 270th anniversary of his birth",
       "url": "https://abcnews.com/International/wireStory/horde-golden-mini-mozarts-marks-270-years-composers-134785574",
       "published": "Wed, 15 Jul 2026 11:48:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Face-to-face with ancient Rome: Exhibition in Hungary brings forgotten faces to life",
-      "description": "A new exhibition in Hungary brings ancient residents of the Roman frontier city of Aquincum to life with detailed facial reconstructions",
-      "url": "https://abcnews.com/International/wireStory/face-face-ancient-rome-exhibition-hungary-brings-forgotten-134772237",
-      "published": "Wed, 15 Jul 2026 04:40:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -1973,6 +1963,28 @@
       "is_ticker": false
     },
     {
+      "title": "French Parliament approves landmark assisted-dying bill",
+      "description": "Parliament adopted the text by 291 votes to 241, though it still needs approval from the Constitutional Council.",
+      "url": "https://www.aljazeera.com/news/2026/7/15/french-parliament-approves-landmark-assisted-dying-bill?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 19:58:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "The history of the US and Iraq’s complicated relationship",
+      "description": "As Iraq’s prime minister visits Washington seeking deeper economic ties.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/the-history-of-the-us-and-iraqs-complicated-relationship?traffic_source=rss",
+      "published": "Wed, 15 Jul 2026 19:54:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Syrian authorities arrest ex-officer accused of chemical weapons crimes",
       "description": "Former colonel Ahmed Habib Ali is accused of supervising the manufacture of sarin gas bombs.",
       "url": "https://www.aljazeera.com/news/2026/7/15/syrian-authorities-arrest-ex-officer-accused-of-chemical-weapons-crimes?traffic_source=rss",
@@ -2046,28 +2058,6 @@
       "description": "A cruise ship-turned-luxury floating hotel that has been idle for about 14 years rolled onto its side while docked.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/cruise-ship-hotel-left-listing-in-china-port-after-high-tides?traffic_source=rss",
       "published": "Wed, 15 Jul 2026 16:55:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Norway’s Waerenskjold wins fastest Tour de France stage in history",
-      "description": "At an average speed of 50.91kph, Soren Waerenskjold's sprint was the fastest road stage in the 113 editions of the Tour.",
-      "url": "https://www.aljazeera.com/sports/2026/7/15/norways-waerenskjold-wins-fastest-tour-de-france-stage-in-history?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 16:46:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Starmer bids MPs goodbye as British PM and pledges to support his successor",
-      "description": "Andy Burnham, who is set to formally replace Starmer on Monday, will become the UK’s seventh prime minister in a decade.",
-      "url": "https://www.aljazeera.com/news/2026/7/15/starmer-bids-mps-goodbye-as-british-pm-and-pledges-to-support-his-successor?traffic_source=rss",
-      "published": "Wed, 15 Jul 2026 16:30:20 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2475,6 +2465,17 @@
       "ticker_label": "💥 Ten years ago, parts of the Turkish military tried to overthrow the Erdogan government. The consequences are still shaping Turkey today"
     },
     {
+      "title": "Kenya denies Rastafarians the right to smoke marijuana",
+      "description": "In tonight's edition, after years of waiting, Kenya's Rastafarians lose a landmark court battle over the religious use of cannabis. Also, the continent's top cocoa producers join forces to process more cocoa at home instead of exporting it raw. And on the beaches of Dakar, an environmental activist is turning heads in a colourful outfit, made entirely from discarded plastic waste.",
+      "url": "https://www.france24.com/en/kenya-denies-rastafarians-the-right-to-smoke-marijuana",
+      "published": "Wed, 15 Jul 2026 20:19:03 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Fast food nation? French chicken chain row gets political",
       "description": "On this particular television channel we do love covering the French and their love affair with fine food. But truth be told, eating habits here vary wildly be it by necessity, choice or habit. Don't say it too loudly but France boasts Europe’s highest number of McDonalds per person. So here we go with the feud between neighboring Paris suburbs over chicken drumsticks.",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260715-fast-food-nation-french-chicken-chain-row-gets-political",
@@ -2566,32 +2567,35 @@
       "is_ticker": false
     },
     {
+      "title": "El Salvador’s ruling party clears the way for Bukele’s 3rd term",
+      "description": "El Salvador's ruling party has ratified President Nayib Bukele’s candidacy for the February presidential elections",
+      "url": "https://abcnews.com/International/wireStory/el-salvadors-ruling-party-clears-bukeles-3rd-term-134732056",
+      "published": "Tue, 14 Jul 2026 01:45:49 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 El Salvador’s ruling party clears the way for Bukele’s 3rd term"
+    },
+    {
+      "title": "A mass trial of MS-13 gang members in El Salvador wraps up in El Salvador",
+      "description": "A mass trial of hundreds of alleged MS-13 gang members has wrapped up in El Salvador with prosecutors delivering their closing arguments",
+      "url": "https://abcnews.com/International/wireStory/mass-trial-ms-13-gang-members-el-salvador-134793962",
+      "published": "Wed, 15 Jul 2026 15:42:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Former Hungarian foreign minister resigns from parliament for job with Chinese automaker",
       "description": "Hungary's former foreign minister, Péter Szijjártó, has resigned from parliament to join Chinese electric automaker BYD",
       "url": "https://abcnews.com/International/wireStory/former-hungarian-foreign-minister-resigns-parliament-job-chinese-134782135",
       "published": "Wed, 15 Jul 2026 10:30:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Starmer says his political journey is over at his last question session as UK leader",
-      "description": "Keir Starmer has answered questions from lawmakers in the House of Commons for the last time before leaving the prime minister's office next week",
-      "url": "https://abcnews.com/International/wireStory/british-leader-starmer-faces-question-session-parliament-134773556",
-      "published": "Wed, 15 Jul 2026 09:23:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "The new malaria vaccine helps in Africa but faces dosing test",
-      "description": "A recently introduced malaria vaccine is helping reduce severe illness in children across Africa",
-      "url": "https://abcnews.com/International/wireStory/new-malaria-vaccine-helps-africa-faces-test-completing-134769863",
-      "published": "Wed, 15 Jul 2026 02:02:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2604,6 +2608,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167943",
       "published": "Tue, 14 Jul 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Nevada governor name-drops during traffic stop and avoids red-light citation",
+      "description": "Body camera video shows Nevada Gov. Joe Lombardo identifying himself during a Las Vegas traffic stop before driving away without a citation.",
+      "url": "https://www.foxnews.com/us/nevada-governor-name-drops-during-traffic-stop-avoids-red-light-citation",
+      "published": "Wed, 15 Jul 2026 15:29:15 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
