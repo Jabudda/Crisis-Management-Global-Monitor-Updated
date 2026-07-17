@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-17T19:29:27.278249Z",
+  "last_updated": "2026-07-17T19:56:46.176943Z",
   "event_count": 226,
   "events": [
     {
-      "title": "Magnitude 7.3 quake hits Mexican coast near Guatemala, triggering tsunami alert",
-      "description": "A powerful earthquake struck the southern Mexican Pacific coast on Friday, prompting residents to evacuate buildings in neighbouring Guatemala and El Salvador – and triggering an alert from the US Tsunami Warning System. There were no immediate reports of damage or casualties.",
+      "title": "Magnitude 7.3 quake hits Mexican coast near Guatemala, tsunami alert lifted",
+      "description": "A powerful earthquake struck the southern Mexican Pacific coast on Friday, prompting residents to evacuate buildings in neighbouring Guatemala and El Salvador – and triggering an alert from the US Tsunami Warning System that was later lifted. There were no immediate reports of damage or casualties.",
       "url": "https://www.france24.com/en/americas/20260717-magnitude-7-3-quake-hits-mexican-coast-near-guatemala-triggering-tsunami-alert",
       "published": "Fri, 17 Jul 2026 16:42:17 GMT",
       "source": "France24",
@@ -14,7 +14,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Magnitude 7.3 quake hits Mexican coast near Guatemala, triggering tsunami alert"
+      "ticker_label": "🌪️ Magnitude 7.3 quake hits Mexican coast near Guatemala, tsunami alert lifted"
     },
     {
       "title": "How global heating supercharged floods in West Africa, displacing thousands",
@@ -57,20 +57,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Air quality plummets in 20 US states as smoke from Canadian wildfires spreads"
-    },
-    {
-      "title": "Canada wildfires: Smoke choking major US cities",
-      "description": "Air quality warnings have been issued in major US cities due to dense wildfire smoke from Canada. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions.",
-      "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 17 Jul 2026 18:38:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Canada wildfires: Smoke choking major US cities"
     },
     {
       "title": "Djibouti: Emergency alert spotlights sharp hunger spike",
@@ -124,6 +110,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Malvinas are Argentinian’: World Cup holders celebrate win over England with Falklands banner"
+    },
+    {
+      "title": "Canada wildfires: Smoke choking major US cities",
+      "description": "Trump has blamed Canada for the wildfires and their impact on the US, threatening extra tarrifs on the US neighbor. FIFA World Cup organizers are \"monitoring closely\" the smoky conditions.",
+      "url": "https://www.dw.com/en/canada-wildfires-smoke-choking-major-us-cities/a-78014421?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 17 Jul 2026 18:38:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Canada wildfires: Smoke choking major US cities"
     },
     {
       "title": "‘Not a big deal’: New Venice mayor on US ambassador’s superyacht visit",
@@ -193,18 +193,15 @@
       "ticker_label": "💥 Trump administration probes UNRWA over alleged employment of 1,500 terrorists"
     },
     {
-      "title": "11 children killed and 19 injured in an overnight orphanage fire in Algeria",
-      "description": "A fire at an orphanage near the capital of Algeria killed 11 children and injured 19",
-      "url": "https://abcnews.com/International/wireStory/11-children-killed-19-injured-overnight-orphanage-fire-134814849",
-      "published": "Thu, 16 Jul 2026 09:51:02 -0400",
-      "source": "ABC News International",
+      "title": "Ten killed in attacks in Russia and Ukraine as protests continue in Kyiv",
+      "description": "Thousands rally in the Ukrainian capital to protest the ouster of Defence Minister Mykhailo Fedorov.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
+      "published": "Fri, 17 Jul 2026 15:19:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 11 children killed and 19 injured in an overnight orphanage fire in Algeria"
+      "is_ticker": false
     },
     {
       "title": "Gulf crisis: Guterres calls for de-escalation, warns against return to full-on war",
@@ -235,6 +232,20 @@
       "ticker_label": "🪖 Security Council LIVE: International Criminal Court briefs on Darfur"
     },
     {
+      "title": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
+      "description": "World Cup organisers are monitoring the situation 'closely', with US and FIFA presidents meeting on Friday.",
+      "url": "https://www.aljazeera.com/sports/2026/7/17/will-the-canadian-wildfire-smoke-affect-spain-vs-argentina-world-cup-final?traffic_source=rss",
+      "published": "Fri, 17 Jul 2026 19:39:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?"
+    },
+    {
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
       "description": "Country begins 42-day countdown to outbreak being declared officially over, as numbers continue to rise in neighbouring Democratic Republic of the Congo Uganda has started lobbying countries to lift Ebola-related travel restrictions after discharging its last confirmed Ebola patient from hospital. The discharge of a Congolese national from the Mulago national referral hospital’s isolation centre in Kampala on Thursday triggered the start of a 42-day countdown required by the World Health Organization before Uganda can officially be declared Ebola-free, provided no new infections are detected. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jul/16/uganda-travel-restrictions-last-ebola-patient-discharged",
@@ -244,6 +255,20 @@
       "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Trump blames Canada as US 'invaded by filthy air' from wildfires that could impact World Cup final",
+      "description": "US President Donald Trump has blamed Canada for the impact of wildfire smoke that could impact the World Cup final.",
+      "url": "https://news.sky.com/story/trump-blames-canada-as-us-invaded-by-filthy-air-from-wildfires-that-could-impact-world-cup-final-13563357",
+      "published": "Fri, 17 Jul 2026 14:00:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Trump blames Canada as US 'invaded by filthy air' from wildfires that could impact World Cup final"
     },
     {
       "title": "World News in Brief: Appeal for calm in Kashmir, women on the move, increased Ebola deaths in communities, 12th anniversary of MH17",
@@ -260,7 +285,7 @@
       "title": "More Canadian wildfire smoke shrouds US midwest, mid-Atlantic and north-east",
       "description": "109 million people face another day of poor air quality as smoke from blazes in Ontario drifts over the US Sign up for the Breaking News US newsletter email Tens of millions of Americans are enduring another day of smoky skies, irritated eyes and bad air quality, as Canadian wildfire smoke spread again over huge swathes of the US, affecting about 109 million people across the midwest, mid-Atlantic and north-east. The pungent wildfire blanketed cities such as Chicago and Detroit , where residents on Friday were warned to stay indoors and reduce activity levels after the air quality index reached a “hazardous” 361, according to the government website AirNow . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jul/17/canada-wildfire-smoke-midwest-mid-atlantic-north-east",
-      "published": "Fri, 17 Jul 2026 18:39:51 GMT",
+      "published": "Fri, 17 Jul 2026 19:38:52 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 22,
@@ -325,17 +350,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "Ukraine suffers port attacks as protests persist over defence shake-up",
-      "description": "Russian attacks reportedly kill two Ukrainians aboard foreign vessel in Mykolaiv; two more killed in Kherson and Odesa.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-      "published": "Fri, 17 Jul 2026 15:19:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -594,6 +608,17 @@
       "is_ticker": false
     },
     {
+      "title": "At least 20 children and 1 adult were killed in a school bus crash in Uganda",
+      "description": "At least 20 children and one adult were killed when an elementary school bus crashed in the East African country of Uganda",
+      "url": "https://abcnews.com/International/wireStory/20-children-1-adult-killed-school-bus-crash-134840391",
+      "published": "Fri, 17 Jul 2026 08:02:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
       "description": "Iran reportedly told Houthis to prepare to close the Bab el-Mandeb Strait with missiles, drones and sea mines if the U.S. strikes Iranian infrastructure.",
       "url": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
@@ -697,20 +722,6 @@
       "ticker_label": "🌪️ How AI and satellites help fight wildfires"
     },
     {
-      "title": "Wildfires force thousands to evacuate as smoke darkens skies over major cities",
-      "description": "Thousands of people have been told to leave more than a million acres of wilderness as wildfires spread.",
-      "url": "https://news.sky.com/story/wildfires-force-thousands-to-evacuate-as-skies-darken-over-us-and-canadian-cities-13563962",
-      "published": "Thu, 16 Jul 2026 11:17:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfires force thousands to evacuate as smoke darkens skies over major cities"
-    },
-    {
       "title": "Europe's early heat wave led to a spike in deaths, may have killed over 10,000",
       "description": "Heat that hit Europe exceptionally early and hard this year appears to have led to a spike in deaths, with well over 10,000 more people dying at the height of the heat wave than would normally have been expected, according to figures that are still eme...",
       "url": "https://abcnews.com/International/wireStory/europes-early-heat-wave-led-spike-deaths-killed-134841091",
@@ -775,6 +786,20 @@
       "ticker_label": "💥 West Indies cricket legend Sir Garfield Sobers dies"
     },
     {
+      "title": "Ukraine: Trouble at the Top? Adieu Keir, Alright Andy",
+      "description": "In a week that’s seen rare wartime demonstrations in Ukraine protesting the ousting of Defence Minister Mykhailo (Misha) Fedorov after six months in a job in which he’s been credited with making a difference on the battlefield and in an anti-corruption drive. But he had reportedly clashed with Ukraine’s commander-in-chief, Oleksandr Syrskyi, over how the war should be waged.",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260717-ukraine-trouble-at-the-top-adieu-keir-alright-andy",
+      "published": "Fri, 17 Jul 2026 18:31:02 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine: Trouble at the Top? Adieu Keir, Alright Andy"
+    },
+    {
       "title": "ICC judges order a Libyan suspect to stand trial on murder, rape and torture charges",
       "description": "International Criminal Court judges have ordered a Libyan suspect to stand trial on charges including murder, rape and torture at a notorious prison",
       "url": "https://abcnews.com/International/wireStory/icc-judges-order-libyan-suspect-stand-trial-murder-134820602",
@@ -809,20 +834,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia is the only winner from Ukraine's internal war"
-    },
-    {
-      "title": "South Korea's central bank hikes rate for 1st time since 2023 to curb inflation, debt",
-      "description": "South Korea’s central bank on Thursday raised its key interest rate for the first time in more than three years, aiming to tighten money supply to combat inflation, worsened by the war in the Middle East, and slow the growth of the country’s high house...",
-      "url": "https://abcnews.com/International/wireStory/south-koreas-central-bank-hikes-rate-1st-time-134804515",
-      "published": "Thu, 16 Jul 2026 03:33:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 South Korea's central bank hikes rate for 1st time since 2023 to curb inflation, debt"
     },
     {
       "title": "7.3 earthquake hits Mexico-Guatemala border with no immediate damage reported",
@@ -907,17 +918,6 @@
       "description": "The recall is the latest development in a series of reports of autonomous vehicles impeding emergency response efforts.",
       "url": "https://www.aljazeera.com/news/2026/7/17/amazons-zoox-recalls-self-driving-vehicles-amid-emergency-response-issues?traffic_source=rss",
       "published": "Fri, 17 Jul 2026 16:40:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Uganda school bus crash kills 20 children and 1 adult",
-      "description": "Uganda halts school trips after bus crashes returning from waterfall field trip; at least a dozen also injured.",
-      "url": "https://www.aljazeera.com/news/2026/7/17/uganda-school-bus-crash-kills-20-children-and-1-adult?traffic_source=rss",
-      "published": "Fri, 17 Jul 2026 14:12:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
@@ -1041,6 +1041,17 @@
       "url": "https://www.france24.com/en/video/20260717-world-cup-2026-tournament-repackaged-football-as-a-luxury-product",
       "published": "Fri, 17 Jul 2026 15:52:55 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Puerto Rico announces emergency water rationing as drought worsens",
+      "description": "Puerto Rico is imposing water rationing measures as a drought grips the U.S. territory, worsening chronic water shortages that have forced the governor to declare a state of emergency",
+      "url": "https://abcnews.com/International/wireStory/puerto-rico-announces-emergency-water-rationing-drought-worsens-134824196",
+      "published": "Thu, 16 Jul 2026 13:46:28 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1221,6 +1232,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump administration's border barrier project sparks environmental concerns in Texas national park",
+      "description": "The Trump administration’s waiver of environmental laws to speed up border barrier construction in Texas’s Big Bend National Park has sparked an outcry from local residents and authorities.",
+      "url": "https://www.france24.com/en/americas/20260717-border-barrier-project-sparks-environmental-concerns-texas-national-park",
+      "published": "Fri, 17 Jul 2026 17:21:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "FIFA to hand World Cup winners US-style championship rings",
       "description": "The winners of Sunday's World Cup final between Argentina and Spain will receive a championship ring for the first time, FIFA said.",
       "url": "https://news.sky.com/story/fifa-to-hand-winners-of-argentina-v-spain-world-cup-final-us-style-championship-rings-13564329",
@@ -1232,18 +1254,18 @@
       "is_ticker": false
     },
     {
-      "title": "India's Gen Z 'cockroaches' took protest to the streets",
-      "description": "An activist's hunger strike has become a rallying point for India’s new Cockroach Janta Party, a youth-led movement that emerged in response to exam paper leaks and student suicides",
-      "url": "https://abcnews.com/International/wireStory/indias-gen-cockroaches-protest-streets-now-rally-hunger-134806227",
-      "published": "Thu, 16 Jul 2026 08:01:56 -0400",
+      "title": "Landslide in southwest China traps people, rescue efforts underway",
+      "description": "A landslide in the southwestern Chinese city of Chongqing has buried residential buildings and forced over 1,100 people to evacuate",
+      "url": "https://abcnews.com/International/wireStory/landslide-southwest-china-traps-people-rescue-efforts-underway-134839470",
+      "published": "Fri, 17 Jul 2026 08:34:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 India's Gen Z 'cockroaches' took protest to the streets"
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Landslide in southwest China traps people, rescue efforts underway"
     },
     {
       "title": "Hunger deepens for displaced families in Sudan’s El Obeid",
@@ -1488,28 +1510,6 @@
       "ticker_label": "💥 Parents of teens killed by tainted liquor in Laos are angry at expected charges"
     },
     {
-      "title": "1 person dead and 23 missing after passenger boat sinks in Indonesia, authorities say",
-      "description": "Authorities in Indonesia say one person is dead and 23 are missing after a passenger boat sank on the way to an island in the archipelago",
-      "url": "https://abcnews.com/International/wireStory/1-person-dead-23-missing-after-passenger-boat-134812844",
-      "published": "Thu, 16 Jul 2026 08:51:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Deliberations underway in trial over 2018 bridge collapse in Italy that killed dozens",
-      "description": "Family members of the 43 people killed in the 2018 Genoa bridge collapse are expected in court for verdicts in the trial of 57 defendants",
-      "url": "https://abcnews.com/International/wireStory/verdict-due-trial-2018-bridge-collapse-italy-killed-134806890",
-      "published": "Thu, 16 Jul 2026 07:54:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Peacekeepers step up support as families return to south Lebanon",
       "description": "With violence in south Lebanon significantly decreased since mid-June, UN peacekeepers there have returned to core functions such as protecting humanitarian aid and restoring critical infrastructure as families continue to return home.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167961",
@@ -1572,17 +1572,6 @@
       "description": "Surveillance video shows six suspects allegedly armed with an assault rifle and sword attacking an elderly man outside a Baltimore 7-Eleven before dawn.",
       "url": "https://www.foxnews.com/us/baltimore-beat-down-video-shows-group-teens-pummeling-elderly-man-outside-7-eleven-police-hunt-suspects",
       "published": "Thu, 16 Jul 2026 13:24:37 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Missouri teen girl shot and killed at home, and now 3 friends face charges",
-      "description": "Three juveniles face charges after 16-year-old Gabbriana Boyster was shot and left inside her Hillsboro, Missouri, home for hours before her mother found the body.",
-      "url": "https://www.foxnews.com/us/missouri-teen-girl-shot-killed-home-3-friends-face-charges",
-      "published": "Thu, 16 Jul 2026 11:14:58 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1662,11 +1651,33 @@
       "ticker_label": "💥 Merz and Macron: A Franco-German week of harmony"
     },
     {
+      "title": "Jon Culshaw on the art of imitation",
+      "description": "Downing Street’s Larry the Cat is about to get a new housemate, his seventh in ten years. Andy Burnham says he will do things differently, that he’s focused on driving growth in every postcode in the country, although we’re yet to hear any detail of how from the about-to-be-parachuted-in PM after Sir Keir Starmer gave his swan song in Westminster on Wednesday at the House of Commons, delivering his last Prime Minister’s Questions.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260717-jon-culshaw-on-the-art-of-imitation",
+      "published": "Fri, 17 Jul 2026 17:22:01 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "France orders internet providers to block access to Polymarket prediction site",
       "description": "France's ​main ​gambling sector regulator said ⁠on Friday it had ‌instructed the ‌country's ​internet service providers to ​block access ​to ​the Polymarket ​website, one of a number of online prediction markets that allow people to bet on the outcome of future events. The move aims to enforce an existing ban on financial transactions to the site.",
       "url": "https://www.france24.com/en/france/20260717-france-orders-internet-service-providers-to-block-access-to-polymarket",
       "published": "Fri, 17 Jul 2026 15:21:11 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "India launches first hydrogen-powered train built in the country",
+      "description": "India has introduced its first hydrogen-powered train designed and built in the country in a move to expand clean energy use on its rail network",
+      "url": "https://abcnews.com/International/wireStory/india-launches-hydrogen-powered-train-built-country-expand-134840289",
+      "published": "Fri, 17 Jul 2026 04:10:06 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1700,6 +1711,17 @@
       "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
       "published": "Fri, 17 Jul 2026 12:17:14 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Substandard work and evasion of oversight helped fuel deadly Hong Kong fire",
+      "description": "An independent committee investigating the cause of Hong Kong’s deadliest fire in decades on Friday heard arguments on how malpractices that had evaded regulatory oversight turned a small fire into a tragedy",
+      "url": "https://abcnews.com/International/wireStory/substandard-work-evasion-oversight-helped-fuel-deadly-hong-134840484",
+      "published": "Fri, 17 Jul 2026 04:30:47 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1800,6 +1822,17 @@
       "is_ticker": false
     },
     {
+      "title": "Crowd surge at Hindu festival in India leaves 1 dead and many hospitalized",
+      "description": "A sudden crowd surge at a Hindu festival in Odisha, India, has left at least one person dead and many hospitalized",
+      "url": "https://abcnews.com/International/wireStory/crowd-surge-hindu-festival-india-leaves-1-dead-134819007",
+      "published": "Thu, 16 Jul 2026 11:41:43 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "As aid dries up, countries pledge to close the $4 trillion development gap",
       "description": "UN Member States reaffirmed their commitment to the Sustainable Development Goals (SDGs) by adopting a declaration on Wednesday that they will implement reforms to help close the $4 trillion SDG financing gap.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167957",
@@ -1891,24 +1924,10 @@
       "is_ticker": false
     },
     {
-      "title": "UN agencies fear over 500 people died, including Rohingya refugees, after reports of boats capsizing in recent weeks",
-      "description": "UN agencies fear over 500 people died, including Rohingya refugees, after reports of boats capsizing in recent weeks",
-      "url": "https://abcnews.com/International/wireStory/agencies-fear-500-people-died-including-rohingya-refugees-134806601",
-      "published": "Thu, 16 Jul 2026 01:28:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 UN agencies fear over 500 people died, including Rohingya refugees, after reports of boats capsizing in recent weeks"
-    },
-    {
-      "title": "More than 500 feared dead as reports of boats capsizing with Rohingya refugees",
-      "description": "U.N. agencies say more than 500 people are feared dead after reports that two boats carrying members of Myanmar’s persecuted Rohingya minority have capsized in the Bay of Bengal",
-      "url": "https://abcnews.com/International/wireStory/500-feared-dead-officials-investigate-reports-boats-capsizing-134806796",
-      "published": "Thu, 16 Jul 2026 06:08:16 -0400",
+      "title": "UK intelligence watchdog raps MI5 for lying to courts about a neo-Nazi informer",
+      "description": "The British government plans to tighten oversight of MI5 after a report revealed the agency misled courts about a neo-Nazi informant",
+      "url": "https://abcnews.com/International/wireStory/uk-intelligence-watchdog-raps-mi5-lying-courts-neo-134819013",
+      "published": "Thu, 16 Jul 2026 11:41:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -2241,7 +2260,7 @@
       "title": "M 7.3 - 58 km WSW of Puerto Madero, Mexico",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - V Time 2026-07-17 14:48:39 UTC 2026-07-17 14:48:39 UTC at epicenter Location 14.604°N 92.952°W Depth 18.58 km (11.55 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t1bu",
-      "published": "2026-07-17T19:23:07.980Z",
+      "published": "2026-07-17T19:52:20.473Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2420,39 +2439,6 @@
       "ticker_label": "🌪️ 'Whether you're Labour or not', Andy Burnham embodies a 'hope of political stability'"
     },
     {
-      "title": "Replay: Andy Burnham addresses Labour MPs as he becomes new party leader",
-      "description": "Rewatch Andy Burnham's address to Labour as he officially becomes the new party leader, and is a few days awat from becoming the new British prime minister.",
-      "url": "https://www.france24.com/en/replay-andy-burnham-addresses-labour-mps-as-he-becomes-new-party-leader",
-      "published": "Fri, 17 Jul 2026 12:54:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Project 'Afrika’: Inside Russia's propaganda machine",
-      "description": "After a leak of confidential documents revealed how Russian agents have been placing hundreds of articles in French-speaking media outlets in West and Central Africa, FRANCE 24 travelled to Dakar, Senegal, to investigate this secret operation.",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260717-project-afrika-inside-russia-propaganda-machine",
-      "published": "Fri, 17 Jul 2026 11:39:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "🔴 UK’s Andy Burnham named Labour leader ahead of taking over as PM",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20260717-uk-s-andy-burnham-named-labour-leader-ahead-of-taking-over-as-pm",
-      "published": "Fri, 17 Jul 2026 11:16:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "'Shameless' fraudster who stole £300k from vulnerable pensioner led away by police",
       "description": "This is the moment a \"shameless\" fraudster who stole £300,000 from a vulnerable pensioner is led away by police, after Sky News tracked her down to Tenerife.",
       "url": "https://news.sky.com/story/video-shows-shameless-fraudster-who-stole-300k-from-vulnerable-pensioner-led-away-by-police-13564444",
@@ -2500,6 +2486,17 @@
       "is_ticker": false
     },
     {
+      "title": "Danish police officer and 2 others shot, including suspected perpetrator",
+      "description": "Danish police say that a police officer and two other people have been shot including the suspected perpetrator",
+      "url": "https://abcnews.com/International/wireStory/danish-police-officer-2-shot-including-suspected-perpetrator-134846847",
+      "published": "Fri, 17 Jul 2026 10:18:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "A Brazilian bay’s surprise shark nursery sparks conservation project",
       "description": "Scientists have discovered that a cove in Brazil's Ilha Grande bay is a nursery for pregnant blacktip sharks",
       "url": "https://abcnews.com/International/wireStory/brazilian-bays-surprise-shark-nursery-sparks-conservation-project-134846149",
@@ -2511,21 +2508,10 @@
       "is_ticker": false
     },
     {
-      "title": "Japan's parliament enshrines male-only succession for the shrinking imperial family",
-      "description": "Japan’s parliament has enacted a historic revision to the 19th-century Imperial House Law by insisting only paternal-lineage men can become emperor",
-      "url": "https://abcnews.com/International/wireStory/japans-parliament-enshrines-male-succession-shrinking-imperial-family-134835377",
-      "published": "Fri, 17 Jul 2026 01:29:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Andy Burnham is poised to become Britain's next prime minister",
-      "description": "Andy Burnham is about to become Britain’s 59th prime minister, following the sudden downfall of Labour Prime Minister Keir Starmer",
-      "url": "https://abcnews.com/International/wireStory/andy-burnham-mayor-englands-north-poised-become-britains-134838932",
-      "published": "Fri, 17 Jul 2026 07:29:17 -0400",
+      "title": "China rejects Trump's election interference claim as 'groundless accusations'",
+      "description": "China says it has never interfered in U.S. elections and has no interest in doing so",
+      "url": "https://abcnews.com/International/wireStory/china-rejects-trumps-election-interference-claim-groundless-accusations-134840885",
+      "published": "Fri, 17 Jul 2026 08:19:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2544,10 +2530,10 @@
       "is_ticker": false
     },
     {
-      "title": "Danish police officer and 2 others shot, including suspected perpetrator",
-      "description": "Danish police say that a police officer and two other people have been shot including the suspected perpetrator",
-      "url": "https://abcnews.com/International/wireStory/danish-police-officer-2-shot-including-suspected-perpetrator-134846847",
-      "published": "Fri, 17 Jul 2026 10:18:58 -0400",
+      "title": "Israel's parliament dissolves ahead of Oct. 27 elections",
+      "description": "Israel's parliament has dissolved after passing a series of controversial bills in marathon sessions in its last few days",
+      "url": "https://abcnews.com/International/wireStory/israels-parliament-dissolves-ahead-oct-27-elections-134839937",
+      "published": "Fri, 17 Jul 2026 04:02:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2555,24 +2541,21 @@
       "is_ticker": false
     },
     {
-      "title": "Jordan's military says it shot down 8 missiles launched by Iran targeting the kingdom",
-      "description": "Jordan's military says it shot down 8 missiles launched by Iran targeting the kingdom",
-      "url": "https://abcnews.com/International/wireStory/jordans-military-shot-8-missiles-launched-iran-targeting-134805776",
-      "published": "Thu, 16 Jul 2026 00:33:07 -0400",
+      "title": "Andy Burnham is poised to become Britain's next prime minister",
+      "description": "Andy Burnham is about to become Britain’s 59th prime minister, following the sudden downfall of Labour Prime Minister Keir Starmer",
+      "url": "https://abcnews.com/International/wireStory/andy-burnham-mayor-englands-north-poised-become-britains-134838932",
+      "published": "Fri, 17 Jul 2026 07:29:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Jordan's military says it shot down 8 missiles launched by Iran targeting the kingdom"
+      "is_ticker": false
     },
     {
-      "title": "Ukraine buries its unknown soldiers as families wait for identification",
-      "description": "In Kyiv, a brother and sister walk through a military cemetery, carrying carnations",
-      "url": "https://abcnews.com/International/wireStory/ukraine-buries-unknown-soldiers-families-wait-identification-134807151",
-      "published": "Thu, 16 Jul 2026 08:02:10 -0400",
+      "title": "Japan's parliament enshrines male-only succession for the shrinking imperial family",
+      "description": "Japan’s parliament has enacted a historic revision to the 19th-century Imperial House Law by insisting only paternal-lineage men can become emperor",
+      "url": "https://abcnews.com/International/wireStory/japans-parliament-enshrines-male-succession-shrinking-imperial-family-134835377",
+      "published": "Fri, 17 Jul 2026 01:29:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2603,6 +2586,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Breaking the silence: Zimbabwean youth leader calls for urgent investment in mental health"
+    },
+    {
+      "title": "Fox News Campus Radicals Newsletter: Intro to biology, dancing on graves and AI backlash",
+      "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
+      "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter",
+      "published": "Fri, 17 Jul 2026 15:38:58 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Video shows Canadian illegal alien slapping teen over Trump, ICE clothing: DHS",
