@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T15:49:58.760640Z",
+  "last_updated": "2026-07-18T16:22:53.063784Z",
   "event_count": 223,
   "events": [
     {
@@ -196,15 +196,18 @@
       "ticker_label": "🌪️ Canada wildfires: Smoke choking major US cities"
     },
     {
-      "title": "8 killed and more than 60 wounded in Ukrainian drone attack on Russian regions",
-      "description": "Russian officials report that Ukrainian drone attacks overnight have killed eight people and wounded more than 60 others",
-      "url": "https://abcnews.com/International/wireStory/8-killed-60-wounded-ukrainian-drone-attack-russian-134870000",
-      "published": "Sat, 18 Jul 2026 06:43:53 -0400",
-      "source": "ABC News International",
+      "title": "Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July",
+      "description": "Conflict has been escalating since US President Donald Trump declared 10 days ago that peace deal with Iran was over.",
+      "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
+      "published": "Sat, 18 Jul 2026 12:59:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 27,
+      "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran suggests MoU ‘suspended’ amid reports 50 killed in US strikes in July"
     },
     {
       "title": "Ukrainian drone attacks on Russia kill at least 8, wound dozens",
@@ -249,18 +252,18 @@
       "ticker_label": "🪖 Iran-backed terror proxy Houthis threaten fresh attacks after Yemen airport strike"
     },
     {
-      "title": "Venezuela earthquakes death toll surpasses 5,000",
-      "description": "The number of injured remains unchanged at 16,740, government says.",
-      "url": "https://abcnews.com/International/wireStory/venezuela-earthquakes-death-toll-surpasses-5000-134873069",
-      "published": "Sat, 18 Jul 2026 10:26:02 -0400",
-      "source": "ABC News International",
+      "title": "Venezuela quake death toll tops 5,000 as IMF releases emergency aid",
+      "description": "IMF releases £346m in emergency funds as new details emerge about the disaster response.",
+      "url": "https://www.aljazeera.com/news/2026/7/18/venezuela-quake-death-toll-tops-5000-as-imf-releases-emergency-aid?traffic_source=rss",
+      "published": "Sat, 18 Jul 2026 15:35:54 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Venezuela earthquakes death toll surpasses 5,000"
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Venezuela quake death toll tops 5,000 as IMF releases emergency aid"
     },
     {
       "title": "Trump administration probes UNRWA over alleged employment of 1,500 terrorists",
@@ -564,6 +567,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ukrainian prosecutors release video of Monaco bombing that injured tycoon",
+      "description": "The suspect, Anastasiia Berezovska, was found dead in Ukraine a few days later.",
+      "url": "https://abcnews.com/International/wireStory/ukrainian-prosecutors-release-video-monaco-bombing-injured-tycoon-134876071",
+      "published": "Sat, 18 Jul 2026 12:21:46 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Ukrainian prosecutors release video of Monaco bombing that injured tycoon"
+    },
+    {
       "title": "‘Heat deaths are not inevitable’: WHO pushes Europe to heat‑proof its hospitals",
       "description": "As Europe battles a deadly record-breaking heatwave, the World Health Organization (WHO) issued new guidance on Thursday to help countries face scorching temperatures now and in the future.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167955",
@@ -701,20 +718,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Convicted gun felon awaiting sentencing earned spot at Rikers World Cup watch party with Mamdani"
-    },
-    {
-      "title": "Iran accuses US of striking critical infrastructure as war intensifies",
-      "description": "The conflict has been escalating since US President Donald Trump declared 10 days ago the peace deal with Iran is over.",
-      "url": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
-      "published": "Sat, 18 Jul 2026 12:59:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran accuses US of striking critical infrastructure as war intensifies"
     },
     {
       "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
@@ -962,6 +965,20 @@
       "ticker_label": "💥 Olympic cyclist admits to driving despite ban after crash that killed wife"
     },
     {
+      "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+      "description": "Towering plumes of smoke rose over Kuwait after Iranian strikes hit multiple locations in Mangaf.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+      "published": "Sat, 18 Jul 2026 15:35:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Plumes of smoke rise over Kuwait after repeated Iranian attacks"
+    },
+    {
       "title": "Death toll from Uganda school bus crash rises to 24",
       "description": "Three more pupils died after Uganda’s school bus crash, raising the death toll to 23 students and one adult.",
       "url": "https://www.aljazeera.com/news/2026/7/18/death-toll-from-uganda-school-bus-crash-rises-to-24?traffic_source=rss",
@@ -1174,6 +1191,17 @@
       "ticker_label": "💥 Germany's 5,000 heat deaths: What the numbers reveal"
     },
     {
+      "title": "Opponents say Japan's law to punish national flag vandals is a threat to free speech",
+      "description": "Japan on Friday enacted a controversial new law prohibiting desecration of the national flag, a key right-wing agenda pushed by Prime Minister Sanae Takaichi",
+      "url": "https://abcnews.com/International/wireStory/japan-enacts-law-punish-national-flag-vandals-opponents-134840135",
+      "published": "Fri, 17 Jul 2026 04:18:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Covert DNA sample from Colorado man's trash revives 44-year-old Texas murder case: report",
       "description": "Larry Dean Brown's covert DNA sample from discarded soda bottles linked him to blood on Beverly Bruneau's nightgown over four decades after her death.",
       "url": "https://www.foxnews.com/us/covert-dna-sample-colorado-mans-trash-revives-44-year-old-texas-murder-case-report",
@@ -1265,17 +1293,6 @@
       "is_ticker": false
     },
     {
-      "title": "France vs England: Deschamps set for final World Cup match as Zidane waits",
-      "description": "Deschamps, who led France to the 2018 World Cup title, bids farewell after Saturday's third-place playoff with England.",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/world-cup-france-england-third-place-playoff-deschamps-zidane-coach?traffic_source=rss",
-      "published": "Sat, 18 Jul 2026 06:01:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1356,10 +1373,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mount Olympus, home of ancient Greek gods, is a candidate for the World Heritage List",
-      "description": "Mount Olympus, the mythological home of ancient Greece’s 12 Olympian gods, may soon join UNESCO’s World Heritage List",
-      "url": "https://abcnews.com/International/wireStory/mount-olympus-home-ancient-greek-gods-candidate-unesco-134869541",
-      "published": "Sat, 18 Jul 2026 05:22:03 -0400",
+      "title": "Women amputees in South America train to be World Cup soccer contenders",
+      "description": "Women amputees from several South American countries are training in Bolivia for the 2027 Women's Amputee Football World Cup",
+      "url": "https://abcnews.com/International/wireStory/women-amputees-south-america-train-world-cup-soccer-134866145",
+      "published": "Fri, 17 Jul 2026 20:59:38 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1367,10 +1384,10 @@
       "is_ticker": false
     },
     {
-      "title": "Women amputees in South America train to be World Cup soccer contenders",
-      "description": "Women amputees from several South American countries are training in Bolivia for the 2027 Women's Amputee Football World Cup",
-      "url": "https://abcnews.com/International/wireStory/women-amputees-south-america-train-world-cup-soccer-134866145",
-      "published": "Fri, 17 Jul 2026 20:59:38 -0400",
+      "title": "Mount Olympus, home of ancient Greek gods, is a candidate for the World Heritage List",
+      "description": "Mount Olympus, the mythological home of ancient Greece’s 12 Olympian gods, may soon join UNESCO’s World Heritage List",
+      "url": "https://abcnews.com/International/wireStory/mount-olympus-home-ancient-greek-gods-candidate-unesco-134869541",
+      "published": "Sat, 18 Jul 2026 05:22:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1539,15 +1556,18 @@
       "ticker_label": "🪖 US Democrats divided over support for Israel ahead of midterm elections"
     },
     {
-      "title": "Massive fire destroys 100 homes in Norway and forces hundreds to evacuate",
-      "description": "A major fire in southern Norway destroyed more than 100 homes and forced hundreds of people to evacuate the area",
-      "url": "https://abcnews.com/International/wireStory/massive-fire-destroys-100-homes-norway-forces-hundreds-134870121",
-      "published": "Sat, 18 Jul 2026 06:42:34 -0400",
+      "title": "Parents of teens killed by tainted liquor in Laos are angry at expected charges",
+      "description": "Australia’s government and the families of two teenagers who died from methanol poisoning in Laos are criticizing the charges expected against those accused of being responsible",
+      "url": "https://abcnews.com/International/wireStory/parents-australian-teens-killed-tainted-liquor-laos-angry-134840381",
+      "published": "Fri, 17 Jul 2026 06:58:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Parents of teens killed by tainted liquor in Laos are angry at expected charges"
     },
     {
       "title": "Peacekeepers step up support as families return to south Lebanon",
@@ -1863,17 +1883,6 @@
       "ticker_label": "🪖 Indian police forcibly hospitalize a prominent Cockroach Party activist on hunger strike"
     },
     {
-      "title": "Substandard work and evasion of oversight helped fuel deadly Hong Kong fire",
-      "description": "An independent committee investigating the cause of Hong Kong’s deadliest fire in decades on Friday heard arguments on how malpractices that had evaded regulatory oversight turned a small fire into a tragedy",
-      "url": "https://abcnews.com/International/wireStory/substandard-work-evasion-oversight-helped-fuel-deadly-hong-134840484",
-      "published": "Fri, 17 Jul 2026 04:30:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "More than 500 people feared dead in double Myanmar shipwreck tragedy",
       "description": "There is growing concern for at least 500 people believed to have been aboard two boats that reportedly capsized off Myanmar’s coast in recent days.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167951",
@@ -2156,17 +2165,6 @@
       "description": "Palestine football fans honour Egyptian coach Hossam Hassan",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/palestine-football-fans-honour-egyptian-coach-hossam-hassan?traffic_source=rss",
       "published": "Sat, 18 Jul 2026 07:45:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
-      "description": "A new military barrier in the West Bank's Jordan Valley is cutting off Palestinian communities from their land.",
-      "url": "https://www.aljazeera.com/features/2026/7/18/israels-crimson-thread-military-barrier-is-strangling-the-west-bank?traffic_source=rss",
-      "published": "Sat, 18 Jul 2026 05:15:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2477,10 +2475,10 @@
       "ticker_label": "💥 Home Alone 2 actress has died"
     },
     {
-      "title": "Brazil's top court denies request for Argentina's Milei to visit Bolsonaro under house arrest",
-      "description": "A Brazilian Supreme Court justice has rejected a request from lawyers for former President Jair Bolsonaro for him to be visited under house arrest by Argentine President Javier Milei",
-      "url": "https://abcnews.com/International/wireStory/brazils-top-court-denies-request-argentinas-milei-visit-134874602",
-      "published": "Sat, 18 Jul 2026 10:14:32 -0400",
+      "title": "A Brazilian bay’s surprise shark nursery sparks conservation project",
+      "description": "Scientists have discovered that a cove in Brazil's Ilha Grande bay is a nursery for pregnant blacktip sharks",
+      "url": "https://abcnews.com/International/wireStory/brazilian-bays-surprise-shark-nursery-sparks-conservation-project-134846149",
+      "published": "Fri, 17 Jul 2026 09:18:51 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2488,10 +2486,32 @@
       "is_ticker": false
     },
     {
-      "title": "Mali rebels ambush an army convoy, killing or capturing scores of soldiers",
-      "description": "Jihadi militants and a separatist group ambushed a Malian army convoy in the north, resulting in the killing or capture of scores of soldiers",
-      "url": "https://abcnews.com/International/wireStory/mali-rebels-ambush-army-convoy-killing-capturing-scores-134873385",
-      "published": "Sat, 18 Jul 2026 10:07:55 -0400",
+      "title": "Japan's parliament enshrines male-only succession for the shrinking imperial family",
+      "description": "Japan’s parliament has enacted a historic revision to the 19th-century Imperial House Law by insisting only paternal-lineage men can become emperor",
+      "url": "https://abcnews.com/International/wireStory/japans-parliament-enshrines-male-succession-shrinking-imperial-family-134835377",
+      "published": "Fri, 17 Jul 2026 01:29:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Andy Burnham is poised to become Britain's next prime minister",
+      "description": "Andy Burnham is about to become Britain’s 59th prime minister, following the sudden downfall of Labour Prime Minister Keir Starmer",
+      "url": "https://abcnews.com/International/wireStory/andy-burnham-mayor-englands-north-poised-become-britains-134838932",
+      "published": "Fri, 17 Jul 2026 07:29:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
+      "description": "Andy Burnham has been officially declared leader of Britain’s governing Labour Party, clearing his final hurdle to taking office as prime minister next week",
+      "url": "https://abcnews.com/International/wireStory/andy-burnham-declared-leader-britains-labour-party-become-134840790",
+      "published": "Fri, 17 Jul 2026 09:22:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2521,10 +2541,10 @@
       "is_ticker": false
     },
     {
-      "title": "A Brazilian bay’s surprise shark nursery sparks conservation project",
-      "description": "Scientists have discovered that a cove in Brazil's Ilha Grande bay is a nursery for pregnant blacktip sharks",
-      "url": "https://abcnews.com/International/wireStory/brazilian-bays-surprise-shark-nursery-sparks-conservation-project-134846149",
-      "published": "Fri, 17 Jul 2026 09:18:51 -0400",
+      "title": "Mali rebels ambush an army convoy, killing or capturing scores of soldiers",
+      "description": "Jihadi militants and a separatist group ambushed a Malian army convoy in the north, resulting in the killing or capture of scores of soldiers",
+      "url": "https://abcnews.com/International/wireStory/mali-rebels-ambush-army-convoy-killing-capturing-scores-134873385",
+      "published": "Sat, 18 Jul 2026 10:58:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2532,21 +2552,10 @@
       "is_ticker": false
     },
     {
-      "title": "China rejects Trump's election interference claim as 'groundless accusations'",
-      "description": "China says it has never interfered in U.S. elections and has no interest in doing so",
-      "url": "https://abcnews.com/International/wireStory/china-rejects-trumps-election-interference-claim-groundless-accusations-134840885",
-      "published": "Fri, 17 Jul 2026 08:19:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Andy Burnham is declared leader of UK's Labour Party, pledges to restore hope",
-      "description": "Andy Burnham has been officially declared leader of Britain’s governing Labour Party, clearing his final hurdle to taking office as prime minister next week",
-      "url": "https://abcnews.com/International/wireStory/andy-burnham-declared-leader-britains-labour-party-become-134840790",
-      "published": "Fri, 17 Jul 2026 09:22:17 -0400",
+      "title": "Brazil's top court denies request for Argentina's Milei to visit Bolsonaro under house arrest",
+      "description": "A Brazilian Supreme Court justice has rejected a request from lawyers for former President Jair Bolsonaro for him to be visited under house arrest by Argentine President Javier Milei",
+      "url": "https://abcnews.com/International/wireStory/brazils-top-court-denies-request-argentinas-milei-visit-134874602",
+      "published": "Sat, 18 Jul 2026 11:06:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
