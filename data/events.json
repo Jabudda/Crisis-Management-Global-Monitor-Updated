@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T01:40:08.169800Z",
+  "last_updated": "2026-07-21T03:10:28.274908Z",
   "event_count": 221,
   "events": [
     {
@@ -73,6 +73,20 @@
       "ticker_label": "🌪️ Venezuela: IOM warns of potential El Niño threat to families displaced by earthquake"
     },
     {
+      "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
+      "description": "Explosions reported in Iran's Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "published": "Tue, 21 Jul 2026 00:00:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire"
+    },
+    {
       "title": "Flash floods kill at least 20 in Afghanistan and leave more than 100 missing",
       "description": "Flash floods in eastern Afghanistan have killed 20 people and injured about 80 more, according to Afghan authorities",
       "url": "https://abcnews.com/International/wireStory/flash-floods-kill-20-afghanistan-leave-100-missing-134927793",
@@ -85,20 +99,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Flash floods kill at least 20 in Afghanistan and leave more than 100 missing"
-    },
-    {
-      "title": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
-      "description": "Explosions reported in Iran's Bandar Abbas, Qeshm Island, Chabahar and Konarak as US launches new wave of attacks.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-      "published": "Tue, 21 Jul 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait"
     },
     {
       "title": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
@@ -182,7 +182,7 @@
       "title": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
       "description": "The US says the attacks were aimed at degrading Iran's capabilities to attack ships in the Strait of Hormuz.",
       "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 00:14:27 GMT",
+      "published": "Tue, 21 Jul 2026 02:41:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 26,
@@ -430,6 +430,17 @@
       "ticker_label": "🌪️ Weather tracker: Thunderstorms strike across Europe amid record heatwave"
     },
     {
+      "title": "Shanghai science forum photos show China's AI, robotics advances in rivalry with US",
+      "description": "China's leading technology companies showcased hundreds of cutting-edge products at the World AI Conference in Shanghai — from advanced robotics to artificial intelligence systems. The nation's annual flagship AI event, which was held from July 17 to 20, took place against the backdrop of a heated U.S.-China tech rivalry. More than 1,100 companies participated. Chinese companies have developed more than 400 humanoid robot products, more than half the world’s total, state media said. Open-source AI models from China are increasingly challenging leading American ones as they are more widely adopted globally. ___ This is a photo gallery curated by AP photo editors.",
+      "url": "https://abcnews.com/International/wireStory/shanghai-science-forum-photos-show-chinas-ai-robotics-134935594",
+      "published": "Mon, 20 Jul 2026 21:38:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine: UN condemns overnight attack on Kyiv",
       "description": "United Nations agencies have deplored a fresh Russian assault on the Ukrainian capital Kyiv which left at least one person dead and a dozen injured.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167975",
@@ -492,17 +503,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran war: US launches fresh strikes as Trump vows revenge"
-    },
-    {
-      "title": "How state actors are exploiting climate crises to spread disinformation",
-      "description": "The number of extreme weather events is on the rise, and some states are taking advantage of these climate crises to spread disinformation. A report by France's Institute for International and Strategic Affairs (IRIS) says that climate disinformation has become a “tool for destabilisation”.",
-      "url": "https://www.france24.com/en/europe/20260720-foreign-state-actors-exploiting-climate-crises-spread-disinformation",
-      "published": "Mon, 20 Jul 2026 14:04:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Middle East: Civilians again under fire as US-Iran strikes continue",
@@ -586,10 +586,32 @@
       "ticker_label": "🪖 ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns"
     },
     {
+      "title": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "description": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 02:07:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
       "description": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagers Get our breaking news email , free app or daily news podcast The Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning. It comes as a distillery owner in Laos was charged after a mass methanol poisoning incident killed six foreign nationals, including the Australian backpackers Bianca Jones and Holly Morton-Bowles. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
       "published": "Fri, 17 Jul 2026 21:36:05 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia news live: Pauline Hanson says Trump had ‘a great way’ of dealing with migrants; Nine newspapers announce redundancies",
+      "description": "One Nation leader says Trump’s methods dealt with people ‘using all these ploys to stay in the country’. Follow today’s news live Get our breaking news email , free app or daily news podcast Alpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum temperatures up to 12C above average. Ski areas of Mount Hotham and Falls Creek set July records for their hottest daytime and night-time temperatures and Thredbo also set a new hottest July day, according to the Bureau of Meteorology. We want to see more Australian ideas commercialised, more Australian technology deployed globally, and more of the economic value harnessed here at home . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
+      "published": "Tue, 21 Jul 2026 02:57:07 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 17,
@@ -809,6 +831,17 @@
       "ticker_label": "🌪️ Europe's fires reveal deadly mix of record heat, human error, arson and land mismanagement"
     },
     {
+      "title": "Why protests are growing in Ukraine over defence leadership and dismissals",
+      "description": "Protests continue as anger grows over President Zelenskyy’s decision to fire the country’s defence minister.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/aje-onl-nf_protests-in-kyiv-over-defence-minister-dismissal-200726?traffic_source=rss",
+      "published": "Tue, 21 Jul 2026 01:27:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -892,17 +925,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: Qantas apologises for four-hour wait on Sydney tarmac; Nine newspapers announce redundancies",
-      "description": "Airline says communication ‘could have been better’ after about 250 passengers waited hours for flight to Denpasar to leave. Follow today’s news live Get our breaking news email , free app or daily news podcast Alpine ski resorts in New South Wales and Victoria saw climate records shattered at the weekend with maximum temperatures up to 12C above average. Ski areas of Mount Hotham and Falls Creek set July records for their hottest daytime and night-time temperatures and Thredbo also set a new hottest July day, according to the Bureau of Meteorology. We want to see more Australian ideas commercialised, more Australian technology deployed globally, and more of the economic value harnessed here at home . Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/21/australia-news-live-barnaby-joyce-pauline-hanson-one-nation-anthony-albanese-labor-antisemitism-royal-commission-ntwnfb",
-      "published": "Tue, 21 Jul 2026 01:24:58 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "At least 930 people have died in Congo's Ebola outbreak",
       "description": "Congo's health ministry said the deaths were recorded out of the 2,344 cases confirmed as of Saturday. Thirty-seven new deaths were recorded in the previous 24 hours in one of the highest totals.",
       "url": "https://www.npr.org/2026/07/20/g-s1-134548/ebola-congo-deaths",
@@ -915,6 +937,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 At least 930 people have died in Congo's Ebola outbreak"
+    },
+    {
+      "title": "Live: US launches 10th night of airstrikes on Iran after attacks on Bahrain, Kuwait",
+      "description": "The US military said late on Monday it ​finished its latest round of strikes on Iran, saying it hit Iranian military command centers, missile and drone launch sites, maritime capabilities and ​air ‌defense systems. he latest round of US strikes ‌on Iran lasted about fivehours. Follow our liveblog for the latest updates.",
+      "url": "https://www.france24.com/en/middle-east/20260721-live-lebanon-s-aoun-to-meet-trump-as-pressure-builds-to-disarm-hezbollah",
+      "published": "Tue, 21 Jul 2026 02:50:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Live: US launches 10th night of airstrikes on Iran after attacks on Bahrain, Kuwait"
     },
     {
       "title": "'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep",
@@ -943,6 +979,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Merger deal between Paramount and Warner Bros paused by judge"
+    },
+    {
+      "title": "Guyana recovers 27 bodies after ferry disaster as crew comes under scrutiny",
+      "description": "Authorities detain ferry crew members after drug tests reveal violations in Guyana's worst marine disaster in decades.",
+      "url": "https://www.aljazeera.com/news/2026/7/21/guyana-recovers-27-bodies-after-ferry-disaster-as-crew-comes-under-scrutiny?traffic_source=rss",
+      "published": "Tue, 21 Jul 2026 01:47:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1139,7 +1186,7 @@
       "title": "Donald Trump to impose 50% tariff on most Canadian goods, White House says",
       "description": "Turmoil likely as Trump officials say Canada unfairly discriminated against US autos, alcohol and dairy products Donald Trump is imposing 50% tariffs on most Canadian goods in response to the country retaliating against previous US tariffs, the White House announced Monday, declaring Canada has unfairly discriminated against American cars, alcohol and dairy products. The tariffs will hit a wide range of products, the White House said, including wine, hockey sticks and cement. They also include goods previously protected from import taxes under the United States-Mexico-Canada (USMCA) agreement. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jul/20/trump-canada-tariffs",
-      "published": "Mon, 20 Jul 2026 22:27:04 GMT",
+      "published": "Tue, 21 Jul 2026 02:29:47 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1174,6 +1221,17 @@
       "url": "https://www.dw.com/en/spain-won-the-world-cup-but-donald-trump-cast-a-shadow/a-78037668?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 20 Jul 2026 13:33:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "World Cup 2026: for New York souvenir shops, the impact is mixed",
+      "description": "The 2026 World Cup is over. And for New York’s souvenir shops, the impact is mixed.",
+      "url": "https://www.france24.com/en/world-cup-2026-for-new-york-souvenir-shops-the-impact-is-mixed",
+      "published": "Tue, 21 Jul 2026 01:24:27 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1224,17 +1282,6 @@
       "is_ticker": false
     },
     {
-      "title": "Women amputees in South America train to be World Cup soccer contenders",
-      "description": "Women amputees from several South American countries are training in Bolivia for the 2027 Women's Amputee Football World Cup",
-      "url": "https://abcnews.com/International/wireStory/women-amputees-south-america-train-world-cup-soccer-134866145",
-      "published": "Fri, 17 Jul 2026 20:59:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "A former Ferrari boss has a blunt message: Your commute is more dangerous than his old job",
       "description": "Jean Todt spent decades around the deadliest motorsport on Earth. He was a rally co‑driver, then ran Ferrari’s Formula One team, then became president of world motorsport’s governing body. In his early years, a driver dying at the track barely made news.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167974",
@@ -1269,20 +1316,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Scores feared dead after passenger ferry capsizes off Guyana",
-      "description": "At least 27 people aboard the MV Barima had died, the prime minister said, but 83 more remained missing.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 01:38:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Scores feared dead after passenger ferry capsizes off Guyana"
     },
     {
       "title": "Ryanair profits drop as Iran war puts off passengers and lifts fuel costs",
@@ -1358,20 +1391,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Who is Khalil al-Hayya, Hamas’s new leader?",
-      "description": "Hamas on Monday named Khalil al-Hayya, one of the founding members of the Palestinian militant group, as its new leader. Hayya is seen as a respected and pragmatic Hamas veteran “who doesn’t get carried away easily”. Last year, he survived an Israeli attack in Doha targeting the Hamas leadership which left several people dead, including one of his sons.",
-      "url": "https://www.france24.com/en/middle-east/20260720-who-is-khalil-al-hayya-hamas-s-new-leader",
-      "published": "Mon, 20 Jul 2026 14:05:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Who is Khalil al-Hayya, Hamas’s new leader?"
     },
     {
       "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
@@ -1474,17 +1493,6 @@
       "is_ticker": false
     },
     {
-      "title": "Man arrested after fire outside New York immigration court",
-      "description": "A man has been arrested after setting off an incendiary device outside an immigration court building in New York City.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/man-arrested-after-fire-outside-new-york-immigration-court?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 20:45:11 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1567,6 +1575,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167931",
       "published": "Thu, 16 Jul 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Bodycam catches Sunny Hostin invoking her legal chops as cops cite Harvard-grad son for trespassing",
+      "description": "Bodycam video captures Sunny Hostin telling MTA police she's a former federal prosecutor after her son Gabriel Hostin was stopped for trespassing.",
+      "url": "https://www.foxnews.com/us/bodycam-catches-sunny-hostin-invoking-legal-chops-cops-cite-harvard-grad-son-trespassing",
+      "published": "Mon, 20 Jul 2026 22:03:56 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1692,6 +1711,17 @@
       "is_ticker": false
     },
     {
+      "title": "Iran executes a man convicted of killing a security force member during 2022 protests",
+      "description": "Iranian authorities have executed a man convicted of killing a security force member during 2022 protests",
+      "url": "https://abcnews.com/International/wireStory/iran-executes-man-convicted-killing-security-force-member-134872472",
+      "published": "Sat, 18 Jul 2026 10:09:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "'Today' suspect caught on camera before hate crime arrest, rap sheet reveals attempted kidnapping conviction",
       "description": "Andrew Truelove's criminal record spans two decades, including attempted kidnapping and making threats, before his alleged hate crime involving Craig Melvin.",
       "url": "https://www.foxnews.com/us/today-suspect-caught-camera-hate-crime-arrest-rap-sheet-reveals-attempted-kidnapping-conviction",
@@ -1700,17 +1730,6 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ortega insists no more elections for Nicaragua",
-      "description": "The Central American state's longtime leader intends to block the opposition from challenging his rule.",
-      "url": "https://www.aljazeera.com/news/2026/7/20/ortega-insists-no-more-elections-for-nicaragua?traffic_source=rss",
-      "published": "Mon, 20 Jul 2026 20:49:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
       "is_ticker": false
     },
     {
@@ -2465,17 +2484,6 @@
       "is_ticker": false
     },
     {
-      "title": "Why Britain is getting a new prime minister without a general election",
-      "description": "Veteran Labour Party politician Andy Burnham is set to become Britain’s next prime minister on Monday",
-      "url": "https://abcnews.com/International/wireStory/britain-new-prime-minister-general-election-134868513",
-      "published": "Sat, 18 Jul 2026 00:26:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Baristas behind bars: Thai prisoners brew a path back to daily life",
       "description": "It looks like a regular coffee shop, albeit set up in an old red bus. Stairs lead up to a serving hatch, with a menu of drink options. A selection of jaunty coffee-related messages like “My one and only love: Americano” and “Miss you a latte,” adorn the side of the bus.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167954",
@@ -2566,17 +2574,6 @@
       "description": "More than 10 general aviation aircraft entered restricted airspace over Bedminster and East Rutherford in New Jersey, with NORAD F-16s deploying flares.",
       "url": "https://www.foxnews.com/us/norad-f16s-intercept-multiple-aircraft-violating-temporary-flight-restrictions-new-jersey",
       "published": "Sun, 19 Jul 2026 21:22:42 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Bulldog's drowning sparks police probe at dog resort marketed as the 'Disneyland for dogs'",
-      "description": "Bruce, a 1-year-old English bulldog, allegedly drowned at Camp Canine in Santa Barbara after ending up in a large-dog yard with unfenced pools.",
-      "url": "https://www.foxnews.com/us/bulldogs-drowning-sparks-police-probe-dog-resort-marketed-disneyland-dogs",
-      "published": "Sun, 19 Jul 2026 20:16:33 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
