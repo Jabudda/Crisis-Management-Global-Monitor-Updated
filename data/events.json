@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-22T14:16:43.842153Z",
-  "event_count": 223,
+  "last_updated": "2026-07-22T15:13:49.112107Z",
+  "event_count": 203,
   "events": [
     {
       "title": "People with secret ‘safe phones’ advised to turn off devices during national test of AusAlert emergency warning",
@@ -87,17 +87,6 @@
       "ticker_label": "🪖 U.S. and Iranian attacks continue as tensions mount on a key waterway in the Red Sea"
     },
     {
-      "title": "Donald Trump to announce US-Saudi nuclear deal to allow fuel enrichment",
-      "description": "The New York Times is reporting that the Trump administration plans to announce that it has reached a broad nuclear agreement with Saudi Arabia which could lead to the country enriching its own fuel for nuclear reactors.What do we know about the deal and what will this mean for the region? Details by Angela Diffley, FRANCE 24 international affairs editor.",
-      "url": "https://www.france24.com/en/donald-trump-to-announce-us-saudi-nuclear-deal-to-allow-fuel-enrichment",
-      "published": "Wed, 22 Jul 2026 13:35:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Chile: Several dead, missing in severe rainstorm",
       "description": "President Jose Antonio Kast has declared a state of emergency in the affected areas of the country.",
       "url": "https://www.dw.com/en/chile-several-dead-missing-in-severe-rainstorm/a-78061120?maca=en-rss-en-all-1573-xml-mrss",
@@ -112,15 +101,18 @@
       "ticker_label": "🌪️ Chile: Several dead, missing in severe rainstorm"
     },
     {
-      "title": "'Our cultural institutions not safe: If they could break into the Louvre, they can get in anywhere'",
-      "description": "Annette Young is pleased to welcome Christopher Marinello, veteran lawyer , founder of Art Recovery International and one of the world's foremost experts in recovering stolen, looted, and missing works of art. The reopening of the Apollo Gallery at the Louvre, nine months after one of the most brazen museum thefts in recent history, marks more than the restoration of a famous exhibition space. It exposes a broader tension between public access to cultural heritage and the growing vulnerability of museums in an era of increasingly sophisticated organised crime.",
-      "url": "https://www.france24.com/en/our-cultural-institutions-not-safe-if-they-could-break-into-the-louvre-they-can-get-in-anywhere",
-      "published": "Wed, 22 Jul 2026 13:07:20 GMT",
-      "source": "France24",
+      "title": "Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors",
+      "description": "Flash floods have killed at least 26 people across eastern Afghanistan, including 23 in the mountainous province of Nuristan, where homes, markets and roads were swept away and search teams continued looking for people reported missing.",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167996",
+      "published": "Wed, 22 Jul 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
-      "severity_score": 29,
+      "severity_score": 30,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Deadly Afghanistan floods kill at least 26 as aid agencies race to reach survivors"
     },
     {
       "title": "Woman attacked by brown bear while hiking with friend and 3 dogs near Alaska state park",
@@ -146,17 +138,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Earthquake shakes Peru's Andes region, killing at least 5, displacing hundreds"
-    },
-    {
-      "title": "Mounting violence in Mali poses threat to military-led governement",
-      "description": "Mali’s military has suffered one of its deadliest losses in years. At least 50 soldiers were killed in an ambush near the northern town of Anefis, in an attack claimed by Tuareg separatists and Al-Qaeda-linked jihadists. The assault is the latest in a string of setbacks, with militants also targeting Malian and Russian Africa Corps forces, downing a military helicopter, and briefly seizing territory. More with Hénio Nsaibia, West Africa Senior Analyst at ACLED.",
-      "url": "https://www.france24.com/en/mounting-violence-in-mali-poses-threat-to-military-led-governement",
-      "published": "Wed, 22 Jul 2026 14:01:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Iran launches missiles at Jordan",
@@ -185,20 +166,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus"
-    },
-    {
-      "title": "Congo: Ebola deaths increase to 1,000",
-      "description": "Authorities in Congo have said the latest outbreak of the Ebola virus has killed 999 people since mid-May. That fatality rate is far higher than in previous outbreaks. No vaccines or treatments exist for the new strain.",
-      "url": "https://www.dw.com/en/congo-ebola-deaths-increase-to-1-000/a-78071484?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 22 Jul 2026 13:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Congo: Ebola deaths increase to 1,000"
     },
     {
       "title": "Toxic gas slows efforts to rescue 13 workers trapped in India hydropower tunnel",
@@ -238,7 +205,7 @@
     },
     {
       "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
-      "description": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement the authoritarian leader’s order that the country should no longer hold elections. The UN and the US strongly condemned Sunday’s announcement by Ortega, who has been in power since 2007 and, after a controversial constitutional change last year, now governs alongside his wife, Rosario Murillo, as “co-president”. Continue reading...",
+      "description": "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement the authoritarian leader’s order that the country should no longer hold elections. The UN and the US strongly condemned Sunday’s announcement by Ortega, who has been in power since 2007 and, after a controversial constitutional change last year, now governs alongside his wife , Rosario Murillo, as “co-president”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
       "published": "Wed, 22 Jul 2026 13:33:35 GMT",
       "source": "The Guardian World",
@@ -257,20 +224,6 @@
       "severity_score": 24,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "US to announce landmark deal allowing Saudis to enrich nuclear fuel, reports say",
-      "description": "The US on Wednesday is set to announce a deal with Saudi Arabia that would allow the oil-rich Gulf nation to enrich uranium, according to US media reports. Riyadh has long asserted its right to a civilian nuclear programme, but Israel and several policy experts warn that it could spark a nuclear proliferation threat in the region.",
-      "url": "https://www.france24.com/en/middle-east/20260722-us-announce-landmark-deal-allowing-saudis-enrich-nuclear-fuel-reports-say",
-      "published": "Wed, 22 Jul 2026 14:11:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US to announce landmark deal allowing Saudis to enrich nuclear fuel, reports say"
     },
     {
       "title": "French lawmakers adopt a sweeping social media ban for children under 15",
@@ -335,20 +288,6 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Pete Hegseth asks US Senate for 'urgent' Iran war funding increase",
-      "description": "The cost of the US military campaign against Iran has already cost 37.5 billion dollars. The figure was revealed by the US Defense Secretary Pete Hegseth as he appeared before the Senate to make the case for the war and ask for an additional 67 billion dollars worth of funding. The move drew criticism from both Democrats and Republicans. Details and analysis by FRANCE 24 international affairs editor, Rochelle Ferguson-Bouyahi.",
-      "url": "https://www.france24.com/en/pete-hegseth-asks-us-senate-for-urgent-iran-war-funding-increase",
-      "published": "Wed, 22 Jul 2026 09:57:39 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Pete Hegseth asks US Senate for 'urgent' Iran war funding increase"
     },
     {
       "title": "At least 10 dead in India tunnel disaster with 17 feared trapped",
@@ -429,6 +368,17 @@
       "is_ticker": false
     },
     {
+      "title": "Congo: Ebola deaths increase to 1,000",
+      "description": "The fatality rate of the latest Ebola virus outbreak since mid-May is far higher than in previous outbreaks. No vaccines or treatments exist for the new strain.",
+      "url": "https://www.dw.com/en/congo-ebola-deaths-increase-to-1-000/a-78071484?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 22 Jul 2026 13:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Global hunger declines again but progress remains uneven across regions",
       "description": "Global hunger declined for a third consecutive year in 2025 showing that progress is possible, but gains remain fragile and far too slow to achieve the Sustainable Development Goals (SDGs) by the 2030 deadline.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167987",
@@ -480,20 +430,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Healthy diet too expensive for one in three people globally, UN report finds"
-    },
-    {
-      "title": "Jordan faces growing risk of becoming latest frontline state in US-Iran conflict",
-      "description": "As Iranian attacks intensify, Jordan is emerging as the latest frontline state in the widening Middle East conflict. Why is the Hashemite Kingdom a target for Tehran?",
-      "url": "https://www.dw.com/en/jordan-faces-growing-risk-of-becoming-latest-frontline-state-in-us-iran-conflict/a-78055209?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 21 Jul 2026 18:39:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Jordan faces growing risk of becoming latest frontline state in US-Iran conflict"
     },
     {
       "title": "ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns",
@@ -560,17 +496,6 @@
       "ticker_label": "💥 Ex-counterterrorism official Joe Kent continues calling for US military withdrawal from Middle East"
     },
     {
-      "title": "US to announce deal allowing Saudi Arabia a nuclear programme, reports say",
-      "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 12:40:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Court win for low-paid Domino’s workers in underpayment class action – as it happened",
       "description": "This blog is now closed Get our breaking news email , free app or daily news podcast The New South Wales premier, Chris Minns , says the state’s Labor party is under threat from One Nation and “we’ve got to fight for those votes”. Appearing on ABC Radio National this morning, Minns was asked if One Nation was a “racist party”. He said people who had concerns about the levels of immigration weren’t necessarily racist but some of the things Pauline Hanson had said were. Certainly some of the things Pauline Hanson says are definitely racist, when she said there’s no such thing as a good Muslim. I mean, how else do you characterise that? You’ve got to be straight with people. And that clearly is. But I don’t think everyone who’s supporting them currently is racist at all … And we’ve got to fight for those votes. I think that we are under threat in a whole bunch of seats as a result of the surge of votes for One Nation … So we’re doing some what we regard as practical commonsense changes to policy in New South Wales. When people join the Do Not Call Register or unsubscribe from marketing messages, they are making a clear choice. Those choices must be respected – especially given the heightened risks of financial loss and psychological harm from gambling marketing. The scale and range of these breaches point to serious weaknesses in TAB’s compliance systems. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/22/australia-news-live-penny-wong-asean-pacific-missile-pauline-hanson-one-nation-labor-conference-tax-anthony-albanese-antisemitism-royal-commission-ntwnfb",
@@ -594,17 +519,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump to attend dignified transfer of fallen soldiers. And, Hegseth testifies on Iran"
-    },
-    {
-      "title": "Germany greenlights controversial joint French-Russian nuclear project",
-      "description": "Germany's environment ministry on Wednesday approved a French-Russian project to produce fuel rods used in Russian-designed reactors in the northwestern German town of Lingen. The joint venture project by a subsidiary of French company Framatome and Russia's state-owned Rosatom sparked fears of Russian spying, but German authorities said they had \"no legal possibility to reject\" it.",
-      "url": "https://www.france24.com/en/europe/20260722-germany-greenlights-controversial-joint-french-russian-nuclear-project",
-      "published": "Wed, 22 Jul 2026 12:54:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
@@ -633,6 +547,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 LIVE: Haiti endures violence and hunger, but hopes grow for a more secure future"
+    },
+    {
+      "title": "US soldier believed to be killed in Jordan attack remembered as living 'life of courage and selflessness'",
+      "description": "Tributes are coming in for Sgt. Angel Rampersad, who is believed to have been killed in action during an \"enemy attack\" at Muwaffaq Salti Air Base.",
+      "url": "https://www.foxnews.com/us/us-soldier-believed-killed-jordan-attack-remembered-living-life-courage-selflessness",
+      "published": "Wed, 22 Jul 2026 10:26:55 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Pentagon identifies Army soldier killed in action during Iraq operation",
@@ -704,6 +629,17 @@
       "is_ticker": false
     },
     {
+      "title": "US to announce deal allowing Saudi Arabia a nuclear programme",
+      "description": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 14:49:12 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Japan records its first ‘cruelly hot day’ as cities swelter in 40-degree heat",
       "description": "In April Japan coined new term kokushobi for days above 40C as country advises workers to wear shorts to the office to cope with stifling heat Japan logged its first official kokushobi or “cruelly hot day” on Tuesday since the new term for when temperatures top 40 degrees Celsius was introduced in April. The Japan Meteorological Agency coined the new designation to warn the public of the heat dangers of days that were once freak weather events but have now become more common. The central Japan cities of Gujo and Tajimi in Gifu prefecture, along with Toyota in Aichi prefecture, all hit 40C. Gujo’s 40C and Toyota’s 40.1C were all-time highs recorded at their respective weather stations. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/22/japan-heat-kokushobi-cruelly-hot-40c-weather",
@@ -732,6 +668,17 @@
       "ticker_label": "🪖 Sharpton offers $50K for Nolan Wells case arrest with lawyer to release autopsy at NAACP"
     },
     {
+      "title": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 10:15:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "description": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
       "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
@@ -746,6 +693,20 @@
       "ticker_label": "🪖 Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more"
     },
     {
+      "title": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
+      "description": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
+      "published": "Wed, 22 Jul 2026 14:10:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?"
+    },
+    {
       "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "description": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt duped Sitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the canvas, he had started on an outline of a skull. Heavy J was creating a poster, but not as you might have expected for a horror film. Instead, it was for the animated fairytale The Little Mermaid. The man with the knife was not a killer but the film’s kind-hearted prince, Eric. The skull was also unrelated to the story. “We add more to make people interested,” said Heavy J, whose real name is Jeaurs Affutu. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
@@ -758,7 +719,7 @@
     },
     {
       "title": "Ukraine renews strikes on Russia's largest online retailer",
-      "description": "Ukraine's military has again targeted warehouses belonging to Wildberries. The company, which Kyiv says provides logistics for Russia's military, was previously targeted on Saturday.",
+      "description": "Ukraine's military has again targeted warehouses belonging to Wildberries — known as \"Russia's Amazon.\" The company, which Kyiv says provides logistics for Russia's military, was previously targeted on Saturday.",
       "url": "https://www.dw.com/en/ukraine-renews-strikes-on-russia-s-largest-online-retailer/a-78063598?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 22 Jul 2026 09:55:00 GMT",
       "source": "Deutsche Welle",
@@ -769,34 +730,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine renews strikes on Russia's largest online retailer"
-    },
-    {
-      "title": "Two foreign Jihadists arrested in Nigeria for helping local terror groups",
-      "description": "After 17 years, the Nigeria military’s efforts to contend a Jihadist insurgency do not seem to be successful. The military is facing fresh hurdles with foreign fighters, including those from the Middle East joining the insurgents. The foreigners are bringing skills and technology that have proved very valuable in the Jihadists’ fight against the military. Details by FRANCE 24 correspondent in Lagos, Sam Olukoya.",
-      "url": "https://www.france24.com/en/two-foreign-jihadists-arrested-in-nigeria-for-helping-local-terror-groups",
-      "published": "Wed, 22 Jul 2026 14:03:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Two foreign Jihadists arrested in Nigeria for helping local terror groups"
-    },
-    {
-      "title": "D. Rykner says the Louvre needs to be 'refurbished', Macron's big project is 'useless and expensive'",
-      "description": "Stuart Norval is pleased to welcome Didier Rykner, Art Historian, Investigative Journalist and Founder / Editor in Chief of La Tribune de l’Art. Offering a forceful critique of the Louvre's priorities, Rykner argues that the museum's challenge is not a lack of resources, rather a misallocation of them. While acknowledging that security is a both necessary and inevitable expense, he contends that the greater threat to the Louvre lies in the deterioration of its historic fabric and the diversion of funding towards what he regards as an unnecessary, politically driven architectural expansion.",
-      "url": "https://www.france24.com/en/louvre-art-historian-didier-rykner-warns-emmanuel-macron-s-vision-is-useless-bad-for-the-museum",
-      "published": "Wed, 22 Jul 2026 09:59:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 D. Rykner says the Louvre needs to be 'refurbished', Macron's big project is 'useless and expensive'"
     },
     {
       "title": "New defence secretary hits out at Russia after live-fire exercise 40 miles off UK coast",
@@ -863,20 +796,6 @@
       "is_ticker": false
     },
     {
-      "title": "Utah hiker killed by lightning just steps from mountain summit during trek with brother",
-      "description": "A lightning strike near the summit of Salt Lake County's highest peak killed a 59-year-old hiker whose brother watched him collapse just steps away.",
-      "url": "https://www.foxnews.com/us/utah-hiker-killed-lightning-steps-mountain-summit-trek-brother",
-      "published": "Tue, 21 Jul 2026 10:35:55 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Utah hiker killed by lightning just steps from mountain summit during trek with brother"
-    },
-    {
       "title": "'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep",
       "description": "Regime mouthpiece Seyed Mohammad Marandi claims Iran welcomes a U.S. ground invasion and has introduced a new missile as strikes hit Khorramabad.",
       "url": "https://www.foxnews.com/world/we-want-land-invasion-iran-mouthpiece-touts-new-missile-boasts-decades-war-prep",
@@ -889,20 +808,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep"
-    },
-    {
-      "title": "WhatsApp usernames could upset Somalia's anti-terror fight",
-      "description": "People will be able to chat without revealing their contact number once the new feature is rolled out.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zxdkeyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 23:46:35 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 WhatsApp usernames could upset Somalia's anti-terror fight"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -938,42 +843,6 @@
       "is_ticker": false
     },
     {
-      "title": "Germany records rise in sexual violence against children",
-      "description": "Germany's Criminal Police Office has reported over 17,000 cases of sexual violence against children in the past year. Organizations such as Zartbitter provide support to victims.",
-      "url": "https://www.dw.com/en/germany-records-rise-in-sexual-violence-against-children/a-78057669?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 21 Jul 2026 17:49:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Indian students vow to continue 'cockroach movement' protests despite crackdown",
-      "description": "Protests continue for a third day in the Indian capital, New Delhi, as pressure mounts on Narendra Modi to sack his education minister. The youth-led movement remains defiant even after Monday's heavy handed police crackdown. While the minister in question says the government remains committed to reform, the so-called Cockroach party say he's incompetent, and they want him out. Details by Delano D'Souza.",
-      "url": "https://www.france24.com/en/indian-students-vow-to-continue-cockroach-movement-protests-despite-crackdown",
-      "published": "Wed, 22 Jul 2026 13:26:52 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Zelensky dimisses military chief, accused of wasting lives by demonstrators",
-      "description": "It is the biggest shake up in Ukraine's military leadership since Russia's full scale invasion of Ukraine – a shake up designed to end what has also been one of the country's biggest political crises since the invasion. After days of street protests over last week's removal of the defence minister, President Volodymyr Zelensky sacked the military's commander in chief. Will the change be enough to placate the protesters? Answer with FRANCE 24 correspondent in Ukraine, Gulliver Cragg.",
-      "url": "https://www.france24.com/en/zelensky-dimisses-military-chief-accused-of-wasting-lives-by-demonstrators",
-      "published": "Wed, 22 Jul 2026 09:21:19 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Zelensky dimisses military chief, accused of wasting lives by demonstrators"
-    },
-    {
       "title": "A protest movement is challenging India's establishment. What to know about the 'Cockroaches'",
       "description": "A joke has turned into a major protest movement in India, challenging Prime Minister Narendra Modi Hindu nationalist’s government",
       "url": "https://abcnews.com/International/wireStory/protest-movement-challenging-indias-establishment-cockroaches-134975377",
@@ -985,8 +854,8 @@
       "is_ticker": false
     },
     {
-      "title": "Security Council LIVE: Can critical minerals fuel peace instead of conflict?",
-      "description": "The Security Council meets this morning to debate critical minerals — the lithium, cobalt and copper powering the clean energy transition. Demand is set to triple by 2030. The question: will this mineral wealth build peace and prosperity, or fund conflict and corruption? Follow live updates throughout the day.",
+      "title": "Security Council LIVE: Can critical minerals fuel peace and prosperity instead of conflict?",
+      "description": "The Security Council is meeting now in New York to debate critical minerals — the lithium, cobalt and copper powering the clean energy transition. Demand is set to triple by 2030. The question: will this mineral wealth build peace and prosperity, or fund conflict and corruption? Follow live updates throughout the day.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167995",
       "published": "Wed, 22 Jul 2026 12:00:00 +0000",
       "source": "UN News",
@@ -1134,32 +1003,10 @@
       "is_ticker": false
     },
     {
-      "title": "US 'will target Iran's bridges and power plants' if Hormuz attacks persist",
-      "description": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 10:15:03 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Tunnel collapse in India kills 14 workers",
       "description": "Rescue operation is ongoing but hazardous conditions have hampered efforts to reach those still inside.",
       "url": "https://www.bbc.co.uk/news/articles/c80nv79204eo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 05:38:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Why Iran is risking so much over the Strait of Hormuz",
-      "description": "None of the choices facing Iran’s leaders offer a clear path to victory, as the conflict with the US continues.",
-      "url": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 14:36:47 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1181,64 +1028,11 @@
       "ticker_label": "🪖 Iran war’s $37bn price tag: Why does the Pentagon want $67bn more?"
     },
     {
-      "title": "Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia",
-      "description": "Sanctions on Russian LNG would hurt Greek shipping, argues Athens, but it also fears Moscow’s hybrid warfare.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/baulking-at-shipping-sanctions-greece-balances-ukraine-aid-fear-of-russia?traffic_source=rss",
-      "published": "Wed, 22 Jul 2026 11:04:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Baulking at shipping sanctions, Greece balances Ukraine aid, fear of Russia"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says the United States is 'not finished' with Iran",
-      "description": "A 10th straight day of hostilities between the United States and Iran across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an interim ceasefire deal.",
-      "url": "https://www.dw.com/en/trump-says-the-united-states-is-not-finished-with-iran/live-78042474?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 21 Jul 2026 20:57:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump says the United States is 'not finished' with Iran"
-    },
-    {
-      "title": "The Iran war has cost the US $37.5 billion dollars, says Defense Secretary Pete Hesgseth",
-      "description": "US Defense Secretary Pete Hegseth told a Senate committee that the Pentagon needs nearly 70 billion dollars in additional funding for the war in Iran. The hearing turned combative as Senators demanded explanations as to the military's strategy to win or otherwise end the war. Story by Bryan Quinn.",
-      "url": "https://www.france24.com/en/the-iran-war-has-cost-the-us-37-5-billion-dollars-says-defense-secretary-pete-hesgseth",
-      "published": "Wed, 22 Jul 2026 13:26:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 The Iran war has cost the US $37.5 billion dollars, says Defense Secretary Pete Hesgseth"
-    },
-    {
-      "title": "Woman seriously injured in suspected stabbing at church",
-      "description": "A woman in her 50s has been seriously injured in a suspected stabbing at a church in Ireland.",
-      "url": "https://news.sky.com/story/woman-seriously-injured-in-suspected-stabbing-at-church-in-county-waterford-ireland-13565698",
-      "published": "Tue, 21 Jul 2026 16:02:00 +0100",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1259,6 +1053,17 @@
       "ticker_label": "🪖 Zelenskyy left with little choice but to sack his army chief - and it's a spectacular fall from grace"
     },
     {
+      "title": "Woman seriously injured in suspected stabbing at church",
+      "description": "A woman in her 50s has been seriously injured in a suspected stabbing at a church in Ireland.",
+      "url": "https://news.sky.com/story/woman-seriously-injured-in-suspected-stabbing-at-church-in-county-waterford-ireland-13565698",
+      "published": "Tue, 21 Jul 2026 16:02:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "A tech innovator and an old guard general are the focus of Ukraine's political crisis",
       "description": "One is a tech-savvy entrepreneur with no military experience who became Ukraine’s youngest defense minister six months ago, leading it to successes in defending against Russia’s 4-year-old invasion",
       "url": "https://abcnews.com/International/wireStory/men-heart-ukraines-political-crisis-134951063",
@@ -1277,17 +1082,6 @@
       "description": "Thousands of people in some of Yemen's most conflict-affected communities are receiving lifesaving health care closer to home, thanks to funding from the UN aid coordination office (OCHA) through the Yemen Humanitarian Fund.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167982",
       "published": "Mon, 20 Jul 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Haiti: Signs of hope despite gang violence and political uncertainty",
-      "description": "For millions of Haitians, daily life has become a struggle to stay safe, find enough food and simply move around their own neighbourhood.",
-      "url": "https://news.un.org/feed/view/en/story/2026/07/1167963",
-      "published": "Sun, 19 Jul 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 8,
@@ -1346,17 +1140,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 US service member killed in Iraq as troops recover unidentified remains in Jordan: CENTCOM"
-    },
-    {
-      "title": "French mayor secreted away under threat by notorious DZ mafia drug gang",
-      "description": "Here in France, authorities are waging an increasingly intense battle against rising drug crime. That fight took a new turn this week – as the mayor of the southern town of Alès was spirited from his home by police in the middle of the night over fears for his safety. He'd received multiple threats from the drug gang known as the “DZ Mafia”. Once a local player on the Marseille drug market, the gang has expanded to become one of France's top security threats. Details by Bryan Quinn and our colleagues at France Televisions.",
-      "url": "https://www.france24.com/en/french-mayor-secreted-away-under-threat-by-notorious-dz-mafia-drug-gang",
-      "published": "Wed, 22 Jul 2026 09:33:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Trump administration has lost or abandoned hundreds of lawsuits against anti-ICE protesters, migrants: report",
@@ -1461,6 +1244,17 @@
       "is_ticker": false
     },
     {
+      "title": "Tankers make sharp U-turns after Houthi shipping threat",
+      "description": "All of the ships were travelling to or from Saudi ports before changing course, ship-tracking data shows.",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n127lpzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 14:42:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Zelensky sacks Ukraine's top army commander after days of protests",
       "description": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
@@ -1483,10 +1277,10 @@
       "is_ticker": false
     },
     {
-      "title": "Modelling scout linked to Epstein found dead in Paris suburbs",
-      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, had previously denied knowledge of the threat Jeffrey Epstein posed.",
+      "title": "Modelling scout linked to Epstein found dead in Paris",
+      "description": "Daniel Siad, whose name appears in the Epstein files thousands of times, denied knowledge of the threat Jeffrey Epstein posed.",
       "url": "https://www.bbc.co.uk/news/articles/cp8en38vpd3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 12:08:41 GMT",
+      "published": "Wed, 22 Jul 2026 14:54:27 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1494,7 +1288,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Modelling scout linked to Epstein found dead in Paris suburbs"
+      "ticker_label": "💥 Modelling scout linked to Epstein found dead in Paris"
     },
     {
       "title": "Cocaine worth $370m seized in Liberia's biggest-ever drugs bust",
@@ -1641,53 +1435,6 @@
       "is_ticker": false
     },
     {
-      "title": "India: Youth-led 'Cockroach' protests increase pressure on Modi's government",
-      "description": "With each passing day, India's youth-led cockroach movement seems to swell. As the sit-in by anti-corruption campaigners grows in New Delhi, opposition lawmakers relay their call for the education minister to resign over the leaking of exam tests. The standoff grew with the Supreme Court refusing to hear a police brutality petition launched after Monday's crackdown on those trying to reach parliament. Details from the ground by FRANCE 24 correspondent in New Delhi, Sarah Jacob.",
-      "url": "https://www.france24.com/en/india-youth-led-cockroach-protests-increase-pressure-on-modi-s-government",
-      "published": "Wed, 22 Jul 2026 13:58:01 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "#Ukraine's controversial top general replaced amid mass #protests",
-      "description": "#Ukraine's top general Oleksander #Syrsky is being replaced by general Mikhailo #Dapraty after days of #protests demanding his departure. Syrsky was accused of having forced the popular #defence minister Mikhailo #Fedorov out as he was reticent to engage with reforms to modernise the #army.",
-      "url": "https://www.france24.com/en/video/20260722-ukraine-s-controversial-top-general-replaced-amid-mass-protests",
-      "published": "Wed, 22 Jul 2026 11:28:24 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "US eyes strikes on Iran's Pickaxe Mountain, believed to be an enrichment site",
-      "description": "Donald Trump has said that Pickaxe Mountain in Iran could be bombed imminently by the US. The fortified site, buried deep underground, is believed to be an enrichment facility. Story by Ellen Gainsford.",
-      "url": "https://www.france24.com/en/us-eyes-strikes-on-iran-s-pickaxe-mountain-believed-to-be-an-enrichment-site",
-      "published": "Wed, 22 Jul 2026 09:15:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US eyes strikes on Iran's Pickaxe Mountain, believed to be an enrichment site"
-    },
-    {
-      "title": "Zelensky sacks army chief Oleksandr Syrsky after protests",
-      "description": "Volodymyr Zelensky has bowed to pressure from the streets. Oleksandr Syrsky is no longer head of the Ukrainian armed forces, the Ukrainian president announced on Tuesday. The protests began five days ago following the sacking of Mykhailo Fedorov from his post as defence minister. Story by Daniel Quinlan.",
-      "url": "https://www.france24.com/en/zelensky-sacks-army-chief-oleksandr-syrsky-after-protests",
-      "published": "Wed, 22 Jul 2026 09:13:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Wreck of Pan Am plane found 74 years after ocean crash",
       "description": "The wreckage of a Pan Am plane that crashed 74 years ago, and led to safety briefings becoming mandatory on flights, has been found off the coast of Puerto Rico.",
       "url": "https://news.sky.com/story/wreck-of-pan-am-plane-found-74-years-after-crash-that-became-rallying-cry-for-aviation-safety-13565848",
@@ -1740,17 +1487,6 @@
       "url": "https://www.theguardian.com/world/2026/jul/22/restaurant-owner-south-korea-dried-ants-dessert",
       "published": "Wed, 22 Jul 2026 09:26:09 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Louvre Museum's Apollo gallery reopens, almost a year after the heist",
-      "description": "It is the gallery from where 88 million euros worth of France's crown jewels were stolen last year in a dramatic heist. Thieves disguised as construction workers and broke into the gallery, using a truck mounted lift. Today, the Apollo Gallery of Paris's Louvre Museum is to reopen to the public. No jewels will be on display in the room – it will revert to its 17th century function as a state gallery. Details by FRANCE 24 journalist Carys Garland.",
-      "url": "https://www.france24.com/en/louvre-museum-s-apollo-gallery-reopens-almost-a-year-after-the-heist",
-      "published": "Wed, 22 Jul 2026 09:18:08 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1834,17 +1570,6 @@
       "is_ticker": false
     },
     {
-      "title": "Senegal's Bassirou Diomaye Faye back Macky Sall for UN top job",
-      "description": "Senegal will support Macky Sall’s candidacy for the post of Secretary-General of the United Nations. The announcement was made in a press release on Monday, three days after he was granted an audience by the current president, Bassirou Diomaye Faye. Details by FRANCE 24 correspondent in Dakar, Aminatou Diallo.",
-      "url": "https://www.france24.com/en/senegal-s-bassirou-diomaye-faye-back-macky-sall-for-un-top-job",
-      "published": "Wed, 22 Jul 2026 14:05:06 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Record fish kill reported in Sint Maarten as crews struggle to remove carcasses",
       "description": "Thousands of dead fish have blanketed a canal in Sint Maarten",
       "url": "https://abcnews.com/International/wireStory/record-fish-kill-reported-sint-maarten-crews-struggle-134965706",
@@ -1922,10 +1647,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ukrainian drones hit more sites of Russian online retailer Wildberries",
+      "title": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
       "description": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
       "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 22 Jul 2026 10:00:04 GMT",
+      "published": "Wed, 22 Jul 2026 14:52:25 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1933,10 +1658,10 @@
       "is_ticker": false
     },
     {
-      "title": "Tokyo urges men to wear shorts to work, but some women say it's 'leg hair harassment'",
-      "description": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 21 Jul 2026 22:26:19 GMT",
+      "title": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+      "description": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
+      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 22 Jul 2026 14:14:16 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1948,6 +1673,17 @@
       "description": "The opening follows years of controversy about what to do with the 17th-Century former inn, where the Nazi dictator was born.",
       "url": "https://www.bbc.co.uk/news/articles/cy5d36e752yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 12:32:13 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+      "description": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 21 Jul 2026 22:26:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2004,6 +1740,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cp3rz07grngo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 22 Jul 2026 07:00:24 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Why Traore has opened a new front with Burkina Faso’s Muslim community",
+      "description": "New legislation and arrests are driving a rift between Burkina Faso's military government and Muslim scholars.",
+      "url": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss",
+      "published": "Wed, 22 Jul 2026 14:53:43 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2105,17 +1852,6 @@
       "description": "Biggs overwhelmingly defeats David Schweikert and will now face Democratic Governor Katie Hobbs in November.",
       "url": "https://www.aljazeera.com/news/2026/7/22/trump-ally-andy-biggs-wins-republican-nomination-for-arizona-governor?traffic_source=rss",
       "published": "Wed, 22 Jul 2026 11:18:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Austria turns Adolf Hitler’s birthplace into police station",
-      "description": "Austrian politicians hope the change will prevent neo-Nazis from visiting the building as a place of pilgrimage.",
-      "url": "https://www.aljazeera.com/news/2026/7/22/austria-turns-adolf-hitlers-birthplace-into-police-station?traffic_source=rss",
-      "published": "Wed, 22 Jul 2026 11:02:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2346,9 +2082,45 @@
       "is_ticker": false
     },
     {
-      "title": "Can India become the next semiconductor hub?",
+      "title": "Germany: Merz replaces key figure following surrogacy row",
+      "description": "Thorsten Frei, a close confidant of Chancellor Friedrich Merz, is taking over the role as parliamentary group leader for the conservative CDU/CSU bloc. The position is a powerful one.",
+      "url": "https://www.dw.com/en/germany-merz-replaces-key-figure-following-surrogacy-row/a-78075100?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 22 Jul 2026 15:02:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Germany: Merz replaces key figure following surrogacy row"
+    },
+    {
+      "title": "Germany's growing interest in Africa: A win for both sides?",
+      "description": "Germany is deepening its footprint across Africa, as Foreign Minister Johann Wadephul embarks on his third trip to the continent in 2026. His top-level talks will focus on security, skills development and investment.",
+      "url": "https://www.dw.com/en/germany-s-growing-interest-in-africa-a-win-for-both-sides/a-78068049?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 22 Jul 2026 14:44:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Female coaches want more representation in African football",
+      "description": "Female head coaches will be a rare sight at the Women’s African Cup of Nations. However, there are some promising signs.",
+      "url": "https://www.dw.com/en/female-coaches-want-more-representation-in-african-football/a-77951103?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 22 Jul 2026 14:17:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Can India become the next semiconductor hub after Taiwan?",
       "description": "India is investing billions to build a domestic semiconductor industry as major industrial powers seek to diversify supply chains beyond Taiwan.",
-      "url": "https://www.dw.com/en/can-india-become-the-next-semiconductor-hub/a-78066491?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/can-india-become-the-next-semiconductor-hub-after-taiwan/a-78066491?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 22 Jul 2026 13:17:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2384,28 +2156,6 @@
       "url": "https://www.dw.com/en/can-vr-help-you-achieve-your-goals/a-78034288?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 22 Jul 2026 07:33:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "France passes social media ban for teenagers under 15",
-      "description": "The French parliament has approved a social media ban for children under the age of 15. The measure is due to come into effect after the Summer holidays – but many questions still need to be answered as to how it will be enforced. Story by James Vasina.",
-      "url": "https://www.france24.com/en/france-passes-social-media-ban-for-teenagers-under-15",
-      "published": "Wed, 22 Jul 2026 09:22:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "🔴 Daniel Siad, French modelling scout linked to US sex offender Epstein, found dead outside Paris",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/france/20260722-french-modelling-scout-linked-to-us-sex-offender-epstein-found-dead-outside-paris",
-      "published": "Wed, 22 Jul 2026 09:11:43 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2450,6 +2200,17 @@
       "url": "https://news.sky.com/story/mass-mid-air-brawl-forces-easyjet-plane-to-return-to-tenerife-13565938",
       "published": "Wed, 22 Jul 2026 12:52:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Vatican defends secrecy in sensitive abuse case involving ex-Jesuit artist Marko Rupnik",
+      "description": "The Vatican has confirmed that a church trial against a famous ex-Jesuit priest accused of spiritual and sexual abuse of women is ongoing",
+      "url": "https://abcnews.com/International/wireStory/vatican-defends-secrecy-sensitive-abuse-case-involving-jesuit-134985483",
+      "published": "Wed, 22 Jul 2026 11:09:52 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2526,17 +2287,6 @@
       "description": "Prosecutors in Hungary have raided offices housing data servers used by former Prime Minister Viktor Orbán's Fidesz party",
       "url": "https://abcnews.com/International/wireStory/hungarian-prosecutors-raid-orbn-partys-data-center-embezzlement-134950241",
       "published": "Tue, 21 Jul 2026 11:16:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Guyana says capsized ferry had 179 people aboard as survivor describes a chaotic sinking",
-      "description": "Guyana's prime minister says a ferry that capsized over the weekend had as many as 179 people aboard, far more than listed on its manifest",
-      "url": "https://abcnews.com/International/wireStory/guyana-capsized-ferry-179-people-aboard-survivor-describes-134950062",
-      "published": "Tue, 21 Jul 2026 14:02:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
