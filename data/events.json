@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23T22:50:13.863736Z",
+  "last_updated": "2026-07-23T23:24:00.683103Z",
   "event_count": 201,
   "events": [
     {
@@ -136,31 +136,6 @@
       "source": "BBC News",
       "type": "rss",
       "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran launches missiles at Jordan",
-      "description": "Missile alert sirens have sounded in Jordan’s port city of Aqaba as attacks across the Middle East overshadowed diplomatic efforts in Pakistan to salvage an interim ceasefire deal that has collapsed",
-      "url": "https://abcnews.com/International/wireStory/iran-launches-missiles-jordan-134974879",
-      "published": "Wed, 22 Jul 2026 04:59:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran launches missiles at Jordan"
-    },
-    {
-      "title": "Toxic gas slows efforts to rescue 13 workers trapped in India hydropower tunnel",
-      "description": "Authorities say 13 workers are trapped inside a collapsed hydropower tunnel in India",
-      "url": "https://abcnews.com/International/wireStory/toxic-gas-slows-efforts-rescue-13-workers-trapped-134974633",
-      "published": "Wed, 22 Jul 2026 04:06:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -335,17 +310,6 @@
       "ticker_label": "🪖 US-Saudi nuclear deal: How will it impact Middle East, US-Iran war?"
     },
     {
-      "title": "Aid workers in Nepal left jobless by USAID cuts turn to sex work to survive",
-      "description": "After the United States slashed its foreign aid funding last year, more than 280,000 aid workers worldwide lost their jobs",
-      "url": "https://abcnews.com/International/wireStory/sex-work-starve-aid-workers-nepal-left-jobless-135008350",
-      "published": "Thu, 23 Jul 2026 02:35:04 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "11 dead, 50 missing after landslide in southwestern China",
       "description": "Teams searching the rubble of last week's landslide in Chongqing, China, have found three more bodies, bringing the death toll to 11",
       "url": "https://abcnews.com/International/wireStory/toll-landslide-southwestern-china-rises-11-dead-50-135024110",
@@ -358,6 +322,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ 11 dead, 50 missing after landslide in southwestern China"
+    },
+    {
+      "title": "Aid workers in Nepal left jobless by USAID cuts turn to sex work to survive",
+      "description": "After the United States slashed its foreign aid funding last year, more than 280,000 aid workers worldwide lost their jobs",
+      "url": "https://abcnews.com/International/wireStory/sex-work-starve-aid-workers-nepal-left-jobless-135008350",
+      "published": "Thu, 23 Jul 2026 02:35:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Canada reportedly scraps joint bridge celebration with US after Trump renews tariff threat",
@@ -463,15 +438,18 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: Marles says new US tariffs ‘make no sense’; Qantas long-range plane to land in Melbourne after 19-hour test flight from Toulouse",
+      "title": "Australia news live: trade minister demands removal of ‘unjustified’ US tariffs; deadly bird flu detected in Queensland for the first time",
       "description": "Follow today’s news live Get our breaking news email , free app or daily news podcast Australian exports sent to the US will be hit with a 12.5% tariff as the US president imposes levies on more than 80 nations. The Trump administration unveiled the latest tranche of tariffs for countries over their “failure to impose and effectively enforce a prohibition on the importation of goods produced with forced labour”. This, in our view, makes no sense. Forced labour is definitely something which needs to be combated around the world, so we support that objective. We absolutely need to see the strait of Hormuz be open and for freedom of navigation to happen there, for commercial shipping to be allowed through, and we very much call on Iran to allow that to be the case. We need to see a restoration to the normal global fuel supply chain because it’s having a significant impact around the world. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/24/australia-news-live-jim-chalmers-anthony-albanese-labor-conference-gas-tax-gambling-reform-one-nation-pauline-hanson-ntwnfb",
-      "published": "Thu, 23 Jul 2026 22:44:16 GMT",
+      "published": "Thu, 23 Jul 2026 23:14:17 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Australia news live: trade minister demands removal of ‘unjustified’ US tariffs; deadly bird flu detected in Queensland for the first time"
     },
     {
       "title": "What to know about Ukraine's military shakeup",
@@ -683,18 +661,18 @@
       "is_ticker": false
     },
     {
-      "title": "Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated",
-      "description": "A wildfire near Bordeaux, France, has burned 3,100 hectares (7,660 acres) of forest",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/bordeaux-wildfire-burns-3100-hectares-20000-evacuated?traffic_source=rss",
-      "published": "Thu, 23 Jul 2026 18:14:16 +0000",
-      "source": "Al Jazeera",
+      "title": "Authorities evacuate more than 10,000 in France as wildfire spreads",
+      "description": "A wildfire is raging near Lège Cap-Ferret in southwestern France, forcing over 10,000 people to evacuate",
+      "url": "https://abcnews.com/International/wireStory/authorities-evacuate-10000-france-wildfire-spreads-popular-tourist-135010258",
+      "published": "Thu, 23 Jul 2026 05:44:52 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Bordeaux wildfire burns 3,100 hectares, 20,000 evacuated"
+      "ticker_label": "🌪️ Authorities evacuate more than 10,000 in France as wildfire spreads"
     },
     {
       "title": "Russia's biggest online retailer is the latest target of Ukraine's attacks",
@@ -737,17 +715,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Bodycam shows Connecticut officer repeatedly ordering bat-wielding suspect to stop before fatal shooting"
-    },
-    {
-      "title": "Teachers who once dated and share child arrested after classroom argument spiraled into violence: police",
-      "description": "Both teachers at The SEED School of Miami face domestic violence battery charges after an alleged assault and pepper spray attack on school property.",
-      "url": "https://www.foxnews.com/us/teachers-who-once-dated-share-child-arrested-after-classroom-argument-spiraled-violence-police",
-      "published": "Wed, 22 Jul 2026 21:35:05 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives",
@@ -978,20 +945,6 @@
       "ticker_label": "💥 More than 1,000 people killed in Ebola outbreak"
     },
     {
-      "title": "Congo's Ebola outbreak has killed nearly 1,000 people",
-      "description": "At least 999 people have died from the Ebola outbreak in eastern Congo, according to official data published overnight into Wednesday, a grim toll in what’s already been declared the fastest Ebola outbreak in history",
-      "url": "https://abcnews.com/International/wireStory/congos-ebola-outbreak-killed-1000-people-134975873",
-      "published": "Wed, 22 Jul 2026 08:58:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Congo's Ebola outbreak has killed nearly 1,000 people"
-    },
-    {
       "title": "Nicaragua continues to weaken political freedoms, UN warns",
       "description": "The UN human rights chief Volker Türk on Wednesday condemned new threats from Nicaragua’s co-president Daniel Ortega to hinder civil rights and prevent dissenting individuals and groups from participating in elections.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1167999",
@@ -1105,20 +1058,6 @@
       "is_ticker": false
     },
     {
-      "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
-      "description": "U.S. Secretary of State Marco Rubio says the Trump administration is ready to help end the war in Ukraine but acknowledges there is no quick path to a deal",
-      "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
-      "published": "Thu, 23 Jul 2026 07:42:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US is ready to help end the 'senseless war' in Ukraine, Rubio says"
-    },
-    {
       "title": "An accident took his legs. He adapted his motorcycle and rides on in Pakistan",
       "description": "A young man in Pakistan’s capital lost both legs in a road accident five years ago, but he refused to let that define his future. Today, 28-year-old Hamza Ali delivers meals across Islamabad, riding a modified motorcycle fitted with hand-operated controls. Ali appeared cheerful under the scorching sun as he told The Associated Press that he had worked for a delivery platform before the accident. Then a bus he was riding collided with a truck. “After that accident, the first six months of my life were extremely difficult,” he said. “Then I told myself, ‘Ali, you have to do something on your own.’” After nearly three years of job hunting in his hometown of Multan, where employers turned him away because of his disability, Ali moved to Islamabad in 2023 on a friend’s advice that the capital’s wider roads make it easier to ride a modified motorcycle. Using his savings, he adapted his bike and asked for his rider account to be activated. The company asked one question: whether he was...",
       "url": "https://abcnews.com/International/wireStory/accident-legs-adapted-motorcycle-rides-pakistan-photos-135008258",
@@ -1131,6 +1070,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 An accident took his legs. He adapted his motorcycle and rides on in Pakistan"
+    },
+    {
+      "title": "US is ready to help end the 'senseless war' in Ukraine, Rubio says",
+      "description": "U.S. Secretary of State Marco Rubio says the Trump administration is ready to help end the war in Ukraine but acknowledges there is no quick path to a deal",
+      "url": "https://abcnews.com/International/wireStory/us-ready-end-senseless-war-ukraine-quick-deal-135004865",
+      "published": "Thu, 23 Jul 2026 07:42:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US is ready to help end the 'senseless war' in Ukraine, Rubio says"
     },
     {
       "title": "World News in Brief: New ECOSOC chief, Secretary-General candidates’ debate, torture in Mali, drowning prevention",
@@ -1178,6 +1131,20 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Vance Boelter sentenced for shootings of Minnesota lawmakers and spouses"
+    },
+    {
+      "title": "Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque",
+      "description": "Israeli settlers' storming of Islam's holy site fuels 'hatred' and obstructs lasting peace, joint statement says.",
+      "url": "https://www.aljazeera.com/news/2026/7/23/arab-and-muslim-countries-condemn-israeli-escalation-at-al-aqsa-mosque?traffic_source=rss",
+      "published": "Thu, 23 Jul 2026 22:51:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Arab and Muslim countries condemn Israeli storming of Al-Aqsa Mosque"
     },
     {
       "title": "Pauline Hanson says domestic violence prevents police from dealing with ‘real crime’ in unearthed interview",
@@ -1556,6 +1523,20 @@
       "ticker_label": "🪖 ECB keeps interest rates unchanged amid Iran war inflation"
     },
     {
+      "title": "Mideast oil producers step up plans to bypass the Strait of Hormuz",
+      "description": "Before the war in Iran, roughly 15 million barrels of Persian Gulf oil were shipped each day through the Strait of Hormuz",
+      "url": "https://abcnews.com/International/wireStory/mideast-oil-producers-step-plans-bypass-strait-hormuz-135009733",
+      "published": "Thu, 23 Jul 2026 04:28:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Mideast oil producers step up plans to bypass the Strait of Hormuz"
+    },
+    {
       "title": "Gaza’s food gains could unravel without sustained aid, UN warns",
       "description": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
@@ -1700,11 +1681,44 @@
       "is_ticker": false
     },
     {
+      "title": "Trump administration drops New York Times subpoenas over Air Force One reporting",
+      "description": "The White House had targeted journalists from The New York Times for their reporting on security concerns with a Qatari-donated Air Force One plane.",
+      "url": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-air-force-one-reporting/a-78091966?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 23 Jul 2026 20:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Czechia: Army helicopter crashes, killing at least one",
       "description": "A Czech army helicopter carrying five troops crashed in eastern Czech Republic, the military said.",
       "url": "https://www.dw.com/en/czechia-army-helicopter-crashes-killing-at-least-one/a-78083870?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 23 Jul 2026 11:30:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "A model Indigenous territory in Brazil's Amazon seeks protection from criminal gangs",
+      "description": "The Ashaninka Indigenous people, who reclaimed their territory on the Brazil-Peru border decades ago, now face threats from gangs and drug traffickers",
+      "url": "https://abcnews.com/International/wireStory/model-indigenous-territory-brazils-amazon-seeks-protection-criminal-135035994",
+      "published": "Thu, 23 Jul 2026 18:27:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine's ousted defense minister rejects Zelenskyy's offer of a different government role",
+      "description": "Ukraine’s fired defense minister, Mykhailo Fedorov, has rejected President Zelenskyy's offer to rejoin the government in a different role",
+      "url": "https://abcnews.com/International/wireStory/ukraines-ousted-defense-minister-rejects-zelenskyys-offer-government-135022595",
+      "published": "Thu, 23 Jul 2026 12:18:34 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1771,6 +1785,17 @@
       "url": "https://news.sky.com/story/no-role-for-white-house-in-extradition-to-uk-of-tate-brothers-says-us-secretary-of-state-marco-rubio-13566089",
       "published": "Wed, 22 Jul 2026 18:56:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Suspected militants kill judge, security guard in ambush in restive southwest Pakistan",
+      "description": "Officials say suspected militants have ambushed a vehicle carrying a district judge in restive southwestern Pakistan on Thursday, killing him and his security guard",
+      "url": "https://abcnews.com/International/wireStory/suspected-militants-kill-judge-security-guard-ambush-restive-135017667",
+      "published": "Thu, 23 Jul 2026 09:54:14 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1865,17 +1890,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump administration drops New York Times subpoenas over plane reporting",
-      "description": "The White House targeted journalists from The New York Times for their reporting on a Qatari-donated Air Force One plane.",
-      "url": "https://www.dw.com/en/trump-administration-drops-new-york-times-subpoenas-over-plane-reporting/a-78091966?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 23 Jul 2026 20:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "New details from Nancy Guthrie ransom demand revealed, 'Her life is in your hands': report",
       "description": "A former Arizona reporter read new excerpts from the purported ransom notes in the Nancy Guthrie kidnapping case on the \"Crime Junkie\" podcast.",
       "url": "https://www.foxnews.com/us/new-details-nancy-guthrie-ransom-demand-revealed-her-life-your-hands-report",
@@ -1925,6 +1939,17 @@
       "url": "https://abcnews.com/International/wireStory/londons-mayor-falling-crime-shows-city-safe-despite-135018221",
       "published": "Thu, 23 Jul 2026 10:25:16 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Foster child allegedly drowned in lake by two teens on local politician’s property: authorities",
+      "description": "A 13-year-old foster child was allegedly drowned by two teens at a McCormick County council chairman's home in South Carolina, investigators say.",
+      "url": "https://www.foxnews.com/us/foster-child-allegedly-drowned-lake-two-teens-local-politicians-property-authorities",
+      "published": "Thu, 23 Jul 2026 18:46:04 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2157,7 +2182,7 @@
       "title": "M 5.0 - 38 km SSE of Spearman, Texas",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VII Time 2026-07-23 10:21:43 UTC 2026-07-23 10:21:43 UTC at epicenter Location 35.902°N 100.976°W Depth 5.69 km (3.53 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/tx2026ojlaky",
-      "published": "2026-07-23T22:38:05.057Z",
+      "published": "2026-07-23T23:16:01.782Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2264,32 +2289,10 @@
       "is_ticker": false
     },
     {
-      "title": "2,000 volunteers join a painstaking effort to restore massive prehistoric skeleton",
-      "description": "More than 2,000 volunteers are helping Polish scientists restore a Mastodonsaurus skeleton",
-      "url": "https://abcnews.com/International/wireStory/2000-volunteers-join-painstaking-effort-restore-massive-skeleton-134973944",
-      "published": "Wed, 22 Jul 2026 02:31:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ukraine overhauls its military top brass for the fight against Russia",
-      "description": "Ukraine is continuing its fight against Russia with new military leadership",
-      "url": "https://abcnews.com/International/wireStory/ukraine-overhauls-military-top-brass-fight-russia-134974206",
-      "published": "Wed, 22 Jul 2026 04:03:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Louvre reopens Apollo Gallery after a brazen heist, but no jewels on display",
-      "description": "The Louvre's Apollo gallery is reopening to the public for the first time since last year's crown jewels heist",
-      "url": "https://abcnews.com/International/wireStory/louvre-reopens-apollo-gallery-after-brazen-heist-jewels-134975099",
-      "published": "Wed, 22 Jul 2026 05:40:43 -0400",
+      "title": "FBI Director Patel returns looted cultural artifacts to Indonesian President Prabowo",
+      "description": "Indonesian President Prabowo Subianto has received a collection of repatriated cultural artifacts from FBI Director Kash Patel during a meeting in Jakarta",
+      "url": "https://abcnews.com/International/wireStory/fbi-director-patel-returns-looted-cultural-artifacts-indonesian-135008995",
+      "published": "Thu, 23 Jul 2026 02:47:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
