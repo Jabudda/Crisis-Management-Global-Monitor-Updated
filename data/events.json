@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-26T18:26:41.417297Z",
+  "last_updated": "2026-07-26T18:52:27.061667Z",
   "event_count": 216,
   "events": [
     {
       "title": "Berlin Pride ramming: Suspect shot dead in police operation",
-      "description": "Police told media the suspect was shot dead in an operation, after the incident was classified as an \"Islamist terrorist\" attack. One person was killed and several others injured in the attack. Follow DW.",
+      "description": "Police said the suspect was shot dead in an operation, after the incident was classified as an \"Islamist terrorist\" attack. One person was killed and several others injured in the attack. Follow DW.",
       "url": "https://www.dw.com/en/berlin-pride-ramming-suspect-shot-dead-in-police-operation/live-78117180?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 26 Jul 2026 17:34:00 GMT",
       "source": "Deutsche Welle",
@@ -84,20 +84,6 @@
       "ticker_label": "🌪️ <a href=\"https://news.sky.com/story/europe-wildfires-latest-french-tourist-hotspot-evacuated-as-national-emergency-declared-in-spain-13566532?postid=12125453#liveblog-body\">In France, hotels for wine lovers have turned into evacuation centres</a>"
     },
     {
-      "title": "Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux",
-      "description": "A raging wildfire in southwest France has forced the evacuation of 55,000 people overnight Sunday",
-      "url": "https://abcnews.com/International/wireStory/wildfires-france-drive-250000-people-homes-creep-wine-135094898",
-      "published": "Sun, 26 Jul 2026 04:31:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfires in France drive 250,000 people from their homes and creep toward wine city of Bordeaux"
-    },
-    {
       "title": "Wildfires spread in France and Spain forcing more to flee",
       "description": "Spain's prime minister warned of \"difficult hours ahead,\" as France's interior minister called the blaze near Bordeaux \"unpredictable.\" Evacuations in both countries continued as high winds keep fires moving.",
       "url": "https://www.dw.com/en/wildfires-spread-in-france-and-spain-forcing-more-to-flee/a-78119908?maca=en-rss-en-all-1573-xml-mrss",
@@ -110,6 +96,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Wildfires spread in France and Spain forcing more to flee"
+    },
+    {
+      "title": "Wildfire leads to evacuations in some suburbs of the French city of Bordeaux",
+      "description": "France is using a massive cargo aircraft to dump flame retardants on a wildfire near the wine country city of Bordeaux",
+      "url": "https://abcnews.com/International/wireStory/wildfire-leads-evacuations-suburbs-french-city-bordeaux-135076745",
+      "published": "Sat, 25 Jul 2026 15:30:04 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Wildfire leads to evacuations in some suburbs of the French city of Bordeaux"
     },
     {
       "title": "Stranded seafarers remain trapped as Hormuz shipping stalls",
@@ -257,20 +257,6 @@
       "is_ticker": false
     },
     {
-      "title": "Germany says fatal Berlin Pride attack believed to be Islamic extremist terror",
-      "description": "Germany says fatal Berlin Pride attack believed to be Islamic extremist terror",
-      "url": "https://abcnews.com/International/wireStory/germany-fatal-berlin-pride-attack-believed-islamic-extremist-135095850",
-      "published": "Sun, 26 Jul 2026 09:56:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Germany says fatal Berlin Pride attack believed to be Islamic extremist terror"
-    },
-    {
       "title": "Venezuelan men sue aviation firms who flew them to notorious Salvadorian jail",
       "description": "Exclusive: CSI Aviation and GlobalX accused of violating civil rights as part of Trump immigration crackdown Venezuelan men sent last year to a notorious Salvadorian terrorism prison by the Trump administration are suing the US aviation companies that transported them there. A lawsuit filed this week in federal court in Washington DC accuses the companies CSI Aviation and GlobalX of violating the Venezuelans’ civil rights, false imprisonment, intentional infliction of emotional distress, negligence and other violations, for their role in flying the three planes that took the men to El Salvador. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/jul/26/lawsuit-csi-aviation-globalx-cecot-deportation",
@@ -336,6 +322,20 @@
       "severity_score": 24,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "More workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths",
+      "description": "Health workers at an Ebola treatment center in eastern Congo have gone on strike over payment issues, disrupting patient care",
+      "url": "https://abcnews.com/International/wireStory/health-workers-strike-ebola-cases-congo-3000-including-135077693",
+      "published": "Sat, 25 Jul 2026 14:18:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 More workers strike as Ebola cases in Congo near 3,000, including over 1,300 deaths"
     },
     {
       "title": "Main suspect in Berlin Pride attack shot dead by German police forces",
@@ -405,6 +405,17 @@
       "ticker_label": "🌪️ Europe wildfires rage on, forcing more than 250,000 from homes"
     },
     {
+      "title": "At least 35 people killed after buses collide in Syria, state media reports",
+      "description": "The crash occurred on a highway linking the Syrian capital with Deir el-Zour.",
+      "url": "https://abcnews.com/International/wireStory/35-people-killed-after-buses-collide-syria-state-135078799",
+      "published": "Sat, 25 Jul 2026 09:56:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "‘Judges should be superhuman’: The invisible burden behind the bench",
       "description": "When conflict erupts, disasters strike or political crises unfold, courts are among the few institutions expected to keep functioning – ensuring the essential rule of law is maintained.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168023",
@@ -456,6 +467,20 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "India's 'Cockroach' protests take on Modi with unlikely weapons: Sharp, irreverent humor and memes",
+      "description": "India’s young protesters are taking on Prime Minister Narendra Modi with humor as much as street demonstrations, flooding social media with memes, parody videos and jokes while thousands rally across the country",
+      "url": "https://abcnews.com/International/wireStory/indias-cockroach-protests-modi-weapons-sharp-irreverent-humor-135076205",
+      "published": "Sat, 25 Jul 2026 02:14:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ India's 'Cockroach' protests take on Modi with unlikely weapons: Sharp, irreverent humor and memes"
     },
     {
       "title": "After an Ebola centre was attacked, peacekeepers moved in next door",
@@ -522,8 +547,8 @@
       "ticker_label": "🪖 ICC prosecutor whose Netanyahu warrant fueled Mamdani arrest threat is fired over sexual misconduct"
     },
     {
-      "title": "Berlin police shoot dead suspect in car ramming attack on Pride event",
-      "description": "Abdul Ballout, a German citizen with Lebanese roots, is believed to have carried out an \"Islamic terror attack\".",
+      "title": "Berlin police shoot dead suspect in car-ramming attack at Pride event",
+      "description": "Abdul Ballout, a German citizen with Lebanese roots, accused of carrying out an 'Islamic terror attack'.",
       "url": "https://www.aljazeera.com/news/2026/7/26/berlin-police-shoot-dead-suspect-in-car-ramming-attack-on-pride-event?traffic_source=rss",
       "published": "Sun, 26 Jul 2026 17:51:37 +0000",
       "source": "Al Jazeera",
@@ -533,7 +558,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Berlin police shoot dead suspect in car ramming attack on Pride event"
+      "ticker_label": "💥 Berlin police shoot dead suspect in car-ramming attack at Pride event"
     },
     {
       "title": "Darfur: Weaponising Identity",
@@ -576,20 +601,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Germany: Berlin Pride attack believed to be an act of Islamic extremist terror"
-    },
-    {
-      "title": "2 dead in Ukraine from Russian attacks, 4 more in Russian-held area hit by Ukrainian drones",
-      "description": "Russian ballistic missiles struck Kyiv early Sunday, igniting fires and wounding at least three civilians",
-      "url": "https://abcnews.com/International/wireStory/2-dead-ukraine-russian-attacks-4-russian-held-135096678",
-      "published": "Sun, 26 Jul 2026 09:54:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 2 dead in Ukraine from Russian attacks, 4 more in Russian-held area hit by Ukrainian drones"
     },
     {
       "title": "‘Women do not stop giving birth in an emergency’ – one month after Venezuela quakes",
@@ -759,10 +770,21 @@
       "ticker_label": "🪖 France's D-Day landing beaches, Greece's Mount Olympus added to World Heritage List"
     },
     {
+      "title": "Indonesian rescuers search for missing speedboat with 11 European tourists and 2 local crew members",
+      "description": "Indonesian rescuers are searching for a speedboat carrying 11 European tourists and two local crew members that went missing off Sulawesi island",
+      "url": "https://abcnews.com/International/wireStory/indonesian-rescuers-search-missing-speedboat-11-european-tourists-135076584",
+      "published": "Sat, 25 Jul 2026 03:24:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Firefighters battle wildfire as tens of thousands evacuated near Bordeaux",
       "description": "More than 330,000 people have now been evacuated from wildfires across France and Spain.",
       "url": "https://www.bbc.co.uk/news/articles/clyj8k4nn5jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 26 Jul 2026 16:48:16 GMT",
+      "published": "Sun, 26 Jul 2026 18:40:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -882,18 +904,18 @@
       "ticker_label": "🌪️ France fire situation 'remains very unfavourable' says interior minister"
     },
     {
-      "title": "51 officials arrested and charged with terrorism over planned July protests, opposition says",
-      "description": "Tanzania’s main opposition party says 51 of its officials have been arrested and charged with terrorism, accusing the government of using law enforcement to intimidate critics",
-      "url": "https://abcnews.com/International/wireStory/51-officials-arrested-charged-terrorism-planned-july-protests-135087266",
-      "published": "Sat, 25 Jul 2026 15:20:16 -0400",
+      "title": "Ukrainian attacks on holiday camps in partly Russian-occupied Zaporizhzhia kill 11",
+      "description": "Relentless cycle of tit-for-tat attacks dims hopes for a diplomatic end to war.",
+      "url": "https://abcnews.com/International/wireStory/russian-attack-kills-3-ukraines-sumy-region-romania-135076941",
+      "published": "Sat, 25 Jul 2026 10:26:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 51 officials arrested and charged with terrorism over planned July protests, opposition says"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukrainian attacks on holiday camps in partly Russian-occupied Zaporizhzhia kill 11"
     },
     {
       "title": "France reducing length of the Tour de France’s last stage on Sunday to divert officers to wildfires.",
@@ -954,17 +976,6 @@
       "is_ticker": false
     },
     {
-      "title": "US-Russian space crew lands safely in Kazakhstan after 8-month stint on the ISS",
-      "description": "A U.S.-Russian space crew landed safely in the steppes of Kazakhstan on Sunday after an eight-month stint on the International Space Station",
-      "url": "https://abcnews.com/International/wireStory/us-russian-space-crew-lands-safely-kazakhstan-after-135095540",
-      "published": "Sun, 26 Jul 2026 09:22:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Syria ‘not alone’ in locating missing persons, tackling displacement",
       "description": "Syria is not alone in tackling challenges, including the hundreds of thousands who remain missing during past tumultuous decades, the head of a UN institution said on Thursday as António Guterres departs on his first visit to the country in his current capacity as Secretary-General.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168010",
@@ -1007,6 +1018,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "description": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "published": "Sun, 26 Jul 2026 18:17:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Romania summons Russian envoy as it shoots down third intruding drone"
     },
     {
       "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
@@ -1060,20 +1085,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Israel detains over 70 suspects following deadly violence in the West Bank"
-    },
-    {
-      "title": "Former President Juan Orlando Hernández returns to Honduras after arrest warrant suspended",
-      "description": "Former Honduran President Juan Orlando Hernández returns to his country Sunday to face corruption charges",
-      "url": "https://abcnews.com/International/wireStory/former-president-juan-orlando-hernndez-returns-honduras-after-135094794",
-      "published": "Sun, 26 Jul 2026 01:26:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Former President Juan Orlando Hernández returns to Honduras after arrest warrant suspended"
     },
     {
       "title": "UN chief hails Syria’s ‘moment of possibility’ on first visit since fall of Assad regime",
@@ -1187,17 +1198,6 @@
       "ticker_label": "💥 Al-Sharaa praises Trump’s decision to remove Syria from terrorism list"
     },
     {
-      "title": "From paradise to ‘pilot zone’ disaster: Returning to destroyed Lebanon home",
-      "description": "Sumaya Yaghi returns to what's left of her destroyed home in southern Lebanon.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/from-paradise-to-pilot-zone-disaster-returning-to-destroyed-lebanon-home?traffic_source=rss",
-      "published": "Sun, 26 Jul 2026 13:34:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1260,17 +1260,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sea drones to defend the sky in Ukraine as the war continues"
-    },
-    {
-      "title": "Authorities in Germany issue a wanted notice for suspect in Berlin Pride van ramming",
-      "description": "German authorities have issued a wanted notice for a fugitive suspect in the van ramming near Berlin’s Pride festival that left one person dead and injured at least 16 others",
-      "url": "https://abcnews.com/International/wireStory/authorities-germany-issue-wanted-notice-suspect-berlin-pride-135094699",
-      "published": "Sun, 26 Jul 2026 01:26:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Senator Whitehouse: Netanyahu a ‘walking provocation’ for Americans",
@@ -1373,20 +1362,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ebola cases in DR Congo surpass 3,000 - as health workers go on strike"
-    },
-    {
-      "title": "Israel detains over 70 suspects following deadly violence in the West Bank",
-      "description": "Israel's military says it has detained over 70 suspects across the occupied West Bank following violence that left two Israeli soldiers and four Palestinian villagers dead there",
-      "url": "https://abcnews.com/International/wireStory/israel-detains-70-suspects-deadly-violence-west-bank-135084151",
-      "published": "Sat, 25 Jul 2026 15:30:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Israel detains over 70 suspects following deadly violence in the West Bank"
     },
     {
       "title": "Toronto police investigate gunfire, vandalism targeting Jewish-owned bakery chain",
@@ -1722,6 +1697,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine is still fortifying its border with Belarus after Russia invaded from there",
+      "description": "Ukraine is still fortifying its border with Belarus more than four years after Russia used the country to launch its assault on Kyiv",
+      "url": "https://abcnews.com/International/wireStory/ukraine-fortifying-border-belarus-years-after-russia-invaded-135075612",
+      "published": "Sat, 25 Jul 2026 02:07:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Syria’s hopes for renewal hinge on rebuilding trust, lives and livelihoods",
       "description": "A country long known as a meeting point of civilizations, Syria stands once again at a crossroads",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168028",
@@ -1841,10 +1827,10 @@
       "is_ticker": false
     },
     {
-      "title": "Typhoon Noul weakens after making landfall, brings heavy rain to southern China",
-      "description": "Typhoon Noul has weakened to a tropical storm as it moves inland after making landfall in southern China",
-      "url": "https://abcnews.com/International/wireStory/typhoon-noul-weakens-after-making-landfall-brings-heavy-135094999",
-      "published": "Sun, 26 Jul 2026 08:50:03 -0400",
+      "title": "Typhoon Noul nears southern China, putting region on high alert for heavy rain and wind",
+      "description": "Typhoon Noul is expected to bring winds and heavy rain to southern China, including Hong Kong, over the weekend",
+      "url": "https://abcnews.com/International/wireStory/typhoon-noul-nears-southern-china-putting-region-high-135075426",
+      "published": "Sat, 25 Jul 2026 02:14:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1852,7 +1838,29 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Typhoon Noul weakens after making landfall, brings heavy rain to southern China"
+      "ticker_label": "🌪️ Typhoon Noul nears southern China, putting region on high alert for heavy rain and wind"
+    },
+    {
+      "title": "India's education minister resigns after weeks of student-led protests",
+      "description": "India’s education minister Dharmendra Pradhan has resigned after weeks of protests over alleged exam leaks and irregularities in the education system",
+      "url": "https://abcnews.com/International/wireStory/indias-education-minister-resigns-after-weeks-student-led-135077325",
+      "published": "Sat, 25 Jul 2026 06:59:47 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Berlin’s first drag march brings protest and pride to the streets",
+      "description": "Berlin’s first drag march dazzled with color and celebration as about 500 drag queens, drag kings and LGBTQ+ supporters marched to music from the Transophonix brass band",
+      "url": "https://abcnews.com/International/wireStory/berlins-drag-march-brings-protest-pride-flamboyant-celebration-135076111",
+      "published": "Sat, 25 Jul 2026 02:15:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "In El Obeid, Sudanese women face drones by day, rape by night, to reach water",
@@ -2534,21 +2542,10 @@
       "is_ticker": false
     },
     {
-      "title": "Senegal's President Faye launches a new party over deepening split with former ally Sonko",
-      "description": "Senegal's President Bassirou Diomaye Faye has launched his own political party, marking a split with former ally Ousmane Sonko",
-      "url": "https://abcnews.com/International/wireStory/senegals-president-faye-launches-new-party-deepening-split-135087574",
-      "published": "Sat, 25 Jul 2026 16:10:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Intern arrested in Belgium on suspicion of spying inside NATO military headquarters",
-      "description": "Belgian authorities have arrested a Canadian woman accused of espionage while working as an intern at NATO's operational headquarters",
-      "url": "https://abcnews.com/International/wireStory/intern-arrested-belgium-suspicion-spying-inside-nato-military-135086561",
-      "published": "Sat, 25 Jul 2026 15:36:53 -0400",
+      "title": "Brazil's Flávio Bolsonaro secures presidential bid despite challenges",
+      "description": "Brazilian senator Flávio Bolsonaro has been confirmed as the presidential candidate for his father's Liberal Party",
+      "url": "https://abcnews.com/International/wireStory/brazils-flvio-bolsonaro-secure-presidential-bid-despite-headwinds-135077236",
+      "published": "Sat, 25 Jul 2026 15:30:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
