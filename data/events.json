@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T18:52:19.005221Z",
+  "last_updated": "2026-07-29T19:32:57.159735Z",
   "event_count": 221,
   "events": [
     {
@@ -45,20 +45,6 @@
       "ticker_label": "🌪️ Death toll rises to 18 as rescuers comb through quake rubble in southwestern Japan"
     },
     {
-      "title": "Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan",
-      "description": "Soldiers and emergency workers are combing through a badly damaged shopping mall and collapsed houses looking for trapped survivors Wednesday after a powerful earthquake that killed at least 18 people in southwestern Japan",
-      "url": "https://abcnews.com/International/wireStory/death-toll-rises-18-rescuers-comb-quake-rubble-135176500",
-      "published": "Wed, 29 Jul 2026 08:57:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 49,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Rescuers search for survivors after a 7.1 quake kills 18 in southwestern Japan"
-    },
-    {
       "title": "Europe wildfires: Spain lets people return, France faces extreme heat",
       "description": "Spain lifted evacuations for Avila province, a day after doing so in parts of the Madrid area. To the north in France, temperatures rose again, with extreme heat warnings in much of the country, including Gironde.",
       "url": "https://www.dw.com/en/europe-wildfires-spain-lets-people-return-france-faces-extreme-heat/a-78153758?maca=en-rss-en-all-1573-xml-mrss",
@@ -85,20 +71,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Japan searches for earthquake survivors as thousands evacuate"
-    },
-    {
-      "title": "Thousands sheltering in key Sudan city under threat again as fighting escalates",
-      "description": "International leaders have issued warnings the RSF may be preparing to attack the city, raising fears of further atrocities being committed.",
-      "url": "https://www.bbc.co.uk/news/articles/c4gx399l0wyo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 05:01:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 39,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Thousands sheltering in key Sudan city under threat again as fighting escalates"
     },
     {
       "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
@@ -402,9 +374,9 @@
       "is_ticker": false
     },
     {
-      "title": "How Iran, Ukraine wars and El Nino could fuel world hunger",
+      "title": "How two wars and El Nino could fuel world hunger",
       "description": "The wars in Ukraine and the Middle East haven't yet crippled global food supplies. Add a powerful weather pattern like El Nino, however, and the risks multiply.",
-      "url": "https://www.dw.com/en/how-iran-ukraine-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/how-two-wars-and-el-nino-could-fuel-world-hunger/a-78126433?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 29 Jul 2026 08:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -413,7 +385,35 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 How Iran, Ukraine wars and El Nino could fuel world hunger"
+      "ticker_label": "🪖 How two wars and El Nino could fuel world hunger"
+    },
+    {
+      "title": "Russia charges Telegram founder with aiding terrorism and puts him on wanted list",
+      "description": "Russia has charged Pavel Durov, founder of Telegram, with aiding terrorism and placed him on an international wanted list",
+      "url": "https://abcnews.com/International/wireStory/russia-charges-telegram-founder-pavel-durov-aiding-terrorism-135179973",
+      "published": "Wed, 29 Jul 2026 07:14:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Russia charges Telegram founder with aiding terrorism and puts him on wanted list"
+    },
+    {
+      "title": "Bordeaux wildfire battle continues amid extreme heat",
+      "description": "Firefighters are on high alert in France as scorching temperatures and winds threaten to fuel wildfire west of Bordeaux",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bordeaux-wildfire-battle-continues-amid-extreme-heat?traffic_source=rss",
+      "published": "Wed, 29 Jul 2026 18:42:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Bordeaux wildfire battle continues amid extreme heat"
     },
     {
       "title": "Hunger hampers Ebola response as cases top 3,200 in DR Congo",
@@ -570,6 +570,17 @@
       "ticker_label": "🌪️ As Spain battles wildfires, its politicians battle over climate change's role"
     },
     {
+      "title": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
+      "description": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/dr-anthony-fauci-pleads-the-fifth-at-covid-hearing?traffic_source=rss",
+      "published": "Wed, 29 Jul 2026 18:34:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "'Two options' for Trump in Middle East war: 'he waits or he escalates massively'",
       "description": "US President Donald Trump confirmed on Fox News that the US and Saudi Arabia coordinated attacks on Iran-backed Iraqi militias with the Iraqi government itself. But Iraq has called the strikes a 'blatant violation', and its prime minister has called off a meeting with the Saudi Prince Mohammed bin Salmane due to the attack. This comes as the US struggles to put an end to the war with Iran. FRANCE 24's Angela Diffley tells us more.",
       "url": "https://www.france24.com/en/two-options-for-trump-in-middle-east-war-he-waits-or-he-escalates-massively",
@@ -593,6 +604,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France’s wildfire rages on",
+      "description": "A massive wildfire in southwest France has forced over 220,000 people to evacuate",
+      "url": "https://abcnews.com/International/wireStory/247-alert-rabbit-220000-evacuees-frances-wildfire-rages-135178809",
+      "published": "Wed, 29 Jul 2026 02:17:05 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ A 2:47 a.m. alert, a rabbit and 220,000 evacuees as France’s wildfire rages on"
     },
     {
       "title": "'I thought I would die': Survivors describe shock and horror of powerful Japan earthquake",
@@ -698,17 +723,6 @@
       "url": "https://www.france24.com/en/video/20260729-fifa-private-investor-plans-spark-backlash-uefa-fury",
       "published": "Wed, 29 Jul 2026 12:43:40 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "The deaths of 15 elephants in Kenya's Amboseli National Park spark investigation",
-      "description": "Kenya’s wildlife authorities are investigating the deaths of 15 elephants over the past month in Amboseli National Park",
-      "url": "https://abcnews.com/International/wireStory/deaths-15-elephants-kenyas-amboseli-national-park-spark-135167842",
-      "published": "Tue, 28 Jul 2026 16:10:15 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -896,20 +910,6 @@
       "is_ticker": false
     },
     {
-      "title": "Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea",
-      "description": "The number of survivors of a cargo ship that sank off a Chinese-occupied shoal in the South China Sea has risen to 48 as search and rescue crews hunt for more people who went down with the vessel",
-      "url": "https://abcnews.com/International/wireStory/survivors-rise-48-missing-after-vietnamese-ship-sinks-135143274",
-      "published": "Tue, 28 Jul 2026 06:22:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Survivors rise to 48 with more missing after Vietnamese ship sinks in South China Sea"
-    },
-    {
       "title": "Wildfires near Bordeaux bring more troubles to France's wine industry",
       "description": "Wildfires near Bordeaux are hurting the wine region's economy",
       "url": "https://abcnews.com/International/wireStory/wildfires-bordeaux-bring-troubles-frances-wine-industry-135194855",
@@ -982,6 +982,17 @@
       "is_ticker": false
     },
     {
+      "title": "Norwegian teenager convicted for his role in murder-for-hire ordered by Iran-linked crime gang",
+      "description": "A Norwegian teenager has been convicted of traveling to Britain to carry out a contract killing on behalf of an international crime gang linked to Iran",
+      "url": "https://abcnews.com/International/wireStory/norwegian-teenager-convicted-role-murder-hire-ordered-iran-135193057",
+      "published": "Wed, 29 Jul 2026 11:12:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "France fire crews face searing heat in battle to contain flames",
       "description": "\"It's our forest,\" one volunteer fighting the fire in the Gironde region told the BBC, as other locals have refused to heed evacuations.",
       "url": "https://www.bbc.co.uk/news/articles/c62q5we799ro?at_medium=RSS&at_campaign=rss",
@@ -1026,6 +1037,17 @@
       "is_ticker": false
     },
     {
+      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
+      "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
+      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 15:33:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Saudi Arabia joins US in strikes on Iran-backed militias in Iraq",
       "description": "US Central Command says proxy groups launched attacks against US bases and Saudi energy infrastructure.",
       "url": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -1038,17 +1060,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Saudi Arabia joins US in strikes on Iran-backed militias in Iraq"
-    },
-    {
-      "title": "Oscar-winning songwriter Glen Hansard killed in crash",
-      "description": "Hansard, who was 56, won the best song Oscar for the 2007 low-budget musical film Once.",
-      "url": "https://www.bbc.co.uk/news/articles/c3ekn9d37qvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 15:33:14 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Why Saudi Arabia holds the key to Palestinian statehood",
@@ -1254,6 +1265,20 @@
       "ticker_label": "💥 Russia charges Telegram founder with facilitating terrorism"
     },
     {
+      "title": "After Venezuela's quakes, experts say environmental and health risks have just begun",
+      "description": "More than a month after Venezuela's devastating earthquakes, public health experts tell The Associated Press the coming weeks are critical to prevent secondary crises from contaminants",
+      "url": "https://abcnews.com/International/wireStory/after-venezuelas-quakes-experts-environmental-health-risks-begun-135188972",
+      "published": "Wed, 29 Jul 2026 11:26:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ After Venezuela's quakes, experts say environmental and health risks have just begun"
+    },
+    {
       "title": "Two Florida inmates die in rare double execution after SCOTUS denies stays",
       "description": "The Supreme Court denied stays of execution for two Florida death row inmates, clearing the way for the state's first double execution since 1964.",
       "url": "https://www.foxnews.com/us/two-florida-inmates-die-rare-double-execution-after-scotus-denies-stays",
@@ -1280,20 +1305,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report"
-    },
-    {
-      "title": "Fragile peace in Syria’s Set Zaynab as sectarian challenges persist",
-      "description": "Locals in southern Damascus town await safer times as fears rooted in a decade of war still loom over daily life.",
-      "url": "https://www.aljazeera.com/features/2026/7/29/fragile-peace-in-syrias-set-zaynab-as-sectarian-challenges-persist?traffic_source=rss",
-      "published": "Wed, 29 Jul 2026 13:58:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Fragile peace in Syria’s Set Zaynab as sectarian challenges persist"
     },
     {
       "title": "The Slovak village questioning its UNESCO status",
@@ -1329,21 +1340,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ebola cases in Congo top 3,200, nearing record of the country's worst outbreak",
-      "description": "The Ebola outbreak in eastern Congo has surpassed 3,200 cases",
-      "url": "https://abcnews.com/International/wireStory/ebola-cases-congo-top-3200-nearing-record-countrys-135144491",
-      "published": "Tue, 28 Jul 2026 06:50:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "S. Korean officials order evacuation after reported white phosphorus leak at US base",
-      "description": "South Korean authorities briefly ordered evacuations on Tuesday due to what they said was a white phosphorus leak at a U.S. military base near Seoul",
-      "url": "https://abcnews.com/International/wireStory/south-korean-officials-order-residents-evacuate-after-reported-135147408",
-      "published": "Tue, 28 Jul 2026 08:58:05 -0400",
+      "title": "Ugandan opposition figure Besigye collapses in the dock during treason trial",
+      "description": "An opposition leader facing treason charges in Uganda appeared to collapse in court as he protested what he has long felt is personal injustice in the trial that is riveting this East African country",
+      "url": "https://abcnews.com/International/wireStory/ugandan-opposition-figure-besigye-collapses-dock-treason-trial-135190862",
+      "published": "Wed, 29 Jul 2026 11:13:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -1363,6 +1363,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 WATCH: E-bike teen takeover swarms downtown city streets blocking traffic, leading to charges"
+    },
+    {
+      "title": "Fifa opens disciplinary proceedings against Argentina",
+      "description": "Fifa opens disciplinary proceedings against Argentina over their behaviour after their World Cup final loss to Spain and throughout the tournament.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cp3rkwgy6y7o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 17:21:57 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Trump administration bans new Chinese humanoid robots",
@@ -1413,17 +1424,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes"
-    },
-    {
-      "title": "Infantino sets deadline for FIFA offer in Kushner-backed World Cup plan",
-      "description": "FIFA's president lobbies for latest, and heavily criticised, proposal for investment in football's governing body.",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/infantino-sets-deadline-for-fifa-offer-in-kushner-backed-world-cup-plan?traffic_source=rss",
-      "published": "Wed, 29 Jul 2026 13:15:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1492,6 +1492,31 @@
       "is_ticker": false
     },
     {
+      "title": "Forensic teams search a suspected mass grave from the Kosovo war",
+      "description": "Kosovo authorities are excavating part of a village after discovering human remains believed to be from the 1998-1999 Kosovo war",
+      "url": "https://abcnews.com/International/wireStory/forensic-teams-search-suspected-mass-grave-kosovo-war-135189107",
+      "published": "Wed, 29 Jul 2026 11:13:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Forensic teams search a suspected mass grave from the Kosovo war"
+    },
+    {
+      "title": "A heat wave threatens to reignite France’s mega-fire near Bordeaux",
+      "description": "Fire crews in southwest France are battling a massive blaze four times the size of Paris",
+      "url": "https://abcnews.com/International/wireStory/heat-wave-threatens-reignite-frances-mega-fire-bordeaux-135180714",
+      "published": "Wed, 29 Jul 2026 08:58:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Vietnam’s biggest company, Vingroup, goes global as its home market slows",
       "description": "Vietnam’s biggest conglomerate, Vingroup, is expanding into global markets as business at home slows",
       "url": "https://abcnews.com/International/wireStory/vietnams-biggest-company-vingroup-expands-overseas-home-market-135178832",
@@ -1501,20 +1526,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Protesters storm key Libya energy complex as blackout fears grow",
-      "description": "Protesters have stormed a key energy complex in western Libya during an ongoing anti-government demonstrations over power outages",
-      "url": "https://abcnews.com/International/wireStory/protesters-storm-key-libya-energy-complex-blackout-fears-135144918",
-      "published": "Tue, 28 Jul 2026 08:58:04 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Protesters storm key Libya energy complex as blackout fears grow"
     },
     {
       "title": "Mount Olympus and D-Day beaches among new World Heritage Sites",
@@ -1548,6 +1559,20 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "description": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 18:41:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Saudi Arabia's dilemma as it tries to stay out of US-Iran war"
     },
     {
       "title": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
@@ -1647,10 +1672,10 @@
       "is_ticker": false
     },
     {
-      "title": "Death toll from Chongqing landslide in southwestern China climbs to 41",
-      "description": "Teams in southwestern China have identified 30 more victims from a recent landslide, bringing the death toll in Chongqing to 41",
-      "url": "https://abcnews.com/International/wireStory/death-toll-chongqing-landslide-southwestern-china-climbs-41-135157619",
-      "published": "Tue, 28 Jul 2026 11:56:11 -0400",
+      "title": "Man killed in landslide at Solomon Islands gold mine, police say",
+      "description": "Officials have recovered a man's body from a landslide at a gold mine in the Solomon Islands",
+      "url": "https://abcnews.com/International/wireStory/man-killed-landslide-solomon-islands-gold-mine-police-135178544",
+      "published": "Wed, 29 Jul 2026 02:18:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1658,7 +1683,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Death toll from Chongqing landslide in southwestern China climbs to 41"
+      "ticker_label": "🌪️ Man killed in landslide at Solomon Islands gold mine, police say"
     },
     {
       "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
@@ -1971,6 +1996,17 @@
       "is_ticker": false
     },
     {
+      "title": "Myanmar courts sentence activists up to 37 years over election boycott protest",
+      "description": "Courts in Myanmar have sentenced nine activists to up to 37 years in prison for a protest against last December's elections, according to an activist group",
+      "url": "https://abcnews.com/International/wireStory/myanmar-courts-sentence-activists-37-years-election-boycott-135195224",
+      "published": "Wed, 29 Jul 2026 12:59:43 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting",
       "description": "Ukraine says its forces have hit two of Russia’s major oil refineries in their latest long-range strikes",
       "url": "https://abcnews.com/International/wireStory/ukraine-hit-major-russian-oil-refinery-hours-after-135181989",
@@ -1983,17 +2019,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting"
-    },
-    {
-      "title": "Myanmar courts sentence activists up to 37 years over election boycott protest",
-      "description": "Courts in Myanmar have sentenced nine activists to up to 37 years in prison for a protest against last December's elections, according to an activist group",
-      "url": "https://abcnews.com/International/wireStory/myanmar-courts-sentence-activists-37-years-election-boycott-135195224",
-      "published": "Wed, 29 Jul 2026 12:59:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Close call at Atlanta airport forces Delta anti-collision alarms to sound",
@@ -2026,17 +2051,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Guyana police file murder charges against captain and crew mates in deadly ferry capsizing",
-      "description": "Police in Guyana have filed murder charges against the captain and two crew members of a state ferry that capsized, killing over 70 people",
-      "url": "https://abcnews.com/International/wireStory/guyana-police-file-murder-charges-captain-crew-mates-135160886",
-      "published": "Tue, 28 Jul 2026 13:22:14 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2142,13 +2156,13 @@
       "is_ticker": false
     },
     {
-      "title": "China hits back at criticism over excess industrial capacity as more US tariffs loom",
-      "description": "China has rejected criticism that its huge trade surplus reflects excessive manufacturing capacity",
-      "url": "https://abcnews.com/International/wireStory/china-hits-back-criticism-excess-industrial-capacity-us-135147885",
-      "published": "Tue, 28 Jul 2026 08:10:09 -0400",
-      "source": "ABC News International",
+      "title": "Four women accuse Jared Leto of criminal sexual conduct",
+      "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
+      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 29 Jul 2026 17:04:42 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 2,
+      "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2157,17 +2171,6 @@
       "description": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
       "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 29 Jul 2026 17:58:42 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Four women accuse Jared Leto of criminal sexual conduct",
-      "description": "The actor and musician faces allegations from 10 women in total who say he mistreated them as teenagers.",
-      "url": "https://www.bbc.co.uk/news/articles/cd7lg2nz2x2o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 29 Jul 2026 17:04:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2211,11 +2214,11 @@
       "is_ticker": false
     },
     {
-      "title": "Why Wimbledon is serving Indian ice cream and Bollywood beats",
-      "description": "Departing from tradition, Wimbledon shed its restraint to target new audiences in cricket-crazy India.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgdz0420xzo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 28 Jul 2026 22:05:26 GMT",
-      "source": "BBC News",
+      "title": "Hindus take holy dip in India’s rivers on sacred holiday",
+      "description": "Footage shows tens of thousands of Hindu devotees bathing in India’s Ganga and Saryu rivers to mark Guru Purnima.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/hindus-take-holy-dip-in-indias-rivers-on-sacred-holiday?traffic_source=rss",
+      "published": "Wed, 29 Jul 2026 18:49:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2270,17 +2273,6 @@
       "description": "In Mexico, a record surge of brown, smelly seaweed known as sargassum has blanketed the idyllic coastline.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/how-a-seaweed-bloom-is-affecting-tourism-in-mexico?traffic_source=rss",
       "published": "Wed, 29 Jul 2026 14:04:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How are AI models able to autonomously hack others?",
-      "description": "The next phase of AI has begun. Autonomous agents can make decisions and complete tasks with little human input.",
-      "url": "https://www.aljazeera.com/news/2026/7/29/how-are-ai-models-able-to-autonomously-hack-others?traffic_source=rss",
-      "published": "Wed, 29 Jul 2026 13:19:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2520,7 +2512,7 @@
     },
     {
       "title": "Germany news: Temperatures to soar amid new heatwave",
-      "description": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up — triggered by a surrogacy scandal — was formalized in a series of ministerial appointments. DW has more.",
+      "description": "Germany is once again baking under extreme heat. Meanwhile, Chancellor Merz's Cabinet shake-up — triggered by a surrogacy scandal — was formalized in a series of ministerial appointments.",
       "url": "https://www.dw.com/en/germany-news-temperatures-to-soar-amid-new-heatwave/live-78155827?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 29 Jul 2026 14:30:00 GMT",
       "source": "Deutsche Welle",
@@ -2585,10 +2577,10 @@
       "is_ticker": false
     },
     {
-      "title": "New UK leader Burnham vows to fix a 'broken' social care system",
-      "description": "British Prime Minister Andy Burnham pledges to fix the \"broken\" social care system",
-      "url": "https://abcnews.com/International/wireStory/new-uk-leader-burnham-vows-fix-broken-social-135183249",
-      "published": "Wed, 29 Jul 2026 07:29:59 -0400",
+      "title": "Copenhagen’s famed Noma restaurant to reopen without founder Redzepi at helm",
+      "description": "Denmark’s iconic Noma restaurant is reopening on August 5 without its founder, René Redzepi, at the helm",
+      "url": "https://abcnews.com/International/wireStory/copenhagens-famed-noma-restaurant-reopen-founder-redzepi-helm-135195261",
+      "published": "Wed, 29 Jul 2026 12:59:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2596,21 +2588,10 @@
       "is_ticker": false
     },
     {
-      "title": "Iraq's new prime minister visits Turkey for talks on pipeline and security",
-      "description": "Iraq’s new prime minister, Ali al-Zaidi, has arrived in Turkey for talks expected to include a pipeline to reduce Iraq’s exposure to Gulf tensions",
-      "url": "https://abcnews.com/International/wireStory/iraqs-new-prime-minister-visits-turkey-talks-pipeline-135147189",
-      "published": "Tue, 28 Jul 2026 09:03:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "16th century bell foundry adds modern technology to keep casting process alive",
-      "description": "Austria's Grassmayr Bell Foundry has been casting massive bells for churches and cathedrals around the globe for more than 400 years",
-      "url": "https://abcnews.com/International/wireStory/austrias-16th-century-bell-foundry-adds-modern-technology-135179503",
-      "published": "Wed, 29 Jul 2026 07:22:08 -0400",
+      "title": "Dominican Republic's zoo offers home for confiscated animals as seizures soar",
+      "description": "Confiscated illegal and smuggled animals are finding a new life in the Dominican Republic",
+      "url": "https://abcnews.com/International/wireStory/dominican-republics-zoo-offers-home-confiscated-animals-seizures-135193495",
+      "published": "Wed, 29 Jul 2026 12:58:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2622,6 +2603,28 @@
       "description": "Human Rights Watch says Saudi Arabia executed five Ethiopians this week on drug-related charges after a trial that allegedly lacked due process",
       "url": "https://abcnews.com/International/wireStory/saudi-arabia-executes-5-ethiopians-drug-related-charges-135190365",
       "published": "Wed, 29 Jul 2026 11:13:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "New UK leader Burnham vows to fix a 'broken' social care system",
+      "description": "British Prime Minister Andy Burnham pledges to fix the \"broken\" social care system",
+      "url": "https://abcnews.com/International/wireStory/new-uk-leader-burnham-vows-fix-broken-social-135183249",
+      "published": "Wed, 29 Jul 2026 07:29:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "16th century bell foundry adds modern technology to keep casting process alive",
+      "description": "Austria's Grassmayr Bell Foundry has been casting massive bells for churches and cathedrals around the globe for more than 400 years",
+      "url": "https://abcnews.com/International/wireStory/austrias-16th-century-bell-foundry-adds-modern-technology-135179503",
+      "published": "Wed, 29 Jul 2026 07:22:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
