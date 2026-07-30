@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T14:17:43.043982Z",
-  "event_count": 220,
+  "last_updated": "2026-07-30T15:17:24.726989Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
@@ -99,6 +99,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian strikes kill at least 8, wound dozens across Ukraine"
+    },
+    {
+      "title": "France wildfires: Risk remains 'extremely high' despite slight weather improvement",
+      "description": "France's wildfire risk remains \"extremely high\" despite a slight improvement in weather conditions, Interior Minister Laurent Nunez said on Thursday (July 30), citing persistent drought and fast-spreading blazes across the country. Nunez said higher humidity and weaker winds had helped conditions, but authorities still dealt with 26 fires nationwide on Wednesday (July 29) alone, warning that vegetation remained highly combustible.",
+      "url": "https://www.france24.com/en/video/20260730-france-wildfires-risk-remains-extremely-high-despite-slight-weather-improvement",
+      "published": "Thu, 30 Jul 2026 14:18:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ France wildfires: Risk remains 'extremely high' despite slight weather improvement"
     },
     {
       "title": "Deadly French wildfires threaten missile plants, nuclear sites as fourth heatwave looms",
@@ -274,20 +288,6 @@
       "ticker_label": "🪖 Security Council LIVE: Briefing on Ukraine as deadly Russian strikes hit cities and ports"
     },
     {
-      "title": "Australia: Telegram faces legal action over failure to remove terrorist content",
-      "description": "Australia says videos of terrorist executions and mass shootings weren't removed from Telegram after they were reported. The move comes a day after Russia charged founder Pavel Durov with facilitating terrorist activity.",
-      "url": "https://www.dw.com/en/australia-telegram-faces-legal-action-over-failure-to-remove-terrorist-content/a-78167487?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 30 Jul 2026 03:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 30,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Australia: Telegram faces legal action over failure to remove terrorist content"
-    },
-    {
       "title": "Several children killed and wounded in Israeli attacks across Gaza",
       "description": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
@@ -358,20 +358,6 @@
       "ticker_label": "🪖 Security Council LIVE: Updates on Gaza, West Bank amid regional tensions"
     },
     {
-      "title": "Ebola outbreak is worsening food insecurity in eastern Congo, UN agency chief warns",
-      "description": "The Ebola outbreak in eastern Congo is worsening the region's food insecurity, according to the World Food Program's acting Executive Director Carl Skau who described the situation as a “crisis on top of a crisis.”",
-      "url": "https://abcnews.com/International/wireStory/ebola-outbreak-worsening-food-insecurity-eastern-congo-agency-135195522",
-      "published": "Wed, 29 Jul 2026 12:58:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ebola outbreak is worsening food insecurity in eastern Congo, UN agency chief warns"
-    },
-    {
       "title": "Conflict and crisis put six World Heritage sites at risk",
       "description": "Armed conflict, insecurity and environmental pressures are threatening ancient cities, historic castles and one of the world's greatest wildlife migrations.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168031",
@@ -394,15 +380,18 @@
       "is_ticker": false
     },
     {
-      "title": "Militants attack a Pakistani police post and kill 5 officers in a northwestern province",
-      "description": "Militants have attacked a police post in northwestern Pakistan, triggering a gunbattle that killed five police officers and wounded about two dozen others",
-      "url": "https://abcnews.com/International/wireStory/militants-attack-pakistani-police-post-kill-5-officers-135201196",
-      "published": "Wed, 29 Jul 2026 15:38:57 -0400",
+      "title": "Russian strikes across Ukraine kill at least 8 and injure dozens more",
+      "description": "A Russian missile and drone attack across Ukraine has killed at least eight civilians, including children, and wounded over 50 others",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-ukraine-east-west-kill-8-wound-135216647",
+      "published": "Thu, 30 Jul 2026 08:34:03 -0400",
       "source": "ABC News International",
       "type": "rss",
-      "severity_score": 25,
+      "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian strikes across Ukraine kill at least 8 and injure dozens more"
     },
     {
       "title": "Cyberattacks and the digital divide are creating new barriers to HIV services",
@@ -414,6 +403,20 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Warsaw blames Moscow after a missile crashes in Poland",
+      "description": "Polish authorities are investigating an object that came down in eastern Poland overnight and is thought to be a Russian missile, Prime Minister Donald Tusk said on Thursday. The discovery followed reports of an explosion, with investigators finding a crater and debris scattered across a nearby field.",
+      "url": "https://www.france24.com/en/europe/20260730-warsaw-blames-moscow-after-a-missile-crashes-in-poland",
+      "published": "Thu, 30 Jul 2026 14:03:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Warsaw blames Moscow after a missile crashes in Poland"
     },
     {
       "title": "French interior minister says wildfire situation still 'quite complicated'",
@@ -665,20 +668,6 @@
       "ticker_label": "🌪️ Japan mall rebuilt after deadly 2016 earthquake destroyed in major temblor weeks after 'fresh start' reopening"
     },
     {
-      "title": "Spain: Hundreds of migrants attempt to swim toward Ceuta",
-      "description": "Spain's Civil Guard, maritime Rescue Services and the Red Cross said they rescued migrants from the water. The interior minister acknowledged the country was facing an \"extraordinary, exceptional situation.\"",
-      "url": "https://www.dw.com/en/spain-hundreds-of-migrants-attempt-to-swim-toward-ceuta/a-78166847?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 29 Jul 2026 23:15:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Spain: Hundreds of migrants attempt to swim toward Ceuta"
-    },
-    {
       "title": "Tens of thousands of French wildfire evacuees allowed to return home",
       "description": "French authorities gave the go-ahead Thursday for 84,000 evacuees forced out by a monster wildfire to go back to their homes in southwest France, the strongest sign yet that firefighters are turning a corner in their battle against the flames that have burned an area four times the size of Paris. FRANCE 24's Carys Garland reports.",
       "url": "https://www.france24.com/en/video/20260730-tens-of-thousands-of-french-wildfire-evacuees-allowed-to-return-home",
@@ -694,7 +683,7 @@
     },
     {
       "title": "Fifty-three days and counting: 93-year-old leader’s record absence fuels health speculation",
-      "description": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 June A record 53-day absence of the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though discussing his health is illegal in the country . On 7 June, 93-year-old Paul Biya left for Switzerland for what officials described as a “brief private stay” alongside his wife, Chantal. Almost two months later, neither the president nor the first lady have addressed the country or been seen publicly. Continue reading...",
+      "description": "Cameroon’s Paul Biya has not made a statement or been seen since leaving for ‘brief private stay’ at Swiss hotel on 7 June A record 53-day absence by the world’s oldest head of state has renewed speculation in his native Cameroon about whether he is dead or alive, even though discussing his health is illegal in the country . On 7 June, 93-year-old Paul Biya left for Switzerland for what officials described as a “brief private stay” alongside his wife, Chantal. Almost two months later, neither the president nor the first lady have addressed the country or been seen publicly. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/30/record-absence-paul-biya-cameroon-president-health-speculation",
       "published": "Thu, 30 Jul 2026 12:36:02 GMT",
       "source": "The Guardian World",
@@ -760,7 +749,7 @@
       "ticker_label": "🪖 Trump’s warning becomes reality after Iran's failed attack and more top headlines"
     },
     {
-      "title": "Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya",
+      "title": "Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect",
       "description": "Foul play is ruled out in the record number of elephant deaths for decades in this area of southern Kenya.",
       "url": "https://www.bbc.co.uk/news/articles/cp9e0v5xmdyo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 30 Jul 2026 12:14:00 GMT",
@@ -771,7 +760,7 @@
       "is_ticker": true,
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Pesticide-sprayed tomatoes suspected to have killed 15 elephants in Kenya"
+      "ticker_label": "🚑 Cyanide in tomato pesticide killed 15 elephants, Kenyan officials suspect"
     },
     {
       "title": "Salman Rushdie attacker convicted of terror offences",
@@ -797,20 +786,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges",
-      "description": "US court finds attacker, who is already serving a 25-year prison sentence, guilty of additional charges over 2022 assault.",
-      "url": "https://www.aljazeera.com/news/2026/7/30/man-who-stabbed-author-salman-rushdie-convicted-of-terrorism-charges?traffic_source=rss",
-      "published": "Thu, 30 Jul 2026 09:17:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Man who stabbed author Salman Rushdie convicted of ‘terrorism’ charges"
     },
     {
       "title": "UEFA set for emergency meeting on FIFA World Cup proposal",
@@ -913,10 +888,10 @@
       "is_ticker": false
     },
     {
-      "title": "Iran war: US carries out fresh strikes in 'powerful response'",
-      "description": "The US military said the strikes were in response to Iranian strikes on US forces a day earlier. Trump had threatened to hit Iran \"very hard\" in response to its strikes. Follow DW for more.",
-      "url": "https://www.dw.com/en/iran-war-us-carries-out-fresh-strikes-in-powerful-response/live-78166958?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 29 Jul 2026 22:45:00 GMT",
+      "title": "Are Iran and Ukraine wars getting tangled in Caspian Sea?",
+      "description": "Tehran has threatened a response after a Ukrainian strike on a Iranian cargo ship in the Caspian Sea that Kyiv says was carrying weapons to Russia. Still, Ukraine says it wants to avoid escalation with Tehran.",
+      "url": "https://www.dw.com/en/are-iran-and-ukraine-wars-getting-tangled-in-caspian-sea/a-78178784?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 30 Jul 2026 14:49:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 16,
@@ -924,7 +899,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war: US carries out fresh strikes in 'powerful response'"
+      "ticker_label": "🪖 Are Iran and Ukraine wars getting tangled in Caspian Sea?"
     },
     {
       "title": "FIFA hit by furious backlash over plans to sell stake in competitions",
@@ -953,17 +928,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 HIV, hepatitis, STI gains at risk as funding falls, WHO warns"
-    },
-    {
-      "title": "ICE arrests more than 900 suspected human traffickers during FIFA World Cup, rescues 180 victims: DHS",
-      "description": "DHS says more than 900 suspected human traffickers were arrested and 180 victims rescued during the 2026 FIFA World Cup, including 30 children.",
-      "url": "https://www.foxnews.com/us/ice-arrests-900-suspected-human-traffickers-fifa-world-cup-rescues-180-victims-dhs",
-      "published": "Wed, 29 Jul 2026 14:21:24 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "China, Russia, Iran and North Korea form 'axis of aggressors' that could overwhelm US, book warns",
@@ -1036,6 +1000,20 @@
       "ticker_label": "🪖 Hundreds of migrants enter Spain's north African territory Ceuta from Morocco"
     },
     {
+      "title": "France allows 84,000 wildfire evacuees to return home as cooler weather moves in",
+      "description": "French authorities are allowing 84,000 evacuees from a massive wildfire in southwest France to return home",
+      "url": "https://abcnews.com/International/wireStory/cooler-weather-potential-rain-move-french-region-torched-135216747",
+      "published": "Thu, 30 Jul 2026 08:49:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ France allows 84,000 wildfire evacuees to return home as cooler weather moves in"
+    },
+    {
       "title": "Raid on a Pakistani police post leaves 11 officers and 15 attackers dead",
       "description": "Officials say the death toll from a militant attack on a police post in northwestern Pakistan has risen to 11",
       "url": "https://abcnews.com/International/wireStory/deadly-overnight-raid-pakistani-police-post-leaves-11-135216651",
@@ -1048,6 +1026,20 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Raid on a Pakistani police post leaves 11 officers and 15 attackers dead"
+    },
+    {
+      "title": "Record-low Danube River affects tourism and industry as drought, heat grip Europe",
+      "description": "As wildfires and successive heatwaves in France and Spain highlight climate change's impact, a severe drought is causing record low water levels on the Danube River, affecting tourism and industry",
+      "url": "https://abcnews.com/International/wireStory/record-low-danube-river-affects-tourism-industry-drought-135216068",
+      "published": "Thu, 30 Jul 2026 02:17:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Record-low Danube River affects tourism and industry as drought, heat grip Europe"
     },
     {
       "title": "Three children among eight dead in Russian strikes on Ukraine, officials say",
@@ -1097,11 +1089,11 @@
       "is_ticker": false
     },
     {
-      "title": "Violent anti-ICE rioter who targeted police finally faces reckoning in federal court",
-      "description": "A 42-year-old Los Angeles man was sentenced to 37 months in federal prison for targeting law enforcement during violent anti-ICE protests on a highway overpass.",
-      "url": "https://www.foxnews.com/us/violent-anti-ice-rioter-who-targeted-police-finally-faces-reckoning-federal-court",
-      "published": "Wed, 29 Jul 2026 15:57:11 -0400",
-      "source": "Fox News US",
+      "title": "Greek police believe phone of woman found dead in suitcase was used to stall investigation",
+      "description": "Greek police believe the mobile phone of a woman found dead in a suitcase in Athens was used to send messages after her death in a deliberate attempt to mislead those looking for her, according to reports.",
+      "url": "https://news.sky.com/story/greek-police-probe-foul-play-in-death-of-scottish-woman-found-in-suitcase-13568468",
+      "published": "Thu, 30 Jul 2026 14:55:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -1145,20 +1137,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ German lawsuit tests copyright limits for AI music training"
-    },
-    {
-      "title": "PM Tusk says Russian missile appears to have come down in eastern Poland",
-      "description": "An object that came down in eastern Poland overnight appears to be a Russian missile, ​Polish Prime Minister ‌Donald Tusk said on Thursday, after authorities found a crater and scattered debris in ⁠a field following reports of an explosion.",
-      "url": "https://www.france24.com/en/video/20260730-pm-tusk-says-russian-missile-appears-to-have-come-down-in-eastern-poland",
-      "published": "Thu, 30 Jul 2026 12:49:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 PM Tusk says Russian missile appears to have come down in eastern Poland"
     },
     {
       "title": "Christian persecution concerns rise in Egypt as State Department presses religious freedom",
@@ -1206,20 +1184,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Iraq's balancing act is only getting harder as the war between the US and Iran widens",
-      "description": "U.S. and Saudi strikes against Iran-allied factions in Iraq have put the Iraqi government in a delicate position",
-      "url": "https://abcnews.com/International/wireStory/iraqs-balancing-act-harder-war-us-iran-widens-135193297",
-      "published": "Wed, 29 Jul 2026 11:12:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iraq's balancing act is only getting harder as the war between the US and Iran widens"
     },
     {
       "title": "A hijab inspection, a slap, a warning letter: Inside three months of Taliban rule",
@@ -1325,6 +1289,17 @@
       "ticker_label": "💥 Russia charges Telegram founder with facilitating terrorism"
     },
     {
+      "title": "Monsoon rains trigger house collapse in Lahore, killing 9 family members",
+      "description": "Monsoon rains have collapsed the roof of a multistory house in eastern Pakistan, killing at least nine family members and injuring several others",
+      "url": "https://abcnews.com/International/wireStory/monsoon-rains-trigger-house-collapse-lahore-killing-9-135218984",
+      "published": "Thu, 30 Jul 2026 07:48:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "World News in Brief: Rohingya refugees, Bahá’ís in Iran, disarmament in the Central African Republic",
       "description": "Independent UN experts on Wednesday called for urgent action to support Rohingya refugees in Bangladesh after reports indicated two boats carrying more than 500 passengers may have capsized off the coast of Myanmar in mid-July.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168049",
@@ -1350,18 +1325,15 @@
       "ticker_label": "🪖 Iran inmates sew lips shut in mass hunger strike at notorious US-sanctioned jail: report"
     },
     {
-      "title": "Germany news: Deutsche Bahn reportedly returns to profit",
-      "description": "Rail operator Deutsche Bahn has reportedly returned to profit for the first time in years, helped by rising demand. Meanwhile, a court is set to make a ruling on the forwarding of private WhatsApp messages. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-reportedly-returns-to-profit/live-78168639?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 30 Jul 2026 08:11:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Alex Murdaugh murder trial 'egg juror' fights to unseal state investigation into Becky Hill: report",
+      "description": "A report says former juror Myra Crosby filed a FOIA request demanding public access to the Becky Hill jury tampering probe in the Alex Murdaugh case.",
+      "url": "https://www.foxnews.com/us/alex-murdaugh-murder-trial-egg-juror-fights-unseal-state-investigation-becky-hill-report",
+      "published": "Thu, 30 Jul 2026 11:01:55 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany news: Deutsche Bahn reportedly returns to profit"
+      "is_ticker": false
     },
     {
       "title": "World Cup: What has FIFA charged Argentina with, what could punishment be?",
@@ -1419,10 +1391,10 @@
       "is_ticker": false
     },
     {
-      "title": "FIFA opens disciplinary case against Argentina FA over Falklands banner and other incidents",
-      "description": "FIFA has opened disciplinary proceedings against Argentina's football association and its players for several alleged breaches at the World Cup, including the unveiling of a Falklands banner.",
-      "url": "https://news.sky.com/story/fifa-opens-case-against-argentina-fa-over-falklands-banner-and-other-incidents-13568193",
-      "published": "Wed, 29 Jul 2026 17:14:00 +0100",
+      "title": "European nations agree to boycott World Cup if FIFA goes ahead with sell-off plan",
+      "description": "European nations have agreed to boycott the World Cup if Gianni Infantino goes ahead with selling off part of the tournament to private investors, Sky News understands.",
+      "url": "https://news.sky.com/story/european-nations-agree-to-boycott-world-cup-if-fifa-goes-ahead-with-world-cup-sell-off-13568508",
+      "published": "Thu, 30 Jul 2026 16:00:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
@@ -1430,11 +1402,11 @@
       "is_ticker": false
     },
     {
-      "title": "Vietnam’s biggest company, Vingroup, goes global as its home market slows",
-      "description": "Vietnam’s biggest conglomerate, Vingroup, is expanding into global markets as business at home slows",
-      "url": "https://abcnews.com/International/wireStory/vietnams-biggest-company-vingroup-expands-overseas-home-market-135178832",
-      "published": "Wed, 29 Jul 2026 06:58:02 -0400",
-      "source": "ABC News International",
+      "title": "FIFA opens disciplinary case against Argentina FA over Falklands banner and other incidents",
+      "description": "FIFA has opened disciplinary proceedings against Argentina's football association and its players for several alleged breaches at the World Cup, including the unveiling of a Falklands banner.",
+      "url": "https://news.sky.com/story/fifa-opens-case-against-argentina-fa-over-falklands-banner-and-other-incidents-13568193",
+      "published": "Wed, 29 Jul 2026 17:14:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1552,20 +1524,6 @@
       "ticker_label": "🪖 Poland says Russian missile breaches NATO airspace"
     },
     {
-      "title": "Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks",
-      "description": "Russia launches more than 70 missiles and 280 drones in a major attack on Ukraine that kills at least eight people.",
-      "url": "https://www.aljazeera.com/gallery/2026/7/30/photos-zelenskyy-urges-protection-of-life-amid-deadly-russian-attacks?traffic_source=rss",
-      "published": "Thu, 30 Jul 2026 09:10:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Photos: Zelenskyy urges ‘protection of life’ amid deadly Russian attacks"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1578,7 +1536,7 @@
     },
     {
       "title": "Fifteen elephant deaths at Kenya park may be due to cyanide poisoning",
-      "description": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were most likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said. Erustus Kanga, the agency’s director general, told Citizen TV that analysis of samples collected from the carcasses had found traces of cyanide, a chemical compound used in farming as a predator control poison and a pest fumigant, which has also been used by poachers. Continue reading...",
+      "description": "Analysis of samples collected from carcasses found traces of toxic chemical compound, says Kenya Wildlife Service The recent deaths of 15 elephants near a park in southern Kenya in the past month were likely caused by the animals ingesting pesticides used on nearby tomato farms, the Kenya Wildlife Service (KWS) has said. Erustus Kanga, the agency’s director general, told Citizen TV that analysis of samples collected from the carcasses had found traces of cyanide, a chemical compound used in farming as a predator control poison and a pest fumigant, which has also been used by poachers. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/jul/30/elephant-deaths-kenya-park-cyanide-poisoning-wildlife",
       "published": "Thu, 30 Jul 2026 12:46:50 GMT",
       "source": "The Guardian World",
@@ -1625,6 +1583,45 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Germany's heat death toll nears 10,000"
+    },
+    {
+      "title": "Germany news: Deutsche Bahn returns to profit",
+      "description": "Rail operator Deutsche Bahn has returned to profit for the first time in years, helped by rising demand. Meanwhile, a court is set to hear a case about the forwarding of private WhatsApp messages. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-deutsche-bahn-returns-to-profit/live-78168639?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 30 Jul 2026 08:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Germany news: Deutsche Bahn returns to profit"
+    },
+    {
+      "title": "The Mediterranean's warming waters are drawing hundreds of invasive species",
+      "description": "Scientists say climate change is heating the Mediterranean Sea, inviting invasive fish species that harm native populations",
+      "url": "https://abcnews.com/International/wireStory/mediterraneans-warming-waters-drawing-hundreds-invasive-species-135215553",
+      "published": "Thu, 30 Jul 2026 02:26:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 The Mediterranean's warming waters are drawing hundreds of invasive species"
+    },
+    {
+      "title": "Macao’s first national security case raises concerns over fairness a year after arrest",
+      "description": "Since former Macao pro-democracy lawmaker Au Kam San was arrested under a national security law in July 2025, little about his case has been made known",
+      "url": "https://abcnews.com/International/wireStory/macaos-national-security-case-raises-concerns-fairness-year-135212381",
+      "published": "Thu, 30 Jul 2026 08:09:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Cyprus: Guterres calls for renewed trust and a new meeting on the way forward",
@@ -1822,6 +1819,17 @@
       "is_ticker": false
     },
     {
+      "title": "‘Go back to your own country’: NZ foreign minister faces backlash",
+      "description": "New Zealand Foreign Minister Winston Peters told Chinese-born MP to ‘go back to your own country’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/go-back-to-your-own-country-nz-foreign-minister-faces-backlash?traffic_source=rss",
+      "published": "Thu, 30 Jul 2026 13:51:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "From Toronto to Damascus: Syrians return home aiming to rebuild country",
       "description": "Families like the Tasabehjis aim to rebuild Syria, fostering community and hope despite economic and social challenges.",
       "url": "https://www.aljazeera.com/news/2026/7/30/from-toronto-damascus-syria-return-home?traffic_source=rss",
@@ -1913,6 +1921,17 @@
       "is_ticker": false
     },
     {
+      "title": "Police arrest dozens at London rally supporting Palestine Action",
+      "description": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+      "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
+      "published": "Thu, 30 Jul 2026 14:22:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Islamabad residents rally in solidarity with Kashmir protests",
       "description": "A rally has been held in Islamabad in a show of support for protesters in Pakistan-administered Kashmir.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/islamabad-residents-rally-in-solidarity-with-kashmir-protests?traffic_source=rss",
@@ -1949,35 +1968,21 @@
       "ticker_label": "🪖 Russian strikes across Ukraine kill at least 8 civilians and wound dozens"
     },
     {
-      "title": "🔴 Fires in Europe live: France gives green light for 84,000 evacuees to return home",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20260730-live-fontainebleau-fire-contained-but-southern-europe-on-high-alert-as-wildfires-rage",
-      "published": "Thu, 30 Jul 2026 08:18:38 GMT",
-      "source": "France24",
+      "title": "A 150-year-overdue book resurfaces in a library, found bricked in a fireplace",
+      "description": "A public library in Australia has had a book returned an estimated 150 years late",
+      "url": "https://abcnews.com/International/wireStory/150-year-overdue-book-resurfaces-australian-library-found-135218061",
+      "published": "Thu, 30 Jul 2026 07:54:15 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting",
-      "description": "Ukraine says its forces have hit two of Russia’s major oil refineries in their latest long-range strikes",
-      "url": "https://abcnews.com/International/wireStory/ukraine-hit-major-russian-oil-refinery-hours-after-135181989",
-      "published": "Wed, 29 Jul 2026 08:42:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine claims major Russian oil refinery hit, hours after Zelenskyy, Trump meeting"
-    },
-    {
-      "title": "Myanmar courts sentence activists up to 37 years over election boycott protest",
-      "description": "Courts in Myanmar have sentenced nine activists to up to 37 years in prison for a protest against last December's elections, according to an activist group",
-      "url": "https://abcnews.com/International/wireStory/myanmar-courts-sentence-activists-37-years-election-boycott-135195224",
-      "published": "Wed, 29 Jul 2026 12:59:43 -0400",
+      "title": "French authorities give go-ahead for 84,000 fire evacuees to return home",
+      "description": "French authorities give go-ahead for 84,000 fire evacuees to return home",
+      "url": "https://abcnews.com/International/wireStory/french-authorities-give-ahead-84000-fire-evacuees-return-135217444",
+      "published": "Thu, 30 Jul 2026 08:13:00 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -2023,6 +2028,17 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "EU aims to build AI gigafactories of its own",
+      "description": "The EU has unveiled a plan to raise state and private funds to hyperscale AI capabilities and gain independence from non-European governments. The plan calls for the construction of seven new sites across the bloc.",
+      "url": "https://www.dw.com/en/eu-aims-to-build-ai-gigafactories-of-its-own/a-78179533?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 30 Jul 2026 15:15:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2159,17 +2175,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lebanese lawyers file complaint against banker who met with Israel's Netanyahu",
-      "description": "Lebanese lawyers have filed a complaint against local banker Antoun Sehnaoui for meeting Israeli Prime Minister Benjamin Netanyahu this week in Washington",
-      "url": "https://abcnews.com/International/wireStory/lebanese-lawyers-file-complaint-banker-met-israels-netanyahu-135192200",
-      "published": "Wed, 29 Jul 2026 11:12:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Rotten fish sauce that has stunk up a small Canadian town is finally being removed",
       "description": "The townspeople of St. Mary’s can now breathe a sigh of relief",
       "url": "https://abcnews.com/International/wireStory/rotten-fish-sauce-long-stunk-small-canadian-town-135209053",
@@ -2269,6 +2274,17 @@
       "is_ticker": false
     },
     {
+      "title": "El Salvador sentences gang members to 1,000 years in prison",
+      "description": "El Salvador sentences gang members to 1,000 years in prison",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/el-salvador-sentences-gang-members-to-1000-years-in-prison?traffic_source=rss",
+      "published": "Thu, 30 Jul 2026 14:07:49 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Sudan’s RSF vows to return to Khartoum",
       "description": "Sudan’s RSF released a video of leader Mohamed Hamdan Dagalo, known as Hemedti, telling his forces to seize Khartoum.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/sudans-rsf-vows-to-return-to-khartoum?traffic_source=rss",
@@ -2320,17 +2336,6 @@
       "description": "South African universities must resist donors who use financial power to impose political obedience.",
       "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
       "published": "Thu, 30 Jul 2026 09:24:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "South Africa’s le Clos breaks Commonwealth Games medal record",
-      "description": "South Africa took bronze in the men’s 4x100 medley relay swimming event for Chad le Clos's record 21st Games medal.",
-      "url": "https://www.aljazeera.com/sports/2026/7/30/south-africas-le-clos-breaks-commonwealth-games-medal-record?traffic_source=rss",
-      "published": "Thu, 30 Jul 2026 09:12:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2503,6 +2508,17 @@
       "is_ticker": false
     },
     {
+      "title": "Human trafficking in Mexico: the dark side of tourism",
+      "description": "By May, a record-breaking 20 million tourists had visited Mexico so far in 2026. But with increased tourism comes a heightened risk of human trafficking and sexual exploitation. Women and children are most vulnerable.",
+      "url": "https://www.dw.com/en/human-trafficking-in-mexico-the-dark-side-of-tourism/a-78178890?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 30 Jul 2026 15:00:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "BMW to Volkswagen: How deep is Germany's auto industry cull?",
       "description": "BMW joins VW, Porsche and Mercedes-Benz in cutting thousands of jobs, as Chinese rivals erode their market share. DW recaps the major reforms German automakers are pursuing to safeguard their future.",
       "url": "https://www.dw.com/en/bmw-to-volkswagen-how-deep-is-germany-s-auto-industry-cull/a-78168695?maca=en-rss-en-all-1573-xml-mrss",
@@ -2569,10 +2585,21 @@
       "is_ticker": false
     },
     {
-      "title": "New UK leader Burnham vows to fix a 'broken' social care system",
-      "description": "British Prime Minister Andy Burnham pledges to fix the \"broken\" social care system",
-      "url": "https://abcnews.com/International/wireStory/new-uk-leader-burnham-vows-fix-broken-social-135183249",
-      "published": "Wed, 29 Jul 2026 07:29:59 -0400",
+      "title": "Thousands of people break through border separating Morocco from Spain's Ceuta",
+      "description": "Thousands of migrants streamed across from Morocco into the tiny Spanish territory of Ceuta on Thursday",
+      "url": "https://abcnews.com/International/wireStory/ceuta-asks-madrid-declare-national-emergency-thousands-cross-135222179",
+      "published": "Thu, 30 Jul 2026 10:02:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Prague zoo keeps polar bears cool with ice cubes as European summer heatwave hits",
+      "description": "Prague Zoo has provided tons of ice to help animals beat the heat as Europe swelters in a summer heat wave",
+      "url": "https://abcnews.com/International/wireStory/prague-zoo-polar-bears-cool-ice-cubes-european-135221210",
+      "published": "Thu, 30 Jul 2026 08:42:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2591,10 +2618,10 @@
       "is_ticker": false
     },
     {
-      "title": "15 elephants died of cyanide poisoning after eating tomatoes from nearby farms: Kenya",
-      "description": "Fifteen elephants in southern Kenya are suspected to have been poisoned by cyanide-contaminated tomatoes, according to wildlife authorities",
-      "url": "https://abcnews.com/International/wireStory/kenya-15-elephants-died-cyanide-poisoning-after-eating-135206914",
-      "published": "Wed, 29 Jul 2026 18:03:43 -0400",
+      "title": "French authorities say 4 people have died trying to cross the Channel",
+      "description": "French authorities said four people have died while attempting to cross the English Channel from France to Britain in small boats",
+      "url": "https://abcnews.com/International/wireStory/french-authorities-4-people-died-cross-channel-135219338",
+      "published": "Thu, 30 Jul 2026 07:45:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2602,7 +2629,18 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 15 elephants died of cyanide poisoning after eating tomatoes from nearby farms: Kenya"
+      "ticker_label": "💥 French authorities say 4 people have died trying to cross the Channel"
+    },
+    {
+      "title": "Turkish police detain actor-turned-mayor Erdal Besikcioglu in latest raids targeting opposition",
+      "description": "Police have detained a former TV actor-turned-mayor in the latest wave of arrests targeting the opposition",
+      "url": "https://abcnews.com/International/wireStory/turkish-police-detain-actor-turned-mayor-erdal-besikcioglu-135216910",
+      "published": "Thu, 30 Jul 2026 04:10:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Voters in Manchester choose mayor to replace Andy Burnham, who left for Downing St.",
@@ -2616,44 +2654,22 @@
       "is_ticker": false
     },
     {
-      "title": "16th century bell foundry adds modern technology to keep casting process alive",
-      "description": "Austria's Grassmayr Bell Foundry has been casting massive bells for churches and cathedrals around the globe for more than 400 years",
-      "url": "https://abcnews.com/International/wireStory/austrias-16th-century-bell-foundry-adds-modern-technology-135179503",
-      "published": "Wed, 29 Jul 2026 07:22:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Saudi Arabia executes 5 Ethiopians over drug-related charges, rights group says",
-      "description": "Human Rights Watch says Saudi Arabia executed five Ethiopians this week on drug-related charges after a trial that allegedly lacked due process",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-executes-5-ethiopians-drug-related-charges-135190365",
-      "published": "Wed, 29 Jul 2026 11:13:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hundreds of migrants swim from Morocco to the Spanish territory of Ceuta",
-      "description": "Hundreds of migrants are swimming from Morocco to the Spanish territory of Ceuta, overwhelming border security",
-      "url": "https://abcnews.com/International/wireStory/hundreds-migrants-swimming-morocco-spanish-territory-ceuta-135201715",
-      "published": "Wed, 29 Jul 2026 16:04:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "French student pleads guilty and is fined for a straw-licking stunt in Singapore",
       "description": "A French student has been fined in Singapore for licking a straw from a juice vending machine and putting it back in what lawyers described as a social media stunt",
       "url": "https://abcnews.com/International/wireStory/french-student-pleads-guilty-fined-straw-licking-stunt-135215038",
       "published": "Thu, 30 Jul 2026 02:12:51 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bryan Kohberger appointed new lawyer after Idaho murders case costs taxpayers over $8 million",
+      "description": "Bryan Kohberger has been appointed a new taxpayer-funded attorney as he seeks to withdraw his guilty plea in the University of Idaho murders case.",
+      "url": "https://www.foxnews.com/us/bryan-kohberger-appointed-new-lawyer-idaho-murders-case-costs-taxpayers-8-million",
+      "published": "Thu, 30 Jul 2026 10:27:31 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
