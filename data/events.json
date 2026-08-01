@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01T19:59:14.847334Z",
+  "last_updated": "2026-08-01T20:25:10.451881Z",
   "event_count": 220,
   "events": [
     {
@@ -314,7 +314,7 @@
     },
     {
       "title": "At least three killed in explosion near cafe in Russia’s Moscow",
-      "description": "⁠Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
+      "description": "Fifteen also ​injured ‌in the blast in Kudrinskaya Square, authorities say.",
       "url": "https://www.aljazeera.com/news/2026/8/1/russia-says-explosion-near-cafe-in-moscow-kills-three?traffic_source=rss",
       "published": "Sat, 01 Aug 2026 18:22:35 +0000",
       "source": "Al Jazeera",
@@ -567,15 +567,18 @@
       "ticker_label": "🪖 Russian forces strike targets in Ukraine's Odesa, Mykolaiv ports"
     },
     {
-      "title": "Three killed in Moscow restaurant explosion",
-      "description": "The deadly blast took place in a venue near the centre of the city, but the cause is currently unclear.",
+      "title": "Three killed in Moscow restaurant bombing",
+      "description": "The deadly blast took place in a venue near the centre of the city, as a woman carrying explosives tried to enter.",
       "url": "https://www.bbc.co.uk/news/articles/c86n4ljxp63o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 19:34:09 GMT",
+      "published": "Sat, 01 Aug 2026 20:20:44 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Three killed in Moscow restaurant bombing"
     },
     {
       "title": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
@@ -982,17 +985,6 @@
       "ticker_label": "🌪️ France: Major Gironde wildfire contained"
     },
     {
-      "title": "Search resumes for missing climbers after avalanche on Pakistan's Broad Peak",
-      "description": "Officials say rescuers backed by military helicopters have resumed the search for at least six members of a 10-member climbing team who went missing this week after an avalanche struck Pakistan’s Broad Peak, a day after authorities found four bodies an...",
-      "url": "https://abcnews.com/International/wireStory/search-resumes-missing-climbers-after-avalanche-pakistans-broad-135282177",
-      "published": "Sat, 01 Aug 2026 06:33:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
       "description": "Kumamoto government says the death toll from the southwestern Japan quake climbs to 34",
       "url": "https://abcnews.com/International/wireStory/kumamoto-government-death-toll-southwestern-japan-quake-climbs-135249311",
@@ -1005,6 +997,17 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Oil companies are expected to reap big profits because of US-Iran conflict"
+    },
+    {
+      "title": "Search resumes for missing climbers after avalanche on Pakistan's Broad Peak",
+      "description": "Officials say rescuers backed by military helicopters have resumed the search for at least six members of a 10-member climbing team who went missing this week after an avalanche struck Pakistan’s Broad Peak, a day after authorities found four bodies an...",
+      "url": "https://abcnews.com/International/wireStory/search-resumes-missing-climbers-after-avalanche-pakistans-broad-135282177",
+      "published": "Sat, 01 Aug 2026 06:33:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Firefighters battle the last hot spots of a monster wildfire in France's southwest",
@@ -1827,17 +1830,6 @@
       "is_ticker": false
     },
     {
-      "title": "Humanoid robots: Trump's latest China trade battle?",
-      "description": "The US has banned foreign-made humanoid robots, a market Chinese tech firms dominates. Although Washington cited national security risks, analysts think Donald Trump is buying time for US robot makers to catch up.",
-      "url": "https://www.dw.com/en/humanoid-robots-trump-s-latest-china-trade-battle/a-78181288?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 31 Jul 2026 13:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Boxer lands country's first Commonwealth Games medal without winning a fight",
       "description": "A boxer from the tiny Pacific island of Tuvalu has won her country's first Commonwealth Games medal without winning a fight.",
       "url": "https://news.sky.com/story/tarona-taafaki-boxer-lands-tuvalus-first-commonwealth-games-medal-without-winning-a-fight-13569045",
@@ -2386,6 +2378,17 @@
       "url": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
       "published": "Fri, 31 Jul 2026 07:30:26 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "How does eastern Europe commemorate the Roma Holocaust?",
+      "description": "In 2015, the EU designated August 2 as the European Roma Holocaust Memorial Day. In Germany, the day is marked with memorial services, educational activites and public addresses. And in eastern Europe?",
+      "url": "https://www.dw.com/en/how-does-eastern-europe-commemorate-the-roma-holocaust/a-78183503?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 1 Aug 2026 20:08:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
