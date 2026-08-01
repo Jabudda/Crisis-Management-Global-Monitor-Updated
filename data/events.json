@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-01T01:40:21.148500Z",
-  "event_count": 221,
+  "last_updated": "2026-08-01T03:09:54.717489Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Death toll in Japan earthquake rises to 30 as aftershock and heat hamper rescue efforts",
@@ -45,6 +45,20 @@
       "ticker_label": "🌪️ Rescue teams face ‘race against time’ in search for trapped survivors as death toll in Japan rises to at least 13 – as it happened"
     },
     {
+      "title": "Russian missile attack kills three in Ukraine’s Kyiv",
+      "description": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 02:06:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 48,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian missile attack kills three in Ukraine’s Kyiv"
+    },
+    {
       "title": "Ebola outbreak in DRC the fastest growing in the history of the virus",
       "description": "As the death toll rises to almost 1,500, and with a vaccine against the Bundibugyo strain potentially still months away, health workers face a battle to slow the outbreak The latest numbers of confirmed cases of Ebola in the Democratic Republic of the Congo has made this latest outbreak the fastest growing in the known history of the virus. At 3,360 confirmed cases , the disease is now affecting people in five provinces in the east of the DRC, with 1,487 deaths recorded, representing an overall case fatality rate estimated at about 45%, according to Congolese health officials. Health responses to the outbreak have been badly hampered by conflict in many of the affected areas. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/jul/31/ebola-outbreak-in-drc-the-fastest-growing-in-the-history-of-the-virus",
@@ -57,20 +71,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Ebola outbreak in DRC the fastest growing in the history of the virus"
-    },
-    {
-      "title": "Ukraine: Russia hits Kyiv with deadly missile strikes",
-      "description": "Kyiv's mayor Vitali Klitschko said at least three people died and 15 were injured in a ballistic missile attack on the Ukrainian capital. Several people were trapped in a partially collapsed apartment building, he said.",
-      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-deadly-missile-strikes/a-78198568?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 1 Aug 2026 00:53:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 41,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine: Russia hits Kyiv with deadly missile strikes"
     },
     {
       "title": "What to know about the conflict in Mali and the world’s most terrorized region",
@@ -300,6 +300,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Strong El Nino 'adding fuel to a planet already on fire', warns UN chief"
+    },
+    {
+      "title": "Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 3",
+      "description": "A Russian missile and drone attack targeting Kyiv has killed at least three civilians and wounded over a dozen",
+      "url": "https://abcnews.com/International/wireStory/russia-hits-ukrainian-capital-ballistic-missiles-drones-killing-135279886",
+      "published": "Fri, 31 Jul 2026 22:52:49 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia hits Ukrainian capital with ballistic missiles and drones, killing at least 3"
     },
     {
       "title": "HIV prevention drug could reduce cases globally but USAID cuts prevent access, say experts",
@@ -690,6 +704,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine: Russia hits Kyiv with deadly missile strikes",
+      "description": "At least four people died and 15 were injured after Russia struck Ukraine's capital with ballistic missiles, according to officials.",
+      "url": "https://www.dw.com/en/ukraine-russia-hits-kyiv-with-deadly-missile-strikes/a-78198568?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 1 Aug 2026 00:53:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine: Russia hits Kyiv with deadly missile strikes"
+    },
+    {
       "title": "Hamas disarming would be 'first concrete step to re-energise peace plan', but questions remain",
       "description": "Israel will not withdraw from the Gaza Strip until Hamas's \"genuine disarmament\", a political source told AFP on July 31, after the group said it had agreed to a deal involving its disarmament and Israel's exit. But officially, the country has stayed silent regarding the agreement. It was announced by US President Donald Trump and could represent the 'first step forward' since the ceasefire in Gaza, says FRANCE 24's Noga Tarnopolsky.",
       "url": "https://www.france24.com/en/hamas-disarmament-would-be-first-concrete-step-to-re-energise-peace-plan-but-questions-remain",
@@ -709,6 +737,17 @@
       "url": "https://www.france24.com/en/middle-east/20260731-damietta-drone-attack-video-fact-check",
       "published": "Fri, 31 Jul 2026 13:18:29 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Infantino scraps controversial FIFA sell-off plan saying it 'created divisions'",
+      "description": "Gianni Infantino announced to Sky News that FIFA was scrapping plans to sell shares in the World Cup to private investors, in a climbdown following a global backlash that has imperilled his presidency.",
+      "url": "https://news.sky.com/story/created-division-gianni-infantino-abandons-fifa-sell-off-plan-following-global-backlash-13568939",
+      "published": "Sat, 01 Aug 2026 00:01:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -891,20 +930,6 @@
       "ticker_label": "🪖 Military flare-up between Houthis and Saudi Arabia challenges relative calm in Yemen"
     },
     {
-      "title": "'Extremely scary': Scientists are worried about what this week's wildfires mean for the future",
-      "description": "Spain and France's record-breaking wildfires were made more likely due to human-caused climate change, a group of scientists have found.",
-      "url": "https://news.sky.com/story/climate-change-fuelled-france-and-spain-wildfires-experts-say-13568639",
-      "published": "Thu, 30 Jul 2026 23:06:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ 'Extremely scary': Scientists are worried about what this week's wildfires mean for the future"
-    },
-    {
       "title": "Oil companies are expected to reap big profits because of US-Iran conflict",
       "description": "Kumamoto government says the death toll from the southwestern Japan quake climbs to 34",
       "url": "https://abcnews.com/International/wireStory/kumamoto-government-death-toll-southwestern-japan-quake-climbs-135249311",
@@ -933,20 +958,6 @@
       "ticker_label": "🌪️ Firefighters battle the last hot spots of a monster wildfire in France's southwest"
     },
     {
-      "title": "Raid on a Pakistani police post leaves 11 officers and 15 attackers dead",
-      "description": "Officials say the death toll from a militant attack on a police post in northwestern Pakistan has risen to 11",
-      "url": "https://abcnews.com/International/wireStory/deadly-overnight-raid-pakistani-police-post-leaves-11-135216651",
-      "published": "Thu, 30 Jul 2026 04:58:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Raid on a Pakistani police post leaves 11 officers and 15 attackers dead"
-    },
-    {
       "title": "Wildfires: Prevention is the best defence, UN says",
       "description": "The wildfires burning across Europe and North America highlight the urgent need for action now – as climate change, land-use pressures and human activity make severe fires more likely in the future.",
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168054",
@@ -959,6 +970,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Wildfires: Prevention is the best defence, UN says"
+    },
+    {
+      "title": "American climber's remains found after avalanche in Pakistan, other mountaineers still missing",
+      "description": "American climber Sarah Mallory Geis was among at least 10 mountaineers caught in a Broad Peak avalanche as rescue teams search for others.",
+      "url": "https://www.foxnews.com/world/american-climber-remains-found-avalanche-pakistan-mountaineers-missing",
+      "published": "Fri, 31 Jul 2026 21:57:36 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -976,6 +998,17 @@
       "description": "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’ More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over. Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team, accusations of racism among its fans and conspiracy theories alleging that Lionel Messi’s side was secretly being favoured by Fifa. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
       "published": "Tue, 28 Jul 2026 10:21:46 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Petrol prices on track to top $2 a litre as Bowen sounds death knell for fuel excise relief",
+      "description": "Petrol now costs more than $1.90 a litre in every capital city, with diesel expected to exceed $2.40 a litre Get our breaking news email , free app or daily news podcast Petrol prices could surpass $2 a litre and diesel $2.40 in coming days, after the government’s 16-cent discount ends on Sunday. The 32-cent per litre reduction in fuel excise, introduced in March at the peak of the fuel price spike, was halved to 16 cents in July. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/01/petrol-prices-on-track-to-top-2-a-litre-as-bowen-sounds-death-knell-for-fuel-excise-relief",
+      "published": "Sat, 01 Aug 2026 02:22:49 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 14,
@@ -1042,20 +1075,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Children face higher threat of US deportation as legal support deal expires"
-    },
-    {
-      "title": "Poland protests to Russian ambassador over missile incursion",
-      "description": "Warsaw asserts missile recently made, illustrating Russia's nightly barrage against Ukraine is draining arsenal.",
-      "url": "https://www.aljazeera.com/news/2026/7/31/poland-protests-to-russian-ambassador-over-missile-incursion?traffic_source=rss",
-      "published": "Fri, 31 Jul 2026 19:48:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Poland protests to Russian ambassador over missile incursion"
     },
     {
       "title": "Russian strikes across Ukraine kill 10 and a missile falls in Poland",
@@ -1621,20 +1640,6 @@
       "is_ticker": false
     },
     {
-      "title": "Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger",
-      "description": "Morad Tahbaz describes harsh Islamic Revolutionary Guard Corps detention in Evin Prison and warns that the U.S.-Iran war could make Americans still held in Tehran more vulnerable.",
-      "url": "https://www.foxnews.com/world/freed-american-reveals-brutal-iran-prison-ordeal-warns-hostages-face-greater-danger",
-      "published": "Tue, 28 Jul 2026 06:00:22 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Freed American reveals brutal Iran prison ordeal, warns hostages face greater danger"
-    },
-    {
       "title": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
       "description": "Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and suffering Get our breaking news email , free app or daily news podcast An elderly public housing tenant whose home was damaged by sewage overflows will be fully compensated by the New South Wales government after it disposed of her personal belongings without her consent and failed to properly support her insurance claim. The NSW Ombudsman on Friday published its report after an investigation in which it found Homes NSW acted unreasonably in how it handled the tenant’s contaminated belongings and “failed to provide full and accurate information to the insurer”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/01/nsw-should-compensate-elderly-woman-whose-public-housing-was-inundated-with-sewage-ombudsman-finds-ntwnfb",
@@ -1679,17 +1684,6 @@
       "is_ticker": false
     },
     {
-      "title": "Malaysia begins screening 5,000 refugees for their planned return to Myanmar",
-      "description": "Malaysia has started documenting and screening detained Myanmar nationals as part of a repatriation program",
-      "url": "https://abcnews.com/International/wireStory/malaysia-begins-screening-5000-refugees-planned-return-myanmar-135220818",
-      "published": "Thu, 30 Jul 2026 08:10:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "ICE lodges detainer for illegal immigrant accused of trying to disarm Virginia police officer",
       "description": "ICE lodged a detainer against a Honduran national who allegedly ambushed and tried to disarm a Fairfax County police officer in Annandale, Virginia.",
       "url": "https://www.foxnews.com/us/ice-lodges-detainer-illegal-immigrant-accused-trying-disarm-virginia-police-officer",
@@ -1724,6 +1718,20 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "US military says F-35B jet fighter crashes in California, pilot safe",
+      "description": "The jet went down on Friday near the Miramar airbase in San Diego.",
+      "url": "https://www.aljazeera.com/news/2026/8/1/us-military-says-f-35b-jet-fighter-crashes-in-california-pilot-safe?traffic_source=rss",
+      "published": "Sat, 01 Aug 2026 01:55:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ US military says F-35B jet fighter crashes in California, pilot safe"
     },
     {
       "title": "US Senate’s Fauci hearing renews COVID origin debate but reveals little",
@@ -1937,7 +1945,7 @@
     },
     {
       "title": "Adani to pay no company tax despite $1bn revenue from Queensland coalmine",
-      "description": "Indian conglomerate offsets earnings from Carmichael mine to report $340.6m loss, after promising billions in taxes and royalties Get our breaking news email , free app or daily news podcast Indian conglomerate Adani will pay no company tax despite generating almost $1bn in revenue from coal mining in Queensland over the past year. Financial accounts show the Carmichael thermal coal operations used large costs – including production and related party logistics expenses – to offset its $963.5m revenue in the 12 months to 31 March. This resulted in a recorded $340.6m loss for the year, erasing it’s tax bill. Continue reading...",
+      "description": "Indian conglomerate offsets earnings from Carmichael mine to report $340.6m loss, after promising billions in taxes and royalties Get our breaking news email , free app or daily news podcast Indian conglomerate Adani will pay no company tax despite generating almost $1bn in revenue from coal mining in Queensland over the past year. Financial accounts show the Carmichael thermal coal operations used large costs – including production and related party logistics expenses – to offset its $963.5m revenue in the 12 months to 31 March. This resulted in a recorded $340.6m loss for the year, erasing its tax bill. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/aug/01/adani-to-pay-no-company-tax-despite-1bn-revenue-from-queensland-coalmine",
       "published": "Sat, 01 Aug 2026 00:00:37 GMT",
       "source": "The Guardian World",
@@ -2063,10 +2071,10 @@
       "is_ticker": false
     },
     {
-      "title": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
+      "title": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
       "description": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
       "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 31 Jul 2026 10:32:17 GMT",
+      "published": "Sat, 01 Aug 2026 02:21:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2210,17 +2218,6 @@
       "description": "Peru's newly inaugurated president indicates her government will join Trump's Shield of the Americas coalition.",
       "url": "https://www.aljazeera.com/news/2026/7/31/strategic-partner-perus-fujimori-plans-to-intensify-ties-with-the-us?traffic_source=rss",
       "published": "Fri, 31 Jul 2026 19:55:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-      "description": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-      "published": "Fri, 31 Jul 2026 19:18:54 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2374,17 +2371,6 @@
       "is_ticker": false
     },
     {
-      "title": "‘Rob has the bucks cash’: NSW Liberals used Reformers funds to pay for ‘personal expenditure’, Icac hears",
-      "description": "Robert Assaf separately tells anti-corruption inquiry money funnelled through lobbying firm to create ‘maximum benefit from a tax perspective’ Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A group of young conservative Liberal power brokers accused of soliciting illegal donations used some of the funds to pay for a bucks night, one of its members has told a corruption inquiry. The Independent Commission Against Corruption (Icac) on Friday heard again from Robert Assaf, who this week was the first witness from the conservative right Liberal factional group the Reformers to give evidence. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/31/icac-corruption-hearing-robert-assaf-nsw-liberals-reformers-funds-bucks-personal-ntwnfb",
-      "published": "Fri, 31 Jul 2026 07:36:24 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
       "description": "PAGER - YELLOW ShakeMap - VII DYFI? - II Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
@@ -2484,6 +2470,17 @@
       "is_ticker": false
     },
     {
+      "title": "The first solar eclipse in almost 30 years: Where best to view it?",
+      "description": "This month, people across Europe will have the chance to see their first solar eclipse in nearly three decades.",
+      "url": "https://news.sky.com/story/the-first-solar-eclipse-in-almost-30-years-where-best-to-view-it-13568455",
+      "published": "Sat, 01 Aug 2026 00:01:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "'She is buried in nature now': Ransom notes released in hunt for kidnapper of TV star's mother",
       "description": "Police investigating the disappearance of Nancy Guthrie, the mother of TV host Savannah Guthrie, have released early ransom notes in the hunt for her suspected kidnapper.",
       "url": "https://news.sky.com/story/ransom-notes-in-nancy-guthrie-case-released-as-police-hope-writing-style-is-recognised-13568770",
@@ -2534,10 +2531,10 @@
       "is_ticker": false
     },
     {
-      "title": "UK funeral director sentenced to 20 years in prison after bereaved families given wrong ashes",
-      "description": "A British funeral director was sentenced to 20 years in prison after the judge heard emotional testimony about how he gave families the wrong ashes for their cremated loved ones, improperly retained corpses for months and stole charity donations collec...",
-      "url": "https://abcnews.com/International/wireStory/uk-funeral-director-sentenced-20-years-prison-after-135256750",
-      "published": "Fri, 31 Jul 2026 09:36:12 -0400",
+      "title": "A giddy Patti Smith meets fellow Chicago legend, Pope Leo XIV, and says \"Hi\"",
+      "description": "Rock legend Patti Smith has met with Pope Leo XIV",
+      "url": "https://abcnews.com/International/wireStory/giddy-patti-smith-meets-fellow-chicago-legend-pope-135262057",
+      "published": "Fri, 31 Jul 2026 12:43:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2545,10 +2542,10 @@
       "is_ticker": false
     },
     {
-      "title": "A giddy Patti Smith meets fellow Chicago legend, Pope Leo XIV, and says \"Hi\"",
-      "description": "Rock legend Patti Smith has met with Pope Leo XIV",
-      "url": "https://abcnews.com/International/wireStory/giddy-patti-smith-meets-fellow-chicago-legend-pope-135262057",
-      "published": "Fri, 31 Jul 2026 12:43:26 -0400",
+      "title": "UK funeral director sentenced to 20 years in prison after bereaved families given wrong ashes",
+      "description": "A British funeral director was sentenced to 20 years in prison after the judge heard emotional testimony about how he gave families the wrong ashes for their cremated loved ones, improperly retained corpses for months and stole charity donations collec...",
+      "url": "https://abcnews.com/International/wireStory/uk-funeral-director-sentenced-20-years-prison-after-135256750",
+      "published": "Fri, 31 Jul 2026 09:36:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2593,6 +2590,17 @@
       "description": "About 60,000 migrants crossed from Morocco into Spain’s tiny Ceuta territory in the past 24 hours",
       "url": "https://abcnews.com/International/wireStory/18-die-after-breach-border-morocco-spanish-territory-135252200",
       "published": "Fri, 31 Jul 2026 15:39:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bank of England keeps key rate at 3.75% for the fifth time this year",
+      "description": "The Bank of England kept its key interest rate on hold for the fifth time this year after a bigger-than-expected drop in the inflation rate last month gave policymakers breathing space to assess the fallout from renewed fighting in Iran",
+      "url": "https://abcnews.com/International/wireStory/bank-england-key-rate-375-time-year-135219562",
+      "published": "Thu, 30 Jul 2026 08:50:05 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
