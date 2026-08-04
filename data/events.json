@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T03:10:10.399662Z",
-  "event_count": 200,
+  "last_updated": "2026-08-04T04:36:16.817425Z",
+  "event_count": 218,
   "events": [
     {
       "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
@@ -45,32 +45,46 @@
       "ticker_label": "🌪️ Wildfire smoke poses hidden health threat"
     },
     {
-      "title": "Wildfires scorch Washington state as thousands evacuated and emergency declared",
-      "description": "State officials said wildfires across more than 250,000 acres have led to widespread evacuations and power outages.",
-      "url": "https://www.bbc.co.uk/news/videos/cpd7912xyq4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 10:20:10 GMT",
-      "source": "BBC News",
+      "title": "Amid a drought and soaring temperatures, Hungary shuts down its nuclear plant",
+      "description": "Nuclear power is often touted as a solution to global warming. It comes with risks, but creates energy without the same greenhouse gas emissions as coal or gas plants. However, rising temperatures and drought in Europe are creating problems and shutdowns at nuclear power plants. With water levels too low to cool the reactors, Hungary - for example - is shutting down the reactor that's meant to provide energy for half the country.",
+      "url": "https://www.france24.com/en/amid-a-drought-and-soaring-temperatures-hungary-shuts-down-its-nuclear-plant",
+      "published": "Mon, 03 Aug 2026 12:34:47 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 32,
+      "severity_score": 33,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Amid a drought and soaring temperatures, Hungary shuts down its nuclear plant"
+    },
+    {
+      "title": "Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK",
+      "description": "Europe's record-breaking hot and dry summer continues to take its toll on France and Greece, where firefighters fought to contain major blazes, while the UK recorded its driest July in nearly two centuries. Europe is Earth’s fastest-warming continent, heating at more than twice the global average since the 1980s, according to the European Union’s Copernicus climate service.",
+      "url": "https://www.france24.com/en/europe/20260803-europe-s-record-breaking-heat-sparks-wildfires-drought-in-france-greece-and-the-uk",
+      "published": "Mon, 03 Aug 2026 19:50:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfires scorch Washington state as thousands evacuated and emergency declared"
+      "ticker_label": "🌪️ Europe's record-breaking heat sparks wildfires, drought in France, Greece and the UK"
     },
     {
-      "title": "Fastest runner to cross the Alps says it was an incredible experience",
-      "description": "Sophie Woods ran the Via Alpina through storms, heat of up to 37C and dodged floods and wildfires across eight countries.",
-      "url": "https://www.bbc.co.uk/news/videos/crk5j6g8lmko?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 10:59:55 GMT",
-      "source": "BBC News",
+      "title": "US northwest wildfires force 65,000 to flee as hundreds of buildings burn in Spokane",
+      "description": "Firefighters made progress against several blazes Monday after wildfires driven by drought, extreme heat and strong winds tore through Washington state's second-largest city, destroying up to 1,100 structures and prompting what officials called the worst natural disaster in Spokane's history.",
+      "url": "https://www.france24.com/en/americas/20260804-us-northwest-wildfires-force-65-000-to-flee-as-hundreds-of-buildings-burn-in-spokane",
+      "published": "Tue, 04 Aug 2026 00:40:29 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Fastest runner to cross the Alps says it was an incredible experience"
+      "ticker_label": "🌪️ US northwest wildfires force 65,000 to flee as hundreds of buildings burn in Spokane"
     },
     {
       "title": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
@@ -87,15 +101,18 @@
       "ticker_label": "🪖 Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’"
     },
     {
-      "title": "Myanmar's detained former leader Aung San Suu Kyi meets with International Red Cross",
-      "description": "Myanmar’s military government says detained former leader Aung San Suu Kyi has met with the International Committee of the Red Cross’ representative in the capital on Monday in a rare moment of contact with the outside world",
-      "url": "https://abcnews.com/International/wireStory/myanmars-detained-former-leader-aung-san-suu-kyi-135316759",
-      "published": "Mon, 03 Aug 2026 06:10:03 -0400",
-      "source": "ABC News International",
+      "title": "\"The situation is out of control\": Greek firefighters battle wildfire for fourth day",
+      "description": "Greek firefighters are battling a wildfire northwest of Athens for the fourth day, as strong and erratic winds continue to fan the blaze. Fires throughout the country have killed five firefighters since last week.",
+      "url": "https://www.france24.com/en/video/20260803-the-situation-is-out-of-control-greek-firefighters-battle-wildfire-for-fourth-day",
+      "published": "Mon, 03 Aug 2026 15:30:33 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 27,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ \"The situation is out of control\": Greek firefighters battle wildfire for fourth day"
     },
     {
       "title": "Moscow bombing exposes potential security gaps around Putin’s military elite, expert says",
@@ -110,20 +127,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Moscow bombing exposes potential security gaps around Putin’s military elite, expert says"
-    },
-    {
-      "title": "Pakistan: Suicide bomber kills 14 at anti-militancy protest",
-      "description": "A suicide bomber has killed over a dozen people including police in an attack during a demonstration of citizens against militancy. More than 18 people were injured in the attack.",
-      "url": "https://www.dw.com/en/pakistan-suicide-bomber-kills-14-at-anti-militancy-protest/a-78209642?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 2 Aug 2026 19:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Pakistan: Suicide bomber kills 14 at anti-militancy protest"
     },
     {
       "title": "Number of people missing unknown after ferry fire that killed 5, rescuers say",
@@ -271,20 +274,6 @@
       "ticker_label": "🪖 Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn"
     },
     {
-      "title": "Ethiopia landslide kills 14 at monastery ritual, search continues for missing",
-      "description": "A landslide triggered by heavy rainfall in Ethiopia’s Amhara region has killed 14 and injured seven others",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-landslide-kills-14-monastery-ritual-search-continues-135338300",
-      "published": "Mon, 03 Aug 2026 18:57:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Ethiopia landslide kills 14 at monastery ritual, search continues for missing"
-    },
-    {
       "title": "Water-dropping aircraft take off to tackle major Greek wildfire",
       "description": "Water-dropping planes swooped over a major wildfire west of Athens, a day after a midair collision between two firefighting helicopters killed two crew members",
       "url": "https://abcnews.com/International/wireStory/water-dropping-aircraft-off-tackle-major-greek-wildfire-135317228",
@@ -297,6 +286,20 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Water-dropping aircraft take off to tackle major Greek wildfire"
+    },
+    {
+      "title": "Ethiopia landslide kills 14 at monastery ritual, search continues for missing",
+      "description": "A landslide triggered by heavy rainfall in Ethiopia’s Amhara region has killed 14 and injured seven others",
+      "url": "https://abcnews.com/International/wireStory/ethiopia-landslide-kills-14-monastery-ritual-search-continues-135338300",
+      "published": "Mon, 03 Aug 2026 18:57:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Ethiopia landslide kills 14 at monastery ritual, search continues for missing"
     },
     {
       "title": "Tucson grandmother who beat cancer twice killed in alleged attack by felon at apartment",
@@ -355,6 +358,20 @@
       "ticker_label": "🪖 Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office"
     },
     {
+      "title": "Iran 'calls Trump's bluff' as it denies negotiating with the US",
+      "description": "U.S. President Donald Trump said new talks to wind down the war in Iran will start on August 3, after announcing he is holding off on new massive strikes he had threatened to unleash on the country. This is not a one-time occurrence: Trump has regularly announced ongoing talks after threatening agressive strikes on Iran. But this time, Iran seems to not have given into the strategy. FRANCE 24's Kethevane Gorjestani tells us more.",
+      "url": "https://www.france24.com/en/iran-calls-trump-s-bluff-as-it-denies-negotiating-with-the-us",
+      "published": "Mon, 03 Aug 2026 14:44:31 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran 'calls Trump's bluff' as it denies negotiating with the US"
+    },
+    {
       "title": "‘Stop all outdoor activities’: South Korea records its highest ever temperature",
       "description": "Authorities issue alert saying indoor spaces without airconditioning are ‘dangerous’ as temperatures pass 40C for fifth straight day South Korea has registered its highest temperature since records began more than a century ago, as authorities warned people to “immediately” stop all outdoor activities in affected areas. The south-eastern city of Yangsan saw the temperature reach 42.5C on Sunday afternoon, the Korea Meteorological Administration (KMA) said, the highest temperature reported since modern weather observation began in 1904. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/03/south-korea-highest-temperature",
@@ -386,7 +403,7 @@
       "title": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
       "description": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
       "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 18:04:30 GMT",
+      "published": "Tue, 04 Aug 2026 03:37:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 19,
@@ -497,6 +514,48 @@
       "ticker_label": "🌪️ Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures"
     },
     {
+      "title": "Venezuela earthquake death toll crosses 6,000",
+      "description": "The updated death toll comes weeks after the 7.2 and 7.5 magnitude quakes hit on June 24, causing massive damage to people and property.",
+      "url": "https://www.dw.com/en/venezuela-earthquake-death-toll-crosses-6-000/a-78224912?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 4 Aug 2026 04:02:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Venezuela earthquake death toll crosses 6,000"
+    },
+    {
+      "title": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
+      "description": "The US president insisted negotiations were underway despite Tehran's denials, saying Iran had a final opportunity to reach an agreement on the Strait of Hormuz and its nuclear programme before facing what he called 'decapitation.'",
+      "url": "https://www.france24.com/en/video/20260804-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
+      "published": "Tue, 04 Aug 2026 01:18:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump says US-Iran talks continue, warns Tehran faces 'last chance'"
+    },
+    {
+      "title": "Trump says US-Iran talks continue, warns Tehran faces 'last chance'",
+      "description": "The US president insisted negotiations were underway despite Tehran's denials, saying Iran had a final opportunity to reach an agreement on the Strait of Hormuz and its nuclear programme before facing what he called 'decapitation.'",
+      "url": "https://www.france24.com/en/middle-east/20260803-trump-says-us-iran-talks-continue-warns-tehran-faces-last-chance",
+      "published": "Mon, 03 Aug 2026 22:57:33 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump says US-Iran talks continue, warns Tehran faces 'last chance'"
+    },
+    {
       "title": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
       "description": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
@@ -533,20 +592,6 @@
       "is_ticker": false
     },
     {
-      "title": "At the scene of deadly Moscow bomb blast",
-      "description": "Three people have been killed and 21 injured after an explosive device detonated at an Italian restaurant, Russian media reports.",
-      "url": "https://www.bbc.co.uk/news/videos/c1719pk0xq8o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 16:52:35 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 At the scene of deadly Moscow bomb blast"
-    },
-    {
       "title": "Cuba suffers yet another nationwide blackout",
       "description": "Cuba's electricity grid has collapsed again after three nationwide blackouts in July. The power failure comes amid a US-imposed oil blockade on the communist island.",
       "url": "https://www.dw.com/en/cuba-suffers-yet-another-nationwide-blackout/a-78210761?maca=en-rss-en-all-1573-xml-mrss",
@@ -570,20 +615,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ 5.0 magnitude earthquake strikes Egypt"
-    },
-    {
-      "title": "Bomb disposal underway in Le Porge after wildfires unearth WWII shells",
-      "description": "Bomb disposal operations are continuing in Le Porge, France, to enable residents to return to the village.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/aje-onl-nf_wildfire-reveals-wwii-shells-in-le-porge-france-030826?traffic_source=rss",
-      "published": "Mon, 03 Aug 2026 18:55:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Bomb disposal underway in Le Porge after wildfires unearth WWII shells"
     },
     {
       "title": "Ceuta leader accuses Morocco over ‘atrocity’ of mass border crossing",
@@ -622,18 +653,18 @@
       "is_ticker": false
     },
     {
-      "title": "US announces first two deaths from cyclospora outbreak in Michigan",
-      "description": "Authorities in the Midwestern state of Michigan say that two people who died had underlying conditions.",
-      "url": "https://www.aljazeera.com/news/2026/8/3/us-announces-first-two-deaths-from-cyclospora-outbreak?traffic_source=rss",
-      "published": "Mon, 03 Aug 2026 18:35:09 +0000",
-      "source": "Al Jazeera",
+      "title": "France slams hard-right Reform UK party's plan to use navy to stop Channel migrants",
+      "description": "The hard-right Reform UK party on Monday revealed plans for \"the largest military operation\" in the Channel \"since World War II\", which would deploy Britain's Royal Navy to return small migrant boats to France. France was quick to slam the proposal later on Monday, calling it \"a violation of French sovereignty\".",
+      "url": "https://www.france24.com/en/europe/20260803-hard-right-reform-uk-proposes-navy-led-operation-to-stop-small-migrant-boats",
+      "published": "Mon, 03 Aug 2026 13:29:32 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 15,
+      "severity_score": 16,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 US announces first two deaths from cyclospora outbreak in Michigan"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 France slams hard-right Reform UK party's plan to use navy to stop Channel migrants"
     },
     {
       "title": "A blaze on an Indonesian passenger ferry leaves at least 5 dead and dozens missing",
@@ -641,6 +672,17 @@
       "url": "https://www.npr.org/2026/08/03/g-s1-136858/blaze-indonesian-passenger-ferry",
       "published": "Mon, 03 Aug 2026 00:06:11 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "EU calls for 'united action' on border protection after Ceuta mass crossing",
+      "description": "The European Commission President, Ursula Von der Leyen, has reiterated the EU's support to help tackle illegal migration following last week's chaos in the Spanish enclave of Ceuta in North Africa. The crisis has fanned anti-immigrant rhetoric by right wing politicians in Europe and sparked diplomatic tensions between Spain and some EU members, notably Italy. An emergency video conference of EU interior ministers is due to be held on August 3, on Rome's call.",
+      "url": "https://www.france24.com/en/eu-calls-for-united-action-on-border-protection-after-ceuta-mass-crossing",
+      "published": "Mon, 03 Aug 2026 15:18:51 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
@@ -739,6 +781,50 @@
       "ticker_label": "🪖 Israel says it has serious concerns with the White House's Hamas disarmament deal"
     },
     {
+      "title": "Bridge collapse in DR Congo reignites debate about mining revenues",
+      "description": "Several people ended up in the river after an important bridge collapsed on June 3 in the village of Hombo in the eastern part of the DRC. The bridge is one of the failing critical infrastructures in a territory that is home to one of the most lucrative mines in the region.",
+      "url": "https://www.france24.com/en/africa/20260803-bridge-collapse-dr-congo-reignites-debate-mining-revenues",
+      "published": "Mon, 03 Aug 2026 15:51:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Across the EU, immigration being used as a 'political tool' across the political spectrum",
+      "description": "Delano D'Souza is pleased to welcome Dr. Manlio Graziano, Founder and Director of Nicholas Spykman International Center for Geopolitical Analysis. Italy's temporary suspension of the Schengen Agreement with Spain, following the migration episode in Ceuta, is presented less as a meaningful European policy than as a symbolic act driven by domestic politics. Dr Graziano argues that the episode reveals how migration has become an instrument of political positioning rather than policy making. His analysis suggests that Giorgia Meloni's principal audience is not Brussels or Madrid, but Italy's increasingly fragmented right, where competition from parties positioned even further to her right is compelling her to continually reaffirm her hardline credentials.",
+      "url": "https://www.france24.com/en/video/20260803-across-the-eu-immigration-being-used-as-a-political-tool-across-the-political-spectrum-1",
+      "published": "Mon, 03 Aug 2026 15:19:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Myanmar: Ousted leader Suu Kyi makes rare appearance with Red Cross representative",
+      "description": "Former leader Aung San Suu Kyi met with an representative of the International Committee of the Red Cross on August 3rd. The 81-year-old Nobel Peace Prize winner was taken into detention in early 2021, when a military coup ousted her elected civilian government. Since then, her location and condition have been largely unknown to international officials and the public.",
+      "url": "https://www.france24.com/en/video/20260803-myanmar-ousted-leader-suu-kyi-makes-rare-appearance-with-red-cross-representative",
+      "published": "Mon, 03 Aug 2026 14:56:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Myanmar's detained former leader Aung San Suu Kyi meets with International Red Cross",
+      "description": "Myanmar’s military government says detained former leader Aung San Suu Kyi has met with the International Committee of the Red Cross’ representative",
+      "url": "https://abcnews.com/International/wireStory/myanmars-detained-former-leader-aung-san-suu-kyi-135316759",
+      "published": "Mon, 03 Aug 2026 23:29:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Idaho In-N-Out Burger shooting motive still a mystery as armed citizen speaks out",
       "description": "An armed citizen and off-duty trooper returned fire at the Twin Falls In-N-Out Burger gunman, who was reportedly shocked by the armed response.",
       "url": "https://www.foxnews.com/us/idaho-in-n-out-burger-shooting-motive-mystery-armed-citizen-speaks",
@@ -753,68 +839,18 @@
       "ticker_label": "🚨 Idaho In-N-Out Burger shooting motive still a mystery as armed citizen speaks out"
     },
     {
-      "title": "Russian anti-war politician says he has fled the country",
-      "description": "Boris Nadezhdin, who was recently designated as a foreign agent, posted a video in front of the Eiffel Tower.",
-      "url": "https://www.bbc.co.uk/news/articles/c70gjw60033o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 15:41:08 GMT",
-      "source": "BBC News",
+      "title": "News live: expert warns too late to vaccinate little penguins at risk of bird flu; Australian shares surge to five-month high",
+      "description": "Follow today’s news live. Get our breaking news email , free app or daily news podcast Murray Watt , the federal environment minister, was asked earlier about former rugby league star Luke Bateman’s testimony before a parliamentary inquiry on gambling reform. Bateman alleged betting company promoters supplied him with cocaine and alcohol, also alleging he attended private Gold Coast events hosted by gambling firms where senior figures took illegal drugs with clients. We all feel for him and the circumstances that he went through. And for anyone to be offering illegal drugs as an inducement or for any other reason is obviously a crime. Should not be committed and people should pay a price if they’re engaging in that kind of criminal behavior. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
+      "published": "Tue, 04 Aug 2026 04:29:35 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian anti-war politician says he has fled the country"
-    },
-    {
-      "title": "Sudan army drone strike on court session kills 35, rights group says",
-      "description": "The army has not commented on claims that civilians died in the attack on a paramilitary-held village.",
-      "url": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 10:29:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sudan army drone strike on court session kills 35, rights group says"
-    },
-    {
-      "title": "'Your legacy will live forever': Nepal mourns climber Nirmal Purja",
-      "description": "Tributes are pouring out across Nepal after an avalanche killed some of the country's best mountaineers.",
-      "url": "https://www.bbc.co.uk/news/articles/c07rvy4e7mno?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 05:31:55 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Can Netanyahu survive Israel’s most consequential election?",
-      "description": "Israelis head to the polls in October for the country's first election since the war on Gaza began.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-      "published": "Mon, 03 Aug 2026 18:16:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Can Netanyahu survive Israel’s most consequential election?"
-    },
-    {
-      "title": "Man arrested over death of British woman found in suitcase in Athens",
-      "description": "The body of Scottish national Elisabeth-Jane Ross was discovered last month in a suitcase in a derelict building in Athens.",
-      "url": "https://www.dw.com/en/man-arrested-over-death-of-british-woman-found-in-suitcase-in-athens/a-78210183?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 2 Aug 2026 23:50:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
+      "ticker_label": "🪖 News live: expert warns too late to vaccinate little penguins at risk of bird flu; Australian shares surge to five-month high"
     },
     {
       "title": "How Infantino will be framing his battle to remain FIFA president",
@@ -842,6 +878,17 @@
       "is_ticker": false
     },
     {
+      "title": "Singapore bans 2 Massive Attack members after pro-Palestine display at concert",
+      "description": "Singapore has banned the two core members of the British band Massive Attack from reentering the country",
+      "url": "https://abcnews.com/International/wireStory/singapore-bans-2-massive-attack-members-after-pro-135318972",
+      "published": "Mon, 03 Aug 2026 23:32:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
       "description": "Video captured thousands of migrants stampeding through Ceuta as Spain's government denies the enclave president's request for a national emergency.",
       "url": "https://www.foxnews.com/world/white-house-blasts-spanish-government-thousands-migrants-surge-from-morocco-emergency-request-denied",
@@ -856,7 +903,18 @@
       "ticker_label": "💥 White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied"
     },
     {
-      "title": "Iran war live: Tehran denies US talks as Trump warns of ‘last chance’",
+      "title": "Pochettino agrees to coach men’s US Soccer through 2030 World Cup",
+      "description": "Mauricio Pochettino has agreed to extend his tenure as coach of the United States men’s soccer team.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/pochettino-agrees-to-coach-mens-us-soccer-through-2030-world-cup?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 03:32:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’",
       "description": "US president says talks with Iran are under way, warning the negotiations are Tehran's 'last chance' to secure a deal.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
       "published": "Tue, 04 Aug 2026 00:00:00 +0000",
@@ -867,13 +925,13 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Tehran denies US talks as Trump warns of ‘last chance’"
+      "ticker_label": "🪖 Iran war live: Tehran slams US blockade as Trump warns of ‘last chance’"
     },
     {
       "title": "Alan Jones trial live updates: former radio broadcaster in Sydney court for day two of indecent assault case – latest news",
       "description": "Former 2UE and 2GB radio broadcaster is facing 22 charges. Jones, 85, has pleaded not guilty Warning: This live blog may contain graphic content when discussing evidence in the trial Jones allegedly gifted cash and car to teenager he kissed after commenting on sprinter’s penis, trial hears Analysis: Jones argues ‘rivalry’ and ‘treachery’ but after decades wielding the sword of public opinion, he’s the one on trial Complainant J has spoken about a second visit to Alan Jones’s Fitzroy Falls property, where no alleged assault occurred. He told the court that before this visit he had done “whatever I could to not go there on my own”. He said ‘is everything OK [J]?’ While I was being held by the buttocks he reached around and undid my robe and he pulled my underpants down a quarter way down my legs. He started to wiggle his body so our penises would cross and touch each other. My heart was racing. I was as scared and nervous as I had been in a long time. It was that feeling when you go into a room you’ve never been in, like a scary room, my heart felt like it was going to come out of my chest. The defendant placed his hand on my penis and began to squeeze it tight and release it. I was frozen. I thought if I do this, and I just do it myself, it can be over … and would prevent him from doing it or being near me or touching me. I thought it was the quickest way to make it over and done with, and that’s what happened. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/alan-jones-trial-live-updates-day-2-sydney-court-case-latest-news-ntwnfb",
-      "published": "Tue, 04 Aug 2026 02:59:19 GMT",
+      "published": "Tue, 04 Aug 2026 04:25:52 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -898,6 +956,31 @@
       "ticker_label": "🪖 Kmart sells out of low-cost rival to Meta camera glasses across Australia amid warnings of ‘privacy nightmare’"
     },
     {
+      "title": "FAA certifies Boeing 737 MAX 7 after years of delays",
+      "description": "US regulators approved Boeing's smallest 737 MAX jet more than eight years after its maiden flight, clearing the way for deliveries after a certification process prolonged by safety reforms following the model's two fatal crashes.",
+      "url": "https://www.france24.com/en/americas/20260804-faa-certifies-boeing-737-max-7-after-years-of-delays",
+      "published": "Tue, 04 Aug 2026 03:10:43 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ FAA certifies Boeing 737 MAX 7 after years of delays"
+    },
+    {
+      "title": "Cypriot court allows Briton to fly to UK for funeral of son who fell from window",
+      "description": "The lawyer for a British man charged with negligence in the death of his 3-year-old son at a Cyprus hotel says a court has decided to allow his client to join his family for the boy’s funeral back in the United Kingdom",
+      "url": "https://abcnews.com/International/wireStory/cypriot-court-allows-briton-fly-uk-funeral-son-135319715",
+      "published": "Mon, 03 Aug 2026 08:18:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes",
       "description": "The Board of Peace official overseeing Gaza’s postwar transition has met with Israeli Prime Minister Benjamin Netanyahu",
       "url": "https://abcnews.com/International/wireStory/board-peace-envoy-meets-netanyahu-gaza-disarmament-deal-135334943",
@@ -910,17 +993,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Board of Peace envoy meets with Netanyahu on Gaza disarmament deal, urges halt to strikes"
-    },
-    {
-      "title": "Cypriot court allows Briton to fly to UK for funeral of son who fell from window",
-      "description": "The lawyer for a British man charged with negligence in the death of his 3-year-old son at a Cyprus hotel says a court has decided to allow his client to join his family for the boy’s funeral back in the United Kingdom",
-      "url": "https://abcnews.com/International/wireStory/cypriot-court-allows-briton-fly-uk-funeral-son-135319715",
-      "published": "Mon, 03 Aug 2026 08:18:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Montana teen throws lasso to man in Yellowstone River in split-second rescue",
@@ -945,11 +1017,11 @@
       "is_ticker": false
     },
     {
-      "title": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-      "description": "US President Donald Trump said Iran has a \"last chance\" to reach a nuclear agreement.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-      "published": "Mon, 03 Aug 2026 19:45:30 +0000",
-      "source": "Al Jazeera",
+      "title": "Did Iran hack water systems in seven US states?",
+      "description": "While US President Donald Trump has said Iran is not to blame, cyber experts tell the BBC it likely the attack was at the hands of the Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c934dq95zpgo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 02:29:03 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1064,6 +1136,17 @@
       "is_ticker": false
     },
     {
+      "title": "Why India's youth anger has become Modi's biggest challenge",
+      "description": "India has the biggest youth population in the world but few are able to find good jobs despite rising education levels.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gv4dgqv4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:04:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1136,6 +1219,17 @@
       "ticker_label": "🪖 Fact check: Russian disinformation targets German elections"
     },
     {
+      "title": "25 US states sue Trump administration over sweeping new tariffs",
+      "description": "The coalition argues the president exceeded his legal authority by imposing broad tariffs on dozens of trading partners under the guise of combating forced labour, asking a federal court to block the measures and order refunds for importers.",
+      "url": "https://www.france24.com/en/americas/20260804-25-us-states-sue-trump-administration-over-sweeping-new-tariffs",
+      "published": "Tue, 04 Aug 2026 01:31:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Swiss geologist and local miner kidnapped and killed in Central African Republic",
       "description": "A Swiss geologist and a local miner were killed in the Central African Republic, north of Bangui, according to the local public prosecutor's office",
       "url": "https://abcnews.com/International/wireStory/swiss-geologist-local-miner-kidnapped-killed-central-african-135326732",
@@ -1180,6 +1274,28 @@
       "url": "https://www.bbc.co.uk/news/articles/c24mr09r99eo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 03 Aug 2026 08:40:22 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Salvadoran man dies in ICE custody at New Jersey detention centre",
+      "description": "Second Delaney Hall detainee death in eight months prompts calls to close facility, demands for answers.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/salvadoran-man-dies-in-ice-custody-at-new-jersey-detention-centre?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 03:14:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
+      "description": "Benchmark S&P500 approaches all-time peak as Washington, Tehran offer conflicting accounts of status of talks.",
+      "url": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 02:56:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1264,6 +1380,31 @@
       "ticker_label": "🪖 Iran war: Trump tells Iranian leaders to make deal or surrender"
     },
     {
+      "title": "Norway's Haugset wins stage 3 to claim Tour de France Femmes lead",
+      "description": "Norway's Sigrid Haugset won stage three of the Women's Tour de France on Monday, seizing the overall lead and yellow jersey from Dutch rider Lorena Wiebes. Haugset launched a gutsy solo attack less than halfway into the hilly 156.6km route between Geneva and Poligny, and held off Belgium's Lotte Kopecky.",
+      "url": "https://www.france24.com/en/sport/20260803-norway-s-haugset-wins-stage-3-to-claim-tour-de-france-femmes-lead",
+      "published": "Mon, 03 Aug 2026 16:59:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France",
+      "description": "Kremlin critic and anti-war politician Boris Nadezhdin – who openly criticised President Vladimir Putin and Moscow's Ukraine offensive – said Monday he had fled Russia for Paris. Nadezhdin was recently detained outside Moscow and blocked from running for parliament. Russia's clampdown on dissent has left most critics in jail, in exile or dead.",
+      "url": "https://www.france24.com/en/europe/20260803-anti-war-politician-and-kremlin-critic-boris-nadezhdin-flees-russia-for-france",
+      "published": "Mon, 03 Aug 2026 14:47:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Anti-war politician and Kremlin critic Boris Nadezhdin flees Russia for France"
+    },
+    {
       "title": "European countries on brink of energy emergency amid record-low water and heatwaves",
       "description": "Countries across Europe are on the brink of an energy emergency as the River Danube falls to record-low water levels - with Romania carrying out underwater detonations to improve water flow.",
       "url": "https://news.sky.com/story/eastern-and-central-europe-on-brink-of-energy-emergency-amid-record-low-water-and-heatwaves-13569304",
@@ -1273,20 +1414,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "A Putin critic leaves Russia after he is barred him from running for parliament",
-      "description": "Opposition politician Boris Nadezhdin, a critic of the war in Ukraine, has left Russia after crackdown that barred him from running in this year's parliamentary election",
-      "url": "https://abcnews.com/International/wireStory/putin-critic-leaves-russia-after-barred-running-parliament-135327366",
-      "published": "Mon, 03 Aug 2026 10:58:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A Putin critic leaves Russia after he is barred him from running for parliament"
     },
     {
       "title": "Cyberattack hits Liechtenstein's register of people behind companies and foundations",
@@ -1364,17 +1491,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lindsay Clancy jurors visit crime scene in Karen Read-style move to test timeline: Retired judge",
-      "description": "Jurors retraced Patrick Clancy's route to CVS and walked through the Duxbury home where three children were killed during a 40-minute court visit.",
-      "url": "https://www.foxnews.com/us/lindsay-clancy-jurors-visit-crime-scene-karen-read-style-move-test-timeline-retired-judge",
-      "published": "Mon, 03 Aug 2026 06:00:10 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran's war on Americans began decades ago. These families still carry the scars",
       "description": "Robert Bartlett says he died three times after an Iranian-supplied EFP tore through his Humvee in Baghdad, launching a decades-long fight for justice.",
       "url": "https://www.foxnews.com/world/irans-war-americans-began-decades-ago-families-still-carry-scars",
@@ -1410,17 +1526,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "'My only son was shot standing up for justice' - inside city gripped by deadly protests in Pakistan-administered Kashmir",
-      "description": "The BBC gains unique access to Rawalakot, scene of violent clashes between security forces and protesters in Pakistan-administered Kashmir.",
-      "url": "https://www.bbc.co.uk/news/articles/c5yvqk69enko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 03:32:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1461,18 +1566,26 @@
       "is_ticker": false
     },
     {
-      "title": "Australia news live: cabinet shake-up in Victoria; Tabcorp and Sportsbet say ‘no evidence’ they provided drugs and escorts to customers",
-      "description": "Labor says changes to gambling advertising laws are reaching the right balance on community safety. Follow today’s news live. Get our breaking news email , free app or daily news podcast Murray Watt , the federal environment minister, was asked earlier about former rugby league star Luke Bateman’s testimony before a parliamentary inquiry on gambling reform. Bateman alleged betting company promoters supplied him with cocaine and alcohol, also alleging he attended private Gold Coast events hosted by gambling firms where senior figures took illegal drugs with clients. We all feel for him and the circumstances that he went through. And for anyone to be offering illegal drugs as an inducement or for any other reason is obviously a crime. Should not be committed and people should pay a price if they’re engaging in that kind of criminal behavior. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/04/breaking-news-icac-liberal-politics-royal-commission-antisemitism-gambling-ad-inquiry-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-one-nation-ntwnfb",
-      "published": "Tue, 04 Aug 2026 02:48:16 GMT",
-      "source": "The Guardian World",
+      "title": "Cuba: Further blackouts disrupt energy restoration attempts",
+      "description": "Authorities say unfavorable weather in the Caribbean has hampered efforts to restore power to Cuba's national grid amid repeated blackouts. Many Cubans now have power only for a few hours a day.",
+      "url": "https://www.dw.com/en/cuba-further-blackouts-disrupt-energy-restoration-attempts/a-78224862?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 4 Aug 2026 03:23:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Australia news live: cabinet shake-up in Victoria; Tabcorp and Sportsbet say ‘no evidence’ they provided drugs and escorts to customers"
+      "is_ticker": false
+    },
+    {
+      "title": "Former Australian radio host and national rugby coach on trial for sex charges",
+      "description": "Retired Sydney radio broadcaster and former Australian national rugby coach Alan Jones is standing trial on accusations he committed sexual offenses against six men and boys over two decades",
+      "url": "https://abcnews.com/International/wireStory/former-australian-radio-host-national-rugby-coach-alan-135316311",
+      "published": "Mon, 03 Aug 2026 06:01:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Cubans struggle to bounce back after 6th nationwide blackout this year",
@@ -1555,17 +1668,6 @@
       "is_ticker": false
     },
     {
-      "title": "More pregnant women are dying in Congo as they avoid hospitals over Ebola",
-      "description": "Some pregnant women in eastern Congo are avoiding hospitals over fears of a rapidly growing Ebola outbreak, and more of them are dying around childbirth",
-      "url": "https://abcnews.com/International/wireStory/pregnant-women-dying-congo-avoid-hospitals-ebola-135316943",
-      "published": "Mon, 03 Aug 2026 04:10:10 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Renewed patriotism and career opportunities fuel Army's biggest recruiting surge in years",
       "description": "Retention and recruiting goals are being exceeded as young Americans pursue Army careers in engineering, military intelligence and helicopter mechanics.",
       "url": "https://www.foxnews.com/us/renewed-patriotism-career-opportunities-fuel-armys-biggest-recruiting-surge-years",
@@ -1589,6 +1691,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens"
+    },
+    {
+      "title": "US states sue to block Trump tariffs impacting dozens of countries",
+      "description": "The duties were imposed over claims that 60 US trading partners have failed to tackle forced labour.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4kp8jd0ppo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 02:53:00 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Trump administration sued by 25 states over new tariffs on trading partners",
@@ -1657,17 +1770,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 19:42:55 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "EU calls for stronger borders after Ceuta migrant crossings",
       "description": "Ursula von der Leyen has called for action ahead of an urgent EU interior ministers meeting to discuss the issue.",
       "url": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
@@ -1679,10 +1781,21 @@
       "is_ticker": false
     },
     {
-      "title": "Solitude as a new aspirational lifestyle: 'We are not lonely'",
-      "description": "A growing number of so-called \"loneliness influencers\" are spotlighting solo living without children or friends - and it's spurring debate.",
-      "url": "https://www.bbc.co.uk/news/articles/c5y63dw2x3wo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 01 Aug 2026 23:56:19 GMT",
+      "title": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "description": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 19:42:55 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Why is Trump Media selling early access to Trump's Truth Social posts?",
+      "description": "The service reportedly costs up to $100,000 (£74,170) per month and offers access to posts from influential accounts milliseconds before they appear online.",
+      "url": "https://www.bbc.co.uk/news/videos/c74g0q8eey9o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 00:17:48 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -1713,7 +1826,7 @@
     },
     {
       "title": "Sportsbet and Tabcorp deny allegations they sourced drugs and sex workers to encourage VIP clients to bet more",
-      "description": "Betting firms respond to claims made by anti-gambling campaigners Tim Costello and Luke Bateman at parliamentary inquiry Betting giants Sportsbet and Tabcorp say there is no evidence to substantiate allegations that account managers sourced drugs and sex workers to incentivise vulnerable people to bet more, calling for information about the claims to be provided to regulators. Anti-gambling campaigners Tim Costello and Luke Bateman used a parliamentary hearing into Labor’s legislation to curb gambling advertising to allege problem gamblers had been supplied him with cocaine, alcohol and sex workers , alleging companies exercised no duty of care to their customers. Continue reading...",
+      "description": "Betting firms respond to claims made by anti-gambling campaigners Tim Costello and Luke Bateman at parliamentary inquiry Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Betting giants Sportsbet and Tabcorp say there is no evidence to substantiate allegations that account managers sourced drugs and sex workers to incentivise vulnerable people to bet more, calling for information about the claims to be provided to regulators. The anti-gambling campaigners Tim Costello and Luke Bateman used a parliamentary hearing into Labor’s legislation to curb gambling advertising to allege problem gamblers had been supplied with cocaine, alcohol and sex workers , alleging companies exercised no duty of care to their customers. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/04/sportsbet-tabcorp-gambling-parliamentary-inquiry-ntwnfb",
       "published": "Tue, 04 Aug 2026 02:55:00 GMT",
       "source": "The Guardian World",
@@ -1792,6 +1905,39 @@
       "is_ticker": false
     },
     {
+      "title": "Ariana Grande has had enough of body comments, but 'scrutiny' will linger",
+      "description": "The star has taken a \"step back\" from the spotlight after appearances led to \"endless, ongoing public scrutiny\".",
+      "url": "https://www.bbc.co.uk/news/articles/c3ek7g857q4o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:25:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "I left my wife and twins behind - why this Nigerian man fled South Africa",
+      "description": "Nigerian Richard Itoro is one of tens of thousands who have abandoned their lives in South Africa.",
+      "url": "https://www.bbc.co.uk/news/articles/c4gx2y454w5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:14:12 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Watch: Wild police chase in Queensland, Australia ends in two arrests",
+      "description": "A police pursuit in Queensland has ended in two arrests, with authorities taken on a high-speed car chase across Ipswich and Brisbane.",
+      "url": "https://www.bbc.co.uk/news/videos/c5y0d96qgg3o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 02:47:26 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Aung San Suu Kyi appears healthy in first confirmed outside contact for 2.5 years",
       "description": "Photos newly released by Myanmar's military government show Suu Kyi meeting with an ICRC official.",
       "url": "https://www.bbc.co.uk/news/articles/c1e1d5j6660o?at_medium=RSS&at_campaign=rss",
@@ -1803,10 +1949,10 @@
       "is_ticker": false
     },
     {
-      "title": "US and Japan take action to prop up yen in rare joint move",
-      "description": "Both countries have said that they will not hesitate to conduct joint interventions in the future.",
-      "url": "https://www.bbc.co.uk/news/articles/cglj1pr0wjwo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 03 Aug 2026 07:30:52 GMT",
+      "title": "Analysis: Trump fumes as top allies back down on his personal battles",
+      "description": "A president used to bending US politics to his will faces two stinging losses in a matter of days, writes the BBC's Anthony Zurcher.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjed2q2l0xo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 04 Aug 2026 00:02:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1814,10 +1960,10 @@
       "is_ticker": false
     },
     {
-      "title": "'What was my fault?': How India's exam paper leak ended young lives",
-      "description": "Two families reveal the human toll of India's medical entrance examination paper leak.",
-      "url": "https://www.bbc.co.uk/news/articles/crl7jl1d95eo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 23:35:54 GMT",
+      "title": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+      "description": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:13:03 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1825,15 +1971,40 @@
       "is_ticker": false
     },
     {
-      "title": "Ginger hair portraits show unexpected 'golden thread' connecting Americans",
-      "description": "For Kieran Dodds, photographing people with red hair has become something of an obsession over the past decade or more.",
-      "url": "https://www.bbc.co.uk/news/articles/ce97nyz4rvmo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 02 Aug 2026 07:58:51 GMT",
+      "title": "Tokenomics: Why making AI pay is tricky",
+      "description": "Buyers of AI services are struggling to control costs and sellers are not sure how much to charge.",
+      "url": "https://www.bbc.co.uk/news/articles/c872r52x7jgo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:21:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "There's a reason child vaccination rates are falling - and it's not social media",
+      "description": "As child immunisation rates fall across the UK, one clinic in west Yorkshire is taking aggressive steps to boost immunisations",
+      "url": "https://www.bbc.co.uk/news/articles/c0qvlw2dd0no?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 03 Aug 2026 23:10:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Colombia’s Petro repeats vote fraud claims days before handing over power",
+      "description": "Petro accuses programmers of altering vote counts and claims metadata tied to election results was hidden from review.",
+      "url": "https://www.aljazeera.com/news/2026/8/4/colombias-petro-repeats-vote-fraud-claims-days-before-handing-over-power?traffic_source=rss",
+      "published": "Tue, 04 Aug 2026 03:58:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Colombia’s Petro repeats vote fraud claims days before handing over power"
     },
     {
       "title": "Ibrahim Traore: Why Burkina Faso’s popular leader faces a reality test",
@@ -2048,28 +2219,6 @@
       "ticker_label": "💥 Yen hits three-month high after Trump helps prop up currency"
     },
     {
-      "title": "M 5.8 - 191 km NW of Oula Xiuma, China",
-      "description": "PAGER - YELLOW ShakeMap - VII DYFI? - II Time 2026-07-28 03:34:05 UTC 2026-07-28 03:34:05 UTC at epicenter Location 35.387°N 99.551°E Depth 10.00 km (6.21 mi)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga9",
-      "published": "2026-07-29T03:42:43.213Z",
-      "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "M 5.7 - 192 km NW of Oula Xiuma, China",
-      "description": "PAGER - YELLOW ShakeMap - VII DYFI? - II Time 2026-07-28 03:16:08 UTC 2026-07-28 03:16:08 UTC at epicenter Location 35.369°N 99.520°E Depth 10.00 km (6.21 mi)",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tga6",
-      "published": "2026-07-29T03:24:38.808Z",
-      "source": "USGS Earthquakes",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Rare photos of ex-Myanmar leader Aung San Suu Kyi give her family hope",
       "description": "Kim Aris, son of Aung San Suu Kyi, told NPR that photographs of his mother meeting a foreign official gave him \"a reason to hope\" for the first time since the military coup that ousted her in 2021.",
       "url": "https://www.npr.org/2026/08/03/nx-s1-5917915/aung-san-suu-kyi-myanmar-rare-photos-kim-aris",
@@ -2147,15 +2296,51 @@
       "is_ticker": false
     },
     {
-      "title": "Thousands attend wake for 'trailblazer' Oscar-winning actor and singer",
-      "description": "Thousands of people filled the streets in Dublin to pay tribute to singer and actor Glen Hansard.",
-      "url": "https://news.sky.com/story/thousands-attend-wake-for-trailblazer-oscar-winning-actor-and-singer-glen-hansard-13569470",
-      "published": "Mon, 03 Aug 2026 17:02:00 +0100",
-      "source": "Sky News World",
+      "title": "Hundreds flee Tigray after fighting flares near border",
+      "description": "In tonight's edition, hundreds of people run from the most serious fighting to break out in Tigray since 2022. Also, Nigeria's still probing links that Mexican drug cartels may have to Africa's top economy. And Cape Verde’s veteran goalkeeper ⁠Vozinha arrived in Chile ​to join first division club Colo-Colo.",
+      "url": "https://www.france24.com/en/hundreds-flee-tigray-after-fighting-flares-near-border",
+      "published": "Mon, 03 Aug 2026 20:15:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "France: Water sports enthusiasts 'fly' above the River Seine",
+      "description": "Parisians are defying gravity on the Seine thanks to the e-foil, an electric board equipped with a propeller. The board emerges from the water as soon as it gains speed, creating the feeling of flying just above the surface.",
+      "url": "https://www.france24.com/en/video/20260803-france-water-sports-enthusiasts-fly-above-the-river-seine",
+      "published": "Mon, 03 Aug 2026 16:27:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ceuta migrant influx reignites immigration divisions in Europe",
+      "description": "The arrival of 60,000 people into the Spanish North African enclave of Ceuta from Morocco last week has created serious tensions within the EU over immigration. Spain has called for a meeting of EU interior ministers which is due to take place Tuesday.",
+      "url": "https://www.france24.com/en/europe/20260803-ceuta-migrant-influx-reignites-immigration-divisions-in-europe",
+      "published": "Mon, 03 Aug 2026 15:57:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "After Donald Trump's latest U-turn, uncertainty remains over talks with Iran",
+      "description": "Between the U-turns, the posturing, the denials and the flexing of military might, it's hard to know exactly where negotiations between the US and Iran are actually at - if they have gone anywhere. While US President Donald Trump says negotiations are underway, Tehran has denied that any are planned but that it is in talks with Oman.",
+      "url": "https://www.france24.com/en/after-donald-trump-s-latest-u-turn-uncertainty-remains-over-talks-with-iran",
+      "published": "Mon, 03 Aug 2026 13:19:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 After Donald Trump's latest U-turn, uncertainty remains over talks with Iran"
     },
     {
       "title": "Trump sells his social posts to the highest bidder - with huge stock market consequences",
@@ -2183,11 +2368,33 @@
       "ticker_label": "💥 UFC star dies aged 34"
     },
     {
+      "title": "Thousands attend wake for 'trailblazer' Oscar-winning actor and singer",
+      "description": "Thousands of people filled the streets in Dublin to pay tribute to singer and actor Glen Hansard.",
+      "url": "https://news.sky.com/story/thousands-attend-wake-for-trailblazer-oscar-winning-actor-and-singer-glen-hansard-13569470",
+      "published": "Mon, 03 Aug 2026 17:02:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Son of Myanmar's detained former leader Aung San Suu Kyi gives update",
       "description": "Myanmar's detained former leader Aung San Suu Kyi met a Red Cross official - marking the first positive development in years, her son says.",
       "url": "https://news.sky.com/story/son-of-myanmars-detained-former-leader-aung-san-suu-kyigives-update-13569395",
       "published": "Mon, 03 Aug 2026 12:10:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Red Cross meets with Myanmar’s detained former leader Aung San Suu Kyi, government says",
+      "description": "Red Cross meets with Myanmar’s detained former leader Aung San Suu Kyi, government says",
+      "url": "https://abcnews.com/International/wireStory/red-cross-meets-myanmars-detained-former-leader-aung-135316758",
+      "published": "Mon, 03 Aug 2026 07:37:14 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2216,10 +2423,10 @@
       "is_ticker": false
     },
     {
-      "title": "Court fight begins over South Africa’s land law that irks the Trump administration",
-      "description": "A court case has opened challenging South Africa’s new law that allows the government to seize private land",
-      "url": "https://abcnews.com/International/wireStory/court-fight-begins-south-africas-land-law-irks-135327121",
-      "published": "Mon, 03 Aug 2026 10:58:10 -0400",
+      "title": "US dollar weakens sharply against the Japanese yen after market interventions",
+      "description": "The U.S. dollar has weakened sharply against the Japanese yen after U.S. President Donald Trump and Japan's finance minister confirmed both sides had intervened in markets",
+      "url": "https://abcnews.com/International/wireStory/us-dollar-weakens-sharply-japanese-yen-after-market-135315462",
+      "published": "Mon, 03 Aug 2026 23:26:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2231,17 +2438,6 @@
       "description": "Residents of Japan’s quake-hit southwestern prefecture of Kumamoto are working to clear their homes in intense heat, as Prime Minister Sanae Takaichi briefly visited Kumamoto Prefecture on Monday for the first time since a magnitude 7.1 quake hit Japan...",
       "url": "https://abcnews.com/International/wireStory/prime-minister-visits-quake-hit-southern-japan-cleanup-135318132",
       "published": "Mon, 03 Aug 2026 07:22:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Red Cross meets with Myanmar’s detained former leader Aung San Suu Kyi, government says",
-      "description": "Red Cross meets with Myanmar’s detained former leader Aung San Suu Kyi, government says",
-      "url": "https://abcnews.com/International/wireStory/red-cross-meets-myanmars-detained-former-leader-aung-135316758",
-      "published": "Mon, 03 Aug 2026 07:37:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2265,6 +2461,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/07/1168057",
       "published": "Thu, 30 Jul 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Lindsay Clancy defense scores ‘extremely helpful’ psychosis concession as expert flags next hurdle",
+      "description": "A hospital psychiatrist agreed that Lindsay Clancy could plan and communicate while psychotic, a key concession in the Duxbury murder trial.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-defense-scores-extremely-helpful-psychosis-concession-expert-flags-next-hurdle",
+      "published": "Tue, 04 Aug 2026 00:00:23 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
