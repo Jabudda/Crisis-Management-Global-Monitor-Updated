@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T16:11:13.791853Z",
+  "last_updated": "2026-08-05T17:03:11.976994Z",
   "event_count": 220,
   "events": [
     {
@@ -31,7 +31,7 @@
       "ticker_label": "💥 Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured"
     },
     {
-      "title": "Security Council LIVE: Briefing on continuing ISIL terror threat",
+      "title": "Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat",
       "description": "The Security Council is meeting on Wednesday to examine the persistent threat posed by the terrorist group ISIL, also known as Dae’sh, to international peace and security. At a conference in June, the acting head of the UN counter-terrorism office stated that Al Qaeda, Da’esh, and their affiliates “remain adaptive and resilient”. Moreover, they are using artificial intelligence and other emerging technologies to expand their reach, recruit and mobilise resources. Follow live updates below.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168080",
       "published": "Wed, 05 Aug 2026 12:00:00 +0000",
@@ -42,7 +42,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Security Council LIVE: Briefing on continuing ISIL terror threat"
+      "ticker_label": "💥 Security Council LIVE: Ambassadors briefed on continuing ISIL terror threat"
     },
     {
       "title": "Israel resumes military strikes on southern Lebanon as Rome hosts peace talks",
@@ -197,6 +197,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Moscow bombing exposes potential security gaps around Putin’s military elite, expert says"
+    },
+    {
+      "title": "Funeral honors Ukrainian student killed as she helped the victims of a Russian strike",
+      "description": "Hundreds of mourners dressed in white gathered in central Kyiv to honor 20-year-old Vitalina Yarovenko, a psychology student and volunteer medic killed by a Russian strike while helping people wounded in an attack",
+      "url": "https://abcnews.com/International/wireStory/funeral-honors-ukrainian-student-killed-helped-victims-russian-135362922",
+      "published": "Tue, 04 Aug 2026 15:52:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Funeral honors Ukrainian student killed as she helped the victims of a Russian strike"
     },
     {
       "title": "‘A playground, a beach, a home’: UNICEF demands end to child deaths in Russia-Ukraine war",
@@ -383,6 +397,17 @@
       "is_ticker": false
     },
     {
+      "title": "Afghanistan's child deaths are rising as food distributions face cuts, UN says",
+      "description": "Child malnutrition has reached critical levels in a third of Afghanistan’s provinces, according to the U.N. World Food Program",
+      "url": "https://abcnews.com/International/wireStory/afghanistans-child-deaths-rising-food-distributions-face-cuts-135360045",
+      "published": "Wed, 05 Aug 2026 05:37:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
       "description": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
@@ -473,20 +498,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Hiroshima survivors warn against Japan's rearmament"
-    },
-    {
-      "title": "Sri Lanka closes some schools as heavy rains trigger floods and mudslides, killing 5",
-      "description": "Sri Lanka has closed schools in its tea-growing mountainous regions as heavy rains triggered floods and mudslides that left five people dead and three wounded, officials say",
-      "url": "https://abcnews.com/International/wireStory/sri-lanka-closes-schools-heavy-rains-trigger-floods-135344960",
-      "published": "Tue, 04 Aug 2026 08:46:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Sri Lanka closes some schools as heavy rains trigger floods and mudslides, killing 5"
     },
     {
       "title": "Africans bear the brunt of biodiversity loss",
@@ -638,6 +649,20 @@
       "is_ticker": false
     },
     {
+      "title": "Russia kills 17 in ballistic missile attacks around Kyiv",
+      "description": "At least 17 people were killed after Russia launched an overnight ballistic missile and drone attack on Kyiv.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/5-8-sv-russia-attacks-kyiv-ua?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 16:42:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia kills 17 in ballistic missile attacks around Kyiv"
+    },
+    {
       "title": "South Korea: Police raid Starbucks HQ over 'Tank Day' fiasco",
       "description": "Starbucks Korea faced major backlash after being accused of trivializing a 1980 massacre. Police say their internal investigation was not thorough enough.",
       "url": "https://www.dw.com/en/south-korea-police-raid-starbucks-hq-over-tank-day-fiasco/a-78241294?maca=en-rss-en-all-1573-xml-mrss",
@@ -682,6 +707,17 @@
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Kenya unveils carbon market rule book and caps the overseas sale of carbon credits",
+      "description": "Kenya has introduced a 10 million metric ton cap on carbon credits authorized for international trade up to 2030 under new operational rules for Article 6 of the Paris Agreement",
+      "url": "https://abcnews.com/International/wireStory/kenya-unveils-carbon-market-rule-book-caps-overseas-135362523",
+      "published": "Tue, 04 Aug 2026 13:45:59 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -752,28 +788,6 @@
       "ticker_label": "🪖 In Bandar Abbas, the ceasefire never came"
     },
     {
-      "title": "Protesters stage sit-in against settler violence-linked Smotrich funds",
-      "description": "Palestinian and Israeli protesters staged a sit-in at the Religious Zionist Party’s headquarters in Shoham on Wednesday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/protesters-stage-sit-in-against-settler-violence-linked-smotrich-funds?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 12:03:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Turkish cargo ship catches fire after Black Sea drone attack",
-      "description": "A Turkish cargo ship caught fire after a drone attack near Russia’s Black Sea port of Novorossiysk.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-drone-attacks-turkish-ship-sv?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 11:49:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Peruvian cardinal hails $150m lead poisoning settlement for 1,300 people as a ‘historic milestone’",
       "description": "Cardinal Pedro Barreto received death threats and harassment during his almost 20-year campaign against a US mining company’s operations in the Andes A Peruvian cardinal who received a barrage of death threats when he challenged the firm behind a toxic smelter has called a $150m (£111m) out-of-court settlement to more than 1,000 people who were allegedly poisoned by the plant as children “a historic milestone”. Cardinal Pedro Barreto, 82, was in Rome meeting Pope Leo XIV and other cardinals in June when he received news that the firm that ran the smelter, the Doe Run Company, a subsidiary of Renco Group, would pay $150m to 1,373 Peruvians who have suffered health impacts since childhood. Continue reading...",
       "url": "https://www.theguardian.com/global-development/2026/aug/05/peruvian-cardinal-historic-milestone-150m-lead-poisoning-settlement-1300-children",
@@ -797,17 +811,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Netanyahu pushes back against Gaza deal, saying will not withdraw from enclave"
-    },
-    {
-      "title": "French and British teams rescue 157 migrants after a boat engine fire in the Channel",
-      "description": "French and British teams have rescued 157 migrants trying to cross the Channel after their boat's engine caught fire",
-      "url": "https://abcnews.com/International/wireStory/french-british-teams-rescue-157-migrants-after-boat-135348952",
-      "published": "Tue, 04 Aug 2026 09:30:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Illegal immigrant suspect charged in crash that killed police officer and his girlfriend",
@@ -907,17 +910,6 @@
       "is_ticker": false
     },
     {
-      "title": "Firefighters scramble to contain Greek fires before winds and high temp return",
-      "description": "Firefighters are racing to exploit a break in high winds, working to strengthen containment lines on fires west of the Greek capital",
-      "url": "https://abcnews.com/International/wireStory/firefighters-scramble-fires-athens-winds-high-temperatures-return-135347904",
-      "published": "Wed, 05 Aug 2026 02:41:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "DR Congo: New centre opens at heart of record Ebola outbreak",
       "description": "New UN-partnered centres will serve eastern Democratic Republic of the Congo (DRC) as confirmed Ebola cases continued to climb sharply over the weekend in the largest-ever outbreak of the highly contagious disease in the country.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168064",
@@ -1009,17 +1001,6 @@
       "url": "https://www.dw.com/en/nepal-province-legalizes-use-of-medical-marijuana/a-78245266?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 5 Aug 2026 11:58:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "France: Royal Chapel opens for two months at Versailles Palace",
-      "description": "Following years of restoration, the royal chapel at the Palace of Versailles has opened its doors to the public for more than just private visits for the first time until September 27th. Across its various annexes is also a world of classical art to discover, until the end of the month. FRANCE 24's Luke Shrago, Lilou Bernoville and Louis-Malo Rendu went to find out more.",
-      "url": "https://www.france24.com/en/france-royal-chapel-opens-for-two-months-at-versailles-palace",
-      "published": "Wed, 05 Aug 2026 09:58:02 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1257,6 +1238,17 @@
       "ticker_label": "💥 Funeral held for 112 victims buried under rubble of Gaza flats for nearly three years"
     },
     {
+      "title": "Ousted Bangladeshi leader Sheikh Hasina to return from exile in December",
+      "description": "Former Bangladeshi Prime Minister Sheikh Hasina says she plans to return from exile in India in December despite facing a death sentence in Bangladesh",
+      "url": "https://abcnews.com/International/wireStory/ousted-bangladeshi-leader-sheikh-hasina-return-exile-december-135389877",
+      "published": "Wed, 05 Aug 2026 11:23:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Taiwan kicks off annual military drills to counter a potential Chinese attack",
       "description": "Taiwan has kicked off annual military exercises aimed at simulating a response to a potential Chinese invasion of the self-governed island Beijing claims as its own",
       "url": "https://abcnews.com/International/wireStory/taiwan-kicks-off-annual-military-drills-counter-potential-135378473",
@@ -1269,28 +1261,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Taiwan kicks off annual military drills to counter a potential Chinese attack"
-    },
-    {
-      "title": "Zimbabwe mourns mother and 2 daughters killed in the UK as father faces charges",
-      "description": "Relatives and friends have gathered in Zimbabwe for the funeral of a mother and her two young daughters who were found dead in their home in Britain",
-      "url": "https://abcnews.com/International/wireStory/zimbabwe-mourns-mother-2-daughters-killed-uk-father-135355607",
-      "published": "Tue, 04 Aug 2026 10:18:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ousted Bangladeshi leader Sheikh Hasina to return from exile in December",
-      "description": "Former Bangladeshi Prime Minister Sheikh Hasina says she plans to return from exile in India in December despite facing a death sentence in Bangladesh",
-      "url": "https://abcnews.com/International/wireStory/ousted-bangladeshi-leader-sheikh-hasina-return-exile-december-135389877",
-      "published": "Wed, 05 Aug 2026 11:23:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Afghanistan hunger crisis intensifies as millions left without food aid",
@@ -1553,20 +1523,6 @@
       "is_ticker": false
     },
     {
-      "title": "Guatemala evacuates villages due to an eruption of the Fuego volcano",
-      "description": "Guatemala remained on alert after evacuating villages during an eruption of the Fuego volcano, one of Central America’s most active volcanoes",
-      "url": "https://abcnews.com/International/wireStory/guatemala-evacuates-villages-due-eruption-fuego-volcano-135346149",
-      "published": "Wed, 05 Aug 2026 02:17:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Guatemala evacuates villages due to an eruption of the Fuego volcano"
-    },
-    {
       "title": "Takeaways from crucial primary elections across the country and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/takeaways-from-crucial-primary-elections-across-country-more-top-headlines",
@@ -1653,20 +1609,6 @@
       "ticker_label": "🪖 The soaring demand for Patriot missiles, from the Middle East to Ukraine"
     },
     {
-      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-      "description": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
-      "url": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "published": "Mon, 03 Aug 2026 07:57:06 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran"
-    },
-    {
       "title": "India's Gen Z protest enters a new online battle",
       "description": "The streets are quiet, but a fight over the legacy of the Cockroach Janta Party movement is intensifying across Instagram, memes and social media.",
       "url": "https://www.dw.com/en/india-s-gen-z-protest-enters-a-new-online-battle/a-78253169?maca=en-rss-en-all-1573-xml-mrss",
@@ -1689,10 +1631,10 @@
       "is_ticker": false
     },
     {
-      "title": "Swimmer le Clos says his home was destroyed in a fire while he was at the Commonwealth Games",
-      "description": "Olympic champion swimmer Chad le Clos says his home in South Africa was destroyed in a fire while he was at the Commonwealth Games in Scotland",
-      "url": "https://abcnews.com/International/wireStory/swimmer-le-clos-home-destroyed-fire-commonwealth-games-135378177",
-      "published": "Wed, 05 Aug 2026 06:47:42 -0400",
+      "title": "Spain and Ecuador target cocaine smuggling ring and make 44 arrests",
+      "description": "Spanish police say a multiyear investigation with Ecuadorian authorities has led to 44 arrests and the confiscation of 21 tons of cocaine",
+      "url": "https://abcnews.com/International/wireStory/spain-ecuador-target-cocaine-smuggling-ring-make-44-135382438",
+      "published": "Wed, 05 Aug 2026 08:56:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1700,10 +1642,10 @@
       "is_ticker": false
     },
     {
-      "title": "How India’s Gen Z movement of 'Cockroaches' dented Modi's political image",
-      "description": "Young protesters in India achieved a rare political victory by forcing the resignation of the education minister",
-      "url": "https://abcnews.com/International/wireStory/indias-gen-movement-cockroaches-dented-modis-political-image-135344771",
-      "published": "Tue, 04 Aug 2026 05:22:09 -0400",
+      "title": "Swimmer le Clos says his home was destroyed in a fire while he was at the Commonwealth Games",
+      "description": "Olympic champion swimmer Chad le Clos says his home in South Africa was destroyed in a fire while he was at the Commonwealth Games in Scotland",
+      "url": "https://abcnews.com/International/wireStory/swimmer-le-clos-home-destroyed-fire-commonwealth-games-135378177",
+      "published": "Wed, 05 Aug 2026 06:47:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1984,7 +1926,7 @@
       "title": "Left-wing political outsider wins Democratic Senate primary in Michigan",
       "description": "Abdul El-Sayed, the son of Egyptian immigrants, would be the first Muslim US senator if elected in November.",
       "url": "https://www.bbc.co.uk/news/articles/ckgdkpz07kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 05 Aug 2026 15:05:30 GMT",
+      "published": "Wed, 05 Aug 2026 16:20:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2069,6 +2011,39 @@
       "is_ticker": false
     },
     {
+      "title": "Pope Leo XIV to visit Peru, Argentina and Uruguay in November",
+      "description": "The pontiff’s first Latin America trip will take him back to Peru, where he spent decades as a missionary and bishop.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/pope-leo-xiv-to-visit-peru-argentina-and-uruguay-in-november?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 16:05:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Puerto Rican cities hit with water rationing measures during record drought",
+      "description": "Governor Jenniffer Gonzalez says she does not know how long the rationing measures will remain in place.",
+      "url": "https://www.aljazeera.com/news/2026/8/5/puerto-rican-cities-hit-with-water-rationing-measures-during-record-drought?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 16:02:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Arab officials call for action over Jerusalem tensions",
+      "description": "Arab officials call for action over Jerusalem tensions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/arab-officials-call-for-action-over-jerusalem-tensions?traffic_source=rss",
+      "published": "Wed, 05 Aug 2026 15:59:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "UK tribunal confirms professor’s anti-Zionism is legally protected belief",
       "description": "David Miller has told Al Jazeera the ruling is a victory that will encourage others to speak out against Zionism.",
       "url": "https://www.aljazeera.com/news/2026/8/5/uk-tribunal-confirms-professors-anti-zionism-is-legally-protected-belief?traffic_source=rss",
@@ -2109,28 +2084,6 @@
       "description": "Mohamed Salah lands in Turkiye to fan frenzy ahead of Trabzonspor move.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/mohamed-salah-lands-in-turkiye-to-fan-frenzy-ahead-of-trabzonspor-move?traffic_source=rss",
       "published": "Wed, 05 Aug 2026 12:20:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
-      "description": "An agreement could restore shipping through crucial waterway, paving way for peace talks between Tehran and Washington.",
-      "url": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 12:07:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How a social media campaign triggered huge migrant surge on Ceuta",
-      "description": "Following a court ruling protecting migrants swimming to Ceuta the previous week, accounts called on thousands to go.",
-      "url": "https://www.aljazeera.com/features/2026/8/5/how-a-social-media-campaign-triggered-huge-migrant-surge-on-ceuta?traffic_source=rss",
-      "published": "Wed, 05 Aug 2026 11:48:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2312,8 +2265,19 @@
       "title": "M 6.3 - 32 km SW of Sarangani, Philippines",
       "description": "PAGER - GREEN ShakeMap - VII DYFI? - VII Time 2026-08-05 04:14:06 UTC 2026-08-05 04:14:06 UTC at epicenter Location 5.181°N 125.276°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ti6x",
-      "published": "2026-08-05T16:07:24.271Z",
+      "published": "2026-08-05T16:31:23.108Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "description": "Candidates backed by twice-elected former Prime Minister Nawaz Sharif's Pakistan Muslim League-N party have won 24 of the 34 seats decided in the first two phases of voting, the election commission, said Wednesday.",
+      "url": "https://www.npr.org/2026/08/05/g-s1-137449/pakistans-ruling-party-leads-in-kashmir-vote-despite-boycott-call-by-banned-group",
+      "published": "Wed, 05 Aug 2026 12:06:06 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2348,7 +2312,7 @@
       "title": "Germany news: Explosive drone defused at Leipzig airport",
       "description": "A German airport was disrupted for hours after an explosive-laden drone was discovered near one of the runways. Investigators are examining a possible political motive. DW has the latest.",
       "url": "https://www.dw.com/en/germany-news-explosive-drone-defused-at-leipzig-airport/live-78241747?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 5 Aug 2026 13:49:00 GMT",
+      "published": "Wed, 5 Aug 2026 16:26:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2422,6 +2386,17 @@
       "is_ticker": false
     },
     {
+      "title": "US: Progressive Democrat El-Sayed wins key Michigan primary",
+      "description": "He could help the #Democrats swing the #US #Senate in the upcoming #midterms. Progressive Abdul #ElSayed just won a tight #primary race in #Michigan, against more moderate congresswoman Haley #Stevens.",
+      "url": "https://www.france24.com/en/video/20260805-us-progressive-candidate-el-sayed-wins-key-michigan-primary",
+      "published": "Wed, 05 Aug 2026 16:07:30 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "How to enjoy the most complete solar eclipse since 1989?",
       "description": "No matter how sharp your vision, you're going to need some special glasses next week… Wednesday August 12 will bring the most complete solar eclipse since 1989 – the moon will fully cover the sun. To fully appreciate the celestial spectacle,you will require dedicated spectacles. Bryan Quinn and our colleagues at France Televisions tell us how to pick the right ones.",
       "url": "https://www.france24.com/en/how-to-enjoy-the-most-complete-solar-eclipse-since-1989",
@@ -2483,6 +2458,17 @@
       "ticker_label": "💥 Drone with explosive device found near Ukrainian cargo plane at German airport"
     },
     {
+      "title": "British fugitive on most-wanted list arrested in Spain",
+      "description": "A fugitive wanted by police in Scotland over alleged sexual offences committed between 2012 and 2022 has been arrested in Madrid, Sky News understands.",
+      "url": "https://news.sky.com/story/british-fugitive-on-most-wanted-list-arrested-in-spain-13570086",
+      "published": "Wed, 05 Aug 2026 14:58:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Boxer appears in Greek court after British woman's body found in suitcase",
       "description": "A man accused of killing a British woman and disposing of her body in a suitcase has appeared in a court in Athens.",
       "url": "https://news.sky.com/story/suspect-due-in-court-after-scottish-womans-body-found-in-suitcase-in-greece-13569930",
@@ -2505,24 +2491,10 @@
       "is_ticker": false
     },
     {
-      "title": "UFC star dies aged 34",
-      "description": "Mixed martial arts star Allan Nascimento has died at the age of 34, the UFC has announced.",
-      "url": "https://news.sky.com/story/allan-nascimento-ufc-star-dies-aged-34-after-suffering-apparent-heart-attack-in-his-sleep-13569578",
-      "published": "Tue, 04 Aug 2026 00:56:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 UFC star dies aged 34"
-    },
-    {
-      "title": "South Korean students detained for allegedly breaking into US military base",
-      "description": "A group of eight South Korean students have been detained for allegedly breaking into a U.S. air base in South Korea",
-      "url": "https://abcnews.com/International/wireStory/south-korean-students-detained-allegedly-breaking-us-military-135351712",
-      "published": "Tue, 04 Aug 2026 09:06:20 -0400",
+      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
+      "description": "Pakistan’s ruling party has taken a commanding lead in elections for the legislative assembly in Pakistan-administered Kashmir after results from the first two phases of voting were announced, officials said",
+      "url": "https://abcnews.com/International/wireStory/pakistans-ruling-party-leads-kashmir-vote-despite-boycott-135390039",
+      "published": "Wed, 05 Aug 2026 11:23:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2530,10 +2502,32 @@
       "is_ticker": false
     },
     {
-      "title": "Five Amazon countries arrest hundreds in major crackdown on environmental crime",
-      "description": "Authorities from five Amazon countries have arrested hundreds in a major crackdown on environmental crime",
-      "url": "https://abcnews.com/International/wireStory/amazon-countries-arrest-hundreds-major-crackdown-environmental-crime-135363222",
-      "published": "Tue, 04 Aug 2026 14:11:24 -0400",
+      "title": "Puerto Rican cities hit with water rationing measures as dry conditions persist",
+      "description": "Puerto Rico will implement water rationing measures in San Juan and other major cities as a drought grips the U.S. territory with no relief in sight",
+      "url": "https://abcnews.com/International/wireStory/puerto-rican-cities-hit-water-rationing-measures-record-135384115",
+      "published": "Wed, 05 Aug 2026 08:54:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "German court sentences young members of right-wing extremist group to prison",
+      "description": "A Hamburg court has convicted and sentenced seven members and one supporter of the right-wing extremist group \"Last Defense Wave\" to prison",
+      "url": "https://abcnews.com/International/wireStory/german-court-sentences-young-members-wing-extremist-group-135383496",
+      "published": "Wed, 05 Aug 2026 08:50:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo XIV will visit Uruguay, Argentina and Peru in Latin American trip",
+      "description": "Pope Leo XIV will make his first trip to Latin America as pontiff in November, visiting Uruguay, Argentina, and Peru",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-visit-uruguay-argentina-peru-latin-135382238",
+      "published": "Wed, 05 Aug 2026 09:00:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2552,6 +2546,17 @@
       "is_ticker": false
     },
     {
+      "title": "Suspect in Greek suitcase murder of Scottish aid worker appears in court",
+      "description": "Police have escorted a man accused of killing Scottish aid worker Elisabeth Jane Ross to court",
+      "url": "https://abcnews.com/International/wireStory/suspect-greek-suitcase-murder-scottish-aid-worker-appears-135378614",
+      "published": "Wed, 05 Aug 2026 06:47:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "A rare glimpse into Tibet, where some hope to preserve language and customs despite China's new law",
       "description": "A 73-year-old retired nurse spoke her native Tibetan all her life but never learned to write it — until now",
       "url": "https://abcnews.com/International/wireStory/rare-glimpse-tibet-hope-preserve-language-customs-despite-135372539",
@@ -2563,10 +2568,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pakistan's ruling party leads in Kashmir vote despite boycott call by banned group",
-      "description": "Pakistan’s ruling party has taken a commanding lead in elections for the legislative assembly in Pakistan-administered Kashmir after results from the first two phases of voting were announced, officials said",
-      "url": "https://abcnews.com/International/wireStory/pakistans-ruling-party-leads-kashmir-vote-despite-boycott-135390039",
-      "published": "Wed, 05 Aug 2026 11:23:54 -0400",
+      "title": "Oil spill from grounded tanker off Oman expands sharply, satellite images show",
+      "description": "An oil spill from a sanctioned tanker off Oman is expanding dramatically, reaching shorelines and spreading far out to sea",
+      "url": "https://abcnews.com/International/wireStory/oil-spill-grounded-tanker-off-oman-expands-sharply-135364138",
+      "published": "Tue, 04 Aug 2026 15:50:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2574,21 +2579,10 @@
       "is_ticker": false
     },
     {
-      "title": "As Colombia prepares for presidential inauguration, outgoing leader doubles down",
-      "description": "Colombian President Gustavo Petro has reiterated claims of fraud in the nation’s June election, which his party lost narrowly to conservative leader Abelardo de la Espriella",
-      "url": "https://abcnews.com/International/wireStory/colombia-prepares-presidential-inauguration-outgoing-leader-doubles-fraud-135342486",
-      "published": "Mon, 03 Aug 2026 23:06:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Suspect due in court after Scottish woman’s body found in suitcase in Greece",
-      "description": "A man accused of killing a Scottish woman in Athens and hiding her body in a suitcase is set to appear in court Wednesday",
-      "url": "https://abcnews.com/International/wireStory/suspect-due-court-after-scottish-womans-body-found-135358455",
-      "published": "Tue, 04 Aug 2026 13:47:58 -0400",
+      "title": "Five Amazon countries arrest hundreds in major crackdown on environmental crime",
+      "description": "Authorities from five Amazon countries have arrested hundreds in a major crackdown on environmental crime",
+      "url": "https://abcnews.com/International/wireStory/amazon-countries-arrest-hundreds-major-crackdown-environmental-crime-135363222",
+      "published": "Tue, 04 Aug 2026 14:11:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
