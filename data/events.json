@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T15:50:48.321522Z",
+  "last_updated": "2026-08-11T16:21:50.529477Z",
   "event_count": 224,
   "events": [
     {
@@ -238,7 +238,7 @@
       "ticker_label": "🚨 Ex-Thai MP arrested for killing official"
     },
     {
-      "title": "Houthis kill four in first deadly attack since start of Iran war, Yemen says",
+      "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
       "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
       "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 11 Aug 2026 15:41:13 GMT",
@@ -249,7 +249,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Houthis kill four in first deadly attack since start of Iran war, Yemen says"
+      "ticker_label": "🪖 Houthis reportedly kill four in first deadly attack since start of Iran war"
     },
     {
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -476,6 +476,20 @@
       "ticker_label": "🪖 Bashar al Assad sentenced to death by Syrian court"
     },
     {
+      "title": "Indonesia battles growing wildfires as Mount Bromo blaze spreads",
+      "description": "Indonesia has intensified efforts to combat wildfires that have burned more than 107,000 hectares (264,000 acres) across the country during an unusually dry season",
+      "url": "https://abcnews.com/International/wireStory/indonesia-battles-growing-wildfires-mount-bromo-blaze-spreads-135509138",
+      "published": "Mon, 10 Aug 2026 08:17:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Indonesia battles growing wildfires as Mount Bromo blaze spreads"
+    },
+    {
       "title": "Wildfire at Indonesia's Mount Bromo mostly contained as smoke forces school closures",
       "description": "Indonesian firefighters have mostly contained a wildfire that has burned nearly 900 hectares in Bromo Tengger Semeru National Park",
       "url": "https://abcnews.com/International/wireStory/wildfire-indonesias-mount-bromo-contained-smoke-forces-school-135538511",
@@ -502,20 +516,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 DR Congo: Ebola is killing people before they ever reach a doctor"
-    },
-    {
-      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
-      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
-      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 09:39:58 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia using North Korean missiles to strike Ukraine, Zelensky says"
     },
     {
       "title": "Myanmar: UN investigators document deliberate military attacks on civilians",
@@ -733,6 +733,20 @@
       "ticker_label": "🪖 US intel warns Russia could launch limited attack on NATO ally in effort to fragment organization: report"
     },
     {
+      "title": "20 dead after 7.4-magnitude earthquake shakes western Colombia",
+      "description": "A powerful 7.4 magnitude earthquake has struck western Colombia, killing at least 111 people and damaging hundreds of buildings",
+      "url": "https://abcnews.com/International/wireStory/powerful-earthquake-shakes-colombia-ecuador-prompting-people-evacuate-135515580",
+      "published": "Mon, 10 Aug 2026 22:50:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ 20 dead after 7.4-magnitude earthquake shakes western Colombia"
+    },
+    {
       "title": "Lebanon: UN peacekeepers count hundreds of Israeli strikes and incursions in a single weekend",
       "description": "Israeli forces fired 455 projectiles into south Lebanon and breached Lebanese airspace 97 times between Friday and Sunday, the UN's peacekeeping mission in the country reported Monday – among the heaviest fire seen in months.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168108",
@@ -854,20 +868,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Jury selection begins for ex-gang leader charged ​with Tupac Shakur's 1996 murder"
-    },
-    {
-      "title": "Mexican reinforcements arrive for wildfire fight in western Canada after 20,000 flee",
-      "description": "The deadly wildfire has destroyed homes and other properties in Western Canada.",
-      "url": "https://abcnews.com/International/wireStory/mexican-reinforcements-arrive-wildfire-fight-western-canada-after-135545641",
-      "published": "Tue, 11 Aug 2026 10:36:05 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Mexican reinforcements arrive for wildfire fight in western Canada after 20,000 flee"
     },
     {
       "title": "Former Syrian President Assad sentenced to death in absentia",
@@ -1076,17 +1076,6 @@
       "is_ticker": false
     },
     {
-      "title": "WHO says Congo's Ebola outbreak started months before it was declared",
-      "description": "The World Health Organization says the fastest-growing Ebola outbreak started in February, months before it was officially declared in May",
-      "url": "https://abcnews.com/International/wireStory/congos-ebola-outbreak-started-months-declared-135515958",
-      "published": "Mon, 10 Aug 2026 21:14:00 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Sudan: ‘It made me dream again’: The students refusing to let war stop their education",
       "description": "Sarah Tekhlu was ready to give up on university. An Eritrean refugee, she had already been displaced once from Khartoum to Madani, then again to Port Sudan, as war tore through the country around her. Higher education, she had decided, was a luxury she could no longer afford to want.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168093",
@@ -1099,6 +1088,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sudan: ‘It made me dream again’: The students refusing to let war stop their education"
+    },
+    {
+      "title": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "description": "Ukraine's president says strikes in Zaporizhzhia - which killed seven people - involved ballistic missiles from Russia's ally.",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 16:19:44 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia using North Korean missiles to strike Ukraine, Zelensky says"
     },
     {
       "title": "Under Fire: Lebanon’s first responders | Al Jazeera Originals",
@@ -1331,20 +1334,6 @@
       "is_ticker": false
     },
     {
-      "title": "Drone strike sparks massive blaze at Libya’s Zawiya refinery",
-      "description": "Firefighters are battling the remains of a massive fire at an oil facility in western Libya after a drone hit a fuel tank",
-      "url": "https://abcnews.com/International/wireStory/drone-strike-sparks-massive-blaze-libyas-zawiya-refinery-135538868",
-      "published": "Tue, 11 Aug 2026 08:58:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Drone strike sparks massive blaze at Libya’s Zawiya refinery"
-    },
-    {
       "title": "Food prices edged up in July amid heatwaves and energy price hikes",
       "description": "The cost of key foods edged up last month as searing heatwaves and ongoing geopolitical uncertainty impacted energy prices around the world.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168096",
@@ -1381,7 +1370,7 @@
       "is_ticker": false
     },
     {
-      "title": "Lebanon’s parliament votes to end death penalty, first in Middle East to so",
+      "title": "Lebanon parliament votes to end death penalty, 1st in Middle East to do so",
       "description": "Death sentences will be replaced with life imprisonment with aggravated hard labour.",
       "url": "https://www.aljazeera.com/news/2026/8/11/lebanons-parliament-votes-to-end-death-penalty-first-in-middle-east-to-so?traffic_source=rss",
       "published": "Tue, 11 Aug 2026 15:20:38 +0000",
@@ -1432,17 +1421,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Philippines sailors say they will work despite wartime risks"
-    },
-    {
-      "title": "Syrian court sentences Bashar al-Assad to death in absentia",
-      "description": "Syrian court sentences Bashar al-Assad to death in absentia",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/syrian-court-sentences-bashar-al-assad-to-death-in-absentia?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 11:46:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1506,20 +1484,6 @@
       "is_ticker": false
     },
     {
-      "title": "How climate change is reshaping Africa's malaria risk",
-      "description": "Researchers say warming temperatures are altering malaria transmission patterns across Africa, creating new challenges for health systems and disease control.",
-      "url": "https://www.dw.com/en/how-climate-change-is-reshaping-africa-s-malaria-risk/a-78304711?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 10 Aug 2026 13:24:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 How climate change is reshaping Africa's malaria risk"
-    },
-    {
       "title": "Turkey MPs back law on reintegrating Kurdish PKK militants",
       "description": "Turkish lawmakers on Monday (August 10) voted through a bill offering limited amnesty for Kurdish PKK militants, a key step in the peace process that seeks to end decades of deadly violence.",
       "url": "https://www.france24.com/en/turkey-mps-back-law-on-reintegrating-kurdish-pkk-militants",
@@ -1556,29 +1520,18 @@
       "is_ticker": false
     },
     {
-      "title": "Authorities say 10 Nigerian police officers were killed in a gunbattle with rebels in the north",
-      "description": "Authorities say 10 Nigerian police officers were killed in a gunbattle with rebels in the north",
-      "url": "https://abcnews.com/International/wireStory/authorities-10-nigerian-police-officers-killed-gunbattle-rebels-135540116",
-      "published": "Tue, 11 Aug 2026 07:54:02 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "At least 14 artisanal miners killed in collapse at an illicit mine in South Africa",
-      "description": "Police in South Africa say at least 14 artisanal miners have died in a collapse at a mine",
-      "url": "https://abcnews.com/International/wireStory/14-artisanal-miners-found-dead-disused-mine-south-135537987",
-      "published": "Tue, 11 Aug 2026 09:51:30 -0400",
+      "title": "A former Thai lawmaker arrested after a shooting at a government office kills 1",
+      "description": "A man has been arrested after a shooting at a government office outside Bangkok on Monday",
+      "url": "https://abcnews.com/International/wireStory/former-thai-lawmaker-arrested-after-shooting-government-office-135510700",
+      "published": "Mon, 10 Aug 2026 21:30:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 At least 14 artisanal miners killed in collapse at an illicit mine in South Africa"
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 A former Thai lawmaker arrested after a shooting at a government office kills 1"
     },
     {
       "title": "Prosecutors warn Luigi Mangione supporters may intimidate witnesses and jurors at murder trial",
@@ -1750,6 +1703,17 @@
       "is_ticker": false
     },
     {
+      "title": "Turkey’s parliament opens debate on a pardon-like bill for thousands of PKK militants",
+      "description": "Turkey’s parliament has opened debate on a draft bill that could suspend sentences, investigations or trials for thousands of Kurdish militants",
+      "url": "https://abcnews.com/International/wireStory/turkeys-parliament-opens-debate-pardon-bill-thousands-pkk-135510235",
+      "published": "Mon, 10 Aug 2026 09:30:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Russia releases former US Marine reported in poor health",
       "description": "Robert Gilman, who was arrested in 2022 for kicking a police officer while drunk, had reportedly been in a catatonic-like state.",
       "url": "https://www.bbc.co.uk/news/articles/cvgj4m8e1ryo?at_medium=RSS&at_campaign=rss",
@@ -1799,31 +1763,6 @@
       "url": "https://www.france24.com/en/video/20260811-france-drought-conditions-worsen-amid-successive-heatwaves",
       "published": "Tue, 11 Aug 2026 10:15:50 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Malaysian farmers, environmental groups call for rejection of GMO rice trial",
-      "description": "A coalition of farmers, consumer associations and environmental groups is urging Malaysia’s National Biosafety Board to reject a proposed field trial of genetically modified rice",
-      "url": "https://abcnews.com/International/wireStory/malaysian-farmers-environmental-groups-call-rejection-gmo-rice-135539015",
-      "published": "Tue, 11 Aug 2026 06:02:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Malaysian farmers, environmental groups call for rejection of GMO rice trial"
-    },
-    {
-      "title": "Australia adds optional gender identity and sexual orientation questions to census",
-      "description": "Australians can for the first time reveal their sexual orientation and whether they identify as a gender that is not the one recorded at birth in the country's census on Tuesday",
-      "url": "https://abcnews.com/International/wireStory/australia-adds-optional-gender-identity-sexual-orientation-questions-135532148",
-      "published": "Tue, 11 Aug 2026 04:33:56 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1913,6 +1852,17 @@
       "ticker_label": "🪖 British couple jailed in Iran end hunger strike after several months, family says"
     },
     {
+      "title": "South Korea, US to begin exercises to bolster readiness against North's threats",
+      "description": "South Korean and U.S. militaries say they will begin their annual large exercises next week to beef up readiness against North Korean threats",
+      "url": "https://abcnews.com/International/wireStory/south-korea-us-begin-exercises-week-bolster-readiness-135509770",
+      "published": "Mon, 10 Aug 2026 04:58:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Oklahoma victim fights back after teen charged in rapes walks free — as feds could storm in: attorney",
       "description": "Rachel Bussett says one victim's family is pursuing civil litigation after Jesse Mack Butler walked free on 11 counts including rape charges.",
       "url": "https://www.foxnews.com/us/oklahoma-victim-fights-back-after-teen-charged-rapes-walks-free-feds-could-storm-in-attorney",
@@ -1989,6 +1939,17 @@
       "description": "A Pentagon official has urged Asian allies to invest more in their defense to deter regional aggression",
       "url": "https://abcnews.com/International/wireStory/pentagon-official-asks-asian-allies-invest-defense-deter-135521741",
       "published": "Mon, 10 Aug 2026 22:55:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ugandan statesman in the race to become next secretary-general of the United Nations",
+      "description": "A Ugandan statesman is in the race to become the next secretary-general of the United Nations, the latest entrant in a contest that includes six others who want to succeed Antonio Guterres at the end of this year",
+      "url": "https://abcnews.com/International/wireStory/ugandan-statesman-race-become-secretary-general-united-nations-135510509",
+      "published": "Mon, 10 Aug 2026 06:34:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -2117,10 +2078,10 @@
       "is_ticker": false
     },
     {
-      "title": "Luigi Mangione back in court as key questions remain over case ahead of murder trial",
-      "description": "Mangione's lawyers have yet to signal their defence, while prosecutors are in a battle over evidence.",
+      "title": "Luigi Mangione appears in court as questions remain in case ahead of murder trial",
+      "description": "Mangione's lawyers have yet to signal their defence strategy, while prosecutors are in a battle over evidence.",
       "url": "https://www.bbc.co.uk/news/articles/cgje05wd1v4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 11:35:20 GMT",
+      "published": "Tue, 11 Aug 2026 16:12:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2177,6 +2138,28 @@
       "url": "https://www.bbc.co.uk/sport/basketball/articles/ckg3enx6rj6o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 10 Aug 2026 15:34:56 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Hungary elects supreme court judge ousted by Orban as new president",
+      "description": "Baka replaces Orban appointee Tamas Sulyok, ousted weeks ago during Tisza’s campaign against Orban-era power structures.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/hungary-elects-supreme-court-judge-ousted-by-orban-as-new-president?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 15:50:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Rwanda: The genocide against the Tutsi",
+      "description": "How colonial identity, extremist politics and 'hate radio' helped turn Rwanda’s genocide into organised mass murder.",
+      "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/8/11/rwanda-the-genocide-against-the-tutsi?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 15:49:09 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2242,17 +2225,6 @@
       "description": "Final phase of voting in Pakistan-administered Kashmir, despite security fears",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/final-phase-of-voting-in-pakistan-administered-kashmir-despite-security-fe?traffic_source=rss",
       "published": "Tue, 11 Aug 2026 12:08:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What to watch in Wisconsin’s high-stakes primary",
-      "description": "US Democrats face another test after Michigan as voters choose nominees for governor and Congress.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/what-to-watch-in-wisconsins-high-stakes-primary?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 12:05:54 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2395,7 +2367,7 @@
       "title": "M 7.4 - 5 km S of San José del Palmar, Colombia",
       "description": "PAGER - RED ShakeMap - VIII DYFI? - VIII Time 2026-08-10 12:34:28 UTC 2026-08-10 12:34:28 UTC at epicenter Location 4.844°N 76.242°W Depth 110.29 km (68.53 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
-      "published": "2026-08-11T15:38:50.200Z",
+      "published": "2026-08-11T16:14:42.722Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2463,6 +2435,17 @@
       "url": "https://www.npr.org/2026/08/10/nx-s1-5822592/chinas-courts-side-with-workers-displaced-by-ai-but-employees-remain-anxious",
       "published": "Mon, 10 Aug 2026 16:14:06 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Hungary's parliament elects Orban critic as new president",
+      "description": "Hungary's parliament has overwhelmingly confirmed Andras Baka, formerly the head of the Supreme Court, to the largely ceremonial role of president. New Prime Minister Peter Magyar controversially removed his predecessor.",
+      "url": "https://www.dw.com/en/hungary-s-parliament-elects-orban-critic-as-new-president/a-78325589?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 11 Aug 2026 16:00:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2593,21 +2576,10 @@
       "is_ticker": false
     },
     {
-      "title": "Hungary’s Parliament taps András Baka as president as part of Orbán-era purge",
-      "description": "Hungary's Parliament has elected András Baka as president as the new government dismantles structures left by former Prime Minister Viktor Orbán",
-      "url": "https://abcnews.com/International/wireStory/hungarys-parliament-taps-andrs-baka-president-part-orbn-135546737",
-      "published": "Tue, 11 Aug 2026 10:33:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Key Amazon cases reach Brazil’s Supreme Court following Lula's defeats in Congress",
-      "description": "Brazil's Supreme Court is set to decide cases that could reshape protections for the Amazon rainforest and Indigenous communities",
-      "url": "https://abcnews.com/International/wireStory/key-amazon-cases-reach-brazils-supreme-court-lulas-135543901",
-      "published": "Tue, 11 Aug 2026 09:33:48 -0400",
+      "title": "Vietnam’s VinSpace signs deal with SpaceX to launch its first satellites in 2027",
+      "description": "The Vietnamese aerospace company VinSpace has signed a contract with SpaceX to launch its first satellites in 2027, marking a big step in Vietnam’s efforts to develop its space industry",
+      "url": "https://abcnews.com/International/wireStory/vietnams-vinspace-signs-deal-elon-musks-spacex-launch-135536822",
+      "published": "Tue, 11 Aug 2026 04:04:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2626,6 +2598,28 @@
       "is_ticker": false
     },
     {
+      "title": "For Nigel Farage, success brings new pressures and a showdown with Count Binface",
+      "description": "Reform UK leader Nigel Farage is running in a special election where his main opponent is a man dressed as a garbage can",
+      "url": "https://abcnews.com/International/wireStory/nigel-farage-success-brings-new-pressures-showdown-count-135535639",
+      "published": "Tue, 11 Aug 2026 09:37:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK, France prepare for another heat wave as Europe sets new temperature record",
+      "description": "The U.K. and France are bracing for the fifth heat wave of the season, adding to an intense stretch of hot weather that has repeatedly sent temperatures soaring across Europe since May",
+      "url": "https://abcnews.com/International/wireStory/western-europe-sets-new-temperature-record-heat-waves-135507462",
+      "published": "Mon, 10 Aug 2026 09:06:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Taiwan court jails woman for 7 years for conspiring with Chinese officials",
       "description": "A Taiwanese court has sentenced a woman to seven years in prison for conspiring with Chinese officials to influence Taiwanese politics",
       "url": "https://abcnews.com/International/wireStory/taiwan-court-sentences-woman-7-years-prison-conspiring-135539030",
@@ -2637,10 +2631,10 @@
       "is_ticker": false
     },
     {
-      "title": "Vietnam’s VinSpace signs deal with SpaceX to launch its first satellites in 2027",
-      "description": "The Vietnamese aerospace company VinSpace has signed a contract with SpaceX to launch its first satellites in 2027, marking a big step in Vietnam’s efforts to develop its space industry",
-      "url": "https://abcnews.com/International/wireStory/vietnams-vinspace-signs-deal-elon-musks-spacex-launch-135536822",
-      "published": "Tue, 11 Aug 2026 04:04:41 -0400",
+      "title": "Hungary’s Parliament taps András Baka as president as part of Orbán-era purge",
+      "description": "Hungary's Parliament has elected András Baka as president as the new government dismantles structures left by former Prime Minister Viktor Orbán",
+      "url": "https://abcnews.com/International/wireStory/hungarys-parliament-taps-andrs-baka-president-part-orbn-135546737",
+      "published": "Tue, 11 Aug 2026 10:33:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2648,10 +2642,10 @@
       "is_ticker": false
     },
     {
-      "title": "For Nigel Farage, success brings new pressures and a showdown with Count Binface",
-      "description": "Reform UK leader Nigel Farage is running in a special election where his main opponent is a man dressed as a garbage can",
-      "url": "https://abcnews.com/International/wireStory/nigel-farage-success-brings-new-pressures-showdown-count-135535639",
-      "published": "Tue, 11 Aug 2026 09:37:54 -0400",
+      "title": "New Zealanders abroad urged to enroll for the election as new law locks out last-minute voters",
+      "description": "New Zealand’s Electoral Commission has launched a campaign urging citizens to register to vote or update their details",
+      "url": "https://abcnews.com/International/wireStory/new-zealanders-abroad-urged-enroll-election-new-law-135508898",
+      "published": "Mon, 10 Aug 2026 04:10:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
