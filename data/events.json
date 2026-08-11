@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-11T19:25:45.195773Z",
+  "last_updated": "2026-08-11T19:51:23.535065Z",
   "event_count": 224,
   "events": [
     {
@@ -247,20 +247,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ More than 3,000 missing after Colombia earthquake as Trump administration provides $15.5 million in relief"
-    },
-    {
-      "title": "Houthis reportedly kill four in first deadly attack since start of Iran war",
-      "description": "The attack was reportedly carried out by Iranian proxy on a small cargo ship, as tensions in region over the US-Iran conflict remain high.",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 11 Aug 2026 15:41:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Houthis reportedly kill four in first deadly attack since start of Iran war"
     },
     {
       "title": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -686,6 +672,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Nigeria's largest rescue operation frees 308 hostages held by militants in Kwara State"
+    },
+    {
+      "title": "Houthis reportedly kill six in first deadly attack since start of Iran war",
+      "description": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 11 Aug 2026 19:27:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Houthis reportedly kill six in first deadly attack since start of Iran war"
     },
     {
       "title": "Thailand suspends new gun permits after mass shooting",
@@ -1202,6 +1202,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Truck crash in Egypt kills 18, many of them child labourers",
+      "description": "Two pick-up trucks collide in Ismailia, Egypt, leaving 18 dead, mostly children working as agricultural labourers.",
+      "url": "https://www.aljazeera.com/news/2026/8/11/truck-crash-in-egypt-kills-18-many-of-them-child-labourers?traffic_source=rss",
+      "published": "Tue, 11 Aug 2026 19:21:32 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -2030,17 +2041,6 @@
       "is_ticker": false
     },
     {
-      "title": "Repeat offender illegal immigrant accused of plowing pickup into Nashville crowd – now ICE wants him",
-      "description": "ICE lodged a detainer for Felipe Alvarado Hernandez after he allegedly drove a pickup truck onto a downtown Nashville sidewalk, injuring four.",
-      "url": "https://www.foxnews.com/us/repeat-offender-illegal-immigrant-accused-plowing-pickup-nashville-crowd-now-ice-wants-him",
-      "published": "Mon, 10 Aug 2026 15:50:40 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "France bans unsolicited telemarketing calls",
       "description": "Cold calling is coming to an end in France, with one consumer group calling the ban a \"small revolution\".",
       "url": "https://www.bbc.co.uk/news/articles/cy5d11g72ppo?at_medium=RSS&at_campaign=rss",
@@ -2198,17 +2198,6 @@
       "is_ticker": false
     },
     {
-      "title": "Total solar eclipse 2026: Where, when and how to watch on Wednesday?",
-      "description": "Millions will see the sun disappear as the eclipse sweeps from the Arctic to Europe, bringing two minutes of totality.",
-      "url": "https://www.aljazeera.com/news/2026/8/11/total-solar-eclipse-2026-where-when-and-how-to-watch-on-wednesday?traffic_source=rss",
-      "published": "Tue, 11 Aug 2026 14:56:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2344,7 +2333,7 @@
       "title": "M 7.4 - 5 km S of San José del Palmar, Colombia",
       "description": "PAGER - RED ShakeMap - VIII DYFI? - VIII Time 2026-08-10 12:34:28 UTC 2026-08-10 12:34:28 UTC at epicenter Location 4.844°N 76.242°W Depth 110.29 km (68.53 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tjl2",
-      "published": "2026-08-11T18:44:39.994Z",
+      "published": "2026-08-11T19:26:41.681Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2624,6 +2613,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168097",
       "published": "Sat, 08 Aug 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Parents speak out after son with autism, 6, was suspended for biting sandwich into shape of gun",
+      "description": "Kristin and Juan \"Ricky\" Medina told Fox News Digital their son’s autism can make social norms difficult to understand as they push for less severe discipline.",
+      "url": "https://www.foxnews.com/us/parents-speak-out-after-son-autism-6-suspended-biting-sandwich-shape-gun",
+      "published": "Tue, 11 Aug 2026 15:45:10 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
