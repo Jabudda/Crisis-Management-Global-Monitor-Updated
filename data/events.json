@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T02:50:01.776807Z",
+  "last_updated": "2026-08-15T03:18:07.891912Z",
   "event_count": 224,
   "events": [
     {
@@ -57,20 +57,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 South Korean airport becomes busiest in world for global traffic amid Iran war"
-    },
-    {
-      "title": "Magnitude 7.7 earthquake strikes off the coast of Indonesia",
-      "description": "A powerful magnitude 7.7 earthquake gas struck off the coast of Indonesia, damaging buildings and homes, and triggering a tsunami warning",
-      "url": "https://abcnews.com/International/wireStory/magnitude-77-earthquake-strikes-off-coast-indonesia-usgs-135659935",
-      "published": "Fri, 14 Aug 2026 20:53:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Magnitude 7.7 earthquake strikes off the coast of Indonesia"
     },
     {
       "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
@@ -470,6 +456,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Hit hard by the earthquake in western Colombia, the mayor of Cali gets to work"
+    },
+    {
+      "title": "Magnitude 7.7 earthquake strikes off Indonesia; buildings toppled and 2 dead",
+      "description": "A powerful magnitude 7.7 earthquake has struck off the coast of Indonesia, damaging buildings and homes, killing at least two people and causing panic in a region prone to deadly quakes",
+      "url": "https://abcnews.com/International/wireStory/magnitude-77-earthquake-strikes-off-coast-indonesia-usgs-135659935",
+      "published": "Fri, 14 Aug 2026 23:07:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Magnitude 7.7 earthquake strikes off Indonesia; buildings toppled and 2 dead"
     },
     {
       "title": "Colombia grapples with rebuilding a shattered nation after a deadly earthquake",
@@ -1026,17 +1026,6 @@
       "is_ticker": false
     },
     {
-      "title": "New aerial video reveals huge scale of oil spill off Oman",
-      "description": "A potential environmental disaster is unfolding off Oman, where a grounded tanker is leaking sanctioned Russian oil.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/new-aerial-video-reveals-huge-scale-of-oil-spill-off-oman?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 19:36:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -1309,6 +1298,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers"
+    },
+    {
+      "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "description": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 03:04:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "At least two killed as magnitude 7.7 quake hits Indonesia",
@@ -2072,6 +2072,17 @@
       "is_ticker": false
     },
     {
+      "title": "US President Trump says he will declare Strait of Hormuz US territory",
+      "description": "US President Donald Trump said he will “soon” declare the Strait of Hormuz a US territory.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 02:25:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Venezuela says 131 political prisoners freed amid post-Maduro talks",
       "description": "As detainees granted 'alternative' to imprisonment, US welcomes release as crucial step for Venezuela's reconciliation.",
       "url": "https://www.aljazeera.com/news/2026/8/15/venezuela-says-131-political-prisoners-freed-amid-post-maduro-talks?traffic_source=rss",
@@ -2142,17 +2153,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Mount Etna eruption and volcanic ash shut Sicily’s busiest airport"
-    },
-    {
-      "title": "Son of Mexico’s former president AMLO alleges US revoked his visa",
-      "description": "The US has not confirmed the revocation which comes amid crackdown on Mexican politicians with alleged ties to cartels.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/son-of-mexicos-former-president-amlo-alleges-us-revoked-his-visa?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 19:44:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2301,7 +2301,7 @@
       "title": "M 7.7 - 68 km NNW of Ende, Indonesia",
       "description": "PAGER - ORANGE ShakeMap - IX DYFI? - VII Time 2026-08-14 21:58:21 UTC 2026-08-14 21:58:21 UTC at epicenter Location 8.310°S 121.352°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2",
-      "published": "2026-08-15T02:42:31.065Z",
+      "published": "2026-08-15T03:13:04.251Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
