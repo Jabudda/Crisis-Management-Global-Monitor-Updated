@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T04:12:44.649816Z",
+  "last_updated": "2026-08-15T04:43:44.721073Z",
   "event_count": 224,
   "events": [
     {
@@ -17,8 +17,8 @@
       "ticker_label": "🌪️ Race to free trapped quake survivor offers hope in Colombia"
     },
     {
-      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two",
-      "description": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing two people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities initially issued a tsunami warning, but it has since been lifted. Continue reading...",
+      "title": "Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five",
+      "description": "Shallow quake hit Indonesia’s Flores region early on Saturday, prompting thousands to seek higher ground A powerful 7.7-magnitude quake struck eastern Indonesia early on Saturday, killing at least five people, causing widespread panic and collapsing buildings and homes in a region prone to deadly earthquakes. Authorities had issued a tsunami warning, which has since been lifted, but there have been dozens of aftershocks, including one with a magnitude of 6.1. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/15/indonesia-earthquake",
       "published": "Fri, 14 Aug 2026 23:43:18 GMT",
       "source": "The Guardian World",
@@ -28,7 +28,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing two"
+      "ticker_label": "🌪️ Strong 7.7-magnitude earthquake strikes eastern Indonesia, killing at least five"
     },
     {
       "title": "Security Council LIVE: Escalating attacks threaten peace in Yemen",
@@ -333,20 +333,6 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-      "description": "Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-accused-of-supporting-terrorist-settlers-in-qusra?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 21:45:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Israeli soldiers accused of supporting ‘terrorist’ settlers in Qusra"
     },
     {
       "title": "U.S. ambassador slams Israeli settlers besieging home of Palestinian-American",
@@ -1076,7 +1062,7 @@
       "ticker_label": "✈️ Japan: Record rains kill eight, strand thousands at Narita airport"
     },
     {
-      "title": "Potential disaster averted after jets share identical flight number",
+      "title": "Potential disaster between two passenger jets averted in the US",
       "description": "A potential mid-air collision was averted in the US after a Phoenix air traffic controller recognised that two American Airlines planes were mistakenly flying under the same number, and acted quickly to keep them apart.",
       "url": "https://news.sky.com/story/potential-disaster-averted-after-jets-share-identical-flight-number-13573194",
       "published": "Sat, 15 Aug 2026 00:43:00 +0100",
@@ -1087,7 +1073,7 @@
       "is_ticker": true,
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Potential disaster averted after jets share identical flight number"
+      "ticker_label": "✈️ Potential disaster between two passenger jets averted in the US"
     },
     {
       "title": "Five dead in Japan after record-breaking rainfall causes severe flooding",
@@ -1102,20 +1088,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Five dead in Japan after record-breaking rainfall causes severe flooding"
-    },
-    {
-      "title": "Siege of Palestinian homes in West Bank a 'horrific act of terror', says US ambassador",
-      "description": "Israeli settlers have been condemned by the US ambassador after the home of an American Palestinian family in the occupied West Bank was besieged.",
-      "url": "https://news.sky.com/story/siege-of-palestinian-homes-in-west-bank-a-horrific-act-of-terror-says-us-ambassador-13572508",
-      "published": "Thu, 13 Aug 2026 10:13:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Siege of Palestinian homes in West Bank a 'horrific act of terror', says US ambassador"
     },
     {
       "title": "Lions and tigers begin a long-awaited rescue from a notorious Argentine zoo",
@@ -1151,17 +1123,6 @@
       "is_ticker": false
     },
     {
-      "title": "Mexican national faces federal charges after CBP finds $238K in fentanyl inside electric moped",
-      "description": "U.S. Customs and Border Protection officers found seven packages of fentanyl hidden inside an electric moped at the San Ysidro border crossing.",
-      "url": "https://www.foxnews.com/us/mexican-national-faces-federal-charges-cbp-finds-238k-fentanyl-inside-electric-moped",
-      "published": "Fri, 14 Aug 2026 03:03:43 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'",
       "description": "Iran's expected election to a United Nations committee on human rights and counterterrorism is called \"Orwellian\" by UN Watch's Hillel Neuer.",
       "url": "https://www.foxnews.com/world/un-watchdog-slams-potential-election-iran-panel-human-rights-sway-lunatics-running-asylum",
@@ -1174,6 +1135,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 UN watchdog slams potential election of Iran to panel with human rights sway: 'Lunatics running the asylum'"
+    },
+    {
+      "title": "What we know about the crisis aboard the USS Lincoln",
+      "description": "The US President has brushed off reports of dire conditions and a mental health crisis aboard the USS Abraham Lincoln.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 04:21:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Pocock and crossbenchers call Labor’s NDIS overhaul ‘too far, too fast’ in scathing Senate inquiry report",
@@ -1635,7 +1607,7 @@
     },
     {
       "title": "Coalition split on Andrew Bragg speech as South Australian senator Andrew McLachlan urges colleagues to ‘follow his lead’",
-      "description": "Senior colleagues dismiss Bragg’s migration figures as ‘personal views’ while others say critical response is an ‘overreaction’ Get our breaking news email , free app or daily news podcast Liberal senator Andrew McLachlan has publicly backed Andrew Bragg and urged colleagues to “follow his lead” after a public speech that has split colleagues and triggered a rebuke from opposition leader, Angus Taylor. At the National Press Club on Wednesday, Bragg announced a policy to slash the national construction code and suggested net overseas migration should be dropped from the current level of about 300,000 to below 180,000 a year to keep pace with new housing builds. Continue reading...",
+      "description": "Senior colleagues dismiss Bragg’s migration figures as ‘personal views’ while others say critical response is an ‘overreaction’ Get our breaking news email , free app or daily news podcast The Liberal senator Andrew McLachlan has publicly backed Andrew Bragg and urged colleagues to “follow his lead” after a public speech that has split colleagues and triggered a rebuke from the opposition leader, Angus Taylor. At the National Press Club on Wednesday, Bragg announced a policy to slash the national construction code and suggested net overseas migration should be dropped from the current level of about 300,000 to below 180,000 a year to keep pace with new housing builds. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/15/coalition-split-on-andrew-bragg-speech-as-south-australian-senator-andrew-mclachlan-urges-colleagues-to-follow-his-lead",
       "published": "Sat, 15 Aug 2026 02:00:43 GMT",
       "source": "The Guardian World",
@@ -1689,7 +1661,7 @@
       "is_ticker": false
     },
     {
-      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported on board",
+      "title": "US aircraft carrier on way to relieve USS Lincoln after issues reported aboard",
       "description": "Thousands of sailors on the Lincoln have reportedly faced food shortages and broken plumbing, with some considering jumping overboard.",
       "url": "https://www.bbc.co.uk/news/articles/c171yp5zdrxo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 17:36:27 GMT",
@@ -1712,17 +1684,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ 'Unprecedented' rain in Japan kills eight people"
-    },
-    {
-      "title": "Trump dismisses mental health concerns on USS Lincoln aircraft carrier",
-      "description": "Members of the US Congress have called for a probe into conditions amid reports of sailors attempting to jump ship.",
-      "url": "https://www.aljazeera.com/news/2026/8/14/trump-dismisses-mental-health-concerns-on-uss-lincoln-aircraft-carrier?traffic_source=rss",
-      "published": "Fri, 14 Aug 2026 21:17:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
@@ -1907,6 +1868,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump dismisses concerns about conditions on US aircraft carrier",
+      "description": "Donald Trump has downplayed the impact on American sailors who have spent nearly nine months at sea on the USS Abraham Lincoln.",
+      "url": "https://news.sky.com/story/donald-trump-dismisses-concerns-about-conditions-on-us-aircraft-carrier-13573196",
+      "published": "Sat, 15 Aug 2026 02:05:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Türkiye’s changes to child detention ‘raise serious human rights concerns’",
       "description": "UN human rights chief Volker Türk on Thursday condemned an amendment adopted by Türkiye’s parliament that would allow judges to give life sentences to child offenders convicted of serious crimes.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168132",
@@ -2009,6 +1981,17 @@
       "is_ticker": false
     },
     {
+      "title": "Man charged with assault, hate crimes after allegedly disrupting Shabbat services at NYC synagogue",
+      "description": "Larry Montes is facing multiple charges after allegedly striking a congregant and headbutting a security team member during Shabbat services at Central Synagogue in New York City.",
+      "url": "https://www.foxnews.com/us/man-charged-assault-hate-crimes-after-allegedly-disrupting-shabbat-services-nyc-synagogue",
+      "published": "Sat, 15 Aug 2026 00:27:46 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Luigi Mangione case in photos: From Brian Thompson’s killing to the courtroom",
       "description": "Photos detail the legal case against Luigi Mangione, from his suspected killing of UnitedHealthcare CEO Brian Thompson in New York City to his moves in court.",
       "url": "https://www.foxnews.com/us/luigi-mangione-case-photos-from-brian-thompson-killing-courtroom",
@@ -2058,6 +2041,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 19:05:22 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran says no decision yet on a return to talks with the US",
+      "description": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
+      "url": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+      "published": "Sat, 15 Aug 2026 04:24:02 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2315,7 +2309,7 @@
       "title": "M 3.8 - 3 km N of San Leandro, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-08-13 15:30:04 UTC 2026-08-13 15:30:04 UTC at epicenter Location 37.755°N 122.150°W Depth 5.55 km (3.45 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75417557",
-      "published": "2026-08-15T01:32:49.697Z",
+      "published": "2026-08-15T04:35:38.203Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
