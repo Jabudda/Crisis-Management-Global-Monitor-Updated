@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T12:47:56.385466Z",
+  "last_updated": "2026-08-16T13:15:14.921175Z",
   "event_count": 225,
   "events": [
     {
@@ -96,6 +96,20 @@
       "severity_score": 37,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Poland-registered bus veers off Hungary highway, killing 12 people",
+      "description": "A crash involving a bus registered in Poland killed 12 people and severely injured at least 10 early Sunday on a Hungary highway, marking the worst accident of its kind in the country in more than 20 years. Poland will send an emergency aircraft to Budapest, Polish Prime Minister Donald Tusk announced.",
+      "url": "https://www.france24.com/en/europe/20260816-poland-registered-bus-veers-off-hungary-highway-killing-12-people",
+      "published": "Sun, 16 Aug 2026 12:48:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Poland-registered bus veers off Hungary highway, killing 12 people"
     },
     {
       "title": "‘Unprecedented’ rain kills five in Japan as thousands stranded at airport",
@@ -196,20 +210,6 @@
       "ticker_label": "💥 How Germany supports recovery of Berlin Pride attack victims"
     },
     {
-      "title": "Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft",
-      "description": "Firefighters in Belgium battled one of the country's worst-ever wildfires late on Saturday as a rapidly growing blaze scorched more than 3,000 hectares of land. The EU scrambled helicopters and water bombers as hundreds of villagers were under evacuation orders.",
-      "url": "https://www.france24.com/en/europe/20260816-eu-sends-aircraft-and-villagers-evacuate-as-belgium-battles-record-wildfire",
-      "published": "Sun, 16 Aug 2026 06:03:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Belgium wildfire scorches 3,000 hectares as villagers evacuate, EU sends aircraft"
-    },
-    {
       "title": "Migrant deaths climb sharply in 2026, new UN data shows",
       "description": "Severe weather, war, economic pressure and shifting policies reshaped migration journeys across multiple regions in the first four months of 2026, driving a surge in deaths, according to new data released on Wednesday by the International Organization for Migration (IOM).",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168127",
@@ -260,18 +260,18 @@
       "is_ticker": false
     },
     {
-      "title": "Colombia's new president asks Trump to suspend tariffs after deadly earthquake",
-      "description": "Colombia's President Abelardo de la Espriella on Saturday called on US President Donald Trump to suspend tariffs on the South American nation as the country contiues to reel from a deadly earthquake. At least 300 people were killed in the quake that devastated the western Colombian cities of Cali and Pereira.",
-      "url": "https://www.france24.com/en/americas/20260816-colombia-s-new-president-asks-trump-to-suspend-tariffs-after-deadly-earthquake",
-      "published": "Sun, 16 Aug 2026 05:39:51 GMT",
+      "title": "South Lebanon: How will Israeli strikes affect negotiations?",
+      "description": "Israel killed 11 people in strikes on southern Lebanon on Saturday, in what has been described as the biggest threat to the peace talks since the June agreement. Ziad Majed, Professor of Middle East Studies at the American University of Paris, spoke to FRANCE 24 about the potential impact of the strikes on the negotiations underway in Rome, the role of the United States, and Israel's policy towards Lebanon and especially Hezbollah.",
+      "url": "https://www.france24.com/en/south-lebanon-how-will-israeli-strikes-affect-negotiations",
+      "published": "Sun, 16 Aug 2026 13:00:14 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Colombia's new president asks Trump to suspend tariffs after deadly earthquake"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 South Lebanon: How will Israeli strikes affect negotiations?"
     },
     {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -398,6 +398,34 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Five killed as Russia launches fresh aerial attacks across Ukraine"
+    },
+    {
+      "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
+      "description": "Officials say flash flooding may have swept away homes with people in them in worst-hit areas.",
+      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 12:53:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist"
+    },
+    {
+      "title": "Belgium’s largest wildfire on record spreads towards German border",
+      "description": "Largest recorded wildfire in Belgium forces 600 residents to evacuate as blaze spreads towards German border towns.",
+      "url": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+      "published": "Sun, 16 Aug 2026 12:35:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Belgium’s largest wildfire on record spreads towards German border"
     },
     {
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -557,20 +585,6 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Thousands of evacuees await aid after deadly quake on Indonesia's Flores island",
-      "description": "Thousands of evacuees on Indonesia's Flores island began receiving aid on Sunday after a 7.7-magnitude quake killed 48 people, injured dozens and damaged hundreds of houses and buildings. Some 5,000 people fled their homes and in some areas people were left without electricity and telecommunications.",
-      "url": "https://www.france24.com/en/asia-pacific/20260816-thousands-await-aid-after-deadly-indonesian-quake",
-      "published": "Sun, 16 Aug 2026 06:25:43 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Thousands of evacuees await aid after deadly quake on Indonesia's Flores island"
     },
     {
       "title": "Multiple people killed and injured after car driven wrong way on motorway",
@@ -811,20 +825,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Cruz sounds alarm over $400M Hamas-era provision in Board of Peace plan — issues blunt warning"
-    },
-    {
-      "title": "Hurricane Lala lashes Hawaii with strong winds and torrential rain",
-      "description": "If the storm makes landfall, it will be Hawaii's first direct hit by a hurricane in 34 years.",
-      "url": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 08:49:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Hurricane Lala lashes Hawaii with strong winds and torrential rain"
     },
     {
       "title": "Twelve killed as Polish bus veers off Hungarian motorway",
@@ -1393,17 +1393,6 @@
       "description": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.",
       "url": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
       "published": "Sun, 16 Aug 2026 08:39:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "description": "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world.",
-      "url": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
-      "published": "Sun, 16 Aug 2026 06:40:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -2473,6 +2462,17 @@
       "url": "https://www.dw.com/en/germany-increasingly-revokes-refugee-status-for-syrians/live-78378773?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 15 Aug 2026 07:58:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "WAFCON final: Women's sport seeks greater recognition",
+      "description": "The Women's Africa Cup of Nations final takes place tonight in Rabat, with Malawi facing Cameroon in a historic showdown. Speaking to FRANCE 24, sports journalist Charlotte Richardson discussed the growing popularity of women's sport, but also the persistent gaps in media coverage, funding and infrastructure compared with men's competitions. She also highlighted the WAFCON's last-minute postponement earlier this year, saying such a decision would be unthinkable in men's football.",
+      "url": "https://www.france24.com/en/wafcon-final-women-s-sport-seeks-greater-recognition",
+      "published": "Sun, 16 Aug 2026 13:00:14 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
