@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T09:19:13.290256Z",
+  "last_updated": "2026-08-17T09:47:55.550895Z",
   "event_count": 225,
   "events": [
     {
@@ -165,20 +165,6 @@
       "is_ticker": false
     },
     {
-      "title": "Death toll from Zimbabwe capsized ferry accident rises to 84",
-      "description": "Rescue workers recovered more bodies on Sunday following a ferry capsizing accident that occured earlier this week on Lake Kariba in Zimbabwe, bringing the death toll to at least 84. The search continues, as authorities fear the number of casualties could rise even further.",
-      "url": "https://www.france24.com/en/africa/20260816-death-toll-from-zimbabwe-capsized-ferry-accident-rises-to-80",
-      "published": "Sun, 16 Aug 2026 14:01:56 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Death toll from Zimbabwe capsized ferry accident rises to 84"
-    },
-    {
       "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
       "description": "Hundreds of homes and public buildings have been severely damaged with at least 53 people killed.",
       "url": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
@@ -233,6 +219,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day"
+    },
+    {
+      "title": "Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53",
+      "description": "Rescue teams in eastern Indonesia recovered six more bodies a day after a magnitude 7.7 earthquake",
+      "url": "https://abcnews.com/International/wireStory/rescuers-dig-rubble-landslides-after-indonesia-quake-kills-135682965",
+      "published": "Mon, 17 Aug 2026 00:02:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Rescuers in Indonesia recover 6 more bodies in earthquake aftermath, raising death toll to 53"
     },
     {
       "title": "Australia sets launch for sweeping gun buyback after Bondi Beach terror attack: 'Sensible gun reform'",
@@ -366,17 +366,6 @@
       "ticker_label": "🌪️ Two die in Spain mudslide as Belgium battles largest-ever wildfire"
     },
     {
-      "title": "A temple stampede and a hotel fire in eastern India kill 14 and injure several",
-      "description": "Seven devotees were killed and more than a dozen injured in a stampede at a Hindu temple in eastern India's Bihar state",
-      "url": "https://abcnews.com/International/wireStory/temple-stampede-hotel-fire-eastern-india-kill-14-135700067",
-      "published": "Mon, 17 Aug 2026 03:33:28 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Lexington, Kentucky park shooting kills 1, injures 4 during live band performance",
       "description": "A shooting at an outdoor concert in Lexington, Kentucky's Charles Young Park killed one and injured four, including children ages 14 and 4.",
       "url": "https://www.foxnews.com/us/lexington-kentucky-park-shooting-kills-injures-live-band-performance",
@@ -439,6 +428,20 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "West Bank : UN delivers aid to besieged Palestinian families in Qusra",
+      "description": "The UN delivered aid to Qusra in the West Bank after Israeli settlers cut off several Palestinian families from food, water and electricity. Residents say they have faced months of harassment and attacks, while rights groups accuse settlers of trying to force Palestinians from the area. Critics warn that Israel’s plan to transfer law enforcement powers in the West Bank could further entrench control over the territory.",
+      "url": "https://www.france24.com/en/west-bank-un-delivers-aid-to-besieged-palestinian-families-in-qusra",
+      "published": "Mon, 17 Aug 2026 09:18:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 West Bank : UN delivers aid to besieged Palestinian families in Qusra"
     },
     {
       "title": "Ebola outbreak in DR Congo now deadliest ever",
@@ -506,6 +509,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 At least 6 dead after Ukraine launches aerial attack on Russia"
+    },
+    {
+      "title": "Indonesia: Thousands await aid as quake death toll rises to 54",
+      "description": "Indonesia marked its Independence Day on Monday but celebrations have been overshadowed by an earthquake which has left over 50 people dead and thousands homeless. Residents say they need aid as soon as possible.",
+      "url": "https://www.dw.com/en/indonesia-thousands-await-aid-as-quake-death-toll-rises-to-54/a-78395000?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 17 Aug 2026 09:33:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Indonesia: Thousands await aid as quake death toll rises to 54"
     },
     {
       "title": "Photos show Cambodian children attend school in floating villages along the Tonle Sap lake.",
@@ -723,34 +740,6 @@
       "ticker_label": "🪖 Iran offers $30,000 bounty for killing or capturing US soldiers"
     },
     {
-      "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
-      "description": "The Trump administration says it is seeking to expand its lethal campaign of bombing boats off Latin America’s Caribbean and Pacific coasts onto land",
-      "url": "https://abcnews.com/International/wireStory/after-killing-hundreds-boat-strikes-us-military-expands-135700333",
-      "published": "Mon, 17 Aug 2026 03:15:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 After killing hundreds in boat strikes, US military expands campaign on land in Latin America"
-    },
-    {
-      "title": "Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution",
-      "description": "Benjamin Franklin's son William was buried in London following his death in 1813, more than three decades after he was forced to leave America",
-      "url": "https://abcnews.com/International/wireStory/ben-franklin-chose-america-son-william-chose-crown-135685341",
-      "published": "Sun, 16 Aug 2026 11:32:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ben Franklin chose America. Son William chose the crown. This civil war is a microcosm of revolution"
-    },
-    {
       "title": "Firefighters battle massive Belgian wildfire, forcing hundreds to evacuate",
       "description": "Firefighters are battling wildfires in Belgium and Greece, with a massive blaze scorching a nature reserve in eastern Belgium",
       "url": "https://abcnews.com/International/wireStory/firefighters-battle-massive-belgian-wildfire-forcing-hundreds-evacuate-135684266",
@@ -763,6 +752,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Firefighters battle massive Belgian wildfire, forcing hundreds to evacuate"
+    },
+    {
+      "title": "After killing hundreds in boat strikes, US military expands campaign on land in Latin America",
+      "description": "The Trump administration says it is seeking to expand its lethal campaign of bombing boats off Latin America’s Caribbean and Pacific coasts onto land",
+      "url": "https://abcnews.com/International/wireStory/after-killing-hundreds-boat-strikes-us-military-expands-135700333",
+      "published": "Mon, 17 Aug 2026 03:15:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 After killing hundreds in boat strikes, US military expands campaign on land in Latin America"
     },
     {
       "title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
@@ -990,10 +993,10 @@
       "ticker_label": "🌪️ Outrage as Colombia’s president hands out footballs as residents await aid"
     },
     {
-      "title": "Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience",
-      "description": "President says move is based on ‘very good relationship with Kim Jong-un’ but US military officials have said Ukraine war is boosting regime’s combat capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime was learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
+      "title": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
+      "description": "President says he ‘gets along great’ with dictator but US officials say Ukraine war is boosting North’s capabilities Donald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Ukraine war. The drills under Ulchi Freedom Shield, one of two major annual exercises held by South Korea and the US, start on Monday and run until 27 August. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "published": "Mon, 17 Aug 2026 04:07:57 GMT",
+      "published": "Mon, 17 Aug 2026 09:10:24 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 12,
@@ -1001,24 +1004,13 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump orders cuts to South Korea joint drills despite warnings of North’s growing battlefield experience"
+      "ticker_label": "🪖 Trump orders cuts to South Korea joint drills despite warnings about Kim regime"
     },
     {
       "title": "India temple stampede in Bihar kills 7",
       "description": "At least seven people were killed after a stampede broke out at a Hindu shrine in eastern India. An investigation into the incident is underway.",
       "url": "https://www.dw.com/en/india-temple-stampede-in-bihar-kills-7/a-78390719?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 17 Aug 2026 04:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "In Germany, record heat meets climate action fatigue",
-      "description": "Climate action does not seem to be a priority for the German government — despite record temperatures, heat-related deaths and drought. Why aren't more people taking to the streets in protest?",
-      "url": "https://www.dw.com/en/in-germany-record-heat-meets-climate-action-fatigue/a-78374727?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 15 Aug 2026 14:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
@@ -1320,17 +1312,6 @@
       "is_ticker": false
     },
     {
-      "title": "West Bank: Activist recounts life under settler siege in Qusra",
-      "description": "A week after Israeli settlers began besieging Palestinian homes in the West Bank village of Qusra, human rights activist Netanael Hanadaro joined FRANCE 24 to recount what he witnessed there. He said he and other NGO members reached the isolated homes on foot and left food outside for the trapped residents, with the Israeli army saying it would deliver the supplies. Hanadaro described an extraordinary situation in which the homes, located on the outskirts of the village, have been surrounded by settlers while the army works to prevent clashes between the settlers and activists.",
-      "url": "https://www.france24.com/en/west-bank-activist-recounts-life-under-settler-siege-in-qusra",
-      "published": "Sun, 16 Aug 2026 14:38:57 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "description": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
@@ -1404,6 +1385,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "US and South Korea begin military drills despite Trump call to scale back",
+      "description": "US and South Korean forces began on Monday joint military drills as planned, despite Donald Trump calling for them to be scaled back. Trump said the exercises were too costly and hostile toward North Korea, while critics warned reducing them could weaken South Korea’s security. The drills are set to continue until August 28.",
+      "url": "https://www.france24.com/en/us-and-south-korea-begin-military-drills-despite-trump-call-to-scale-back",
+      "published": "Mon, 17 Aug 2026 09:22:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US and South Korea begin military drills despite Trump call to scale back"
     },
     {
       "title": "Trump orders Pentagon to scale back military drills with South Korea hours before start",
@@ -1670,6 +1665,17 @@
       "ticker_label": "🪖 Ukraine: Russian strike destroys Kyiv book market"
     },
     {
+      "title": "Bus crash in Hungary kills 12 people, injures at least 10 others",
+      "description": "Police say a passenger bus traveling on a highway in Hungary early Sunday went off the road and into a ditch where it overturned, killing 12 and injuring others",
+      "url": "https://abcnews.com/International/wireStory/bus-crash-hungary-kills-12-people-injures-10-135684155",
+      "published": "Sun, 16 Aug 2026 05:31:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next",
       "description": "U.S. negotiator Jared Kushner has held a rare meeting with the Hamas chief in Egypt in a push to make progress on the stalled Gaza ceasefire",
       "url": "https://abcnews.com/International/wireStory/kushner-rare-meeting-hamas-leader-gaza-road-map-135691312",
@@ -1682,17 +1688,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Kushner has a rare meeting with Hamas' leader on the Gaza road map. A meeting with Netanyahu is next"
-    },
-    {
-      "title": "Bus crash in Hungary kills 12 people, injures at least 10 others",
-      "description": "Police say a passenger bus traveling on a highway in Hungary early Sunday went off the road and into a ditch where it overturned, killing 12 and injuring others",
-      "url": "https://abcnews.com/International/wireStory/bus-crash-hungary-kills-12-people-injures-10-135684155",
-      "published": "Sun, 16 Aug 2026 05:31:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Nevada man funneled 140 guns to violent Mexican drug cartels, including powerful 'military-style' rifles: DOJ",
@@ -1808,7 +1803,7 @@
       "title": "Labor pledges opt-out register for online gambling ads as Pocock calls out shortfalls in government’s bill",
       "description": "The new measure falls short of calls for gambling ads to move to an opt-in model, or for an outright ban Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Labor government has pledged a new single-service opt-out register for gambling ads – an idea similar to the Do Not Call register for spam calls – as part of amendments to its wagering ad bill, as well as restrictions on inducements and limiting commissions for agents. The communications minister, Anika Wells, has also confirmed gambling companies will face a new levy to pay for the register, a beefed-up measure to curb wagering ads, after concerns were raised through a Senate inquiry that people would struggle to find or complete individual opt-out options on each online service. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia",
-      "published": "Mon, 17 Aug 2026 08:14:20 GMT",
+      "published": "Mon, 17 Aug 2026 09:10:05 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
@@ -1918,17 +1913,6 @@
       "is_ticker": false
     },
     {
-      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
-      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
-      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 13:34:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Ferrari's first ever electric car sold for record $40m",
       "description": "The Luce's launch drew backlash from some commentators who said it broke from the brand's signature dramatic styling.",
       "url": "https://www.bbc.co.uk/news/articles/c77ggpgrp2do?at_medium=RSS&at_campaign=rss",
@@ -1940,10 +1924,21 @@
       "is_ticker": false
     },
     {
-      "title": "Europe's tallest Virgin Mary statue unveiled in rural Poland",
-      "description": "The 55.6-metre (182ft) concrete figure is head-and-shoulders above Rio de Janeiro's Christ the Redeemer.",
-      "url": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 16 Aug 2026 11:35:25 GMT",
+      "title": "Movie that went viral for terrible animation becomes China box office hit",
+      "description": "Niu Lai's confusing plot and laughable animation quality has won ironic fans on the internet.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g4r0mrmlpo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 17 Aug 2026 08:35:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "description": "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit.",
+      "url": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 16 Aug 2026 13:34:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1967,6 +1962,28 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 17:00:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Will India’s ‘Cockroach’ movement force Modi’s BJP to rethink its politics?",
+      "description": "Modi's BJP once controlled media narratives in India, but this might be changing with the 'Cockroach' movement.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/has-indias-cockroach-movement-forced-modis-bjp-to-recalibrate-agenda?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 09:03:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Photos: Rising energy prices disrupt education on Cambodia’s Tonle Sap lake",
+      "description": "Children on Tonle Sap sacrifice education, with many working to help their families cover increasing fuel costs.",
+      "url": "https://www.aljazeera.com/gallery/2026/8/17/photos-rising-energy-prices-disrupt-education-on-cambodias-tonle-sap-lake?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 09:01:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2054,28 +2071,6 @@
       "description": "The African Union is seeking progress in Sudan, but must overcome deep battlefield and diplomatic divisions.",
       "url": "https://www.aljazeera.com/news/2026/8/17/can-the-au-make-its-current-sudan-mission-count?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 01:13:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says US to ‘substantially reduce’ military drills with South Korea",
-      "description": "US president says he's 'not happy' about the drills, citing his 'very good relationship' with North Korea's Kim Jong Un.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/trump-says-us-to-substantially-reduce-military-drills-with-south-korea?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 00:11:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel releases 35 Palestinian prisoners back into Gaza",
-      "description": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 00:05:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2479,6 +2474,50 @@
       "is_ticker": false
     },
     {
+      "title": "Athens cleans its all-marble Olympic stadium for the first time in over a century",
+      "description": "Athens’ iconic Panathenaic Stadium is undergoing its first systematic cleaning in more than a century",
+      "url": "https://abcnews.com/International/wireStory/athens-cleaning-marble-olympic-stadium-time-century-135683788",
+      "published": "Sun, 16 Aug 2026 02:21:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
+      "description": "An extremist official in Prime Minister Benjamin Netanyahu's cabinet has advocated for killing “30 to 40” people in Gaza each night",
+      "url": "https://abcnews.com/International/wireStory/israels-ben-gvir-advocates-killing-30-40-people-135687845",
+      "published": "Sun, 16 Aug 2026 11:30:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist",
+      "description": "The thieves bypassed alarm and security systems at the MuMe museum.",
+      "url": "https://abcnews.com/International/wireStory/thieves-steal-4-renaissance-artworks-sicilian-museum-heist-135685153",
+      "published": "Sun, 16 Aug 2026 15:22:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news",
+      "description": "The top U.S. military commander in the Middle East has visited the long-deployed USS Lincoln in the Arabian Sea",
+      "url": "https://abcnews.com/International/wireStory/us-top-middle-east-commander-visits-deployed-aircraft-135684259",
+      "published": "Sun, 16 Aug 2026 15:46:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Japan's economy manages 1.1% growth rate despite headwinds",
       "description": "Japan’s economy grew an annualized rate of 1.1% in the April-June quarter, even as private consumption stayed flat and the growth of exports declined",
       "url": "https://abcnews.com/International/wireStory/japans-economy-manages-11-growth-rate-despite-headwinds-135698570",
@@ -2516,39 +2555,6 @@
       "description": "The BBC has asked a U.S. court for help getting documents and testimony from U.S. President Donald Trump's family in connection to his $10-billion defamation lawsuit against the broadcaster",
       "url": "https://abcnews.com/International/wireStory/bbc-asks-us-court-testimony-trump-family-defamation-135689479",
       "published": "Sun, 16 Aug 2026 14:17:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel's Ben Gvir advocates killing '30 to 40' people in Gaza nightly while speaking to ex-hostage",
-      "description": "An extremist official in Prime Minister Benjamin Netanyahu's cabinet has advocated for killing “30 to 40” people in Gaza each night",
-      "url": "https://abcnews.com/International/wireStory/israels-ben-gvir-advocates-killing-30-40-people-135687845",
-      "published": "Sun, 16 Aug 2026 11:30:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Thieves steal 4 Renaissance artworks in Sicilian museum heist",
-      "description": "The thieves bypassed alarm and security systems at the MuMe museum.",
-      "url": "https://abcnews.com/International/wireStory/thieves-steal-4-renaissance-artworks-sicilian-museum-heist-135685153",
-      "published": "Sun, 16 Aug 2026 15:22:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Top US commander visits aircraft carrier, Gaza talks in Egypt and other Mideast news",
-      "description": "The top U.S. military commander in the Middle East has visited the long-deployed USS Lincoln in the Arabian Sea",
-      "url": "https://abcnews.com/International/wireStory/us-top-middle-east-commander-visits-deployed-aircraft-135684259",
-      "published": "Sun, 16 Aug 2026 15:46:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
