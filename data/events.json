@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T14:10:19.513144Z",
+  "last_updated": "2026-08-17T14:42:30.987601Z",
   "event_count": 224,
   "events": [
     {
@@ -99,20 +99,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ International help arrives as wildfires rage across Belgium"
-    },
-    {
-      "title": "French PM Lecornu announces aid for fire-ravaged regions after jeers from locals",
-      "description": "French Prime Minister Sébastien Lecornu on Monday announced €12 million in immediate aid and fast-track rebuilding measures for communities in southwest France devastated by wildfires. His visit came amid anger from residents, some of whom heckled him over the government’s handling of the disaster.",
-      "url": "https://www.france24.com/en/france/20260817-french-pm-lecornu-booed-by-residents-on-visit-to-fire-ravaged-southwest",
-      "published": "Mon, 17 Aug 2026 10:16:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ French PM Lecornu announces aid for fire-ravaged regions after jeers from locals"
     },
     {
       "title": "Ukraine and Russia intensify attacks, several killed in Belgorod border region",
@@ -233,6 +219,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Indonesia earthquake leaves thousands homeless as rescue efforts continue"
+    },
+    {
+      "title": "French PM Lecornu unveils aid for fire-hit regions, warns relief could exceed €100 million",
+      "description": "French Prime Minister Sébastien Lecornu on Monday announced €12 million in immediate aid and fast-track rebuilding measures for communities in southwest France devastated by wildfires, adding that the cost of relief measures could exceed €100 million.",
+      "url": "https://www.france24.com/en/france/20260817-french-pm-lecornu-booed-by-residents-on-visit-to-fire-ravaged-southwest",
+      "published": "Mon, 17 Aug 2026 10:16:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ French PM Lecornu unveils aid for fire-hit regions, warns relief could exceed €100 million"
     },
     {
       "title": "Thousands in Indonesia await aid after quake kills 54, overshadowing Independence Day",
@@ -434,20 +434,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia and Ukraine trade more deadly strikes"
-    },
-    {
-      "title": "Thousands await aid after deadly Indonesia quake as rescue work under way",
-      "description": "Thousands remain displaced after a magnitude 7.7 earthquake struck East Nusa Tenggara province on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/thousands-await-aid-after-deadly-indonesia-quake-as-rescue-work-conducted?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 10:14:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Thousands await aid after deadly Indonesia quake as rescue work under way"
     },
     {
       "title": "As war with Ukraine wages on, a look at life inside Russia",
@@ -891,6 +877,20 @@
       "ticker_label": "🪖 Why Kyiv keeps attacking Russian retail giant Wildberries"
     },
     {
+      "title": "US tourist killed by lightning strike on Mount Etna during hike in restricted area",
+      "description": "An American tourist has been killed by a lightning strike after hiking in a restricted part of Mount Etna.",
+      "url": "https://news.sky.com/story/us-tourist-killed-by-lightning-strike-on-mount-etna-during-hike-in-restricted-area-13574041",
+      "published": "Mon, 17 Aug 2026 13:46:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US tourist killed by lightning strike on Mount Etna during hike in restricted area"
+    },
+    {
       "title": "Seven killed and more than a dozen injured during temple stampede in India",
       "description": "Seven people have been killed and more than a dozen injured after a stampede broke out at a temple in India.",
       "url": "https://news.sky.com/story/seven-killed-and-more-than-a-dozen-injured-during-ashok-dham-temple-stampede-in-india-13573934",
@@ -1323,9 +1323,9 @@
     },
     {
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
-      "description": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak. The DRC’s public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours. Continue reading...",
+      "description": "At least 2,325 people have died from the virus, according to official data, with outbreak on track to be biggest in history The Ebola outbreak in the Democratic Republic of the Congo is now the deadliest in the country’s history, with at least 2,325 people dead, according to government data, surpassing the toll from the 2018-20 outbreak. The DRC’s public health institute said confirmed cases had risen to 4,945, including 101 detected in the previous 24 hours. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
-      "published": "Mon, 17 Aug 2026 08:47:18 GMT",
+      "published": "Mon, 17 Aug 2026 14:07:31 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 10,
@@ -1669,17 +1669,6 @@
       "is_ticker": false
     },
     {
-      "title": "How China-India border tensions are rising again over encroachment claims",
-      "description": "India and China are tangled in yet another border dispute, angering locals in the eastern state of Arunachal Pradesh.",
-      "url": "https://www.aljazeera.com/news/2026/8/17/is-china-encroaching-upon-indian-territory-in-arunachal-pradesh-2?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 10:51:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "description": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic ills The Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights. The win is significant for Ontario’s premier, Doug Ford, and his government, who have long railed against Toronto’s bike lanes, blaming the protected zones for the city’s traffic ills . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
@@ -2004,9 +1993,9 @@
     },
     {
       "title": "Top Zambian opposition figures arrested days after presidential vote",
-      "description": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
+      "description": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
       "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 17 Aug 2026 12:11:13 GMT",
+      "published": "Mon, 17 Aug 2026 14:23:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2063,6 +2052,42 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2gp5g0xngo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 14 Aug 2026 17:00:14 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran signals readiness for ‘US ground operations’ as MoU expires",
+      "description": "Iran's more offensive posture follows Trump's comment that the US would soon make the Strait of Hormuz its territory.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/iran-signals-readiness-for-us-ground-operations-as-mou-expires?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 14:15:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran signals readiness for ‘US ground operations’ as MoU expires"
+    },
+    {
+      "title": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
+      "description": "Twelve people including the captain are on board the vessel named Kate, in the latest attempt to deliver aid.",
+      "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 14:12:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
+      "description": "Brazil’s presidential race is officially underway.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
+      "published": "Mon, 17 Aug 2026 14:03:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2139,17 +2164,6 @@
       "description": "A stampede at a Hindu temple in eastern India kills seven people and injures nineteen more.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/indian-temple-stampede-kills-seven-people-and-injures-dozens?traffic_source=rss",
       "published": "Mon, 17 Aug 2026 10:54:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
-      "description": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
-      "url": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
-      "published": "Mon, 17 Aug 2026 10:51:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2469,17 +2483,6 @@
       "description": "Cristiano Ronaldo has said the new football season is \"probably\" his last.",
       "url": "https://news.sky.com/story/cristiano-ronaldo-says-it-is-probably-his-last-season-13573763",
       "published": "Sun, 16 Aug 2026 16:48:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "More than 100 arrested in Morocco after call for another migrant mass crossing to Ceuta",
-      "description": "At least 111 people have been arrested for trying to get into Ceuta following another call on social media for a mass crossing of migrants.",
-      "url": "https://news.sky.com/story/more-than-100-arrested-in-morocco-after-social-media-call-for-another-migrant-mass-crossing-to-ceuta-13573534",
-      "published": "Sat, 15 Aug 2026 19:00:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
