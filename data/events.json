@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T08:47:29.591287Z",
+  "last_updated": "2026-08-19T09:14:00.445739Z",
   "event_count": 225,
   "events": [
     {
@@ -99,6 +99,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Aid workers faced record number of attacks in 2025, UN says",
+      "description": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
+      "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 08:40:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -235,20 +246,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ICC says US sanctions on top court members 'undermine rule of law'"
-    },
-    {
-      "title": "Al Jazeera reports from Indonesia’s quake zone, desperate for help",
-      "description": "Thousands are still displaced on Indonesia’s Flores Island after a 7.7-magnitude earthquake killed at least 70 people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/al-jazeera-reports-from-indonesias-quake-zone-desperate-for-help?traffic_source=rss",
-      "published": "Tue, 18 Aug 2026 23:59:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Al Jazeera reports from Indonesia’s quake zone, desperate for help"
     },
     {
       "title": "Ebola: Motorbike riders carrying the sick may hold key to response boost",
@@ -407,20 +404,6 @@
       "ticker_label": "🪖 South Africa to Australia: Why coal profits are surging during Iran war"
     },
     {
-      "title": "US ambassador to Israel calls settler violence ‘terror’",
-      "description": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 00:49:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 US ambassador to Israel calls settler violence ‘terror’"
-    },
-    {
       "title": "Nearly 1,600 aftershocks hit Indonesia after earthquake kills at least 68 people",
       "description": "Nearly 1,600 aftershocks have hit Indonesia and thousands have been forced out of their homes after a powerful earthquake killed at least 68 people.",
       "url": "https://news.sky.com/story/nearly-1600-aftershocks-hit-indonesia-after-earthquake-kills-at-least-68-people-13573963",
@@ -561,6 +544,34 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US condemns 'unnecessary escalation' after Israeli airstrikes on Syrian airbase"
+    },
+    {
+      "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
+      "description": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la Espriella In the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella. Coral held banners outside polling stations in Miami warning that the millionaire lawyer, whose candidacy was endorsed by Donald Trump, would “help deport all of you”. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
+      "published": "Wed, 19 Aug 2026 09:00:12 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Activist forced out of US after criticising Trump-aligned Colombian politician"
+    },
+    {
+      "title": "Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires",
+      "description": "A destructive wildfire season is pushing American firefighting resources to their limits. Australia and New Zealand have sent their largest contingent ever to help out.",
+      "url": "https://www.npr.org/2026/08/19/nx-s1-5931946/australia-and-new-zealand-send-over-240-firefighters-to-help-battle-u-s-wildfires",
+      "published": "Wed, 19 Aug 2026 04:46:14 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Australia and New Zealand send over 240 firefighters to help battle U.S. wildfires"
     },
     {
       "title": "US tourist killed by lightning strike on Mount Etna during hike in restricted area",
@@ -762,17 +773,6 @@
       "is_ticker": false
     },
     {
-      "title": "How Ebola became the deadliest outbreak in DR Congo’s history",
-      "description": "Conflict, delayed detection, and mistrust are complicating efforts to contain the virus in eastern DR Congo.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/how-ebola-became-the-deadliest-outbreak-in-dr-congos-history?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 00:53:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Meta sued by US states for hooking and exploiting kids in pursuit of profit",
       "description": "Meta is on trial for intentionally seeking to addict children to its Facebook and Instagram platforms in pursuit of profit, a lawyer for California said on Tuesday, at the start of a trial that could rehsape some of the most popular apps in the world.",
       "url": "https://www.france24.com/en/americas/20260819-meta-sued-by-us-states-for-hooking-and-exploiting-kids-in-pursuit-of-profit",
@@ -795,8 +795,8 @@
       "is_ticker": false
     },
     {
-      "title": "British tourist and wife killed in Greek helicopter crash on honeymoon named",
-      "description": "A British tourist and his wife who died in a helicopter crash ​in Greece while on their honeymoon have been named.",
+      "title": "Married British couple on honeymooon killed in Greek helicopter crash",
+      "description": "A married British couple who died in a helicopter crash ​in Greece while on their honeymoon have been named.",
       "url": "https://news.sky.com/story/british-couple-killed-in-greek-helicopter-crash-while-on-honeymoon-named-13574179",
       "published": "Mon, 17 Aug 2026 21:33:00 +0100",
       "source": "Sky News World",
@@ -806,7 +806,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 British tourist and wife killed in Greek helicopter crash on honeymoon named"
+      "ticker_label": "💥 Married British couple on honeymooon killed in Greek helicopter crash"
     },
     {
       "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base ‘integral’",
@@ -1059,20 +1059,6 @@
       "ticker_label": "💥 Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history"
     },
     {
-      "title": "USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu",
-      "description": "The USS Washington is on its way to the Middle East to relieve the USS Lincoln amid concerns about conditions aboard. And, Jared Kushner is expected to meet with Prime Minister Netanyahu to move Gaza talks forward.",
-      "url": "https://www.npr.org/2026/08/17/g-s1-138973/up-first-newsletter-uss-lincoln-meta-israel-hamas-ukraine-russia",
-      "published": "Mon, 17 Aug 2026 07:48:21 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 USS Washington to relieve USS Lincoln. And, Jared Kushner to meet with Netanyahu"
-    },
-    {
       "title": "Ebola outbreak passes deadly new milestone",
       "description": "An Ebola outbreak in the Democratic Republic of the Congo (DRC) has officially become the deadliest in the country's history, data suggests.",
       "url": "https://news.sky.com/story/ebola-outbreak-in-dr-congo-now-deadliest-in-countrys-history-13573874",
@@ -1231,6 +1217,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine’s sacked defence minister calls for wartime elections",
+      "description": "Ukraine’s sacked defence minister calls for wartime elections",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/ukraines-sacked-defence-minister-calls-for-wartime-elections?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 08:46:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine’s sacked defence minister calls for wartime elections"
+    },
+    {
       "title": "Ukraine’s ousted defence minister calls for elections during war",
       "description": "Mykhailo Fedorov's call is first such demand by a major Ukrainian political figure since Russia's full-scale invasion.",
       "url": "https://www.aljazeera.com/news/2026/8/19/ukraines-ousted-defence-minister-calls-for-elections-during-war?traffic_source=rss",
@@ -1257,20 +1257,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UAE imposes indefinite trade embargo on Iran over alleged missile attacks"
-    },
-    {
-      "title": "Iran war live: Rubio discusses Hormuz security with UAE official",
-      "description": "Trump says no talks with Tehran scheduled; Iranian Foreign Minister Abbas Araghchi claims US 'begging' for negotiations.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Rubio discusses Hormuz security with UAE official"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1349,6 +1335,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 As drought hits Germany's harvest, will food prices rise?"
+    },
+    {
+      "title": "Reforestation and sustainable land & water management can help combat desertification",
+      "description": "Oliver Farry is pleased to welcome Serena Ferrari, Economist and Researcher at CIRAD. Desertification is driven by climate change, explains Ferrari, but economic and political choices, including intensive water use, chemical-dependent agriculture and the pursuit of ever-higher productivity, can intensify pressure on already fragile ecosystems. Mongolia makes this particularly visible: as a pastoralist and rangeland country facing an increasingly harsh climate, it stands at the intersection of the ecological and social questions being debated at COP17.",
+      "url": "https://www.france24.com/en/reforestation-and-sustainable-land-water-management-can-help-combat-desertification",
+      "published": "Wed, 19 Aug 2026 08:50:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Middle East live: Iran army chief warns Gulf countries not to help US military",
@@ -1546,47 +1543,11 @@
       "is_ticker": false
     },
     {
-      "title": "Watch: What we learned from opening statements in Tupac murder trial",
-      "description": "The BBC's Shaimaa Khalil breaks down the key arguments as the long-awaited trial gets under way.",
-      "url": "https://www.bbc.co.uk/news/videos/cevmw1pl9kvo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 18 Aug 2026 04:05:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Quebec separatist says no independence referendum while Trump in office",
-      "description": "Leader of Canadian province's secessionist party says debate over independence stymied by turbulence in US politics.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/quebec-separatist-says-no-independence-referendum-while-trump-in-office?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 00:17:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Quebec separatist says no independence referendum while Trump in office"
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-      "description": "Move will be one of first large-scale foreign investments in country since US ousted leader Nicolás Maduro in January BP has answered Donald Trump’s call for oil companies to help rebuild Venezuela’s fossil fuel industry with new plans to develop a large offshore gasfield. BP will partner with two oil firms with close links to the Trump administration to develop the second phase of the Loran gasfield, in one of the first large-scale foreign investments in Venezuela since the US ousted its leader Nicolás Maduro in January. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-      "published": "Fri, 14 Aug 2026 14:04:49 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1724,17 +1685,6 @@
       "description": "In South Africa, the Madlanga Commission set up last year to unpick allegations of unlawful kickbacks, cliques and corruption in the criminal justice system continues its investigations.",
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20260818-jailed-businessman-appears-accused-of-bribes-and-cartel-links",
       "published": "Tue, 18 Aug 2026 20:28:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Search launched after sailboat found adrift off French island",
-      "description": "Search operations were under way Monday evening for anyone who may have been on board a yacht found adrift off a French island. The alert was raised by a passenger aboard a Brittany Ferries vessel travelling from Portsmouth in Britain to Bilbao in Spain, who spotted the yacht apparently in distress.",
-      "url": "https://www.france24.com/en/video/20260818-search-launched-after-sailboat-found-adrift-off-french-island",
-      "published": "Tue, 18 Aug 2026 15:46:36 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 5,
@@ -1888,6 +1838,17 @@
       "is_ticker": false
     },
     {
+      "title": "Alleged sexual assault by local official and businessman sparks outrage in China",
+      "description": "Both men are arrested after the alleged assault on a woman at a karaoke bar during a business event.",
+      "url": "https://www.bbc.co.uk/news/articles/c1d1wgqqxp5o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 19 Aug 2026 07:21:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1927,7 +1888,7 @@
       "title": "Sacked Ukrainian defence minister calls for presidential election",
       "description": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
       "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 19 Aug 2026 07:14:50 GMT",
+      "published": "Wed, 19 Aug 2026 09:02:08 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1935,7 +1896,7 @@
       "is_ticker": false
     },
     {
-      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, court told",
+      "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
       "description": "Erin Patterson's defence team appeal against her conviction for killing relatives with a beef Wellington laced with toxic mushrooms.",
       "url": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 19 Aug 2026 08:25:03 GMT",
@@ -1984,6 +1945,61 @@
       "url": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 17 Aug 2026 18:03:23 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US pilot lands jet without front wheels after landing gear failure",
+      "description": "US pilot lands jet without front wheels after landing gear failure",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-pilot-lands-jet-without-front-wheels-after-landing-gear-failure?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 09:06:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Kelsey Mitchell ties WNBA scoring record in Fever win over Tempo",
+      "description": "The three-time All-Star made history when she registered 20 or more points in a WNBA game for the 20th straight time.",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/kelsey-mitchell-ties-wnba-scoring-record-in-fever-win-over-tempo?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 09:01:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Breastfeeding in Gaza: Mothers seek help to provide for their babies",
+      "description": "Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.",
+      "url": "https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 08:46:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Sabalenka cruises through as Medvedev falls to Nakashima at Cincinnati Open",
+      "description": "Top-ranked Aryna Sabalenka lost just four games to breeze into fourth round while Brandon Nakashima recorded a huge win.",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/no-1-sabalenka-slams-wang-to-advance-at-cincinnati-open-medvedev-nakashima?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 08:42:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Musiala collapses for Bayern again as ‘neurological disorder’ diagnosed",
+      "description": "Bayern Munich and Germany's Jamal Musiala collapses on field for second time but 'very optimistic' about condition.",
+      "url": "https://www.aljazeera.com/sports/2026/8/19/musiala-collapses-for-bayern-again-as-neurological-disorder-diagnosed?traffic_source=rss",
+      "published": "Wed, 19 Aug 2026 08:42:17 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2060,28 +2076,6 @@
       "description": "A landmark trial has begun in California over allegations Meta deliberately designed its platforms to be addictive.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/trial-begins-that-could-force-meta-to-change-facebook-and-instagram?traffic_source=rss",
       "published": "Wed, 19 Aug 2026 03:20:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump pauses 50 percent tariffs on Canada in last-minute deal",
-      "description": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
-      "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 02:35:15 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US refineries taking in half of Venezuela’s oil output, official says",
-      "description": "US official says Venezuela is sending 500,000 of its 1.25 million barrels per day output to Gulf Coast refineries.",
-      "url": "https://www.aljazeera.com/news/2026/8/19/venezuela-oil-exports-surge-with-us-refineries-taking-in-half-of-output?traffic_source=rss",
-      "published": "Wed, 19 Aug 2026 02:00:43 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2211,7 +2205,7 @@
     },
     {
       "title": "Virgin Australia apologises to disability advocate removed from flight over wheelchair motor",
-      "description": "Shane Hryhorec’s viral video showing the interaction with flight staff has already garnered 16 million views Virgin Australia has apologised to a disability advocate who said he was “humiliated” by his removal from a flight over his wheelchair motor. The airline called Shane Hryhorec on Wednesday afternoon to offer an apology, two days after the Adelaide-based man published a viral video showing the incident on board a flight from Sydney. Continue reading...",
+      "description": "Shane Hryhorec’s viral video showing the interaction with flight staff has already garnered 16m views Get our breaking news email , free app or daily news podcast Virgin Australia has apologised to a disability advocate who said he was “humiliated” by his removal from a flight over his wheelchair motor. The airline called Shane Hryhorec on Wednesday afternoon to offer an apology, two days after the Adelaide-based man published a viral video showing the incident onboard a flight from Sydney. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/aug/19/virgin-australia-apologises-to-disability-advocate-removed-from-flight-over-wheelchair-motor-ntwnfb",
       "published": "Wed, 19 Aug 2026 08:33:03 GMT",
       "source": "The Guardian World",
@@ -2323,6 +2317,17 @@
       "ticker_label": "💥 Palestinian American returns to his West Bank home, under siege by Israeli settlers"
     },
     {
+      "title": "Who really owns the Caspian Sea?",
+      "description": "Five countries border the Caspian Sea, but none owns a fixed share. A 2018 convention established rules for navigation, security and fishing while leaving some seabed borders unresolved.",
+      "url": "https://www.dw.com/en/who-really-owns-the-caspian-sea/a-78396946?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 19 Aug 2026 09:02:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "US, South Korea cut short joint drills after Trump criticism",
       "description": "Allies US and South Korea are currently holding joint military exercises. The drills will, however, wrap up earlier than planned after Trump ordered cuts.",
       "url": "https://www.dw.com/en/us-south-korea-cut-short-joint-drills-after-trump-criticism/a-78421117?maca=en-rss-en-all-1573-xml-mrss",
@@ -2368,20 +2373,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Should India be worried about the Mecca defense pact?",
-      "description": "A defense agreement between Pakistan, Saudi Arabia and Turkey brings Islamabad deeper into the security architecture of the Middle East. How is India planning to respond?",
-      "url": "https://www.dw.com/en/should-india-be-worried-about-the-mecca-defense-pact/a-78415444?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 18 Aug 2026 14:25:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Should India be worried about the Mecca defense pact?"
     },
     {
       "title": "Champions League: Everything still to play for between Lyon and Fenerbahçe",
@@ -2481,6 +2472,17 @@
       "is_ticker": false
     },
     {
+      "title": "Nick Kyrgios banned from tennis after testing positive for cocaine",
+      "description": "Nick Kyrgios has been banned from tennis after testing positive for cocaine.",
+      "url": "https://news.sky.com/story/nick-kyrgios-banned-from-tennis-after-testing-positive-for-cocaine-13574613",
+      "published": "Wed, 19 Aug 2026 09:46:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Watchdog contacting TikTok over 'joyriding content' after five teens die speeding wrong way on motorway",
       "description": "The Irish media regulator is to contact social media giant TikTok over its efforts to tackle videos of reckless and illegal driving.",
       "url": "https://news.sky.com/story/watchdog-contacting-tiktok-over-joyriding-content-after-five-teenagers-die-speeding-wrong-way-on-motorway-13574234",
@@ -2496,17 +2498,6 @@
       "description": "Tap to never miss an episode: Follow Cheat Sheet here",
       "url": "https://news.sky.com/story/no-10-north-to-oversee-economic-growth-zelenskyy-faces-calls-for-election-13574551",
       "published": "Wed, 19 Aug 2026 05:55:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump downscales 'hostile' military drills with South Korea",
-      "description": "Joint US military exercises with South Korea will be downscaled, Donald Trump says, as they are \"hostile\" and too expensive.",
-      "url": "https://news.sky.com/story/trump-downscales-hostile-military-drills-with-south-korea-citing-very-good-relationship-with-kim-jong-un-13573864",
-      "published": "Sun, 16 Aug 2026 22:47:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
