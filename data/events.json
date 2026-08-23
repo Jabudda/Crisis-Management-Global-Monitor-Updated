@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T17:38:52.639227Z",
+  "last_updated": "2026-08-23T18:07:46.486221Z",
   "event_count": 222,
   "events": [
     {
@@ -87,6 +87,34 @@
       "ticker_label": "🌪️ How will European politicians react to a summer of extreme heat?"
     },
     {
+      "title": "Moderate earthquake shakes Japan, injuring more than 30 in the Tokyo region",
+      "description": "A moderate earthquake with a preliminary magnitude of 5.9 has rattled eastern Japan, including the Tokyo area, but no tsunami warning was issued",
+      "url": "https://abcnews.com/International/wireStory/moderate-earthquake-magnitude-59-shakes-eastern-japan-tsunami-135870135",
+      "published": "Sun, 23 Aug 2026 07:35:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 37,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Moderate earthquake shakes Japan, injuring more than 30 in the Tokyo region"
+    },
+    {
+      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+      "description": "A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 17:55:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Thousands displaced as wildfire threatens homes in US state of Nevada"
+    },
+    {
       "title": "New initiative launched to shield terrorism victims from online harm",
       "description": "The UN has launched a new initiative to protect victims of terrorist attacks from online harm and re-traumatisation, drawing on harrowing survivor accounts, from the Nova Music Festival in Israel to an attack on a FIFA World Cup final viewing party in Uganda.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168186",
@@ -127,20 +155,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Wartime elections would 'destroy' Ukraine, says Zelensky"
-    },
-    {
-      "title": "Wildfires expose — and detonate — buried bombs and mines from WWI and WWII",
-      "description": "The wildfires burning across Europe this summer have exposed a potentially deadly threat lurking beneath the blackened landscape: rusty bombs and mines from World War I and II",
-      "url": "https://abcnews.com/International/wireStory/wildfires-expose-detonate-buried-bombs-mines-wwi-wwii-135860099",
-      "published": "Sat, 22 Aug 2026 05:59:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 34,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfires expose — and detonate — buried bombs and mines from WWI and WWII"
     },
     {
       "title": "Russian missiles kill 17 more in Ukraine as Guterres calls for ceasefire",
@@ -506,6 +520,17 @@
       "ticker_label": "🪖 Middle East live: Israeli strikes kill three, including child, in Gaza Strip"
     },
     {
+      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
+      "description": "Iran's president claims the world has accepted that Iran has won its conflict with the United States",
+      "url": "https://abcnews.com/International/wireStory/iran-world-accepted-defeated-us-middle-east-developments-135861227",
+      "published": "Sat, 22 Aug 2026 05:55:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Russian and Ukrainian attacks kill 5 a day after deadly shopping mall drone strike",
       "description": "Authorities say that Russian and Ukrainian drone and missile strikes have killed at least five people",
       "url": "https://abcnews.com/International/wireStory/russian-ukrainian-attacks-kill-5-people-day-after-135860467",
@@ -518,31 +543,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian and Ukrainian attacks kill 5 a day after deadly shopping mall drone strike"
-    },
-    {
-      "title": "Russian attacks on Ukraine kill 2 a day after deadly shopping mall drone strike",
-      "description": "Russian drone and missile strikes killed at least two people overnight in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/russian-attacks-ukraine-kill-2-people-day-after-135860466",
-      "published": "Sat, 22 Aug 2026 06:47:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian attacks on Ukraine kill 2 a day after deadly shopping mall drone strike"
-    },
-    {
-      "title": "Iran says the world has accepted it has defeated the US, and other Middle East developments",
-      "description": "Iran's president claims the world has accepted that Iran has won its conflict with the United States",
-      "url": "https://abcnews.com/International/wireStory/iran-world-accepted-defeated-us-middle-east-developments-135861227",
-      "published": "Sat, 22 Aug 2026 05:55:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Nevada brush fire spreads to 10,500 acres as governor declares state of emergency",
@@ -567,10 +567,10 @@
       "is_ticker": false
     },
     {
-      "title": "France links rise in drownings to heatwaves",
+      "title": "France links sharp rise in drownings to heatwaves",
       "description": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
       "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 15:00:17 GMT",
+      "published": "Sun, 23 Aug 2026 17:39:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 18,
@@ -679,6 +679,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon"
+    },
+    {
+      "title": "Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms",
+      "description": "House Speaker Mike Johnson, a Trump ally, admits it 'would be helpful' if conflict ends before elections in November.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 17:53:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war: Top US lawmaker says Republicans can ‘absolutely’ win midterms"
     },
     {
       "title": "Gaza families search for children missing after years of war",
@@ -998,6 +1012,17 @@
       "ticker_label": "🪖 DR Congo, AFC/M23 group agree on roadmap for peace negotiations after Swiss talks"
     },
     {
+      "title": "2 rescued off India's eastern coast after distress alert from Panama-flagged cargo ship",
+      "description": "A search and rescue operation is underway off India’s eastern coast after a distress alert and loss of contact with a Panama-flagged cargo ship",
+      "url": "https://abcnews.com/International/wireStory/2-rescued-off-indias-eastern-coast-after-distress-135879344",
+      "published": "Sun, 23 Aug 2026 06:18:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Israeli defense minister puts NATO power on notice as Middle East tensions surge: ‘Dangerous adventures’",
       "description": "Israeli Defense Minister Israel Katz warned Recep Tayyip Erdoğan not to test Israel's resolve after the Abu al-Duhur airbase strike in Syria.",
       "url": "https://www.foxnews.com/world/israeli-defense-minister-puts-nato-power-notice-middle-east-tensions-surge-dangerous-adventures",
@@ -1109,18 +1134,15 @@
       "ticker_label": "🌪️ Colombia earthquake: UN ramps up aid for 100,000 people"
     },
     {
-      "title": "Mugshot of accused NY Capitol ISIS plotter revealed as feds detail plans for more attacks",
-      "description": "Jessica Bowie's booking photo shows the Albany woman accused of pledging allegiance to ISIS and plotting to bomb the New York State Capitol.",
-      "url": "https://www.foxnews.com/us/mugshot-accused-ny-capitol-isis-plotter-revealed-feds-detail-plans-more-attacks",
-      "published": "Fri, 21 Aug 2026 14:10:33 -0400",
-      "source": "Fox News US",
+      "title": "Tunisia sees protests after migrant boat sinking kills eight",
+      "description": "A migrant boat carrying 15 Tunisians sank off the country's southeastern coast while heading to Italy, killing eight.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/tunisia-sees-protests-after-migrant-boat-sinking-kills-eight?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 17:57:48 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 11,
+      "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Mugshot of accused NY Capitol ISIS plotter revealed as feds detail plans for more attacks"
+      "is_ticker": false
     },
     {
       "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
@@ -1243,17 +1265,6 @@
       "description": "Harry Kane has added another honor after a remarkable season for Bayern Munich and a strong World Cup with England. Bayern also took the top prize in coaching, and the club's Giulia Gwinn won women's Player of the Year.",
       "url": "https://www.dw.com/en/harry-kane-named-footballer-of-the-year-in-germany/a-78476228?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 23 Aug 2026 12:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Chinese robot beats Usain Bolt's 100m world record",
-      "description": "The Chinese humanoid robot \"Lightning\" ran a 100-meter trial race faster than human world-record holder Usain Bolt. A year ago, humanoid robots struggled to finish a race.",
-      "url": "https://www.dw.com/en/chinese-robot-beats-usain-bolt-s-100m-world-record/a-78468749?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 22 Aug 2026 12:41:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
@@ -1461,10 +1472,24 @@
       "ticker_label": "🪖 Iran warns countries against joining US 'economic war'"
     },
     {
-      "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
-      "description": "Somali pirates have hijacked an oil tanker off Yemen, marking a resurgence in piracy",
-      "url": "https://abcnews.com/International/wireStory/somali-pirates-hijack-oil-tanker-off-yemen-latest-135860915",
-      "published": "Sat, 22 Aug 2026 06:16:16 -0400",
+      "title": "2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast",
+      "description": "At least two people have died and around 12 are missing after a boat carrying migrants capsized off southern Tunisia",
+      "url": "https://abcnews.com/International/wireStory/2-bodies-recovered-12-missing-after-migrant-boat-135871958",
+      "published": "Sat, 22 Aug 2026 16:48:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 2 bodies recovered and about 12 missing after migrant boat capsized off Tunisian coast"
+    },
+    {
+      "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
+      "description": "Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl",
+      "url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734",
+      "published": "Sat, 22 Aug 2026 09:54:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1486,10 +1511,10 @@
       "ticker_label": "🪖 Pope Leo praises San Marino as model of freedom and common good"
     },
     {
-      "title": "Victim of sword attack at Swedish school was a 17-year-old girl",
-      "description": "Police in Sweden say the victim of a deadly sword attack at a school was a 17-year-old girl",
-      "url": "https://abcnews.com/International/wireStory/victim-sword-attack-swedish-school-17-year-girl-135861734",
-      "published": "Sat, 22 Aug 2026 09:54:21 -0400",
+      "title": "Somali pirates hijack oil tanker off Yemen in latest attack",
+      "description": "Somali pirates have hijacked an oil tanker off Yemen, marking a resurgence in piracy",
+      "url": "https://abcnews.com/International/wireStory/somali-pirates-hijack-oil-tanker-off-yemen-latest-135860915",
+      "published": "Sat, 22 Aug 2026 06:16:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1547,10 +1572,10 @@
       "is_ticker": false
     },
     {
-      "title": "Trump arrives at high-speed IndyCar race through Washington's streets",
+      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
       "description": "The president took a ceremonial lap of the track before the race, which is the culmination of a summer of events to mark the country's 250th birthday.",
       "url": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 17:31:29 GMT",
+      "published": "Sun, 23 Aug 2026 17:54:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1893,17 +1918,6 @@
       "ticker_label": "💥 Woman’s alleged ISIS radicalization unfolded online before Capitol bomb plot: court docs"
     },
     {
-      "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
-      "description": "El-Sayed has hit back at JD Vance, saying his identity and religion aren’t causing the Trump administration’s problems.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 12:02:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -2028,11 +2042,11 @@
       "ticker_label": "🌪️ Robots could harvest lava from volcanic eruptions to make 'concrete' of the future"
     },
     {
-      "title": "Former Hong Kong vigil organizer strives to mark Tiananmen crackdown despite convictions",
-      "description": "Years after Hong Kong’s annual vigil for the Tiananmen Square crackdown ended, former organizer Tang Ngok-kwan still discreetly visits former memorial sites in the city",
-      "url": "https://abcnews.com/International/wireStory/former-hong-kong-vigil-organizer-strives-mark-tiananmen-135856760",
-      "published": "Fri, 21 Aug 2026 22:41:45 -0400",
-      "source": "ABC News International",
+      "title": "Georgia Walmart shopper picks up $30 from the floor, local police launches search for him",
+      "description": "The Albany Police Department's public search for a man who pocketed $30 inside a Walmart sparked widespread ridicule before the cash was returned.",
+      "url": "https://www.foxnews.com/us/georgia-walmart-shopper-picks-up-30-floor-local-police-launches-search",
+      "published": "Sun, 23 Aug 2026 13:57:52 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2105,7 +2119,7 @@
       "is_ticker": false
     },
     {
-      "title": "Landfill collapse in Guinea kills at least 22 people",
+      "title": "Landfill collapse in Guinea kills at least 30 people",
       "description": "Heavy rains wash over the site, triggering a landslide that buries several shacks.",
       "url": "https://www.aljazeera.com/news/2026/8/23/landfill-collapse-in-guinea-kills-at-least-22-people-official-says?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 17:35:01 +0000",
@@ -2116,7 +2130,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Landfill collapse in Guinea kills at least 22 people"
+      "ticker_label": "🌪️ Landfill collapse in Guinea kills at least 30 people"
     },
     {
       "title": "LIVE: Elche vs Barcelona – La Liga",
@@ -2156,28 +2170,6 @@
       "description": "Deepfake scams are becoming harder to spot as criminals use AI to impersonate officials and public figures.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 13:08:06 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "DR Congo miners risk Ebola to make a living",
-      "description": "DR Congo miners risk Ebola to make a living",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/dr-congo-miners-risk-ebola-to-make-a-living?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 12:13:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Real Madrid’s Mourinho condemns bullying of Vinicius after La Liga win",
-      "description": "Real Madrid coach Jose Mourinho has criticised the bullying of Vinicius Junior by opponents and fans.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/real-madrids-mourinho-condemns-bullying-of-vinicius-after-la-liga-win?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 12:13:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2361,6 +2353,17 @@
       "is_ticker": false
     },
     {
+      "title": "Guinea: Garbage collapse at landfill kills dozens",
+      "description": "Heavy seasonal rains caused a mound of garbage to collapse, burying dozens of people and nearby homes before the break of dawn.",
+      "url": "https://www.dw.com/en/guinea-garbage-collapse-at-landfill-kills-dozens/a-78478597?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 23 Aug 2026 17:48:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Is the US seeing a turning point in obesity rates?",
       "description": "Obesity rates climbed in the US for years, but now there are signs this could be changing. Use of weight-loss drugs such as Ozempic and Wegovy has increased rapidly — are they helping?",
       "url": "https://www.dw.com/en/is-the-us-seeing-a-turning-point-in-obesity-rates/a-78436782?maca=en-rss-en-all-1573-xml-mrss",
@@ -2449,10 +2452,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk",
-      "description": "Ranchers in northern Mexico are preparing to resume cattle exports to the U.S. as a yearlong ban ends",
-      "url": "https://abcnews.com/International/wireStory/mexico-resumes-livestock-sales-us-tight-controls-screwworm-135861458",
-      "published": "Sat, 22 Aug 2026 06:17:14 -0400",
+      "title": "Migrants clash with police and cut through fence at Greek detention center",
+      "description": "Migrants have clashed with police at a detention center in northern Greece, cutting through a perimeter fence",
+      "url": "https://abcnews.com/International/wireStory/migrants-clash-police-cut-fence-greek-detention-center-135879666",
+      "published": "Sun, 23 Aug 2026 08:34:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2460,10 +2463,10 @@
       "is_ticker": false
     },
     {
-      "title": "The sunhat is everywhere in Athens as crowds grow larger at ancient sites",
-      "description": "Athens is turning to hats as Europe’s heat intensifies",
-      "url": "https://abcnews.com/International/wireStory/sunhat-athens-crowds-grow-larger-ancient-sites-135878601",
-      "published": "Sun, 23 Aug 2026 02:04:03 -0400",
+      "title": "Zelenskyy details rift with dismissed defense minister",
+      "description": "Ukrainian president says some of minister's actions were wrong.",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-details-rift-dismissed-defense-minister-actions-misguided-135879534",
+      "published": "Sun, 23 Aug 2026 10:58:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2482,10 +2485,10 @@
       "is_ticker": false
     },
     {
-      "title": "Japan's leader Takaichi explains why she spends long hours in seclusion at her official residence",
-      "description": "Japanese Prime Minister Sanae Takaichi has been increasingly seen secluding herself at home",
-      "url": "https://abcnews.com/International/wireStory/japans-leader-takaichi-explains-spends-long-hours-seclusion-135866663",
-      "published": "Sat, 22 Aug 2026 10:39:44 -0400",
+      "title": "The sunhat is everywhere in Athens as crowds grow larger at ancient sites",
+      "description": "Athens is turning to hats as Europe’s heat intensifies",
+      "url": "https://abcnews.com/International/wireStory/sunhat-athens-crowds-grow-larger-ancient-sites-135878601",
+      "published": "Sun, 23 Aug 2026 02:04:03 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2493,10 +2496,10 @@
       "is_ticker": false
     },
     {
-      "title": "Zelenskyy details rift with dismissed defense minister",
-      "description": "Ukrainian president says some of minister's actions were wrong.",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-details-rift-dismissed-defense-minister-actions-misguided-135879534",
-      "published": "Sun, 23 Aug 2026 10:58:27 -0400",
+      "title": "Japan's leader Takaichi explains why she spends long hours in seclusion at her official residence",
+      "description": "Japanese Prime Minister Sanae Takaichi has been increasingly seen secluding herself at home",
+      "url": "https://abcnews.com/International/wireStory/japans-leader-takaichi-explains-spends-long-hours-seclusion-135866663",
+      "published": "Sat, 22 Aug 2026 10:39:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2518,10 +2521,10 @@
       "ticker_label": "💥 7 people, including 2 police officers, die following a head-on collision in northeast England"
     },
     {
-      "title": "Migrants clash with police and cut through fence at Greek detention center",
-      "description": "Migrants have clashed with police at a detention center in northern Greece, cutting through a perimeter fence",
-      "url": "https://abcnews.com/International/wireStory/migrants-clash-police-cut-fence-greek-detention-center-135879666",
-      "published": "Sun, 23 Aug 2026 08:34:26 -0400",
+      "title": "Mexico resumes livestock sales to US under tight controls over screwworm risk",
+      "description": "Ranchers in northern Mexico are preparing to resume cattle exports to the U.S. as a yearlong ban ends",
+      "url": "https://abcnews.com/International/wireStory/mexico-resumes-livestock-sales-us-tight-controls-screwworm-135861458",
+      "published": "Sat, 22 Aug 2026 06:17:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
