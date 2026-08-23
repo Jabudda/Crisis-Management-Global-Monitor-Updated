@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23T19:08:54.030433Z",
+  "last_updated": "2026-08-23T19:38:59.659488Z",
   "event_count": 222,
   "events": [
     {
@@ -85,20 +85,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ How will European politicians react to a summer of extreme heat?"
-    },
-    {
-      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
-      "description": "A state of emergency is declared in the US state of Nevada as rampant wildfire spurs evacuations.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 17:55:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Thousands displaced as wildfire threatens homes in US state of Nevada"
     },
     {
       "title": "New initiative launched to shield terrorism victims from online harm",
@@ -319,6 +305,20 @@
       "is_ticker": false
     },
     {
+      "title": "Thousands displaced as wildfire threatens homes in US state of Nevada",
+      "description": "Authorities said the fire was caused by humans.",
+      "url": "https://www.aljazeera.com/news/2026/8/23/thousands-displaced-as-wildfire-threatens-homes-in-us-state-of-nevada?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 17:55:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Thousands displaced as wildfire threatens homes in US state of Nevada"
+    },
+    {
       "title": "Could Russia's growing fuel crisis help end the Ukraine war?",
       "description": "Empty pumps, long waits: Attacks on oil refineries have left Russia increasingly short of fuel. Dissident Russian economists say growing anger about shortages among ordinary Russians could help end the Ukraine war.",
       "url": "https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-all-1573-xml-mrss",
@@ -402,6 +402,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168168",
       "published": "Wed, 19 Aug 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Uncontained brush fire in Nevada reportedly triggered by human activity; inferno grows to 13K acres",
+      "description": "Nevada Gov. Joe Lombardo declared a state of emergency as the Hawk Fire exploded across 13,000 acres, threatening 1,000 homes outside of Reno.",
+      "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
+      "published": "Sun, 23 Aug 2026 08:18:27 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical",
@@ -531,17 +542,6 @@
       "is_ticker": false
     },
     {
-      "title": "Nevada brush fire spreads to 10,500 acres as governor declares state of emergency",
-      "description": "Nevada Gov. Joe Lombardo declared a state of emergency as the Hawk Fire exploded across 10,500 acres, threatening 1,000 homes outside of Reno.",
-      "url": "https://www.foxnews.com/us/nevada-brush-fire-spreads-10500-acres-governor-declares-state-emergency",
-      "published": "Sun, 23 Aug 2026 08:18:27 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Connecticut police officers shot, suspect killed after attempted arrest sparks hectic chase",
       "description": "Two Connecticut police officers were wounded and a suspect killed after a car chase from Hartford ended in an exchange of gunfire in Newington.",
       "url": "https://www.foxnews.com/us/connecticut-police-officers-shot-suspect-killed-attempted-arrest-sparks-hectic-chase",
@@ -640,6 +640,20 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Zhou Bo: China’s alternative to Western power",
+      "description": "Senior Colonel Zhou Bo and Sreenivasan Jain discuss China's vision of a fairer, multipolar world and work towards that.",
+      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/23/zhou-bo-chinas-alternative-to-western-power?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 19:00:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zhou Bo: China’s alternative to Western power"
     },
     {
       "title": "Somalia: Humanitarian aid cuts leave millions of children vulnerable to hunger",
@@ -917,18 +931,18 @@
       "is_ticker": false
     },
     {
-      "title": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "description": "Heavy Israeli air strike hits warehouse in central Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 13:20:57 +0000",
+      "title": "Palestinian teen killed in Israeli raid buried in Occupied West Bank",
+      "description": "Hundreds attended the funeral of 14-year-old Islam Ahmad Maher Ajouri, who was killed by Israeli gunfire during a raid.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-sv-nablus-killing-teen-ps-fm?traffic_source=rss",
+      "published": "Sun, 23 Aug 2026 18:47:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Heavy Israeli air strike hits warehouse in central Gaza"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Palestinian teen killed in Israeli raid buried in Occupied West Bank"
     },
     {
       "title": "Russia’s missile tests around disputed islands anger Japan",
@@ -1037,7 +1051,7 @@
       "title": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "description": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
       "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 23 Aug 2026 05:46:43 GMT",
+      "published": "Sun, 23 Aug 2026 19:11:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 11,
@@ -1208,17 +1222,6 @@
       "url": "https://www.bbc.co.uk/sport/athletics/articles/c9989lm0vkro?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 23 Aug 2026 13:35:06 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Dozens of attacks in southern Thailand wound three people",
-      "description": "Many local government offices and several vehicles were damaged or destroyed in the 51 attacks late on Saturday.",
-      "url": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
-      "published": "Sun, 23 Aug 2026 13:08:37 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -2133,7 +2136,7 @@
       "ticker_label": "🌪️ Landfill collapse in Guinea kills at least 30 people"
     },
     {
-      "title": "LIVE: Elche vs Barcelona – La Liga",
+      "title": "Elche vs Barcelona LIVE: La Liga",
       "description": "Follow updates as Barcelona kick off their La Liga campaign - including the build-up, analysis and live text commentary.",
       "url": "https://www.aljazeera.com/sports/liveblog/2026/8/23/live-elche-vs-barcelona-la-liga?traffic_source=rss",
       "published": "Sun, 23 Aug 2026 16:50:00 +0000",
