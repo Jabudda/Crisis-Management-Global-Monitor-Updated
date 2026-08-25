@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T09:16:09.998591Z",
+  "last_updated": "2026-08-25T09:45:56.252672Z",
   "event_count": 222,
   "events": [
     {
@@ -15,20 +15,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Landslide at waste mound in Guinea capital kills 30, government says"
-    },
-    {
-      "title": "Haiti gang members kill around 40 displaced people in church attack near capital",
-      "description": "Gang members killed around 40 displaced people sheltering in a church near Haiti’s capital, a local mayor said on Monday. The victims were killed in an attack on Sunday night in Kenscoff, in the hills above Port-au-Prince, Mayor Massillon Jean said, describing a “night of terror”. Some people remained missing.",
-      "url": "https://www.france24.com/en/americas/20260825-haiti-gang-members-kill-40-displaced-people-church-attack",
-      "published": "Tue, 25 Aug 2026 02:25:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 38,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Haiti gang members kill around 40 displaced people in church attack near capital"
     },
     {
       "title": "New initiative launched to shield terrorism victims from online harm",
@@ -137,13 +123,27 @@
       "is_ticker": false
     },
     {
-      "title": "India news: Police used 'excessive force' on CJP protesters",
-      "description": "Amnesty International alleges that police in the capital New Delhi and the state of Bihar used excessive force against youth-led Cockroach protesters. Full details and more in DW's roundup of major headlines in India.",
-      "url": "https://www.dw.com/en/india-news-police-used-excessive-force-on-cjp-protesters/live-78480551?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 24 Aug 2026 08:05:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Around 40 injured after tornado tears through village in the south of France",
+      "description": "A village in the south of France has been hit by a tornado causing significant damage in the village of Pomas. It injured 41 and affected about 300 homes. The region was under thunderstorm alert. Scientists say climate change is leading to more frequent and intense extreme weather events.",
+      "url": "https://www.france24.com/en/around-40-injured-after-tornado-tears-through-village-in-the-south-of-france",
+      "published": "Tue, 25 Aug 2026 09:42:20 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 26,
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Around 40 injured after tornado tears through village in the south of France"
+    },
+    {
+      "title": "Haiti gangs kill at least 47 people in attack near capital",
+      "description": "Gang members killed at least 47 people and injured more than 22 near Haiti’s capital, the UN said on Monday. The victims were killed in an overnight attack in Kenscoff, in the hills above Haiti's capital of Port-au-Prince.",
+      "url": "https://www.france24.com/en/americas/20260825-haiti-gang-members-kill-40-displaced-people-church-attack",
+      "published": "Tue, 25 Aug 2026 02:25:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -330,6 +330,20 @@
       "ticker_label": "🌪️ Tornado devastates village in southwestern France’s Aude region"
     },
     {
+      "title": "No one held accountable one year after Israeli double strike on Gaza hospital",
+      "description": "A year on from an Israeli double strike on a hospital in Gaza that killed 22 Palestinians, including journalists and rescue workers, no one has been held accountable.",
+      "url": "https://news.sky.com/story/no-one-held-accountable-one-year-after-israeli-double-strike-on-gaza-hospital-13576883",
+      "published": "Tue, 25 Aug 2026 09:10:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 No one held accountable one year after Israeli double strike on Gaza hospital"
+    },
+    {
       "title": "Canadian politician threatens to cut off electricity to the US - as Trump issues 'fall in line' warning",
       "description": "A Canadian politician has threatened to cut off electricity and mineral supplies to the US after President Trump raised tariffs on some goods to 50%.",
       "url": "https://news.sky.com/story/canadian-politician-threatens-to-cut-off-electricity-to-the-us-in-response-to-donald-trumps-50-tariffs-13576665",
@@ -372,18 +386,18 @@
       "ticker_label": "🪖 Security Council LIVE: Civilian suffering grows in Russia-Ukraine war"
     },
     {
-      "title": "Ceasefire verification mission deploys to eastern DR Congo",
-      "description": "A ceasefire verification mission comprised of representatives from DR Congo's government, the Rwanda-backed AFC/M23 rebel group, and observers from the International Conference on the Great Lakes Region (ICGLR) member nations arrived in South Kivu on Monday. The deployment came a day after the DRC and AFC/M23 agreed on a Switzerland-mediated roadmap for peace talks.",
-      "url": "https://www.france24.com/en/africa/20260824-ceasefire-verification-mission-deploys-eastern-dr-congo",
-      "published": "Mon, 24 Aug 2026 16:04:37 GMT",
-      "source": "France24",
+      "title": "Canada set to announce retaliatory tariffs on US goods after talks fail",
+      "description": "Tariffs of 50% on Canadian goods came into effect after trade talks collapsed. US President Trump has warned Ottawa to \"fall in line,\" but Canadian Prime Minister Mark Carney has refused to accept a \"bad deal.\"",
+      "url": "https://www.dw.com/en/canada-set-to-announce-retaliatory-tariffs-on-us-goods-after-talks-fail/a-78491819?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 25 Aug 2026 09:25:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ceasefire verification mission deploys to eastern DR Congo"
+      "ticker_label": "🪖 Canada set to announce retaliatory tariffs on US goods after talks fail"
     },
     {
       "title": "Landslide kills 30 after mound of waste collapses at landfill site",
@@ -398,6 +412,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Landslide kills 30 after mound of waste collapses at landfill site"
+    },
+    {
+      "title": "Gang coalition unleashes violent new attack on farming community in Haiti",
+      "description": "A powerful gang coalition in Haiti has attacked a once peaceful farming community nestled in the hills above the country's capital",
+      "url": "https://abcnews.com/International/wireStory/gang-coalition-unleashes-violent-new-attack-farming-community-135905978",
+      "published": "Mon, 24 Aug 2026 20:26:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Two UN peacekeepers killed in South Sudan ambush",
@@ -539,6 +564,20 @@
       "is_ticker": false
     },
     {
+      "title": "Kremlin adviser warns UK drone factories could face attacks",
+      "description": "Russia says UK decision to share missile blueprints with Ukraine is evidence of direct military involvement in the war.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-adviser-warns-uk-drone-factories-could-face-attacks?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 09:34:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kremlin adviser warns UK drone factories could face attacks"
+    },
+    {
       "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
       "description": "Recent attacks in the UK and the US demonstrate critical vulnerabilities that governments need to urgently address.",
       "url": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
@@ -564,6 +603,17 @@
       "is_ticker": false
     },
     {
+      "title": "Rescuers find no trace of missing crew days after cargo ship sinks in Bay of Bengal",
+      "description": "Rescuers searching for 22 missing sailors have found no trace of their Panama-flagged cargo ship that sank in the Bay of Bengal off the coast of India",
+      "url": "https://abcnews.com/International/wireStory/rescuers-find-trace-22-missing-crew-days-after-135927627",
+      "published": "Tue, 25 Aug 2026 04:50:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia",
       "description": "Indonesia has intensified ground and aerial firefighting operations as forest and peatland fires fueled by El Nino-driven drought and a prolonged dry season scorched tens of thousands of hectares, sending choking haze across parts of Southeast Asia",
       "url": "https://abcnews.com/International/wireStory/indonesia-intensifies-aerial-firefighting-wildfire-haze-spreads-malaysia-135896493",
@@ -576,17 +626,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia"
-    },
-    {
-      "title": "Rescuers find no trace of missing crew days after cargo ship sinks in Bay of Bengal",
-      "description": "Rescuers searching for 22 missing sailors have found no trace of their Panama-flagged cargo ship that sank in the Bay of Bengal off the coast of India",
-      "url": "https://abcnews.com/International/wireStory/rescuers-find-trace-22-missing-crew-days-after-135927627",
-      "published": "Tue, 25 Aug 2026 04:50:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Arizona police shooting suspect arrested, another remains at large after killing 1, wounding fiancee",
@@ -647,6 +686,17 @@
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "French astronaut Sophie Adenot prepares for second ISS mission spacewalk",
+      "description": "A week after her first historic spacewalk, French astronaut Sophie Adenot will venture outside the International Space Station (ISS) again on Tuesday as part of her mission.",
+      "url": "https://www.france24.com/en/technology/20260825-french-astronaut-sophie-adenot-prepares-for-second-iss-mission-spacewalk",
+      "published": "Tue, 25 Aug 2026 09:40:00 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -823,20 +873,6 @@
       "ticker_label": "🚨 Iran protest victim: 'They were shooting to kill'"
     },
     {
-      "title": "Mohammed bin Salman in the City of Light: Does West value economic interests over 'Western values'?",
-      "description": "Jean-Emile Jammine is pleased to welcome Susanne Koelbl, Der Spiegel's award-winning foreign correspondent. According to Koelbl,, Emmanuel Macron’s decision to welcome Mohammed bin Salman at the Élysée reflects realpolitik in its purest form: 'Saudi Arabia had become too important for energy, regional security, investment and diplomacy in the Middle East to be permanently isolated. So Macron wanted to establish France as an independent, balanced power between the Mediterranean and the Gulf.\"",
-      "url": "https://www.france24.com/en/mbs-in-the-city-of-light-in-a-world-of-realpolitik-does-west-value-economic-interests-over-values",
-      "published": "Mon, 24 Aug 2026 16:26:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Mohammed bin Salman in the City of Light: Does West value economic interests over 'Western values'?"
-    },
-    {
       "title": "Dutch broadcaster to boycott Eurovision 2027",
       "description": "Dutch broadcaster AvroTros will boycott next year's Eurovision Song Contest, in protest at Israel's participation in the competition amid the war in Gaza.",
       "url": "https://news.sky.com/story/dutch-broadcaster-avrotros-to-boycott-2027-eurovision-song-contest-13576558",
@@ -849,6 +885,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Dutch broadcaster to boycott Eurovision 2027"
+    },
+    {
+      "title": "Congo's Ebola outbreak records one of its highest weekly death tolls yet",
+      "description": "More than 300 people have died of Ebola in eastern Congo in the past week, according to government data",
+      "url": "https://abcnews.com/International/wireStory/congos-ebola-outbreak-records-highest-weekly-death-tolls-135901778",
+      "published": "Mon, 24 Aug 2026 09:35:38 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Congo's Ebola outbreak records one of its highest weekly death tolls yet"
     },
     {
       "title": "Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment",
@@ -968,20 +1018,6 @@
       "ticker_label": "🌪️ Tornado in France damages homes, injures dozens"
     },
     {
-      "title": "Germany news: State premier visits VW for crisis talks",
-      "description": "Lower Saxony's state premier called on Volkswagen shareholders to take action to avert plant closures, while Chancellor Friedrich Merz met party colleagues after a testing summer.",
-      "url": "https://www.dw.com/en/germany-news-state-premier-visits-vw-for-crisis-talks/live-78480873?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 24 Aug 2026 07:29:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Germany news: State premier visits VW for crisis talks"
-    },
-    {
       "title": "Eastern Libya executes 10 convicted on terrorism charges, sparking rights outcry",
       "description": "Authorities in eastern Libya have executed 10 people after military courts convicted them on terrorism-related charges",
       "url": "https://abcnews.com/International/wireStory/eastern-libya-executes-10-convicted-terrorism-charges-sparking-135896632",
@@ -1021,20 +1057,6 @@
       "is_ticker": false
     },
     {
-      "title": "Bathla Group: major Sydney property developer collapses after ‘perfect storm’, leaving buyers in limbo",
-      "description": "Bathla Group says softening sales and impacts from federal government’s May budget contributed it being placed in voluntary administration Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast Embattled home builder Bathla Group has been placed into voluntary administration, leaving customers in limbo in what it says is a “perfect storm” of circumstances. It joins the long list of Australian residential builders and property developers which have entered voluntary administration or liquidation due to soaring material costs, labour shortages and fixed-price contracts. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/25/bathla-group-sydney-property-developer-collapses",
-      "published": "Tue, 25 Aug 2026 07:42:16 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Bathla Group: major Sydney property developer collapses after ‘perfect storm’, leaving buyers in limbo"
-    },
-    {
       "title": "DR Congo peace roadmap: Will the fighting finally end?",
       "description": "A new roadmap sets out the conditions toward peace in the eastern Democratic Republic of Congo (DRC). But disagreements over M23 rebels, Rwanda's role and security concerns remain, and could still derail the process.",
       "url": "https://www.dw.com/en/dr-congo-peace-roadmap-will-the-fighting-finally-end/a-78487489?maca=en-rss-en-all-1573-xml-mrss",
@@ -1049,6 +1071,17 @@
       "ticker_label": "🪖 DR Congo peace roadmap: Will the fighting finally end?"
     },
     {
+      "title": "Iran threatens retaliation as new US sanctions hit already-struggling economy",
+      "description": "Iranian officials are maintaining their strong rhetoric against the US, after Washington announced a fresh raft of sanctions against Iran. Tehran has pledged to hit back with its own measures, while the country is already suffering from already high inflation.",
+      "url": "https://www.france24.com/en/iran-threatens-retaliation-as-new-us-sanctions-hit-already-struggling-economy",
+      "published": "Tue, 25 Aug 2026 09:36:13 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Saudi Arabia to invest €6 billion in theme parks near Paris, Macron says",
       "description": "France and Saudi Arabia on Monday signed an agreement for the oil-rich Gulf kingdom to invest €6 billion to create three amusement parks near Paris, including one likely to be a manga-themed park, the French presidential office said. The announcement came during Saudi Crown Prince Mohammed bin Salman's visit focused on bilateral deals and the current crisis in the Middle East.",
       "url": "https://www.france24.com/en/europe/20260824-saudi-arabia-to-invest-%E2%82%AC6-billion-theme-parks-near-paris-macron-says",
@@ -1058,6 +1091,20 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Colombia’s armed groups recruit children and train them in drone warfare, rights group says",
+      "description": "A new Human Rights Watch report says drug gangs and rebel groups in Colombia are increasingly recruiting children for dangerous tasks, including piloting drones carrying explosives",
+      "url": "https://abcnews.com/International/wireStory/colombias-armed-groups-recruit-children-train-drone-warfare-135910688",
+      "published": "Mon, 24 Aug 2026 14:09:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Colombia’s armed groups recruit children and train them in drone warfare, rights group says"
     },
     {
       "title": "Iran’s gutted ranks leave loyalists filling critical posts — with one glaring problem",
@@ -1079,6 +1126,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cy9ze48l2yeo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 24 Aug 2026 05:40:48 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Who are Iran’s top trading partners US would need to target to isolate it?",
+      "description": "The US wants to isolate Iran from the global economy. Here is who Tehran trades with, and how much is at stake.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 09:23:05 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1179,10 +1237,10 @@
       "ticker_label": "💥 Zambia shuts down court system"
     },
     {
-      "title": "Cricket captains from around the world renew appeal for medical treatment of Imran Khan",
-      "description": "Famous cricketers from around the world have renewed their appeal for the medical treatment of former star player turned politician Imran Khan in a letter to Pakistan Prime Minister Shehbaz Sharif",
-      "url": "https://abcnews.com/International/wireStory/cricket-captains-world-renew-appeal-medical-treatment-imran-135895324",
-      "published": "Mon, 24 Aug 2026 08:18:21 -0400",
+      "title": "Former world snooker champion Graeme Dott convicted of sexually abusing 2 children",
+      "description": "Former world snooker champion Graeme Dott has been convicted of sexually abusing two primary school children in Scotland",
+      "url": "https://abcnews.com/International/wireStory/former-world-snooker-champion-graeme-dott-convicted-sexually-135906621",
+      "published": "Mon, 24 Aug 2026 11:42:59 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1274,20 +1332,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Pakistan says significant progress made in talks on Iran-US war"
-    },
-    {
-      "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
-      "description": "Netanyahu's claim comes after US and Israel killed Iran's supreme leader and four members of his family in Tehran.",
-      "url": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 02:54:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Israel’s Netanyahu claims Iran tried to kill one of his sons"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1404,20 +1448,6 @@
       "ticker_label": "🪖 What to know about Trump's Canada tariffs and the escalating trade war"
     },
     {
-      "title": "Ukraine celebrates Independence Day amid war's latest escalation",
-      "description": "Ukraine wants ​peace but will not just give in to Russia at any price, President Volodymyr Zelensky said in a defiant speech on Monday as foreign leaders gathered in Kyiv to mark its Independence Day celebrations.",
-      "url": "https://www.france24.com/en/video/20260824-ukraine-celebrates-independence-day-amid-war-s-latest-escalation",
-      "published": "Mon, 24 Aug 2026 15:44:06 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine celebrates Independence Day amid war's latest escalation"
-    },
-    {
       "title": "Police presence and 'deep sadness' at funeral for one of five teens killed in Ireland head-on collision",
       "description": "A funeral mass has been held for one of the teenagers killed in a head-on collision in County Kildare last week - with a heavy police presence at Carlow for the event.",
       "url": "https://news.sky.com/story/funeral-held-for-jeremy-obrien-one-of-five-teens-killed-in-county-kildare-head-on-collision-13576632",
@@ -1523,6 +1553,17 @@
       "is_ticker": false
     },
     {
+      "title": "Federal MP Luke Gosling charged with breaching bail after alleged assault in NT",
+      "description": "Member for Solomon was charged after an alleged incident at a cultural festival in Darwin in July Get our breaking news email , free app or daily news podcast Northern Territory police has charged federal Labor MP Luke Gosling with one count of breaching bail conditions less than one month after he was arrested over the alleged assault of the Territory’s administrator, David Connolly. Gosling was charged with two counts of assault over an incident that allegedly occurred at a cultural festival in Darwin on 18 July. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/25/federal-mp-luke-gosling-charged-with-breaching-bail-after-alleged-assault-in-nt-ntwnfb",
+      "published": "Tue, 25 Aug 2026 09:01:03 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "The UK will help Ukraine make long-range missiles by sharing classified tech information",
       "description": "Burnham, who was in Kyiv for Ukraine's Independence Day, said defense firm MBDA will release details on U.K.-made parts for the SCALP missile to Ukraine to help the country assemble the weapons.",
       "url": "https://www.npr.org/2026/08/25/nx-s1-5944059/the-uk-will-help-ukraine-make-long-range-missiles-by-sharing-classified-tech-information",
@@ -1573,6 +1614,17 @@
       "ticker_label": "💥 Trump administration to revoke hundreds of thousands of asylum visas"
     },
     {
+      "title": "Colombian president orders immigration raids, vows deportations of migrants without legal status",
+      "description": "Colombian President Abelardo de la Espriella has promised to deport thousands of migrants who are in the country without residence permits",
+      "url": "https://abcnews.com/International/wireStory/colombian-president-orders-immigration-raids-vows-deportations-migrants-135920192",
+      "published": "Tue, 25 Aug 2026 04:54:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine amputee veterans celebrate independence day with grueling endurance challenge",
       "description": "Military amputees and veterans in Ukraine marked Independence Day by completing Iron Week, a grueling seven-day endurance event across the country",
       "url": "https://abcnews.com/International/wireStory/ukraines-amputee-veterans-celebrate-independence-day-grueling-endurance-135903950",
@@ -1598,17 +1650,6 @@
       "ticker_label": "🌪️ Kazakhstan's pro-government party wins parliamentary election"
     },
     {
-      "title": "Colombian president orders immigration raids, vows deportations of migrants without legal status",
-      "description": "Colombian President Abelardo de la Espriella has promised to deport thousands of migrants who are in the country without residence permits",
-      "url": "https://abcnews.com/International/wireStory/colombian-president-orders-immigration-raids-vows-deportations-migrants-135920192",
-      "published": "Tue, 25 Aug 2026 04:54:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Venezuelans, Cubans, Colombians arrive in African nation under Trump deportation deal",
       "description": "Deportees from Venezuela, Cuba and Colombia arrived in Liberia as the West African nation agreed to accept up to 1,200 foreign nationals from the U.S. over the next year.",
       "url": "https://www.foxnews.com/world/venezuelans-cubans-colombians-arrive-african-nation-trump-deportation-deal",
@@ -1631,6 +1672,20 @@
       "is_ticker": false
     },
     {
+      "title": "‘Enough is enough’: Kenya nurses strike over pay and working conditions",
+      "description": "Shiru Kihara, a nurse in Kenya, explains why she and thousands of other nurses are on strike demanding fair pay.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/enough-is-enough-kenya-nurses-strike-over-pay-and-working-conditions?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 09:05:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ‘Enough is enough’: Kenya nurses strike over pay and working conditions"
+    },
+    {
       "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
       "description": "Rohingya refugees protest, nine years after exodus to Bangladesh",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
@@ -1646,17 +1701,6 @@
       "description": "Libyan factions sign an initial an election pact, but divided institutions and deep legal gaps threaten its execution.",
       "url": "https://www.aljazeera.com/news/2026/8/25/libya-factions-draft-initial-election-pact-despite-lingering-mistrust?traffic_source=rss",
       "published": "Tue, 25 Aug 2026 06:10:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters",
-      "description": "Amnesty says India used lethal weapons on ‘Cockroach’ protesters.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/amnesty-says-india-used-lethal-weapons-on-cockroach-protesters?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 02:53:48 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1829,6 +1873,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trees are vital for cooler cities, but they need help too",
+      "description": "Record-breaking heat and drought are putting urban trees at risk. Experts explain how to protect these essential assets and build city forests that can withstand the climate challenges ahead.",
+      "url": "https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 25 Aug 2026 09:39:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Oklahoma-based Southwest Airlines flight attendant found dead in Hawaii, police investigating",
       "description": "Oklahoma Southwest Airlines flight attendant Jenny Lupton's family fears foul play after she fell from the 24th floor of the Hilton Hawaiian Village.",
       "url": "https://www.foxnews.com/us/oklahoma-based-southwest-airlines-flight-attendant-found-dead-hawaii-police-investigating",
@@ -1990,17 +2045,6 @@
       "description": "Theme park project is among a raft of deals spanning energy, defence, AI and tourism signed during MBS's visit to Paris.",
       "url": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
       "published": "Tue, 25 Aug 2026 04:38:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Muslims celebrate Prophet Muhammad’s birthday",
-      "description": "Muslims in Iraq, Libya and Morocco gathered for Mawlid al-Nabi, marking Prophet Muhammad’s birthday",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 02:11:08 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2176,7 +2220,7 @@
       "title": "M 5.8 - 4 km N of Toride, Japan",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - VI Time 2026-08-22 17:00:39 UTC 2026-08-22 17:00:39 UTC at epicenter Location 35.938°N 140.078°E Depth 61.00 km (37.90 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tmta",
-      "published": "2026-08-25T08:13:56.101Z",
+      "published": "2026-08-25T09:32:29.123Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2294,6 +2338,17 @@
       "is_ticker": false
     },
     {
+      "title": "DR Congo sees breakthrough as officials and rebels agree to peace talk roadmap",
+      "description": "In eastern Democratic Republic of Congo, Rwanda-backed M23 rebels are still in control of swathes of territory. After months of stalled peace talks, both sides have agreed to get the ball rolling again. FRANCE 24's Emmet Livingstone, in Kinshasa, has more.",
+      "url": "https://www.france24.com/en/dr-congo-sees-breakthrough-as-officials-and-rebels-agree-to-peace-talk-roadmap",
+      "published": "Tue, 25 Aug 2026 09:24:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Premier League: Chelsea defeat Fulham in Xabi Alonso's first game as manager",
       "description": "In Xabi Alonso’s first match as manager, Chelsea beat Fulham 3–2 in the Premier League.",
       "url": "https://www.france24.com/en/tv-shows/sports/20260825-premier-league-chelsea-defeat-fulham-in-xabi-alonso-s-first-game-as-manager",
@@ -2323,17 +2378,6 @@
       "description": "As Ukraine and Russia hammer each other’s Black Sea ports, the amount of grain being shipped through the crucial waterway has slowed to a crawl. For Ukraine’s farmers, the Black Sea blockade could hardly have come at a worse time.",
       "url": "https://www.france24.com/en/europe/20260824-what-renewed-black-sea-blockade-means-ukraine-farmers",
       "published": "Mon, 24 Aug 2026 17:41:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "🔴 Mideast live: US unveils fresh sanctions to 'sever every economic lifeline' sustaining Iran",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/middle-east/20260824-middle-east-live-iran-warns-of-a-harsh-response-to-anticipated-us-sanctions",
-      "published": "Mon, 24 Aug 2026 17:16:05 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2396,50 +2440,6 @@
       "is_ticker": false
     },
     {
-      "title": "Health of Norway's King Harald deteriorated at the weekend, say royal officials",
-      "description": "Norway's King Harald is in a stable condition in hospital after his health deteriorated at the weekend, royal officials have said.",
-      "url": "https://news.sky.com/story/health-of-norways-king-harald-deteriorated-at-the-weekend-say-royal-officials-13576556",
-      "published": "Mon, 24 Aug 2026 09:53:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Japanese lawmakers travel to Beijing, seeking to mend ties after fallout",
-      "description": "Lawmakers from Japan have traveled to Beijing to meet with Chinese officials in the first visit since tensions rose after Prime Minister Sanae Takaichi's comment on Taiwan angered China",
-      "url": "https://abcnews.com/International/wireStory/japanese-lawmakers-travel-beijing-seeking-mend-ties-after-135894865",
-      "published": "Mon, 24 Aug 2026 07:54:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Burnham and European leaders arrive in Kyiv as Ukraine marks Independence Day",
-      "description": "European leaders joined President Volodymyr Zelenskyy in Kyiv for the 35th anniversary of Ukraine’s Independence Day",
-      "url": "https://abcnews.com/International/wireStory/burnham-european-leaders-arrive-kyiv-ukraine-marks-independence-135895224",
-      "published": "Mon, 24 Aug 2026 22:34:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What to know about Iceland's vote on whether to restart talks to join the EU",
-      "description": "Icelanders are voting Saturday on whether to restart talks about joining the European Union",
-      "url": "https://abcnews.com/International/wireStory/icelands-vote-restart-talks-join-eu-135894597",
-      "published": "Mon, 24 Aug 2026 05:30:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "A women's shelter in Poland fights for survival as anti-Ukrainian sentiment rises",
       "description": "A Ukrainian migrant in Poland has faced online hate despite her efforts to help others",
       "url": "https://abcnews.com/International/wireStory/womens-shelter-refugees-poland-fights-survival-anti-ukrainian-135926421",
@@ -2462,10 +2462,10 @@
       "is_ticker": false
     },
     {
-      "title": "Bangladesh tribunal orders 3 journalists held until trial in 2024 uprising case",
-      "description": "A special tribunal in Bangladesh asks authorities to keep three journalists jailed until their trial",
-      "url": "https://abcnews.com/International/wireStory/bangladesh-tribunal-orders-3-journalists-held-trial-2024-135896394",
-      "published": "Tue, 25 Aug 2026 00:02:24 -0400",
+      "title": "Denmark's prime minister blasts beauty advice from plastic surgeon on Instagram",
+      "description": "Danish Prime Minister Mette Frederiksen has expressed frustration over unsolicited beauty advice",
+      "url": "https://abcnews.com/International/wireStory/denmarks-prime-minister-blasts-unsolicited-beauty-advice-plastic-135906422",
+      "published": "Mon, 24 Aug 2026 11:44:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2487,10 +2487,10 @@
       "ticker_label": "🪖 The UK will help Ukraine make long-range missiles by sharing classified tech information"
     },
     {
-      "title": "The health of Norway's King Harald deteriorates over the weekend",
-      "description": "King Harald of Norway's health has deteriorated, according to the royal palace",
-      "url": "https://abcnews.com/International/wireStory/health-norways-king-harald-deteriorates-weekend-135895045",
-      "published": "Mon, 24 Aug 2026 07:54:18 -0400",
+      "title": "Bangladesh tribunal orders 3 journalists held until trial in 2024 uprising case",
+      "description": "A special tribunal in Bangladesh asks authorities to keep three journalists jailed until their trial",
+      "url": "https://abcnews.com/International/wireStory/bangladesh-tribunal-orders-3-journalists-held-trial-2024-135896394",
+      "published": "Tue, 25 Aug 2026 00:02:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
