@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T16:47:01.099421Z",
+  "last_updated": "2026-08-25T17:13:27.620347Z",
   "event_count": 223,
   "events": [
     {
@@ -158,6 +158,17 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Nigeria’s president orders rescue operation after mass kidnapping at mosque",
+      "description": "Nigerian President Bola Tinubu on Tuesday ordered security agencies to conduct a rescue operation after the mass kidnapping of worshippers during an attack on a mosque in the north-central Niger State last week. Local authorities were still trying to verify the number of missing people, but local residents said roughly 600 women, children and elderly people had been abducted.",
+      "url": "https://www.france24.com/en/africa/20260825-nigeria-president-orders-rescue-after-mass-kidnapping-during-mosque-attack",
+      "published": "Tue, 25 Aug 2026 17:10:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -614,20 +625,6 @@
       "ticker_label": "🪖 Iran offers $10 million to kill Trump's son"
     },
     {
-      "title": "UNICEF warns 1 million Afghan children at risk of death from malnutrition",
-      "description": "One million children subject to severe acute malnutrition in Afghanistan are at risk of dying if they do not receive immediate treatment, the UNICEF warned on Tuesday. Nearly 40 percent of those admitted to hospitals comprise babies under six months old.",
-      "url": "https://www.france24.com/en/asia-pacific/20260825-unicef-warns-1-million-afghan-children-at-risk-of-death-from-malnutrition",
-      "published": "Tue, 25 Aug 2026 12:22:27 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UNICEF warns 1 million Afghan children at risk of death from malnutrition"
-    },
-    {
       "title": "Indonesia intensifies aerial firefighting as wildfire haze spreads to Malaysia",
       "description": "Indonesia has intensified ground and aerial firefighting operations as forest and peatland fires fueled by El Nino-driven drought and a prolonged dry season scorched tens of thousands of hectares, sending choking haze across parts of Southeast Asia",
       "url": "https://abcnews.com/International/wireStory/indonesia-intensifies-aerial-firefighting-wildfire-haze-spreads-malaysia-135896493",
@@ -1068,6 +1065,20 @@
       "ticker_label": "🌪️ Tornado in France damages homes, injures dozens"
     },
     {
+      "title": "Japan: 1,800 people pull 360-tonne Hirosaki Castle keep by hand",
+      "description": "About 1,800 people came together in northern Japan to pull a 360-tonne castle keep by hand. The Hirosaki Castle keep was moved in 2015 so its earthquake-damaged stone wall could undergo repairs. Now, using hikiya, a technique that places buildings on rollers so they can be moved without dismantling them, the keep is being brought closer to its original position. Those taking part were selected through a lottery system. Moving efforts will continue until the end of August.",
+      "url": "https://www.france24.com/en/video/20260825-japan-1-800-people-pull-360-tonne-hirosaki-castle-keep-by-hand",
+      "published": "Tue, 25 Aug 2026 16:33:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Japan: 1,800 people pull 360-tonne Hirosaki Castle keep by hand"
+    },
+    {
       "title": "UN chief, Red Cross renew call for rules on lethal autonomous weapons",
       "description": "Amid unconfirmed reports that fully autonomous and AI-guided drones are now being used on the battlefield, UN chief António Guterres and the President of the Red Cross on Tuesday renewed their urgent call for stricter global controls, before it is too late.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168196",
@@ -1339,17 +1350,6 @@
       "ticker_label": "🪖 US launches Economic war on Iran"
     },
     {
-      "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
-      "description": "Yan Diomande topped Real's transfers, and Jose Mourinho says he is happy despite missing out on Rodri to Barcelona.",
-      "url": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 13:42:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1428,7 +1428,7 @@
       "ticker_label": "🪖 With sanctions and tariffs, US bets on its economic power to get what it wants"
     },
     {
-      "title": "Canada announces retaliatory tariffs - as trade war with US heats up",
+      "title": "Canada announces tariffs on $20bn worth of US goods",
       "description": "Canada has said it will impose new tariffs on US imports as a trade war between the neighbours heats up.",
       "url": "https://news.sky.com/story/canada-announces-retaliatory-tariffs-as-trade-war-with-us-heats-up-13577017",
       "published": "Tue, 25 Aug 2026 15:29:00 +0100",
@@ -1439,7 +1439,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Canada announces retaliatory tariffs - as trade war with US heats up"
+      "ticker_label": "🪖 Canada announces tariffs on $20bn worth of US goods"
     },
     {
       "title": "Police presence and 'deep sadness' at funeral for one of five teens killed in Ireland head-on collision",
@@ -1622,6 +1622,17 @@
       "is_ticker": false
     },
     {
+      "title": "Rohingyas in Myanmar suffering ‘heartbreaking’ misery and cruelty",
+      "description": "Members of the minority ethnic Rohingya Muslim group in Myanmar are “suffering, misery, and cruelty on multiple levels and across the country that is heartbreaking,” according to the UN High Commissioner for Human Rights.",
+      "url": "https://news.un.org/feed/view/en/story/2026/08/1168200",
+      "published": "Tue, 25 Aug 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Federal judge slaps down Ghislaine Maxwell petition for new trial as ‘rambling,’ ‘meritless’",
       "description": "Judge Paul Engelmayer called Ghislaine Maxwell's post-conviction challenge \"meritless\" and \"frivolous,\" finding trial evidence against her \"overwhelming.\"",
       "url": "https://www.foxnews.com/us/federal-judge-slaps-down-ghislaine-maxwell-petition-new-trial-rambling-meritless",
@@ -1746,10 +1757,10 @@
       "is_ticker": false
     },
     {
-      "title": "CIA chief in Moscow for unannounced talks, US media reports",
+      "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "description": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
       "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 25 Aug 2026 16:08:26 GMT",
+      "published": "Tue, 25 Aug 2026 16:56:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -1972,6 +1983,28 @@
       "is_ticker": false
     },
     {
+      "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
+      "description": "US judge rejects Maxwell’s claims that newly released Epstein files could help overturn her sex-trafficking convictions.",
+      "url": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 17:02:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
+      "description": "Cameroon midfielder joins EPL powerhouse for a fee understood to be worth up to 70 million pounds.",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
+      "published": "Tue, 25 Aug 2026 16:55:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Qatar says US sanctions on Iran are unilateral",
       "description": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
@@ -2031,17 +2064,6 @@
       "description": "How do football clubs in debt afford star players?",
       "url": "https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss",
       "published": "Tue, 25 Aug 2026 14:14:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
-      "description": "The policy could affect up to 200,000 people and deter many more from filing an asylum claim once in the US.",
-      "url": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect?traffic_source=rss",
-      "published": "Tue, 25 Aug 2026 14:04:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2357,17 +2379,6 @@
       "is_ticker": false
     },
     {
-      "title": "🔴 Watch live: French astronaut Sophie Adenot embarks on second ISS spacewalk",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/technology/20260825-french-astronaut-sophie-adenot-prepares-for-second-iss-mission-spacewalk",
-      "published": "Tue, 25 Aug 2026 12:49:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Why is Trump slapping tariffs on his neighbour?",
       "description": "👉 Follow Trump100 on your podcast app 👈",
       "url": "https://news.sky.com/story/why-is-trump-slapping-tariffs-on-his-neighbour-13576837",
@@ -2445,10 +2456,10 @@
       "is_ticker": false
     },
     {
-      "title": "A women's shelter in Poland fights for survival as anti-Ukrainian sentiment rises",
-      "description": "A Ukrainian migrant in Poland has faced online hate despite her efforts to help others",
-      "url": "https://abcnews.com/International/wireStory/womens-shelter-refugees-poland-fights-survival-anti-ukrainian-135926421",
-      "published": "Tue, 25 Aug 2026 01:54:16 -0400",
+      "title": "Chinese artist sentenced to 3 years in prison over satirical Mao statues",
+      "description": "A Chinese court has sentenced artist Gao Zhen to three years in prison for \"infringing upon the reputation of heroes\" through his satirical art",
+      "url": "https://abcnews.com/International/wireStory/chinese-artist-sentenced-3-years-prison-satirical-mao-135932221",
+      "published": "Tue, 25 Aug 2026 08:58:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2456,10 +2467,10 @@
       "is_ticker": false
     },
     {
-      "title": "Chinese artist sentenced to 3 years in prison over satirical Mao statues",
-      "description": "A Chinese court has sentenced artist Gao Zhen to three years in prison for \"infringing upon the reputation of heroes\" through his satirical art",
-      "url": "https://abcnews.com/International/wireStory/chinese-artist-sentenced-3-years-prison-satirical-mao-135932221",
-      "published": "Tue, 25 Aug 2026 08:58:24 -0400",
+      "title": "A women's shelter in Poland fights for survival as anti-Ukrainian sentiment rises",
+      "description": "A Ukrainian migrant in Poland has faced online hate despite her efforts to help others",
+      "url": "https://abcnews.com/International/wireStory/womens-shelter-refugees-poland-fights-survival-anti-ukrainian-135926421",
+      "published": "Tue, 25 Aug 2026 01:54:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2525,22 +2536,8 @@
       "is_ticker": false
     },
     {
-      "title": "Mpox: Children account for half of suspected cases in Guinea-Bissau",
-      "description": "Children, who are particularly vulnerable to the disease, account for half of the 46 suspected mpox cases identified in Guinea-Bissau – with 16 of them under the age of four.",
-      "url": "https://news.un.org/feed/view/en/story/2026/08/1168176",
-      "published": "Thu, 20 Aug 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Mpox: Children account for half of suspected cases in Guinea-Bissau"
-    },
-    {
       "title": "Jury convicts Kevin Salazar in execution-style killing of LA Deputy Ryan Clinkunbroomer",
-      "description": "Kevin Salazar was convicted of murdering Los Angeles County deputy Ryan Clinkunbroomer in a 2023 drive-by ambush near his Palmdale station.",
+      "description": "Kevin Salazar was convicted of murdering Los Angeles County Deputy Ryan Clinkunbroomer in a 2023 drive-by ambush near his Palmdale station.",
       "url": "https://www.foxnews.com/us/jury-convicts-kevin-salazar-execution-style-killing-la-deputy-ryan-clinkunbroomer",
       "published": "Tue, 25 Aug 2026 12:38:10 -0400",
       "source": "Fox News US",
