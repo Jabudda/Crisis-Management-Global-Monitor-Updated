@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T22:23:16.774723Z",
+  "last_updated": "2026-08-28T22:36:38.213400Z",
   "event_count": 223,
   "events": [
     {
@@ -456,20 +456,6 @@
       "ticker_label": "🌪️ 🔴Nepal-Tibet floods live: Death toll passes 580, nearly 2,500 people missing"
     },
     {
-      "title": "Catastrophic floods kill over 350 in Nepal and Tibet, with more than 1,300 missing",
-      "description": "Rescue teams are searching for hundreds of missing people along the Nepal-China border after a deadly torrent of water and mud swept through communities following a glacier collapse",
-      "url": "https://abcnews.com/International/wireStory/1300-missing-nepal-tibet-after-catastrophic-floods-caused-135993574",
-      "published": "Thu, 27 Aug 2026 09:46:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Catastrophic floods kill over 350 in Nepal and Tibet, with more than 1,300 missing"
-    },
-    {
       "title": "Trapped Nepali workers pulled from hydropower tunnel after catastrophic flooding",
       "description": "Video from Nepal's Prime Minister's Office shows rescue workers pulling trapped citizens through a mud-saturated hydropower plant tunnel in Rasuwa.",
       "url": "https://www.foxnews.com/world/trapped-nepali-workers-pulled-hydropower-tunnel-catastrophic-flooding",
@@ -902,6 +888,20 @@
       "ticker_label": "💥 Norway mourns King Harald as Haakon prepares to take the throne"
     },
     {
+      "title": "4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity",
+      "description": "Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack in north London earlier this year that many said was a direct result of the start of the Iran war",
+      "url": "https://abcnews.com/International/wireStory/4-men-plead-guilty-torching-4-london-based-136033251",
+      "published": "Fri, 28 Aug 2026 12:11:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity"
+    },
+    {
       "title": "Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day",
       "description": "Russian forces have resumed drone attacks on Ukraine’s Kyiv region, hitting numerous buildings and storage depots",
       "url": "https://abcnews.com/International/wireStory/russian-drones-batter-ukraines-kyiv-region-hitting-apartments-136024871",
@@ -916,18 +916,15 @@
       "ticker_label": "🪖 Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day"
     },
     {
-      "title": "4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity",
-      "description": "Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack in north London earlier this year that many said was a direct result of the start of the Iran war",
-      "url": "https://abcnews.com/International/wireStory/4-men-plead-guilty-torching-4-london-based-136033251",
-      "published": "Fri, 28 Aug 2026 12:11:06 -0400",
+      "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
+      "description": "Seoul says South Korea, the U.S. and Japan will go ahead with a trilateral military drill next month to better deal with North Korean nuclear threats",
+      "url": "https://abcnews.com/International/wireStory/us-south-korea-japan-hold-trilateral-drill-north-136021295",
+      "published": "Fri, 28 Aug 2026 02:16:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity"
+      "is_ticker": false
     },
     {
       "title": "Two-year curfew lifted in Sudan's capital",
@@ -1122,32 +1119,18 @@
       "is_ticker": false
     },
     {
-      "title": "Baghdad crackdown on illegal housing turns deadly as shooting kills Iraqi chief",
-      "description": "Iraqi military personnel and municipal workers have come under fire in Baghdad as they tried to remove illegal housing structures",
-      "url": "https://abcnews.com/International/wireStory/baghdad-crackdown-illegal-housing-turns-deadly-shooting-kills-135998469",
-      "published": "Thu, 27 Aug 2026 07:54:20 -0400",
+      "title": "A fire at a gas and chemical plant in Russia's Far East has killed 15",
+      "description": "Fifteen people have been killed in a blaze at the Amur Gas Chemical Complex in Russia’s Far East, the company that runs the plant said",
+      "url": "https://abcnews.com/International/wireStory/fire-gas-chemical-plant-russias-east-killed-15-136010394",
+      "published": "Fri, 28 Aug 2026 02:57:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Baghdad crackdown on illegal housing turns deadly as shooting kills Iraqi chief"
-    },
-    {
-      "title": "Russia says it launched a 'massive' overnight strike on 9 Ukrainian cities",
-      "description": "Russia has launched a major attack on Ukraine that targeted nine cities with missiles and drones",
-      "url": "https://abcnews.com/International/wireStory/russia-launched-massive-overnight-strike-9-ukrainian-cities-135997859",
-      "published": "Thu, 27 Aug 2026 09:47:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia says it launched a 'massive' overnight strike on 9 Ukrainian cities"
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 A fire at a gas and chemical plant in Russia's Far East has killed 15"
     },
     {
       "title": "Security Council LIVE: Rising tensions in Gaza, West Bank",
@@ -1226,6 +1209,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin ‘panicked’ as defiant Ukraine marks Independence Day under Russian bombardment"
+    },
+    {
+      "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+      "description": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 28 Aug 2026 22:05:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Footage of Tibet floods isn't being shown in China - and we know little about victims there"
     },
     {
       "title": "Before and after images show catastrophic impact of Nepal flash floods",
@@ -1464,20 +1461,6 @@
       "ticker_label": "🪖 Dutch court sentences man to life over Rwanda genocide"
     },
     {
-      "title": "Fed has 'work to do' if price rises don't ease for Americans, Warsh says",
-      "description": "Kevin Warsh remarks suggest interest rates could be increased if policymakers think inflation is running too high.",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zjgv9lgdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 28 Aug 2026 15:15:26 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Fed has 'work to do' if price rises don't ease for Americans, Warsh says"
-    },
-    {
       "title": "With the US and Canada locked in a trade war, fears of a recession lurk",
       "description": "Analysts say Canada may lose 100,000 jobs under the current tariffs and could go into recession if the USMCA pact ends.",
       "url": "https://www.aljazeera.com/economy/2026/8/28/with-the-us-and-canada-locked-in-a-trade-war-fears-of-a-recession-lurk?traffic_source=rss",
@@ -1631,10 +1614,24 @@
       "ticker_label": "🪖 Trump signs order renaming Lake Ontario as 'Lake America' in the US"
     },
     {
-      "title": "Britons get the chance to read Jason Arday’s story for themselves as memoir is published in the UK",
-      "description": "Britons who saw Professor Jason Arday’s life and death dissected by weeks of headlines covering allegations about his academic qualifications and personal accomplishments can now read his version of the story",
-      "url": "https://abcnews.com/International/wireStory/britons-chance-read-jason-ardays-story-memoir-published-135995505",
-      "published": "Thu, 27 Aug 2026 07:49:34 -0400",
+      "title": "Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home",
+      "description": "Serbia's President Aleksandar Vucic has accused a U.N. court of “uncivilized behavior” for denying early release to former Bosnian Serb commander Ratko Mladic",
+      "url": "https://abcnews.com/International/wireStory/serbias-president-criticizes-court-releasing-war-criminal-mladic-136032820",
+      "published": "Fri, 28 Aug 2026 14:44:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home"
+    },
+    {
+      "title": "Norway's crown prince becomes King Haakon VIII after his father's death",
+      "description": "Norway has a new king",
+      "url": "https://abcnews.com/International/wireStory/norways-crown-prince-king-haakon-viii-after-fathers-136023201",
+      "published": "Fri, 28 Aug 2026 08:15:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1654,28 +1651,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war"
-    },
-    {
-      "title": "Jerusalem court acquits a man indicted in nun attack, orders psychiatric care",
-      "description": "A Jerusalem court has acquitted a man accused of attacking a Catholic nun, citing an insanity defense, but orders psychiatric hospitalization for up to six years",
-      "url": "https://abcnews.com/International/wireStory/jerusalem-court-acquits-man-indicted-nun-attack-orders-135998464",
-      "published": "Thu, 27 Aug 2026 07:49:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Norway's crown prince becomes King Haakon VIII after his father's death",
-      "description": "Norway has a new king",
-      "url": "https://abcnews.com/International/wireStory/norways-crown-prince-king-haakon-viii-after-fathers-136023201",
-      "published": "Fri, 28 Aug 2026 08:15:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
@@ -1803,10 +1778,10 @@
       "is_ticker": false
     },
     {
-      "title": "A Dutch court convicts a Rwandan man over his home country's 1994 genocide, sentences him to life",
-      "description": "A Dutch court has convicted a Rwandan man of participating in the 1994 genocide in Rwanda and sentenced him to life imprisonment",
-      "url": "https://abcnews.com/International/wireStory/dutch-court-convicts-rwandan-man-home-countrys-1994-136024690",
-      "published": "Fri, 28 Aug 2026 08:02:26 -0400",
+      "title": "Eswatini receives 2 more US deportees under a controversial third-country deal",
+      "description": "Two migrants deported from the U.S. have arrived in Eswatini under a controversial agreement between the two countries",
+      "url": "https://abcnews.com/International/wireStory/eswatini-receives-2-us-deportees-controversial-country-deal-136027385",
+      "published": "Fri, 28 Aug 2026 08:34:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1814,10 +1789,10 @@
       "is_ticker": false
     },
     {
-      "title": "Eswatini receives 2 more US deportees under a controversial third-country deal",
-      "description": "Two migrants deported from the U.S. have arrived in Eswatini under a controversial agreement between the two countries",
-      "url": "https://abcnews.com/International/wireStory/eswatini-receives-2-us-deportees-controversial-country-deal-136027385",
-      "published": "Fri, 28 Aug 2026 08:34:20 -0400",
+      "title": "A Dutch court convicts a Rwandan man over his home country's 1994 genocide, sentences him to life",
+      "description": "A Dutch court has convicted a Rwandan man of participating in the 1994 genocide in Rwanda and sentenced him to life imprisonment",
+      "url": "https://abcnews.com/International/wireStory/dutch-court-convicts-rwandan-man-home-countrys-1994-136024690",
+      "published": "Fri, 28 Aug 2026 08:02:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -2558,17 +2533,6 @@
       "is_ticker": false
     },
     {
-      "title": "From troubled hearts to lost keys, Greeks bake cakes for a wish-granting saint",
-      "description": "Saint Fanourios, the Orthodox Christian patron saint of lost things, is honored each Aug. 27 with prayers and traditional orange-flavored cake",
-      "url": "https://abcnews.com/International/wireStory/troubled-hearts-lost-keys-greeks-bake-cakes-granting-135995684",
-      "published": "Thu, 27 Aug 2026 08:32:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Norway’s King Harald V dies at 89 and his son becomes king",
       "description": "King Harald V of Norway has died at 89",
       "url": "https://abcnews.com/International/wireStory/norways-king-harald-dies-89-son-king-136023103",
@@ -2583,10 +2547,21 @@
       "ticker_label": "💥 Norway’s King Harald V dies at 89 and his son becomes king"
     },
     {
-      "title": "Car rams pedestrians in northern France, killing 1 and injuring 10",
-      "description": "Authorities say a driver has deliberately rammed a car into a group of people in northern France, killing two people and injuring nine others",
-      "url": "https://abcnews.com/International/wireStory/car-rams-pedestrians-northern-france-killing-1-injuring-135996755",
-      "published": "Thu, 27 Aug 2026 05:38:16 -0400",
+      "title": "Quebec’s governing party names Trump its ‘real adversary’ as election begins",
+      "description": "Quebec’s governing party has opened the provincial election campaign by casting U_S_ President Donald Trump as its “real adversary.”",
+      "url": "https://abcnews.com/International/wireStory/quebecs-governing-party-names-trump-real-adversary-election-136020198",
+      "published": "Fri, 28 Aug 2026 02:17:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Zambia opposition leader sought refuge following disputed elections. Now he's accused of treason",
+      "description": "Zambia's main opposition leader has been arrested on allegations of treason following a troubled election two weeks ago",
+      "url": "https://abcnews.com/International/wireStory/zambia-opposition-leader-sought-refuge-disputed-elections-now-136014580",
+      "published": "Fri, 28 Aug 2026 02:20:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2598,6 +2573,28 @@
       "description": "Mauritania says it intercepted a boat carrying 161 migrants trying to reach Europe",
       "url": "https://abcnews.com/International/wireStory/mauritania-intercepts-migrant-boat-161-aboard-including-17-136013559",
       "published": "Fri, 28 Aug 2026 02:30:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US defense review presses NATO allies to prove they are taking the lead in Europe",
+      "description": "The Pentagon is pressing NATO allies to show how they're upping their defense of Europe as the U.S. focuses on security challenges elsewhere",
+      "url": "https://abcnews.com/International/wireStory/us-defense-review-presses-nato-allies-prove-taking-136013093",
+      "published": "Fri, 28 Aug 2026 02:31:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Justice Department charges more than 80 people in Puerto Rico gang takedown",
+      "description": "The U.S. Justice Department has charged over 80 people in the takedown of a violent Puerto Rican gang",
+      "url": "https://abcnews.com/International/wireStory/justice-department-charges-80-people-puerto-rico-gang-136008015",
+      "published": "Thu, 27 Aug 2026 14:22:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
