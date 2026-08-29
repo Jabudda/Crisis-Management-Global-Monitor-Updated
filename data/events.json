@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T10:36:45.323926Z",
+  "last_updated": "2026-08-29T11:12:22.693831Z",
   "event_count": 223,
   "events": [
     {
@@ -143,17 +143,6 @@
       "ticker_label": "🌪️ Death toll from Nepal-Tibet floods rises to over 600"
     },
     {
-      "title": "Niger's government mobilises troops as gunfire reported near presidential palace",
-      "description": "Sustained gunfire and explosions rang out early Saturday across several areas of Niger's capital, including the airport and near the presidency, in what multiple sources said was an attack by mutinous soldiers. Authorities in Niamey called for calm and said the government was mobilising security forces.",
-      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
-      "published": "Sat, 29 Aug 2026 06:33:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Nepal: Families cling to hope as nearly 1,000 remain missing",
       "description": "Nepal's confirmed death toll has risen to at least 538, but families are still searching hospitals and disaster zones in the hope their loved ones will be found alive, with nearly 1,000 people still missing. More than 3,700 people have been rescued so far, though destroyed roads, bridges and thick mud continue to hamper search efforts.",
       "url": "https://www.france24.com/en/nepal-families-cling-to-hope-as-nearly-1-000-remain-missing",
@@ -250,6 +239,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Number of Australians missing in Nepal’s deadly floods rises again, as Albanese deploys more personnel"
+    },
+    {
+      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 27",
+      "description": "Zelenskyy says a warehouse was struck outside Kyiv, 'followed by a detonation', triggering a major fire and explosions.",
+      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "published": "Sat, 29 Aug 2026 10:36:11 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian attack on warehouse near Ukraine’s Kyiv kills at least 27"
     },
     {
       "title": "Experts warn more flooding might hit Nepal. And, Fed chairman to give key address",
@@ -450,6 +453,17 @@
       "ticker_label": "🌪️ Nepal army races to rescue more than 100 trapped in hydropower tunnel after floods"
     },
     {
+      "title": "Niger's military regime 'gradually regaining control' from mutinous soldiers",
+      "description": "Niger's military regime said Saturday it was \"gradually regaining control\" after mutineers held soldiers hostage at a military base next to the capital's airport. Sustained gunfire and explosions were reported across several areas of Niamey, including the airport and near the presidential palace.",
+      "url": "https://www.france24.com/en/africa/20260829-gunfire-and-explosions-heard-near-military-base-in-niger-s-capital",
+      "published": "Sat, 29 Aug 2026 06:33:07 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "🔴 Nepal-Tibet floods live: Death toll passes 600, nearly 3,000 people missing",
       "description": "No description available.",
       "url": "https://www.france24.com/en/asia-pacific/20260829-nepal-tibet-floods-live-death-toll-passes-600-nearly-2-500-people-still-missing",
@@ -515,20 +529,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ 'It's essentially been one long day': A daughter details search for parents in Nepal"
-    },
-    {
-      "title": "Hundreds evacuate after Russian strike on warehouse near Kyiv kills at least 27",
-      "description": "A Russian drone strike on a warehouse on the outskirts of Ukraine's capital Kyiv on Friday killed at least 27 people and forced hundreds to evacuate, Ukrainian authorities said Saturday.",
-      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
-      "published": "Sat, 29 Aug 2026 08:57:05 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hundreds evacuate after Russian strike on warehouse near Kyiv kills at least 27"
     },
     {
       "title": "Red Sea nations step up maritime cooperation as regional threats grow",
@@ -754,6 +754,17 @@
       "ticker_label": "🪖 US revokes visa of former Iraqi minister after watchlist listing"
     },
     {
+      "title": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
+      "description": "Officials say at least 27 people have been killed in a Russian attack on the Bucha district near Kyiv",
+      "url": "https://abcnews.com/International/wireStory/russian-attack-hits-ukraines-kyiv-region-killing-27-136052346",
+      "published": "Sat, 29 Aug 2026 06:10:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "UN agency warns of 17,000 children in urgent need of assistance as aid reaches some Nepal survivors",
       "description": "Aid has begun to reach survivors of the catastrophic flash floods that swept through the mountainous border region between Nepal and China",
       "url": "https://abcnews.com/International/wireStory/agency-warns-17000-children-urgent-assistance-aid-reaches-136033465",
@@ -766,17 +777,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ UN agency warns of 17,000 children in urgent need of assistance as aid reaches some Nepal survivors"
-    },
-    {
-      "title": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
-      "description": "Officials say at least 27 people have been killed in a Russian attack on the Bucha district near Kyiv",
-      "url": "https://abcnews.com/International/wireStory/russian-attack-hits-ukraines-kyiv-region-killing-27-136052346",
-      "published": "Sat, 29 Aug 2026 06:10:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Experts zero in on likely cause of deadly Nepal mudslide, with more than 1,400 missing",
@@ -815,8 +815,22 @@
       "is_ticker": false
     },
     {
+      "title": "Hundreds evacuate after Russian strike on depot near Kyiv kills at least 27",
+      "description": "A Russian drone strike on a depot on the outskirts of Ukraine's capital Kyiv on Friday killed at least 27 people and forced hundreds to evacuate, Ukrainian authorities said Saturday.",
+      "url": "https://www.france24.com/en/europe/20260829-russian-strike-on-warehouse-near-kyiv-kills-at-least-27-people-hundreds-evacuated",
+      "published": "Sat, 29 Aug 2026 08:57:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Hundreds evacuate after Russian strike on depot near Kyiv kills at least 27"
+    },
+    {
       "title": "Statins can safely cut risk of heart attacks or strokes in healthy people aged over 70, world-first clinical trial shows",
-      "description": "Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older people Get our breaking news email , free app or daily news podcast Taking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found. Statins are already commonly prescribed to people under the age of 75 who meet certain risk criteria, such as having diabetes and high cholesterol, to prevent them from having a major heart event such as a heart attack, stroke, or from requiring heart surgery. Continue reading...",
+      "description": "Australian-led trial finds low risk of side effects from common cholesterol-lowering medication for otherwise healthy older people Taking a common cholesterol-lowering medication can reduce the risk of a heart attack or stroke for people aged over 70, with a low risk of serious side effects, a world-first clinical trial led by Australian researchers has found. Statins are already commonly prescribed to people under the age of 75 who meet certain risk criteria, such as having diabetes and high cholesterol, to prevent them from having a major heart event such as a heart attack, stroke, or from requiring heart surgery. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/aug/29/statins-reduce-risk-heart-attack-stroke-over-70s-clinical-trial",
       "published": "Sat, 29 Aug 2026 06:25:19 GMT",
       "source": "The Guardian World",
@@ -862,18 +876,18 @@
       "is_ticker": false
     },
     {
-      "title": "Norway mourns King Harald as Haakon prepares to take the throne",
-      "description": "Norway is mourning King Harald V after the country's longest-serving monarch died at the age of 89, with tributes pouring in from across Europe. His death paves the way for Crown Prince Haakon to become king, as the royal family faces renewed scrutiny over Crown Princess Mette-Marit's reported past ties to Jeffrey Epstein and the conviction of her son for rape.",
-      "url": "https://www.france24.com/en/norway-mourns-king-harald-as-haakon-prepares-to-take-the-throne",
-      "published": "Fri, 28 Aug 2026 16:31:12 GMT",
-      "source": "France24",
+      "title": "4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity",
+      "description": "Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack in north London earlier this year that many said was a direct result of the start of the Iran war",
+      "url": "https://abcnews.com/International/wireStory/4-men-plead-guilty-torching-4-london-based-136033251",
+      "published": "Fri, 28 Aug 2026 12:11:06 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Norway mourns King Harald as Haakon prepares to take the throne"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity"
     },
     {
       "title": "Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day",
@@ -888,20 +902,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day"
-    },
-    {
-      "title": "4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity",
-      "description": "Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack in north London earlier this year that many said was a direct result of the start of the Iran war",
-      "url": "https://abcnews.com/International/wireStory/4-men-plead-guilty-torching-4-london-based-136033251",
-      "published": "Fri, 28 Aug 2026 12:11:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity"
     },
     {
       "title": "US, South Korea and Japan to hold trilateral drill as North Korea ramps up pressure on US",
@@ -957,6 +957,20 @@
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Several killed in Israeli strikes on Gaza and West Bank",
+      "description": "Israeli strikes in Gaza have killed five people, local hospital officials said Friday. Two brothers and another relative died in a strike on the family’s home outside Khan Younis, officials at Nasser Hospital said. Two separate Israeli strikes killed one person each in Gaza City, according to health officials at Shifa hospital.",
+      "url": "https://www.france24.com/en/several-killed-in-israeli-strikes-on-gaza-and-west-bank",
+      "published": "Sat, 29 Aug 2026 10:34:58 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Several killed in Israeli strikes on Gaza and West Bank"
     },
     {
       "title": "DRC President Tshisekedi calls for national dialogue excluding M23 rebels",
@@ -1432,20 +1446,6 @@
       "ticker_label": "🪖 Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence"
     },
     {
-      "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-      "description": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-      "published": "Sat, 29 Aug 2026 00:53:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Board of Peace’s Mladenov warns Gaza could be ‘gone for good’"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1565,10 +1565,10 @@
       "ticker_label": "🪖 Trump signs order renaming Lake Ontario as 'Lake America' in the US"
     },
     {
-      "title": "A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war",
-      "description": "A new production of the “The Odyssey” in wartime Kyiv reimagines Homer’s epic through the experience of modern Ukraine",
-      "url": "https://abcnews.com/International/wireStory/theater-reimagining-homers-odyssey-agony-ukraines-war-136022154",
-      "published": "Fri, 28 Aug 2026 01:14:22 -0400",
+      "title": "Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home",
+      "description": "Serbia's President Aleksandar Vucic has accused a U.N. court of “uncivilized behavior” for denying early release to former Bosnian Serb commander Ratko Mladic",
+      "url": "https://abcnews.com/International/wireStory/serbias-president-criticizes-court-releasing-war-criminal-mladic-136032820",
+      "published": "Fri, 28 Aug 2026 14:44:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1576,7 +1576,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war"
+      "ticker_label": "🪖 Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home"
     },
     {
       "title": "Norway's crown prince becomes King Haakon VIII after his father's death",
@@ -1590,10 +1590,10 @@
       "is_ticker": false
     },
     {
-      "title": "Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home",
-      "description": "Serbia's President Aleksandar Vucic has accused a U.N. court of “uncivilized behavior” for denying early release to former Bosnian Serb commander Ratko Mladic",
-      "url": "https://abcnews.com/International/wireStory/serbias-president-criticizes-court-releasing-war-criminal-mladic-136032820",
-      "published": "Fri, 28 Aug 2026 14:44:41 -0400",
+      "title": "A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war",
+      "description": "A new production of the “The Odyssey” in wartime Kyiv reimagines Homer’s epic through the experience of modern Ukraine",
+      "url": "https://abcnews.com/International/wireStory/theater-reimagining-homers-odyssey-agony-ukraines-war-136022154",
+      "published": "Fri, 28 Aug 2026 01:14:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1601,7 +1601,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home"
+      "ticker_label": "🪖 A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war"
     },
     {
       "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
@@ -1646,8 +1646,8 @@
       "ticker_label": "🪖 Ratko Mladić, 'Butcher of Bosnia' convicted of genocide, dies at 84"
     },
     {
-      "title": "Dutch institute issues 'red alert' over Trump-shaped ecstasy pills",
-      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the institute has advised.",
+      "title": "Dutch health institute issues 'red alert' over Trump-shaped ecstasy pills",
+      "description": "The drugs have a delayed effect which \"increases the risk of overdose\", the health institute says.",
       "url": "https://www.bbc.co.uk/news/articles/cy8z9084d00o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 29 Aug 2026 08:48:34 GMT",
       "source": "BBC News",
@@ -1773,10 +1773,10 @@
       "is_ticker": false
     },
     {
-      "title": "A Dutch court convicts a Rwandan man over his home country's 1994 genocide, sentences him to life",
-      "description": "A Dutch court has convicted a Rwandan man of participating in the 1994 genocide in Rwanda and sentenced him to life imprisonment",
-      "url": "https://abcnews.com/International/wireStory/dutch-court-convicts-rwandan-man-home-countrys-1994-136024690",
-      "published": "Fri, 28 Aug 2026 08:02:26 -0400",
+      "title": "Eswatini receives 2 more US deportees under a controversial third-country deal",
+      "description": "Two migrants deported from the U.S. have arrived in Eswatini under a controversial agreement between the two countries",
+      "url": "https://abcnews.com/International/wireStory/eswatini-receives-2-us-deportees-controversial-country-deal-136027385",
+      "published": "Fri, 28 Aug 2026 08:34:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1784,10 +1784,10 @@
       "is_ticker": false
     },
     {
-      "title": "Eswatini receives 2 more US deportees under a controversial third-country deal",
-      "description": "Two migrants deported from the U.S. have arrived in Eswatini under a controversial agreement between the two countries",
-      "url": "https://abcnews.com/International/wireStory/eswatini-receives-2-us-deportees-controversial-country-deal-136027385",
-      "published": "Fri, 28 Aug 2026 08:34:20 -0400",
+      "title": "A Dutch court convicts a Rwandan man over his home country's 1994 genocide, sentences him to life",
+      "description": "A Dutch court has convicted a Rwandan man of participating in the 1994 genocide in Rwanda and sentenced him to life imprisonment",
+      "url": "https://abcnews.com/International/wireStory/dutch-court-convicts-rwandan-man-home-countrys-1994-136024690",
+      "published": "Fri, 28 Aug 2026 08:02:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -2506,6 +2506,17 @@
       "ticker_label": "💥 'Butcher of Bosnia' Ratko Mladic dies"
     },
     {
+      "title": "Former Ecuadorian President Lenín Moreno sentenced to 5 years for corruption",
+      "description": "Former Ecuadorian President Lenín Moreno has been sentenced to prison for accepting bribes from the Chinese company Sinohydro",
+      "url": "https://abcnews.com/International/wireStory/former-ecuadorian-president-lenn-moreno-sentenced-5-years-136048771",
+      "published": "Sat, 29 Aug 2026 00:14:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Norway’s King Harald V dies at 89 and his son becomes king",
       "description": "King Harald V of Norway has died at 89",
       "url": "https://abcnews.com/International/wireStory/norways-king-harald-dies-89-son-king-136023103",
@@ -2518,17 +2529,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Norway’s King Harald V dies at 89 and his son becomes king"
-    },
-    {
-      "title": "Former Ecuadorian President Lenín Moreno sentenced to 5 years for corruption",
-      "description": "Former Ecuadorian President Lenín Moreno has been sentenced to prison for accepting bribes from the Chinese company Sinohydro",
-      "url": "https://abcnews.com/International/wireStory/former-ecuadorian-president-lenn-moreno-sentenced-5-years-136048771",
-      "published": "Sat, 29 Aug 2026 00:14:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Quebec’s governing party names Trump its ‘real adversary’ as election begins",
