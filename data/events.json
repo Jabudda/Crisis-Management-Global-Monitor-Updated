@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T15:13:41.390694Z",
+  "last_updated": "2026-08-29T15:37:02.442525Z",
   "event_count": 223,
   "events": [
     {
@@ -29,6 +29,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Nepal-Tibet floods live: Rescuers race to find 100 workers trapped in tunnels as death toll tops 680"
+    },
+    {
+      "title": "Death toll from mudslides, flooding at Nepal-China border climbs past 670, nearly 3,000 missing",
+      "description": "Nepal's flood and mudslide death toll reaches more than 670 with nearly 3,000 missing as rain and fog halt search and rescue operations in the disaster zone.",
+      "url": "https://www.foxnews.com/world/death-toll-mudslides-flooding-nepal-china-border-climbs-past-670-nearly-3000-missing",
+      "published": "Sat, 29 Aug 2026 11:28:44 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 42,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Death toll from mudslides, flooding at Nepal-China border climbs past 670, nearly 3,000 missing"
     },
     {
       "title": "Nepal-Tibet flood rescue efforts resume after being halted by overflowing lake",
@@ -508,20 +522,6 @@
       "ticker_label": "🪖 Explainer: UN peace operations work to create, preserve peace"
     },
     {
-      "title": "Hormuz crisis hides a deeper oil threat that could outlast the war",
-      "description": "Art Berman warns that 8 million barrels shut in near the Strait of Hormuz may never fully recover, even after a ceasefire reopens the waterway.",
-      "url": "https://www.foxnews.com/world/strait-hormuz-may-only-half-story-new-oil-threat-comes-focus",
-      "published": "Sun, 23 Aug 2026 06:00:56 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hormuz crisis hides a deeper oil threat that could outlast the war"
-    },
-    {
       "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
       "description": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the Netherlands In October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war. For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdered, according to Meareg and Foxglove, a nonprofit organisation supporting Meareg’s lawsuit against the company in Kenya. These posts included photos of his father and his home address. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
@@ -793,7 +793,7 @@
       "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
       "description": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
       "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 14:43:04 GMT",
+      "published": "Sat, 29 Aug 2026 15:27:56 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
@@ -890,20 +890,6 @@
       "is_ticker": false
     },
     {
-      "title": "4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity",
-      "description": "Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack in north London earlier this year that many said was a direct result of the start of the Iran war",
-      "url": "https://abcnews.com/International/wireStory/4-men-plead-guilty-torching-4-london-based-136033251",
-      "published": "Fri, 28 Aug 2026 12:11:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity"
-    },
-    {
       "title": "Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day",
       "description": "Russian forces have resumed drone attacks on Ukraine’s Kyiv region, hitting numerous buildings and storage depots",
       "url": "https://abcnews.com/International/wireStory/russian-drones-batter-ukraines-kyiv-region-hitting-apartments-136024871",
@@ -916,6 +902,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian drones batter Ukraine's Kyiv region, hitting apartments and warehouses for a second day"
+    },
+    {
+      "title": "4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity",
+      "description": "Four men have pleaded guilty to destroying four Jewish community ambulances in an arson attack in north London earlier this year that many said was a direct result of the start of the Iran war",
+      "url": "https://abcnews.com/International/wireStory/4-men-plead-guilty-torching-4-london-based-136033251",
+      "published": "Fri, 28 Aug 2026 12:11:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 4 men plead guilty to torching 4 London-based ambulances operated by Jewish charity"
     },
     {
       "title": "Two-year curfew lifted in Sudan's capital",
@@ -1202,10 +1202,10 @@
       "is_ticker": false
     },
     {
-      "title": "India news: PM Modi leaves for Central Asian tour",
-      "description": "Indian Prime Minister Narendra Modi is traveling to Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal. DW has more.",
-      "url": "https://www.dw.com/en/india-news-pm-modi-leaves-for-central-asian-tour/live-78554796?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 29 Aug 2026 06:32:00 GMT",
+      "title": "India news: PM Modi in Uzbekistan on way to SCO summit",
+      "description": "Indian Prime Minister Narendra Modi is in Uzbekistan for a two-day state visit, after which he will go to Kyrgyzstan for the SCO Summit. Meanwhile, hundreds of Indians are still missing in Nepal. DW has more.",
+      "url": "https://www.dw.com/en/india-news-pm-modi-in-uzbekistan-on-way-to-sco-summit/live-78554796?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 29 Aug 2026 15:34:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
@@ -1599,10 +1599,10 @@
       "is_ticker": false
     },
     {
-      "title": "Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home",
-      "description": "Serbia's President Aleksandar Vucic has accused a U.N. court of “uncivilized behavior” for denying early release to former Bosnian Serb commander Ratko Mladic",
-      "url": "https://abcnews.com/International/wireStory/serbias-president-criticizes-court-releasing-war-criminal-mladic-136032820",
-      "published": "Fri, 28 Aug 2026 14:44:41 -0400",
+      "title": "A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war",
+      "description": "A new production of the “The Odyssey” in wartime Kyiv reimagines Homer’s epic through the experience of modern Ukraine",
+      "url": "https://abcnews.com/International/wireStory/theater-reimagining-homers-odyssey-agony-ukraines-war-136022154",
+      "published": "Fri, 28 Aug 2026 01:14:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1610,7 +1610,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home"
+      "ticker_label": "🪖 A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war"
     },
     {
       "title": "Norway's crown prince becomes King Haakon VIII after his father's death",
@@ -1624,10 +1624,10 @@
       "is_ticker": false
     },
     {
-      "title": "A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war",
-      "description": "A new production of the “The Odyssey” in wartime Kyiv reimagines Homer’s epic through the experience of modern Ukraine",
-      "url": "https://abcnews.com/International/wireStory/theater-reimagining-homers-odyssey-agony-ukraines-war-136022154",
-      "published": "Fri, 28 Aug 2026 01:14:22 -0400",
+      "title": "Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home",
+      "description": "Serbia's President Aleksandar Vucic has accused a U.N. court of “uncivilized behavior” for denying early release to former Bosnian Serb commander Ratko Mladic",
+      "url": "https://abcnews.com/International/wireStory/serbias-president-criticizes-court-releasing-war-criminal-mladic-136032820",
+      "published": "Fri, 28 Aug 2026 14:44:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1635,7 +1635,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A theater is reimagining Homer’s Odyssey through the agony of Ukraine’s war"
+      "ticker_label": "🪖 Serbia's president criticizes UN court for not releasing war criminal Mladic to die at home"
     },
     {
       "title": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
@@ -1727,7 +1727,7 @@
       "title": "Trump hails 'historic' deal for US to control 65bn barrels of Venezuela's oil",
       "description": "Venezuelan interim president says the unusual agreement will help revive her country's economy.",
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 29 Aug 2026 14:18:11 GMT",
+      "published": "Sat, 29 Aug 2026 15:13:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1804,10 +1804,10 @@
       "is_ticker": false
     },
     {
-      "title": "Eswatini receives 2 more US deportees under a controversial third-country deal",
-      "description": "Two migrants deported from the U.S. have arrived in Eswatini under a controversial agreement between the two countries",
-      "url": "https://abcnews.com/International/wireStory/eswatini-receives-2-us-deportees-controversial-country-deal-136027385",
-      "published": "Fri, 28 Aug 2026 08:34:20 -0400",
+      "title": "A Dutch court convicts a Rwandan man over his home country's 1994 genocide, sentences him to life",
+      "description": "A Dutch court has convicted a Rwandan man of participating in the 1994 genocide in Rwanda and sentenced him to life imprisonment",
+      "url": "https://abcnews.com/International/wireStory/dutch-court-convicts-rwandan-man-home-countrys-1994-136024690",
+      "published": "Fri, 28 Aug 2026 08:02:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1815,10 +1815,10 @@
       "is_ticker": false
     },
     {
-      "title": "A Dutch court convicts a Rwandan man over his home country's 1994 genocide, sentences him to life",
-      "description": "A Dutch court has convicted a Rwandan man of participating in the 1994 genocide in Rwanda and sentenced him to life imprisonment",
-      "url": "https://abcnews.com/International/wireStory/dutch-court-convicts-rwandan-man-home-countrys-1994-136024690",
-      "published": "Fri, 28 Aug 2026 08:02:26 -0400",
+      "title": "Eswatini receives 2 more US deportees under a controversial third-country deal",
+      "description": "Two migrants deported from the U.S. have arrived in Eswatini under a controversial agreement between the two countries",
+      "url": "https://abcnews.com/International/wireStory/eswatini-receives-2-us-deportees-controversial-country-deal-136027385",
+      "published": "Fri, 28 Aug 2026 08:34:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -2529,6 +2529,20 @@
       "ticker_label": "💥 'Butcher of Bosnia' Ratko Mladic dies"
     },
     {
+      "title": "Norway’s King Harald V dies at 89 and his son becomes king",
+      "description": "King Harald V of Norway has died at 89",
+      "url": "https://abcnews.com/International/wireStory/norways-king-harald-dies-89-son-king-136023103",
+      "published": "Fri, 28 Aug 2026 08:10:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Norway’s King Harald V dies at 89 and his son becomes king"
+    },
+    {
       "title": "Tens of thousands mourn King Harald V in Oslo as Norway enters a new royal era",
       "description": "Tens of thousands of mourners have paid their respects to Norway's King Harald V, who died at 89",
       "url": "https://abcnews.com/International/wireStory/tens-thousands-mourn-king-harald-oslo-norway-enters-136052808",
@@ -2552,20 +2566,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Norway’s King Harald V dies at 89 and his son becomes king",
-      "description": "King Harald V of Norway has died at 89",
-      "url": "https://abcnews.com/International/wireStory/norways-king-harald-dies-89-son-king-136023103",
-      "published": "Fri, 28 Aug 2026 08:10:35 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Norway’s King Harald V dies at 89 and his son becomes king"
     },
     {
       "title": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
