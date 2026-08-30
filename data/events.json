@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T13:13:58.606649Z",
+  "last_updated": "2026-08-30T13:37:04.837060Z",
   "event_count": 222,
   "events": [
     {
@@ -146,7 +146,7 @@
       "title": "Death toll rises to 38 from Russia's deadliest attack on Ukraine this year",
       "description": "The death toll from a Russian strike on a warehouse west of Kyiv, the war’s deadliest attack so far this year, rose to 38 with four people still missing",
       "url": "https://abcnews.com/International/wireStory/death-toll-rises-38-russias-deadliest-attack-ukraine-136067685",
-      "published": "Sun, 30 Aug 2026 05:41:03 -0400",
+      "published": "Sun, 30 Aug 2026 09:22:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 33,
@@ -283,20 +283,6 @@
       "ticker_label": "🪖 Gunman kills one at Swiss rave party"
     },
     {
-      "title": "Manhunt underway after one killed, multiple injured at Swiss rave",
-      "description": "At least one person was killed and five others injured, some seriously, in a shooting at a rave in the northern Swiss city of Aarau, police and local media reported Sunday. A major police operation is underway at the scene, with authorities urging residents to stay away from the area.",
-      "url": "https://www.france24.com/en/europe/20260830-one-killed-five-injured-in-shooting-at-rave-in-switzerland",
-      "published": "Sun, 30 Aug 2026 06:52:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Manhunt underway after one killed, multiple injured at Swiss rave"
-    },
-    {
       "title": "Russian attack hits Ukraine's Kyiv region, killing at least 27",
       "description": "Ukrainian officials say at least 37 people have been killed in a Russian strike on a warehouse near Kyiv that may have been illegally storing munitions in a residential area",
       "url": "https://abcnews.com/International/wireStory/russian-attack-hits-ukraines-kyiv-region-killing-27-136052346",
@@ -339,20 +325,6 @@
       "ticker_label": "🪖 Four children killed as separate attacks in Gaza destroy aid supplies"
     },
     {
-      "title": "Nepal-China flood disaster: What’s the latest toll, how many are missing?",
-      "description": "Over 3,000 people remain missing days after a glacier collapse triggered devastating floods near China-Nepal border.",
-      "url": "https://www.aljazeera.com/news/2026/8/30/nepal-china-flood-disaster-whats-the-latest-toll-how-many-are-missing?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 09:24:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Nepal-China flood disaster: What’s the latest toll, how many are missing?"
-    },
-    {
       "title": "Photos: See the aftermath of deadly flash floods in Nepal",
       "description": "Nepal officials say the death toll has continues to rise in Wednesday's floods that washed away communities in Nepal and Tibet, which is held by China. About 2,500 people are missing in both areas.",
       "url": "https://www.npr.org/2026/08/29/nx-s1-5948209/photos-see-the-aftermath-of-deadly-flash-floods-in-nepal",
@@ -393,6 +365,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Tropical Storm Dolly downgraded to ‘open tropical wave’ as it heads to Caribbean"
+    },
+    {
+      "title": "Nepal: Hopes fade for thousands still missing",
+      "description": "Four days have passed since catastrophic floods killed more than 750 people. More than 3,000 people are still missing, and hopes of finding survivors are fading. The situation remains concerning, with more heavy rain and flooding expected across the region. France 24 correspondent Shahzaib Wahlah brings us the latest.",
+      "url": "https://www.france24.com/en/nepal-hopes-fade-for-thousands-still-missing",
+      "published": "Sun, 30 Aug 2026 13:11:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Nepal: Hopes fade for thousands still missing"
     },
     {
       "title": "Netanyahu condemns violence in West Bank",
@@ -513,6 +499,20 @@
       "severity_score": 24,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Cyprus: Ferry capsizes with hundreds on board",
+      "description": "Authorities say at least six people have died after a catamaran-style ferry carrying 267 passengers and crew capsized off the coast of northern Cyprus. The Turkish ambassador to Nicosia said 172 people had been rescued, with some taken to hospital, while 89 remain missing. The death toll has since risen to seven, according to the latest figures. France 24 correspondent Jasper Mortimer reports the latest from Ankara, Turkey.",
+      "url": "https://www.france24.com/en/video/20260830-cyprus-ferry-capsizes-with-hundreds-of-board",
+      "published": "Sun, 30 Aug 2026 13:13:28 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Cyprus: Ferry capsizes with hundreds on board"
     },
     {
       "title": "In one Nepal district, flood catastrophe is measured in bodies and burial trenches",
@@ -755,6 +755,17 @@
       "ticker_label": "🚨 Manhunt after shooting at Swiss rave kills woman, 22, and injures five"
     },
     {
+      "title": "At least six people die after ferry capsizes off northern Cyprus",
+      "description": "Turkish Cypriot Prime Minister Unal Ustel says 172 people rescued and 89 people remained missing.",
+      "url": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 11:52:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Argentines march on Peter Thiel's mansion",
       "description": "In Argentina, protesters marched toward a mansion reportedly purchased by American tech billionaire Peter Thiel. Activists accuse Thiel of seeking to profit from the country’s natural resources and wielding excessive political influence in the South American nation. Peter O'Brien reports.",
       "url": "https://www.france24.com/en/argentines-march-on-peter-thiel-s-mansion",
@@ -830,6 +841,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cm2q7gv3l5qo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 21:29:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Deaths reported after ferry carrying nearly 270 passengers capsizes off Cyprus",
+      "description": "More than 172 people have been rescued, Northern Cyprus PM says.",
+      "url": "https://abcnews.com/International/wireStory/ferry-carrying-260-passengers-capsizes-off-northern-cyprus-136067969",
+      "published": "Sun, 30 Aug 2026 09:14:48 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -1167,17 +1189,6 @@
       "is_ticker": false
     },
     {
-      "title": "Rescue under way after ferry with more than 260 on board capsizes off northern Cyprus",
-      "description": "A ferry carrying more than 260 people capsized off the coast of northern Cyprus on Sunday, killing at least six people, Turkish media reported. Rescue crews were dispatched to the scene, with footage showing passengers in life jackets in the water around the overturned vessel.",
-      "url": "https://www.france24.com/en/europe/20260830-ferry-carrying-more-than-250-passengers-capsizes-off-northern-cyprus",
-      "published": "Sun, 30 Aug 2026 12:08:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Lebanon: Civilian risks grow as military activity continues, UN says",
       "description": "Damaged roads, disrupted services and ongoing military activity continue to put civilians at risk in south Lebanon as strikes between Israeli forces and Hezbollah continue, according to the UN’s peacekeeping mission in the country (UNIFIL).",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168215",
@@ -1250,6 +1261,20 @@
       "is_ticker": false
     },
     {
+      "title": "Rescue under way after ferry with more than 260 on board capsizes off northern Cyprus",
+      "description": "At least six people died when a ferry carrying more than 260 people capsized off the coast of northern Cyprus on Sunday, the head of the local government said, offering a preliminary toll to Turkish media. Rescue crews were dispatched to the scene, with footage showing passengers in life jackets in the water around the overturned vessel.",
+      "url": "https://www.france24.com/en/europe/20260830-ferry-carrying-more-than-250-passengers-capsizes-off-northern-cyprus",
+      "published": "Sun, 30 Aug 2026 12:08:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Rescue under way after ferry with more than 260 on board capsizes off northern Cyprus"
+    },
+    {
       "title": "Israeli settlers attack more Palestinian homes in the West Bank",
       "description": "Israeli settlers have attacked homes surrounding the occupied West Bank village of Qusra.",
       "url": "https://news.sky.com/story/israeli-settlers-attack-more-palestinian-homes-in-the-west-bank-13578775",
@@ -1300,6 +1325,20 @@
       "ticker_label": "🪖 Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say"
     },
     {
+      "title": "Alvarez returns to Atletico training amid Barcelona, Arsenal transfer links",
+      "description": "Atletico Madrid forward missed two earlier training sessions amid ongoing speculation about his future at the club.",
+      "url": "https://www.aljazeera.com/sports/2026/8/30/alvarez-returns-to-atletico-training-amid-barcelona-arsenal-transfer-links?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 12:52:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Alvarez returns to Atletico training amid Barcelona, Arsenal transfer links"
+    },
+    {
       "title": "Palestinian mother in agony as Israeli attack kills her son",
       "description": "Palestinian mother in agony as Israeli attack kills her son",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/palestinian-mother-in-agony-as-israeli-attack-kills-her-son?traffic_source=rss",
@@ -1323,20 +1362,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 How has life changed for Iranians six months into the war?"
-    },
-    {
-      "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-      "description": "Six months into the US-Israel war on Iran, the governments in the three countries are fighting political wars at home.",
-      "url": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 09:32:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 The home front: How Israel, Iran, and US leaders have been hit by the war"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1398,20 +1423,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Harry Potter: Versailles turns into wizarding school for a day"
-    },
-    {
-      "title": "Putin, Xi set for Central Asia summit as Russia and China seek to counter Western influence",
-      "description": "Russian President Vladimir Putin and Chinese President Xi Jinping are due in Kyrgyzstan on Monday for a two-day summit, joined by the leaders of Iran and India. The gathering comes as the group seeks to project a united front amid wars in Ukraine and Iran and growing tensions with the West.",
-      "url": "https://www.france24.com/en/asia-pacific/20260830-putin-xi-set-for-central-asia-summit-as-russia-china-seek-to-counter-western-influence",
-      "published": "Sun, 30 Aug 2026 05:51:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Putin, Xi set for Central Asia summit as Russia and China seek to counter Western influence"
     },
     {
       "title": "Migrant dies and 72 others rescued from small boat trying to reach UK",
@@ -1514,6 +1525,17 @@
       "is_ticker": false
     },
     {
+      "title": "Niger’s military-led government says it contained mutiny: What next?",
+      "description": "Mutiny began at a military base in Niamey and spread to area near the presidential palace and state broadcaster.",
+      "url": "https://www.aljazeera.com/news/2026/8/30/nigers-military-led-government-says-it-contained-mutiny-what-next?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 13:01:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "UN chief condemns ‘indifference’ as Ebola cases mount in DR Congo",
       "description": "The Ebola Bundibugyo outbreak in the Democratic Republic of the Congo (DRC) requires “urgent” action and funding to rein in its alarming spread, the UN Secretary-General told reporters at UN Headquarters on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/08/1168217",
@@ -1541,6 +1563,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
       "published": "Sun, 30 Aug 2026 04:01:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
+      "description": "Dozens of soldiers arrested after apparent coup attempt in Niger’s capital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/dozens-of-soldiers-arrested-after-apparent-coup-attempt-in-nigers-capital?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 13:03:15 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1671,20 +1704,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ferry with more than people 260 on board capsizes off northern Cyprus",
-      "description": "At least one person has died after incident off coast of northern Cyprus, Turkish Cypriot official says.",
-      "url": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 11:52:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Ferry with more than people 260 on board capsizes off northern Cyprus"
-    },
-    {
       "title": "Protesters in Argentina urge tech billionaire Peter Thiel to leave",
       "description": "Dozens of protesters in Argentina have demonstrated against Palantir co-founder Peter Thiel, outside his new mansion.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protesters-in-argentina-urge-tech-billionaire-peter-thiel-to-leave?traffic_source=rss",
@@ -1705,20 +1724,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Syria sandstorm blankets Homs in eerie orange haze",
-      "description": "Syria sandstorm blankets Homs in eerie orange haze",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/syria-sandstorm-blankets-homs-in-eerie-orange-haze?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 09:02:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Syria sandstorm blankets Homs in eerie orange haze"
     },
     {
       "title": "US, Ecuador forces strike alleged drug smuggling boat",
@@ -1765,17 +1770,6 @@
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Delcy Rodriguez says Venezuela ‘retains sovereignty’ despite US oil deal",
-      "description": "Venezuela’s interim President has given a televised address to defend a deal of Venezuelan oil for the United States.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/delcy-rodriguez-says-venezuela-retains-sovereignty-despite-us-oil-deal?traffic_source=rss",
-      "published": "Sun, 30 Aug 2026 09:32:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
       "is_ticker": false
     },
     {
@@ -1911,9 +1905,9 @@
       "is_ticker": false
     },
     {
-      "title": "Ferry carrying over 260 people capsizes off Cyprus: reports",
+      "title": "At least six people died after a ferry carrying more than 260 people capsized off northern Cyprus, Turkish media reported",
       "description": "At least six people have died after a passenger ⁠boat carrying more than 260 people capsized off ‌northern Cyprus, Turkish media reported. ‌",
-      "url": "https://www.dw.com/en/ferry-carrying-over-260-people-capsizes-off-cyprus-reports/a-78562769?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/at-least-six-people-died-after-a-ferry-carrying-more-than-260-people-capsized-off-northern-cyprus-turkish-media-reported/a-78562769?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 30 Aug 2026 11:32:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1922,21 +1916,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Ferry carrying over 260 people capsizes off Cyprus: reports"
-    },
-    {
-      "title": "Ferry carrying over 260 passengers capsizes off northern Cyprus",
-      "description": "Turkish media reports that at least six people have died after a ferry carrying nearly 270 passengers and crew capsized off the coast of northern Cyprus on Sunday",
-      "url": "https://abcnews.com/International/wireStory/ferry-carrying-260-passengers-capsizes-off-northern-cyprus-136067969",
-      "published": "Sun, 30 Aug 2026 08:58:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Ferry carrying over 260 passengers capsizes off northern Cyprus"
+      "ticker_label": "💥 At least six people died after a ferry carrying more than 260 people capsized off northern Cyprus, Turkish media reported"
     },
     {
       "title": "Muslim jail gangs said to force conversions on prisoners in UK: 'Jihadist training camps’",
@@ -2087,6 +2067,17 @@
       "url": "https://www.bbc.co.uk/news/articles/czxzv29p12lo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 28 Aug 2026 19:57:50 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ben-Gvir taunts Palestinian women prisoners over prison conditions",
+      "description": "Ben-Gvir taunts Palestinian women prisoners over prison conditions",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/ben-gvir-taunts-palestinian-women-prisoners-over-prison-conditions?traffic_source=rss",
+      "published": "Sun, 30 Aug 2026 12:51:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
