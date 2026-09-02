@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T20:17:11.590659Z",
+  "last_updated": "2026-09-02T20:38:28.462453Z",
   "event_count": 220,
   "events": [
     {
@@ -266,17 +266,6 @@
       "ticker_label": "🪖 Israeli FM Gideon Sa'ar: 'I hope Iran will not make the mistake of attacking us'"
     },
     {
-      "title": "Bus crash on Egypt's Red Sea coast kills 22",
-      "description": "Reports say Jordanian nationals are among those killed in the accident in the South Sinai governorate.",
-      "url": "https://www.bbc.co.uk/news/articles/cn8mr1myy2ko?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 12:07:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Bank of America vice president killed in Times Square stabbing",
       "description": "A Bank of America vice president has been fatally stabbed in New York City's Times Square in a seemingly random and unprovoked attack.",
       "url": "https://news.sky.com/story/bank-of-america-vice-president-killed-in-times-square-stabbing-13580026",
@@ -445,31 +434,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 New report exposes intact Iranian bunker that may hide regime's ongoing nuclear work"
-    },
-    {
-      "title": "Uber lays off 3,300 employees in largest cuts since the pandemic",
-      "description": "The layoffs aim to streamline management layers and simplify team structures, says Uber’s CEO Dara Khosrowshahi.",
-      "url": "https://www.aljazeera.com/economy/2026/9/2/uber-lays-off-3300-employees-in-largest-cuts-since-the-pandemic?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 16:55:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Deadly bus crash in Egypt’s Sinai kills 22, injures 28",
-      "description": "A deadly bus crash in Egypt’s South Sinai killed 22 people and injured 28",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/deadly-bus-crash-in-egypts-sinai-kills-22-injures-28?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 16:52:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Deadly bus crash in Egypt’s Sinai kills 22, injures 28"
     },
     {
       "title": "Sudan: Air attack destroys food aid for families in South Kordofan",
@@ -648,6 +612,20 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Police arrest 34 after a fatal shooting in a rural Dutch village"
+    },
+    {
+      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+      "description": "Despite renewed fighting with Iran and near daily attacks on ships, Trump says Strait of Hormuz is 'under USA control'.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:12:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war"
     },
     {
       "title": "EU pursuing more Russia sanctions after failed airport attack: Kallas",
@@ -919,8 +897,44 @@
       "is_ticker": false
     },
     {
-      "title": "Apple Maps renames Lake Ontario to ‘Lake America’ for US users after Trump order",
-      "description": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario to “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada. The Apple Maps app now displays the controversial new name for the lake, which sits between the border of New York state and the Canadian province of Ontario, for users in the US. Apple users outside the country will still see the Lake Ontario name. Continue reading...",
+      "title": "Netherlands moves billions in gold to London in 'crisis preparedness' move",
+      "description": "The Dutch central bank removes some of its gold reserves from the US and Canada, saying it is because of \"increasing geopolitical unrest\".",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy51xlz39o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 17:21:00 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Israeli protesters call for an end to settler violence",
+      "description": "Israeli protesters gathered in Jerusalem on Wednesday to condemn violence by Jewish settlers in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:07:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Israeli protesters call for an end to settler violence"
+    },
+    {
+      "title": "Trump says US sees ‘everything’ Iran does, threatens further attacks",
+      "description": "US President Donald Trump has threatened further attacks on Iran and says the military destroyed a mine-laying rocket.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:04:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Apple Maps renames Lake Ontario as ‘Lake America’ for US users after Trump order",
+      "description": "Tech company submits to controversial Trump order to rename body of water amid US trade spat with Canada Apple has renamed Lake Ontario as “Lake America” for US users of its Maps app, after an executive order from Donald Trump to change the name of the Great Lake amid his trade spat with Canada. The Apple Maps app now displays the controversial new name for the lake, which sits between New York state and the Canadian province of Ontario, for users in the US. Apple users outside the country will still see the Lake Ontario name. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
       "published": "Wed, 02 Sep 2026 19:06:39 GMT",
       "source": "The Guardian World",
@@ -1215,6 +1229,20 @@
       "is_ticker": false
     },
     {
+      "title": "Maltese tycoon acquitted of orchestrating murder of renowned journalist",
+      "description": "Daphne Caruana Galizia exposed corruption and money laundering schemes in Malta before she was killed by a car bomb in 2017.",
+      "url": "https://www.bbc.co.uk/news/articles/c5ye295pxgxo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 19:05:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Maltese tycoon acquitted of orchestrating murder of renowned journalist"
+    },
+    {
       "title": "Will the EU take action against Israel?",
       "description": "Surge in Israeli settler attacks against Palestinians",
       "url": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss",
@@ -1464,6 +1492,28 @@
       "is_ticker": false
     },
     {
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "description": "Nigeria - Africa's most populous country - is proving a tough market for ride-hailing services.",
+      "url": "https://www.bbc.co.uk/news/articles/c86xpv8l9y9o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 02 Sep 2026 20:21:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "What you need to know: US launches coin featuring Trump’s face",
+      "description": "The coin marks the first time in nearly 200 years that a living person has been featured on the country's currency.",
+      "url": "https://www.aljazeera.com/news/2026/9/2/what-you-need-to-know-us-launches-coin-featuring-trumps-face?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:11:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1571,6 +1621,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c62j50n131mo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 02 Sep 2026 11:47:11 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Tiger Woods avoids jail time, takes plea deal over Florida crash",
+      "description": "Golfing champion Tiger Woods has pleaded no contest at a Florida court for reckless driving after a rollover crash.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/tiger-woods-avoids-jail-time-takes-plea-deal-over-florida-crash?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:00:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1966,31 +2027,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lizzo 'grateful' after judge dismisses lawsuit against production company",
-      "description": "The About Damn Time singer says she is \"relieved\" at the outcome and will \"continue to fight\" every claim.",
-      "url": "https://www.bbc.co.uk/news/articles/c8xk4rl904vo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 15:20:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "BBC travels inside occupied Lebanon as officials say Israel expanding positions",
-      "description": "A BBC team joined a humanitarian mission of the UN peacekeeping force, which says Israeli troops are fortifying positions and continuing demolitions.",
-      "url": "https://www.bbc.co.uk/news/articles/cge41d19gq9o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 02 Sep 2026 05:03:09 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 BBC travels inside occupied Lebanon as officials say Israel expanding positions"
-    },
-    {
       "title": "Ariana Grande makes emotional tour exit and steps back from public life",
       "description": "The star makes an emotional farewell as she wraps up a tour she's described as her \"last hurrah\".",
       "url": "https://www.bbc.co.uk/news/articles/c4gj0l34g78o?at_medium=RSS&at_campaign=rss",
@@ -2057,6 +2093,17 @@
       "is_ticker": false
     },
     {
+      "title": "US judge rejects bid to break up Google’s ad business",
+      "description": "Justice Department had argued Google could not be trusted to run the online advertising exchange.",
+      "url": "https://www.aljazeera.com/economy/2026/9/2/us-judge-rejects-bid-to-break-up-googles-ad-business?traffic_source=rss",
+      "published": "Wed, 02 Sep 2026 20:06:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
       "description": "Young amputees in Gaza face harsh realities, awaiting prosthetics and battling mobility hurdles.",
       "url": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss",
@@ -2099,53 +2146,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-      "description": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 17:10:17 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US oil giant Chevron to expand Venezuela operations",
-      "description": "Chevron, the only US oil firm with major presence in Venezuela, said it has got extra acreage and will double output.",
-      "url": "https://www.aljazeera.com/economy/2026/9/2/us-oil-giant-chevron-to-expand-venezuela-operations?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 16:57:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Zambia’s Hichilema begins second term amid disputed vote and arrests",
-      "description": "Economic gains face growing scrutiny as political tensions deepen after the vote.",
-      "url": "https://www.aljazeera.com/news/2026/9/2/zambias-hichilema-begins-second-term-amid-disputed-vote-and-arrests?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 16:47:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "George Clooney: US government run by ‘least qualified people’",
-      "description": "US actor George Clooney has described US President Donald Trump’s administration as a ‘kakistocracy’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/george-clooney-us-government-run-by-least-qualified-people?traffic_source=rss",
-      "published": "Wed, 02 Sep 2026 16:25:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 George Clooney: US government run by ‘least qualified people’"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2495,10 +2495,10 @@
       "is_ticker": false
     },
     {
-      "title": "Guinea-Bissau voters back a sweeping power shift, boosting the president and shrinking parliament",
-      "description": "Guinea-Bissau has voted to expand presidential powers and reduce the legislature",
-      "url": "https://abcnews.com/International/wireStory/guinea-bissau-voters-back-sweeping-power-shift-boosting-136121231",
-      "published": "Tue, 01 Sep 2026 13:43:31 -0400",
+      "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
+      "description": "The election campaign to replace Emmanuel Macron as France's president is gaining momentum",
+      "url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571",
+      "published": "Tue, 01 Sep 2026 06:58:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2506,10 +2506,10 @@
       "is_ticker": false
     },
     {
-      "title": "The election campaign to replace Macron in France is heating up as the summer vacation season ends",
-      "description": "The election campaign to replace Emmanuel Macron as France's president is gaining momentum",
-      "url": "https://abcnews.com/International/wireStory/election-campaign-replace-macron-france-heating-summer-vacation-136109571",
-      "published": "Tue, 01 Sep 2026 06:58:24 -0400",
+      "title": "Guinea-Bissau voters back a sweeping power shift, boosting the president and shrinking parliament",
+      "description": "Guinea-Bissau has voted to expand presidential powers and reduce the legislature",
+      "url": "https://abcnews.com/International/wireStory/guinea-bissau-voters-back-sweeping-power-shift-boosting-136121231",
+      "published": "Tue, 01 Sep 2026 13:43:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
