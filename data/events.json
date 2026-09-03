@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-03T17:37:28.017883Z",
-  "event_count": 222,
+  "last_updated": "2026-09-03T18:21:36.303327Z",
+  "event_count": 223,
   "events": [
     {
       "title": "‘Fight through darkness, water’: Nepal survivor recounts escape from flood-hit tunnel",
@@ -51,6 +51,20 @@
       "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Algerians battle deadly wildfires as Tebboune seeks death penalty for arson",
+      "description": "Algerian firefighters are battling unprecedented wildfires that have devastated the country",
+      "url": "https://abcnews.com/International/wireStory/algerians-battle-deadly-wildfires-tebboune-seeks-death-penalty-136165747",
+      "published": "Thu, 03 Sep 2026 06:54:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Algerians battle deadly wildfires as Tebboune seeks death penalty for arson"
     },
     {
       "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
@@ -162,17 +176,6 @@
       "ticker_label": "🌪️ Roughly 80 Americans still unaccounted for after Himalayan disaster kills 903, officials say"
     },
     {
-      "title": "Russian attacks wound 8 civilians as Moscow and Kyiv threaten to raise the stakes",
-      "description": "Russian aerial attacks have killed two civilians and wounded six in central Ukraine, according to local officials",
-      "url": "https://abcnews.com/International/wireStory/russian-attacks-wound-8-ukrainian-civilians-moscow-kyiv-136137663",
-      "published": "Wed, 02 Sep 2026 08:34:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Response must outpace spread of Ebola: UN relief chief",
       "description": "The world must move faster to contain an Ebola outbreak in the Democratic Republic of the Congo (DRC) that is growing exponentially, the UN’s Emergency Relief Coordinator warned on Tuesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168246",
@@ -213,20 +216,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull"
-    },
-    {
-      "title": "Somalia repels armed assault on Baidoa amid regional political tensions",
-      "description": "Explosions and gunfire rock Baidoa as armed groups strike during South West State's political tensions.",
-      "url": "https://www.aljazeera.com/news/2026/9/3/somalia-repels-armed-assault-on-baidoa-amid-regional-political-tensions?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:40:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Somalia repels armed assault on Baidoa amid regional political tensions"
     },
     {
       "title": "Embattled Spanish PM insists there were no prior warnings before Ceuta crisis",
@@ -463,15 +452,18 @@
       "ticker_label": "🌪️ Families of the missing in Nepal's flash floods perform symbolic cremations"
     },
     {
-      "title": "US extends ban on flights to Haiti's capital as gang violence surges",
-      "description": "The U.S. Federal Aviation Administration has extended a ban on U.S. flights to Haiti’s capital until March as gang violence persists",
-      "url": "https://abcnews.com/International/wireStory/us-extends-ban-flights-haitis-capital-gang-violence-136140893",
-      "published": "Wed, 02 Sep 2026 09:17:14 -0400",
-      "source": "ABC News International",
+      "title": "DOJ charges ICE officer with lying to investigators following Minneapolis shooting of Venezuelan man",
+      "description": "ICE agent Christian Castro faces federal false statements charges tied to the shooting of Julio Cesar Sosa-Celis during an immigration crackdown.",
+      "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
+      "published": "Thu, 03 Sep 2026 14:16:09 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 DOJ charges ICE officer with lying to investigators following Minneapolis shooting of Venezuelan man"
     },
     {
       "title": "Toxic wildfire haze spreads across South East Asia as 'super' El Niño intensifies",
@@ -594,6 +586,34 @@
       "ticker_label": "🪖 Giorgia Meloni government becomes Italy's longest-lasting since World War II"
     },
     {
+      "title": "Finland runs Europe's largest civil defense exercise since WWII",
+      "description": "More than 2,000 people in Finland are participating in the largest civil defense drill in Europe since the end of World War II",
+      "url": "https://abcnews.com/International/wireStory/wary-eye-russia-finland-runs-europes-largest-civil-136164627",
+      "published": "Thu, 03 Sep 2026 07:06:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Finland runs Europe's largest civil defense exercise since WWII"
+    },
+    {
+      "title": "Italy weighs the results as Giorgia Meloni’s government sets a longevity record",
+      "description": "Premier Giorgia Meloni’s conservative administration became Italy’s longest-serving uninterrupted government since World War II at 1,413 days on Thursday",
+      "url": "https://abcnews.com/International/wireStory/italy-weighs-results-giorgia-melonis-government-sets-longevity-136163300",
+      "published": "Thu, 03 Sep 2026 06:54:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Italy weighs the results as Giorgia Meloni’s government sets a longevity record"
+    },
+    {
       "title": "El Niño is surging. Months of extreme heat could follow",
       "description": "Fuelled by exceptionally warm Pacific waters, the El Niño climate pattern is intensifying and has yet to peak. Forecasters are almost certain it will persist through February 2027 – with unusually warm conditions expected across much of the world in the coming months.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168265",
@@ -636,6 +656,20 @@
       "ticker_label": "🚨 Sydney police investigate second possible mistaken identity killing in two days"
     },
     {
+      "title": "Trump's Iran strategy: Could this become a forever war?",
+      "description": "The US has launched fresh attacks on military targets in Iran. It wants to prevent Tehran rebuilding its destroyed capabilities, but risks triggering a sustained downward spiral of reconstruction followed by new attacks.",
+      "url": "https://www.dw.com/en/trump-s-iran-strategy-could-this-become-a-forever-war/a-78875030?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 3 Sep 2026 17:46:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump's Iran strategy: Could this become a forever war?"
+    },
+    {
       "title": "Anti-Christian murder in Syria? No indication he was killed because of his faith",
       "description": "A Christian man by the name of Nader Boulos Tannous was murdered in Homs, Syria on August 15, 2026. After his death, Israel, Greece and Cyprus were quick to denounce what they called an anti-Christian act. Several days later however, authorities in Homs said the suspect had admitted killing Tannous as part of a personal dispute going back to 2012.",
       "url": "https://www.france24.com/en/middle-east/20260903-anti-christian-murder-syria-no-indication-killed-faith",
@@ -661,15 +695,18 @@
       "ticker_label": "💥 About 80 dead in migrant boat tragedy"
     },
     {
-      "title": "22 people killed in bus crash in Egypt",
-      "description": "At least 22 people have been killed after a bus crash in the south Sinai area of Egypt, authorities have said.",
-      "url": "https://news.sky.com/story/egypt-bus-crash-21-people-killed-in-area-popular-with-tourists-13580237",
-      "published": "Wed, 02 Sep 2026 06:56:00 +0100",
-      "source": "Sky News World",
+      "title": "Pacific island nations seek to turn geopolitics into funding to offset climate harm",
+      "description": "Stormy weather can send the Pacific Ocean flooding into people's homes in small, remote island nations",
+      "url": "https://abcnews.com/International/wireStory/pacific-island-nations-seek-turn-geopolitics-funding-offset-136163896",
+      "published": "Thu, 03 Sep 2026 02:23:38 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Pacific island nations seek to turn geopolitics into funding to offset climate harm"
     },
     {
       "title": "Who is Alejandro Betancourt, colourful oil baron behind US-Venezuela oil deal?",
@@ -744,6 +781,20 @@
       "is_ticker": false
     },
     {
+      "title": "Pakistan security forces kill 15 militants attempting to cross from Afghanistan",
+      "description": "Pakistan’s military says its security forces have killed 15 militants attempting to cross into the country from neighboring Afghanistan",
+      "url": "https://abcnews.com/International/wireStory/pakistan-security-forces-kill-15-militants-attempting-cross-136165748",
+      "published": "Thu, 03 Sep 2026 06:54:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Pakistan security forces kill 15 militants attempting to cross from Afghanistan"
+    },
+    {
       "title": "Security Council LIVE: Addressing the legacy of Syria’s chemical weapons",
       "description": "Following revelations from the UN nuclear watchdog that the former Syrian regime failed to report holding nuclear material and the discovery in May of an undeclared chemical weapons cache, the Security Council met Thursday to be briefed on the latest developments and discuss the way ahead.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168271",
@@ -762,17 +813,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Ukrainian intel agencies in Kyiv firefight: What happened and why?",
-      "description": "Three intelligence officers were wounded in shootout that Zelenskyy has described as 'absolutely disgraceful'.",
-      "url": "https://www.aljazeera.com/news/2026/9/3/ukrainian-intel-agencies-in-kyiv-firefight-what-happened-and-why?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:54:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -799,20 +839,6 @@
       "is_ticker": false
     },
     {
-      "title": "US: 3 dead including suspect in Minneapolis shooting",
-      "description": "The motive for the shooting is still unclear. Local authorities and the FBI are responding to the incident.",
-      "url": "https://www.dw.com/en/us-3-dead-including-suspect-in-minneapolis-shooting/a-78815092?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 3 Sep 2026 00:45:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 US: 3 dead including suspect in Minneapolis shooting"
-    },
-    {
       "title": "A year after crash of an iconic Lisbon streetcar, a memorial but no promises for restored service",
       "description": "Lisbon’s iconic funicular streetcars remain halted, with safety questions still unanswered a year after a tragic derailment killed 16 people",
       "url": "https://abcnews.com/International/wireStory/year-after-crash-iconic-lisbon-streetcar-memorial-promises-136176170",
@@ -825,17 +851,6 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 A year after crash of an iconic Lisbon streetcar, a memorial but no promises for restored service"
-    },
-    {
-      "title": "Explosion near German train station injures several people and draws police response",
-      "description": "An explosion near a German train station followed by the discovery of a suspicious object caused police to temporarily close the transport hub in the southern city of Augsburg",
-      "url": "https://abcnews.com/International/wireStory/explosion-german-train-station-injures-people-draws-police-136135983",
-      "published": "Wed, 02 Sep 2026 06:10:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Florida woman, 70, opens fire inside Port Orange police department lobby, chief says",
@@ -894,17 +909,6 @@
       "ticker_label": "💥 Four imprisoned Palestine Action activists appeal ‘terrorism’ sentences"
     },
     {
-      "title": "Victims sue South African government over 1960 Sharpeville massacre",
-      "description": "Victims sue South African governed over 1960 Sharpeville massacre",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/victims-sue-south-african-governed-over-1960-sharpeville-massacre?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:07:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -955,17 +959,6 @@
       "ticker_label": "💥 Murder of Daphne Caruana Galizia: Campaigner 'devastated' at tycoon's acquittal"
     },
     {
-      "title": "Tugboat sinks off South Korea's southern coast, leaving 1 dead and 6 missing",
-      "description": "A tugboat capsized and sank off South Korea's southeastern coast, leaving one crew member dead and six others missing",
-      "url": "https://abcnews.com/International/wireStory/tugboat-sinks-off-south-koreas-southern-coast-leaving-136137122",
-      "published": "Wed, 02 Sep 2026 06:39:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Dozens missing, 5 dead after migrant boat is found drifting near Spanish islands",
       "description": "At least five people have died after a boat carrying West African migrants ran into trouble in the Atlantic Ocean",
       "url": "https://abcnews.com/International/wireStory/dozens-missing-5-dead-after-migrant-boat-found-136170635",
@@ -978,6 +971,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Dozens missing, 5 dead after migrant boat is found drifting near Spanish islands"
+    },
+    {
+      "title": "Trading food for medicine and crossing the river by zip line are part of life in Nepal flood zone",
+      "description": "Some survivors in Nepal's relief camps after deadly floods are struggling to obtain essential medicine and cash",
+      "url": "https://abcnews.com/International/wireStory/trading-food-medicine-crossing-river-zip-line-part-136164968",
+      "published": "Thu, 03 Sep 2026 06:54:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Trading food for medicine and crossing the river by zip line are part of life in Nepal flood zone"
     },
     {
       "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
@@ -1017,6 +1024,20 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Trump calls media ‘treasonous scum’ over reports of low Iran war munitions",
+      "description": "Comments latest swipe by president against critical media coverage of what experts call troubling shortages.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:26:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump calls media ‘treasonous scum’ over reports of low Iran war munitions"
     },
     {
       "title": "Apocalypse prep or pure pragmatism: what is behind Peter Thiel’s move to Argentina?",
@@ -1105,6 +1126,20 @@
       "is_ticker": false
     },
     {
+      "title": "Gaza farmers restore seed bank to preserve local crops",
+      "description": "Farmers are rebuilding a seed bank destroyed during Israel’s war on Gaza to preserve local crop varieties",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/gaza-farmers-restore-seed-bank-to-preserve-local-crops?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:50:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Gaza farmers restore seed bank to preserve local crops"
+    },
+    {
       "title": "Jerusalem Daily: Students sing ‘Erase Palestine’",
       "description": "Two Palestinian teens were killed in the occupied West Bank as Israeli settlers and snipers surround a village.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/jerusalem-daily-students-sing-erase?traffic_source=rss",
@@ -1157,6 +1192,17 @@
       "url": "https://www.france24.com/en/video/20260903-glacier-melt-and-sea-level-rise-will-continue-we-cannot-leave-this-to-the-next-generation",
       "published": "Thu, 03 Sep 2026 14:45:30 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "FIFA accuses UEFA of launching 'smear campaign' against Gianni Infantino",
+      "description": "FIFA has accused European football's governing body of launching a \"smear campaign\" against Gianni Infantino in a challenge to legal action over the aborted attempt to sell part of the World Cup to private investors.",
+      "url": "https://news.sky.com/story/fifa-accuses-uefa-of-launching-smear-campaign-against-gianni-infantino-13580964",
+      "published": "Thu, 03 Sep 2026 18:33:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1272,45 +1318,6 @@
       "description": "Spanish migrant NGO says more than 80 people likely perished on the boat that left The Gambia 27 days ago.",
       "url": "https://www.aljazeera.com/news/2026/9/3/five-killed-dozens-more-feared-dead-in-boat-adrift-off-canary-islands?traffic_source=rss",
       "published": "Thu, 03 Sep 2026 15:00:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ukraine takes the war to Russia’s space programme in tactical shift",
-      "description": "From Moscow to Plesetsk, Ukraine appears to be trying to hit infrastructure that powers Russia’s war from space.",
-      "url": "https://www.aljazeera.com/news/2026/9/3/ukraine-targets-russias-space-programme-as-war-intensifies?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:30:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine takes the war to Russia’s space programme in tactical shift"
-    },
-    {
-      "title": "Kais Saied’s economic experiment has failed Tunisia",
-      "description": "Saied’s promised path to self-reliance has deepened Tunisia’s economic crisis rather than resolving it.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/3/kais-saieds-economic-experiment-has-failed-tunisia?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:09:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Kais Saied’s economic experiment has failed Tunisia"
-    },
-    {
-      "title": "‘Can I take the door?’ woman pleads at Syrian prison exhibit",
-      "description": "A Syrian woman spotted her missing brother’s name on a prison cell door at an exhibition in Damascus.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/can-i-take-the-door-woman-pleads-at-syrian-prison-exhibit?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:02:59 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1435,17 +1442,6 @@
       "ticker_label": "🪖 'Supersized' El Nino could be strongest on record, UN says"
     },
     {
-      "title": "Russia to close branches of Germany's Goethe-Institut",
-      "description": "Russian Foreign Minister Sergey Lavrov said the move was in response to Germany's decision to close the Russian House in Berlin after blaming Moscow for an attemped drone attack at Leipzig/Halle Airport.",
-      "url": "https://www.dw.com/en/russia-to-close-branches-of-germany-s-goethe-institut/a-78815269?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 3 Sep 2026 03:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Why Ukraine’s drained Kakhovka Dam is strategic for Russia",
       "description": "Small groups of Russian soldiers have been inching forward through the vast, drained Kakhovka reservoir since they blew up the dam in June 2023. Russian forces are infiltrating this “no man’s land” for reconnaissance purposes rather than for a future military offensive, said a military expert.",
       "url": "https://www.france24.com/en/europe/20260903-why-ukraine-drained-kakhovka-dam-strategic-russia",
@@ -1485,6 +1481,17 @@
       "is_ticker": false
     },
     {
+      "title": "A pregnant soldier mourns her 21-year-old husband at his funeral in Ukraine",
+      "description": "A pregnant woman in Kyiv mourns her 21-year-old husband, who was killed in action",
+      "url": "https://abcnews.com/International/wireStory/pregnant-soldier-mourns-21-year-husband-funeral-ukraine-136176542",
+      "published": "Thu, 03 Sep 2026 12:03:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Body of convicted war criminal Ratko Mladic to be flown to Serbia, president says",
       "description": "The body of former Bosnian Serb army commander Ratko Mladic, who died last week while serving a life sentence for genocide, will be flown to Serbia on Thursday",
       "url": "https://abcnews.com/International/wireStory/body-convicted-war-criminal-ratko-mladic-flown-serbia-136173287",
@@ -1497,39 +1504,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Body of convicted war criminal Ratko Mladic to be flown to Serbia, president says"
-    },
-    {
-      "title": "EU struggles for effective answer after Germany blames Russia for foiled drone attack",
-      "description": "The European Union is grappling with how to respond to an attempted drone attack at a German airport blamed on Russia",
-      "url": "https://abcnews.com/International/wireStory/eus-kallas-calls-alleged-russian-drone-plot-state-136136530",
-      "published": "Wed, 02 Sep 2026 06:43:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Dutch central bank shifts billions in gold to London in 'crisis preparedness' move",
-      "description": "The Dutch central bank has moved billions of dollars worth of its gold reserves from North America to London",
-      "url": "https://abcnews.com/International/wireStory/dutch-central-bank-shifts-billions-gold-london-crisis-136145175",
-      "published": "Wed, 02 Sep 2026 11:15:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "A pregnant soldier mourns her 21-year-old husband at his funeral in Ukraine",
-      "description": "A pregnant woman in Kyiv mourns her 21-year-old husband, who was killed in action",
-      "url": "https://abcnews.com/International/wireStory/pregnant-soldier-mourns-21-year-husband-funeral-ukraine-136176542",
-      "published": "Thu, 03 Sep 2026 12:03:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Spanish PM rejects suggestions that Morocco was behind Ceuta border crisis",
@@ -1723,17 +1697,6 @@
       "is_ticker": false
     },
     {
-      "title": "Uganda names its crude oil blend 'Pearl Sweet' ahead of commercial production",
-      "description": "Ugandan authorities have named the country's prospective crude oil blend \"Pearl Sweet,\" marking a milestone as Uganda prepares for commercial production by the end of the year",
-      "url": "https://abcnews.com/International/wireStory/uganda-names-crude-oil-blend-pearl-sweet-ahead-136149328",
-      "published": "Wed, 02 Sep 2026 13:32:31 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Russia to close German cultural centers after airport drone plot accusation",
       "description": "Russia has announced the closure of German cultural centers in the country",
       "url": "https://abcnews.com/International/wireStory/russia-close-german-cultural-centers-after-berlin-blames-136164210",
@@ -1778,6 +1741,17 @@
       "is_ticker": false
     },
     {
+      "title": "Indonesia: Thousands fall sick from free school meals",
+      "description": "Hundreds of new food poisoning cases have been reported this week linked to President Prabowo Subianto's free school lunch program. The costly scheme has been dogged by health concerns and allegations of corruption.",
+      "url": "https://www.dw.com/en/indonesia-thousands-fall-sick-from-free-school-meals/a-78894485?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 3 Sep 2026 17:59:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Norway seizes Russian ship in Svalbard to compensate Ukraine",
       "description": "Authorities in Norway have seized a Russian ship, the Professor Molchanov, on a court order sought and obtained by Naftogaz in Ukraine. Russia has protested the move, which stems from its refusal to pay Naftogaz damages.",
       "url": "https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-all-1573-xml-mrss",
@@ -1811,10 +1785,10 @@
       "is_ticker": false
     },
     {
-      "title": "Hong Kong court upholds convictions of Cardinal Joseph Zen and others over protester relief fund",
-      "description": "A Hong Kong court on Thursday rejected the appeal brought by a 94-year-old Roman Catholic cardinal and four others over their convictions for failing to register a now-defunct fund that aimed to help people arrested in the anti-government protests in 2019",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-court-upholds-convictions-cardinal-joseph-zen-136163714",
-      "published": "Thu, 03 Sep 2026 08:02:20 -0400",
+      "title": "Fire erupts during demolition of quake-damaged chimney at paper factory in Japan",
+      "description": "A fire has broken out during the demolition of a chimney at a paper factory in Japan's Kumamoto prefecture",
+      "url": "https://abcnews.com/International/wireStory/fire-erupts-demolition-quake-damaged-chimney-paper-factory-136173554",
+      "published": "Thu, 03 Sep 2026 10:03:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1822,10 +1796,10 @@
       "is_ticker": false
     },
     {
-      "title": "Fire erupts during demolition of quake-damaged chimney at paper factory in Japan",
-      "description": "A fire has broken out during the demolition of a chimney at a paper factory in Japan's Kumamoto prefecture",
-      "url": "https://abcnews.com/International/wireStory/fire-erupts-demolition-quake-damaged-chimney-paper-factory-136173554",
-      "published": "Thu, 03 Sep 2026 10:03:24 -0400",
+      "title": "Hong Kong court upholds convictions of Cardinal Joseph Zen and others over protester relief fund",
+      "description": "A Hong Kong court on Thursday rejected the appeal brought by a 94-year-old Roman Catholic cardinal and four others over their convictions for failing to register a now-defunct fund that aimed to help people arrested in the anti-government protests in 2019",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-court-upholds-convictions-cardinal-joseph-zen-136163714",
+      "published": "Thu, 03 Sep 2026 08:02:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1944,6 +1918,17 @@
       "is_ticker": false
     },
     {
+      "title": "Spain’s PM says no evidence Morocco planned Ceuta border rush",
+      "description": "PM Pedro Sanchez addresses police report suggesting July border surge was planned to overwhelm border controls.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/spains-pm-says-no-evidence-morocco-planned-ceuta-border-rush?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:32:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "20 million children a year face online sexual abuse, UNICEF says",
       "description": "More than one in five children aged 12 to 17 were targeted on digital platforms, the UN children’s agency reports.",
       "url": "https://www.aljazeera.com/news/2026/9/3/20-million-children-a-year-face-online-sexual-abuse-unicef-says?traffic_source=rss",
@@ -2043,17 +2028,6 @@
       "is_ticker": false
     },
     {
-      "title": "What is a Tuey-Rodriguez charge? Judge gives instruction to deadlocked Lindsay Clancy jury",
-      "description": "The judge in Lindsay Clancy's murder trial issued a rare Tuey-Rodriguez charge after jurors again said they were deadlocked. Learn what the Massachusetts jury instruction is.",
-      "url": "https://www.foxnews.com/us/what-tuey-rodriguez-charge-judge-gives-instruction-deadlocked-lindsay-clancy-jury",
-      "published": "Wed, 02 Sep 2026 15:11:13 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Parkgoer airlifted after Batman roller coaster incident leaves man with fractures to both legs",
       "description": "A 49-year-old visitor was airlifted to a hospital after suffering fractures in both legs on a Batman-themed roller coaster in Spain, lcoal reports say.",
       "url": "https://www.foxnews.com/world/parkgoer-airlifted-after-batman-roller-coaster-incident-leaves-man-fractures-both-legs",
@@ -2068,7 +2042,7 @@
       "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
       "description": "Her foundation said she \"passed away peacefully\" at her home in New York City, \"surrounded by many who loved her\".",
       "url": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 03 Sep 2026 13:52:18 GMT",
+      "published": "Thu, 03 Sep 2026 18:04:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 2,
@@ -2131,6 +2105,17 @@
       "is_ticker": false
     },
     {
+      "title": "Renewed clashes erupt in southwestern Somalia between government and militias",
+      "description": "Renewed fighting has erupted between government forces and militias near Somalia’s southwestern city of Baidoa",
+      "url": "https://abcnews.com/International/wireStory/renewed-clashes-erupt-southwestern-somalia-government-militias-136170179",
+      "published": "Thu, 03 Sep 2026 09:14:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Thai resort city cracks down on prostitution ahead of USS Abraham Lincoln arrival",
       "description": "Pattaya police ramped up patrols and raids ahead of the USS Abraham Lincoln's arrival, arresting over 50 people as 5,000 sailors hit the resort city.",
       "url": "https://www.foxnews.com/world/thai-resort-city-cracks-down-prostitution-ahead-uss-abraham-lincoln-arrival",
@@ -2186,6 +2171,50 @@
       "is_ticker": false
     },
     {
+      "title": "Kurdish women who fought ISIL seek place in Syria’s new security forces",
+      "description": "Following the SDF’s dissolution, the Kurdish all-women YPJ is seeking to preserve its combat role in Syria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-ypj-syrian-army-sv?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:42:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Syria begins destroying al-Assad-era chemical weapons materials",
+      "description": "Syrian authorities undertake ⁠first such destruction in over a decade as former government officials face trial.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/syria-begins-destroying-al-assad-era-chemical-weapons-materials?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:40:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Canada ready for a trade deal with US that benefits both, Carney says",
+      "description": "Carney says Canada is ready for a deal that benefits both Canadian and US businesses and workers.",
+      "url": "https://www.aljazeera.com/economy/2026/9/3/canada-ready-for-a-trade-deal-with-us-that-benefits-both-carney-says?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:18:39 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What’s behind the vote-by-mail controversy in the US?",
+      "description": "As midterm elections approach in November, a legal battle is ensuing over attempts to regulate mail-in voting.",
+      "url": "https://www.aljazeera.com/news/2026/9/3/whats-behind-the-vote-by-mail-controversy-in-the-us?traffic_source=rss",
+      "published": "Thu, 03 Sep 2026 17:14:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Israel’s siege on Gaza is forcing dentists to operate in the streets",
       "description": "Scarce resources and office space mean that dental work is a luxury for most people in Gaza.",
       "url": "https://www.aljazeera.com/features/2026/9/3/gaza-housing-dentists?traffic_source=rss",
@@ -2223,17 +2252,6 @@
       "description": "Trump says the US is helping around 30 ships cross the waterway daily, but ship-tracking data suggests it's fewer.",
       "url": "https://www.aljazeera.com/news/2026/9/3/how-much-oil-is-going-through-hormuz-how-data-doesnt-match-us-claims?traffic_source=rss",
       "published": "Thu, 03 Sep 2026 15:38:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Who are the ‘Hilltop Girls’ behind Israel’s ‘soft settlement’ strategy?",
-      "description": "They're not carrying out pogroms, but are nonetheless setting the stage for land grabs by Israeli settlers.",
-      "url": "https://www.aljazeera.com/news/2026/9/3/who-are-the-hilltop-girls-behind-israels-soft-settlement-strategy?traffic_source=rss",
-      "published": "Thu, 03 Sep 2026 13:49:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2378,6 +2396,17 @@
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/03/anthony-albanese-one-nation-jim-chalmers-labor-liberal-angus-taylor-tobacco-plan-ntwnfb",
       "published": "Thu, 03 Sep 2026 07:42:00 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "M 3.5 - 3 km ESE of Larkfield-Wikiup, CA",
+      "description": "ShakeMap - IV DYFI? - IV Time 2026-09-03 17:33:27 UTC 2026-09-03 17:33:27 UTC at epicenter Location 38.498°N 122.718°W Depth 7.44 km (4.62 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75429272",
+      "published": "2026-09-03T18:16:16.152Z",
+      "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2588,10 +2617,10 @@
       "is_ticker": false
     },
     {
-      "title": "Norway seizes Russian vessel to enforce $4.22B Ukrainian arbitration claim",
-      "description": "Norwegian authorities have seized a Russian vessel in the Arctic archipelago of Svalbard",
-      "url": "https://abcnews.com/International/wireStory/norway-seizes-russian-vessel-enforce-422b-ukrainian-arbitration-136165229",
-      "published": "Thu, 03 Sep 2026 08:42:23 -0400",
+      "title": "Lawyer for Zion Church seeks resettlement help while transiting through Taiwan",
+      "description": "A Chinese lawyer who defended an underground church in Beijing has fled to Taiwan and is seeking help for resettlement",
+      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
+      "published": "Thu, 03 Sep 2026 08:50:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2599,24 +2628,21 @@
       "is_ticker": false
     },
     {
-      "title": "Jury in Malta acquits businessman in killing of investigative journalist",
-      "description": "A jury has acquitted the Maltese businessman accused of masterminding the 2017 car bomb killing of journalist Daphne Caruana Galizia",
-      "url": "https://abcnews.com/International/wireStory/jury-malta-acquits-businessman-killing-investigative-journalist-136150504",
-      "published": "Wed, 02 Sep 2026 16:02:37 -0400",
+      "title": "South Korean police seek indictment of K-pop mogul behind BTS",
+      "description": "South Korean police are pushing for an indictment of music tycoon Bang Si-Hyuk, chairperson of the agency behind K-pop supergroup BTS, over alleged investor fraud",
+      "url": "https://abcnews.com/International/wireStory/south-korean-police-seek-indictment-pop-mogul-bts-136165558",
+      "published": "Thu, 03 Sep 2026 06:00:40 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Jury in Malta acquits businessman in killing of investigative journalist"
+      "is_ticker": false
     },
     {
-      "title": "Lawyer for Zion Church seeks resettlement help while transiting through Taiwan",
-      "description": "A Chinese lawyer who defended an underground church in Beijing has fled to Taiwan and is seeking help for resettlement",
-      "url": "https://abcnews.com/International/wireStory/lawyer-chinas-zion-church-seeks-resettlement-transiting-taiwan-136166953",
-      "published": "Thu, 03 Sep 2026 08:50:21 -0400",
+      "title": "Norway seizes Russian vessel to enforce $4.22B Ukrainian arbitration claim",
+      "description": "Norwegian authorities have seized a Russian vessel in the Arctic archipelago of Svalbard",
+      "url": "https://abcnews.com/International/wireStory/norway-seizes-russian-vessel-enforce-422b-ukrainian-arbitration-136165229",
+      "published": "Thu, 03 Sep 2026 08:42:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
