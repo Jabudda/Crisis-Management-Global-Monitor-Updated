@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T15:13:48.383889Z",
+  "last_updated": "2026-09-05T15:36:32.484746Z",
   "event_count": 220,
   "events": [
     {
@@ -54,6 +54,20 @@
       "severity_score": 33,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Nepal: Two more people rescued alive",
+      "description": "Rescuers in Nepal pulled out a Chinese man and a woman in separate operations Saturday, 10 days after devastating floods hit the country, as teams continued searching for thousands of missing people. Our correspondent Shahzaib Wahlah tells us more.",
+      "url": "https://www.france24.com/en/video/20260905-nepal-two-more-people-rescued-alive",
+      "published": "Sat, 05 Sep 2026 15:12:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Nepal: Two more people rescued alive"
     },
     {
       "title": "World News in Brief: US-Iran war intensifies, aid for Myanmar, casualties in Ukraine",
@@ -207,24 +221,10 @@
       "ticker_label": "🪖 Response must outpace spread of Ebola: UN relief chief"
     },
     {
-      "title": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
-      "description": "The Ukrainian capital was hit by Russia’s most intense wave of air attacks on Kyiv, reportedly in four years, with Reuters describing air raid sirens, drones, cruise and ballistic missiles exhausting Ukraine’s defence system, with 12 people killed and the Ukrainian foreign minister making a direct appeal to Western allies for more Patriot interceptor missiles.",
-      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20260904-germany-s-most-dangerous-man-pr-gift-for-the-afd",
-      "published": "Fri, 04 Sep 2026 18:31:15 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany’s ‘Most Dangerous Man’: PR gift for the AfD?"
-    },
-    {
       "title": "At least two dead in blast at Bolivia military barracks",
       "description": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
       "url": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 08:41:38 GMT",
+      "published": "Sat, 05 Sep 2026 15:22:41 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 25,
@@ -773,7 +773,7 @@
       "title": "US hits three Iranian oil tankers after saying its warships were targeted",
       "description": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 15:07:45 GMT",
+      "published": "Sat, 05 Sep 2026 15:14:21 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -890,6 +890,31 @@
       "is_ticker": false
     },
     {
+      "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted",
+      "description": "The strikes come a day after President Trump appeared to downplay the war with Iran as \"small potatoes\" during an exchange with reporters in the Oval Office.",
+      "url": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
+      "published": "Sat, 05 Sep 2026 11:05:08 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US military hits 3 Iranian oil tankers after saying Navy warships were targeted"
+    },
+    {
+      "title": "Paris hosts African Diaspora International Film Festival",
+      "description": "This weekend, Paris is hosting the 16th edition of FIFDA, the African Diaspora International Film Festival. From September 4 to 6, 15 films from 13 countries will be screened, spanning fiction and non-fiction, as well as feature-length and short films. The festival provides a space to explore how contemporary societies face and overcome wounds from the past, while giving a voice to members of African diasporas. Guest Lawrence Cole, co-executive producer of \"Shadow of Greed\", and Diarah N'Daw-Spech, FIFDA co-founder and co-director.",
+      "url": "https://www.france24.com/en/video/20260905-paris-hosts-african-diaspora-international-film-festival",
+      "published": "Sat, 05 Sep 2026 15:22:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Javier Milei: ‘winds of change’ support Argentina’s claim to Falkland Islands",
       "description": "President cites Trump’s suggestion that he might reconsider US stance on British sovereignty and threatens swifter sanctions on UK oil interests President Javier Milei has said “winds of change” favourable to Argentina’s claim to the Falkland Islands are blowing around the world in a televised address, citing signs that Donald Trump may reconsider the US position on the islands’ sovereignty. “Recently, President Trump declared that the US is re-evaluating its historic position in relation to the Malvinas,” he said, using the Argentinian name for the islands. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/04/president-javier-milei-winds-of-change-support-argentina-claim-to-falkland-islands",
@@ -920,17 +945,6 @@
       "url": "https://www.npr.org/2026/09/04/nx-s1-5955596/russia-intensifies-attacks-on-ukraines-capital",
       "published": "Fri, 04 Sep 2026 04:00:24 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "German power grid sabotage attack linked to ‘climate extremism’",
-      "description": "German Interior Minister Alexander Dobrindt on Friday said the evidence in a recent spate of sabotage attacks on power grids across the country points to a militant climate activist.",
-      "url": "https://www.france24.com/en/europe/20260904-german-power-grid-sabotage-attack-linked-to-climate-extremism",
-      "published": "Fri, 04 Sep 2026 18:40:07 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
@@ -996,20 +1010,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin orders 72-hour halt in strikes on Kyiv as Trump envoys arrive in Moscow"
-    },
-    {
-      "title": "‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK",
-      "description": "Gavin Lee is pleased to welcome Peter Geoghegan, an award-winning investigative journalist. He's the editor of the Substack Democracy for Sale and the author of the best-selling book \"Democracy for Sale\". Geoghegan explains the significance of the Channel 4 investigation not simply over the conduct allegedly captured on camera, but in the broader question of how political influence is financed and made visible, or invisible, within British democracy.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260904-major-potential-breaches-of-british-election-law-understanding-channel-4-s-investigation",
-      "published": "Fri, 04 Sep 2026 19:52:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 ‘Major potential breaches of British election law’: Inside Channel 4’s investigation into Reform UK"
     },
     {
       "title": "ICE lodges detainer for illegal immigrant charged in wrong-way Maryland crash that killed mom, daughter",
@@ -1134,18 +1134,15 @@
       "is_ticker": false
     },
     {
-      "title": "Israel's West Bank camp displacements could be crime against humanity, UN says",
-      "description": "The Israeli government's forced displacement of the entire populations of three West Bank refugee camps in January 2025 could amount to crimes against humanity, a UN report warned Friday. More than 33,000 Palestinians forced out of the Jenin, Nur Shams and Tulkarm camps have not been permitted to return home. Israel slammed the report for \"spreading misinformation\".",
-      "url": "https://www.france24.com/en/middle-east/20260904-israel-s-west-bank-camp-displacements-could-be-crime-against-humanity-un-says",
-      "published": "Fri, 04 Sep 2026 16:26:55 GMT",
+      "title": "UN experts urge Sudan-wide arms embargo",
+      "description": "A weapons embargo must be extended to the whole of Sudan, and it must be enforced. That is, in essence, the conclusion of a UN experts' report presented to the Human Rights Council. The report also points to the responsibility of foreign entities in a conflict that has now been raging for more than three years. Our correspondent Bastien Renouil tells us more.",
+      "url": "https://www.france24.com/en/video/20260905-un-experts-urge-sudan-wide-arms-embargo",
+      "published": "Sat, 05 Sep 2026 15:16:39 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel's West Bank camp displacements could be crime against humanity, UN says"
+      "is_ticker": false
     },
     {
       "title": "Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank",
@@ -1311,6 +1308,17 @@
       "ticker_label": "🪖 How can African retailers compete with Shein and Temu?"
     },
     {
+      "title": "Uber announces immediate withdrawal from Nigeria and Uganda",
+      "description": "Uber has announced its immediate withdrawal from Nigeria and Uganda. The decision comes amid a global restructuring, but mainly as Uber has lost significant ground to its competitors in both countries.",
+      "url": "https://www.france24.com/en/video/20260905-uber-announces-immediate-withdrawal-from-nigeria-and-uganda",
+      "published": "Sat, 05 Sep 2026 15:20:59 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "US ambassador to Israel visits Palestinian town hit by West Bank settler violence",
       "description": "US ambassador to Israel Mike Huckabee on Saturday visited Turmus Ayya, a Palestinian town in the Israeli-occupied West Bank that has been repeatedly targeted by Israeli settler violence. Huckabee, a staunch supporter of Israel and its illegal settlements in the Palestinian territory, said that it was in the Israeli government's interests to take action against violent settlers.",
       "url": "https://www.france24.com/en/middle-east/20260905-us-ambassador-to-israel-visits-palestinian-town-hit-by-west-bank-settler-violence",
@@ -1395,7 +1403,7 @@
     },
     {
       "title": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
-      "description": "US strikes hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg Island.",
+      "description": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
       "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
       "published": "Sat, 05 Sep 2026 14:49:36 +0000",
       "source": "Al Jazeera",
@@ -1691,6 +1699,31 @@
       "is_ticker": false
     },
     {
+      "title": "Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
+      "description": "US envoys Steve Witkoff and Jared Kushner arrived in Moscow on Saturday to try to revive a stalled push to end Russia’s full-scale invasion of Ukraine, Russian state news outlets reported. Our correspondent Gulliver Cragg tells us more.",
+      "url": "https://www.france24.com/en/video/20260905-witkoff-and-kushner-are-in-moscow-in-a-new-push-for-peace-between-russia-and-ukraine",
+      "published": "Sat, 05 Sep 2026 15:09:22 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine"
+    },
+    {
+      "title": "France: Emmanuel Macron unveils new disability strategy",
+      "description": "French President Emmanuel Macron delivered the closing speech at the national conference on disability. It is an event the government holds every three years. It aims to set or guide policies. Macron made disability one of the priorities of his first five-year term. Since 2017, the government has implemented a number of measures to better integrate people with disabilities into society. According to official figures, between 5.7 and 18.2 million people aged five and older in France have a disability. We discuss this with our guest, Dr. Johny Daniel, associate professor at the School of Education at Durham University.",
+      "url": "https://www.france24.com/en/video/20260905-france-emmanuel-macron-unveils-new-disability-strategy",
+      "published": "Sat, 05 Sep 2026 15:02:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Women gathered in a small Iranian town for a wedding. Then deadly strikes hit",
       "description": "The small Iranian town of Kuhestak is reeling after a barrage of strikes hit a house where dozens of women were gathered to celebrate a wedding",
       "url": "https://abcnews.com/International/wireStory/women-gathered-small-iranian-town-wedding-deadly-strikes-136207573",
@@ -1739,7 +1772,7 @@
     },
     {
       "title": "Russia to pause strikes against Kyiv amid Ukraine talks",
-      "description": "Jared Kushner and Steve Witkoff have arrived in Moscow to revive Ukraine peace talks. The trip is the pair's first visit to Kyiv since US President Donald Trump's reelection.",
+      "description": "Jared Kushner and Steve Witkoff have arrived in Moscow to revive Ukraine peace talks. They are also scheduled to visit Kyiv on Sunday,",
       "url": "https://www.dw.com/en/russia-to-pause-strikes-against-kyiv-amid-ukraine-talks/a-79040773?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 5 Sep 2026 13:03:00 GMT",
       "source": "Deutsche Welle",
@@ -1862,28 +1895,6 @@
       "url": "https://www.dw.com/en/saxony-anhalt-small-parties-will-be-the-kingmakers/a-78482460?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 4 Sep 2026 19:06:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UN ditches Mercator map to adopt more accurate one reflecting Africa's true size",
-      "description": "The UN General Assembly on Friday voted to shift away from the 16th-century Mercator map, designed by Flemish cartographer Gerardus Mercator, for a more accurate one reflecting the true size of continents. The resolution, spearheaded by several African countries and co-sponsored by France, was backed by 164 countries. The US voted against and six other states abstained.",
-      "url": "https://www.france24.com/en/earth/20260904-un-ditches-mercator-map-to-adopt-more-accurate-one-reflecting-africa-s-true-size",
-      "published": "Fri, 04 Sep 2026 18:31:21 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US midterms start with North Carolina distributing mail-voting ballots",
-      "description": "North Carolina on Friday became the first state authorised to begin sending out ballots, formally launching the 2026 US midterms as President Donald Trump’s administration fights to impose sweeping restrictions on the practice.",
-      "url": "https://www.france24.com/en/americas/20260904-us-midterms-begin-with-chaos-over-mail-voting-crackdown",
-      "published": "Fri, 04 Sep 2026 15:53:14 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2409,17 +2420,6 @@
       "description": "Trump has asked the Supreme Court to lift the block on his plan for the USPS to restrict mail voting ahead of the midterm elections. And, diesel prices have reached a record high.",
       "url": "https://www.npr.org/2026/09/04/g-s1-141972/up-first-newsletter-usps-mail-in-voting-irs-schools-christian-castro",
       "published": "Fri, 04 Sep 2026 07:29:11 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Argentina escalates Falklands dispute with the U.K., seizing on Trump comments",
-      "description": "Argentine President Javier Milei is escalating a dispute with Britain over the Falkland Islands with tougher sanctions targeting companies involved in a major offshore oil project.",
-      "url": "https://www.npr.org/2026/09/04/g-s1-141945/milei-escalates-falklands-dispute",
-      "published": "Fri, 04 Sep 2026 01:30:29 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
