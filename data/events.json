@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T09:36:38.552858Z",
+  "last_updated": "2026-09-05T10:14:40.037252Z",
   "event_count": 221,
   "events": [
     {
@@ -12,20 +12,6 @@
       "severity_score": 33,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "France announces €1 billion aid for farmers after climate-hit summer",
-      "description": "France has recorded its hottest summer on record this year as the country battled heatwaves, drought and massive wildfires. The extreme weather has continued into September, with France's national weather service placing five departments on orange alert for several days. Temperatures are expected to reach 40°C in some areas. France's agriculture minister also announced a plan to unlock over 1 billion euros in aid to the agriculture sector, which has been severely affected by the extreme weather.",
-      "url": "https://www.france24.com/en/video/20260904-france-announces-%E2%82%AC1-billion-aid-for-farmers-after-climate-hit-summer",
-      "published": "Fri, 04 Sep 2026 15:12:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ France announces €1 billion aid for farmers after climate-hit summer"
     },
     {
       "title": "2 trapped workers rescued from a hydropower tunnel 9 days after Nepal floods",
@@ -191,6 +177,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Orangutan mother and infant rescued from wildfire-hit forest in Indonesia"
+    },
+    {
+      "title": "Nepal: Rebuilding lives after devastating floods",
+      "description": "In Nepal, thousands of people lost their homes, belongings and loved ones in minutes during the flash floods of August 26. Since then, authorities, NGOs and volunteers have been delivering aid. But in overcrowded temporary camps, living conditions remain difficult, while many survivors face an uncertain future. France 24's special correspondents visited a temporary camp set up in a school in Rasuwa district, near the disaster's epicenter. A report by Shahzaib Wahlah, Ondine de Gaulle, Achraf Abid and Diamond Uprety.",
+      "url": "https://www.france24.com/en/video/20260905-nepal-rebuilding-lives-after-devastating-floods",
+      "published": "Sat, 05 Sep 2026 09:23:02 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Nepal: Rebuilding lives after devastating floods"
     },
     {
       "title": "Germany’s ‘Most Dangerous Man’: PR gift for the AfD?",
@@ -478,21 +478,24 @@
       "ticker_label": "🪖 Germany's far-right AfD bids for first taste of power in eastern vote"
     },
     {
-      "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
-      "description": "Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 06:51:32 +0000",
+      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+      "description": "As US targets oil tanker off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 09:56:53 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?"
     },
     {
-      "title": "Malaysia declares emergency in Sarawak as haze from Indonesia worsens",
-      "description": "Country implements state of emergency in Sarawak's Serian district after air pollution reaches 'hazardous' levels.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/malaysia-declares-emergency-in-sarawak-as-haze-from-indonesia-worsens?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 03:48:17 +0000",
+      "title": "At least five killed in Sudan’s South Kordofan in attack by rebel group",
+      "description": "Sudan Doctors Network says SPLM-N forces shelled residential areas in the town of Dilling.",
+      "url": "https://www.aljazeera.com/news/2026/9/5/five-killed-in-sudans-kordofan-in-attack-by-rebel-group?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 06:51:32 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 19,
@@ -534,6 +537,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Russia's shadow war is putting Europe on edge as Germany confronts a growing threat",
+      "description": "Germany accused Russia of a drone attack at Leipzig/Halle Airport and now pushes Baltic Sea allies to form a rapid-response hybrid warfare task force.",
+      "url": "https://www.foxnews.com/world/russias-shadow-war-putting-europe-edge-germany-confronts-growing-threat",
+      "published": "Sat, 05 Sep 2026 06:00:30 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia's shadow war is putting Europe on edge as Germany confronts a growing threat"
     },
     {
       "title": "Iran prefers conflict with US over peace to suppress internal uprising, human rights activist warns",
@@ -598,20 +615,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "DOJ charges ICE officer with lying to investigators following Minneapolis shooting of Venezuelan man",
-      "description": "ICE agent Christian Castro faces federal false statements charges tied to the shooting of Julio Cesar Sosa-Celis during an immigration crackdown.",
-      "url": "https://www.foxnews.com/us/doj-charges-ice-officer-lying-investigators-following-minneapolis-shooting-venezuelan-man",
-      "published": "Thu, 03 Sep 2026 14:16:09 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 DOJ charges ICE officer with lying to investigators following Minneapolis shooting of Venezuelan man"
     },
     {
       "title": "UN approves world map reflecting true size of Africa",
@@ -829,6 +832,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Nepal bet nearly everything on hydropower - the floods show why that's a problem"
+    },
+    {
+      "title": "Qatar removed from Fitch’s negative watch list as risks to LNG sites ease",
+      "description": "The global ratings agency has also maintained the country’s sovereign rating at AA.",
+      "url": "https://www.aljazeera.com/economy/2026/9/5/fitch-removes-qatar-from-rating-watch-as-lng-risks-ease?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 09:48:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -1382,31 +1396,6 @@
       "is_ticker": false
     },
     {
-      "title": "Did Israel’s destruction of Gaza worsen its water crisis?",
-      "description": "Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean's algae bloom crisis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 03:46:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground",
-      "description": "The 2022 peace deal ended the war but left key disputes unresolved, giving the TPLF room to regroup as tensions return.",
-      "url": "https://www.aljazeera.com/news/2026/9/5/after-pretoria-peace-deal-old-enemies-in-ethiopias-tigray-find-new-ground?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 03:05:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 After Pretoria peace deal, old enemies in Ethiopia’s Tigray find new ground"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1522,6 +1511,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Repression of political opposition surges in post-election Zambia"
+    },
+    {
+      "title": "Charles Manson's 'Helter Skelter' motive a myth? New tapes reveal what may have sparked Sharon Tate murders",
+      "description": "Joe Berlinger's Netflix docuseries argues the Charles Manson murders were not about starting a race war but covering up a drug deal gone bad.",
+      "url": "https://www.foxnews.com/us/charles-manson-helter-skelter-motive-myth-new-tapes-reveal-sparked-sharon-tate-murders",
+      "published": "Sat, 05 Sep 2026 06:00:58 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Charles Manson's 'Helter Skelter' motive a myth? New tapes reveal what may have sparked Sharon Tate murders"
     },
     {
       "title": "ICE officer pleads not guilty to lying about Minneapolis shooting involving Venezuelan man",
@@ -1776,20 +1779,6 @@
       "ticker_label": "🪖 Israel captures top Hamas commander in Gaza strike, defense minister says"
     },
     {
-      "title": "Trump says Iran is ‘DEAD’ — experts point to the real sign Tehran is nearing the brink",
-      "description": "U.S. strikes on Iranian launchers near the Strait of Hormuz triggered ballistic missile retaliation as Brent crude climbed above $90 a barrel Monday.",
-      "url": "https://www.foxnews.com/world/trump-says-iran-dead-experts-point-real-sign-tehran-nearing-brink",
-      "published": "Tue, 01 Sep 2026 06:00:12 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump says Iran is ‘DEAD’ — experts point to the real sign Tehran is nearing the brink"
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1925,21 +1914,10 @@
       "ticker_label": "💥 Gloria Steinem: A voice for women, to the very end"
     },
     {
-      "title": "Pentagon polygraphs dozens of US military staff over media leaks: Report",
+      "title": "Pentagon polygraphs dozens of US military staff over media leaks",
       "description": "About 50 officers on the US Joint Staff were interrogated over reports detailing depleted weapons stockpiles, NYT says.",
       "url": "https://www.aljazeera.com/news/2026/9/5/pentagon-polygraphs-military-staff-over-media-leaks-report?traffic_source=rss",
       "published": "Sat, 05 Sep 2026 08:37:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
-      "description": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
-      "published": "Sat, 05 Sep 2026 03:25:46 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
@@ -2148,7 +2126,7 @@
       "title": "Lindsay Clancy murder trial has divided US on whether she's victim or criminal",
       "description": "Some say the case shed light on the mental health struggles of mothers, while others argue it's no excuse for murder.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z0xnw2d6o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 05 Sep 2026 06:37:46 GMT",
+      "published": "Sat, 05 Sep 2026 10:02:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2183,6 +2161,31 @@
       "url": "https://www.bbc.co.uk/news/articles/cew9kz1kxpvo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 05 Sep 2026 01:16:27 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+      "description": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 09:52:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 US ambassador to Israel meets Palestinian-Americans in occupied West Bank"
+    },
+    {
+      "title": "Fenerbahce’s Greenwood, Guendouzi handed fines and bans after brawl at Lyon",
+      "description": "Fights between players and coaching staff broke out after the Turkish side won the Champions League playoff second leg.",
+      "url": "https://www.aljazeera.com/sports/2026/9/5/fenerbahces-greenwood-guendouzi-handed-fines-and-bans-after-brawl-at-lyon?traffic_source=rss",
+      "published": "Sat, 05 Sep 2026 09:44:45 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
