@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T16:36:18.823498Z",
+  "last_updated": "2026-09-06T17:12:31.363923Z",
   "event_count": 222,
   "events": [
     {
@@ -129,7 +129,7 @@
       "title": "Dozens feared trapped in collapsed building in Delhi",
       "description": "As many as 50 people are thought to have been inside the five-storey hostel when it came down.",
       "url": "https://www.bbc.co.uk/news/articles/c8r6ezx1jmro?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 14:07:35 GMT",
+      "published": "Sun, 06 Sep 2026 16:54:34 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 28,
@@ -859,8 +859,8 @@
       "ticker_label": "🪖 U.S. strikes three Iranian oil tankers in renewal of hostilities"
     },
     {
-      "title": "Four killed in Israeli strikes on southern Lebanon",
-      "description": "Four people, including two women, have been killed in Israeli strikes on southern Lebanon, the Lebanese health ministry has said.",
+      "title": "Seven killed in Israeli strikes on southern Lebanon",
+      "description": "Seven people, including two women, have been killed in Israeli strikes on southern Lebanon, the Lebanese health ministry has said.",
       "url": "https://news.sky.com/story/four-killed-in-israeli-strikes-on-southern-lebanon-13582240",
       "published": "Sun, 06 Sep 2026 11:19:00 +0100",
       "source": "Sky News World",
@@ -870,7 +870,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Four killed in Israeli strikes on southern Lebanon"
+      "ticker_label": "🪖 Seven killed in Israeli strikes on southern Lebanon"
     },
     {
       "title": "ICE lodges detainer for illegal immigrant charged in wrong-way Maryland crash that killed mom, daughter",
@@ -1056,7 +1056,7 @@
       "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
       "description": "Slavery’s legacy continues ‘to deprive our country and our people’, says minister, as group prepares to appeal to Jamaica’s head of state A landmark petition is to be handed to King Charles by Jamaica over slavery reparations, aiming to confront historical crimes that still disadvantage former British colonies, the Caribbean nation’s culture minister has said. The petition will be lodged with Charles, Jamaica’s head of state, on Monday. Continue reading...",
       "url": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-      "published": "Sun, 06 Sep 2026 13:00:07 GMT",
+      "published": "Sun, 06 Sep 2026 17:05:11 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
@@ -1297,6 +1297,17 @@
       "ticker_label": "🪖 <a href=\"https://news.sky.com/story/ukraine-war-latest-putin-russia-trump-12541713?postid=12384476#liveblog-body\">Bulletproof vests and blacked-out carriages: How Ukraine defies Putin to keep trains moving</a>"
     },
     {
+      "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
+      "description": "Iran has accused the U.S. of attacking an Iranian tanker near Kharg Island in the Persian Gulf",
+      "url": "https://abcnews.com/International/wireStory/iran-accuses-us-targeting-tanker-kharg-island-mideast-136222728",
+      "published": "Sat, 05 Sep 2026 09:22:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles",
       "description": "The U.S. military says it has struck three Iranian oil tankers after Navy warships were targeted with missiles",
       "url": "https://abcnews.com/International/wireStory/us-military-hits-3-iranian-oil-tankers-after-136225526",
@@ -1311,15 +1322,18 @@
       "ticker_label": "🪖 US military hits 3 Iranian oil tankers after saying Navy warships were targeted with missiles"
     },
     {
-      "title": "Iran accuses the US of targeting a tanker near Kharg Island, and other key Mideast developments",
-      "description": "Iran has accused the U.S. of attacking an Iranian tanker near Kharg Island in the Persian Gulf",
-      "url": "https://abcnews.com/International/wireStory/iran-accuses-us-targeting-tanker-kharg-island-mideast-136222728",
-      "published": "Sat, 05 Sep 2026 09:22:27 -0400",
+      "title": "Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel",
+      "description": "The death toll from a mudslide in eastern China has risen to three after days of torrential rain brought by Typhoon Saudel",
+      "url": "https://abcnews.com/International/wireStory/mudslide-death-toll-china-rises-3-after-heavy-136236639",
+      "published": "Sun, 06 Sep 2026 03:02:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Mudslide death toll in China rises to 3 after heavy rain from Typhoon Saudel"
     },
     {
       "title": "Competitors dig deep in Hungarian grave-digging contest",
@@ -1443,6 +1457,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "German exit polls suggest far-right party has big lead in regional election",
+      "description": "The Alternative for Germany party has a strong lead in a regional election, but it is unclear if it will be able to form Germany's's first far-right state government since WWII, exit polls indicate.",
+      "url": "https://www.npr.org/2026/09/06/nx-s1-5955677/german-exit-polls-suggest-far-right-party-big-lead-in-regional-election",
+      "published": "Sun, 06 Sep 2026 12:36:48 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1580,17 +1605,6 @@
       "is_ticker": false
     },
     {
-      "title": "Philippine vice president is ordered arrested for threats against the president",
-      "description": "It's part of a political showdown with Marcos. A trial could impact her plans to run for president in 2028.",
-      "url": "https://www.npr.org/2026/09/04/g-s1-142016/philippine-vice-president-is-ordered-arrested-for-threats-against-the-president",
-      "published": "Fri, 04 Sep 2026 09:42:10 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "India news: Rahul Gandhi backs student protests in Maharashtra",
       "description": "Opposition Rahul Gandhi has said that students are \"tormented\" by the ruling Bharatiya Janata Party. The Congress politician has demanded immediate action into the demands of Maharashtra student protesters. DW has more.",
       "url": "https://www.dw.com/en/india-news-rahul-gandhi-backs-student-protests-in-maharashtra/live-79043198?maca=en-rss-en-all-1573-xml-mrss",
@@ -1702,10 +1716,10 @@
       "ticker_label": "✈️ Fighter jet crashes at air show, killing 2 pilots with thousands of spectators watching"
     },
     {
-      "title": "German far-right set for big win in eastern state - exit polls",
+      "title": "German far-right set for big win in eastern state - projections",
       "description": "Germany's AfD has hailed a \"historic result\" and is projected to win 44.5% of the vote, far ahead of the conservative CDU on 18.5%.",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 06 Sep 2026 16:21:19 GMT",
+      "published": "Sun, 06 Sep 2026 16:59:25 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 4,
@@ -1713,8 +1727,8 @@
       "is_ticker": false
     },
     {
-      "title": "Far-right AFD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-      "description": "This is a breaking news story.",
+      "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+      "description": "The party hails 'historic' result, but it is not immediately clear whether it will be able to form a government.",
       "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
       "published": "Sun, 06 Sep 2026 16:07:08 +0000",
       "source": "Al Jazeera",
@@ -1918,17 +1932,6 @@
       "description": "The Brooke County principal faces two felony charges and is being held on $100,000 bond after officials reportedly found devices at the school and his home.",
       "url": "https://www.foxnews.com/us/west-virginia-principal-suspended-recording-devices-found-girls-locker-rooms",
       "published": "Fri, 04 Sep 2026 15:02:08 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Karen Read’s lawyer says Clancy defense attorney may be ‘cut from a different cloth’ as deliberations drag on",
-      "description": "Karen Read's former defense attorney David Yannetti praised Lindsay Clancy's lawyer as jurors twice reported they could not reach a unanimous verdict.",
-      "url": "https://www.foxnews.com/us/karen-read-lawyer-says-clancy-defense-attorney-may-be-cut-from-different-cloth-deliberations-drag-on",
-      "published": "Fri, 04 Sep 2026 00:00:15 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
@@ -2294,7 +2297,7 @@
       "title": "M 3.7 - 20 km E of Castle Rock, Washington",
       "description": "ShakeMap - IV DYFI? - IV Time 2026-09-05 11:09:28 UTC 2026-09-05 11:09:28 UTC at epicenter Location 46.247°N 122.644°W Depth 17.62 km (10.95 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714095342",
-      "published": "2026-09-06T16:32:32.154Z",
+      "published": "2026-09-06T16:37:41.985Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2482,6 +2485,17 @@
       "is_ticker": false
     },
     {
+      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
+      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
+      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
+      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Moto Guzzi's renovated Lake Como headquarters welcomes a pilgrimage of motorcycle-bound aficionados",
       "description": "Moto Guzzi enthusiasts now have a new reason to visit the iconic Italian motorcycle's headquarters",
       "url": "https://abcnews.com/International/wireStory/moto-guzzis-renovated-lake-como-headquarters-welcomes-pilgrimage-136222521",
@@ -2497,17 +2511,6 @@
       "description": "Chimpanzees once used in hepatitis B vaccine experiments are getting health checks at their new home in Liberia",
       "url": "https://abcnews.com/International/wireStory/chimpanzees-vaccine-research-health-checks-part-long-term-136222541",
       "published": "Sat, 05 Sep 2026 09:22:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
-      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
-      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
-      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2537,11 +2540,11 @@
       "is_ticker": false
     },
     {
-      "title": "Africa’s mother tongues are finding new life as youth connect with roots and relatives",
-      "description": "Growing interest in African languages is creating new business opportunities as people in the diaspora seek to connect with their relatives and roots",
-      "url": "https://abcnews.com/International/wireStory/africas-mother-tongues-finding-new-life-youth-connect-136233683",
-      "published": "Sat, 05 Sep 2026 21:57:55 -0400",
-      "source": "ABC News International",
+      "title": "Missouri foster mom accused of trading teen for monkey avoids prison",
+      "description": "Brenda Deutsch received a suspended sentence after allegedly trading a foster teen for a monkey, as the judge called her actions reprehensible.",
+      "url": "https://www.foxnews.com/us/missouri-foster-mom-accused-trading-teen-monkey-avoids-prison",
+      "published": "Sun, 06 Sep 2026 12:32:59 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
