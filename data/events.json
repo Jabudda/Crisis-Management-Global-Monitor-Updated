@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T22:15:01.258827Z",
+  "last_updated": "2026-09-07T22:36:58.760201Z",
   "event_count": 223,
   "events": [
     {
@@ -82,6 +82,20 @@
       "severity_score": 33,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "description": "Five people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "url": "https://www.bbc.co.uk/news/articles/ce8e32n8epeo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 07 Sep 2026 22:23:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Flight recorders recovered from 'devastating' Amazon cargo plane crash"
     },
     {
       "title": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
@@ -386,6 +400,20 @@
       "ticker_label": "🪖 Israeli strikes on southern Lebanon kill 11"
     },
     {
+      "title": "Jimmy John's employee accused of opening fire on car, shooting 14-year-old girl in leg: police",
+      "description": "Police say that a dispute at a St. Louis Jimmy John's escalated into gunfire, leaving a 14-year-old girl wounded and an employee facing felony charges.",
+      "url": "https://www.foxnews.com/us/jimmy-johns-employee-accused-opening-fire-car-shooting-14-year-old-girl-leg-police",
+      "published": "Mon, 07 Sep 2026 18:09:32 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Jimmy John's employee accused of opening fire on car, shooting 14-year-old girl in leg: police"
+    },
+    {
       "title": "Germany’s far-right party AfD surges to historic victory in state election",
       "description": "German Chancellor Friedrich Merz's party faces a disastrous blow as AfD aims for Germany's first far-right state government since World War II.",
       "url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
@@ -454,34 +482,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Nepal holds a day of mourning after floods kill at least 1,300 people"
-    },
-    {
-      "title": "Nepal flood survivor's family in China relieved after days of anxious waiting",
-      "description": "Lu Haitao’s family can finally breathe a sigh of relief after the Chinese man's rescue from a tunnel that protected him from the Nepal flooding",
-      "url": "https://abcnews.com/International/wireStory/nepal-flood-survivors-family-china-relieved-after-days-136236638",
-      "published": "Sun, 06 Sep 2026 03:02:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Nepal flood survivor's family in China relieved after days of anxious waiting"
-    },
-    {
-      "title": "Months after Venezuela earthquakes, a family refuses to give up search for their missing relative",
-      "description": "Antonella Molina and her nephew Pedro are searching for 18-year-old Andres Molina in La Guaira, Venezuela",
-      "url": "https://abcnews.com/International/wireStory/months-after-venezuela-earthquakes-family-refuses-give-search-136237654",
-      "published": "Sun, 06 Sep 2026 07:48:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Months after Venezuela earthquakes, a family refuses to give up search for their missing relative"
     },
     {
       "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
@@ -605,6 +605,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Two children among dead in Israeli strikes on Lebanon"
+    },
+    {
+      "title": "Body of war criminal Mladic lies in state in Serbian capital ahead of funeral",
+      "description": "Ratko Mladic, the Bosnian Serb commander who died while serving a life sentence for war crimes, was buried as a hero on Monday in Serbia with military honors and big crowds attending",
+      "url": "https://abcnews.com/International/wireStory/body-war-criminal-mladic-lies-state-serbian-capital-136249114",
+      "published": "Mon, 07 Sep 2026 10:10:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Body of war criminal Mladic lies in state in Serbian capital ahead of funeral"
     },
     {
       "title": "El Niño is surging. Months of extreme heat could follow",
@@ -907,20 +921,6 @@
       "is_ticker": false
     },
     {
-      "title": "Five killed as Amazon cargo plane crashes at Miami airport",
-      "description": "Video footage shows the aircraft burst into flames in Sunday's deadly incident.",
-      "url": "https://www.bbc.co.uk/news/videos/c4grd9mg3rvo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 07 Sep 2026 05:37:28 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Five killed as Amazon cargo plane crashes at Miami airport"
-    },
-    {
       "title": "Egyptian wrestlers keep vanishing abroad amid a sport in crisis",
       "description": "Two wrestlers have become the latest to flee while abroad, drawing a wave of sympathy as well as legal threats.",
       "url": "https://www.aljazeera.com/sports/2026/9/7/egypts-vanishing-wrestlers-and-a-sport-in-crisis?traffic_source=rss",
@@ -990,6 +990,17 @@
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
       "published": "Tue, 22 Mar 2022 16:43:47 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "NSW Greens MP pleads with federal colleagues not to back National party motion to block koala park deal",
+      "description": "Federal Greens partyroom split over plan for NSW to get millions of dollars’ worth in carbon credits for creating a koala national park Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A New South Wales Greens MP has made an impassioned plea to her federal colleagues, urging them not to vote with the Coalition and One Nation to block a plan for the NSW government to get millions of dollars’ worth in carbon credits for creating a koala national park. Sue Higginson, a former lawyer and forest campaigner turned NSW upper house MP, is the first member of the minor party to speak in detail about a dispute that has split the Greens and environmentalists. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/08/nsw-greens-mp-pleads-with-federal-colleagues-not-to-not-to-back-national-party-motion-to-block-koala-park",
+      "published": "Mon, 07 Sep 2026 22:06:49 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1074,6 +1085,17 @@
       "ticker_label": "🪖 EU says no place for 'glorification of war criminals' as Mladic buried"
     },
     {
+      "title": "Iranian soccer players who sought asylum in Australia say anthem silence was protest",
+      "description": "Two members of the Iranian women’s soccer team who claimed asylum in Australia have confirmed their pivotal refusal to sing the national anthem during the Women’s Asian Cup in March was a protest against Tehran",
+      "url": "https://abcnews.com/International/wireStory/iranian-soccer-players-sought-asylum-australia-anthem-silence-136249017",
+      "published": "Mon, 07 Sep 2026 04:26:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Russia’s strikes near Moldova raise alarm over Putin’s plans for Europe’s eastern flank",
       "description": "President Sandu's national security advisor, Stanislav Secrieru, says Russia's strikes on Ukrainian-Moldovan border infrastructure aim to sever vital grain export corridors to European markets.",
       "url": "https://www.foxnews.com/world/russias-strikes-near-moldova-raise-alarm-over-putins-plans-europes-eastern-flank",
@@ -1130,6 +1152,20 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Eiffel Tower employees strike after female workers removal",
+      "description": "The employees protested against the removal of the site's female workers due to a request by a religious Hindu group. The tower's operating company apologized for the decision.",
+      "url": "https://www.dw.com/en/eiffel-tower-employees-strike-after-female-workers-removal/a-79152603?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 7 Sep 2026 22:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Eiffel Tower employees strike after female workers removal"
     },
     {
       "title": "Pakistan: Can creating new provinces fix governance?",
@@ -1290,10 +1326,10 @@
       "ticker_label": "🪖 Russia and North Korea open first road bridge across their shared border"
     },
     {
-      "title": "Australia politics live: Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor ‘park barrelling’ allegations",
+      "title": "Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor ‘park barrelling’ allegations",
       "description": "Follow the day’s news live One Nation policy will leave people $25k worse off at retirement, Mulino says Superannuation is kicking off again today with One Nation pushing to allow people to divert 3% of their superannuation to their rent or mortgage. It took us decades to get to 12% superannuation guarantee and that’s a level that will provide people with a high level of dignity and security in retirement. To do what the One Nation party is suggesting will see somebody who is 30 years old, $25,000 worse off at retirement and a couple around $50,000 worse off. I’m deeply sceptical of giving any government, whether I was in charge, or Anika Wells is in charge, I’m deeply sceptical of giving any government the power to decide what you read on your phone. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/08/barnaby-joyce-one-nation-superannuation-plan-john-howard-immigration-anthony-albanese-labor-angus-taylor-coalition-pauline-hanson-ntwnfb",
-      "published": "Mon, 07 Sep 2026 21:57:31 GMT",
+      "published": "Mon, 07 Sep 2026 22:19:02 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
@@ -1301,7 +1337,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Australia politics live: Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor ‘park barrelling’ allegations"
+      "ticker_label": "🪖 Australia politics live: Howard warns about limiting immigration; Chaney condemns Labor ‘park barrelling’ allegations"
     },
     {
       "title": "Grassroots Labor group urges Albanese government to chart course away from ‘American war machine’",
@@ -1371,20 +1407,6 @@
       "is_ticker": false
     },
     {
-      "title": "US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin",
-      "description": "US envoys Steve Witkoff and Jared Kushner held talks with Ukrainian President Volodymyr Zelenskyy in Kyiv, seeking to revive efforts to end the war. But the latest diplomatic push seems to have produced no breakthrough.",
-      "url": "https://www.dw.com/en/us-envoys-witkoff-and-kushner-hold-ukraine-talks-after-meeting-putin/a-79054779?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 6 Sep 2026 22:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US envoys Witkoff and Kushner hold Ukraine talks after meeting Putin"
-    },
-    {
       "title": "Saxony-Anhalt poll: 'A huge blow for the CDU, but also a huge win for the AfD'",
       "description": "Carys Garland is pleased to welcome Markus Ziener, Visiting Senior Fellow at the German Marshall Fund. He interprets the AfD’s breakthrough in Saxony-Anhalt as a potentially historic turning point in post-war German politics. For Ziener, the significance lies not only in the scale of the far right’s electoral success, but also in the constituency behind it: many AfD voters, he argues, were previously politically disengaged rather than simply defecting from established parties. This complicates conventional explanations of the result as a straightforward transfer of support from the CDU to the AfD and raises a deeper question about the political expectations of a newly mobilised electorate.",
       "url": "https://www.france24.com/en/video/20260907-saxony-anhalt-poll-a-huge-blow-for-the-cdu-but-also-a-huge-win-for-the-afd-1",
@@ -1397,6 +1419,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Saxony-Anhalt poll: 'A huge blow for the CDU, but also a huge win for the AfD'"
+    },
+    {
+      "title": "Congo’s Ebola burial teams battle community anger, fatigue and fear of infection",
+      "description": "The burial of a young chorister in Bunia highlights the ongoing Ebola crisis in Congo",
+      "url": "https://abcnews.com/International/wireStory/congos-ebola-burial-teams-battle-community-anger-fatigue-136247958",
+      "published": "Mon, 07 Sep 2026 06:02:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Repression of political opposition surges in post-election Zambia",
@@ -1609,17 +1642,6 @@
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
       "published": "Thu, 13 Apr 2023 21:13:04 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Radiohead announce 2027 tour with shows in Australia and Japan",
-      "description": "UK band will play 16 shows across Perth, Melbourne and Sydney, as well as five shows in Saitama Radiohead will return to Australia to play 16 shows across three cities next year, marking the band’s first tour of the country in 15 years. On Monday afternoon, the British rock band unveiled the itinerary for its May 2027 tour, which also includes five shows in Japan. Continue reading...",
-      "url": "https://www.theguardian.com/music/2026/sep/07/radiohead-announce-2027-tour-with-shows-in-australia-and-japan",
-      "published": "Mon, 07 Sep 2026 09:44:51 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1847,17 +1869,6 @@
       "url": "https://news.sky.com/story/alternative-for-germany-who-are-the-far-right-party-swept-to-victory-in-saxony-anhalt-13582650",
       "published": "Mon, 07 Sep 2026 08:19:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Far-right Alternative for Germany party wins big in regional election but falls short of majority",
-      "description": "The far-right Alternative for Germany party has surged to a resounding victory in a regional election",
-      "url": "https://abcnews.com/International/wireStory/german-region-votes-election-bring-state-governor-power-136236455",
-      "published": "Mon, 07 Sep 2026 04:10:24 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2475,21 +2486,10 @@
       "is_ticker": false
     },
     {
-      "title": "Prince Hisahito turns 20 as Japan's government reinforces male-only succession rules",
-      "description": "Japan’s Prince Hisahito has turned 20 while facing growing attention as a future monarch",
-      "url": "https://abcnews.com/International/wireStory/prince-hisahito-turns-20-japans-government-reinforces-male-136233775",
-      "published": "Sat, 05 Sep 2026 21:59:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US envoys Witkoff and Kushner arrive in Kyiv after talks with Putin in Moscow",
-      "description": "U.S. envoys Steve Witkoff and Jared Kushner have held talks in Kyiv as part of a renewed push for peace in Ukraine",
-      "url": "https://abcnews.com/International/wireStory/us-envoys-witkoff-kushner-arrive-kyiv-after-talks-136236924",
-      "published": "Sun, 06 Sep 2026 10:02:21 -0400",
+      "title": "Serbia's government proposes dissolving Parliament for early election",
+      "description": "The Serbian government has proposed dissolving Parliament, setting in motion a procedure for scheduling a high-stakes early parliamentary election",
+      "url": "https://abcnews.com/International/wireStory/serbias-government-proposes-dissolving-parliament-early-election-136255010",
+      "published": "Mon, 07 Sep 2026 11:22:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2508,6 +2508,17 @@
       "is_ticker": false
     },
     {
+      "title": "Russia and North Korea open the first road link across shared border",
+      "description": "Russia and North Korea have opened their first road bridge for car traffic, enhancing their growing ties",
+      "url": "https://abcnews.com/International/wireStory/russia-north-korea-open-road-link-shared-border-136254045",
+      "published": "Mon, 07 Sep 2026 12:29:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "EU chief unveils $232M Greenland package as tensions heighten with Trump claims",
       "description": "European Commission President Ursula von der Leyen is offering Greenland a new investment package worth more than $230 million",
       "url": "https://abcnews.com/International/wireStory/eu-chief-unveils-232-million-greenland-package-tensions-136252951",
@@ -2519,10 +2530,24 @@
       "is_ticker": false
     },
     {
-      "title": "Serbia's government proposes dissolving Parliament for early election",
-      "description": "The Serbian government has proposed dissolving Parliament, setting in motion a procedure for scheduling a high-stakes early parliamentary election",
-      "url": "https://abcnews.com/International/wireStory/serbias-government-proposes-dissolving-parliament-early-election-136255010",
-      "published": "Mon, 07 Sep 2026 11:22:23 -0400",
+      "title": "Husband of Tanzania's president dies while undergoing hospital treatment",
+      "description": "Tanzania's President Samia Suluhu Hassan's husband has died while undergoing treatment in Zanzibar",
+      "url": "https://abcnews.com/International/wireStory/husband-tanzanias-president-dies-undergoing-treatment-136250157",
+      "published": "Mon, 07 Sep 2026 08:50:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Husband of Tanzania's president dies while undergoing hospital treatment"
+    },
+    {
+      "title": "Jamaica takes case for reparations for Britain's role in slavery to King Charles III",
+      "description": "Jamaica is pushing for Britain to pay reparations for the trans-Atlantic slave trade",
+      "url": "https://abcnews.com/International/wireStory/jamaica-takes-case-reparations-britains-role-slavery-king-136249552",
+      "published": "Mon, 07 Sep 2026 10:10:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2534,17 +2559,6 @@
       "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
       "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
       "published": "Mon, 07 Sep 2026 06:42:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Jamaica takes case for reparations for Britain's role in slavery to King Charles III",
-      "description": "Jamaica is pushing for Britain to pay reparations for the trans-Atlantic slave trade",
-      "url": "https://abcnews.com/International/wireStory/jamaica-takes-case-reparations-britains-role-slavery-king-136249552",
-      "published": "Mon, 07 Sep 2026 10:10:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2658,17 +2672,6 @@
       "description": "Prisha Mosley's detransition lawsuit against doctors who advised her double mastectomy and hormone therapy heads to a North Carolina appeals court.",
       "url": "https://www.foxnews.com/us/detransitioner-takes-malpractice-fight-appeals-court-north-carolina-law-change",
       "published": "Sat, 05 Sep 2026 13:26:51 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Patrick Clancy speaks out after hung jury in Lindsay Clancy case, addresses prospect of another trial",
-      "description": "Patrick Clancy says enduring another trial would be \"extraordinarily painful\" after a hung jury led to a mistrial in Lindsay Clancy's murder case.",
-      "url": "https://www.foxnews.com/us/patrick-clancy-speaks-hung-jury-lindsay-clancy-case-addresses-prospect-another-trial",
-      "published": "Sat, 05 Sep 2026 08:15:27 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
