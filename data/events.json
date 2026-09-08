@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T11:37:11.391283Z",
+  "last_updated": "2026-09-08T12:26:20.826617Z",
   "event_count": 223,
   "events": [
     {
@@ -29,20 +29,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Nepal rescuers race to free dozens trapped in hydropower tunnels"
-    },
-    {
-      "title": "Rescuers search for people trapped in New Delhi building collapse as death toll rises",
-      "description": "Search and rescue teams are combing through the debris of a collapsed building in New Delhi",
-      "url": "https://abcnews.com/International/wireStory/rescuers-search-people-trapped-new-delhi-building-collapse-136248698",
-      "published": "Mon, 07 Sep 2026 07:06:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 42,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Rescuers search for people trapped in New Delhi building collapse as death toll rises"
     },
     {
       "title": "5 dead after crash at Miami Airport. And, Germany's far-right wins state election",
@@ -113,6 +99,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ As Nepal identifies those killed in the floods, questions grow over China's reporting"
+    },
+    {
+      "title": "Ukraine decries 'horrific' Russian attack shortly after US envoys leave",
+      "description": "Ukraine criticised Russia on Tuesday for launching a major missile and drone attack that killed at least two people shortly after a weekend visit by US envoys to both countries' capitals, where they tried to restart stalled talks on ending the war.",
+      "url": "https://www.france24.com/en/video/20260908-ukraine-decries-horrific-russian-attack-shortly-after-us-envoys-leave",
+      "published": "Tue, 08 Sep 2026 12:19:11 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine decries 'horrific' Russian attack shortly after US envoys leave"
     },
     {
       "title": "Repeated attacks on humanitarian warehouses put vital medical aid at risk in Ukraine: WHO",
@@ -288,17 +288,6 @@
       "ticker_label": "🪖 Russia’s quieter nuclear submarines threaten NATO, former commander warns"
     },
     {
-      "title": "‘House moved like jelly’ says resident near Bolivia barracks blast",
-      "description": "Reports are emerging from the powerful explosion at a military barracks in Bolivia that killed at least nine people.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/aje-onl-nf_nine-killed-in-bolivia-military-base-explosion-080926?traffic_source=rss",
-      "published": "Tue, 08 Sep 2026 04:24:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Nepal’s Gen Z protests one year on",
       "description": "September 8 marks a year since a Gen Z-led violent revolt against corruption in Nepal forced the then prime minister to resign. The protests were triggered when government tried to suspend many prominent social media platforms for failing to comply with new Nepalese A year on, and as the country still grapples with the devastation caused by deadly floods, Morgan Ayre looks back at how Nepal got to this point and the challenges that lie ahead.",
       "url": "https://www.france24.com/en/video/20260908-nepal-s-gen-z-protests-one-year-on",
@@ -369,8 +358,19 @@
       "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people, officials say",
       "description": "Houthi attacks have ignited fires at several oil facilities and utilities in Saudi Arabia’s southern region and wounded more than 70 people",
       "url": "https://abcnews.com/International/wireStory/houthi-attacks-saudi-arabia-wound-73-people-officials-136263886",
-      "published": "Tue, 08 Sep 2026 06:26:13 -0400",
+      "published": "Tue, 08 Sep 2026 06:50:20 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Massive fire engulfs apartment complex under construction, forces evacuations in South Bend",
+      "description": "A massive construction fire engulfed the Stadium Flats apartments in South Bend, Indiana, forcing emergency evacuation of neighboring residents.",
+      "url": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend",
+      "published": "Tue, 08 Sep 2026 07:39:44 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
@@ -419,18 +419,18 @@
       "ticker_label": "🪖 Russia's shadow war is putting Europe on edge as Germany confronts a growing threat"
     },
     {
-      "title": "Nepal holds a day of mourning after floods kill at least 1,300 people",
-      "description": "Nepal is holding a day of mourning to remember those killed in the Aug. 26 floods",
-      "url": "https://abcnews.com/International/wireStory/nepal-holds-day-mourning-after-floods-kill-1300-136248834",
-      "published": "Mon, 07 Sep 2026 10:58:22 -0400",
-      "source": "ABC News International",
+      "title": "Tobacco use can undermine fertility, UN health agency warns",
+      "description": "Smoking very likely makes it harder to have a baby, the UN World Health Organization (WHO) warned in a new publication issued on Tuesday, highlighting that women who smoke have a 40 per cent higher risk of infertility compared to non-smokers.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168290",
+      "published": "Tue, 08 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Nepal holds a day of mourning after floods kill at least 1,300 people"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Tobacco use can undermine fertility, UN health agency warns"
     },
     {
       "title": "Coordinated action on clean air and climate change can net $15 for every dollar spent",
@@ -556,7 +556,7 @@
       "title": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
       "description": "The tariffs will apply to $20bn worth of American products, jeopardising the stability of the world's largest bilateral trading relationship.",
       "url": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 04:39:14 GMT",
+      "published": "Tue, 08 Sep 2026 12:23:22 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -592,6 +592,20 @@
       "ticker_label": "🪖 PISA test reveals alarming drop in reading and math skills"
     },
     {
+      "title": "What to know about Canada’s escalating trade war with the US as Carney retaliates with tariffs",
+      "description": "Canada’s retaliatory tariffs on about $20 billion worth of U.S. goods take effect Tuesday, turning its escalating trade war with President Donald Trump into a test watched far beyond the border: Can a country much smaller than the United States stand u...",
+      "url": "https://abcnews.com/International/wireStory/canadas-escalating-trade-war-us-carney-retaliates-tariffs-136264220",
+      "published": "Tue, 08 Sep 2026 01:20:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 What to know about Canada’s escalating trade war with the US as Carney retaliates with tariffs"
+    },
+    {
       "title": "El Niño is surging. Months of extreme heat could follow",
       "description": "Fuelled by exceptionally warm Pacific waters, the El Niño climate pattern is intensifying and has yet to peak. Forecasters are almost certain it will persist through February 2027 – with unusually warm conditions expected across much of the world in the coming months.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168265",
@@ -610,17 +624,6 @@
       "description": "Massive forest fires have broken out in Turkiye’s popular tourist province of Antalya.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/forest-fires-force-evacuations-near-resorts-in-antalya?traffic_source=rss",
       "published": "Tue, 08 Sep 2026 04:55:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Saudi Arabia says 73 wounded as Houthis attack civilian and energy sites",
-      "description": "Spokesperson for Saudi-led coalition says Houthis have hit civilian sites in Abha, Khamis Mushait, Jizan and Najran.",
-      "url": "https://www.aljazeera.com/news/2026/9/8/houthi-attacks-on-saudi-arabia-have-wounded-73-civilians-official-says?traffic_source=rss",
-      "published": "Tue, 08 Sep 2026 04:26:16 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
@@ -872,20 +875,6 @@
       "ticker_label": "🪖 Trump threatens ban on Bombardier as Canada's retaliatory tariffs kick in"
     },
     {
-      "title": "🔴 Live: At least two killed in Kyiv as Russia renews strikes after three-day pause",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20260908-live-russia-resumes-strikes-on-kyiv-after-three-day-halt",
-      "published": "Tue, 08 Sep 2026 05:25:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 🔴 Live: At least two killed in Kyiv as Russia renews strikes after three-day pause"
-    },
-    {
       "title": "30 years after her death, Gilda embodies Argentina’s enduring faith in folk saints",
       "description": "Thirty years after Argentine cumbia star Gilda died in a tour bus crash, the beloved singer has become something more to many fans: a miracle-working folk saint",
       "url": "https://abcnews.com/International/wireStory/30-years-after-death-gilda-embodies-argentinas-enduring-136264610",
@@ -979,31 +968,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia pounds Kyiv, ending three-day halt for US talks"
-    },
-    {
-      "title": "A Philippine lawmaker charged with corruption in flood control projects",
-      "description": "A Philippine lawmaker has been arrested for allegedly pocketing millions from flood control projects",
-      "url": "https://abcnews.com/International/wireStory/philippine-lawmaker-charged-corruption-flood-control-projects-136250057",
-      "published": "Mon, 07 Sep 2026 09:46:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ A Philippine lawmaker charged with corruption in flood control projects"
-    },
-    {
-      "title": "North Korea adds 2nd naval destroyer as US, South Korea and Japan hold military drill",
-      "description": "North Korea says leader Kim Jong Un has put his second naval destroyer into service and called for building a more reliable nuclear deterrent",
-      "url": "https://abcnews.com/International/wireStory/north-korea-commissions-2nd-naval-destroyer-us-south-136246537",
-      "published": "Mon, 07 Sep 2026 11:06:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Nepal floods leave 22,000 children without safe water: UNICEF",
@@ -1153,6 +1117,20 @@
       "ticker_label": "🪖 Thousands turn out in Serbia for funeral of  'Butcher of Bosnia' Ratko Mladić"
     },
     {
+      "title": "Israeli forces kill Palestinian man and withhold his body near Nablus",
+      "description": "Israeli forces shot and killed a Palestinian man amid raids and arrests across the occupied West Bank.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+      "published": "Tue, 08 Sep 2026 11:29:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Israeli forces kill Palestinian man and withhold his body near Nablus"
+    },
+    {
       "title": "Saudi political analyst says ‘No prolonged war with the Houthis’",
       "description": "Khaled Batarfi, a Saudi political analyst, says the war with the Houthis will not be ‘prolonged’.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/saudi-political-analyst-says-no-prolonged-war-with-the?traffic_source=rss",
@@ -1295,18 +1273,54 @@
       "is_ticker": false
     },
     {
-      "title": "Repression of political opposition surges in post-election Zambia",
-      "description": "Following Zambia’s contested presidential and parliamentary elections almost three weeks ago, the crackdown on political opposition has intensified, raising concerns about the future of democracy in the country, according to a UN Human Rights Council-appointed expert.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168267",
-      "published": "Wed, 02 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Police arrest suspect in Germany power grid attacks after dayslong search",
+      "description": "Police have arrested a suspect in connection with a series of attacks on power distribution systems across Germany",
+      "url": "https://abcnews.com/International/wireStory/police-arrest-suspect-germany-power-grid-attacks-after-136269467",
+      "published": "Tue, 08 Sep 2026 08:12:02 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "EU leaders condemn Serbia's funeral honors for Ratko Mladic, raising doubts over membership bid",
+      "description": "Top European Union officials say they are shocked by hero’s funeral Serbia gave to Ratko Mladic, the Bosnian Serb general who died while serving a life sentence for war crimes",
+      "url": "https://abcnews.com/International/wireStory/eu-leaders-condemn-serbias-funeral-honors-ratko-mladic-136267817",
+      "published": "Tue, 08 Sep 2026 08:18:23 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Repression of political opposition surges in post-election Zambia"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 EU leaders condemn Serbia's funeral honors for Ratko Mladic, raising doubts over membership bid"
+    },
+    {
+      "title": "Zelenskyy says US envoys have 'very good' ideas to end Russia's war on Ukraine",
+      "description": "Ukrainian President Volodymyr Zelenskyy says U.S. envoys visiting Kyiv have presented promising ideas for ending the war with Russia",
+      "url": "https://abcnews.com/International/wireStory/russian-drone-missile-strikes-ukrainian-capital-kill-2-136265341",
+      "published": "Tue, 08 Sep 2026 08:18:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelenskyy says US envoys have 'very good' ideas to end Russia's war on Ukraine"
+    },
+    {
+      "title": "4 family members flying from Bahamas to Florida in small plane go missing, with Coast Guard joining search",
+      "description": "Four Florida family members remain missing on Tuesday after their plane vanished while traveling home from the Bahamas over Labor Day weekend.",
+      "url": "https://www.foxnews.com/us/4-family-members-flying-bahamas-florida-small-plane-missing-coast-guard-joining-search",
+      "published": "Tue, 08 Sep 2026 08:09:58 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Texas education board approves controversial curriculum changes tying 'radical Islam' to 9/11 attacks",
@@ -1453,20 +1467,6 @@
       "is_ticker": false
     },
     {
-      "title": "German chancellor faces pressure after far-right party wins in state election",
-      "description": "German Chancellor Friedrich Merz has doubled down on pushing through unpopular reforms to Europe’s largest economy after a far-right party surged to a landslide victory in a regional election, with a very good chance of forming the first far-right stat...",
-      "url": "https://abcnews.com/International/wireStory/german-chancellor-faces-pressure-after-afd-party-wins-136249211",
-      "published": "Tue, 08 Sep 2026 02:34:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ German chancellor faces pressure after far-right party wins in state election"
-    },
-    {
       "title": "Kenya offers amnesty for migrants after Burundians rush to leave",
       "description": "Government spokesman urges undocumented nationals from other East African countries to formally register at embassies.",
       "url": "https://www.aljazeera.com/news/2026/9/8/kenya-offers-amnesty-for-migrants-after-burundians-rush-to-leave?traffic_source=rss",
@@ -1500,17 +1500,6 @@
       "is_ticker": false
     },
     {
-      "title": "German police arrest suspect in power grid sabotage case — reports",
-      "description": "Investigators say the suspect used homemade rockets and conductive wire to target high-voltage lines in three German states, apparently as part of a campaign against fossil fuels.",
-      "url": "https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case-reports/a-79161142?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 8 Sep 2026 10:54:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Paris looks to profit as Céline Dion fans flock to French capital",
       "description": "Céline Dion’s hotly anticipated return to the stage is scheduled for this Saturday in Paris - the first of more than 16 concerts in the French capital in September and October. The shows mark a major milestone for 58-year-old Dion after years away from touring due to the rare neurological disorder. A total of 500,000 spectators are expected in Paris - a huge windfall for the economy, especially for the hotel, restaurant, and transport industries.",
       "url": "https://www.france24.com/en/video/20260908-paris-looks-to-profit-as-c%C3%A9line-dion-fans-flock-to-french-capital",
@@ -1533,18 +1522,15 @@
       "is_ticker": false
     },
     {
-      "title": "Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children",
-      "description": "Lebanon’s Health Ministry says Israel’s air force carried out two strikes early Monday on a southern Lebanese village, killing at least nine people, including children",
-      "url": "https://abcnews.com/International/wireStory/israeli-airstrikes-village-southern-lebanon-kill-12-people-136249459",
-      "published": "Tue, 08 Sep 2026 03:06:14 -0400",
+      "title": "Hungary orders 10 Russian diplomats to leave country over 'unacceptable' activities",
+      "description": "Hungary has ordered 10 Russian diplomats to leave the country over activities deemed unacceptable",
+      "url": "https://abcnews.com/International/wireStory/hungary-orders-10-russian-diplomats-leave-country-activities-136266498",
+      "published": "Tue, 08 Sep 2026 08:10:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli airstrikes on a village in southern Lebanon kill 12 people, including 2 children"
+      "is_ticker": false
     },
     {
       "title": "Iran increases gasoline price for its heaviest consumers as economy struggles",
@@ -1575,12 +1561,26 @@
       "title": "Investigation after female staff at Eiffel Tower replaced by men for religious visit",
       "description": "The move saw outraged staff walk off the job on Monday, closing the French landmark for a day.",
       "url": "https://www.bbc.co.uk/news/articles/clyenxp540vo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 11:00:10 GMT",
+      "published": "Tue, 08 Sep 2026 11:38:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?",
+      "description": "Saudi Arabia promises firm retaliation after Houthi strikes injure 73 and disrupt energy facilities in southern cities.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/saudi-houthi-fighting-in-yemen-escalates-what-happened-and-whats-next?traffic_source=rss",
+      "published": "Tue, 08 Sep 2026 11:40:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Saudi-Houthi fighting in Yemen escalates: What happened, and what’s next?"
     },
     {
       "title": "Eiffel Tower reopens after protest over removing women staff",
@@ -1666,24 +1666,10 @@
       "ticker_label": "✈️ Black box recorders recovered from Amazon plane crash as more details emerge"
     },
     {
-      "title": "UK government condemns anti-immigrant demonstrators after Channel crossing protests",
-      "description": "The British government has condemned the \"intimidating and thuggish behavior\" of anti-immigrant demonstrators who tried to prevent migrants arriving in southern England",
-      "url": "https://abcnews.com/International/wireStory/uk-government-condemns-anti-immigrant-demonstrators-after-channel-136249780",
-      "published": "Mon, 07 Sep 2026 06:07:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 UK government condemns anti-immigrant demonstrators after Channel crossing protests"
-    },
-    {
       "title": "Eiffel Tower reopens after strike over limits on women staff during Hindu delegation visit",
       "description": "The Eiffel Tower has reopened to the public after a strike closed it for a day",
       "url": "https://abcnews.com/International/wireStory/eiffel-tower-reopens-after-strike-limits-women-staff-136266886",
-      "published": "Tue, 08 Sep 2026 06:26:58 -0400",
+      "published": "Tue, 08 Sep 2026 08:18:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1763,6 +1749,17 @@
       "is_ticker": false
     },
     {
+      "title": "German police arrest suspect in power grid sabotage case",
+      "description": "Investigators say the suspect used homemade rockets and conductive wire to target high-voltage lines in three German states, apparently as part of a campaign against fossil fuels.",
+      "url": "https://www.dw.com/en/german-police-arrest-suspect-in-power-grid-sabotage-case/a-79161142?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 8 Sep 2026 10:54:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Saxony-Anhalt: Germany wakes up to 'unsettling' AfD victory",
       "description": "The far-right Alternative for Germany (AfD) party won the Saxony-Anhalt state election but without an absolute majority in parliament. Other European nations were wrestling with the impact of the results. Follow DW.",
       "url": "https://www.dw.com/en/saxony-anhalt-germany-wakes-up-to-unsettling-afd-victory/live-78754934?maca=en-rss-en-all-1573-xml-mrss",
@@ -1789,6 +1786,17 @@
       "description": "A former Nicaraguan paramilitary faces possible deportation from the U.S. after being detained by immigration authorities",
       "url": "https://abcnews.com/International/wireStory/former-nicaraguan-paramilitary-faces-deportation-statelessness-after-ice-136267282",
       "published": "Tue, 08 Sep 2026 07:28:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "German vote shows rise of far right in Europe, but it hasn’t been a steady march",
+      "description": "The victory of a far-right party in a German state election has raised alarm across Europe",
+      "url": "https://abcnews.com/International/wireStory/german-vote-shows-rise-europe-hasnt-steady-march-136266267",
+      "published": "Tue, 08 Sep 2026 07:22:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1839,6 +1847,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
+      "description": "With the left-wing coalition ahead in polling, the current right-wing government's policies could soon be up for debate.",
+      "url": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss",
+      "published": "Tue, 08 Sep 2026 11:21:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1975,6 +1994,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ancient Roman fresco and mosaic featuring maritime city unveiled at Baths of Trajan",
+      "description": "Authorities in Rome have unveiled what is believed to be the largest fresco and mosaic complex of ancient Rome",
+      "url": "https://abcnews.com/International/wireStory/ancient-roman-fresco-mosaic-featuring-maritime-city-unveiled-136270226",
+      "published": "Tue, 08 Sep 2026 08:24:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "New reservoir offers innovative solution to South Sudan cattle beef",
       "description": "At the end of a history-laden path winding through palm trees and scattered ruins – remnants of once-vibrant villages destroyed by cattle raids – lies a rare sight in this dry part of Terekeka county in South Sudan: a sparkling, fresh water source.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168266",
@@ -1997,7 +2027,7 @@
       "is_ticker": false
     },
     {
-      "title": "Argentina targets oil company operating in Falklands",
+      "title": "Argentina to file criminal case against oil company operating in Falklands",
       "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 11:09:54 GMT",
@@ -2008,8 +2038,8 @@
       "is_ticker": false
     },
     {
-      "title": "Trial over alleged murders of Australian surfer brothers starts in Mexico",
-      "description": "The bodies of Jake and Callum Robinson and their US friend were found with gunshot wounds to their heads.",
+      "title": "Trial over killing of Australian surfer brothers and US friend starts in Mexico",
+      "description": "The bodies of Jake and Callum Robinson and their US friend Carter Rhoad were found at the bottom of a well with gunshot wounds.",
       "url": "https://www.bbc.co.uk/news/articles/crernpv433vo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 08 Sep 2026 01:32:56 GMT",
       "source": "BBC News",
@@ -2139,17 +2169,6 @@
       "description": "Zheng Qinwen beats Iga Swiatek; Coco Gauff, Elena Rybakina also reach quarterfinals. Alexander Zverev through in men's.",
       "url": "https://www.aljazeera.com/sports/2026/9/8/us-open-zheng-in-5-0-comeback-gauff-rybakina-zverev-also-reach-quarters?traffic_source=rss",
       "published": "Tue, 08 Sep 2026 06:58:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Polls suggest tight presidential race as Brazil marks Independence Day",
-      "description": "Brazil has marked Independence Day with the two main candidates for October’s presidential election holding events.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/8/polls-suggest-tight-presidential-race-as-brazil-marks-independence-day?traffic_source=rss",
-      "published": "Tue, 08 Sep 2026 04:29:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2432,6 +2451,17 @@
       "is_ticker": false
     },
     {
+      "title": "Who are the Hindu group cited in Eiffel Tower staff walk out?",
+      "description": "The Eiffel Tower reopened on Tuesday after staff walked out over the removal of women colleagues during a visit by a Hindu religious group. The Bochasanwasi Akshar Purushottam Swaminarayan Sanstha (BAPS) spiritual movement later apologised for \"any pain or inconvenience caused\" by the incident. France 24’s Delano D’Souza takes a closer look.",
+      "url": "https://www.france24.com/en/video/20260908-who-are-the-hindu-group-cited-in-eiffel-tower-staff-walk-out",
+      "published": "Tue, 08 Sep 2026 12:17:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "'Pheromone maxxing': Men avoid showers before dates to boost attraction",
       "description": "PRESS REVIEW – Tuesday, September 8: Papers discuss UK sanctions on Israeli settlements in the West Bank. Also, could AI change what it means to be human? Finally, \"pheromone maxxing\" is in; showers are out.",
       "url": "https://www.france24.com/en/tv-shows/press-review/20260908-pheromone-maxxing-men-avoid-showers-before-dates-to-boost-attraction",
@@ -2476,17 +2506,6 @@
       "is_ticker": false
     },
     {
-      "title": "Before Champions League, Kylian Mbappé campaigns for Ballon d'Or",
-      "description": "As the Champions League resumes, Real Madrid are hosting Inter Milan. Speaking at a press conference, Kylian Mbappé believes he has every chance of winning the Ballon d’Or.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20260908-before-champions-league-kylian-mbapp%C3%A9-campaigns-for-ballon-d-or",
-      "published": "Tue, 08 Sep 2026 05:22:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "EU to invest £171m in Greenland amid Trump tensions",
       "description": "The EU is to invest €200m (£171m) in Greenland to improve relations with the Arctic island amid tensions caused by Donald Trump's demands that the territory be handed over to the US.",
       "url": "https://news.sky.com/story/greenland-to-get-huge-eu-investment-to-improve-relations-amid-trump-tensions-13582803",
@@ -2509,10 +2528,35 @@
       "is_ticker": false
     },
     {
-      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
-      "description": "Russia’s Foreign Ministry has announced the closure of the German consulate in St. Petersburg",
-      "url": "https://abcnews.com/International/wireStory/russia-announces-closure-german-consulate-st-petersburg-136254797",
-      "published": "Mon, 07 Sep 2026 12:34:17 -0400",
+      "title": "Mexico trial begins of men charged with killing of Australian surfers and American",
+      "description": "Three men are on trial in Mexico for the 2024 murders of two Australian brothers and their American friend",
+      "url": "https://abcnews.com/International/wireStory/mexico-trial-begins-men-charged-killing-australian-surfers-136265161",
+      "published": "Tue, 08 Sep 2026 05:22:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US sinks an Ecuadorian boat in the Pacific it alleges is tied to drug trafficking",
+      "description": "The U.S. Southern Command has sunk another Ecuadorian vessel that the U.S. alleged was linked to the criminal group Los Choneros",
+      "url": "https://abcnews.com/International/wireStory/us-sinks-ecuadorian-boat-pacific-alleges-tied-drug-136262785",
+      "published": "Tue, 08 Sep 2026 02:34:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 US sinks an Ecuadorian boat in the Pacific it alleges is tied to drug trafficking"
+    },
+    {
+      "title": "Pope returns to sanctuary where he prayed after election and unveils a fresco depicting the event",
+      "description": "Pope Leo XIV has returned to a sanctuary where he prayed just after his election",
+      "url": "https://abcnews.com/International/wireStory/pope-returns-sanctuary-prayed-after-election-unveils-fresco-136257345",
+      "published": "Mon, 07 Sep 2026 19:19:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2531,10 +2575,10 @@
       "is_ticker": false
     },
     {
-      "title": "EU chief unveils $232M Greenland package as tensions heighten with Trump claims",
-      "description": "The European Union is promising Greenland a stronger partnership and hundreds of millions of euros in investment",
-      "url": "https://abcnews.com/International/wireStory/eu-chief-unveils-232-million-greenland-package-tensions-136252951",
-      "published": "Mon, 07 Sep 2026 21:14:17 -0400",
+      "title": "Russia shuts German consulate in St. Petersburg in tit-for-tat move after Leipzig drone incident",
+      "description": "Russia’s Foreign Ministry has announced the closure of the German consulate in St. Petersburg",
+      "url": "https://abcnews.com/International/wireStory/russia-announces-closure-german-consulate-st-petersburg-136254797",
+      "published": "Mon, 07 Sep 2026 12:34:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2542,22 +2586,11 @@
       "is_ticker": false
     },
     {
-      "title": "Germany fights Gaza genocide claims at the top UN court",
-      "description": "Germany has told the United Nations’ top court that a genocide case over weapons sales to Israel was improperly filed by Nicaragua and should be thrown out",
-      "url": "https://abcnews.com/International/wireStory/germany-fights-gaza-genocide-claims-uns-top-court-136248422",
-      "published": "Mon, 07 Sep 2026 06:42:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Jamaica takes case for reparations for Britain's role in slavery to King Charles III",
-      "description": "Jamaica is pushing for Britain to pay reparations for the trans-Atlantic slave trade",
-      "url": "https://abcnews.com/International/wireStory/jamaica-takes-case-reparations-britains-role-slavery-king-136249552",
-      "published": "Mon, 07 Sep 2026 10:10:29 -0400",
-      "source": "ABC News International",
+      "title": "President Trump's move just before the midterms looks to defy historic trend and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/president-trumps-move-just-before-midterms-looks-defy-historic-trend-more-top-headlines",
+      "published": "Tue, 08 Sep 2026 07:34:55 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2601,39 +2634,6 @@
       "description": "Three Roseville hikers used Google's Gemini AI to plan a Mount Shasta climb but ended up stranded overnight in a steep canyon, authorities said.",
       "url": "https://www.foxnews.com/us/hikers-stranded-mount-shasta-relying-ai-plan-trip-sheriff-says",
       "published": "Sun, 06 Sep 2026 13:34:51 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Missouri foster mom accused of trading teen for monkey avoids prison",
-      "description": "Brenda Deutsch received a suspended sentence after allegedly trading a foster teen for a monkey, as the judge called her actions reprehensible.",
-      "url": "https://www.foxnews.com/us/missouri-foster-mom-accused-trading-teen-monkey-avoids-prison",
-      "published": "Sun, 06 Sep 2026 12:32:59 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Texas deputy screams and runs after 'dead' deer springs to feet in viral encounter",
-      "description": "The viral video has racked up over 10 million views as an East Texas sheriff's deputy discovers a motionless doe is very much alive during a night shift, a sheriff said.",
-      "url": "https://www.foxnews.com/us/texas-deputy-screams-runs-dead-deer-springs-feet-viral-encounter",
-      "published": "Sun, 06 Sep 2026 11:31:23 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Karmelo Anthony seeks $250K for murder appeal as questions persist over family’s previous $634K fundraiser",
-      "description": "Karmelo Anthony's family launches a new $250,000 GiveSendGo appeal fund after a previous campaign raised nearly $634,000 and sparked spending questions.",
-      "url": "https://www.foxnews.com/us/karmelo-anthony-seeks-250k-murder-appeal-questions-persist-familys-previous-634k-fundraiser",
-      "published": "Sun, 06 Sep 2026 06:00:35 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
