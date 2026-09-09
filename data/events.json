@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-09T09:19:54.528664Z",
+  "last_updated": "2026-09-09T09:40:34.954926Z",
   "event_count": 222,
   "events": [
     {
@@ -299,20 +299,6 @@
       "ticker_label": "🪖 Why US-Iran war over Hormuz is threatening the Gulf’s waters"
     },
     {
-      "title": "EU warns of new menace 25 years after 9/11 as online youths seek violent thrills",
-      "description": "Jihadist groups still pose a major threat to Europe, but 25 years after the 9/11 attacks a new menace driven by young people online is emerging",
-      "url": "https://abcnews.com/International/wireStory/eu-warns-chilling-new-terror-menace-25-years-136264885",
-      "published": "Tue, 08 Sep 2026 03:09:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 EU warns of new menace 25 years after 9/11 as online youths seek violent thrills"
-    },
-    {
       "title": "Massive fire engulfs apartment complex under construction, forces evacuations in South Bend",
       "description": "A massive construction fire engulfed the Stadium Flats apartments in South Bend, Indiana, forcing emergency evacuation of neighboring residents.",
       "url": "https://www.foxnews.com/us/massive-fire-engulfs-apartment-complex-construction-forces-evacuations-south-bend",
@@ -347,6 +333,20 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Man shot dead in Sydney community centre carpark",
+      "description": "NSW police say a vehicle was seen driving away from the scene in Punchbowl in the city’s south-west A man has been shot dead in a carpark of a Sydney community centre in the city’s south-west. Emergency services were called to the community centre on Rossmore Avenue, in Punchbowl on Wednesday evening, following reports of a shooting. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/man-shot-dead-in-sydney-community-centre-carpark-ntwnfb",
+      "published": "Wed, 09 Sep 2026 09:14:03 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Man shot dead in Sydney community centre carpark"
     },
     {
       "title": "Eiffel Tower row over Hindu sect BAPS unites French politicians – but divides Indian diaspora",
@@ -451,17 +451,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Oil hits $100 a barrel for first time since July after flare up in US-Iran conflict",
-      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
-      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 09:03:41 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -630,20 +619,6 @@
       "is_ticker": false
     },
     {
-      "title": "UK announces trade sanctions on Israeli settlements in occupied West Bank",
-      "description": "Foreign Secretary Ed Miliband said the measures were in response to what he called \"settler terrorism\" in the occupied territories. The measures are part of the UK's efforts to support a two-state solution.",
-      "url": "https://www.dw.com/en/uk-announces-trade-sanctions-on-israeli-settlements-in-occupied-west-bank/a-79155051?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 8 Sep 2026 12:46:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 UK announces trade sanctions on Israeli settlements in occupied West Bank"
-    },
-    {
       "title": "‘Advance safety for all’: International police cooperation helps tackle cross-border crime",
       "description": "As criminal networks increasingly exploit weak institutions and operate across borders, the UN says no police force can tackle them alone.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168280",
@@ -653,6 +628,20 @@
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Oil hits $100 a barrel for first time since July after US and Houthi strikes",
+      "description": "Brent crude - the global benchmark for prices - rises after the US hit five Iranian tankers on Tuesday",
+      "url": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 09:28:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Oil hits $100 a barrel for first time since July after US and Houthi strikes"
     },
     {
       "title": "Singapore boosts PM’s salary by $1m amid major pay rise for ministers",
@@ -681,6 +670,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 The US now has access to more than half Australia’s military bases – could it drag the country unwillingly into war?"
+    },
+    {
+      "title": "UK rules out cyberattack after major flight disruptions",
+      "description": "Airports across the UK continue to face delays and cancellations after a flight processing system failure. The UK's transport secretary has summoned the CEO of National Air Traffic Services (NATS) for an explanation.",
+      "url": "https://www.dw.com/en/uk-rules-out-cyberattack-after-major-flight-disruptions/a-79197818?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 9 Sep 2026 09:22:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Trafficked into fraud: An African crisis situation in Cambodia",
@@ -733,10 +733,10 @@
       "ticker_label": "🪖 Hungary orders 10 Russian diplomats to leave country over 'unacceptable' activities"
     },
     {
-      "title": "US slaps import ban on Canadian alcohol, motorbikes and other goods",
-      "description": "It is the latest strike in a long trade war, and comes as Canadian counter-tariffs on US goods come into force.",
+      "title": "US to ban imports of some Canadian alcohol, dairy goods and motorbikes",
+      "description": "It is the latest strike in a long trade war, and comes after Canadian counter-tariffs on US goods come into force.",
       "url": "https://www.bbc.co.uk/news/articles/c99dm1000p7o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 06:28:57 GMT",
+      "published": "Wed, 09 Sep 2026 09:21:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
@@ -744,7 +744,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 US slaps import ban on Canadian alcohol, motorbikes and other goods"
+      "ticker_label": "🪖 US to ban imports of some Canadian alcohol, dairy goods and motorbikes"
     },
     {
       "title": "Russian drone attack kills two at Ukraine-Moldova border crossing",
@@ -775,20 +775,6 @@
       "ticker_label": "🪖 US strikes oil tankers off coast of Iran"
     },
     {
-      "title": "30 years after her death, Gilda embodies Argentina’s enduring faith in folk saints",
-      "description": "Thirty years after Argentine cumbia star Gilda died in a tour bus crash, the beloved singer has become something more to many fans: a miracle-working folk saint",
-      "url": "https://abcnews.com/International/wireStory/30-years-after-death-gilda-embodies-argentinas-enduring-136264610",
-      "published": "Tue, 08 Sep 2026 01:54:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 30 years after her death, Gilda embodies Argentina’s enduring faith in folk saints"
-    },
-    {
       "title": "Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan",
       "description": "The mayor of Nagoya says athletes who’ve arrived early for the Asian Games were unharmed by extensive flooding that hit the central Japanese city",
       "url": "https://abcnews.com/International/wireStory/asian-games-venues-athletes-unharmed-extensive-flooding-nagoya-136294388",
@@ -801,17 +787,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan"
-    },
-    {
-      "title": "Houthi attacks on Saudi Arabia ignite fires at oil facilities and wound 73 people",
-      "description": "The Iranian-backed Houthi rebels in Yemen have launched attacks on Saudi Arabia, wounding over 70 people and igniting fires at oil facilities",
-      "url": "https://abcnews.com/International/wireStory/houthi-attacks-saudi-arabia-wound-73-people-officials-136263886",
-      "published": "Tue, 08 Sep 2026 09:30:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "In Gaza, women-headed households face ‘impossible choices’ to survive",
@@ -1138,20 +1113,6 @@
       "ticker_label": "🪖 Russia and North Korea open first road bridge across their shared border"
     },
     {
-      "title": "Trump administration to confront Australia over Labor’s social media algorithm plan",
-      "description": "White House warns trading partners against ‘imposing digital services taxes, fines, and other forms of extortion’ on US tech sector Follow our Australia news live blog for latest updates Get our new political email , free app or daily news podcast The Trump administration will confront Australia over its plan to force digital platforms to take down harmful content and let users opt out of algorithm-generated “for you” feeds. Big tech companies would be fined more than $100m for breaching the proposed laws and the Australian government is under pressure to raise those fines even further. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/09/trump-administration-to-confront-australia-over-labors-social-media-algorithm-plan",
-      "published": "Wed, 09 Sep 2026 06:51:08 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump administration to confront Australia over Labor’s social media algorithm plan"
-    },
-    {
       "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
       "description": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
       "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
@@ -1219,6 +1180,31 @@
       "ticker_label": "🪖 Trump tells Putin he wants swift end to Ukraine war, Kremlin says"
     },
     {
+      "title": "Gunman shoots and kills a teacher at a kindergarten in eastern Thailand",
+      "description": "A gunman has shot and killed a teacher inside a kindergarten in eastern Thailand",
+      "url": "https://abcnews.com/International/wireStory/gunman-shoots-kills-teacher-kindergarten-eastern-thailand-136294980",
+      "published": "Wed, 09 Sep 2026 04:47:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Gunman shoots and kills a teacher at a kindergarten in eastern Thailand"
+    },
+    {
+      "title": "Police arrest suspect in Germany power grid attacks after dayslong search",
+      "description": "Police have arrested a suspect in connection with a series of attacks on power distribution systems across Germany",
+      "url": "https://abcnews.com/International/wireStory/police-arrest-suspect-germany-power-grid-attacks-after-136269467",
+      "published": "Tue, 08 Sep 2026 08:18:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "EU leaders condemn Serbia's funeral honors for Ratko Mladic, raising doubts over membership bid",
       "description": "Top European Union officials say they are shocked by hero’s funeral Serbia gave to Ratko Mladic, the Bosnian Serb general who died while serving a life sentence for war crimes",
       "url": "https://abcnews.com/International/wireStory/eu-leaders-condemn-serbias-funeral-honors-ratko-mladic-136267817",
@@ -1231,17 +1217,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 EU leaders condemn Serbia's funeral honors for Ratko Mladic, raising doubts over membership bid"
-    },
-    {
-      "title": "Police arrest suspect in Germany power grid attacks after dayslong search",
-      "description": "Police have arrested a suspect in connection with a series of attacks on power distribution systems across Germany",
-      "url": "https://abcnews.com/International/wireStory/police-arrest-suspect-germany-power-grid-attacks-after-136269467",
-      "published": "Tue, 08 Sep 2026 08:18:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Putin assures Trump that Moscow doesn’t have aggressive plans toward Europe, Kremlin says",
@@ -1782,6 +1757,17 @@
       "description": "A former Nicaraguan paramilitary faces possible deportation from the U.S. after being detained by immigration authorities",
       "url": "https://abcnews.com/International/wireStory/former-nicaraguan-paramilitary-faces-deportation-statelessness-after-ice-136267282",
       "published": "Tue, 08 Sep 2026 07:28:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "German vote shows rise of far right in Europe, but it hasn’t been a steady march",
+      "description": "The victory of a far-right party in a German state election has raised alarm across Europe",
+      "url": "https://abcnews.com/International/wireStory/german-vote-shows-rise-europe-hasnt-steady-march-136266267",
+      "published": "Tue, 08 Sep 2026 07:22:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -2469,17 +2455,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump's map-making on social media stirs controversy in North Atlantic",
-      "description": "President Donald Trump's recent social media map-making posts have stirred tension in the North Atlantic",
-      "url": "https://abcnews.com/International/wireStory/trumps-map-making-social-media-stirs-controversy-north-136273860",
-      "published": "Tue, 08 Sep 2026 10:37:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Norway to bid farewell to King Harald V with funeral attended by royalty, dignitaries",
       "description": "Norway will bid its final farewell to King Harald V with a funeral paying tribute to the 35-year reign of the popular monarch who died on Aug. 28, aged 89",
       "url": "https://abcnews.com/International/wireStory/norway-bid-final-farewell-king-harald-funeral-attended-136294087",
@@ -2494,10 +2469,10 @@
       "ticker_label": "💥 Norway to bid farewell to King Harald V with funeral attended by royalty, dignitaries"
     },
     {
-      "title": "US sinks an Ecuadorian boat in the Pacific it alleges is tied to drug trafficking",
-      "description": "The U.S. Southern Command has sunk another Ecuadorian vessel that the U.S. alleged was linked to the criminal group Los Choneros",
-      "url": "https://abcnews.com/International/wireStory/us-sinks-ecuadorian-boat-pacific-alleges-tied-drug-136262785",
-      "published": "Tue, 08 Sep 2026 02:34:54 -0400",
+      "title": "Tung Chee-hwa, Hong Kong's first post-colonial leader, dies at age 89",
+      "description": "Hong Kong’s first post-handover leader, Tung Chee-hwa, has died at age 89",
+      "url": "https://abcnews.com/International/wireStory/tung-chee-hwa-hong-kongs-post-colonial-leader-136279919",
+      "published": "Tue, 08 Sep 2026 14:15:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2505,7 +2480,29 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 US sinks an Ecuadorian boat in the Pacific it alleges is tied to drug trafficking"
+      "ticker_label": "💥 Tung Chee-hwa, Hong Kong's first post-colonial leader, dies at age 89"
+    },
+    {
+      "title": "Trump's map-making on social media stirs controversy in North Atlantic",
+      "description": "President Donald Trump's recent social media map-making posts have stirred tension in the North Atlantic",
+      "url": "https://abcnews.com/International/wireStory/trumps-map-making-social-media-stirs-controversy-north-136273860",
+      "published": "Tue, 08 Sep 2026 10:37:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope’s visit to France likely to attract 1M people, with Mass and vigil in Paris and Lourdes trip",
+      "description": "Pope Leo XIV will visit France later this month, with the Bishops’ Conference of France (CEF) expecting over 1 million people to attend",
+      "url": "https://abcnews.com/International/wireStory/popes-visit-france-attract-1m-people-mass-vigil-136273045",
+      "published": "Tue, 08 Sep 2026 10:37:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Ebola response in eastern DR Congo must include food assistance, WFP says",
