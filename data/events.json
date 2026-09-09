@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T20:37:50.005372Z",
-  "event_count": 212,
+  "last_updated": "2026-09-09T21:13:22.916662Z",
+  "event_count": 222,
   "events": [
     {
       "title": "Weather tracker: Typhoon Saudel causes mass evacuations in south-east China",
@@ -205,20 +205,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Volunteer firefighter dies in Turkey while tackling wildfire, 8 people injured"
-    },
-    {
-      "title": "Victims identified in fatal Amazon cargo jet crash at Miami airport",
-      "description": "Five victims were identified after Amazon Air Flight 7598 overran the Miami International Airport runway, crashing into vehicles beyond the pavement.",
-      "url": "https://www.foxnews.com/us/victims-identified-fatal-amazon-cargo-jet-crash-miami-airport",
-      "published": "Tue, 08 Sep 2026 13:53:03 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Victims identified in fatal Amazon cargo jet crash at Miami airport"
     },
     {
       "title": "US sinks another 'floating refueling station' linked to 'narco-terrorist' group",
@@ -745,6 +731,20 @@
       "ticker_label": "💥 ‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies"
     },
     {
+      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+      "description": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+      "published": "Wed, 09 Sep 2026 01:20:45 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship"
+    },
+    {
       "title": "Serbia, the conflicted EU candidate",
       "description": "On paper, Belgrade has pursued EU membership for years. But accession has long been stalled. The hero's farewell given to war criminal Mladic exposed just how far Serbia has alienated itself from Europe.",
       "url": "https://www.dw.com/en/serbia-the-conflicted-eu-candidate/a-79203774?maca=en-rss-en-all-1573-xml-mrss",
@@ -1078,11 +1078,33 @@
       "ticker_label": "🪖 Hijacking pirates exploit regional chaos to return to seas off Somalia"
     },
     {
+      "title": "Citing the 'Deep State,' Trump overhauls the intelligence community",
+      "description": "The catastrophic 9/11 attacks forced the intelligence community to radically revamp its ways of doing business. Now, critics say, President Trump is dismantling much of what was built since then.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5955756/deep-state-trump-9-11-national-intelligence",
+      "published": "Wed, 09 Sep 2026 05:00:00 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "'You're not alone in the darkness': Gambia president urges calm after violent blackout protests",
       "description": "The country has faced persistent blackouts since June, with some lasting up to 48 hours, residents say.",
       "url": "https://www.bbc.co.uk/news/articles/cgmr22kpd9yo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 06:42:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+      "description": "Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+      "published": "Wed, 09 Sep 2026 20:53:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
@@ -1158,32 +1180,24 @@
       "is_ticker": false
     },
     {
-      "title": "'Constantly on my mind' - 9/11 agony endures for bereaved, 25 years on",
-      "description": "As the 25th anniversary approaches, the wait for the alleged mastermind of the attack to be put on trial goes on.",
-      "url": "https://www.bbc.co.uk/news/articles/clyrjw1yj75o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 08 Sep 2026 23:11:32 GMT",
-      "source": "BBC News",
+      "title": "Trump says Putin wants to make a deal to end Ukraine war",
+      "description": "US President Donald Trump says Russian President Putin wants a deal to end the war in Ukraine.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-putin-wants-to-make-a-deal-to-end-ukraine-war?traffic_source=rss",
+      "published": "Wed, 09 Sep 2026 20:56:05 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump says Putin wants to make a deal to end Ukraine war"
     },
     {
       "title": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
       "description": "Only 12 of Gaza's 34 oxygen-generation stations remain operational, worsening the health crisis in the besieged enclave.",
       "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
       "published": "Wed, 09 Sep 2026 18:40:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Back to work, not school: Yemen’s crisis forces children to drop out",
-      "description": "Struggling families in Yemen are forced to choose between education and survival amid mounting economic challenges.",
-      "url": "https://www.aljazeera.com/features/2026/9/9/back-work-not-school-yemen-crisis-forces-children-drop-out?traffic_source=rss",
-      "published": "Wed, 09 Sep 2026 17:57:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
@@ -1239,6 +1253,42 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia and North Korea open first road bridge across their shared border"
+    },
+    {
+      "title": "Politics live: Kevin Rudd urges more multilateral diplomacy; UK hopeful Australia will join West Bank trade ban",
+      "description": "Follow the day’s news live Victoria has highest rate of car theft and home burglary claims in ICA data Melbourne recorded more insurance claims for stolen and broken-into cars than all other Australian capital cities combined, according to data analysis by the Insurance Council of Australia. The insurance data shows Victoria has a crime problem, and it is being felt directly by households, businesses and communities. I think it was hoped that they might but, you know, all countries have their own decisions to make. We all want the same thing and nobody says this is easy. I don’t know the basis upon which she’s made a decision not to be involved with us, but I’m sure that you know she believes that what she’s doing is in the interests of Palestinians and in the interests of justice. I’m always happy to talk to my Australian friends and maybe even persuade them. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
+      "published": "Wed, 09 Sep 2026 20:50:09 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "description": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+      "published": "Wed, 09 Sep 2026 07:12:27 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold",
+      "description": "Chrystia Freeland understands the U.S.-Canada relationship from her time at the negotiating table. Here's what she sees now.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5955613/chrystia-freeland-canada-us-trade-war-tariffs",
+      "published": "Tue, 08 Sep 2026 06:46:03 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Chrystia Freeland negotiated with Trump. Now she's watching a trade war unfold"
     },
     {
       "title": "Norway's PM: Zelenskyy's plane almost hit by drone",
@@ -1496,17 +1546,6 @@
       "is_ticker": false
     },
     {
-      "title": "Sudanese refugee returning home ’to make buildings for our country’",
-      "description": "The UN says Uganda hosts more than 96,000 Sudanese refugees, but a programme intends to fly at least 1,300 people home.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/sudanese-refugee-returning-home-to-make-buildings-for-our?traffic_source=rss",
-      "published": "Wed, 09 Sep 2026 17:46:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1534,6 +1573,28 @@
       "url": "https://www.theguardian.com/australia-news/2026/sep/10/high-end-property-biggest-price-fall-housing-market-australia",
       "published": "Wed, 09 Sep 2026 14:01:00 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Iceland summons U.S. ambassador after Trump posts countries draped with American flag",
+      "description": "Iceland summoned the U.S. ambassador after President Trump posted a map on Truth Social that showed the country, along with a number of other nations, covered with an American flag.",
+      "url": "https://www.npr.org/2026/09/09/nx-s1-5961412/iceland-summons-u-s-ambassador-after-trump-posts-countries-draped-with-american-flag",
+      "published": "Wed, 09 Sep 2026 04:44:40 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Australian social media users to be offered choice to opt out of algorithms",
+      "description": "A government statement said on Tuesday social media platforms would be required to send a notification to new and existing users offering them a choice over their default feed.",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142311/australian-social-media-users-to-be-offered-choice-to-opt-out-of-algorithms",
+      "published": "Tue, 08 Sep 2026 09:24:00 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1698,6 +1759,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Eiffel Tower reopens after strike over limits on women staff during Hindu delegation visit"
+    },
+    {
+      "title": "Florida woman accused of DUI crashes SUV into parked car, then makes bizarre plea to police caught on camera",
+      "description": "Surveillance video allegedly shows a Florida woman smashing into a parked car in Daytona Beach before she pleaded with police officers not to take her to jail.",
+      "url": "https://www.foxnews.com/us/florida-woman-accused-dui-crashes-suv-parked-car-makes-bizarre-plea-police-caught-camera",
+      "published": "Wed, 09 Sep 2026 16:34:36 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Data shows Amazon jet’s key braking systems did not deploy during deadly Miami crash: NTSB",
@@ -1995,6 +2067,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump gave $45,000 cash gifts to Natalie Harp and two other aides, public records show",
+      "description": "The White House has described the cash gifts to Harp and three others as personal - and legal.",
+      "url": "https://www.bbc.co.uk/news/articles/c046rxw93xlo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 18:27:35 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Argentina to file criminal case against oil company operating in Falklands",
       "description": "The move comes days after President Javier Milei stepped up Argentina's claims of sovereignty over the Falklands.",
       "url": "https://www.bbc.co.uk/news/articles/c8jd14glvneo?at_medium=RSS&at_campaign=rss",
@@ -2004,6 +2087,31 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Guterres pays tribute to Qatar’s late Father Emir at UN ceremony",
+      "description": "UN Secretary General Antonio Guterres has paid tribute to Qatar’s late Father Emir Sheikh Hamad bin Khalifa Al Thani.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/guterres-pays-tribute-to-qatars-late-father-emir-at-un-ceremony?traffic_source=rss",
+      "published": "Wed, 09 Sep 2026 21:03:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Burnham defends UK ban on Israeli settlement trade",
+      "description": "UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
+      "published": "Wed, 09 Sep 2026 20:32:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Burnham defends UK ban on Israeli settlement trade"
     },
     {
       "title": "UK man charged with assisting Russian military spies in sabotage plot",
@@ -2054,28 +2162,6 @@
       "description": "Jonas ​Gahr Store says incident happened when jet ⁠⁠carrying Ukrainian president took off from Moldova.",
       "url": "https://www.aljazeera.com/news/2026/9/9/zelenskyys-plane-almost-hit-by-drone-on-way-to-oslo-norwegian-pm-says?traffic_source=rss",
       "published": "Wed, 09 Sep 2026 18:36:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How significant are new European sanctions on illegal Israeli settlements?",
-      "description": "Israel is accused of the ethnic cleansing of Palestinians.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-      "published": "Wed, 09 Sep 2026 18:23:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Last dance? Inside Lula’s strategy to win a fourth presidency in Brazil",
-      "description": "The left-wing trade union leader has won three presidential terms so far. Crime may be a hurdle to a fourth.",
-      "url": "https://www.aljazeera.com/features/longform/2026/9/9/last-dance-inside-lulas-strategy-to-win-a-fourth-presidency-in-brazil?traffic_source=rss",
-      "published": "Wed, 09 Sep 2026 17:47:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2215,20 +2301,6 @@
       "is_ticker": false
     },
     {
-      "title": "RentTech companies asking tenants for personal details ‘completely outside’ new Victorian laws",
-      "description": "Some rental platforms encourage hopeful tenants to share ‘excessive’ amount of information, Consumer Policy Research Centre review finds Get our breaking news email , free app or daily news podcast So-called “RentTech” companies may be circumventing new Victorian laws designed to protect tenants’ personal data by asking for information outside the rental application process, a review as found. The Consumer Policy Research Centre (CPRC) identified rental platforms that encouraged hopeful tenants to share an “excessive” amount of personal information, or asked them questions that were “completely outside” the new rules. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/10/renttech-tenants-personal-information-privacy-victorian-laws",
-      "published": "Wed, 09 Sep 2026 14:01:00 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 RentTech companies asking tenants for personal details ‘completely outside’ new Victorian laws"
-    },
-    {
       "title": "M 3.8 - 20 km E of Castle Rock, Washington",
       "description": "ShakeMap - IV DYFI? - IV Time 2026-09-05 11:09:28 UTC 2026-09-05 11:09:28 UTC at epicenter Location 46.247°N 122.642°W Depth 17.67 km (10.98 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw714095342",
@@ -2256,6 +2328,53 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt",
       "published": "2026-09-09T11:27:36.522Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Greetings from Paris, where the 2024 Olympics balloon rises again",
+      "description": "The floating Olympic cauldron, held aloft by a giant glowing balloon, is still making regular appearances two years after the 2024 Paris Games, showing up all summer long in the nighttime Paris sky.",
+      "url": "https://www.npr.org/2026/09/09/g-s1-142424/paris-olympic-balloon-cauldron-tuileries",
+      "published": "Wed, 09 Sep 2026 09:56:23 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Kenya's foreign trader crackdown sparks fear among migrant communities",
+      "description": "Kenya's president orders a crackdown on foreigners running small businesses, amid accusations of xenophobia.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5958636/kenya-immigration-foreign-xenophobia-africa",
+      "published": "Tue, 08 Sep 2026 15:55:43 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods",
+      "description": "France, Canada and other countries joined the U.K. in banning goods from Israeli settlements in the occupied West Bank. Israel said it would close the British Consulate among other measures.",
+      "url": "https://www.npr.org/2026/09/08/nx-s1-5961044/uk-occcupied-west-bank-goods-israel",
+      "published": "Tue, 08 Sep 2026 09:05:20 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 U.K. accuses Israeli settlers of 'ethnic cleansing' in West Bank and bans their goods"
+    },
+    {
+      "title": "GOP to host unusual midterm convention. And, Canada's retaliatory tariffs take effect",
+      "description": "Republicans are aiming to get voters to turn out for the midterms with an unconventional convention. And, Canada's retaliatory tariffs on the U.S. went into effect at midnight.",
+      "url": "https://www.npr.org/2026/09/08/g-s1-142302/up-first-newsletter-trumpapalooza-amazon-cargo-plane-crash-canada-tariffs",
+      "published": "Tue, 08 Sep 2026 07:20:05 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2375,10 +2494,10 @@
       "is_ticker": false
     },
     {
-      "title": "Norway to bid farewell to King Harald V with funeral attended by royalty, dignitaries",
-      "description": "Norway is bidding its final farewell to Harald V as crowds line the streets and foreign royals and leaders converge on Oslo for the funeral of the long-serving king",
-      "url": "https://abcnews.com/International/wireStory/norway-bid-final-farewell-king-harald-funeral-attended-136294087",
-      "published": "Wed, 09 Sep 2026 08:10:24 -0400",
+      "title": "Trump's map-making on social media stirs controversy in North Atlantic",
+      "description": "President Donald Trump's recent social media map-making posts have stirred tension in the North Atlantic",
+      "url": "https://abcnews.com/International/wireStory/trumps-map-making-social-media-stirs-controversy-north-136273860",
+      "published": "Tue, 08 Sep 2026 10:37:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2386,10 +2505,10 @@
       "is_ticker": false
     },
     {
-      "title": "Trump's map-making on social media stirs controversy in North Atlantic",
-      "description": "President Donald Trump's recent social media map-making posts have stirred tension in the North Atlantic",
-      "url": "https://abcnews.com/International/wireStory/trumps-map-making-social-media-stirs-controversy-north-136273860",
-      "published": "Tue, 08 Sep 2026 10:37:29 -0400",
+      "title": "Norway to bid farewell to King Harald V with funeral attended by royalty, dignitaries",
+      "description": "Norway is bidding its final farewell to Harald V as crowds line the streets and foreign royals and leaders converge on Oslo for the funeral of the long-serving king",
+      "url": "https://abcnews.com/International/wireStory/norway-bid-final-farewell-king-harald-funeral-attended-136294087",
+      "published": "Wed, 09 Sep 2026 08:10:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2413,6 +2532,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168292",
       "published": "Tue, 08 Sep 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Lindsay Clancy juror who backed the defense also publicly cheered Karen Read's acquittal",
+      "description": "A juror in the Lindsay Clancy mistrial previously voiced support for Karen Read online.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-juror-backed-defense-publicly-cheered-karen-read-acquittal",
+      "published": "Wed, 09 Sep 2026 17:07:42 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2489,17 +2619,6 @@
       "description": "Corie Walsh allegedly texted friends about the Lindsay Clancy murder trial just hours before her 2-year-old son Barrett was found dead in Frankfort.",
       "url": "https://www.foxnews.com/us/mom-very-invested-lindsay-clancy-case-hires-casey-anthony-attorney-allegedly-killing-son-docs",
       "published": "Tue, 08 Sep 2026 15:05:20 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Smithsonian head Lonnie Bunch to retire amid allegations of far-left woke messaging at museums",
-      "description": "Lonnie Bunch III announced his retirement from the Smithsonian Institution amid an escalating clash with the Trump administration over museum leadership.",
-      "url": "https://www.foxnews.com/us/smithsonian-head-lonnie-bunch-retire-amid-allegations-far-left-woke-messaging-museums",
-      "published": "Tue, 08 Sep 2026 12:58:45 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
