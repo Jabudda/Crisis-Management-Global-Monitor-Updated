@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T16:38:20.233275Z",
+  "last_updated": "2026-09-10T17:15:01.757460Z",
   "event_count": 221,
   "events": [
     {
@@ -162,15 +162,18 @@
       "ticker_label": "✈️ Pilot rescued after World War II-era plane crashes at Pennsylvania airport"
     },
     {
-      "title": "Philippines: Several killed, dozens missing after fire on ferry",
-      "description": "Footage released by the Coast Guard showed the vessel engulfed in flames as rescuers brought bodies ashore in body bags. The ship's manifest listed 134 passengers and crew.",
-      "url": "https://www.dw.com/en/philippines-several-killed-dozens-missing-after-fire-on-ferry/a-79208236?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 10 Sep 2026 01:48:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Japan deploys equipment to Borneo to help fight wildfires causing toxic haze",
+      "description": "A Japanese military transport ship docked on the island of Borneo as part of a disaster relief mission to help fight wildfires in Indonesia that are causing a toxic haze impacting people’s health in other countries",
+      "url": "https://abcnews.com/International/wireStory/japan-deploys-equipment-indonesias-borneo-fight-wildfires-causing-136327479",
+      "published": "Thu, 10 Sep 2026 06:02:34 -0400",
+      "source": "ABC News International",
       "type": "rss",
-      "severity_score": 26,
+      "severity_score": 25,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Japan deploys equipment to Borneo to help fight wildfires causing toxic haze"
     },
     {
       "title": "Volunteer firefighter dies in Turkey while tackling wildfire, 8 people injured",
@@ -185,20 +188,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Volunteer firefighter dies in Turkey while tackling wildfire, 8 people injured"
-    },
-    {
-      "title": "Japan deploys equipment to Borneo to help fight wildfires causing toxic haze",
-      "description": "A Japanese military transport ship docked on the island of Borneo as part of a disaster relief mission to help fight wildfires in Indonesia that are causing a toxic haze impacting people’s health in other countries",
-      "url": "https://abcnews.com/International/wireStory/japan-deploys-equipment-indonesias-borneo-fight-wildfires-causing-136327479",
-      "published": "Thu, 10 Sep 2026 06:02:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Japan deploys equipment to Borneo to help fight wildfires causing toxic haze"
     },
     {
       "title": "US forces obliterate suspected 'narco-terrorist' vessel in lethal Eastern Pacific strike, killing 3",
@@ -241,6 +230,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Record number of attacks on education, global fund warns"
+    },
+    {
+      "title": "Jerusalem Daily: Israeli strikes devastate Gaza",
+      "description": "Israeli air strikes have killed and injured dozens across Gaza.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
+      "published": "Thu, 10 Sep 2026 16:27:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Jerusalem Daily: Israeli strikes devastate Gaza"
     },
     {
       "title": "Deadly Philippines ferry fire triggers search for scores of missing",
@@ -318,20 +321,6 @@
       "is_ticker": false
     },
     {
-      "title": "Tate brothers to remain in US jail as they fight extradition to UK",
-      "description": "A federal judge denied them bail, saying the dual US-UK citizens' wealth and frequent international travel \"constitute quintessential flight risks\".",
-      "url": "https://www.bbc.co.uk/news/articles/cp849rlrrmlo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 19:09:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Tate brothers to remain in US jail as they fight extradition to UK"
-    },
-    {
       "title": "‘I’m spending my savings just to survive’: Iran’s economic crisis fuels new protests",
       "description": "Despite severe security risks and an ongoing war, retirees, nurses, workers, teachers and students have held sit-ins and protests across Iran since this summer, most often over economic hardship. With prices going up every few hours, salaries and pensions going unpaid for months, and unemployment increasing, our Observers say life is becoming “impossible”.",
       "url": "https://www.france24.com/en/middle-east/20260910-iran-economic-crisis-protests-war-repression",
@@ -366,20 +355,6 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Germany’s far-right party AfD surges to historic victory in state election",
-      "description": "German Chancellor Friedrich Merz's party faces a disastrous blow as AfD aims for Germany's first far-right state government since World War II.",
-      "url": "https://www.foxnews.com/world/germanys-far-right-party-afd-surges-historic-victory-state-election",
-      "published": "Sun, 06 Sep 2026 21:36:49 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany’s far-right party AfD surges to historic victory in state election"
     },
     {
       "title": "RSL says One Nation’s Hastie ‘slur’ was an ‘attack on every veteran’s service’ – as it happened",
@@ -460,18 +435,18 @@
       "ticker_label": "🪖 Coordinated action on clean air and climate change can net $15 for every dollar spent"
     },
     {
-      "title": "Inside Thailand's school shooter drills following recent attacks",
-      "description": "Police say they hope the drill will help prepare students, as concern grows over the increase in school shootings in South East Asia.",
-      "url": "https://www.bbc.co.uk/news/videos/c07lpp4e993o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 22:32:07 GMT",
+      "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+      "description": "The paper said it stood by its reporting, after publishing extracts from a book where the claim appears.",
+      "url": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 15:54:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Inside Thailand's school shooter drills following recent attacks"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack"
     },
     {
       "title": "Grace Tame apologises for comments labelling rape of Israeli women during Hamas attacks ‘propaganda’",
@@ -739,7 +714,7 @@
       "ticker_label": "🪖 Human rights chief Türk renews call for end to spiralling Sudan war"
     },
     {
-      "title": "Houthis capture Yemeni town of Mocha: Why it matters",
+      "title": "Houthis capture Yemeni town of Mocha: Why it’s important",
       "description": "The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.",
       "url": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
       "published": "Thu, 10 Sep 2026 14:53:11 +0000",
@@ -772,15 +747,18 @@
       "is_ticker": false
     },
     {
-      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
-      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 06:30:19 GMT",
+      "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+      "description": "One pilot told the other about the aircraft's \"excessive speed\" but received an uneven response even as alarms sounded.",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:31:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Pilot warned Amazon cargo plane going too fast before deadly crash, data shows"
     },
     {
       "title": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
@@ -795,6 +773,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Spanish intelligence warned of Ceuta mass crossing plans before surge"
+    },
+    {
+      "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
+      "description": "The fire broke out as the vessel nearing its destination at the tourist hotspot of Coron in Palawan.",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 06:30:19 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "UN expert Albanese, protesters warn against Italy’s anti-Semitism bill",
@@ -820,31 +809,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Suspected measles cases kill nearly 1,000 as Bangladesh struggles to contain outbreak",
-      "description": "Bangladesh is struggling to tackle a measles outbreak that has killed almost 1,000 children this year despite a renewed vaccination campaign",
-      "url": "https://abcnews.com/International/wireStory/suspected-measles-cases-kill-1000-bangladesh-struggles-outbreak-136295987",
-      "published": "Wed, 09 Sep 2026 06:39:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan",
-      "description": "The mayor of Nagoya says athletes who’ve arrived early for the Asian Games were unharmed by extensive flooding that hit the central Japanese city",
-      "url": "https://abcnews.com/International/wireStory/asian-games-venues-athletes-unharmed-extensive-flooding-nagoya-136294388",
-      "published": "Wed, 09 Sep 2026 02:42:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Asian Games venues and athletes unharmed by extensive flooding in Nagoya, Japan"
     },
     {
       "title": "In Gaza, women-headed households face ‘impossible choices’ to survive",
@@ -873,6 +837,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 AI: Türk urges action before it becomes an ‘existential risk to humanity’"
+    },
+    {
+      "title": "Fire aboard cargo ship undergoing repairs at busy Chinese port leaves 25 people dead, five more injured",
+      "description": "A cargo ship called the Ocean Melody caught fire during repairs at Qingdao port, killing 25 of the 42 people on board the Liberian-flagged vessel.",
+      "url": "https://www.foxnews.com/world/fire-aboard-cargo-ship-undergoing-repairs-busy-chinese-port-leaves-25-people-dead-five-more-injured",
+      "published": "Thu, 10 Sep 2026 12:45:54 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Spanish opposition leader calls prime minister a ‘traitor’ over Ceuta migrant crisis",
@@ -922,18 +897,18 @@
       "is_ticker": false
     },
     {
-      "title": "Rubio says US is working with allies to counter drugs but will 'still blow up ships if need be'",
-      "description": "Secretary of State Marco Rubio is providing new clarity on the U.S. approach toward combating drug trafficking in Latin American waters",
-      "url": "https://abcnews.com/International/wireStory/rubio-visits-ecuador-trump-friendly-leader-helps-us-136303845",
-      "published": "Wed, 09 Sep 2026 21:14:22 -0400",
-      "source": "ABC News International",
+      "title": "Cyberattack in Berlin: 1.4 million files on the Dark Web",
+      "description": "Shortly before Berlin's state parliamentary election, the hacker group Rhysida stole data, tried to extort the Berlin Senate and published the data on the dark web after their attempt failed.",
+      "url": "https://www.dw.com/en/cyberattack-in-berlin-1-4-million-files-on-the-dark-web/a-79220829?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 10 Sep 2026 16:51:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Rubio says US is working with allies to counter drugs but will 'still blow up ships if need be'"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Cyberattack in Berlin: 1.4 million files on the Dark Web"
     },
     {
       "title": "Death toll rises to 16 in landslides in southeastern China",
@@ -950,6 +925,20 @@
       "ticker_label": "🌪️ Death toll rises to 16 in landslides in southeastern China"
     },
     {
+      "title": "Rubio says US is working with allies to counter drugs but will 'still blow up ships if need be'",
+      "description": "Secretary of State Marco Rubio is providing new clarity on the U.S. approach toward combating drug trafficking in Latin American waters",
+      "url": "https://abcnews.com/International/wireStory/rubio-visits-ecuador-trump-friendly-leader-helps-us-136303845",
+      "published": "Wed, 09 Sep 2026 21:14:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Rubio says US is working with allies to counter drugs but will 'still blow up ships if need be'"
+    },
+    {
       "title": "‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025",
       "description": "When the creek beside Taudibura Garo's school in Papua New Guinea floods, the water doesn't stop at the gate. It rises through the pit toilets – making the school unsafe – sending the 16-year-old and her classmates home without being able to finish.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168306",
@@ -964,15 +953,18 @@
       "ticker_label": "🌪️ ‘The water comes up to our knees’: Climate hazards shut millions of children out of school in 2025"
     },
     {
-      "title": "At least 25 dead after cargo ship catches fire in China",
-      "description": "Fire breaks out on ship being repaired in the port of Qingdao, eastern China.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/at-least-25-dead-after-cargo-ship-catches-fire-in-china?traffic_source=rss",
-      "published": "Thu, 10 Sep 2026 12:45:11 +0000",
+      "title": "Trump’s Iran war now has a midterm election problem",
+      "description": "Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss",
+      "published": "Thu, 10 Sep 2026 16:43:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump’s Iran war now has a midterm election problem"
     },
     {
       "title": "ECB raises interest rates to fight off inflation jump",
@@ -1045,6 +1037,20 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Yemen: Houthis take control of strategic Red Sea port city",
+      "description": "The Houthi takeover of Mokha comes amid intensified fighting that has sparked fears of a return to civil war. The Red Sea has served as a key alternative to the Strait of Hormuz amid the US war with Iran.",
+      "url": "https://www.dw.com/en/yemen-houthis-take-control-of-strategic-red-sea-port-city/a-79220628?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 10 Sep 2026 17:01:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Yemen: Houthis take control of strategic Red Sea port city"
     },
     {
       "title": "How Celine Dion became a pop culture icon across generations",
@@ -1213,20 +1219,6 @@
       "ticker_label": "🪖 North Korea spends war windfall on arms, infrastructure"
     },
     {
-      "title": "Trump promises Americans $5,000 if Republicans win midterms",
-      "description": "The US president gave a wide-ranging speech at the Republican midterm convention. He defended the war in Iran, trade wars and tariffs, and the White House ballroom. He also called Democrats evil and immigrants animals.",
-      "url": "https://www.dw.com/en/trump-promises-americans-5-000-if-republicans-win-midterms/a-79208399?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 10 Sep 2026 03:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump promises Americans $5,000 if Republicans win midterms"
-    },
-    {
       "title": "'Infantino is the one who has brought the most to Africa' says Samuel Eto'o",
       "description": "In an interview with FRANCE 24, former football star and current president of the Cameroonian Football Federation Samuel Eto'o spoke about the recent backlash towards FIFA president Gianni Infantino and confirmed he will support him for re-election because of \"everything he has brought to African football\", adding that the African federations will defend what seems \"right to us given the challenges that we face in our own federations\".",
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260910-infantino-is-the-one-who-has-brought-the-most-to-africa-says-samuel-eto-o",
@@ -1266,10 +1258,24 @@
       "ticker_label": "🪖 Spanish spies warned of mass migrant crossing into Ceuta the day before"
     },
     {
-      "title": "More schools close in Indonesia due to worsening haze from forest fires",
-      "description": "Schools in Indonesia's South Sumatra province have switched to remote learning due to worsening haze from forest fires",
-      "url": "https://abcnews.com/International/wireStory/schools-close-indonesia-due-worsening-haze-forest-fires-136295197",
-      "published": "Wed, 09 Sep 2026 06:33:57 -0400",
+      "title": "Suspected gunman in Thailand kindergarten shooting surrenders after 18-hour standoff",
+      "description": "A police officer who allegedly gunned down his wife at the kindergarten where she was a teacher in eastern Thailand surrendered Thursday after an 18-hour standoff with authorities",
+      "url": "https://abcnews.com/International/wireStory/suspected-gunman-thailand-kindergarten-shooting-surrenders-after-18-136327204",
+      "published": "Thu, 10 Sep 2026 05:46:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Suspected gunman in Thailand kindergarten shooting surrenders after 18-hour standoff"
+    },
+    {
+      "title": "Amsterdam’s Stedelijk Museum opens a major Yayoi Kusama exhibition after her death last month",
+      "description": "Amsterdam's Stedelijk Museum is hosting a major exhibition of Yayoi Kusama's work, two weeks after the celebrated Japanese artist's death at 97",
+      "url": "https://abcnews.com/International/wireStory/amsterdams-stedelijk-museum-opens-major-yayoi-kusama-exhibition-136298370",
+      "published": "Thu, 10 Sep 2026 00:02:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1374,21 +1380,21 @@
       "ticker_label": "🪖 Drone nearly strikes Zelenskyy’s plane before takeoff for Norwegian king’s funeral, PM says"
     },
     {
-      "title": "Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?",
-      "description": "Trump's $1.3 trillion promise would heavily increase national debt, already at a historic $40 trillion.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/trump-promises-5000-payouts-if-gop-wins-midterms-can-the-us-afford-it?traffic_source=rss",
-      "published": "Thu, 10 Sep 2026 14:13:03 +0000",
-      "source": "Al Jazeera",
+      "title": "More than 20 children feared dead in DR Congo school fire",
+      "description": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
+      "url": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 16:21:50 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Algeria says cutting diplomatic ties with UAE",
-      "description": "Relations have been strained for years, as the two countries took differing positions on several regional issues.",
-      "url": "https://www.aljazeera.com/news/2026/9/10/algeria-says-cutting-diplomatic-ties-with-uae?traffic_source=rss",
-      "published": "Thu, 10 Sep 2026 12:26:06 +0000",
+      "title": "Trump promises $5,000 payouts if GOP wins midterms: Can the US afford it?",
+      "description": "Trump's $1.3 trillion promise would heavily increase national debt, already at a historic $40 trillion.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/trump-promises-5000-payouts-if-gop-wins-midterms-can-the-us-afford-it?traffic_source=rss",
+      "published": "Thu, 10 Sep 2026 14:13:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
@@ -1434,6 +1440,28 @@
       "url": "https://www.dw.com/en/ukraine-s-zelenskyy-arrives-in-canada-seeking-air-support/a-79209534?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 10 Sep 2026 08:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "France's museums grapple with a wave of smash-and-grab thefts",
+      "description": "A series of art heists in France has highlighted the country's struggle to protect its cultural treasures",
+      "url": "https://abcnews.com/International/wireStory/gold-gems-renoir-frances-museums-grapple-wave-smash-136328802",
+      "published": "Thu, 10 Sep 2026 06:18:36 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "British man charged with aiding Russian spies in UK sabotage plot",
+      "description": "Prosecutors say a British man has been charged with helping Russian military spies plan sabotage in the U.K. Joshua Cammidge was charged under the National Security Act",
+      "url": "https://abcnews.com/International/wireStory/british-man-charged-aiding-russian-spies-uk-sabotage-136309959",
+      "published": "Wed, 09 Sep 2026 15:15:35 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1507,20 +1535,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?",
-      "description": "Four goals in five games made the 18-year-old striker Barcelona's top scorer during preseason.",
-      "url": "https://www.aljazeera.com/sports/2026/9/10/is-egypts-hamza-abdelkarim-set-to-be-barcelonas-next-breakout-star?traffic_source=rss",
-      "published": "Thu, 10 Sep 2026 12:24:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Is Egypt’s Hamza Abdelkarim set to be Barcelona’s next breakout star?"
     },
     {
       "title": "UN peacekeepers give NPR a rare look behind Israeli lines",
@@ -1636,18 +1650,15 @@
       "is_ticker": false
     },
     {
-      "title": "German far-right party taunts chancellor after its election triumph. He says it won't win a majority",
-      "description": "The far-right Alternative for Germany has taunted Chancellor Friedrich Merz in parliament after it thrashed his party in a regional election",
-      "url": "https://abcnews.com/International/wireStory/german-party-taunts-chancellor-after-election-triumph-win-136295634",
-      "published": "Wed, 09 Sep 2026 06:42:35 -0400",
-      "source": "ABC News International",
+      "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+      "description": "Mokha's capture would bring the Iran-backed group closer to controlling the Bab al-Mandab Strait waterway, a key shipping route.",
+      "url": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 15:38:56 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 4,
+      "severity_score": 3,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 German far-right party taunts chancellor after its election triumph. He says it won't win a majority"
+      "is_ticker": false
     },
     {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
@@ -1774,17 +1785,6 @@
       "is_ticker": false
     },
     {
-      "title": "Watch: Is Trump's $5,000 election pledge legal?",
-      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
-      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
       "description": "King Oyo's family say he left a will naming his young son as heir to the Tooro kingdom.",
       "url": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
@@ -1811,28 +1811,6 @@
       "description": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
       "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 09 Sep 2026 21:21:13 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Uganda pulling out of Prince Harry's Invictus Games, says military chief",
-      "description": "The decision, announced by the chief of defence, comes just two months after Uganda said it would participate.",
-      "url": "https://www.bbc.co.uk/news/articles/c3d7pzyjzllo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 10 Sep 2026 08:44:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Europe's royalty pay respects to King Harald V in Norway",
-      "description": "The Prince of Wales and three Nordic kings were among those who attended proceedings on Wednesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cd94jgy7e94o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 16:30:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1887,6 +1865,17 @@
       "is_ticker": false
     },
     {
+      "title": "Watch: Is Trump's $5,000 election pledge legal?",
+      "description": "The US president has said every American will get $5,000 (£3,700) if the Republican Party wins November's midterms.",
+      "url": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 10 Sep 2026 07:12:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Watch: How a community living under demolition orders from Israel view UK sanctions",
       "description": "Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar, and the neighbouring Israeli settlement of Maale Admumim.",
       "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
@@ -1903,6 +1892,28 @@
       "url": "https://www.bbc.co.uk/news/videos/cevw2rzlr8vo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 01:37:31 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
+      "description": "Palestinian Prisoner’s Society says detained include children, journalists and ex-prisoner freed in recent exchange deal",
+      "url": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss",
+      "published": "Thu, 10 Sep 2026 17:00:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US Supreme Court blocks Republican-drawn congressional map in Missouri",
+      "description": "Rejection comes as Republican official in Missouri faces contempt charges for ignoring a lower court ruling.",
+      "url": "https://www.aljazeera.com/news/2026/9/10/us-supreme-court-blocks-republican-drawn-congressional-map-in-missouri?traffic_source=rss",
+      "published": "Thu, 10 Sep 2026 16:44:13 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -1979,17 +1990,6 @@
       "description": "Insufficient aid and shelter increase hardship for displaced in Tawila, as malnutrition and disease spread rapidly.",
       "url": "https://www.aljazeera.com/features/2026/9/10/hundreds-of-thousands-lack-adequate-shelter-at-sudans-tawila-camp?traffic_source=rss",
       "published": "Thu, 10 Sep 2026 12:47:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel will never stop me speaking up for Palestine",
-      "description": "Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss",
-      "published": "Thu, 10 Sep 2026 12:16:47 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2393,54 +2393,10 @@
       "is_ticker": false
     },
     {
-      "title": "Psychological toll of Cuba’s multiple crises pushing many islanders to breaking point",
-      "description": "The psychological toll of daily life in Cuba is pushing many to their breaking point on the Caribbean island of nearly 10 million people",
-      "url": "https://abcnews.com/International/wireStory/psychological-toll-cubas-multiple-crises-pushing-islanders-breaking-136296746",
-      "published": "Wed, 09 Sep 2026 06:34:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Stronger-than-normal El Nino alarms scientists over Galápagos wildlife and forests",
-      "description": "The prediction that this season’s El Nino will be stronger than normal has alarmed the Ecuadorian scientific community",
-      "url": "https://abcnews.com/International/wireStory/stronger-normal-el-nino-alarms-scientists-galpagos-wildlife-136316270",
-      "published": "Wed, 09 Sep 2026 17:47:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel opens embassy in Slovenia as small EU nation shifts policies",
-      "description": "Israel has opened its embassy in Slovenia, boosting relations with the small European Union nation as ties soured with the United Kingdom and some of the other longtime allies",
-      "url": "https://abcnews.com/International/wireStory/israel-opens-embassy-slovenia-small-eu-nation-shifts-136308725",
-      "published": "Thu, 10 Sep 2026 01:46:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "S. Korea trying to learn if Kim Jong Un has a son but daughter's status appears solid",
       "description": "South Korea’s spy agency says it is trying to determine if North Korean leader Kim Jong Un has a son",
       "url": "https://abcnews.com/International/wireStory/south-korea-learn-kim-jong-son-daughters-status-136328521",
       "published": "Thu, 10 Sep 2026 06:18:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Norway to bid farewell to King Harald V with funeral attended by royalty, dignitaries",
-      "description": "Norway has bid its final farewell to Harald V as crowds line the streets and foreign royals and leaders converge on Oslo for the funeral of the long-serving king",
-      "url": "https://abcnews.com/International/wireStory/norway-bid-final-farewell-king-harald-funeral-attended-136294087",
-      "published": "Wed, 09 Sep 2026 21:30:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2463,6 +2419,50 @@
       "description": "A Moldovan government spokesman says a flight scheduled to carry Ukrainian President Volodymyr Zelenskyy from Moldova to Norway was delayed when authorities closed Moldova’s airspace because of a drone incursion",
       "url": "https://abcnews.com/International/wireStory/flight-carrying-zelenskyy-norway-delayed-moldova-drone-incursion-136318552",
       "published": "Thu, 10 Sep 2026 06:10:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Stronger-than-normal El Nino alarms scientists over Galápagos wildlife and forests",
+      "description": "The prediction that this season’s El Nino will be stronger than normal has alarmed the Ecuadorian scientific community",
+      "url": "https://abcnews.com/International/wireStory/stronger-normal-el-nino-alarms-scientists-galpagos-wildlife-136316270",
+      "published": "Wed, 09 Sep 2026 17:47:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Journalist named king of Ugandan monarchy that just lost its onetime 'boy king'",
+      "description": "A news anchor has been unexpectedly named the next monarch of Uganda's Tooro Kingdom",
+      "url": "https://abcnews.com/International/wireStory/journalist-named-king-ugandan-monarchy-lost-onetime-boy-136311839",
+      "published": "Wed, 09 Sep 2026 15:13:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel opens embassy in Slovenia as small EU nation shifts policies",
+      "description": "Israel has opened its embassy in Slovenia, boosting relations with the small European Union nation as ties soured with the United Kingdom and some of the other longtime allies",
+      "url": "https://abcnews.com/International/wireStory/israel-opens-embassy-slovenia-small-eu-nation-shifts-136308725",
+      "published": "Thu, 10 Sep 2026 01:46:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK government defends decision to ban trade with Israeli settlements",
+      "description": "British Foreign Secretary Ed Miliband has defended the decision to ban trade with Israeli settlements in the West Bank",
+      "url": "https://abcnews.com/International/wireStory/uk-government-defends-decision-ban-trade-israeli-settlements-136298963",
+      "published": "Wed, 09 Sep 2026 08:10:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
