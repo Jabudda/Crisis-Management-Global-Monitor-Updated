@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10T07:19:08.819892Z",
+  "last_updated": "2026-09-10T07:40:10.428821Z",
   "event_count": 222,
   "events": [
     {
@@ -29,20 +29,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike"
-    },
-    {
-      "title": "At least five killed, 87 missing after ferry fire in Philippines",
-      "description": "At least five people died and 87 remained unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 42 passengers and crew rescued. Coast guard teams continued search and rescue operations as officials warned the figures could change while they worked to establish what happened.",
-      "url": "https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines",
-      "published": "Thu, 10 Sep 2026 01:24:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At least five killed, 87 missing after ferry fire in Philippines"
     },
     {
       "title": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
@@ -215,6 +201,20 @@
       "ticker_label": "🌪️ Volunteer firefighter dies in Turkey while tackling wildfire, 8 people injured"
     },
     {
+      "title": "Japan deploys equipment to Borneo to help fight wildfires causing toxic haze",
+      "description": "A Japanese military transport ship docked on the island of Borneo as part of a disaster relief mission to help fight wildfires in Indonesia that are causing a toxic haze impacting people’s health in other countries",
+      "url": "https://abcnews.com/International/wireStory/japan-deploys-equipment-indonesias-borneo-fight-wildfires-causing-136327479",
+      "published": "Thu, 10 Sep 2026 03:26:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Japan deploys equipment to Borneo to help fight wildfires causing toxic haze"
+    },
+    {
       "title": "US forces obliterate suspected 'narco-terrorist' vessel in lethal Eastern Pacific strike, killing 3",
       "description": "A U.S. military strike destroyed a suspected drug-smuggling vessel in the Eastern Pacific, killing three alleged narco-terrorists, officials said.",
       "url": "https://www.foxnews.com/us/us-forces-obliterate-suspected-narco-terrorist-vessel-lethal-eastern-pacific-strike-killing-3",
@@ -321,8 +321,8 @@
       "ticker_label": "🪖 Syria arms depot explosion kills at least 14"
     },
     {
-      "title": "Middle East live: Trump warns Iran over activity at Pickaxe Mountain fortified site",
-      "description": "US President Donald Trump on Wednesday said the United States may target Iran's Pickaxe Mountain fortified site near its damaged Natanz uranium enrichment facility, warning Tehran \"not to get cute\". He also commented that oil prices that have surged because of the Iran war likely won’t come down until after US midterm elections, as his advisers warned the conflict could extend through the remainder of his presidency. Follow our liveblog for the latest updates.",
+      "title": "Middle East live: Yemen’s Houthi rebels report roughly 40 Saudi air strikes",
+      "description": "Yemen’s Iran-aligned Houthi rebels said Thursday that Saudi forces launched a barrage of roughly 40 air strikes on four provinces in the war-torn country. The militant group has recently launched repeated strikes on Saudi oil facilities as renewed fighting intensifies between the Houthis and Saudi-backed forces. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/middle-east/20260910-middle-east-live-trump-warns-iran-not-to-get-cute-over-activity-at-pickaxe-mountain",
       "published": "Thu, 10 Sep 2026 02:46:54 GMT",
       "source": "France24",
@@ -332,7 +332,21 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Middle East live: Trump warns Iran over activity at Pickaxe Mountain fortified site"
+      "ticker_label": "🪖 Middle East live: Yemen’s Houthi rebels report roughly 40 Saudi air strikes"
+    },
+    {
+      "title": "Deadly Philippines ferry fire leaves dozens missing",
+      "description": "At least five people died and dozens were unaccounted for Thursday after a ferry caught fire off the Philippine island province of Palawan, with 43 passengers and crew rescued so far. Coast guard teams continued search and rescue operations as officials worked to establish what happened.",
+      "url": "https://www.france24.com/en/asia-pacific/20260910-at-least-five-killed-87-missing-after-ferry-fire-in-philippines",
+      "published": "Thu, 10 Sep 2026 01:24:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Deadly Philippines ferry fire leaves dozens missing"
     },
     {
       "title": "70 Americans still unaccounted for after catastrophic Nepal flooding",
@@ -361,20 +375,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia’s quieter nuclear submarines threaten NATO, former commander warns"
-    },
-    {
-      "title": "Germany's Merz attacks AfD in stormy debate after far-right election win",
-      "description": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
-      "url": "https://www.bbc.co.uk/news/articles/c98679wr78do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 09 Sep 2026 13:29:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Germany's Merz attacks AfD in stormy debate after far-right election win"
     },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
@@ -444,8 +444,8 @@
       "ticker_label": "✈️ Amazon cargo jet pilot reportedly told wife, 'My career is over' shortly after deadly crash"
     },
     {
-      "title": "At least five dead and dozens missing after fire on Philippines ferry",
-      "description": "At least five people have been killed and dozens are missing after a fire on a passenger ferry off the western Philippines.",
+      "title": "At least five dead and more than 80 missing after fire on Philippines ferry",
+      "description": "At least five people have been killed and more than 80 are missing after a fire on a passenger ferry off the western Philippines.",
       "url": "https://news.sky.com/story/at-least-five-dead-and-dozens-missing-after-fire-on-philippines-ferry-13583838",
       "published": "Thu, 10 Sep 2026 06:40:00 +0100",
       "source": "Sky News World",
@@ -472,7 +472,7 @@
       "title": "Australia politics live: RSL says One Nation’s Hastie ‘slur’ was an ‘attack on every veteran’s service’; Victoria’s historic work from home laws stall",
       "description": "Follow the day’s news live Labor introducing new laws to crack down on illegal tobacco Labor will introduce new laws to make it easier to prosecute criminals involved in the illicit tobacco trade, as the government fights an uphill battle against the exploding black market. The new laws think about it as a list of observable indicators, very simple, fact-based things like: is the tobacco appropriately packaged? Is it a menthol cigarette even hiding in plain packaging? Is it being concealed? Does it have paperwork at the border? Or my personal favourite: is the retail price of this packet of cigarettes less than the amount of excise and GST combined? If any of these facts are proven, just one of them, that establishes the reasonable suspicion of the criminal offence of importing, possession, or conveying. It’ll give powerful new tools to Border Force but every state and territory police force to go after the crooks. I said, look, my door’s open if you want to talk about this. I don’t know why he thinks I’m a liar. I don’t quite know why he believes I lied about it. I’m disappointed he thinks I’m a coward. I don’t know how he came to that opinion but that’s up to him. I don’t think he’s a traitor. I absolutely respect the services given to our nation, like my family, has given to the service of New Zealand and Australia. Democracy’s a robust thing. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/10/anthony-albanese-labor-uk-west-bank-trade-ban-kevin-rudd-diplomacy-one-nation-pauline-hanson-liberal-party-angus-taylor-ntwnfb",
-      "published": "Thu, 10 Sep 2026 07:09:00 GMT",
+      "published": "Thu, 10 Sep 2026 07:19:09 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 18,
@@ -1376,8 +1376,8 @@
       "ticker_label": "🪖 Trump says he'll give Americans $5,000 each if Republicans win midterm elections"
     },
     {
-      "title": "Brazil Supreme Court chief suspends rival rulings amid election row",
-      "description": "Brazil's Supreme Court chief justice stepped in Wednesday to halt conflicting rulings by two fellow judges as a dispute over alleged links between Justice Alexandre de Moraes and a fraud-accused banker deepened. The clash has spilled into the campaign for next month's presidential election, adding to tensions around the court.",
+      "title": "Brazil Supreme Court chief suspends colleagues' rulings amid election row",
+      "description": "Brazil's Supreme Court chief justice stepped in Wednesday to halt conflicting rulings by two fellow judges as a dispute over alleged links between Justice Alexandre de Moraes and a banker accused of fraud deepened. The clash has spilled into the campaign for next month's presidential election, adding to tensions around the court.",
       "url": "https://www.france24.com/en/americas/20260909-brazil-supreme-court-chief-suspends-rival-rulings-amid-election-row",
       "published": "Wed, 09 Sep 2026 23:44:51 GMT",
       "source": "France24",
@@ -1821,20 +1821,6 @@
       "is_ticker": false
     },
     {
-      "title": "Whose space is it? Europe scrambles as US rules satellite race",
-      "description": "With the digital age comes the scramble for minerals below us and the scramble to master the heavens above us. Donald Trump wants a thousand rocket launches a year and with SpaceX’s reusable modules leading the way, the United States towers over the competition. It’s why for instance Ukraine’s president has to beg Elon Musk to use his Starlink low orbit satellite system to take out the Russian cruise missile launchers.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20260909-whose-space-is-it-europe-scrambles-as-us-rules-satellite-race",
-      "published": "Wed, 09 Sep 2026 18:35:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Whose space is it? Europe scrambles as US rules satellite race"
-    },
-    {
       "title": "German far-right party taunts chancellor after its election triumph. He says it won't win a majority",
       "description": "The far-right Alternative for Germany has taunted Chancellor Friedrich Merz in parliament after it thrashed his party in a regional election",
       "url": "https://abcnews.com/International/wireStory/german-party-taunts-chancellor-after-election-triumph-win-136295634",
@@ -1918,7 +1904,7 @@
       "title": "Hong Kong court convicts publisher of deterring reporter from taking union role",
       "description": "A Hong Kong court has convicted the publisher of The Wall Street Journal of deterring its reporter from taking up a trade union role",
       "url": "https://abcnews.com/International/wireStory/hong-kong-court-convicts-wall-street-journal-publisher-136326720",
-      "published": "Thu, 10 Sep 2026 01:42:58 -0400",
+      "published": "Thu, 10 Sep 2026 03:22:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1996,6 +1982,17 @@
       "description": "Speaking at a party convention, the US president gave no details on how the plan would work or where the money would come from.",
       "url": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 10 Sep 2026 06:56:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Apple's new boss starts with big gamble on costly first folding iPhone",
+      "description": "Apple showed off at an event the first major design change to the iPhone in almost 20 years.",
+      "url": "https://www.bbc.co.uk/news/articles/clyjd1jnd03o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 09 Sep 2026 20:00:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2394,6 +2391,17 @@
       "is_ticker": false
     },
     {
+      "title": "Stocks drop as oil spike fans inflation and interest rate fears",
+      "description": "Asian stocks fell Thursday and Brent oil held gains a day after breaking the psychological $100 barrier on the back of resurgent Middle East hostilities that have fanned inflation fears.",
+      "url": "https://www.france24.com/en/live-news/20260910-stocks-sink-as-oil-rally-fans-inflation-and-rate-hike-fears",
+      "published": "Thu, 10 Sep 2026 02:47:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Bayeux Tapestry 'mania' sweeps UK as first exhibition outside France opens",
       "description": "The British Museum on Thursday opened its doors for the first public display of the 1,000-year-old Bayeux Tapestry outside of France. The museum has so far sold a record-breaking 100,000 tickets to see the tapestry, which depicts the Norman conquest of England under William the Conqueror.",
       "url": "https://www.france24.com/en/europe/20260910-bayeux-tapestry-mania-sweeps-uk-as-first-exhibition-outside-france-opens",
@@ -2482,10 +2490,10 @@
       "is_ticker": false
     },
     {
-      "title": "Psychological toll of Cuba’s multiple crises pushing many islanders to breaking point",
-      "description": "The psychological toll of daily life in Cuba is pushing many to their breaking point on the Caribbean island of nearly 10 million people",
-      "url": "https://abcnews.com/International/wireStory/psychological-toll-cubas-multiple-crises-pushing-islanders-breaking-136296746",
-      "published": "Wed, 09 Sep 2026 06:34:42 -0400",
+      "title": "Stronger-than-normal El Nino alarms scientists over Galápagos wildlife and forests",
+      "description": "The prediction that this season’s El Nino will be stronger than normal has alarmed the Ecuadorian scientific community",
+      "url": "https://abcnews.com/International/wireStory/stronger-normal-el-nino-alarms-scientists-galpagos-wildlife-136316270",
+      "published": "Wed, 09 Sep 2026 17:47:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2493,10 +2501,10 @@
       "is_ticker": false
     },
     {
-      "title": "Stronger-than-normal El Nino alarms scientists over Galápagos wildlife and forests",
-      "description": "The prediction that this season’s El Nino will be stronger than normal has alarmed the Ecuadorian scientific community",
-      "url": "https://abcnews.com/International/wireStory/stronger-normal-el-nino-alarms-scientists-galpagos-wildlife-136316270",
-      "published": "Wed, 09 Sep 2026 17:47:57 -0400",
+      "title": "Psychological toll of Cuba’s multiple crises pushing many islanders to breaking point",
+      "description": "The psychological toll of daily life in Cuba is pushing many to their breaking point on the Caribbean island of nearly 10 million people",
+      "url": "https://abcnews.com/International/wireStory/psychological-toll-cubas-multiple-crises-pushing-islanders-breaking-136296746",
+      "published": "Wed, 09 Sep 2026 06:34:42 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2541,17 +2549,6 @@
       "description": "A news anchor has been unexpectedly named the next monarch of Uganda's Tooro Kingdom",
       "url": "https://abcnews.com/International/wireStory/journalist-named-king-ugandan-monarchy-lost-onetime-boy-136311839",
       "published": "Wed, 09 Sep 2026 15:13:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UK government defends decision to ban trade with Israeli settlements",
-      "description": "British Foreign Secretary Ed Miliband has defended the decision to ban trade with Israeli settlements in the West Bank",
-      "url": "https://abcnews.com/International/wireStory/uk-government-defends-decision-ban-trade-israeli-settlements-136298963",
-      "published": "Wed, 09 Sep 2026 08:10:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
