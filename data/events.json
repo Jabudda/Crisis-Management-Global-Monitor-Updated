@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12T05:37:22.592614Z",
+  "last_updated": "2026-09-12T06:26:16.181422Z",
   "event_count": 222,
   "events": [
     {
@@ -218,6 +218,20 @@
       "is_ticker": false
     },
     {
+      "title": "‘War on terror’: How 9/11 changed the language of conflict",
+      "description": "The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.",
+      "url": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+      "published": "Sat, 12 Sep 2026 05:26:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ‘War on terror’: How 9/11 changed the language of conflict"
+    },
+    {
       "title": "UN climate chief warns political division is undermining fight against ‘economic security emergency’",
       "description": "The head of the UN's climate body has warned that treating global warming as a partisan issue is dangerously out of step with reality, as he set out a stark account of the economic toll climate change is already inflicting on Europe.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168311",
@@ -285,6 +299,20 @@
       "is_ticker": false
     },
     {
+      "title": "BRICS leaders meet in India as wars and US tensions test the bloc",
+      "description": "Leaders of the BRICS nations are meeting in New Delhi on Saturday for a summit focused on trade, investment, and global conflicts",
+      "url": "https://abcnews.com/International/wireStory/brics-leaders-meet-india-wars-us-tensions-test-136384091",
+      "published": "Sat, 12 Sep 2026 01:59:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 BRICS leaders meet in India as wars and US tensions test the bloc"
+    },
+    {
       "title": "Record number of attacks on education, global fund warns",
       "description": "While September traditionally marks the start of the school year across the northern hemisphere, a staggering 93 million children are not in class at all amid an unprecedented number of attacks on learning, education experts warned on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168300",
@@ -311,20 +339,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Deadly Philippines ferry fire triggers search for scores of missing"
-    },
-    {
-      "title": "Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon",
-      "description": "President Donald Trump was set to observe Friday’s 25th anniversary of the September 11 attacks by attending a ceremony at the Pentagon commemorating the lives lost when al-Qaida militants hijacked planes and killed nearly 3,000 people in three locations, upending American foreign policy and national security. Fraser Jackson reports from Washington.",
-      "url": "https://www.france24.com/en/video/20260911-trump-commemorates-the-25th-anniversary-of-the-9-11-attacks-at-the-pentagon",
-      "published": "Fri, 11 Sep 2026 14:40:41 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Trump commemorates the 25th anniversary of the 9/11 attacks at the Pentagon"
     },
     {
       "title": "4 shot inside North Carolina home, 2 killed as police identify person of interest",
@@ -420,20 +434,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran war: Saudi-Houthi escalation intensifies Yemen conflict"
-    },
-    {
-      "title": "Philippines ferry fire: Search continues for dozens missing",
-      "description": "Firefighters searching for survivors combed through the smoking remains of a ferry off the coast of Coron island in the Philippines. Dozens of people have died, and more than 40 have been rescued.",
-      "url": "https://www.dw.com/en/philippines-ferry-fire-search-continues-for-dozens-missing/a-79223425?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 11 Sep 2026 08:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Philippines ferry fire: Search continues for dozens missing"
     },
     {
       "title": "Zelensky urges Trump to impose new Russia sanctions 'now', after deadly Ukraine strikes",
@@ -617,7 +617,7 @@
       "ticker_label": "🪖 BRICS meets in India: What’s on the agenda, why it matters"
     },
     {
-      "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
+      "title": "China’s Xi lands in India for BRICS summit overshadowed by wars",
       "description": "Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.",
       "url": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
       "published": "Sat, 12 Sep 2026 04:27:27 +0000",
@@ -628,7 +628,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 China’s Xi heads to India for BRICS summit overshadowed by wars"
+      "ticker_label": "🪖 China’s Xi lands in India for BRICS summit overshadowed by wars"
     },
     {
       "title": "Surge in displacement following fighting in southwest Yemen",
@@ -773,18 +773,15 @@
       "ticker_label": "💥 ‘It’s hell’: father of slain Australian surfers tells Mexico homicide trial about identifying sons’ bodies"
     },
     {
-      "title": "'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it",
-      "description": "Soon after the Sept. 11 attacks, the U.S. launched what would become a 20-year war in Afghanistan. Some Afghans who helped the U.S. prosecute that war regret it.",
-      "url": "https://www.npr.org/2026/09/10/nx-s1-5958661/ill-never-trust-them-again-some-afghans-who-helped-the-u-s-post-9-11-regret-it",
-      "published": "Thu, 10 Sep 2026 04:41:01 -0400",
-      "source": "NPR World News",
+      "title": "Live: Saudi Arabia oil pipeline shut down after drone attack launched from Iraq",
+      "description": "Saudi Arabia shut down its crucial Eat-West pipeline after it was attacked on Thursday, threatening an important alternative route for crude exports from the Gulf. Iraq has chosen not to retaliate at this state, its foreign ministry said. Read about the day’s events as they unfolded on our liveblog.",
+      "url": "https://www.france24.com/en/middle-east/20260912-live-saudi-arabia-oil-pipeline-shut-down-after-drone-attack-launched-from-iraq",
+      "published": "Sat, 12 Sep 2026 05:19:32 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'I'll never trust them again': Some Afghans who helped the U.S. post-9/11 regret it"
+      "is_ticker": false
     },
     {
       "title": "Atlantic Ocean has seen no hurricanes so far this season - this is why",
@@ -960,13 +957,13 @@
       "ticker_label": "✈️ Trump delivers remarks at Pentagon ceremony to mark 25th anniversary of 9/11"
     },
     {
-      "title": "Fire in eastern Congo kills at least 24 students at 2 schools",
-      "description": "A fire in Bukavu, eastern Congo, has killed at least 24 students, according to the rebel administration controlling the city",
-      "url": "https://abcnews.com/International/wireStory/fire-eastern-congo-kills-24-students-2-schools-136342073",
-      "published": "Thu, 10 Sep 2026 13:45:55 -0400",
-      "source": "ABC News International",
+      "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+      "description": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut down a major oil pipeline as a precaution after it came under attack.",
+      "url": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
+      "published": "Sat, 12 Sep 2026 01:57:08 -0400",
+      "source": "NPR World News",
       "type": "rss",
-      "severity_score": 13,
+      "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1008,6 +1005,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Saudi Arabia has few options as it faces mounting threats from Iran and its allies",
+      "description": "Houthi rebels in Yemen are advancing toward a crucial trade chokepoint",
+      "url": "https://abcnews.com/International/wireStory/saudi-arabia-options-faces-mounting-threats-iran-allies-136384544",
+      "published": "Sat, 12 Sep 2026 01:59:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Saudi Arabia has few options as it faces mounting threats from Iran and its allies"
     },
     {
       "title": "Family of off-duty FDNY firefighter retraces steps as Tunnel to Towers mission continues on 9/11 anniversary",
@@ -1381,17 +1392,6 @@
       "is_ticker": false
     },
     {
-      "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-      "description": "Families are remembering the loved ones they lost in the September 11, 2001 attacks on the US.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
-      "published": "Fri, 11 Sep 2026 21:23:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1631,17 +1631,6 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's Supreme Court cancels session as political crisis deepens",
-      "description": "Brazil’s Supreme Court canceled a second consecutive session of deliberations on Thursday, a rare step that highlights its deep institutional and political crisis",
-      "url": "https://abcnews.com/International/wireStory/brazils-supreme-court-cancels-session-political-crisis-deepens-136347296",
-      "published": "Fri, 11 Sep 2026 02:34:03 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "UN chief demands Israeli withdrawal from Lebanon amid Nabatieh escalation",
       "description": "The Secretary-General has condemned mounting civilian casualties in southern Lebanon and called on Israel to withdraw its forces from Lebanese territory, as fighting intensifies in and around Nabatieh.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168298",
@@ -1763,6 +1752,17 @@
       "url": "https://www.theguardian.com/media/2026/sep/12/journalist-mary-kostakidis-court-case-zionist-federation-australia-discontinued-by-consent-ntwnfb",
       "published": "Sat, 12 Sep 2026 03:21:50 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+      "description": "In an interview with DW, Ukrainian President Volodymyr Zelenskyy said his country was in a strong position to negotiate and offered to meet Vladimir Putin in Miami.",
+      "url": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 12 Sep 2026 05:46:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -2158,17 +2158,6 @@
       "is_ticker": false
     },
     {
-      "title": "Hate speech against Rohingya refugees on the rise in Malaysia",
-      "description": "Hostile social media content, disinformation campaigns, and a petition calling for their expulsion: in Malaysia, a wave of hate speech has been targeting Rohingya refugees, a Muslim minority driven out of Myanmar. The rising hostility has already led to the eviction of more than 100 people from a village and forced the temporary closure of schools serving refugee children.",
-      "url": "https://www.france24.com/en/tv-shows/the-observers/20260911-hate-speech-rohingya-refugees-rise-malaysia",
-      "published": "Fri, 11 Sep 2026 14:34:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Buddhist monk arrested in suspected $3m embezzlement scandal",
       "description": "Thai police also arrested a suspected female accomplice with whom the monk, who had taken a vow of celibacy, was filmed having sex.",
       "url": "https://www.bbc.co.uk/news/articles/c5yjkxlngjyo?at_medium=RSS&at_campaign=rss",
@@ -2502,6 +2491,17 @@
       "is_ticker": false
     },
     {
+      "title": "Celine Dion poised for emotional comeback concert in Paris",
+      "description": "Celine Dion is set to return to the stage in Paris on Saturday for her first full concert in six years, capping a years-long battle with a rare autoimmune disorder and marking a major milestone in the Canadian superstar’s comeback.",
+      "url": "https://www.france24.com/en/europe/20260912-a-legend-celine-dion-poised-for-emotional-comeback-in-paris",
+      "published": "Sat, 12 Sep 2026 05:23:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "🔴Middle East live: Houthis seize entire Red Sea coast of Yemen",
       "description": "No description available.",
       "url": "https://www.france24.com/en/middle-east/20260911-middle-east-live-trump-says-he-has-no-regrets-about-launching-war-on-iran",
@@ -2518,6 +2518,17 @@
       "url": "https://news.sky.com/story/most-striking-pictures-of-the-week-13584464",
       "published": "Fri, 11 Sep 2026 15:25:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump will meet with Ireland's leaders before heading to his golf club in Doonbeg",
+      "description": "President Donald Trump is landing in Dublin on Saturday for talks with Ireland's president and prime minister",
+      "url": "https://abcnews.com/International/wireStory/trump-meet-irelands-leaders-heading-golf-club-doonbeg-136383910",
+      "published": "Sat, 12 Sep 2026 01:59:31 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2564,17 +2575,6 @@
       "description": "Myanmar’s military-backed president is in Cambodia to meet its leaders",
       "url": "https://abcnews.com/International/wireStory/myanmars-min-aung-hlaing-visits-cambodia-seeks-restore-136354958",
       "published": "Fri, 11 Sep 2026 02:36:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Carney calls Trump’s latest trade measures ‘relatively modest,’ signals restraint",
-      "description": "Canadian Prime Minister Mark Carney signaled that Canada may hold off on further retaliation against President Donald Trump’s latest trade measures, calling them “relatively modest” compared to earlier U.S. actions",
-      "url": "https://abcnews.com/International/wireStory/carney-calls-trumps-latest-trade-measures-modest-signals-136342664",
-      "published": "Fri, 11 Sep 2026 02:39:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
