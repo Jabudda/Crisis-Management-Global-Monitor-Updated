@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-13T18:39:24.316593Z",
+  "last_updated": "2026-09-13T19:12:06.765407Z",
   "event_count": 221,
   "events": [
     {
@@ -96,20 +96,6 @@
       "severity_score": 31,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "AI datacentres pose growing threat to electricity systems worldwide",
-      "description": "Use of data-intensive technologies – in particular artificial intelligence (AI) data centres – is growing faster than electricity infrastructure can handle, the UN’s economic commission for Europe has warned, raising concerns about the future reliability and resilience of energy systems worldwide.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168296",
-      "published": "Tue, 08 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 AI datacentres pose growing threat to electricity systems worldwide"
     },
     {
       "title": "Notorious Ecuadorian crime gang designated a terrorist group by US",
@@ -244,6 +230,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Indonesia: Second ferry disaster in five days"
+    },
+    {
+      "title": "Guterres: Old global order must change as power shifts to emerging economies",
+      "description": "UN Secretary-General António Guterres told leaders of a bloc of major emerging economies in New Delhi on Sunday that a more balanced global order requires an overhaul of the institutions built after the Second World War, including the UN Security Council.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168323",
+      "published": "Sun, 13 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Guterres: Old global order must change as power shifts to emerging economies"
     },
     {
       "title": "Ukraine: Drone attacks on Chornobyl are ‘gambling with the safety of millions of people’",
@@ -812,7 +812,7 @@
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "description": "The US President said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "url": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:03:44 GMT",
+      "published": "Sun, 13 Sep 2026 18:49:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 14,
@@ -1264,6 +1264,17 @@
       "ticker_label": "🪖 Russians seek answers over hundreds missing after Ukraine's 2024 incursion"
     },
     {
+      "title": "Syrian child killed after roadside object explodes near Damascus",
+      "description": "A child has been killed after an explosive object detonated when he touched it near Damascus.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/09-13-syrian-child-explosion-clip-mp4?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 18:30:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "What are the five pros and cons of artificial intelligence?",
       "description": "AI creates new opportunities in programming and automation, but experts warn of risks to early-career workers.",
       "url": "https://www.aljazeera.com/news/2026/9/13/what-are-the-five-pros-and-cons-of-artificial-intelligence?traffic_source=rss",
@@ -1287,20 +1298,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "The Iran war reveals the limits of BRICS",
-      "description": "The bloc struggles to translate its economic weight into geopolitical sway. But there may be a silver lining to it.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 12:46:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 The Iran war reveals the limits of BRICS"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1664,7 +1661,7 @@
     },
     {
       "title": "Germany: Lower Saxony local polls in focus after AfD win",
-      "description": "The northwestern state of Lower Saxony is holding local elections that are being seen as a gauge of support for the far-right AfD party. DW has more.",
+      "description": "The northwestern state of Lower Saxony has voted in local elections that are being seen as a gauge of support for the far-right AfD party. DW has more.",
       "url": "https://www.dw.com/en/germany-lower-saxony-local-polls-in-focus-after-afd-win/live-79223427?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 13 Sep 2026 08:26:00 GMT",
       "source": "Deutsche Welle",
@@ -1919,10 +1916,10 @@
       "is_ticker": false
     },
     {
-      "title": "Villagers in India tie technician to cell tower over 5G failure",
-      "description": "Villagers in India tie technician to cell tower over 5G failure",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 13:34:42 +0000",
+      "title": "Haaland goal sees 10-men City beat United in controversial Manchester derby",
+      "description": "Phil Foden is sent off for City, but Erling Haaland's controversial goal settles Manchester derby 1-0 at United.",
+      "url": "https://www.aljazeera.com/sports/2026/9/13/haaland-goal-sees-10-men-city-beat-united-in-controversial-manchester-derby?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 18:39:24 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1930,10 +1927,10 @@
       "is_ticker": false
     },
     {
-      "title": "LIVE: Manchester United 0-1 Manchester City – Premier League",
-      "description": "All the updates from our live text commentary stream coverage as Erling Haaland settles the controversial derby.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/13/live-manchester-united-vs-manchester-city-premier-league-2?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 12:31:30 +0000",
+      "title": "Villagers in India tie technician to cell tower over 5G failure",
+      "description": "Villagers in India tie technician to cell tower over 5G failure",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/villagers-in-india-tie-technician-to-cell-tower-over-5g-failure?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 13:34:42 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
@@ -1999,7 +1996,7 @@
       "title": "Trump doubles down on united Ireland comments on day two of visit",
       "description": "The US president was speaking at the Irish Open on Sunday and said \"many people agree\" with his comments.",
       "url": "https://www.bbc.co.uk/news/articles/cx2z79n0eeno?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 13 Sep 2026 18:09:56 GMT",
+      "published": "Sun, 13 Sep 2026 18:49:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2045,6 +2042,17 @@
       "url": "https://www.bbc.co.uk/news/videos/cn9w5e7wl9ro?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 11 Sep 2026 06:16:54 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "​Bangsamoro’s parliamentary election is a turning point",
+      "description": "It's a milestone of the self-determination fight in this region of the Philippines. It must be kept peaceful and fair.",
+      "url": "https://www.aljazeera.com/opinions/2026/9/13/bangsamoros-parliamentary-election-is-a-turning-point?traffic_source=rss",
+      "published": "Sun, 13 Sep 2026 18:39:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2126,20 +2134,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "The Houthis’ escalation in Yemen could flop",
-      "description": "The Houthis and Iran are seeking to gain leverage, but they may instead get a unified front in the Red Sea.",
-      "url": "https://www.aljazeera.com/opinions/2026/9/13/the-houthis-escalation-in-yemen-could-flop?traffic_source=rss",
-      "published": "Sun, 13 Sep 2026 12:39:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 The Houthis’ escalation in Yemen could flop"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2566,15 +2560,18 @@
       "is_ticker": false
     },
     {
-      "title": "Ebola response in eastern DR Congo must include food assistance, WFP says",
-      "description": "As Ebola sweeps across the eastern Democratic Republic of the Congo (DRC), ensuring families meet their basic food needs is crucial to halt the spread of the deadly disease.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168295",
-      "published": "Tue, 08 Sep 2026 12:00:00 +0000",
+      "title": "Married at 13, pregnant and starving: Child brides of Yemen",
+      "description": "Fatimah* was 13 when she was married off to an older man. Two years later, she gave birth to twin daughters.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168322",
+      "published": "Sun, 13 Sep 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Married at 13, pregnant and starving: Child brides of Yemen"
     },
     {
       "title": "Ohio man convicted after trying to shoot ex-wife at point-blank range inside restaurant in chilling video",
