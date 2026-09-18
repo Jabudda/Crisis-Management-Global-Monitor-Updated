@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T15:16:38.618315Z",
+  "last_updated": "2026-09-18T15:38:19.303045Z",
   "event_count": 222,
   "events": [
     {
@@ -232,9 +232,9 @@
       "ticker_label": "🪖 Poland's prime minister warns of Russian 'accidental' attacks on Ukraine's allies"
     },
     {
-      "title": "Tanker attacks in the Strait of Hormuz are spilling oil into the Persian Gulf",
-      "description": "As war disrupts one of the world's busiest shipping lanes, satellite images reveal oil spreading toward protected coral reefs and mangrove forests.",
-      "url": "https://www.dw.com/en/tanker-attacks-in-the-strait-of-hormuz-are-spilling-oil-into-the-persian-gulf/a-79327092?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Strait of Hormuz attacks spill oil into Persian Gulf",
+      "description": "As war disrupts one of the world's busiest shipping lanes, satellite images reveal that oil is spreading toward protected coral reefs and mangrove forests.",
+      "url": "https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 18 Sep 2026 14:05:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -243,7 +243,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Tanker attacks in the Strait of Hormuz are spilling oil into the Persian Gulf"
+      "ticker_label": "🪖 Strait of Hormuz attacks spill oil into Persian Gulf"
     },
     {
       "title": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
@@ -380,6 +380,20 @@
       "ticker_label": "🪖 U.N.-backed experts cite possible U.S. war crimes in Iran, including a school attack"
     },
     {
+      "title": "Russian attack on Ukraine's capital injures at least 16",
+      "description": "A Russian missile and drone attack on Kyiv and its surrounding region has injured at least 19 people, including children",
+      "url": "https://abcnews.com/International/wireStory/russian-attack-ukraines-capital-injures-16-136518271",
+      "published": "Thu, 17 Sep 2026 09:43:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian attack on Ukraine's capital injures at least 16"
+    },
+    {
       "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
       "description": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168354",
@@ -469,6 +483,20 @@
       "ticker_label": "✈️ Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon"
     },
     {
+      "title": "We’re ideally placed to chair EU budget negotiations, says Irish Minister of State",
+      "description": "Ireland is managing a jam-packed agenda as the current holder of the rotating presidency of the EU. We caught up with the country’s Minister of State for European Affairs, Thomas Byrne, who was in Strasbourg for the 2026 State of the Union speech and debate with EU Commission President Ursula von der Leyen. We discussed key points from that address, such as a proposed ban on social media access for children, which Ireland is keen to push forward with during its EU presidency.",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-we-re-ideally-placed-to-chair-eu-budget-negotiations-says-irish-minister-of-state",
+      "published": "Fri, 18 Sep 2026 15:17:51 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 We’re ideally placed to chair EU budget negotiations, says Irish Minister of State"
+    },
+    {
       "title": "Man dies in fifth fatal shark attack this year in Australia",
       "description": "A man has died after being mauled by a shark while swimming at a popular beach in the state of Western Australia.",
       "url": "https://news.sky.com/story/man-dies-in-fifth-fatal-shark-attack-this-year-in-australia-13589236",
@@ -483,15 +511,18 @@
       "ticker_label": "💥 Man dies in fifth fatal shark attack this year in Australia"
     },
     {
-      "title": "New human rights report unveils details, blames police for recent massacre in Haiti",
-      "description": "A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs in the Caribbean country",
-      "url": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889",
-      "published": "Thu, 17 Sep 2026 19:21:17 -0400",
+      "title": "Rescuers dig 4 bodies from a Nepal hydropower tunnel as families demand answers",
+      "description": "Rescuers in Nepal have recovered four bodies from a hydropower plant tunnel three weeks after a devastating flash flood",
+      "url": "https://abcnews.com/International/wireStory/rescuers-dig-4-bodies-nepal-hydropower-tunnel-families-136519899",
+      "published": "Thu, 17 Sep 2026 06:34:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Rescuers dig 4 bodies from a Nepal hydropower tunnel as families demand answers"
     },
     {
       "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
@@ -513,6 +544,17 @@
       "url": "https://www.dw.com/en/nigeria-protests-erupt-over-deaths-of-37-miners-in-custody/a-79316847?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 18 Sep 2026 11:04:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Air France bets on caviar and champagne to lure luxury flyers",
+      "description": "Air France is betting big on luxury to keep wealthy travellers spending with lavish servings of caviar and champagne in first-class cabins as soaring fuel costs and disrupted travel patterns squeeze airlines worldwide. The campaign seems to have paid off, with the Paris-based carrier saying that premium bookings and revenue have grown this year despite industry-wide higher fares.",
+      "url": "https://www.france24.com/en/france/20260918-air-france-bets-on-caviar-and-champagne-lure-luxury-flyers",
+      "published": "Fri, 18 Sep 2026 15:23:24 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -616,20 +658,6 @@
       "ticker_label": "🪖 As freshwater reserves shrink, countries must prepare for a new water reality"
     },
     {
-      "title": "UNICEF says thousands of children require mental health support after Nepal floods",
-      "description": "Three weeks after the devastating flash floods in Nepal, about 17,000 children require urgent mental health and psychosocial support in the country, the UN Children’s Fund (UNICEF) said on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168340",
-      "published": "Tue, 15 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ UNICEF says thousands of children require mental health support after Nepal floods"
-    },
-    {
       "title": "Video: Students flee deadly school shooting in the Philippines",
       "description": "A 16-year-old suspected gunman has shot two students dead and injured several others at a school in the Philippines.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/video-students-flee-deadly-school-shooting-in-the-philippines?traffic_source=rss",
@@ -709,6 +737,17 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Shooting at high school in the Philippines kills at least 3 young people, injures 6"
+    },
+    {
+      "title": "Haiti: Child malnutrition crisis worsens amid escalating violence",
+      "description": "Haiti is facing a worsening child malnutrition crisis, with an estimated 253,725 children aged 6 to 59 months projected to suffer from acute malnutrition between June 2026 and May 2027, new UN-backed analysis has revealed.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168366",
+      "published": "Fri, 18 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Why Trump is all-in on AI despite the warnings",
@@ -934,17 +973,6 @@
       "is_ticker": false
     },
     {
-      "title": "Macron orders protections for infrastructure, citing a growing Russian threat",
-      "description": "French President Emmanuel Macron has asked his government to prepare a plan to protect critical infrastructure against drone and cyberattacks",
-      "url": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
-      "published": "Fri, 18 Sep 2026 10:46:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "UN report warns of reprisals against those who collaborate in defence of human rights",
       "description": "Activists, lawyers and others who cooperate with the United Nations on human rights continue to face intimidation and reprisals, according to a new report issued on Wednesday by the Secretary-General that calls for greater protection and accountability.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168345",
@@ -1059,6 +1087,20 @@
       "ticker_label": "💥 Swimmer dies after being bitten by shark off popular Perth beach"
     },
     {
+      "title": "Heavy rain and floods in northern Vietnam submerge homes and disrupt economy",
+      "description": "Heavy rain has caused widespread flooding across northern Vietnam",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-floods-northern-vietnam-submerge-homes-disrupt-136519818",
+      "published": "Thu, 17 Sep 2026 07:47:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Heavy rain and floods in northern Vietnam submerge homes and disrupt economy"
+    },
+    {
       "title": "ICE deports ex-Liberian fighter accused of torture, recruiting child soldiers",
       "description": "ICE removed Amos Sheik Massaquoi from the United States to Liberia over alleged killings, torture and child soldier recruitment during the civil wars.",
       "url": "https://www.foxnews.com/us/ice-deports-ex-liberian-fighter-accused-torture-recruiting-child-soldiers",
@@ -1109,18 +1151,15 @@
       "is_ticker": false
     },
     {
-      "title": "Fewer migrants are reaching Europe by sea but more people are dying, IOM warns",
-      "description": "The U.N. migration agency reports that significantly fewer migrants are reaching Europe by sea this year, but more are dying on increasingly dangerous journeys",
-      "url": "https://abcnews.com/International/wireStory/fewer-migrants-reaching-europe-sea-people-dying-iom-136530697",
-      "published": "Thu, 17 Sep 2026 11:24:28 -0400",
+      "title": "China’s porcelain city carries centuries-old heritage to a new generation",
+      "description": "China’s Jingdezhen porcelain sites were inscribed on UNESCO’s World Heritage List in 2026",
+      "url": "https://abcnews.com/International/wireStory/chinas-porcelain-city-carries-centuries-heritage-new-generation-136514289",
+      "published": "Wed, 16 Sep 2026 23:13:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Fewer migrants are reaching Europe by sea but more people are dying, IOM warns"
+      "is_ticker": false
     },
     {
       "title": "Ronaldo named in first Portugal squad since World Cup - at age of 41",
@@ -1181,17 +1220,6 @@
       "is_ticker": false
     },
     {
-      "title": "Shark kills swimmer off Western Australian city beach",
-      "description": "A man has been killed by a shark as he swam off a Western Australian city beach",
-      "url": "https://abcnews.com/International/wireStory/fatal-shark-attack-suspected-australian-city-beach-136550779",
-      "published": "Fri, 18 Sep 2026 05:10:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods",
       "description": "Johannesburg is struggling with a deepening waste crisis marked by unreliable collections, rapidly shrinking landfill space and a rise in illegal dumping",
       "url": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
@@ -1201,6 +1229,45 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Huawei unveils new chip technologies as Chinese firm steps up the AI race with Nvidia",
+      "description": "Chinese technology giant Huawei has launched new chip technologies as it challenges leading global companies such as Nvidia",
+      "url": "https://abcnews.com/International/wireStory/huawei-unveils-new-chip-technologies-chinese-firm-steps-136519141",
+      "published": "Thu, 17 Sep 2026 05:14:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Romanian border residents fear fallout as frequency of drone alerts rises",
+      "description": "Romanian residents near the Ukraine border are living in fear due to Russian drone strikes",
+      "url": "https://abcnews.com/International/wireStory/romanian-border-residents-fear-fallout-frequency-drone-alerts-136518013",
+      "published": "Thu, 17 Sep 2026 02:02:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Romanian border residents fear fallout as frequency of drone alerts rises"
+    },
+    {
+      "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol",
+      "description": "At least 48 people have died after consuming a drink in southern Nigeria’s Ondo state",
+      "url": "https://abcnews.com/International/wireStory/48-dead-nigeria-after-consuming-drink-suspected-methanol-136519542",
+      "published": "Thu, 17 Sep 2026 07:22:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 At least 48 dead in Nigeria after consuming drink suspected to contain methanol"
     },
     {
       "title": "New UN system platform puts millions of data points at users’ fingertips, says Guterres",
@@ -1361,6 +1428,20 @@
       "is_ticker": false
     },
     {
+      "title": "Warren Buffett steps down as Berkshire Hathaway chairman",
+      "description": "Buffett's son, Howard, will succeed him in the role. Buffett had earlier stepped down as Berkshire's CEO last year.",
+      "url": "https://www.dw.com/en/warren-buffett-steps-down-as-berkshire-hathaway-chairman/a-79330594?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 18 Sep 2026 15:19:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Warren Buffett steps down as Berkshire Hathaway chairman"
+    },
+    {
       "title": "Beethoven and Andy Warhol: Rebel icons on show in Bonn",
       "description": "The new exhibition \"Beethoven by Warhol\" at the Beethoven House in Bonn presents the pop artist's late masterpiece: a picture of Ludwig van Beethoven. The exhibition shares the story of the work with the public.",
       "url": "https://www.dw.com/en/beethoven-and-andy-warhol-rebel-icons-on-show-in-bonn/a-79296944?maca=en-rss-en-all-1573-xml-mrss",
@@ -1422,34 +1503,6 @@
       "is_ticker": false
     },
     {
-      "title": "Russian elections a ‘veneer of democracy’ with opposition barred from running",
-      "description": "PRESS REVIEW – Friday, September 18: Russia holds its first parliamentary elections since the Ukraine war. Since only parties loyal to Vladimir Putin are running, the elections are seen as nothing but a veneer of democracy. In sports: Zinedine Zidane will unveil his first selection as coach of the French football team. Brisbane 2032 Olympic and Paralympic organisers approve a croc-infested river to hold canoe and rowing events. Finally, the first new feline species in a century has been discovered.",
-      "url": "https://www.france24.com/en/russian-elections-a-veneer-of-democracy-with-opposition-barred-from-running",
-      "published": "Fri, 18 Sep 2026 10:16:00 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian elections a ‘veneer of democracy’ with opposition barred from running"
-    },
-    {
-      "title": "Russia votes in wartime election set to secure the Kremlin's power",
-      "description": "Voting got ⁠underway on Friday in a tightly controlled three-day parliamentary election in Russia which President Vladimir Putin has framed as a barometer of support for Russia's war in Ukraine. It is the first parliamentary election since Russia launched its full-scale war in Ukraine in February 2022, and most anti-war candidates have been excluded from the ballot.",
-      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
-      "published": "Fri, 18 Sep 2026 09:52:50 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia votes in wartime election set to secure the Kremlin's power"
-    },
-    {
       "title": "British woman rescued after shoot-out between Malawi police and kidnappers left two dead",
       "description": "A British woman who was abducted in Malawi has been rescued and reunited with her family after a shoot-out between officers and the kidnappers, police said.",
       "url": "https://news.sky.com/story/british-woman-kidnapped-in-malawi-rescued-and-reunited-with-family-13589169",
@@ -1475,6 +1528,20 @@
       "ticker_label": "🪖 Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit"
     },
     {
+      "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war",
+      "description": "The lightning advance of the Iran-backed Houthi rebels has forced tens of thousands of people to flee their homes in Yemen",
+      "url": "https://abcnews.com/International/wireStory/houthi-attacks-driving-oil-prices-yemenis-crossfire-toll-136517451",
+      "published": "Thu, 17 Sep 2026 05:22:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war"
+    },
+    {
       "title": "Australian man accused of teenage girl's murder appears in Thailand court",
       "description": "An Australian man has appeared in a Thai court for the first time on charges of murder and concealment of a body in connection with the death of a teenage girl",
       "url": "https://abcnews.com/International/wireStory/australian-man-accused-teenage-girls-murder-appears-thailand-136550969",
@@ -1486,10 +1553,10 @@
       "is_ticker": false
     },
     {
-      "title": "Vanuatu ends search for 37 people missing in ferry sinking",
-      "description": "Authorities have called off the search for survivors after a ferry sank off Vanuatu, leaving 39 people presumed dead",
-      "url": "https://abcnews.com/International/wireStory/vanuatu-ends-search-37-people-missing-ferry-sinking-136550109",
-      "published": "Fri, 18 Sep 2026 02:19:20 -0400",
+      "title": "A boat towed by a North Korean cargo sinks off Japan's northwestern coast, 1 missing",
+      "description": "A boat carrying four crew members sank while being towed by a North Korean cargo ship off Japan's northwestern coast, the Japan Coast Guard said",
+      "url": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
+      "published": "Thu, 17 Sep 2026 13:13:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1497,15 +1564,18 @@
       "is_ticker": false
     },
     {
-      "title": "A British woman who was kidnapped in Malawi has been rescued, police say",
-      "description": "Police say a British woman kidnapped in the southern African nation of Malawi last week has been rescued",
-      "url": "https://abcnews.com/International/wireStory/british-woman-kidnapped-malawi-rescued-police-136539027",
-      "published": "Thu, 17 Sep 2026 15:53:07 -0400",
+      "title": "Bank of England expected to keep interest rates unchanged despite rising inflation",
+      "description": "The Bank of England is keeping the U.K.’s main interest rate unchanged at 3.75% even though inflation in the United Kingdom has risen to a five-month high as the fallout from the Iran war continues to ratchet up fuel prices",
+      "url": "https://abcnews.com/International/wireStory/bank-england-expected-interest-rates-unchanged-despite-rising-136517867",
+      "published": "Thu, 17 Sep 2026 07:54:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Bank of England expected to keep interest rates unchanged despite rising inflation"
     },
     {
       "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia",
@@ -1520,17 +1590,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 A sweeping US sanctions bill offers Ukraine new leverage on Russia"
-    },
-    {
-      "title": "A boat towed by a North Korean cargo sinks off Japan's northwestern coast, 1 missing",
-      "description": "A boat carrying four crew members sank while being towed by a North Korean cargo ship off Japan's northwestern coast, the Japan Coast Guard said",
-      "url": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
-      "published": "Thu, 17 Sep 2026 13:13:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial",
@@ -1727,6 +1786,17 @@
       "is_ticker": false
     },
     {
+      "title": "Dual citizenship means Germany now in competition for talent",
+      "description": "Coach Jürgen Klopp has named several players to his first Germany squad who are eligible to play for other countries. Some still aren't committed to playing for thje national team long-term.",
+      "url": "https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 18 Sep 2026 14:04:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Germany news: Fuel costs dominate debate ahead of polls",
       "description": "Germany's coalition government is grappling with record-high fuel prices ahead of two state elections this weekend. Follow DW for more stories making headlines in Germany.",
       "url": "https://www.dw.com/en/germany-news-fuel-costs-dominate-debate-ahead-of-polls/live-79324526?maca=en-rss-en-all-1573-xml-mrss",
@@ -1738,10 +1808,10 @@
       "is_ticker": false
     },
     {
-      "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
-      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
-      "url": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
-      "published": "Fri, 18 Sep 2026 05:17:12 -0400",
+      "title": "Sweden PM Kristersson to resign after opposition wins narrow majority in election",
+      "description": "Sweden’s left-leaning opposition has won a narrow majority in the national election",
+      "url": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
+      "published": "Thu, 17 Sep 2026 08:50:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1793,20 +1863,6 @@
       "is_ticker": false
     },
     {
-      "title": "Russia lodges protest with Japan over US Typhoon missile deployment",
-      "description": "Russia’s Foreign Ministry says that it has sent a note to Japan over its hosting of U.S. medium-range missile systems",
-      "url": "https://abcnews.com/International/wireStory/russia-lodges-protest-japan-us-typhoon-missile-deployment-136558875",
-      "published": "Fri, 18 Sep 2026 10:42:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Russia lodges protest with Japan over US Typhoon missile deployment"
-    },
-    {
       "title": "Chinese ship rams Philippines gov’t vessel in South China Sea: Coastguard",
       "description": "Philippine Coast Guard accuses China of dangerous military manoeuvres near Palawan province.",
       "url": "https://www.aljazeera.com/news/2026/9/18/chinese-ship-rams-philippines-govt-vessel-in-south-china-sea-coastguard?traffic_source=rss",
@@ -1829,10 +1885,10 @@
       "is_ticker": false
     },
     {
-      "title": "Police move hundreds of migrants still in Ceuta off beaches in Spanish enclave",
-      "description": "Spanish police in Ceuta on Friday morning started moving hundreds of migrants from the beaches of the Spanish enclave to a new tented area. Several thousand migrants remain in Ceuta after tens of thousands of people crossed the border with Morocco in late July.",
-      "url": "https://www.france24.com/en/europe/20260918-police-move-hundreds-of-migrants-still-in-ceuta-off-beaches-in-spanish-enclave",
-      "published": "Fri, 18 Sep 2026 09:51:01 GMT",
+      "title": "Ursula von der Leyen’s sixth State of the Union speech: A grand sweep, but thin on details?",
+      "description": "In this episode, we debrief one of the key annual events in the EU calendar: the State of the Union speech. It was Ursula von der Leyen’s sixth such address as President of the European Commission, and the second State of the Union speech of her second mandate.",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20260918-ursula-von-der-leyen-s-sixth-state-of-the-union-speech-a-grand-sweep-but-thin-on-details",
+      "published": "Fri, 18 Sep 2026 15:17:36 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
@@ -2314,21 +2370,10 @@
       "is_ticker": false
     },
     {
-      "title": "Canada and EU association: Are there other arrangements?",
-      "description": "While Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.",
-      "url": "https://www.dw.com/en/canada-and-eu-association-are-there-other-arrangements/a-79328797?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Canada and EU: A look at the bloc's special relationships",
+      "description": "Though Canada may be some distance from Europe geographically, closer political ties are in the cards. With talk of an associate membership, DW takes a look at other arrangements the EU has with particular countries.",
+      "url": "https://www.dw.com/en/canada-and-eu-a-look-at-the-bloc-s-special-relationships/a-79328797?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 18 Sep 2026 14:26:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Dual citizenship means Germany now in competition for talent",
-      "description": "Coach Jürgen Klopp has named several players to his first Germany squad who are eligible to play for other countries. Some still aren't committed to Germany long term.",
-      "url": "https://www.dw.com/en/dual-citizenship-means-germany-now-in-competition-for-talent/a-79330797?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 18 Sep 2026 14:04:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2405,11 +2450,11 @@
       "is_ticker": false
     },
     {
-      "title": "Venezuela unblocks some news websites censored for years",
-      "description": "Venezuela has restored access to 17 news sites that were blocked for years under Nicolas Maduro's administration. While activists welcomed the move, they noted that dozens more news portals, remain inaccessible.",
-      "url": "https://www.dw.com/en/venezuela-unblocks-some-news-websites-censored-for-years/a-79319441?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 18 Sep 2026 08:05:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Agnes Obel captures the cosmic feelings of motherhood",
+      "description": "Her new album ‘The Meaning of Flowers’ tackles much more than just flora, as the Danish musician and composer explores the sounds and sentiments of the very beginning of human life. She tells us about creating emotionally rich soundscapes that have often been used in film and television. We also discuss the Faustian pact that artists can find themselves in when it comes to balancing creative, personal and professional lives.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20260918-agnes-obel-captures-the-cosmic-feelings-of-motherhood",
+      "published": "Fri, 18 Sep 2026 15:25:04 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2425,20 +2470,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Venezuela lifts block on some news sites as transition talks resume",
-      "description": "Venezuela has unblocked some news sites that had been censored for years, its telecom regulator said Thursday, as US-backed political transition talks were set to resume. Digital rights group VE Sin Filtro verified access to 17 news sites through several internet providers. However, at least 188 websites remain blocked, it said, including 79 news outlets.",
-      "url": "https://www.france24.com/en/video/20260918-venezuela-lifts-block-on-some-news-sites-as-transition-talks-resume",
-      "published": "Fri, 18 Sep 2026 10:04:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Venezuela lifts block on some news sites as transition talks resume"
     },
     {
       "title": "New species of wild cat identified in Bolivia - first for more than 100 years",
@@ -2477,39 +2508,6 @@
       "is_ticker": false
     },
     {
-      "title": "Japan's central bank raises benchmark interest rate to 1.25%",
-      "description": "Japan's central bank raises benchmark interest rate to 1.25%",
-      "url": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
-      "published": "Fri, 18 Sep 2026 00:03:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A traditional Chinese coffin maker in Malaysia preserves a fading family craft",
-      "description": "Goh Khuay Par has spent more than five decades making traditional Chinese coffins by hand in Malaysia, carrying on a family craft passed down through three generations",
-      "url": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
-      "published": "Thu, 17 Sep 2026 21:29:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "At least 33 illegal mining suspects found dead in Nigerian custody, and officials suspect disease",
-      "description": "At least 33 suspects arrested for alleged illegal mining have been found dead in Nigerian security custody",
-      "url": "https://abcnews.com/International/wireStory/33-illegal-mining-suspects-found-dead-nigerian-custody-136541375",
-      "published": "Thu, 17 Sep 2026 17:19:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
       "description": "Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing benefits of his welfare program by 15%",
       "url": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
@@ -2521,10 +2519,21 @@
       "is_ticker": false
     },
     {
-      "title": "A tip about a swerving van leads police to 66,000 US silver coins in a fraud case",
-      "description": "Police investigating a money laundering case in Norway have recovered thousands of U.S. silver coins",
-      "url": "https://abcnews.com/International/wireStory/tip-swerving-van-leads-police-66000-us-silver-136534172",
-      "published": "Thu, 17 Sep 2026 12:52:52 -0400",
+      "title": "Russia’s parliamentary vote features no real opposition to Putin's policies",
+      "description": "Russia’s parliamentary election features the main Kremlin’s party and nine others that all back President Vladimir Putin’s policies",
+      "url": "https://abcnews.com/International/wireStory/russias-parliamentary-vote-features-real-opposition-putins-policies-136517124",
+      "published": "Thu, 17 Sep 2026 07:30:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "A ninth woman's body is found in South Africa as police investigate series of killings",
+      "description": "South African police say they have discovered a ninth woman's body east of Johannesburg",
+      "url": "https://abcnews.com/International/wireStory/ninth-womans-body-found-south-africa-police-investigate-136519320",
+      "published": "Thu, 17 Sep 2026 06:11:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
