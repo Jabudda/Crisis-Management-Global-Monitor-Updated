@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18T09:40:05.319187Z",
+  "last_updated": "2026-09-18T10:17:20.058258Z",
   "event_count": 222,
   "events": [
     {
@@ -35,17 +35,6 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 38,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "Fiji declares national HIV emergency as Pacific nation grapples with surge in cases",
-      "description": "Government estimates that one in 60 adults in Fiji now living with HIV, as escalating use of methamphetamine fuels ‘epidemic’ Fiji has declared a national HIV emergency amid a spike in infections as the Pacific nation grapples with a correlating rise in methamphetamine use. The country’s health and medical services minister, Dr Ratu Atonio Lalabalavu, said in a statement on social media that an outbreak-level response was no longer sufficient to address what he described an “epidemic”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/sep/17/fiji-declares-national-hiv-emergency-infections-surge-health",
-      "published": "Thu, 17 Sep 2026 01:43:49 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 37,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -280,7 +269,7 @@
     },
     {
       "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
-      "description": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat high global inflation linked to the war in Iran. The Bank of Japan voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995. Continue reading...",
+      "description": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran. The Bank of Japan voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
       "published": "Fri, 18 Sep 2026 07:14:13 GMT",
       "source": "The Guardian World",
@@ -335,10 +324,10 @@
       "ticker_label": "💥 French police officer arrested over suspected far-right terror plot"
     },
     {
-      "title": "Three dead, eight injured in Philippines school shooting",
-      "description": "The gunman, a 16-year-old student, is among the dead in what is the third school shooting in the country since June.",
+      "title": "Three dead and eight injured in Philippines school shooting",
+      "description": "The gunman is among the dead in what is the third school shooting in the country since June.",
       "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 18 Sep 2026 09:18:21 GMT",
+      "published": "Fri, 18 Sep 2026 10:04:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 20,
@@ -346,7 +335,7 @@
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Three dead, eight injured in Philippines school shooting"
+      "ticker_label": "🚨 Three dead and eight injured in Philippines school shooting"
     },
     {
       "title": "South Korea will not send military to support US war on Iran, defying Trump pressure",
@@ -389,6 +378,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Rising gas prices fuel protests in countries around the world"
+    },
+    {
+      "title": "Russian attack on Ukraine's capital injures at least 16",
+      "description": "A Russian missile and drone attack on Kyiv and its surrounding region has injured at least 19 people, including children",
+      "url": "https://abcnews.com/International/wireStory/russian-attack-ukraines-capital-injures-16-136518271",
+      "published": "Thu, 17 Sep 2026 09:43:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian attack on Ukraine's capital injures at least 16"
     },
     {
       "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
@@ -483,15 +486,18 @@
       "ticker_label": "🪖 Gold mine collapse kills 82 people in Sudan"
     },
     {
-      "title": "New human rights report unveils details, blames police for recent massacre in Haiti",
-      "description": "A human rights group in Haiti has published a report that reveals new details about one of the country’s biggest massacres in recent years and unveils security holes as authorities struggle to contain violent gangs in the Caribbean country",
-      "url": "https://abcnews.com/International/wireStory/new-human-rights-report-unveils-details-blames-police-136543889",
-      "published": "Thu, 17 Sep 2026 19:21:17 -0400",
+      "title": "Rescuers dig 4 bodies from a Nepal hydropower tunnel as families demand answers",
+      "description": "Rescuers in Nepal have recovered four bodies from a hydropower plant tunnel three weeks after a devastating flash flood",
+      "url": "https://abcnews.com/International/wireStory/rescuers-dig-4-bodies-nepal-hydropower-tunnel-families-136519899",
+      "published": "Thu, 17 Sep 2026 06:34:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Rescuers dig 4 bodies from a Nepal hydropower tunnel as families demand answers"
     },
     {
       "title": "Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’",
@@ -770,28 +776,6 @@
       "ticker_label": "🪖 Russia votes in parliamentary election as war in Ukraine drags on"
     },
     {
-      "title": "Intent not malicious, it's indifference: Thousands, if not millions, of books sent to AI woodchipper",
-      "description": "François Picard is pleased to welcome investigative journalist Emanuel Maiberg, Co-founder of 404 Media. As we embark on AI's uncharted waters, Maiberg has made a most unexpected discovery:: the mass acquisition, dismemberment and scanning of rare books for use as training data. His investigation reveals a globalised and deliberately opaque supply chain in which books purchased through anonymous marketplaces can ultimately arrive at large-scale scanning facilities, where their bindings are removed so that pages can be processed at great speed.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260917-intent-not-malicious-it-s-indifference-thousands-if-not-millions-of-books-sent-to-ai-woodchipper",
-      "published": "Thu, 17 Sep 2026 21:10:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Fiji declares national HIV emergency and extends testing program as cases surge",
-      "description": "Fiji has declared an HIV national emergency as one in 60 people in the South Pacific island nation is now estimated to be living with the condition",
-      "url": "https://abcnews.com/International/wireStory/fiji-declares-national-hiv-emergency-extends-testing-program-136524131",
-      "published": "Thu, 17 Sep 2026 08:50:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Body of missing hiker found in Olympic National Park thanks to crucial clue",
       "description": "Neil Gehring left Olympic National Park's Madison Falls Trailhead for an overnight trek and never returned.",
       "url": "https://www.foxnews.com/us/body-missing-hiker-found-olympic-national-park-crucial-clue",
@@ -945,17 +929,6 @@
       "is_ticker": false
     },
     {
-      "title": "Critics in meltdown over US cheese giant Tillamook halal label",
-      "description": "Critics have launched a boycott campaign against US cheese giant Tillamook over its new halal labelling.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/18/critics-in-meltdown-over-us-cheese-giant-tillamook-halal-label?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 03:13:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -967,18 +940,29 @@
       "is_ticker": false
     },
     {
-      "title": "Judges: As AfD ascends, Germany must bolster justice system",
-      "description": "German judges and prosecutors warn that the coalition needs to reform the laws covering state prosecutors to prevent \"extremists in government\" from abusing the legal system.",
-      "url": "https://www.dw.com/en/judges-as-afd-ascends-germany-must-bolster-justice-system/a-79314333?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 17 Sep 2026 15:18:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Australian man accused of murdering Thai teenager and putting body in suitcase pleads not guilty",
+      "description": "Simon Peter Carman appeared in a Pattaya court on Friday charged with killing Tunchanok Donhomla An Australian man accused of murdering a Thai teenager and putting her body in a suitcase pleaded not guilty on Friday in a hearing in the seaside resort city of Pattaya, a court official said. Simon Peter Carman, 45, was arrested in June after 17-year-old Tunchanok Donhomla was reported missing in Pattaya City, about 150km south-east of Bangkok. A suitcase containing her body was found shortly after. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/sep/18/australian-man-accused-of-murdering-thai-teenager-and-putting-body-in-suitcase-pleads-not-guilty-ntwnfb",
+      "published": "Fri, 18 Sep 2026 10:00:35 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Swimmer dies after being bitten by shark off popular Perth beach",
+      "description": "Locals describe their shock at witnessing the incident at Sorrento Beach on Friday morning Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man has died after being bitten by a shark off Sorrento Beach in Perth’s north. Emergency services were called to the popular beach at about 10.30am on Friday after reports of a shark-related incident. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach",
+      "published": "Fri, 18 Sep 2026 09:52:55 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Judges: As AfD ascends, Germany must bolster justice system"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Swimmer dies after being bitten by shark off popular Perth beach"
     },
     {
       "title": "Trump says 'major progress' made towards US military base in Poland",
@@ -993,6 +977,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump says 'major progress' made towards US military base in Poland"
+    },
+    {
+      "title": "Heavy rain and floods in northern Vietnam submerge homes and disrupt economy",
+      "description": "Heavy rain has caused widespread flooding across northern Vietnam",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-floods-northern-vietnam-submerge-homes-disrupt-136519818",
+      "published": "Thu, 17 Sep 2026 07:47:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Heavy rain and floods in northern Vietnam submerge homes and disrupt economy"
     },
     {
       "title": "ICE deports ex-Liberian fighter accused of torture, recruiting child soldiers",
@@ -1034,32 +1032,15 @@
       "ticker_label": "🪖 Finnish foreign ministry official details how Russia's 'hybrid warfare' reshaped border security"
     },
     {
-      "title": "Swimmer dies after being bitten by shark off popular Perth beach",
-      "description": "Authorities called to Sorrento Beach on Friday morning following reports of shark-related incident Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast A man has died after being bitten by a shark off Sorrento Beach in Perth’s north. Emergency services were called to the popular Sorrento Beach about 10.30am on Friday after reports of a shark-related incident. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/18/swimmer-dies-after-being-bitten-by-shark-off-popular-perth-beach",
-      "published": "Fri, 18 Sep 2026 08:27:38 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Swimmer dies after being bitten by shark off popular Perth beach"
-    },
-    {
-      "title": "Fewer migrants are reaching Europe by sea but more people are dying, IOM warns",
-      "description": "The U.N. migration agency reports that significantly fewer migrants are reaching Europe by sea this year, but more are dying on increasingly dangerous journeys",
-      "url": "https://abcnews.com/International/wireStory/fewer-migrants-reaching-europe-sea-people-dying-iom-136530697",
-      "published": "Thu, 17 Sep 2026 11:24:28 -0400",
+      "title": "China’s porcelain city carries centuries-old heritage to a new generation",
+      "description": "China’s Jingdezhen porcelain sites were inscribed on UNESCO’s World Heritage List in 2026",
+      "url": "https://abcnews.com/International/wireStory/chinas-porcelain-city-carries-centuries-heritage-new-generation-136514289",
+      "published": "Wed, 16 Sep 2026 23:13:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Fewer migrants are reaching Europe by sea but more people are dying, IOM warns"
+      "is_ticker": false
     },
     {
       "title": "Escalating conflict drives new displacement in Yemen",
@@ -1137,17 +1118,6 @@
       "is_ticker": false
     },
     {
-      "title": "Shark kills swimmer off Western Australian city beach",
-      "description": "A man has been killed by a shark as he swam off a Western Australian city beach",
-      "url": "https://abcnews.com/International/wireStory/fatal-shark-attack-suspected-australian-city-beach-136550779",
-      "published": "Fri, 18 Sep 2026 05:10:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods",
       "description": "Johannesburg is struggling with a deepening waste crisis marked by unreliable collections, rapidly shrinking landfill space and a rise in illegal dumping",
       "url": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
@@ -1157,6 +1127,45 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Huawei unveils new chip technologies as Chinese firm steps up the AI race with Nvidia",
+      "description": "Chinese technology giant Huawei has launched new chip technologies as it challenges leading global companies such as Nvidia",
+      "url": "https://abcnews.com/International/wireStory/huawei-unveils-new-chip-technologies-chinese-firm-steps-136519141",
+      "published": "Thu, 17 Sep 2026 05:14:17 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Romanian border residents fear fallout as frequency of drone alerts rises",
+      "description": "Romanian residents near the Ukraine border are living in fear due to Russian drone strikes",
+      "url": "https://abcnews.com/International/wireStory/romanian-border-residents-fear-fallout-frequency-drone-alerts-136518013",
+      "published": "Thu, 17 Sep 2026 02:02:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Romanian border residents fear fallout as frequency of drone alerts rises"
+    },
+    {
+      "title": "At least 48 dead in Nigeria after consuming drink suspected to contain methanol",
+      "description": "At least 48 people have died after consuming a drink in southern Nigeria’s Ondo state",
+      "url": "https://abcnews.com/International/wireStory/48-dead-nigeria-after-consuming-drink-suspected-methanol-136519542",
+      "published": "Thu, 17 Sep 2026 07:22:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 At least 48 dead in Nigeria after consuming drink suspected to contain methanol"
     },
     {
       "title": "New UN system platform puts millions of data points at users’ fingertips, says Guterres",
@@ -1220,6 +1229,20 @@
       "ticker_label": "🪖 Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft"
     },
     {
+      "title": "‘This is a war’: South Africa battles femicide as women’s bodies pile up",
+      "description": "Bodies of nine women have been found in a Johannesburg neighbourhood in two months, as worries grow over women's safety.",
+      "url": "https://www.aljazeera.com/news/2026/9/18/this-is-a-war-south-africa-battles-femicide-as-womens-bodies-pile-up?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 09:43:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ‘This is a war’: South Africa battles femicide as women’s bodies pile up"
+    },
+    {
       "title": "In Yemen, war at home and in the region drives up prices",
       "description": "Families in Sanaa brace for higher food and transport costs after first fuel price increase in four years.",
       "url": "https://www.aljazeera.com/features/2026/9/18/in-yemen-war-at-home-and-in-the-region-drives-up-prices?traffic_source=rss",
@@ -1253,6 +1276,17 @@
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Louisiana firefighters find feline native to sub-Saharan Africa while responding to house fire",
+      "description": "The African serval, illegally enclosed in the back yard, was subdued and transferred to an animal welfare facility Louisiana firefighters responding to a small house blaze found a wildcat native to sub-Saharan Africa illegally enclosed in the back yard, and an animal welfare agency is now seeking to place the creature in an appropriate environment, according to officials. Firefighters investigating a report of a minor fire at a home in the suburban New Orleans community of Marrero on Tuesday spotted the cat in question – an African serval – behind the residence in a chain-linked enclosure resembling a cramped baseball batting cage, a spokesperson for the local animal protection services said. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/sep/18/louisiana-firefighters-sub-saharan-africa-feline",
+      "published": "Fri, 18 Sep 2026 10:00:15 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1295,6 +1329,20 @@
       "is_ticker": false
     },
     {
+      "title": "Russia votes in wartime election set to secure the Kremlin's power",
+      "description": "Voting got ⁠underway on Friday in a tightly controlled three-day parliamentary election in Russia which President Vladimir Putin has framed as a barometer of support for Russia's war in Ukraine. It is the first parliamentary election since Russia launched its full-scale war in Ukraine in February 2022, and most anti-war candidates have been excluded from the ballot.",
+      "url": "https://www.france24.com/en/video/20260918-russia-votes-in-wartime-election-set-to-secure-the-kremlin-s-power",
+      "published": "Fri, 18 Sep 2026 09:52:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia votes in wartime election set to secure the Kremlin's power"
+    },
+    {
       "title": "British woman kidnapped in Malawi 'rescued and reunited with family'",
       "description": "A British woman who was abducted in Malawi has been rescued and reunited with her family after a shoot-out between officers and the kidnappers, police said.",
       "url": "https://news.sky.com/story/british-woman-kidnapped-in-malawi-rescued-and-reunited-with-family-13589169",
@@ -1304,6 +1352,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war",
+      "description": "The lightning advance of the Iran-backed Houthi rebels has forced tens of thousands of people to flee their homes in Yemen",
+      "url": "https://abcnews.com/International/wireStory/houthi-attacks-driving-oil-prices-yemenis-crossfire-toll-136517451",
+      "published": "Thu, 17 Sep 2026 05:22:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war"
     },
     {
       "title": "Australian man accused of teenage girl's murder appears in Thailand court",
@@ -1317,10 +1379,10 @@
       "is_ticker": false
     },
     {
-      "title": "Vanuatu ends search for 37 people missing in ferry sinking",
-      "description": "Authorities have called off the search for survivors after a ferry sank off Vanuatu, leaving 39 people presumed dead",
-      "url": "https://abcnews.com/International/wireStory/vanuatu-ends-search-37-people-missing-ferry-sinking-136550109",
-      "published": "Fri, 18 Sep 2026 02:19:20 -0400",
+      "title": "A boat towed by a North Korean cargo sinks off Japan's northwestern coast, 1 missing",
+      "description": "A boat carrying four crew members sank while being towed by a North Korean cargo ship off Japan's northwestern coast, the Japan Coast Guard said",
+      "url": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
+      "published": "Thu, 17 Sep 2026 13:13:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1328,15 +1390,18 @@
       "is_ticker": false
     },
     {
-      "title": "A British woman who was kidnapped in Malawi has been rescued, police say",
-      "description": "Police say a British woman kidnapped in the southern African nation of Malawi last week has been rescued",
-      "url": "https://abcnews.com/International/wireStory/british-woman-kidnapped-malawi-rescued-police-136539027",
-      "published": "Thu, 17 Sep 2026 15:53:07 -0400",
+      "title": "Bank of England expected to keep interest rates unchanged despite rising inflation",
+      "description": "The Bank of England is keeping the U.K.’s main interest rate unchanged at 3.75% even though inflation in the United Kingdom has risen to a five-month high as the fallout from the Iran war continues to ratchet up fuel prices",
+      "url": "https://abcnews.com/International/wireStory/bank-england-expected-interest-rates-unchanged-despite-rising-136517867",
+      "published": "Thu, 17 Sep 2026 07:54:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Bank of England expected to keep interest rates unchanged despite rising inflation"
     },
     {
       "title": "A sweeping US sanctions bill offers Ukraine new leverage on Russia",
@@ -1353,15 +1418,32 @@
       "ticker_label": "🪖 A sweeping US sanctions bill offers Ukraine new leverage on Russia"
     },
     {
-      "title": "A boat towed by a North Korean cargo sinks off Japan's northwestern coast, 1 missing",
-      "description": "A boat carrying four crew members sank while being towed by a North Korean cargo ship off Japan's northwestern coast, the Japan Coast Guard said",
-      "url": "https://abcnews.com/International/wireStory/boat-towed-north-korean-cargo-sinks-off-japans-136534701",
-      "published": "Thu, 17 Sep 2026 13:13:01 -0400",
-      "source": "ABC News International",
+      "title": "Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial",
+      "description": "Judge Judy Sheindlin says there's a \"danger\" in not retrying Lindsay Clancy, the Massachusetts mother accused of killing her three children.",
+      "url": "https://www.foxnews.com/us/judge-judy-warns-danger-prosecutors-dont-retry-lindsay-clancy-murder-trial-ends-mistrial",
+      "published": "Fri, 18 Sep 2026 06:00:43 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Judge Judy warns of 'danger' if prosecutors don't retry Lindsay Clancy after murder trial ends in mistrial"
+    },
+    {
+      "title": "Top DOJ official warns of deadly smuggling route after 42 vanish at sea",
+      "description": "The Justice Department says 42 people vanished at sea after a Colombian smuggler guided them onto a boat from San Andrés Island to Nicaragua.",
+      "url": "https://www.foxnews.com/us/top-doj-official-warns-catastrophic-smuggling-danger-42-vanish-doomed-sea-voyage",
+      "published": "Fri, 18 Sep 2026 06:00:39 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Top DOJ official warns of deadly smuggling route after 42 vanish at sea"
     },
     {
       "title": "Meyer Lansky’s grandson reflects on late mobster's crime empire, Las Vegas legacy and missing millions",
@@ -1379,17 +1461,6 @@
       "description": "Ashtrays containing possible human remains and images of seven missing women were found among over 1 million files inside Eugene Horsch's Philadelphia home.",
       "url": "https://www.foxnews.com/us/philadelphia-home-search-uncovers-possible-human-ashes-images-7-missing-women-police",
       "published": "Thu, 17 Sep 2026 14:48:15 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "West Virginia woman charged in death of ill husband she left on toilet for 19 hours",
-      "description": "A West Virginia woman allegedly left her husband who had dementia and Alzheimer's on a toilet for 19 hours without food or medication, leading to his death.",
-      "url": "https://www.foxnews.com/us/west-virginia-woman-charged-death-ill-husband-left-toilet-19-hours",
-      "published": "Thu, 17 Sep 2026 03:00:13 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1462,17 +1533,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Houthis enter US 'kill box' after seizing Red Sea 'cork,' former Pentagon official warns"
-    },
-    {
-      "title": "Sweden votes as migration, crime and economy dominate high-stakes election",
-      "description": "Gun violence, asylum policy and welfare reform dominate Sweden's election as Ulf Kristersson's coalition battles Magdalena Andersson's Social Democrats.",
-      "url": "https://www.foxnews.com/world/sweden-votes-migration-crime-economy-dominate-high-stakes-election",
-      "published": "Sun, 13 Sep 2026 06:00:32 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
@@ -1569,32 +1629,21 @@
       "ticker_label": "🪖 Russia seizes assets of Swiss food giant Nestle and three French firms"
     },
     {
-      "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
-      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
-      "url": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
-      "published": "Fri, 18 Sep 2026 05:17:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Serbia's President Vucic inaugurates assembly factory for Israel-made drones",
-      "description": "Serbia’s President Aleksandar Vucic says he has inaugurated an assembly factory for Israeli drones in the Balkan country",
-      "url": "https://abcnews.com/International/wireStory/serbias-president-vucic-inaugurates-assembly-factory-israel-made-136522850",
-      "published": "Thu, 17 Sep 2026 08:33:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Sweden PM Kristersson to resign after opposition wins narrow majority in election",
       "description": "Sweden’s left-leaning opposition has won a narrow majority in the national election",
       "url": "https://abcnews.com/International/wireStory/sweden-pm-kristersson-resign-after-left-leaning-opposition-136522488",
       "published": "Thu, 17 Sep 2026 08:50:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
+      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
+      "url": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
+      "published": "Fri, 18 Sep 2026 05:17:12 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1685,6 +1734,31 @@
       "is_ticker": false
     },
     {
+      "title": "Police move hundreds of migrants still in Ceuta off beaches in Spanish enclave",
+      "description": "Spanish police in Ceuta on Friday morning started moving hundreds of migrants from the beaches of the Spanish enclave to a new tented area. Several thousand migrants remain in Ceuta after tens of thousands of people crossed the border with Morocco in late July.",
+      "url": "https://www.france24.com/en/europe/20260918-police-move-hundreds-of-migrants-still-in-ceuta-off-beaches-in-spanish-enclave",
+      "published": "Fri, 18 Sep 2026 09:51:01 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine",
+      "description": "Russian State Duma elections will be held in occupied Donetsk, Luhansk, Kherson, and Zaporizhzhia amid accusations of armed voter intimidation.",
+      "url": "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
+      "published": "Fri, 18 Sep 2026 06:00:34 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 ‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine"
+    },
+    {
       "title": "This Olympic river has 500 crocodiles in it - but that's not the main concern",
       "description": "Queensland's Fitzroy River has been selected for the 2032 Games, despite concerns over the course - and its inhabitants.",
       "url": "https://www.bbc.co.uk/news/articles/c68xkypqyxw7o?at_medium=RSS&at_campaign=rss",
@@ -1712,17 +1786,6 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US to bar some South Africans over claims of anti-white discrimination",
-      "description": "Announcement of visa restrictions follows Trump’s false claims of ‘white genocide’ taking place in South Africa The US has announced visa restrictions on some South Africans as Donald Trump’s administration continues to claim that South Africa’s government racially discriminates against white minority Afrikaners. The announcement did not specify individuals who were barred from the US. Trump has spent his second term falsely claiming there is a “white genocide” in South Africa and railing against its affirmative action policies. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/sep/16/us-visa-restrictions-south-africans-trump-claims-anti-white-discrimination",
-      "published": "Wed, 16 Sep 2026 12:35:45 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1796,6 +1859,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 New cat species identified for first time in more than a century in Bolivia"
+    },
+    {
+      "title": "Bolivia: New cat species discovered by scientists",
+      "description": "Genetic data confirmed that the small feline, called \"tilcayo\" by locals, is a new species of cat. It's the first such discovery in more than 100 years.",
+      "url": "https://www.dw.com/en/bolivia-new-cat-species-discovered-by-scientists/a-79320205?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 18 Sep 2026 09:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Rare Aztec manuscript returns to Mexico on loan after nearly two centuries in France",
@@ -1933,6 +2007,17 @@
       "is_ticker": false
     },
     {
+      "title": "India star Sooryavanshi urged to be patient, says coach Gambhir",
+      "description": "Vaibhav Sooryavanshi told to be patient after playing back up to Abhishek Sharma and Sanju Samson in Sri Lanka series.",
+      "url": "https://www.aljazeera.com/sports/2026/9/18/india-star-sooryavanshi-urged-to-be-patient-says-coach-gambhir?traffic_source=rss",
+      "published": "Fri, 18 Sep 2026 09:34:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Israel would rather not watch NAZA",
       "description": "The backlash against the Gaza documentary is part of a broader refusal to confront the reality of the genocide.",
       "url": "https://www.aljazeera.com/opinions/2026/9/18/israel-would-rather-not-watch-naza?traffic_source=rss",
@@ -2025,17 +2110,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 New tiger cat species identified in Bolivia, first in over a century"
-    },
-    {
-      "title": "Bank of Japan raises rates to 31-year high of 1.25% as inflation rises",
-      "description": "Bank of Japan raises benchmark interest rate from 1 to 1.25 percent, pledging to help counter inflation risks.",
-      "url": "https://www.aljazeera.com/news/2026/9/18/japans-interest-rate-hiked-to-31-year-high-at-1-25-as-inflation-rises?traffic_source=rss",
-      "published": "Fri, 18 Sep 2026 03:20:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2324,6 +2398,20 @@
       "is_ticker": false
     },
     {
+      "title": "Venezuela lifts block on some news sites as transition talks resume",
+      "description": "Venezuela has unblocked some news sites that had been censored for years, its telecom regulator said Thursday, as US-backed political transition talks were set to resume. Digital rights group VE Sin Filtro verified access to 17 news sites through several internet providers. However, at least 188 websites remain blocked, it said, including 79 news outlets.",
+      "url": "https://www.france24.com/en/video/20260918-venezuela-lifts-block-on-some-news-sites-as-transition-talks-resume",
+      "published": "Fri, 18 Sep 2026 10:04:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Venezuela lifts block on some news sites as transition talks resume"
+    },
+    {
       "title": "‘We cried the whole way’: Refugees flee Yemen fighting",
       "description": "An estimated 125,000 people, including more than 57,000 children, have fled since hostilities erupted in July between the Iran-backed Houthi rebels, the Yemeni government and its ally Saudi Arabia, with the UN calling it one of the most rapid and volatile waves of displacement in Yemen in years. Thousands have even been making the dangerous crossing across the Bab el-Mandeb strait to Djibouti, many of them children, travelling in extreme heat, often without enough water.",
       "url": "https://www.france24.com/en/video/20260918-we-cried-the-whole-way-refugees-flee-yemen-fighting",
@@ -2364,28 +2452,6 @@
       "description": "With US midterm elections now less than two months away, a series of videos have surfaced online, featuring celebrities seemingly denouncing the Democrats. However, the clips are false, and were created using artificial intelligence, as FRANCE 24's Charlotte Hughes explains.",
       "url": "https://www.france24.com/en/tv-shows/truth-or-fake/20260917-us-midterms-russian-disinformation-campaign-targets-democrats",
       "published": "Thu, 17 Sep 2026 21:19:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
-      "description": "Speaking with FRANCE 24's Monte Francis, Fabian Zuleeg, Chief Economist at the European Policy Center, says that the partnership between Canada and the EU \"is a classic win-win situation. Canada has many resources, has many of the economic strengths that the European Union lacks, the EU has a very large market, it is an important trading partner\".",
-      "url": "https://www.france24.com/en/tv-shows/a-propos/20260917-the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
-      "published": "Thu, 17 Sep 2026 21:12:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "The Canada-EU partnership 'a classic win-win situation', economist says",
-      "description": "Speaking with FRANCE 24's Monte Francis, Fabian Zuleeg, Chief Economist at the European Policy Center, says that the partnership between Canada and the EU \"is a classic win-win situation. Canada has many resources, has many of the economic strengths that the European Union lacks, the EU has a very large market, it is an important trading partner\".",
-      "url": "https://www.france24.com/en/the-canada-eu-partnership-a-classic-win-win-situation-economist-says",
-      "published": "Thu, 17 Sep 2026 21:09:20 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2454,39 +2520,6 @@
       "is_ticker": false
     },
     {
-      "title": "Japan's central bank raises benchmark interest rate to 1.25%",
-      "description": "Japan's central bank raises benchmark interest rate to 1.25%",
-      "url": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
-      "published": "Fri, 18 Sep 2026 00:03:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A traditional Chinese coffin maker in Malaysia preserves a fading family craft",
-      "description": "Goh Khuay Par has spent more than five decades making traditional Chinese coffins by hand in Malaysia, carrying on a family craft passed down through three generations",
-      "url": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
-      "published": "Thu, 17 Sep 2026 21:29:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "At least 33 illegal mining suspects found dead in Nigerian custody, and officials suspect disease",
-      "description": "At least 33 suspects arrested for alleged illegal mining have been found dead in Nigerian security custody",
-      "url": "https://abcnews.com/International/wireStory/33-illegal-mining-suspects-found-dead-nigerian-custody-136541375",
-      "published": "Thu, 17 Sep 2026 17:19:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
       "description": "Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing benefits of his welfare program by 15%",
       "url": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
@@ -2498,10 +2531,21 @@
       "is_ticker": false
     },
     {
-      "title": "A tip about a swerving van leads police to 66,000 US silver coins in a fraud case",
-      "description": "Police investigating a money laundering case in Norway have recovered thousands of U.S. silver coins",
-      "url": "https://abcnews.com/International/wireStory/tip-swerving-van-leads-police-66000-us-silver-136534172",
-      "published": "Thu, 17 Sep 2026 12:52:52 -0400",
+      "title": "Russia’s parliamentary vote features no real opposition to Putin's policies",
+      "description": "Russia’s parliamentary election features the main Kremlin’s party and nine others that all back President Vladimir Putin’s policies",
+      "url": "https://abcnews.com/International/wireStory/russias-parliamentary-vote-features-real-opposition-putins-policies-136517124",
+      "published": "Thu, 17 Sep 2026 07:30:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "A ninth woman's body is found in South Africa as police investigate series of killings",
+      "description": "South African police say they have discovered a ninth woman's body east of Johannesburg",
+      "url": "https://abcnews.com/International/wireStory/ninth-womans-body-found-south-africa-police-investigate-136519320",
+      "published": "Thu, 17 Sep 2026 06:11:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2525,6 +2569,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168351",
       "published": "Wed, 16 Sep 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Psychosis evidence changes everything in Clancy judge's other killer mom case: retired judge",
+      "description": "Judge William Sullivan, who declared a mistrial in the Lindsay Clancy case, also presided over the Latarsha Sanders trial now vacated by the court.",
+      "url": "https://www.foxnews.com/us/psychosis-evidence-changes-everything-clancy-judges-killer-mom-case-retired-judge",
+      "published": "Fri, 18 Sep 2026 06:00:11 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2601,28 +2656,6 @@
       "description": "Photos show Pope Leo XIV receiving the \"Sphere of Humanity\" glass sculpture as 70 leaders prepare to draft the Codex Humanitatis on AI ethics.",
       "url": "https://www.foxnews.com/us/pope-leo-xiv-receives-symbolic-sphere-charity-push-ai-protect-human-dignity",
       "published": "Thu, 17 Sep 2026 06:47:45 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Memphis mom says Trump brought peace to streets as Democratic DA battles task force oversight",
-      "description": "A petition nearing 10,000 signatures demands DA Steve Mulroy drop his fight against Donald Trump's Memphis Safe Task Force accountability measures.",
-      "url": "https://www.foxnews.com/us/memphis-mom-says-trump-brought-peace-streets-democratic-da-battles-task-force-oversight",
-      "published": "Thu, 17 Sep 2026 06:00:31 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "WATCH: Handcuffed inmate breaks free, punches deputy in wild courthouse escape attempt",
-      "description": "Video shows Timothy Reaggle allegedly slipping out of his handcuffs and punching a bailiff in an attempt to escape after his sentencing hearing at the Columbiana County Courthouse.",
-      "url": "https://www.foxnews.com/us/handcuffed-inmate-breaks-free-punches-deputy-wild-courthouse-escape-attempt",
-      "published": "Wed, 16 Sep 2026 23:09:53 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
