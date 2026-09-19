@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T21:37:00.343103Z",
+  "last_updated": "2026-09-19T22:14:32.783555Z",
   "event_count": 221,
   "events": [
     {
@@ -54,17 +54,6 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Black smoke seen near Riyadh amid air raid alerts in Saudi Arabia"
-    },
-    {
-      "title": "Saudi Arabia issues first air raid alerts for Riyadh since Houthis escalated attacks",
-      "description": "Residents later received the all-clear after explosions were reported in the capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7el18dxpo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 04:20:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "People protecting nature and land set up self-defence units amid threat of murder",
@@ -187,6 +176,17 @@
       "is_ticker": false
     },
     {
+      "title": "4 suspects killed in shootout as police rescue kidnapped British woman in Malawi",
+      "description": "Police in Malawi say four suspects were fatally shot in the operation that rescued a British woman who was kidnapped",
+      "url": "https://abcnews.com/International/wireStory/4-suspects-killed-shootout-police-rescue-kidnapped-british-136551217",
+      "published": "Fri, 18 Sep 2026 05:21:47 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Japan raises interest rates to 31-year high to curb impact of rising prices",
       "description": "Increase from 1% to 1.25% follows US Federal Reserve and European Central Bank tightening monetary policy Business live – latest updates Japan’s central bank has increased interest rates to a fresh 31-year high as it attempts to combat global inflation linked to the war in Iran. The Bank of Japan (BoJ) voted to raise its target interest rate from 1% to 1.25%, the highest level since 1995. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/sep/18/japan-raises-interest-rates-to-31-year-high-rising-prices",
@@ -263,20 +263,6 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Houthis say they targeted Saudi capital with ballistic missiles"
     },
     {
       "title": "Alleged underworld supporters and unfounded health claims: One Nation rolls out more Victorian election candidates",
@@ -574,6 +560,20 @@
       "ticker_label": "🪖 France, Poland and European allies warn of escalating Russian 'hybrid' attacks"
     },
     {
+      "title": "Shooting at high school in the Philippines kills at least 3 young people, injures 6",
+      "description": "A shooting at a high school in the southern Philippines has left at least three young people dead and six others injured, including the gunman",
+      "url": "https://abcnews.com/International/wireStory/shooting-high-school-philippines-kills-3-young-people-136551214",
+      "published": "Fri, 18 Sep 2026 05:19:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Shooting at high school in the Philippines kills at least 3 young people, injures 6"
+    },
+    {
       "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
       "description": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
@@ -730,6 +730,34 @@
       "ticker_label": "🚨 ICE officer accused of lying to FBI about Minneapolis shooting pleads not guilty"
     },
     {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "description": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 20:16:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Houthis say they targeted Saudi capital with ballistic missiles"
+    },
+    {
+      "title": "Trump says US will form 'AI Force' and appoint an artificial intelligence tsar",
+      "description": "The president said his administration \"will not in any way hinder or stifle the growth\" amid amid warnings about the emergent technology.",
+      "url": "https://www.bbc.co.uk/news/articles/cqlykr2vrv04o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 19 Sep 2026 21:01:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump says US will form 'AI Force' and appoint an artificial intelligence tsar"
+    },
+    {
       "title": "Trump announces new 'AI force' amid mounting pressure",
       "description": "Several voices, including from within the AI industry, have been calling for policing the fast-growing technology. Trump has once again called AI warnings \"hoaxes\" and vowed to \"cherish, help\" the industry.",
       "url": "https://www.dw.com/en/trump-announces-new-ai-force-amid-mounting-pressure/a-79339935?maca=en-rss-en-all-1573-xml-mrss",
@@ -762,17 +790,6 @@
       "description": "Cuba’s power grid has collapsed, leaving millions of people across the island without electricity",
       "url": "https://abcnews.com/International/wireStory/cuba-hit-blackout-millions-island-left-electricity-136572161",
       "published": "Fri, 18 Sep 2026 17:23:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Macron orders protections for infrastructure, citing a growing Russian threat",
-      "description": "French President Emmanuel Macron has asked his government to prepare a plan to protect critical infrastructure against drone and cyberattacks",
-      "url": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
-      "published": "Fri, 18 Sep 2026 10:46:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -916,20 +933,6 @@
       "is_ticker": false
     },
     {
-      "title": "Russian holds parliamentary vote in areas it seized from Ukraine in the war",
-      "description": "Russia’s parliamentary election for the first time is being held in Ukraine’s regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago",
-      "url": "https://abcnews.com/International/wireStory/russian-holds-parliamentary-vote-areas-seized-ukraine-war-136580922",
-      "published": "Sat, 19 Sep 2026 00:26:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian holds parliamentary vote in areas it seized from Ukraine in the war"
-    },
-    {
       "title": "As Europe warms, Italy sees West Nile virus spread farther and longer",
       "description": "Italian health authorities see evidence that rising temperatures and longer warm seasons are helping mosquitoes spread West Nile virus across a wider area, during more months of the year",
       "url": "https://abcnews.com/International/wireStory/europe-warms-italy-sees-west-nile-virus-spread-136580554",
@@ -1008,6 +1011,17 @@
       "is_ticker": false
     },
     {
+      "title": "New Jersey mom charged with obstruction after 'missing' son found hiding in her crawl space",
+      "description": "A New Jersey mother reportedly told East Brunswick police her missing teen wasn't home, but officers found the juvenile hiding in a crawl space in her basement.",
+      "url": "https://www.foxnews.com/us/new-jersey-mom-charged-obstruction-missing-son-found-hiding-crawl-space",
+      "published": "Sat, 19 Sep 2026 18:04:16 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Third person dies after mosquito is reportedly trapped on plane to Germany in 'airport malaria' phenomenon",
       "description": "Three people have died from so-called \"airport malaria\" after an infected mosquito was reportedly transported aboard a flight to Frankfurt Airport in Germany.",
       "url": "https://www.foxnews.com/world/third-person-dies-mosquito-trapped-plane-germany-airport-malaria-phenomenon",
@@ -1055,6 +1069,17 @@
       "is_ticker": false
     },
     {
+      "title": "Will even one of the U.N.'s 17 'sustainable development goals' be met by 2030?",
+      "description": "The 17 goals agreed upon by world leaders are incredibly ambitious. Are we even close to achieving any of them? If we don't, is the project a failure?",
+      "url": "https://www.npr.org/2026/09/18/g-s1-143738/united-nations-sustainable-development-goals-hunger-climate-gender",
+      "published": "Fri, 18 Sep 2026 12:07:51 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Oktoberfest opens as Munich mayor taps first beer keg",
       "description": "Thousands of visitors streamed onto Munich's Oktoberfest grounds as the world-famous beer festival got underway. Some spent the night outside the gates to secure coveted places in the festival tents.",
       "url": "https://www.dw.com/en/oktoberfest-opens-as-munich-mayor-taps-first-beer-keg/a-79336519?maca=en-rss-en-all-1573-xml-mrss",
@@ -1085,6 +1110,17 @@
       "url": "https://news.sky.com/story/gianni-infantino-told-to-give-10m-to-each-of-the-worlds-211-fas-13589386",
       "published": "Fri, 18 Sep 2026 16:43:00 +0100",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods",
+      "description": "Johannesburg is struggling with a deepening waste crisis marked by unreliable collections, rapidly shrinking landfill space and a rise in illegal dumping",
+      "url": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
+      "published": "Fri, 18 Sep 2026 00:04:39 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1313,6 +1349,31 @@
       "is_ticker": false
     },
     {
+      "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit",
+      "description": "Taiwan’s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
+      "url": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853",
+      "published": "Fri, 18 Sep 2026 09:03:24 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit"
+    },
+    {
+      "title": "Australian man accused of teenage girl's murder appears in Thailand court",
+      "description": "An Australian man has appeared in a Thai court for the first time on charges of murder and concealment of a body in connection with the death of a teenage girl",
+      "url": "https://abcnews.com/International/wireStory/australian-man-accused-teenage-girls-murder-appears-thailand-136550969",
+      "published": "Fri, 18 Sep 2026 05:18:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Nobel laureate Mohammadi says Iranians are paying the price for war",
       "description": "Mohammadi said Iranians are grappling with multiple crises arising from the war.",
       "url": "https://abcnews.com/International/wireStory/nobel-laureate-narges-mohammadi-tells-ap-iranians-paying-136586324",
@@ -1325,17 +1386,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Nobel laureate Mohammadi says Iranians are paying the price for war"
-    },
-    {
-      "title": "Anger in Jamaica over deal to accept migrants expelled by the US",
-      "description": "A deal to accept migrants expelled by the United States is sparking protests by Jamaica’s main opposition party and a host of other groups",
-      "url": "https://abcnews.com/International/wireStory/anger-jamaica-deal-accept-migrants-expelled-us-136573881",
-      "published": "Fri, 18 Sep 2026 19:15:31 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Law professor's killer stalked him 'like a shark circling' before ex-mother-in-law's murder-for-hire ambush",
@@ -1406,17 +1456,6 @@
       "description": "Meyer Lansky II reveals personal letters and memories of his mob boss grandfather in a new book exploring the infamous organized crime figure's legacy.",
       "url": "https://www.foxnews.com/us/meyer-lansky-grandson-reflects-late-mobster-crime-empire-las-vegas-legacy-missing-millions",
       "published": "Thu, 17 Sep 2026 18:07:07 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Philadelphia home linked to 7 missing women, late resident's potential 'serial killer' memoir investigated",
-      "description": "Ashtrays containing possible human remains and images of seven missing women were found among over one million files inside Eugene Horsch's Philadelphia home.",
-      "url": "https://www.foxnews.com/us/philadelphia-home-search-uncovers-possible-human-ashes-images-7-missing-women-police",
-      "published": "Thu, 17 Sep 2026 14:48:15 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1554,6 +1593,17 @@
       "is_ticker": false
     },
     {
+      "title": "They're not playing our song! North Korean anthem played at South Korean hockey match",
+      "description": "South Korean field hockey players were perplexed when the national anthem of North Korea was played instead of their own before a men's field hockey match against Bangladesh at the Asian Games",
+      "url": "https://abcnews.com/International/wireStory/playing-song-north-korean-anthem-played-south-korean-136550873",
+      "published": "Fri, 18 Sep 2026 05:17:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Who should set the rules for AI? The UN is pushing for a safer digital future",
       "description": "Artificial intelligence (AI) is advancing rapidly, raising questions about how societies and governments can capture its benefits while managing risks that often extend beyond national borders.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168353",
@@ -1670,31 +1720,6 @@
       "is_ticker": false
     },
     {
-      "title": "Congo begins Ebola vaccinations for health workers in outbreak epicenter",
-      "description": "This has been the fastest-growing outbreak of the disease in history.",
-      "url": "https://abcnews.com/International/wireStory/congo-begins-ebola-vaccinations-health-workers-epicenter-outbreak-136589471",
-      "published": "Sat, 19 Sep 2026 14:18:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Russia lodges protest with Japan over US Typhoon missile deployment",
-      "description": "Russia’s Foreign Ministry says that it has sent a note to Japan over its hosting of U.S. medium-range missile systems",
-      "url": "https://abcnews.com/International/wireStory/russia-lodges-protest-japan-us-typhoon-missile-deployment-136558875",
-      "published": "Fri, 18 Sep 2026 10:42:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Russia lodges protest with Japan over US Typhoon missile deployment"
-    },
-    {
       "title": "Women and girls pay high price in DR Congo Ebola outbreak",
       "description": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168368",
@@ -1760,28 +1785,6 @@
       "description": "Canadian Prime Minister Mark Carney has returned from Europe and cast Canada as moving quickly beyond its historic reliance on the United States",
       "url": "https://abcnews.com/International/wireStory/carney-canada-strong-us-borrowing-costs-rise-europe-136571407",
       "published": "Fri, 18 Sep 2026 16:43:55 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US deportees to Equatorial Guinea were arrested and beaten by police, lawyers say",
-      "description": "Two men deported by the United States to Equatorial Guinea have been arbitrarily arrested, their lawyers and rights groups said on Friday, after the police covered their heads with a bag, beat them and held them at gunpoint in a hotel-turned detention ...",
-      "url": "https://abcnews.com/International/wireStory/us-deportees-equatorial-guinea-arrested-beaten-police-lawyers-136567781",
-      "published": "Fri, 18 Sep 2026 14:34:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US envoy to NATO criticizes Czech Republic's 'disappointing' spending on defense",
-      "description": "United States ambassador to NATO has criticized the Czech Republic for not spending enough on defense",
-      "url": "https://abcnews.com/International/wireStory/us-envoy-nato-criticizes-czech-republics-disappointing-spending-136566216",
-      "published": "Fri, 18 Sep 2026 13:30:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1858,6 +1861,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Syrian regime planned American journalist's kidnapping for weeks",
+      "description": "New reporting finds the abduction of journalist Austin Tice was planned by the Syrian government for weeks.",
+      "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded",
+      "published": "Fri, 18 Sep 2026 15:13:52 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2277,28 +2291,6 @@
       "is_ticker": false
     },
     {
-      "title": "Persecuted Chinese religious leader finds refuge in the U.S.",
-      "description": "China is cracking down on underground churches, with one church leader finding refuge in the U.S.",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5960427/persecuted-chinese-religious-leader-finds-refuge-in-the-u-s",
-      "published": "Sat, 19 Sep 2026 17:05:32 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Taiwan's lost films hold the sounds and stories of a vanishing era",
-      "description": "Researchers in Taiwan are racing to restore a crucial piece of the island's film history, before it's lost forever.",
-      "url": "https://www.npr.org/2026/09/19/nx-s1-5944374/taiwans-lost-films-hold-the-sounds-and-stories-of-a-vanishing-era",
-      "published": "Sat, 19 Sep 2026 17:05:27 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Life in Kabul 5 years after the Taliban's return",
       "description": "Five years after the return of Taliban rule, NPR visited Kabul to see how Afghans are dealing with their new government's strict social restrictions.",
       "url": "https://www.npr.org/2026/09/19/nx-s1-5961263/life-in-kabul-5-years-after-the-talibans-return",
@@ -2484,10 +2476,10 @@
       "is_ticker": false
     },
     {
-      "title": "The Asian Games are open with more athletes than the Summer Olympics and some unfamiliar sports",
-      "description": "The opening ceremony of the Asian Games has marked the official start of the 16-day event",
-      "url": "https://abcnews.com/International/wireStory/asian-games-open-athletes-summer-olympics-unfamiliar-sports-136583020",
-      "published": "Sat, 19 Sep 2026 07:34:31 -0400",
+      "title": "Brazilian police arrest a suspect in dozens of killings",
+      "description": "Brazilian police have announced they will reopen dozens of cases linked to a self-confessed serial killer",
+      "url": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
+      "published": "Fri, 18 Sep 2026 12:02:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2495,10 +2487,10 @@
       "is_ticker": false
     },
     {
-      "title": "Olympic Council of Asia president says politics have already entered into the Asian Games",
-      "description": "The president of the Olympic Council of Asia acknowledged that politics — in the form of a welcoming ceremony involving Taiwan — had already entered into the Asian Games",
-      "url": "https://abcnews.com/International/wireStory/olympic-council-asia-president-politics-entered-asian-games-136582009",
-      "published": "Sat, 19 Sep 2026 07:34:46 -0400",
+      "title": "The Asian Games are open with more athletes than the Summer Olympics and some unfamiliar sports",
+      "description": "The opening ceremony of the Asian Games has marked the official start of the 16-day event",
+      "url": "https://abcnews.com/International/wireStory/asian-games-open-athletes-summer-olympics-unfamiliar-sports-136583020",
+      "published": "Sat, 19 Sep 2026 07:34:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2517,10 +2509,21 @@
       "is_ticker": false
     },
     {
-      "title": "Brazilian police arrest a suspect in dozens of killings",
-      "description": "Brazilian police have announced they will reopen dozens of cases linked to a self-confessed serial killer",
-      "url": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
-      "published": "Fri, 18 Sep 2026 12:02:37 -0400",
+      "title": "A traditional Chinese coffin maker in Malaysia preserves a fading family craft",
+      "description": "Goh Khuay Par has spent more than five decades making traditional Chinese coffins by hand in Malaysia, carrying on a family craft passed down through three generations",
+      "url": "https://abcnews.com/International/wireStory/traditional-chinese-coffin-maker-malaysia-preserves-fading-family-136546674",
+      "published": "Thu, 17 Sep 2026 21:29:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Japan's central bank raises benchmark interest rate to 1.25%",
+      "description": "Japan's central bank raises benchmark interest rate to 1.25%",
+      "url": "https://abcnews.com/International/wireStory/japans-central-bank-raises-benchmark-interest-rate-125-136548504",
+      "published": "Fri, 18 Sep 2026 00:03:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
