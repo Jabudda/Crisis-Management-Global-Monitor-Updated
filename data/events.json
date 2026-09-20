@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T06:26:55.401112Z",
+  "last_updated": "2026-09-20T06:48:50.293204Z",
   "event_count": 221,
   "events": [
     {
@@ -196,7 +196,7 @@
       "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, says Russia",
       "description": "An oil refinery was also reportedly hit in Moscow, and flights were suspended at two capital airports.",
       "url": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 20 Sep 2026 06:16:37 GMT",
+      "published": "Sun, 20 Sep 2026 06:37:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 22,
@@ -288,6 +288,20 @@
       "ticker_label": "🪖 Saudi Arabia says Houthis tried to attack its capital"
     },
     {
+      "title": "Live: Russian election enters final day after Ukraine targets Moscow in mass drone barrage",
+      "description": "Ukraine launched what Moscow’s Mayor Sergei Sobyanin described as the largest-ever drone attack on the Russian capital on Sunday. He added that the attack was an unsuccessful attempt to disrupt the final day of a parliamentary election which President Vladimir Putin has framed as a test of support for Russia’s war in Ukraine. Follow the day’s events as they unfold on our liveblog.",
+      "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
+      "published": "Sun, 20 Sep 2026 05:16:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Live: Russian election enters final day after Ukraine targets Moscow in mass drone barrage"
+    },
+    {
       "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
       "description": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168354",
@@ -364,20 +378,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Man dies in fifth fatal shark attack this year in Australia"
-    },
-    {
-      "title": "Rescuers dig 4 bodies from a Nepal hydropower tunnel as families demand answers",
-      "description": "Rescuers in Nepal have recovered four bodies from a hydropower plant tunnel three weeks after a devastating flash flood",
-      "url": "https://abcnews.com/International/wireStory/rescuers-dig-4-bodies-nepal-hydropower-tunnel-families-136519899",
-      "published": "Thu, 17 Sep 2026 06:34:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Rescuers dig 4 bodies from a Nepal hydropower tunnel as families demand answers"
     },
     {
       "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
@@ -527,17 +527,6 @@
       "ticker_label": "🪖 Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack"
     },
     {
-      "title": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
-      "description": "Elor Azaria had shot a Palestinian who had already been incapacitated by Israeli troops, in controversial case.",
-      "url": "https://www.aljazeera.com/news/2026/9/19/israels-president-pardons-soldier-who-killed-wounded-palestinian-in-2016?traffic_source=rss",
-      "published": "Sat, 19 Sep 2026 20:40:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "France, Poland and European allies warn of escalating Russian 'hybrid' attacks",
       "description": "The leaders of France, Poland, and other leading European nations are alarmed over what they describe as Russian \"hybrid\" attacks.",
       "url": "https://www.npr.org/2026/09/19/nx-s1-5974215/france-poland-and-european-allies-warn-of-escalating-russian-hybrid-attacks",
@@ -611,6 +600,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Battle of Chile director Patricio Guzmán dies aged 85"
+    },
+    {
+      "title": "Decolonizing perceptions about Africa",
+      "description": "A UN resolution to redraw the global map to project the African continent more accurately, national initiatives to decolonize schools and a campaign to present positive developments are changing the way Africa is seen.",
+      "url": "https://www.dw.com/en/decolonizing-perceptions-about-africa/a-79331178?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 20 Sep 2026 06:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Drone sightings briefly shut Luxembourg airport",
@@ -803,6 +803,28 @@
       "ticker_label": "🌪️ Israel: 'NAZA' documentary sparks political storm"
     },
     {
+      "title": "Cuba hit with another blackout as millions across island are left without electricity",
+      "description": "Cuba’s power grid has collapsed, leaving millions of people across the island without electricity",
+      "url": "https://abcnews.com/International/wireStory/cuba-hit-blackout-millions-island-left-electricity-136572161",
+      "published": "Fri, 18 Sep 2026 17:23:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Macron orders protections for infrastructure, citing a growing Russian threat",
+      "description": "French President Emmanuel Macron has asked his government to prepare a plan to protect critical infrastructure against drone and cyberattacks",
+      "url": "https://abcnews.com/International/wireStory/macron-orders-protections-infrastructure-citing-growing-russian-threat-136561049",
+      "published": "Fri, 18 Sep 2026 10:46:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "China firm gave Iran lifeline to collect Hormuz tolls before pulling plug amid US warning",
       "description": "After briefly issuing a web security certificate for a portal linked to Iran's U.S.-sanctioned Persian Gulf Strait Authority, a Shanghai-based firm revoked it, though the move could still draw scrutiny under U.S. sanctions rules",
       "url": "https://www.foxnews.com/world/china-firm-gave-iran-lifeline-collect-hormuz-tolls-before-pulling-plug-amid-us-warning",
@@ -903,15 +925,18 @@
       "is_ticker": false
     },
     {
-      "title": "Germany news: Campaigns wrap up in two state elections",
-      "description": "Parties are campaigning for a last day ahead of polls in Mecklenburg-Vorpomerania and Berlin. And an association responsible for German sea ports says they are at high risk from cyberattacks and sabotage. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-campaigns-wrap-up-in-two-state-elections/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 19 Sep 2026 06:54:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Russian holds parliamentary vote in areas it seized from Ukraine in the war",
+      "description": "Russia’s parliamentary election for the first time is being held in Ukraine’s regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago",
+      "url": "https://abcnews.com/International/wireStory/russian-holds-parliamentary-vote-areas-seized-ukraine-war-136580922",
+      "published": "Sat, 19 Sep 2026 00:26:47 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian holds parliamentary vote in areas it seized from Ukraine in the war"
     },
     {
       "title": "As Europe warms, Italy sees West Nile virus spread farther and longer",
@@ -926,20 +951,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 As Europe warms, Italy sees West Nile virus spread farther and longer"
-    },
-    {
-      "title": "Russian holds parliamentary vote in areas it seized from Ukraine in the war",
-      "description": "Russia’s parliamentary election for the first time is being held in Ukraine’s regions that Moscow illegally annexed after the start of its full-scale invasion more than 4 1/2 years ago",
-      "url": "https://abcnews.com/International/wireStory/russian-holds-parliamentary-vote-areas-seized-ukraine-war-136580922",
-      "published": "Sat, 19 Sep 2026 00:26:47 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian holds parliamentary vote in areas it seized from Ukraine in the war"
     },
     {
       "title": "ICE deports ex-Liberian fighter accused of torture, recruiting child soldiers",
@@ -993,17 +1004,6 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Saudi Arabia: Houthis claim strikes on Riyadh, Yanbu port"
-    },
-    {
-      "title": "China’s porcelain city carries centuries-old heritage to a new generation",
-      "description": "China’s Jingdezhen porcelain sites were inscribed on UNESCO’s World Heritage List in 2026",
-      "url": "https://abcnews.com/International/wireStory/chinas-porcelain-city-carries-centuries-heritage-new-generation-136514289",
-      "published": "Wed, 16 Sep 2026 23:13:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Security Council LIVE: UN peacekeeping under pressure",
@@ -1122,17 +1122,6 @@
       "url": "https://news.sky.com/story/gianni-infantino-told-to-give-10m-to-each-of-the-worlds-211-fas-13589386",
       "published": "Fri, 18 Sep 2026 16:43:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Africa's urban waste crisis is outpacing infrastructure investment and choking neighborhoods",
-      "description": "Johannesburg is struggling with a deepening waste crisis marked by unreliable collections, rapidly shrinking landfill space and a rise in illegal dumping",
-      "url": "https://abcnews.com/International/wireStory/africas-urban-waste-crisis-outpacing-infrastructure-investment-choking-136548408",
-      "published": "Fri, 18 Sep 2026 00:04:39 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1283,31 +1272,6 @@
       "is_ticker": false
     },
     {
-      "title": "India news: British Sikh activist Jagtar Singh Johal granted bail after 9 years in detention",
-      "description": "Sikh activist Jagtar Singh Johal has been granted bail after more than eight years without conviction. Meanwhile, India swapped its male flagbearer for the Asian Games opening ceremony over a missing kit. DW has more.",
-      "url": "https://www.dw.com/en/india-news-british-sikh-activist-jagtar-singh-johal-granted-bail-after-9-years-in-detention/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 19 Sep 2026 08:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Live: Russian election enters final day in shadow of war in Ukraine",
-      "description": "A parliamentary election that President Vladimir Putin has framed as a test of public support for Russia’s war in Ukraine entered its third and final day on Sunday. The ruling United Russia party is expected to maintain its dominance in a political system that critics say leaves little room for dissent. Follow the day’s developments as they unfold in our liveblog.",
-      "url": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
-      "published": "Sun, 20 Sep 2026 05:16:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Live: Russian election enters final day in shadow of war in Ukraine"
-    },
-    {
       "title": "French outpost off Canada in the spotlight as Macron hosts Carney on symbolic visit",
       "description": "President Emmanuel Macron embarked Saturday on a symbolic visit to Saint Pierre and Miquelon, a French territory off Canada's Newfoundland, where he hosts Canadian Prime Minister Mark Carney. The first-ever visit by a Canadian prime minister to the French archipelago in the North Atlantic comes as Carney marks a shift in Ottawa's foreign policy toward Europe amid growing tensions with the US.",
       "url": "https://www.france24.com/en/france/20260919-french-outpost-off-canada-in-the-spotlight-as-macron-hosts-carney-on-symbolic-visit",
@@ -1375,32 +1339,15 @@
       "ticker_label": "🪖 Nobel laureate Mohammadi says Iranians are paying the price for war"
     },
     {
-      "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit",
-      "description": "Taiwan’s president has overseen military drills featuring missiles and drones on Friday, ahead of a planned summit next week between the U.S. and Chinese leaders in which the fate of the self-ruled island will be discussed",
-      "url": "https://abcnews.com/International/wireStory/taiwan-holds-joint-military-drills-attack-drones-ahead-136554853",
-      "published": "Fri, 18 Sep 2026 09:03:24 -0400",
+      "title": "Anger in Jamaica over deal to accept migrants expelled by the US",
+      "description": "A deal to accept migrants expelled by the United States is sparking protests by Jamaica’s main opposition party and a host of other groups",
+      "url": "https://abcnews.com/International/wireStory/anger-jamaica-deal-accept-migrants-expelled-us-136573881",
+      "published": "Fri, 18 Sep 2026 19:15:31 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit"
-    },
-    {
-      "title": "Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war",
-      "description": "The lightning advance of the Iran-backed Houthi rebels has forced tens of thousands of people to flee their homes in Yemen",
-      "url": "https://abcnews.com/International/wireStory/houthi-attacks-driving-oil-prices-yemenis-crossfire-toll-136517451",
-      "published": "Thu, 17 Sep 2026 05:22:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Tens of thousands flee as Iran-backed rebels draw Yemen into the wider war"
+      "is_ticker": false
     },
     {
       "title": "Law professor's killer stalked him 'like a shark circling' before ex-mother-in-law's murder-for-hire ambush",
@@ -1575,17 +1522,6 @@
       "is_ticker": false
     },
     {
-      "title": "New France football boss Zidane names first squad",
-      "description": "Football legend Zinedine Zidane says that Kylian Mbappe will be his France captain. Zidane named his first squad since being appointed head coach of France's national football team. His first matches in charge will be against Turkey and Belgium. Details by Nick Rushworth.",
-      "url": "https://www.france24.com/en/new-france-football-boss-zidane-names-first-squad",
-      "published": "Sat, 19 Sep 2026 11:20:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "South Africa circus lifts poor young performers into the spotlight",
       "description": "Behind the spectacle of Johannesburg’s circus stages is a social program that trains people from under-resourced communities, helping turn talent into professional skills and paid work in a country struggling with high youth unemployment",
       "url": "https://abcnews.com/International/wireStory/circus-south-africa-lifts-poor-young-performers-spotlight-136579216",
@@ -1677,6 +1613,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germans vote in elections threatening fresh blow to Merz",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20260920-germans-vote-in-elections-threatening-fresh-blow-to-merz",
+      "published": "Sun, 20 Sep 2026 01:25:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Pop, Protests & Palestine: Ed Sheeran’s Moral Maze",
       "description": "A clash over music, politics and Palestine is putting freedom of expression in the spotlight. Macklemore’s outspoken support for Palestinians has sparked a backlash around Ed Sheeran’s US tour, raising a bigger question: should artists be expected to take a political stand, or are they equally free to stay silent? France 24’s Gavin Lee is joined by Dr Adam Behr, Reader in Music, Politics and Society at Newcastle University, to discuss the controversy.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260919-pop-protests-palestine-ed-sheeran-s-moral-maze",
@@ -1724,7 +1671,7 @@
       "ticker_label": "🪖 Women and girls pay high price in DR Congo Ebola outbreak"
     },
     {
-      "title": "Two German states go to the polls after far-right gains",
+      "title": "Germany’s Berlin, Mecklenburg-Western Pomerania states head to polls",
       "description": "About 3.8 million voters in Berlin and Mecklenburg-Western Pomerania are heading to polls on Sunday.",
       "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains?traffic_source=rss",
       "published": "Sun, 20 Sep 2026 05:42:50 +0000",
@@ -1771,25 +1718,44 @@
       "ticker_label": "💥 Germany: Polls open in two key state elections"
     },
     {
-      "title": "Russia votes for new parliament in controlled elections",
-      "description": "Russia is holding its first State Duma election since invading Ukraine, with voting also imposed in occupied Ukrainian regions. President Vladimir Putin's party is expected to dominate the tightly controlled contest.",
-      "url": "https://www.dw.com/en/russia-votes-for-new-parliament-in-controlled-elections/a-79318392?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 19 Sep 2026 07:21:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Russia votes for new parliament in controlled elections"
-    },
-    {
       "title": "Millions without power in Cuba as electrical grid collapses again",
       "description": "Cuba was plunged into its seventh massive blackout of the year on Friday. The island of over nine million people endures constant power cuts due to the poor state of its aging thermoelectric plants – but the situation has worsened significantly since January, when Washington imposed a de facto energy blockade on the island. Story by Shirli Sitbon.",
       "url": "https://www.france24.com/en/millions-without-power-in-cuba-as-electrical-grid-collapses-again",
       "published": "Sat, 19 Sep 2026 13:01:52 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Carney says Canada is ‘strong’ as US borrowing costs rise and Europe ties deepen",
+      "description": "Canadian Prime Minister Mark Carney has returned from Europe and cast Canada as moving quickly beyond its historic reliance on the United States",
+      "url": "https://abcnews.com/International/wireStory/carney-canada-strong-us-borrowing-costs-rise-europe-136571407",
+      "published": "Fri, 18 Sep 2026 16:43:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US deportees to Equatorial Guinea were arrested and beaten by police, lawyers say",
+      "description": "Two men deported by the United States to Equatorial Guinea have been arbitrarily arrested, their lawyers and rights groups said on Friday, after the police covered their heads with a bag, beat them and held them at gunpoint in a hotel-turned detention ...",
+      "url": "https://abcnews.com/International/wireStory/us-deportees-equatorial-guinea-arrested-beaten-police-lawyers-136567781",
+      "published": "Fri, 18 Sep 2026 14:34:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US envoy to NATO criticizes Czech Republic's 'disappointing' spending on defense",
+      "description": "United States ambassador to NATO has criticized the Czech Republic for not spending enough on defense",
+      "url": "https://abcnews.com/International/wireStory/us-envoy-nato-criticizes-czech-republics-disappointing-spending-136566216",
+      "published": "Fri, 18 Sep 2026 13:30:37 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2078,6 +2044,17 @@
       "ticker_label": "💥 Tata Sons: India's corporate crown braces for upheaval amid boardroom revolt"
     },
     {
+      "title": "Myanmar’s Van defeats Pantoja to retain flyweight title in UFC 331",
+      "description": "Joshua Van earned a unanimous decision (49-46, 49-47, 50-45) win over his Brazilian opponent to cement his reign.",
+      "url": "https://www.aljazeera.com/sports/2026/9/20/myanmars-van-defeats-pantoja-to-retain-flyweight-title-in-ufc-331?traffic_source=rss",
+      "published": "Sun, 20 Sep 2026 06:03:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Jammertest: Arctic exercise to counter satellite jamming",
       "description": "Defence and tech companies have been taking part in annual exercises in Norway.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/jammertest-arctic-exercise-to-counter-satellite-jamming?traffic_source=rss",
@@ -2320,6 +2297,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germany news: Doctors offer Oktoberfest flu jabs",
+      "description": "Oktoberfest 2026 is underway but it's not just beer on offer in Munich this year; revelers can also get themselves a flu jab before heading to the tents. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-doctors-offer-oktoberfest-flu-jabs/live-79335548?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 20 Sep 2026 06:43:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Germany: Is it possible to replace the chancellor?",
       "description": "Chancellor Friedrich Merz's record-low approval ratings have emboldened his opponents. There are three ways to remove a chancellor from office in Germany.",
       "url": "https://www.dw.com/en/germany-is-it-possible-to-replace-the-chancellor/a-79313623?maca=en-rss-en-all-1573-xml-mrss",
@@ -2382,6 +2370,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "India news: PM Modi says developing nations unfairly blamed for emissions",
+      "description": "At the inauguration of a climate conference in New Delhi, PM Modi said developing countries are unfairly blamed for carbon emissions. An IIT Bombay professor has been accused of caste abuse. DW has more.",
+      "url": "https://www.dw.com/en/india-news-pm-modi-says-developing-nations-unfairly-blamed-for-emissions/live-79335891?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 19 Sep 2026 08:00:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 India news: PM Modi says developing nations unfairly blamed for emissions"
     },
     {
       "title": "Two arrested for Louvre stunt 'for fun' in Mona Lisa hall",
@@ -2508,17 +2510,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pakistani forces end 20-hour standoff with militants in the northwest",
-      "description": "Pakistani security forces have ended a standoff with militants inside a police compound in northwestern Pakistan",
-      "url": "https://abcnews.com/International/wireStory/pakistani-forces-end-20-hour-standoff-militants-northwest-136581742",
-      "published": "Sat, 19 Sep 2026 07:34:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Olympic Council of Asia president says politics have already entered into the Asian Games",
       "description": "The president of the Olympic Council of Asia acknowledged that politics — in the form of a welcoming ceremony involving Taiwan — had already entered into the Asian Games",
       "url": "https://abcnews.com/International/wireStory/olympic-council-asia-president-politics-entered-asian-games-136582009",
@@ -2530,10 +2521,10 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil’s Lula announces 15% increase in flagship welfare payments ahead of key election",
-      "description": "Brazilian President Luiz Inácio Lula da Silva has signed a decree increasing benefits of his welfare program by 15%",
-      "url": "https://abcnews.com/International/wireStory/brazils-lula-announces-15-increase-flagship-welfare-payments-136536201",
-      "published": "Thu, 17 Sep 2026 14:22:13 -0400",
+      "title": "Pakistani forces end 20-hour standoff with militants in the northwest",
+      "description": "Pakistani security forces have ended a standoff with militants inside a police compound in northwestern Pakistan",
+      "url": "https://abcnews.com/International/wireStory/pakistani-forces-end-20-hour-standoff-militants-northwest-136581742",
+      "published": "Sat, 19 Sep 2026 07:34:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2541,10 +2532,10 @@
       "is_ticker": false
     },
     {
-      "title": "Russia’s parliamentary vote features no real opposition to Putin's policies",
-      "description": "Russia’s parliamentary election features the main Kremlin’s party and nine others that all back President Vladimir Putin’s policies",
-      "url": "https://abcnews.com/International/wireStory/russias-parliamentary-vote-features-real-opposition-putins-policies-136517124",
-      "published": "Thu, 17 Sep 2026 07:30:14 -0400",
+      "title": "Brazilian police arrest a suspect in dozens of killings",
+      "description": "Brazilian police have announced they will reopen dozens of cases linked to a self-confessed serial killer",
+      "url": "https://abcnews.com/International/wireStory/brazilian-police-arrest-suspect-dozens-killings-136561999",
+      "published": "Fri, 18 Sep 2026 12:02:37 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
