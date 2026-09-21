@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T10:39:50.465984Z",
+  "last_updated": "2026-09-21T11:16:52.317920Z",
   "event_count": 222,
   "events": [
     {
@@ -26,6 +26,20 @@
       "severity_score": 47,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Japan: Typhoon Dujuan sparks flood, landslide warnings",
+      "description": "Evacuation advisories have been issued and hundreds of flights have been canceled in Japan, which is in the middle of a five-day holiday. The storm could dump record levels of rain on the country.",
+      "url": "https://www.dw.com/en/japan-typhoon-dujuan-sparks-flood-landslide-warnings/a-79349957?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 21 Sep 2026 06:27:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Japan: Typhoon Dujuan sparks flood, landslide warnings"
     },
     {
       "title": "UN fact-finding mission on Iran focuses on plight of civilians",
@@ -68,20 +82,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin party retains majority in first vote since 2022 invasion of Ukraine"
-    },
-    {
-      "title": "Japan: Typhoon Dujuan sparks flood, landslide warnings",
-      "description": "Hundreds of flights have been canceled in Japan, which is in the middle of a five-day holiday. The storm could dump record levels of rain on the country.",
-      "url": "https://www.dw.com/en/japan-typhoon-dujuan-sparks-flood-landslide-warnings/a-79349957?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 21 Sep 2026 06:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Japan: Typhoon Dujuan sparks flood, landslide warnings"
     },
     {
       "title": "Colombia battles massive wildfire",
@@ -243,17 +243,6 @@
       "ticker_label": "💥 Third-country removals: Trump’s deportation policy by the numbers"
     },
     {
-      "title": "Deported to Africa: An international investigation into Trump’s migrant policy",
-      "description": "For this edition of Reporters+, Karina Chabour has investigated a dark side of Donald Trump’s immigration policy. How ICE deports immigrants to so-called ‘third countries’ in Africa, far from the United States and often far from their countries of origin.",
-      "url": "https://www.france24.com/en/video/20260921-en-wb-reporters-plus-ice-trump-and-africa-no-gene",
-      "published": "Mon, 21 Sep 2026 05:00:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Hamas allegedly built weapons depots across Europe, planned terror attacks as Oct 7 anniversary neared",
       "description": "Federal German prosecutors indicted seven suspects who allegedly stockpiled weapons for Hamas to target Jewish communities and Israeli diplomats.",
       "url": "https://www.foxnews.com/world/hamas-allegedly-built-weapons-depots-across-europe-planned-terror-attacks-oct-7-anniversary-neared",
@@ -338,7 +327,7 @@
       "title": "Explosion injures 3 South Korean military officers in border area with North Korea",
       "description": "An explosion has injured three South Korean military officers inside the heavily fortified Demilitarized Zone separating the Koreas",
       "url": "https://abcnews.com/International/wireStory/explosion-injures-3-south-korean-military-officers-border-136611060",
-      "published": "Mon, 21 Sep 2026 05:30:15 -0400",
+      "published": "Mon, 21 Sep 2026 06:10:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 21,
@@ -377,6 +366,20 @@
       "ticker_label": "🚨 US: Man wounded in Texas after being shot by ICE agent"
     },
     {
+      "title": "Moscow: Ukraine launches huge drone attack as election wraps up",
+      "description": "Ukraine launched more than 1,000 drones at Russia, including hundreds at the capital Moscow, in its largest attack of the war so far, officials said Sunday. The attack came as Russia wrapped up the final day of voting in tightly controlled parliamentary elections that President Vladimir Putin has cast as a test of support for the war in Ukraine.",
+      "url": "https://www.france24.com/en/video/20260921-moscow-ukraine-launches-huge-drone-attack-as-election-wraps-up",
+      "published": "Mon, 21 Sep 2026 11:04:47 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Moscow: Ukraine launches huge drone attack as election wraps up"
+    },
+    {
       "title": "Yemen escalation displaces more than 57,000 children: UNICEF",
       "description": "Renewed fighting in Yemen is deepening an already severe humanitarian crisis in a country where more than 12 million children depend on aid, after more than a decade of conflict.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168354",
@@ -413,10 +416,10 @@
       "is_ticker": false
     },
     {
-      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
-      "description": "Authorties say a police officer and a man were wounded in an exchange of gunfire near a synagogue in Ontario as members of the Jewish community marked Yom Kippur",
-      "url": "https://abcnews.com/International/wireStory/man-critically-injured-police-officer-wounded-gunfire-ontario-136610412",
-      "published": "Mon, 21 Sep 2026 03:17:19 -0400",
+      "title": "Poisoning suspected in deaths of 10 lions in Tanzania conservation area",
+      "description": "Authorities in northern Tanzania suspect poison may have caused the deaths of 10 lions inside a protected conservation area and UNESCO World Heritage site",
+      "url": "https://abcnews.com/International/wireStory/poisoning-suspected-deaths-10-lions-tanzania-conservation-area-136612190",
+      "published": "Mon, 21 Sep 2026 06:18:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -436,6 +439,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 As Russian strikes destroy millions of books, Ukraine's literary future hangs in the balance"
+    },
+    {
+      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+      "description": "Authorties say a police officer and a man were wounded in an exchange of gunfire near a synagogue in Ontario as members of the Jewish community marked Yom Kippur",
+      "url": "https://abcnews.com/International/wireStory/man-critically-injured-police-officer-wounded-gunfire-ontario-136610412",
+      "published": "Mon, 21 Sep 2026 03:17:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
@@ -491,6 +505,20 @@
       "ticker_label": "✈️ Weather tracker: Thunderstorms hit Spain as Japan braces for typhoon"
     },
     {
+      "title": "Three South Korean soldiers injured in landmine border explosion",
+      "description": "Three South Korean soldiers have been injured in an explosion at the heavily fortified border with North Korea.",
+      "url": "https://news.sky.com/story/three-south-korean-soldiers-injured-in-landmine-border-explosion-13590383",
+      "published": "Mon, 21 Sep 2026 10:58:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Three South Korean soldiers injured in landmine border explosion"
+    },
+    {
       "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
       "description": "Khalilur Rahman took the gavel as President of the UN General Assembly's 81st session amid what he calls a crisis of confidence in the organization he has served – in one capacity or another – for 35 years.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168375",
@@ -542,31 +570,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Workers came across human remains – and unearthed a mass grave of 572 people"
-    },
-    {
-      "title": "Boy, 11, in serious condition after being shot in face and neck in Sydney home",
-      "description": "Five other people in house at the time of the shooting were unharmed, police say Get our breaking news email , free app or daily news podcast An 11-year-old boy has been taken to hospital in a serious condition after being shot in a home in Sydney’s north-west. Emergency services responded to reports of a shooting at a property in Norwest at about 5pm on Monday. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/21/boy-11-in-serious-condition-after-being-shot-in-face-and-neck-in-sydney-home-ntwnfb",
-      "published": "Mon, 21 Sep 2026 08:49:33 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Boy, 11, in serious condition after being shot in face and neck in Sydney home"
-    },
-    {
-      "title": "Ukraine fires over 1,000 drones at Russia, including hundreds launched at Moscow",
-      "description": "Moscow's mayor described the wave of drones as the \"largest ever\" attack on the Russian capital and said there had been damage to a Moscow oil refinery and a residential building.",
-      "url": "https://www.npr.org/2026/09/20/nx-s1-5975372/ukraine-fires-drones-at-russia-moscow",
-      "published": "Sun, 20 Sep 2026 05:16:42 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Taliban says three killed in new Pakistan airstrikes on Afghanistan",
@@ -720,20 +723,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ed Sheeran speaks on Gaza in concert after Macklemore controversy"
-    },
-    {
-      "title": "<a href=\"https://news.sky.com/story/ukraine-war-latest-russia-election-nato-poland-attacks-kyiv-donald-trump-12541713?postid=12477622#liveblog-body\">Why so many Colombians are fighting for Ukraine</a>",
-      "description": "No description available.",
-      "url": "https://news.sky.com/story/colombian-soldier-on-why-so-many-from-his-country-are-fighting-for-ukraine-13589997",
-      "published": "Sun, 20 Sep 2026 08:35:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 <a href=\"https://news.sky.com/story/ukraine-war-latest-russia-election-nato-poland-attacks-kyiv-donald-trump-12541713?postid=12477622#liveblog-body\">Why so many Colombians are fighting for Ukraine</a>"
     },
     {
       "title": "Sexual violence against civilians and POW’s in Ukraine widespread and ‘abhorrent’",
@@ -929,6 +918,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 AI-pocalypse? Tech leaders, politicians clash over development slowdown"
+    },
+    {
+      "title": "Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war",
+      "description": "A senior official with the Iran-backed Houthi rebels is warning countries against joining Saudi Arabia in Yemen’s revived civil war",
+      "url": "https://abcnews.com/International/wireStory/iran-backed-houthi-rebels-warn-joining-saudi-arabia-136602219",
+      "published": "Sun, 20 Sep 2026 14:54:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran-backed Houthi rebels warn against joining Saudi Arabia in Yemen's growing civil war"
     },
     {
       "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
@@ -1208,20 +1211,6 @@
       "is_ticker": false
     },
     {
-      "title": "Germany: Friedrich Merz fights for survival after election defeats",
-      "description": "Pressure is mounting on Chancellor Friedrich Merz after his CDU's defeats in two state elections, which saw more gains for the far-right AfD. In the capital Berlin, the socialist Left Party finished first. Follow DW.",
-      "url": "https://www.dw.com/en/germany-friedrich-merz-fights-for-survival-after-election-defeats/live-79322092?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 20 Sep 2026 06:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Germany: Friedrich Merz fights for survival after election defeats"
-    },
-    {
       "title": "AfD surges as Merz’s CDU suffers regional elections setback",
       "description": "Another electoral setback for German Chancellor Friedrich Merz, as his centre-right CDU performed poorly in two state elections on Sunday. Projections showed the party failing to enter the state parliament in Mecklenburg-Western Pomerania, where the far-right AfD came out on top, while the far-left Die Linke led the vote in Berlin. The AfD also made significant gains in both states, building on its recent victory in Saxony-Anhalt. Nick Rushworth reports.",
       "url": "https://www.france24.com/en/afd-surges-as-merz-s-cdu-suffers-regional-elections-setback",
@@ -1327,6 +1316,17 @@
       "ticker_label": "🪖 Macron and Carney announce closer France-Canada ties amid Trump tensions"
     },
     {
+      "title": "Former UN Deputy Secretary General on the role of the UN in today's biggest conflicts",
+      "description": "NPR's Michel Martin speaks with former United Nations Deputy Secretary General Mark Malloch-Brown about the relevance of the U.N.",
+      "url": "https://www.npr.org/2026/09/21/nx-s1-5974141/former-un-deputy-secretary-general-on-the-role-of-the-un-in-todays-biggest-conflicts",
+      "published": "Mon, 21 Sep 2026 06:44:02 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "How Russia's parliamentary election might affect the war in Ukraine",
       "description": "NPR's Steve Inskeep asks Russian foreign policy expert Hanna Notte about the results of Russia's parliamentary election and what it means for Moscow's war in Ukraine.",
       "url": "https://www.npr.org/2026/09/21/nx-s1-5975460/how-russias-parliamentary-election-might-affect-the-war-in-ukraine",
@@ -1346,59 +1346,6 @@
       "url": "https://news.sky.com/story/ice-agent-shoots-man-in-texas-after-traffic-stop-city-officials-say-13590300",
       "published": "Mon, 21 Sep 2026 01:12:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "North Korea has launched an additional projectile toward the sea, South Korea says",
-      "description": "South Korea says North Korea has conducted an additional launch, firing a projectile toward the sea after launching a short-range ballistic missile earlier in the day",
-      "url": "https://abcnews.com/International/wireStory/north-korea-fires-short-range-ballistic-missile-sea-136595740",
-      "published": "Sun, 20 Sep 2026 05:49:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 North Korea has launched an additional projectile toward the sea, South Korea says"
-    },
-    {
-      "title": "Macron backs Canada as EU associate member as Carney turns toward Europe",
-      "description": "Macron and Canadian PM Carney deepen ties in space, defense, energy, business.",
-      "url": "https://abcnews.com/International/wireStory/macron-carney-hold-talks-strengthening-canada-france-economic-136596498",
-      "published": "Sun, 20 Sep 2026 21:14:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Macron backs Canada as EU associate member as Carney turns toward Europe"
-    },
-    {
-      "title": "Families of suspected illegal miners who died in Nigerian detention accuse officials of mistreatment",
-      "description": "Lawan Mohammed is distraught over the death of his 25-year-old son Sulieman who was found dead in the custody of a Nigerian security agency",
-      "url": "https://abcnews.com/International/wireStory/families-suspected-illegal-miners-died-nigerian-detention-accuse-136596663",
-      "published": "Sun, 20 Sep 2026 05:48:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Families of suspected illegal miners who died in Nigerian detention accuse officials of mistreatment"
-    },
-    {
-      "title": "Houthis say they won't attack US vessels in Red Sea, and other Mideast developments",
-      "description": "A senior Houthi official says the group has assured the Trump administration it won’t attack U.S. vessels in the Red Sea",
-      "url": "https://abcnews.com/International/wireStory/houthis-attack-us-vessels-red-sea-mideast-developments-136597035",
-      "published": "Mon, 21 Sep 2026 03:15:27 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1555,6 +1502,20 @@
       "is_ticker": false
     },
     {
+      "title": "Regional losses for Germany's ruling CDU",
+      "description": "Another electoral setback for German Chancellor Friedrich Merz, as his centre-right CDU performed poorly in two state elections on Sunday. Projections showed the party failing to enter the state parliament in Mecklenburg-Western Pomerania, where the far-right AfD came out on top, while the far-left Die Linke led the vote in Berlin. The AfD also made significant gains in both states, building on its recent victory in Saxony-Anhalt. France 24 Europe editor Armen Georgian shares further insights.",
+      "url": "https://www.france24.com/en/regional-losses-for-germany-s-ruling-cdu",
+      "published": "Mon, 21 Sep 2026 11:04:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Regional losses for Germany's ruling CDU"
+    },
+    {
       "title": "Trump says triumphal arch will be military complex with drones and snipers",
       "description": "Trump said the updated plans were at the request of the US military and for national security purposes.",
       "url": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
@@ -1610,21 +1571,10 @@
       "is_ticker": false
     },
     {
-      "title": "‘Waiting for us to crack’: In Cameroon, the victims of Trump’s deportations face uncertain fates",
-      "description": "Under often-secret deals struck with third countries across Africa and Latin America, US President Donald Trump has deported thousands of people who were hoping to build new lives in the US to countries they’ve never set foot in before. Working with Forbidden Stories, FRANCE 24 investigated the stories of several African migrants whose lives were thrown into chaos by their abrupt deportation from the US to a temporary shelter in Cameroon’s capital Yaoundé.",
-      "url": "https://www.france24.com/en/africa/20260921-waiting-for-us-to-crack-victims-of-trump-deportations-face-uncertain-fates-in-cameroon",
-      "published": "Mon, 21 Sep 2026 05:00:25 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "In Chile, even beloved hot dogs feel the economic squeeze",
-      "description": "Chileans are feeling the pinch as the cost of living rises, impacting even affordable foods like the completo, the country's version of the hot dog",
-      "url": "https://abcnews.com/International/wireStory/chile-beloved-hot-dogs-feel-economic-squeeze-136597130",
-      "published": "Sun, 20 Sep 2026 06:50:20 -0400",
+      "title": "Pope Leo XIV in France to find secular country at odds with Catholic teaching on life",
+      "description": "Pope Leo XIV opens a four-day visit to France this weekend that is expected to touch on church teaching about the value of all human life",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-france-find-secular-country-odds-136611345",
+      "published": "Mon, 21 Sep 2026 04:10:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1643,10 +1593,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo XIV in France to find secular country at odds with Catholic teaching on life",
-      "description": "Pope Leo XIV opens a four-day visit to France this weekend that is expected to touch on church teaching about the value of all human life",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-france-find-secular-country-odds-136611345",
-      "published": "Mon, 21 Sep 2026 03:46:25 -0400",
+      "title": "In Chile, even beloved hot dogs feel the economic squeeze",
+      "description": "Chileans are feeling the pinch as the cost of living rises, impacting even affordable foods like the completo, the country's version of the hot dog",
+      "url": "https://abcnews.com/International/wireStory/chile-beloved-hot-dogs-feel-economic-squeeze-136597130",
+      "published": "Sun, 20 Sep 2026 06:50:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1709,17 +1659,6 @@
       "is_ticker": false
     },
     {
-      "title": "A state funeral in Hong Kong honors Tung Chee-hwa, the city's first post-colonial leader",
-      "description": "A state funeral was held in Hong Kong on Sunday for the city's first post-colonial leader, Tung Chee-hwa",
-      "url": "https://abcnews.com/International/wireStory/state-funeral-hong-kong-honors-tung-chee-hwa-136593928",
-      "published": "Sun, 20 Sep 2026 01:36:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Women and girls pay high price in DR Congo Ebola outbreak",
       "description": "The deadly Ebola outbreak in the Democratic Republic of the Congo (DRC) has taken a disproportionate toll on women and girls, many of whom are on the frontlines caring for patients as well as their own families despite the high risk of infection.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168368",
@@ -1745,7 +1684,7 @@
       "is_ticker": false
     },
     {
-      "title": "Three arrested in South Africa over one of nine women's bodies found",
+      "title": "Three arrested in South Africa over one of nine women's bodies",
       "description": "The body of Jabulile Ntimba was the ninth to be found recently in an area east of Johannesburg.",
       "url": "https://www.bbc.co.uk/news/articles/c617j2x01epjo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 10:35:01 GMT",
@@ -1828,21 +1767,10 @@
       "is_ticker": false
     },
     {
-      "title": "Trump shattered Canada’s old US relationship. Carney is building a new one in Europe",
-      "description": "Canadian Prime Minister Mark Carney is urgently trying to reduce dependence on the United States as President Donald Trump uses tariffs and economic pressure against America’s longtime ally",
-      "url": "https://abcnews.com/International/wireStory/trump-shattered-canadas-us-relationship-carney-building-new-136610319",
-      "published": "Mon, 21 Sep 2026 03:17:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "What's next for Germany's chancellor after a string of state election defeats",
       "description": "Friedrich Merz says he intends to stay on as the leader of Germany and his party after a string of state election defeats",
       "url": "https://abcnews.com/International/wireStory/germanys-troubled-chancellor-after-string-state-election-defeats-136611999",
-      "published": "Mon, 21 Sep 2026 05:30:23 -0400",
+      "published": "Mon, 21 Sep 2026 06:10:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1853,10 +1781,10 @@
       "ticker_label": "💥 What's next for Germany's chancellor after a string of state election defeats"
     },
     {
-      "title": "Merz vows to press ahead with reforms after historic German state election defeat",
-      "description": "Merz plans to stay in office despite his party's losses in two state elections.",
-      "url": "https://abcnews.com/International/wireStory/merz-faces-key-test-2-german-states-hold-136595831",
-      "published": "Sun, 20 Sep 2026 15:22:15 -0400",
+      "title": "Trump shattered Canada’s old US relationship. Carney is building a new one in Europe",
+      "description": "Canadian Prime Minister Mark Carney is urgently trying to reduce dependence on the United States as President Donald Trump uses tariffs and economic pressure against America’s longtime ally",
+      "url": "https://abcnews.com/International/wireStory/trump-shattered-canadas-us-relationship-carney-building-new-136610319",
+      "published": "Mon, 21 Sep 2026 03:17:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1876,6 +1804,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 ‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine"
+    },
+    {
+      "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
+      "description": "The US media outlets say they are defending \"the principle that the government does not decide what the press reports or publishes\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 11:15:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Do Israelis feel any safer now than they did on October 6, 2023?",
@@ -2013,6 +1952,17 @@
       "is_ticker": false
     },
     {
+      "title": "Russian drones slam a southern Ukraine city after Kyiv's 1,000-drone weekend barrage",
+      "description": "Officials say that Russian drones have blasted Ukraine’s southern city of Zaporizhzhia",
+      "url": "https://abcnews.com/International/wireStory/russian-drones-slam-southern-ukraine-city-after-kyivs-136612440",
+      "published": "Mon, 21 Sep 2026 06:54:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump, Iranian president converge on NYC for ‘dramatic’ UN showdown as Tehran faces tight restrictions",
       "description": "President Donald Trump and Masoud Pezeshkian converge on New York City for the U.N. General Assembly amid strict U.S. restrictions on Iran's delegation movements.",
       "url": "https://www.foxnews.com/world/trump-iranian-president-converge-nyc-dramatic-un-showdown-tehran-faces-tight-restrictions",
@@ -2090,10 +2040,10 @@
       "is_ticker": false
     },
     {
-      "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
-      "description": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 07:20:27 GMT",
+      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
+      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 04:00:38 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2101,10 +2051,10 @@
       "is_ticker": false
     },
     {
-      "title": "UK should 'team up' with Canada in new Europe alliance, Canadian minister tells BBC",
-      "description": "It comes after European Commission President proposed \"opening the door\" for Canada to become an associate member of the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/cmed7p06epxjo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 04:00:38 GMT",
+      "title": "Sydney policeman allegedly disguised himself as Uber Eats rider before murders",
+      "description": "Beaumont Lamarre-Condon has pleaded not guilty to the 2024 murder of his ex-partner and his new boyfriend.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2z10zk736o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 21 Sep 2026 07:20:27 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2143,20 +2093,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Our head teacher was an abuser. We joined forces to get justice - now we're married",
-      "description": "Students spent years collecting evidence against their Indonesian principal, before falling in love.",
-      "url": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 19 Sep 2026 23:01:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Our head teacher was an abuser. We joined forces to get justice - now we're married"
     },
     {
       "title": "Mystery object spotted hovering over Tehran",
@@ -2371,6 +2307,17 @@
       "is_ticker": false
     },
     {
+      "title": "Boy, 11, in serious condition after being shot in face and neck in Sydney home",
+      "description": "Three 18-year-old men were arrested at the unit in Norwest, police said, but officers played down link to organised crime Get our breaking news email , free app or daily news podcast An 11-year-old boy has been taken to hospital in a serious condition after being shot in a home in Sydney’s north-west. The child was receiving life-saving treatment in hospital on Monday night after suffering gunshot wounds to his face and neck, police said. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/21/boy-11-in-serious-condition-after-being-shot-in-face-and-neck-in-sydney-home-ntwnfb",
+      "published": "Mon, 21 Sep 2026 10:55:37 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Rebel Wilson back in court as The Deb producers sue star over allegedly blocking film",
       "description": "Hollywood actress appears in NSW supreme court in Sydney for the latest lawsuit over her directorial debut Get our breaking news email , free app or daily news podcast Hollywood star Rebel Wilson had a “last chance” phone call with her film’s co-producers over a dispute about up-front costs and her $1m fee, a judge has heard. The Pitch Perfect and Bridesmaids star appeared in the New South Wales supreme court in Sydney on Monday in the latest lawsuit over her directorial debut, a musical comedy named The Deb. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/21/rebel-wilson-back-in-court-as-the-deb-producers-sue-actress-turned-director-ntwnfb",
@@ -2409,6 +2356,17 @@
       "url": "https://www.npr.org/2026/09/21/nx-s1-5976026/suspects-killing-haiti-president-extradited",
       "published": "Mon, 21 Sep 2026 04:41:50 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Russia: Putin party retains majority in controlled parliamentary vote",
+      "description": "Vladimir Putin's United Russia won just under 58% of the vote, the electoral commission said. Meanwhile, Putin ally Ramzan Kadyrov won nearly 100% of the vote in elections in the Russian republic of Chechnya.",
+      "url": "https://www.dw.com/en/russia-putin-party-retains-majority-in-controlled-parliamentary-vote/a-79353231?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 21 Sep 2026 10:48:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2531,10 +2489,32 @@
       "is_ticker": false
     },
     {
-      "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
-      "description": "In Morocco's election race, a rural funeral has become an unexpected campaign stop for candidates aiming to engage disenchanted young voters",
-      "url": "https://abcnews.com/International/wireStory/young-people-morocco-split-politics-deliver-change-election-136609474",
-      "published": "Mon, 21 Sep 2026 03:17:26 -0400",
+      "title": "3 arrested in relation to one of a series of killings of women in South Africa",
+      "description": "Police in South Africa say they have arrested three suspects in connection with one of a series of killings of women near Johannesburg",
+      "url": "https://abcnews.com/International/wireStory/3-suspects-arrested-relation-series-killings-women-south-136613059",
+      "published": "Mon, 21 Sep 2026 07:11:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Main Kremlin party keeps control of Russia’s parliament after orchestrated vote",
+      "description": "Election officials say the Kremlin's main party has retained its majority in Russia’s parliament",
+      "url": "https://abcnews.com/International/wireStory/main-kremlin-party-control-russias-parliament-after-carefully-136611904",
+      "published": "Mon, 21 Sep 2026 06:26:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Britain’s Burnham is set to meet Trump for the first time at the UN in New York",
+      "description": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time",
+      "url": "https://abcnews.com/International/wireStory/britains-burnham-set-meet-trump-time-new-york-136611594",
+      "published": "Mon, 21 Sep 2026 06:50:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2553,17 +2533,6 @@
       "is_ticker": false
     },
     {
-      "title": "Gold mine collapse in northeast Sudan kills at least 11",
-      "description": "It was the second collapse of an informal gold mine in Sudan in a week.",
-      "url": "https://abcnews.com/International/wireStory/gold-mine-collapse-northeast-sudan-kills-11-136605439",
-      "published": "Sun, 20 Sep 2026 18:42:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Former husband, in-laws of Hong Kong socialite Abby Choi stand trial in her killing",
       "description": "A murder trial has begun for the former husband and in-laws of Hong Kong socialite Abby Choi",
       "url": "https://abcnews.com/International/wireStory/former-husband-laws-hong-kong-socialite-abby-choi-136610689",
@@ -2575,10 +2544,21 @@
       "is_ticker": false
     },
     {
-      "title": "Britain’s Burnham is set to meet Trump for the first time at the UN in New York",
-      "description": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time",
-      "url": "https://abcnews.com/International/wireStory/britains-burnham-set-meet-trump-time-new-york-136611594",
-      "published": "Mon, 21 Sep 2026 05:30:22 -0400",
+      "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+      "description": "In Morocco's election race, a rural funeral has become an unexpected campaign stop for candidates aiming to engage disenchanted young voters",
+      "url": "https://abcnews.com/International/wireStory/young-people-morocco-split-politics-deliver-change-election-136609474",
+      "published": "Mon, 21 Sep 2026 03:17:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Gold mine collapse in northeast Sudan kills at least 11",
+      "description": "It was the second collapse of an informal gold mine in Sudan in a week.",
+      "url": "https://abcnews.com/International/wireStory/gold-mine-collapse-northeast-sudan-kills-11-136605439",
+      "published": "Sun, 20 Sep 2026 18:42:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2590,6 +2570,17 @@
       "description": "Italian Prime Minister Giorgia Meloni says she’ll soon introduce a measure to her government that would cap the number of foreign students in classrooms and ban face burqas and niqabs in schools",
       "url": "https://abcnews.com/International/wireStory/meloni-plans-ban-burqas-niqabs-italian-schools-cap-136601382",
       "published": "Sun, 20 Sep 2026 21:30:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Early returns show main Kremlin party leading Russia’s parliamentary election",
+      "description": "The election was virtually devoid of opposition to President Putin's policies.",
+      "url": "https://abcnews.com/International/wireStory/russia-wraps-wartime-parliamentary-election-kremlin-dominance-assured-136599037",
+      "published": "Sun, 20 Sep 2026 20:34:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2624,6 +2615,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168356",
       "published": "Thu, 17 Sep 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "GOP takes aim at Congress' next 'get filthy rich' loophole and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/gop-takes-aim-congress-next-get-filthy-rich-loophole-more-top-headlines",
+      "published": "Mon, 21 Sep 2026 06:56:29 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2670,17 +2672,6 @@
       "description": "Stay up to date with the Fox News Campus Radicals newsletter.",
       "url": "https://www.foxnews.com/us/fox-news-campus-radicals-newsletter-trump-bashing-chilled-speech-major-saga-renewed",
       "published": "Fri, 18 Sep 2026 16:44:23 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hasan Piker calls Bin Laden a ‘spoiled brat,’ labels 9/11 ‘blowback’ in Axios interview",
-      "description": "Hasan Piker called Osama bin Laden a \"spoiled brat\" and labeled 9/11 blowback for U.S. foreign policy in the Middle East and Afghanistan.",
-      "url": "https://www.foxnews.com/us/hasan-piker-calls-bin-laden-spoiled-brat-labels-911-blowback-axios-interview",
-      "published": "Fri, 18 Sep 2026 16:37:15 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
