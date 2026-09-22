@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T11:15:58.262311Z",
+  "last_updated": "2026-09-22T11:38:30.494626Z",
   "event_count": 221,
   "events": [
     {
@@ -70,20 +70,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pakistan says strikes in Afghanistan killed '28 terrorists'",
-      "description": "The Afghan border provinces of Kunar and Paktika were struck overnight. Pakistan said 28 militants were killed, Afghanistan said three civilians died. This follows soon after an attack on police in Kohat, Pakistan.",
-      "url": "https://www.dw.com/en/pakistan-says-strikes-in-afghanistan-killed-28-terrorists/a-79350604?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 21 Sep 2026 08:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 42,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Pakistan says strikes in Afghanistan killed '28 terrorists'"
-    },
-    {
       "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
       "description": "Wildfire forces evacuations and burns through mountains surrounding Villa de Leyva in the north-east Colombian authorities declared a public calamity as a wildfire burned through mountains surrounding one of the country’s best-known colonial towns in the north-east, scorching large swaths of vegetation and forcing evacuations. Nearly 20 active fires are burning across the South American country. Dry conditions have increased fire danger in Colombia as it braces for the effects of El Niño, which can help wildfires spread. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
@@ -98,15 +84,18 @@
       "ticker_label": "🌪️ Colombia declares public calamity as wildfire threatens popular tourist area"
     },
     {
-      "title": "The Netherlands is bracing for potentially devastating US sanctions against the ICC",
-      "description": "The Netherlands is making preparations for the United States to sanction the International Criminal Court, in the last escalation of the Trump Administration’s attacks on the global tribunal",
-      "url": "https://abcnews.com/International/wireStory/netherlands-bracing-potentially-devastating-us-sanctions-icc-136616246",
-      "published": "Mon, 21 Sep 2026 11:38:23 -0400",
-      "source": "ABC News International",
+      "title": "Americas feel effects of record El Nino",
+      "description": "The El Nino–Southern Oscillation this year equaled its record intensity, according to specialists, and could yet reach record levels. The weather phenomenon's influence has already been felt across the world, with drought, wildfires, food shortages and sharp rises in water temperatures. The state of California has declared a state of emergency due to El Nino and the effects have been felt all over the Americas.",
+      "url": "https://www.france24.com/en/video/20260922-americas-feel-effects-of-record-el-nino",
+      "published": "Tue, 22 Sep 2026 11:16:03 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 32,
+      "severity_score": 33,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Americas feel effects of record El Nino"
     },
     {
       "title": "Man and police officer wounded in exchange of gunfire near Ontario synagogue",
@@ -162,10 +151,10 @@
       "ticker_label": "🚨 Attacker opens fire near high school in western Turkiye, wounding 11"
     },
     {
-      "title": "Tropics will be among last places to benefit if global greenhouse gas emissions cut to net zero",
-      "description": "Scientists found unequal impact of the climate crisis would not be reversed even if implicit goal of the 2015 Paris agreement is achieved The unequal impact of the climate crisis on the world’s poorest people has been highlighted by new research that finds the tropics will be among the last places to feel the benefits if the global community cuts greenhouse gas emissions to net zero. Temperatures have risen more significantly in tropical areas relative to historic levels than at higher latitudes, including in wealthier countries in Europe and North America. Continue reading...",
+      "title": "Poorer nations will be among the last to benefit if global emissions cut to net zero",
+      "description": "Scientists found unequal impact of the climate crisis would not be reversed even if implicit goal of the 2015 Paris agreement is achieved The unequal impact of the climate crisis on the world’s poorest people, including those in tropical areas, has been highlighted by new research that finds they will be among the last to feel the benefits if global greenhouse gas emissions are cut to net zero. Temperatures have risen more significantly in tropical areas relative to their historic range than at higher latitudes, including in wealthier countries in Europe and North America. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/sep/22/climate-inequality-tropics-among-last-places-to-benefit-net-zero",
-      "published": "Tue, 22 Sep 2026 10:00:52 GMT",
+      "published": "Tue, 22 Sep 2026 11:13:19 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 27,
@@ -201,6 +190,17 @@
       "ticker_label": "💥 Survivors recount panic and struggle to breathe in Nigerian prison cell where 37 died"
     },
     {
+      "title": "Trump admin's hardline deportation policy an 'attempt to break the global refugee and asylum system'",
+      "description": "François Picard is pleased to welcome Washington Post national security reporter Adam Taylor. The Forbidden Stories consortium, involving France 24 and 25 other media outlets, has spent six months investigating the thousands of people abruptly deported from the United States to third countries, amid concerns over due process and their ability to challenge their removal. The investigation examines how the Trump administration has made deportation a major focus of both US immigration and foreign policy.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260922-trump-admin-s-hardline-deportation-policy-an-attempt-to-break-the-global-refugee-and-asylum-system",
+      "published": "Tue, 22 Sep 2026 11:28:40 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Cuba plunges into total blackout as electrical grid collapses again, US Embassy warns",
       "description": "Cuba's entire electrical grid collapsed Friday, triggering a nationwide blackout with cellphone and internet outages reported across the island.",
       "url": "https://www.foxnews.com/world/cuba-plunges-total-blackout-electrical-grid-collapses-us-embassy-warns",
@@ -215,6 +215,20 @@
       "ticker_label": "🪖 Cuba plunges into total blackout as electrical grid collapses again, US Embassy warns"
     },
     {
+      "title": "Wars, AI and climate on agenda as world leaders meet at UN",
+      "description": "In the face of an unrelenting succession of global crises, this year's United Nations General Assembly has chosen as its theme “Restoring trust, managing transformation: A United Nations that delivers for all”. From AI to climate change and ongoing wars, France 24 takes a look at what’s on the agenda.",
+      "url": "https://www.france24.com/en/video/20260922-wars-ai-and-climate-on-agenda-as-world-leaders-meet-at-un",
+      "published": "Tue, 22 Sep 2026 11:17:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Wars, AI and climate on agenda as world leaders meet at UN"
+    },
+    {
       "title": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
       "description": "A British tanker plane will provide \"defensive\" air-to-air refuelling for Saudi warplanes to help the country defend against Houthi strikes, the UK government confirmed late Monday. The show of solidarity follows a Saudi request for military support after the Houthis increased drone and missile attacks on it in recent weeks alongside a lightning offensive to capture Yemen's Red Sea coast.",
       "url": "https://www.france24.com/en/video/20260922-uk-to-offer-saudi-arabia-aerial-refueling-to-counter-houthi-attacks",
@@ -227,20 +241,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UK to offer Saudi Arabia aerial refueling to counter Houthi attacks"
-    },
-    {
-      "title": "World leaders gather at UN amid wars, AI fears and global divisions",
-      "description": "World leaders are gathering at the United Nations this week against a backdrop of wars in the Middle East and Ukraine, rising fears over artificial intelligence and mounting economic and climate pressures. The annual General Assembly will test whether the 193-member body can still bring countries together to tackle crises that increasingly transcend borders.",
-      "url": "https://www.france24.com/en/americas/20260922-world-leaders-gather-at-un-amid-wars-ai-fears-and-global-divisions",
-      "published": "Tue, 22 Sep 2026 03:49:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 World leaders gather at UN amid wars, AI fears and global divisions"
     },
     {
       "title": "British woman who was kidnapped in Malawi rescued by police after shootout",
@@ -321,6 +321,34 @@
       "is_ticker": false
     },
     {
+      "title": "Amnesty accuses M23 of abuses amounting to war crimes at Congo mines",
+      "description": "Amnesty International has accused M23 rebels in eastern Congo of abuses and unlawful killings of miners while trafficking minerals to Rwanda, in what it said could amount to war crimes",
+      "url": "https://abcnews.com/International/wireStory/amnesty-accuses-m23-abuses-amounting-war-crimes-congo-136614802",
+      "published": "Mon, 21 Sep 2026 08:10:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Amnesty accuses M23 of abuses amounting to war crimes at Congo mines"
+    },
+    {
+      "title": "Explosion injures 3 South Korean military officers in border area with North Korea",
+      "description": "An explosion has injured three South Korean military officers inside the heavily fortified Demilitarized Zone separating the Koreas",
+      "url": "https://abcnews.com/International/wireStory/explosion-injures-3-south-korean-military-officers-border-136611060",
+      "published": "Mon, 21 Sep 2026 06:10:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Explosion injures 3 South Korean military officers in border area with North Korea"
+    },
+    {
       "title": "Nepal floods: ‘Apocalyptic’ destruction signals wider climate threat across Himalayas",
       "description": "The catastrophic flooding that swept away entire villages in northern Nepal could occur again in the country or elsewhere in the Himalayas due to climate change.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168365",
@@ -349,20 +377,6 @@
       "ticker_label": "🪖 Russian strikes on Ukraine kill three as Zelenskyy in US for UN summit"
     },
     {
-      "title": "Worsening El Nino threatens Asia with drought, potentially raising prices globally",
-      "description": "All signs are pointing toward a record-breaking El Nino this year, which experts say raises the risk of droughts across Asia that may drive food prices higher across the globe",
-      "url": "https://abcnews.com/International/wireStory/worsening-el-nino-threatens-asia-drought-potentially-raising-136640382",
-      "published": "Tue, 22 Sep 2026 03:34:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Worsening El Nino threatens Asia with drought, potentially raising prices globally"
-    },
-    {
       "title": "Lindsay Clancy holdout juror makes new promise as lawyer warns of public attacks",
       "description": "Lindsay Clancy's mistrial juror Michael P. Desronvil plans a personal statement while her defense team pursues a double jeopardy dismissal motion.",
       "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-juror-vows-break-silence-lawyer-warns-public-attacks",
@@ -388,10 +402,35 @@
       "is_ticker": false
     },
     {
+      "title": "Man critically injured, police officer wounded in gunfire near Ontario synagogue on Yom Kippur",
+      "description": "Authorties say a police officer and a man were wounded in an exchange of gunfire near a synagogue in Ontario as members of the Jewish community marked Yom Kippur",
+      "url": "https://abcnews.com/International/wireStory/man-critically-injured-police-officer-wounded-gunfire-ontario-136610412",
+      "published": "Mon, 21 Sep 2026 03:17:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "As Russian strikes destroy millions of books, Ukraine's literary future hangs in the balance",
+      "description": "Ukraine’s book industry is facing its worst crisis yet, driven by targeted Russian attacks on publishing infrastructure",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-destroy-millions-books-ukraines-literary-future-136610595",
+      "published": "Mon, 21 Sep 2026 03:17:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 As Russian strikes destroy millions of books, Ukraine's literary future hangs in the balance"
+    },
+    {
       "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-      "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed four people",
+      "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed five people",
       "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
-      "published": "Tue, 22 Sep 2026 05:42:48 -0400",
+      "published": "Tue, 22 Sep 2026 07:23:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -400,6 +439,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump"
+    },
+    {
+      "title": "Poisoning suspected in deaths of 10 lions in Tanzania conservation area",
+      "description": "Authorities in northern Tanzania suspect poison may have caused the deaths of 10 lions inside a protected conservation area and UNESCO World Heritage site",
+      "url": "https://abcnews.com/International/wireStory/poisoning-suspected-deaths-10-lions-tanzania-conservation-area-136612190",
+      "published": "Mon, 21 Sep 2026 06:18:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
@@ -442,20 +492,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Flights cancelled, evacuations urged as Typhoon Dujuan hits Japan"
-    },
-    {
-      "title": "Middle East live: More than 230,000 could be displaced and 10,000 made refugees in Yemen, UN warns",
-      "description": "The number of refugees fleeing across the Red Sea to Djibouti could jump from 3,000 today to 10,000 in coming months because of renewed fighting in Yemen, the United Nations warned Tuesday. UN Refugee Agency Global Spokesman Babar Baloch also told reporters in Geneva that the number of internally displaced people in Yemen could swell to over 230,000. Follow our live blog for the latest developments.",
-      "url": "https://www.france24.com/en/middle-east/20260922-middle-east-live-yemen-fighting-escalates-as-trump-heads-to-un",
-      "published": "Tue, 22 Sep 2026 03:41:38 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Middle East live: More than 230,000 could be displaced and 10,000 made refugees in Yemen, UN warns"
     },
     {
       "title": "Three South Korean soldiers injured in landmine border explosion",
@@ -511,6 +547,17 @@
       "ticker_label": "🪖 Fresh activity emerges at Iran’s deeply buried nuclear site as Trump warns Iran not to ‘get cute’"
     },
     {
+      "title": "Can the US ban Iranian airlines worldwide – and what would it mean?",
+      "description": "Analysts say new sweeping US sanctions stand to worsen lives of millions of Iranians struggling in battered economy.",
+      "url": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss",
+      "published": "Tue, 22 Sep 2026 11:19:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Mother charged after allegedly fatally stabbing one child and seriously injuring two others in Blue Mountains",
       "description": "A woman has been accused of murder and two counts of grievous bodily harm with intent to cause murder Get our breaking news email , free app or daily news podcast A mother has been charged after allegedly fatally stabbing one child and seriously injuring two others in the Blue Mountains. Emergency services responded to reports on Sunday that three children and a woman had been found in a vehicle in Valley Heights with stab wounds. New South Wales police said bystanders who were first on the scene attempted to perform first aid while contacting triple zero. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/22/mother-charged-after-allegedly-fatally-stabbing-one-child-and-seriously-injuring-two-others-in-blue-mountains-ntwnfb",
@@ -527,17 +574,6 @@
       "url": "https://www.npr.org/2026/09/22/nx-s1-5975528/leaders-set-ambitious-goals-to-better-the-world-by-2030-theyve-made-little-progress",
       "published": "Tue, 22 Sep 2026 04:47:26 -0400",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Two of Puerto Rico's legacy newspapers say they will end print editions",
-      "description": "Two of Puerto Rico’s biggest newspapers say they will end their print editions in upcoming days and pivot to digital only, joining a worldwide trend",
-      "url": "https://abcnews.com/International/wireStory/puerto-ricos-legacy-newspapers-end-print-editions-136635683",
-      "published": "Mon, 21 Sep 2026 22:24:05 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
@@ -683,20 +719,6 @@
       "is_ticker": false
     },
     {
-      "title": "UK and US make first-ever torpedo test from uncrewed vessel",
-      "description": "The United Kingdom and the United States have for the first time test-fired a torpedo from an uncrewed underwater vessel, the UK government said Monday, marking a step forward in AUKUS efforts to develop autonomous naval technology.",
-      "url": "https://www.france24.com/en/europe/20260922-uk-and-us-make-first-ever-torpedo-test-from-uncrewed-vessel",
-      "published": "Tue, 22 Sep 2026 02:33:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 UK and US make first-ever torpedo test from uncrewed vessel"
-    },
-    {
       "title": "Sexual violence against civilians and POWs in Ukraine widespread and ‘abhorrent’",
       "description": "Over 1,000 cases of sexual violence against civilians and prisoners of war (POWs) in Ukraine have been documented from the start of Russia’s invasion to the end of July this year.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168374",
@@ -831,22 +853,11 @@
       "ticker_label": "🪖 New book by Princess Diana's brother prompts war of words with King Charles III"
     },
     {
-      "title": "Two women and man arrested over one of nine South Africa killings",
-      "description": "Two women and a man have been arrested in connection with one of a series of killings in South Africa which sparked outcry over violence against women in the country.",
+      "title": "Two women arrested over one of nine South Africa killings",
+      "description": "Two women have been arrested in connection with one of a series of killings in South Africa which sparked outcry over violence against women in the country.",
       "url": "https://news.sky.com/story/three-arrested-over-one-of-nine-deaths-of-women-in-south-africa-in-two-months-13590428",
       "published": "Mon, 21 Sep 2026 13:00:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Nicaraguan govt responsible for at least 8 deaths in custody since 2018: UN report",
-      "description": "A U.N. report says the Nicaraguan government is responsible for at least eight deaths in custody since 2018",
-      "url": "https://abcnews.com/International/wireStory/nicaraguan-government-responsible-8-deaths-custody-2018-report-136641520",
-      "published": "Tue, 22 Sep 2026 04:26:26 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
@@ -914,34 +925,6 @@
       "ticker_label": "🪖 Why United Nations says US boat strikes may be ‘crimes against humanity’"
     },
     {
-      "title": "G7 foreign ministers demand Houthis halt strikes on Saudi Arabia",
-      "description": "Ministers demand an end to maritime shipping attacks and urge Iran to stop arming the Yemeni group.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/g7-foreign-ministers-demand-houthis-halt-strikes-on-saudi-arabia?traffic_source=rss",
-      "published": "Tue, 22 Sep 2026 05:32:40 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 G7 foreign ministers demand Houthis halt strikes on Saudi Arabia"
-    },
-    {
-      "title": "Why does the US want to send Israel 40,000 bombs?",
-      "description": "Is the planned $2.8bn US arms deal proportionate to Israel’s threat, or could it cause more civilian casualties in Gaza?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss",
-      "published": "Tue, 22 Sep 2026 05:15:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Why does the US want to send Israel 40,000 bombs?"
-    },
-    {
       "title": "Australia investigating how F-35 fighter jet parts bound for US went missing in Hong Kong",
       "description": "Disappearance of jet components sparks concern some of the program’s technology secrets could have been exposed Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast The Department of Defence is examining how F-35 fighter jet parts bound for the US from Australia were unexpectedly diverted to Hong Kong, the acting prime minister, Richard Marles, has said. Marles said “very much everything that has occurred at the Australian end” would be reviewed, but claimed the technology parts were not “sensitive”, as first reported by Politico over the weekend . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/sep/22/australia-investigating-how-f-35-fighter-jet-parts-bound-for-us-went-missing-in-hong-kong",
@@ -1001,20 +984,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Gunman opens fire near a high school in Turkey, wounding at least 8",
-      "description": "An attacker opened fire near a high school in western Turkey, wounding at least 11 people",
-      "url": "https://abcnews.com/International/wireStory/gunman-opens-fire-high-school-turkey-wounding-8-136641092",
-      "published": "Tue, 22 Sep 2026 05:22:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Gunman opens fire near a high school in Turkey, wounding at least 8"
     },
     {
       "title": "Waltz delivers blunt warning to nations defying Iran sanctions, touts Greenland deal",
@@ -1089,6 +1058,20 @@
       "is_ticker": false
     },
     {
+      "title": "Iran war spreads through region as Trump seeks way out",
+      "description": "Washington, Tehran and the Gulf states continue to pursue different objectives while searching for a way to end the Iran war.",
+      "url": "https://www.dw.com/en/iran-war-spreads-through-region-as-trump-seeks-way-out/a-79370506?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 22 Sep 2026 11:29:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war spreads through region as Trump seeks way out"
+    },
+    {
       "title": "EU fails to reach deal to lift sanctions on Russian oligarchs",
       "description": "EU countries failed Monday to finalise a deal that involved lifting sanctions on Russian oligarchs Alisher Usmanov and Mikhail Fridman, Multiple diplomats said earlier that member states had reached a provisional agreement to take the pair off the EU's blacklist as part of a compromise to extend sanctions on almost 3,000 other individuals and entities over the Ukraine war. France 24's Dave Keating has more from Brussels.",
       "url": "https://www.france24.com/en/video/20260922-eu-fails-to-reach-deal-to-lift-sanctions-on-russian-oligarchs",
@@ -1122,28 +1105,6 @@
       "url": "https://www.france24.com/en/tv-shows/the-debate/20260922-first-new-york-now-berlin-why-the-left-turn-for-major-metropolises",
       "published": "Tue, 22 Sep 2026 07:56:32 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Increasing violence in Brazil's Bahia state challenges Lula in his election stronghold",
-      "description": "A recent killing in Salvador highlights rising violence in Bahia, Brazil",
-      "url": "https://abcnews.com/International/wireStory/increasing-violence-brazils-bahia-state-challenges-lula-election-136643167",
-      "published": "Tue, 22 Sep 2026 07:05:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Hungary fines MOL Petrochemicals over safety lapses linked to deadly plant explosion",
-      "description": "Hungarian authorities have fined MOL Petrochemicals for safety lapses linked to a May explosion at a chemical plant",
-      "url": "https://abcnews.com/International/wireStory/hungary-fines-mol-petrochemicals-safety-lapses-linked-deadly-136642600",
-      "published": "Tue, 22 Sep 2026 05:22:30 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1216,6 +1177,17 @@
       "url": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 19:50:57 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Why the world should care about the far right’s rise in Germany",
+      "description": "The AfD has a far different vision on support for Ukraine, foreign aid and Russia than the governing coalition.",
+      "url": "https://www.aljazeera.com/news/2026/9/22/why-the-world-should-care-about-the-far-rights-rise-in-germany?traffic_source=rss",
+      "published": "Tue, 22 Sep 2026 11:20:38 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1494,17 +1466,6 @@
       "is_ticker": false
     },
     {
-      "title": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
-      "description": "Prime Minister Andy Burnham says Britain has agreed to provide limited military support to Saudi Arabia to repeal attacks by Iran-backed Houthi rebels in Yemen",
-      "url": "https://abcnews.com/International/wireStory/uk-offer-saudi-arabia-aerial-refueling-counter-houthi-136631909",
-      "published": "Tue, 22 Sep 2026 05:22:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "‘Nowhere is safe’: UN experts detail Ukraine war’s toll and Russia’s reach beyond its borders",
       "description": "UN Human Rights Council-appointed experts on Monday laid out a grim picture of the human cost of Russia’s invasion of Ukraine, with a spotlight on civilians facing a third wartime winter as well as the intimidation of Russians who have fled abroad.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168386",
@@ -1644,17 +1605,6 @@
       "ticker_label": "🪖 Archbishop of Canterbury withdraws award from Muslim cleric after past Osama bin Laden praise surfaces"
     },
     {
-      "title": "UN General Assembly 2026: When is it, who is speaking and when?",
-      "description": "September 22 marks the start of the general debate, where all 193 UN member states are invited to address the UNGA.",
-      "url": "https://www.aljazeera.com/news/2026/9/22/un-general-assembly-2026-when-is-it-who-is-speaking-and-when?traffic_source=rss",
-      "published": "Tue, 22 Sep 2026 05:15:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1732,6 +1682,17 @@
       "is_ticker": false
     },
     {
+      "title": "Doctor in court to face Rwanda genocide charges in UK",
+      "description": "Dr Vincent Brown was charged following a seven year British investigation into the 1994 killings.",
+      "url": "https://www.bbc.co.uk/news/articles/c6790y1gj247o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 11:25:19 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Russia, Ukraine trade deadly strikes as Zelenskyy attends UNGA",
       "description": "The Russian army targeted economic infrastructure in Ukraine, while Ukraine struck an oil refinery. This comes ahead of the UN General Assembly, where President Volodymyr Zelenskyy is due to meet Trump on the sidelines.",
       "url": "https://www.dw.com/en/russia-ukraine-trade-deadly-strikes-as-zelenskyy-attends-unga/a-79366022?maca=en-rss-en-all-1573-xml-mrss",
@@ -1757,6 +1718,17 @@
       "is_ticker": false
     },
     {
+      "title": "Climate change, overfishing: Lake Chad sees fish stocks dwindle",
+      "description": "People living in Chad’s Lake Province are bearing the brunt of climate change. The region and the communities that have developed there have historically depended on this vast body of water. Fishing, first and foremost, but also farming, are the pillars of local livelihoods. Yet both are increasingly disrupted by erratic weather patterns: dwindling fish stocks, damaged farmland and a rising cost of living.",
+      "url": "https://www.france24.com/en/tv-shows/focus/20260922-climate-change-overfishing-lake-chad-sees-fish-stocks-dwindle",
+      "published": "Tue, 22 Sep 2026 11:30:56 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "US networks halt Trump coverage after three media outlets banned",
       "description": "US television networks on Monday effectively boycotted coverage of President Donald Trump in protest at his decision to ban three leading outlets - CNN, MS NOW and Politico - from the White House. As a result, Trump's opening of his cherished new White House helipad and his trip to the United Nations General Assembly proceeded without live television coverage.",
       "url": "https://www.france24.com/en/video/20260922-us-networks-halt-trump-coverage-after-three-media-outlets-banned",
@@ -1766,20 +1738,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "European Union strikes a new free trade deal with the Philippines",
-      "description": "The European Union and the Philippines have reached substantial agreement on a new free trade deal",
-      "url": "https://abcnews.com/International/wireStory/european-union-strikes-new-free-trade-deal-philippines-136642538",
-      "published": "Tue, 22 Sep 2026 06:58:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 European Union strikes a new free trade deal with the Philippines"
     },
     {
       "title": "Women and girls pay high price in DR Congo Ebola outbreak",
@@ -1865,6 +1823,31 @@
       "ticker_label": "💥 Germany: Chancellor Merz braces for difficult days ahead"
     },
     {
+      "title": "Trump shattered Canada’s old US relationship. Carney is building a new one in Europe",
+      "description": "Canadian Prime Minister Mark Carney is urgently trying to reduce dependence on the United States as President Donald Trump uses tariffs and economic pressure against America’s longtime ally",
+      "url": "https://abcnews.com/International/wireStory/trump-shattered-canadas-us-relationship-carney-building-new-136610319",
+      "published": "Mon, 21 Sep 2026 03:17:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What's next for Germany's chancellor after a string of state election defeats",
+      "description": "Friedrich Merz says he intends to stay on as the leader of Germany and his party after a string of state election defeats",
+      "url": "https://abcnews.com/International/wireStory/germanys-troubled-chancellor-after-string-state-election-defeats-136611999",
+      "published": "Tue, 22 Sep 2026 02:42:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 What's next for Germany's chancellor after a string of state election defeats"
+    },
+    {
       "title": "‘Voters get to choose — just not the result’: Russia’s parliamentary election reaches occupied Ukraine",
       "description": "Russian State Duma elections will be held in occupied Donetsk, Luhansk, Kherson, and Zaporizhzhia amid accusations of armed voter intimidation.",
       "url": "https://www.foxnews.com/world/voters-get-choose-just-not-result-russias-parliamentary-election-reaches-occupied-ukraine",
@@ -1917,17 +1900,6 @@
       "url": "https://www.dw.com/en/male-infertility-is-grossly-underreported/a-79368722?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 22 Sep 2026 10:00:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ethiopian opposition groups unite to mount challenge to prime minister Abiy",
-      "description": "Seven opposition groups in Ethiopia have announced the formation of an alliance to remove the government of Prime Minister Abiy Ahmed, according to an announcement made on Sunday",
-      "url": "https://abcnews.com/International/wireStory/ethiopian-opposition-groups-unite-mount-challenge-prime-minister-136618708",
-      "published": "Mon, 21 Sep 2026 10:34:29 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2000,17 +1972,6 @@
       "is_ticker": false
     },
     {
-      "title": "First UK charges brought over 1994 Rwanda genocide",
-      "description": "Dr Vincent Brown, formerly Dr Vincent Bajinya, 65, will appear at Westminster Magistrates’ Court on Tuesday charged with seven offences.",
-      "url": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 21 Sep 2026 17:48:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",
       "description": "Vladimir Putin will likely use the result to claim most Russians back the so-called special military operation in Ukraine, writes the BBC's Steve Rosenberg.",
       "url": "https://www.bbc.co.uk/news/articles/cx4gqv239043o?at_medium=RSS&at_campaign=rss",
@@ -2027,6 +1988,17 @@
       "url": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 21 Sep 2026 17:02:47 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Palestine weekly: Violent disruptions from olive groves to Al-Aqsa Mosque",
+      "description": "A new season approaches - religiously, politically and agriculturally - and with it comes corresponding escalation.",
+      "url": "https://www.aljazeera.com/features/2026/9/22/palestine-weekly-violent-disruptions-from-olive-groves-to-al-aqsa-mosque?traffic_source=rss",
+      "published": "Tue, 22 Sep 2026 11:22:51 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2391,17 +2363,6 @@
       "is_ticker": false
     },
     {
-      "title": "EU fails to agree on lifting sanctions on Russian oligarchs",
-      "description": "EU countries failed Monday to reach a final deal that would remove Russian billionaires Alisher Usmanov and Mikhail Fridman from the bloc's sanctions list, with diplomats set to resume talks Tuesday.",
-      "url": "https://www.france24.com/en/europe/20260922-eu-fails-to-agree-on-lifting-sanctions-on-russian-oligarchs",
-      "published": "Tue, 22 Sep 2026 02:18:49 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Converse apologises and removes ad after backlash",
       "description": "Converse, the American footwear brand, has apologised for an ad which critics said evoked Ku Klux Klan imagery, saying it recognised why the image was \"deeply upsetting\".",
       "url": "https://news.sky.com/story/converse-apologises-and-removes-ad-over-image-critics-said-evoked-racist-imagery-13590324",
@@ -2468,10 +2429,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action",
-      "description": "Pope Leo XIV plans to meet with seven survivors of sexual abuse by Catholic clergy during his visit to France",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-meet-french-abuse-survivors-critics-136641086",
-      "published": "Tue, 22 Sep 2026 03:46:15 -0400",
+      "title": "Young people in Morocco split over whether politics can deliver change as election draws near",
+      "description": "In Morocco's election race, a rural funeral has become an unexpected campaign stop for candidates aiming to engage disenchanted young voters",
+      "url": "https://abcnews.com/International/wireStory/young-people-morocco-split-politics-deliver-change-election-136609474",
+      "published": "Mon, 21 Sep 2026 03:17:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2479,35 +2440,10 @@
       "is_ticker": false
     },
     {
-      "title": "A timeline of US President Donald Trump's interest in Greenland",
-      "description": "President Donald Trump’s interest in taking control of Greenland, a semiautonomous territory of NATO ally Denmark, first became publicly known in 2019, but was dismissed as absurd by Denmark's leader",
-      "url": "https://abcnews.com/International/wireStory/timeline-us-president-donald-trumps-interest-greenland-136640631",
-      "published": "Tue, 22 Sep 2026 03:32:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "North Korea touts new weapons system described as hypersonic",
-      "description": "North Korea says its latest missile tests involved a new weapons system of “great significance,” with photos indicating it launched a missile previously described as hypersonic",
-      "url": "https://abcnews.com/International/wireStory/north-korea-touts-new-weapons-system-hypersonic-136639627",
-      "published": "Tue, 22 Sep 2026 00:43:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 North Korea touts new weapons system described as hypersonic"
-    },
-    {
-      "title": "British prosecutors charge doctor in the 1994 Rwandan genocide",
-      "description": "British authorities have charged a doctor living in London with crimes related to the 1994 Rwandan genocide",
-      "url": "https://abcnews.com/International/wireStory/british-prosecutors-charge-doctor-1994-rwandan-genocide-136626073",
-      "published": "Mon, 21 Sep 2026 14:12:45 -0400",
+      "title": "Sound of Music museum opens where the von Trapp story met Hollywood",
+      "description": "An Austrian museum is now alive with “The Sound of Music.”",
+      "url": "https://abcnews.com/International/wireStory/sound-music-museum-opens-von-trapp-story-met-136610960",
+      "published": "Mon, 21 Sep 2026 03:06:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2526,10 +2462,65 @@
       "is_ticker": false
     },
     {
-      "title": "Google hit with $463 million fine for EU location data rule breach",
-      "description": "Google has been fined 403 million euros for breaching the EU's privacy rules by mishandling users' location data",
-      "url": "https://abcnews.com/International/wireStory/google-hit-463-million-fine-eu-location-data-136616042",
-      "published": "Mon, 21 Sep 2026 08:42:18 -0400",
+      "title": "A timeline of US President Donald Trump's interest in Greenland",
+      "description": "President Donald Trump’s interest in taking control of Greenland, a semiautonomous territory of NATO ally Denmark, first became publicly known in 2019, but was dismissed as absurd by Denmark's leader",
+      "url": "https://abcnews.com/International/wireStory/timeline-us-president-donald-trumps-interest-greenland-136640631",
+      "published": "Tue, 22 Sep 2026 03:32:09 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action",
+      "description": "Pope Leo XIV plans to meet with seven survivors of sexual abuse by Catholic clergy during his visit to France",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-meet-french-abuse-survivors-critics-136641086",
+      "published": "Tue, 22 Sep 2026 03:46:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Britain’s Burnham is set to meet Trump for the first time at the UN in New York",
+      "description": "Britain's Prime Minister Andy Burnham is set to meet U.S. President Donald Trump for the first time",
+      "url": "https://abcnews.com/International/wireStory/britains-burnham-set-meet-trump-time-new-york-136611594",
+      "published": "Mon, 21 Sep 2026 07:46:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Former husband, in-laws of Hong Kong socialite Abby Choi stand trial in her killing",
+      "description": "A murder trial has begun for the former husband and in-laws of Hong Kong socialite Abby Choi",
+      "url": "https://abcnews.com/International/wireStory/former-husband-laws-hong-kong-socialite-abby-choi-136610689",
+      "published": "Mon, 21 Sep 2026 04:34:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "British prosecutors charge doctor in the 1994 Rwandan genocide",
+      "description": "British authorities have charged a doctor living in London with crimes related to the 1994 Rwandan genocide",
+      "url": "https://abcnews.com/International/wireStory/british-prosecutors-charge-doctor-1994-rwandan-genocide-136626073",
+      "published": "Mon, 21 Sep 2026 14:12:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "3 arrested in relation to one of a series of killings of women in South Africa",
+      "description": "Police in South Africa say they have arrested two suspects in connection with one of a series of killings of women near Johannesburg",
+      "url": "https://abcnews.com/International/wireStory/3-suspects-arrested-relation-series-killings-women-south-136613059",
+      "published": "Tue, 22 Sep 2026 07:23:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
