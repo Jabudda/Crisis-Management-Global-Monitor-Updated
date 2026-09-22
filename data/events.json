@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:18:18.515174Z",
+  "last_updated": "2026-09-22T09:40:00.258024Z",
   "event_count": 221,
   "events": [
     {
@@ -132,20 +132,6 @@
       "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "At least 11 injured in shooting at Turkish high school",
-      "description": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
-      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 22 Sep 2026 09:00:43 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 At least 11 injured in shooting at Turkish high school"
     },
     {
       "title": "Why climate action now comes down to speed, finance and cooperation",
@@ -455,6 +441,20 @@
       "is_ticker": false
     },
     {
+      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
+      "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed four people",
+      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
+      "published": "Tue, 22 Sep 2026 05:37:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump"
+    },
+    {
       "title": "Yemen’s humanitarian crisis growing by the hour amid spike in displacement",
       "description": "People displaced by the renewed fighting in Yemen have described fleeing for their lives amid shelling and gunfire, aid agencies reported on Friday, while highlighting the dramatic increase in humanitarian needs in the country and in Djibouti, where thousands have sought shelter.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168364",
@@ -520,20 +520,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Three South Korean soldiers injured in landmine border explosion"
-    },
-    {
-      "title": "Iran's Revolutionary Guard warns US over escalation, and other Mideast developments",
-      "description": "A spokesperson for the paramilitary Revolutionary Guard warned that Iran would change its weapons, military tactics and targets if the conflict with the United States escalates",
-      "url": "https://abcnews.com/International/wireStory/tanker-hit-projectile-enters-strait-hormuz-mideast-developments-136613611",
-      "published": "Tue, 22 Sep 2026 03:14:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran's Revolutionary Guard warns US over escalation, and other Mideast developments"
     },
     {
       "title": "‘Violence will only defer a problem’: UN Assembly President on trust, AI and lessons from the Rohingya crisis",
@@ -723,6 +709,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 World leaders descend on New York for UNGA — but who really has America’s ear?"
+    },
+    {
+      "title": "Teenager captured after 11 shot at Turkish high school",
+      "description": "Footage appears to show a male in the area carrying a firearm, while officials say the attacker has been captured.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y0z4gv0le4o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 22 Sep 2026 09:31:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Germany's car crisis: Can the 35-hour workweek survive?",
@@ -1010,9 +1007,9 @@
     },
     {
       "title": "Gunman opens fire near a high school in Turkey, wounding at least 8",
-      "description": "An attacker has opened fire near a high school in western Turkey, wounding at least eight people",
+      "description": "An attacker opened fire near a high school in western Turkey, wounding at least 11 people",
       "url": "https://abcnews.com/International/wireStory/gunman-opens-fire-high-school-turkey-wounding-8-136641092",
-      "published": "Tue, 22 Sep 2026 04:34:24 -0400",
+      "published": "Tue, 22 Sep 2026 05:22:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1151,7 +1148,7 @@
       "title": "Hungary fines MOL Petrochemicals over safety lapses linked to deadly plant explosion",
       "description": "Hungarian authorities have fined MOL Petrochemicals for safety lapses linked to a May explosion at a chemical plant",
       "url": "https://abcnews.com/International/wireStory/hungary-fines-mol-petrochemicals-safety-lapses-linked-deadly-136642600",
-      "published": "Tue, 22 Sep 2026 05:04:57 -0400",
+      "published": "Tue, 22 Sep 2026 05:22:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
@@ -1508,7 +1505,7 @@
       "title": "UK to offer Saudi Arabia aerial refueling to counter Houthi attacks",
       "description": "Prime Minister Andy Burnham says Britain has agreed to provide limited military support to Saudi Arabia to repeal attacks by Iran-backed Houthi rebels in Yemen",
       "url": "https://abcnews.com/International/wireStory/uk-offer-saudi-arabia-aerial-refueling-counter-houthi-136631909",
-      "published": "Tue, 22 Sep 2026 04:34:21 -0400",
+      "published": "Tue, 22 Sep 2026 05:22:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1760,7 +1757,7 @@
       "title": "European Union strikes a new free trade deal with the Philippines",
       "description": "The European Union and the Philippines have announced a new free trade deal",
       "url": "https://abcnews.com/International/wireStory/european-union-strikes-new-free-trade-deal-philippines-136642538",
-      "published": "Tue, 22 Sep 2026 04:49:32 -0400",
+      "published": "Tue, 22 Sep 2026 05:22:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -2055,6 +2052,17 @@
       "is_ticker": false
     },
     {
+      "title": "India defeat Sri Lanka by 147 runs as Mandhana shines in Asian Games final",
+      "description": "Sri Lanka were bowled out for 69 runs, 10 less than Mandhana's belligerent match-winning innings as India retained gold.",
+      "url": "https://www.aljazeera.com/sports/2026/9/22/india-defeat-sri-lanka-by-147-runs-as-mandhana-shines-in-asian-games-final?traffic_source=rss",
+      "published": "Tue, 22 Sep 2026 09:12:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Why young people are paying to get hired",
       "description": "Why is the entry level job market so broken?",
       "url": "https://www.aljazeera.com/video/money-works/2026/9/22/why-young-people-are-paying-to-get-hired?traffic_source=rss",
@@ -2103,17 +2111,6 @@
       "description": "The UN General Assembly has delivered no shortage of unforgettable moments. Here’s a look back at some of them.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/the-most-memorable-moments-at-unga?traffic_source=rss",
       "published": "Tue, 22 Sep 2026 07:23:04 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "LIVE: India defeat Sri Lanka by 147 runs – Asian Games womens cricket final",
-      "description": "India romp to 147-run win to retain their gold medal at the Asian Games, Sri Lanka win silver and Pakistan bag bronze.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/9/22/india-vs-sri-lanka-live-asian-games-womens-cricket-final?traffic_source=rss",
-      "published": "Tue, 22 Sep 2026 03:22:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2457,10 +2454,21 @@
       "is_ticker": false
     },
     {
+      "title": "South Korean court reduces former first lady’s sentence over luxury gifts and favors",
+      "description": "A South Korean appeals court has reduced the prison sentence of the wife of ousted President Yoon Suk Yeol",
+      "url": "https://abcnews.com/International/wireStory/south-korean-appeals-court-reduces-former-ladys-sentence-136642361",
+      "published": "Tue, 22 Sep 2026 05:35:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
       "description": "China's Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China's most powerful AI chip",
       "url": "https://abcnews.com/International/wireStory/chinas-alibaba-unveils-new-powerful-chip-ambitious-ai-136641611",
-      "published": "Tue, 22 Sep 2026 04:26:17 -0400",
+      "published": "Tue, 22 Sep 2026 05:22:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2530,17 +2538,6 @@
       "description": "Google has been fined 403 million euros for breaching the EU's privacy rules by mishandling users' location data",
       "url": "https://abcnews.com/International/wireStory/google-hit-463-million-fine-eu-location-data-136616042",
       "published": "Mon, 21 Sep 2026 08:42:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "3 arrested in relation to one of a series of killings of women in South Africa",
-      "description": "Police in South Africa say they have arrested three suspects in connection with one of a series of killings of women near Johannesburg",
-      "url": "https://abcnews.com/International/wireStory/3-suspects-arrested-relation-series-killings-women-south-136613059",
-      "published": "Mon, 21 Sep 2026 07:54:20 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
