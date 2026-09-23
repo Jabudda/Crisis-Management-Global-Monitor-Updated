@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T20:18:31.653734Z",
+  "last_updated": "2026-09-23T20:38:57.704454Z",
   "event_count": 216,
   "events": [
     {
@@ -171,15 +171,18 @@
       "ticker_label": "🪖 US says wants Ukraine, Russia to end strikes on energy sites"
     },
     {
-      "title": "Moldova to impose 60-day energy and water emergency due to drought and rising costs",
-      "description": "Moldova’s parliament has declared a 60-day state of emergency in the country’s energy and water sectors amid severely low water levels on the Dniester River and global conflicts that are driving up energy costs",
-      "url": "https://abcnews.com/International/wireStory/moldova-impose-60-day-energy-water-emergency-due-136657753",
-      "published": "Tue, 22 Sep 2026 15:09:06 -0400",
+      "title": "A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say",
+      "description": "Police and local authorities in South Africa say three gunmen opened fire at a house party and killed 11 people including a pregnant woman",
+      "url": "https://abcnews.com/International/wireStory/mass-shooting-house-south-africa-leaves-11-dead-136675033",
+      "published": "Wed, 23 Sep 2026 08:58:24 -0400",
       "source": "ABC News International",
       "type": "rss",
-      "severity_score": 31,
+      "severity_score": 32,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 A mass shooting at a house in South Africa leaves 11 dead and 3 wounded, police say"
     },
     {
       "title": "How El Niño offers a test of whether the world can adapt to a changing climate",
@@ -497,20 +500,6 @@
       "ticker_label": "🌪️ Hurricane Polo, rapidly intensifying from strong El Niño patterns, rages off coast of Mexico"
     },
     {
-      "title": "Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump",
-      "description": "Officials say Russia has bombarded at least four Ukrainian regions with missiles and drones in that attacks that have killed five people",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-deadly-strikes-zelenskyy-prepares-meet-136642887",
-      "published": "Tue, 22 Sep 2026 08:10:31 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia and Ukraine trade deadly strikes as Zelenskyy prepares to meet Trump"
-    },
-    {
       "title": "ICC convicts former Central African Republic militia commander of torture",
       "description": "Judges at the International Criminal Court have convicted former Seleka rebel commander Mahamat Said Abdel Kani of persecution and torture as crimes against humanity committed while he ran a prison in Bangui, the capital of the Central African Republic",
       "url": "https://abcnews.com/International/wireStory/icc-convicts-former-central-african-republic-militia-commander-136678540",
@@ -562,6 +551,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 EXCLUSIVE: Russian document reveals sweeping Iran plan spanning nuclear, finance and aviation"
+    },
+    {
+      "title": "British Columbia leader calls snap election as premier tells voters to say ‘hell no to Trump’",
+      "description": "A Canadian provincial premier has called a snap election, saying U.S. President Donald Trump’s attacks on Canada are threatening jobs, businesses and the country’s ability to determine its own future",
+      "url": "https://abcnews.com/International/wireStory/british-columbia-leader-calls-snap-election-premier-tells-136664056",
+      "published": "Wed, 23 Sep 2026 02:22:53 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Ukraine’s Zelenskyy calls for sustained pressure to end ‘Putin’s crazy war’",
@@ -1138,6 +1138,28 @@
       "is_ticker": false
     },
     {
+      "title": "Ethiopian Airlines cancels flights to Tigray capital as soldiers take over airport",
+      "description": "Regional forces in Tigray, northern Ethiopia, have taken control of the airport, leading Ethiopian Airlines to cancel flights to the region",
+      "url": "https://abcnews.com/International/wireStory/ethiopian-airlines-cancels-flights-tigray-amid-concerns-renewed-136676469",
+      "published": "Wed, 23 Sep 2026 09:38:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Pakistani officials say Afghan Taliban shelled Pakistan's border posts. Kabul denies the attack",
+      "description": "Local Pakistani officials say Afghan Taliban forces shelled Pakistani border posts after Pakistani troops foiled a cross-border infiltration attempt by militants",
+      "url": "https://abcnews.com/International/wireStory/pakistani-officials-afghan-taliban-shelled-pakistani-border-kabul-136675751",
+      "published": "Wed, 23 Sep 2026 07:22:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Right to development: A blueprint for unmet promises",
       "description": "Ahead of the 40th anniversary of the groundbreaking Declaration on the Right to Development this December, world leaders gathered at a High-Level Week meeting on Wednesday to map progress made and the 21st century challenges still ahead – from narrowing the digital divide to levelling the AI playing field – as the UN chief presented a “blueprint” to address promises that remain unfulfilled.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168405",
@@ -1271,34 +1293,6 @@
       "ticker_label": "🪖 Doctors warn of 'exponential' rise in e-scooter and scrambler bike injuries"
     },
     {
-      "title": "About 2,000 church sex abuse victims have come forward for reparations in France",
-      "description": "About 2,000 people have sought reparations from a French body addressing church abuse",
-      "url": "https://abcnews.com/International/wireStory/2000-church-sex-abuse-victims-forward-reparations-france-136657602",
-      "published": "Tue, 22 Sep 2026 15:09:07 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 About 2,000 church sex abuse victims have come forward for reparations in France"
-    },
-    {
-      "title": "Marlon James, Douglas Stuart may become 5th multiple winner of Booker Prize award",
-      "description": "Marlon James and Douglas Stuart can become the fifth author to win the Booker Prize twice after both were shortlisted for arguably the U.K.’s most prestigious fiction accolade",
-      "url": "https://abcnews.com/International/wireStory/marlon-james-douglas-stuart-chance-become-5th-multiple-136672599",
-      "published": "Tue, 22 Sep 2026 23:46:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Marlon James, Douglas Stuart may become 5th multiple winner of Booker Prize award"
-    },
-    {
       "title": "Russia's parliamentary election result underscores public support for Kremlin policies, Putin says",
       "description": "President Vladimir Putin says Russia’s first wartime parliamentary election, which further strengthened the Kremlin’s already-overwhelming legislative control, was a sign of public support for his policies",
       "url": "https://abcnews.com/International/wireStory/russias-parliamentary-election-result-underscores-public-support-kremlin-136688040",
@@ -1311,6 +1305,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia's parliamentary election result underscores public support for Kremlin policies, Putin says"
+    },
+    {
+      "title": "Russian attacks injure 7 across Ukraine and damage structures",
+      "description": "Russia has launched daylight drone attacks on Kyiv, hours before Ukrainian President Volodymyr Zelenskyy was to address the U.N. General Assembly",
+      "url": "https://abcnews.com/International/wireStory/russian-attacks-injure-7-ukraine-damage-structures-136675219",
+      "published": "Wed, 23 Sep 2026 09:38:22 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Dashcam captures terrifying moment lightning nearly strikes Utah truck driver",
@@ -1381,17 +1386,6 @@
       "description": "Antoinette Forbes’ former partner was arrested last week, but authorities have not confirmed whether his case is connected to her disappearance.",
       "url": "https://www.foxnews.com/us/sister-missing-dc-mom-speaks-after-exs-arrest-exposes-horrifying-absusive-relationship",
       "published": "Tue, 22 Sep 2026 14:20:49 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Nolan Wells' friends cleared by grand jury as their lawyers vow to hold online accusers accountable",
-      "description": "A Mississippi grand jury found Nolan Wells' death consistent with drowning and no evidence of a crime or racial motive in the Horn Island case.",
-      "url": "https://www.foxnews.com/us/nolan-wells-friends-cleared-grand-jury-lawyers-vow-hold-online-accusers-accountable",
-      "published": "Tue, 22 Sep 2026 10:43:32 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1515,6 +1509,39 @@
       "is_ticker": false
     },
     {
+      "title": "Yemen’s factions battling Iran-backed Houthis share a common enemy but not common goals",
+      "description": "Yemen's factions fighting the Iran-backed Houthis are united in opposing the rebels who control the country's north and now its Red Sea coastline",
+      "url": "https://abcnews.com/International/wireStory/yemens-factions-battling-iran-backed-houthis-share-common-136682053",
+      "published": "Wed, 23 Sep 2026 09:14:30 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "South Sudan president dissolves transitional government ahead of delayed elections",
+      "description": "South Sudan President Salva Kiir has dissolved his country’s transitional government ahead of upcoming elections",
+      "url": "https://abcnews.com/International/wireStory/south-sudan-president-dissolves-transitional-government-ahead-long-136675583",
+      "published": "Wed, 23 Sep 2026 04:49:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "How France handles its strict secularism as it prepares for a papal visit",
+      "description": "Pope Leo XIV’s upcoming trip to France highlights the country's strict secularism, known as “laïcité.”",
+      "url": "https://abcnews.com/International/wireStory/france-handles-strict-secularism-prepares-papal-visit-136675024",
+      "published": "Wed, 23 Sep 2026 04:53:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Syria begins ‘new phase of revival’, President Al-Sharaa tells General Assembly",
       "description": "Syrian President Ahmad Al-Sharaa told the UN General Assembly on Wednesday that his country “is rising” on many levels, thanks to the strength of its people.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168411",
@@ -1592,32 +1619,26 @@
       "is_ticker": false
     },
     {
-      "title": "A US military plane crashes near a US air base in Germany, injuring the pilot",
-      "description": "An American military aircraft has crashed at a U.S. air base in western Germany, injuring the pilot",
-      "url": "https://abcnews.com/International/wireStory/us-military-plane-crashes-us-air-base-germany-136650995",
-      "published": "Tue, 22 Sep 2026 11:31:44 -0400",
+      "title": "Morocco votes for a new parliament after Gen Z protests and migration surge to Ceuta",
+      "description": "Moroccan voters are choosing a new parliament Wednesday in an election marked by frustration among young people and high unemployment",
+      "url": "https://abcnews.com/International/wireStory/morocco-votes-new-parliament-after-gen-protests-migration-136674843",
+      "published": "Wed, 23 Sep 2026 07:22:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ A US military plane crashes near a US air base in Germany, injuring the pilot"
+      "is_ticker": false
     },
     {
-      "title": "European Union strikes a new free trade deal with the Philippines",
-      "description": "The European Union and the Philippines have reached substantial agreement on a new free trade deal",
-      "url": "https://abcnews.com/International/wireStory/european-union-strikes-new-free-trade-deal-philippines-136642538",
-      "published": "Tue, 22 Sep 2026 07:14:18 -0400",
-      "source": "ABC News International",
+      "title": "Massachusetts restaurant owner assaults teen dine-and-dashers, pulls gun during scuffle, police say",
+      "description": "Nadim Kashouh allegedly chased two teens from his Springfield restaurant and a brandished a firearm after a $92.40 dine-and-dash incident.",
+      "url": "https://www.foxnews.com/us/massachusetts-restaurant-owner-assaults-teen-dine-dashers-pulls-gun-during-scuffle-police-say",
+      "published": "Wed, 23 Sep 2026 16:25:15 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 European Union strikes a new free trade deal with the Philippines"
+      "is_ticker": false
     },
     {
       "title": "Sheriff's deputy saves man from fiery wreck after high-speed chase ends in crash",
@@ -1959,6 +1980,17 @@
       "is_ticker": false
     },
     {
+      "title": "Harvey Weinstein sentenced to 15 years in sexual assault retrial",
+      "description": "The ruling seals six years of legal battles after Weinstein’s initial conviction for sexually assaulting TV assistant.",
+      "url": "https://www.aljazeera.com/news/2026/9/23/harvey-weinstein-sentenced-to-15-years-in-sexual-assault-retrial?traffic_source=rss",
+      "published": "Wed, 23 Sep 2026 19:58:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Manchester United losses jump nearly a third to $57m despite record revenue",
       "description": "Manchester United's debt remains over 1 billion pounds ($1.3bn) despite record revenues that are unable to prevent loss.",
       "url": "https://www.aljazeera.com/sports/2026/9/23/man-utd-losses-jump-almost-a-third-despite-record-revenues?traffic_source=rss",
@@ -2018,17 +2050,6 @@
       "description": "The 34-year-old has been recovering from an on-pitch collapse in June during a friendly between Denmark and Ukraine.",
       "url": "https://www.aljazeera.com/sports/2026/9/23/wolfsburg-terminate-christian-eriksens-contract-by-mutual-consent?traffic_source=rss",
       "published": "Wed, 23 Sep 2026 18:00:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Portugal vs Wales: UEFA Nations League – teams, start, lineups, Ronaldo",
-      "description": "Portugal bring their Nations League defence against Wales, with Cristiano Ronaldo eyeing 1,000 goals before retirement.",
-      "url": "https://www.aljazeera.com/sports/2026/9/23/portugal-vs-wales-uefa-nations-league-teams-start-lineups?traffic_source=rss",
-      "published": "Wed, 23 Sep 2026 17:37:03 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2190,8 +2211,8 @@
       "is_ticker": false
     },
     {
-      "title": "Groceries rise by 7% across Australian supermarket chains, Choice finds",
-      "description": "The price of a basket of items in Coles, Woolworths, IGA and Aldi increased to an average of $43.62, survey says Get our new political email , free app or daily news podcast Groceries have become more expensive at all four of Australia’s major supermarket chains, with the average price of a basket of essentials increasing by 7% between March and June, new analysis has found. The consumer advocacy group Choice on Thursday released its 10th quarterly government-funded survey of supermarket prices, which it assessed by filling a basket with eight common grocery items at 104 different stores in June. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "title": "Groceries rise by 7% across Coles, Woolworths, IGA and Aldi, Choice finds",
+      "description": "The price of a basket of items at the Australian supermarket chains increased to an average of $43.62, survey says Get our new political email , free app or daily news podcast Groceries have become more expensive at all four of Australia’s major supermarket chains, with the average price of a basket of essentials increasing by 7% between March and June, new analysis has found. The consumer advocacy group Choice on Thursday released its 10th quarterly government-funded survey of supermarket prices, which it assessed by filling a basket with eight common grocery items at 104 different stores in June. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/sep/24/groceries-rise-by-7-across-australian-supermarket-chains-choice-finds",
       "published": "Wed, 23 Sep 2026 15:01:51 GMT",
       "source": "The Guardian World",
@@ -2380,39 +2401,6 @@
       "is_ticker": false
     },
     {
-      "title": "What to know about the agreement signed by President Trump and the leaders of Denmark and Greenland",
-      "description": "U.S. President Donald Trump and the leaders of Denmark and Greenland have signed an agreement about Greenland's status",
-      "url": "https://abcnews.com/International/wireStory/agreement-signed-president-trump-leaders-denmark-greenland-136678876",
-      "published": "Wed, 23 Sep 2026 07:26:01 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "South Korean court reduces former first lady’s sentence over luxury gifts and favors",
-      "description": "A South Korean appeals court has reduced the prison sentence of the wife of ousted President Yoon Suk Yeol",
-      "url": "https://abcnews.com/International/wireStory/south-korean-appeals-court-reduces-former-ladys-sentence-136642361",
-      "published": "Tue, 22 Sep 2026 05:35:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans",
-      "description": "China's Alibaba has unveiled new plans for its AI model and new chip technologies, including what it claims is China's most powerful AI chip",
-      "url": "https://abcnews.com/International/wireStory/chinas-alibaba-unveils-new-powerful-chip-ambitious-ai-136641611",
-      "published": "Tue, 22 Sep 2026 06:50:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "What to know about the deal by Britain to surrender the Chagos Islands",
       "description": "The fate of the Chagos Islands hinges on U.S. support for a sovereignty transfer from Britain to Mauritius",
       "url": "https://abcnews.com/International/wireStory/deal-britain-surrender-chagos-islands-136687131",
@@ -2424,10 +2412,10 @@
       "is_ticker": false
     },
     {
-      "title": "A timeline of US President Donald Trump's interest in Greenland",
-      "description": "President Donald Trump’s interest in taking control of Greenland, a semiautonomous territory of NATO ally Denmark, first became publicly known in 2019, but was dismissed as absurd by Denmark's leader",
-      "url": "https://abcnews.com/International/wireStory/timeline-us-president-donald-trumps-interest-greenland-136640631",
-      "published": "Wed, 23 Sep 2026 04:34:15 -0400",
+      "title": "Executive linked to alleged financial misconduct is freed from jail in Myanmar",
+      "description": "An Australian business executive who headed the American Chamber of Commerce in Myanmar has been released after spending more than 100 days in jail over allegations of financial misconduct",
+      "url": "https://abcnews.com/International/wireStory/australian-executive-myanmar-linked-alleged-financial-misconduct-freed-136681760",
+      "published": "Wed, 23 Sep 2026 09:11:34 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2435,10 +2423,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo XIV will meet with the French abuse survivors as critics demand action",
-      "description": "Pope Leo XIV plans to meet with seven survivors of sexual abuse by Catholic clergy during his visit to France",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-meet-french-abuse-survivors-critics-136641086",
-      "published": "Tue, 22 Sep 2026 03:46:15 -0400",
+      "title": "What to know about the agreement signed by President Trump and the leaders of Denmark and Greenland",
+      "description": "U.S. President Donald Trump and the leaders of Denmark and Greenland have signed an agreement about Greenland's status",
+      "url": "https://abcnews.com/International/wireStory/agreement-signed-president-trump-leaders-denmark-greenland-136678876",
+      "published": "Wed, 23 Sep 2026 07:26:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2457,10 +2445,10 @@
       "is_ticker": false
     },
     {
-      "title": "Executive linked to alleged financial misconduct is freed from jail in Myanmar",
-      "description": "An Australian business executive who headed the American Chamber of Commerce in Myanmar has been released after spending more than 100 days in jail over allegations of financial misconduct",
-      "url": "https://abcnews.com/International/wireStory/australian-executive-myanmar-linked-alleged-financial-misconduct-freed-136681760",
-      "published": "Wed, 23 Sep 2026 09:11:34 -0400",
+      "title": "Taiwan watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
+      "description": "Taiwan is expressing confidence that U.S. arms sales to the island will continue despite China's pressure as China’s Xi Jinping arrives in Washington to meet with U.S. President Donald Trump",
+      "url": "https://abcnews.com/International/wireStory/taiwan-watching-closely-xi-trump-meet-hopes-us-136675213",
+      "published": "Wed, 23 Sep 2026 04:52:04 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
