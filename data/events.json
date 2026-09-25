@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25T16:43:00.289635Z",
+  "last_updated": "2026-09-25T17:15:08.519522Z",
   "event_count": 219,
   "events": [
     {
@@ -15,6 +15,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 LIVE: Six years on from COVID-19, is the world ready for the next pandemic?"
+    },
+    {
+      "title": "Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country",
+      "description": "Nepal’s Prime Minister Balendra Shah brought a stark warning from the Himalayas to the UN General Assembly on Thursday, saying catastrophic floods that killed at least 1,400 people in his country laid bare the human cost of climate change, and the failure of the international system to protect those least responsible for it.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168441",
+      "published": "Fri, 25 Sep 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 60,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Nepal PM urges climate justice after ‘Himalayan tsunami’ devastates country"
     },
     {
       "title": "Healthcare in Africa ‘under growing strain’ after US withdrawal from aid programs, report warns",
@@ -117,6 +131,20 @@
       "is_ticker": false
     },
     {
+      "title": "Russian strikes kill 8 in Ukraine as the UN debates how to end the war",
+      "description": "Officials say that Russian drone and missile attacks on Ukraine have killed at least eight civilians",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-8-ukraine-debates-end-war-136711744",
+      "published": "Thu, 24 Sep 2026 09:30:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian strikes kill 8 in Ukraine as the UN debates how to end the war"
+    },
+    {
       "title": "‘Rising seas are sinking futures’",
       "description": "World leaders approved the UN Declaration on Sea Level Rise by consensus on Thursday as the UN chief warned that encroaching waters are already threatening the future of coastal communities worldwide.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168430",
@@ -160,7 +188,7 @@
     },
     {
       "title": "Security Council LIVE: Rising tide of forced displacement",
-      "description": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees will brief the Security Council on Friday.",
+      "description": "At a time when war, climate crises and man-made disasters continue to displace millions around the world, the UN High Commissioner for Refugees briefed the Security Council on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168438",
       "published": "Fri, 25 Sep 2026 12:00:00 +0000",
       "source": "UN News",
@@ -496,21 +524,10 @@
       "ticker_label": "🪖 Israeli leader at UN: ‘We’re going to win. We have no other choice’"
     },
     {
-      "title": "Equality ‘ends at the doors of the Security Council’, Kenya’s Ruto tells General Assembly",
-      "description": "Kenyan President William Ruto told the General Assembly on Wednesday that the sovereign equality the UN proclaims is contradicted by its own structures, urging Member States to reform the Security Council and an international financial system “built for another age”.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168419",
-      "published": "Wed, 23 Sep 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Internet restricted after fighting breaks out in Ethiopia's Tigray region",
       "description": "During the two-year civil war in Tigray, the region was totally cut off from the outside world.",
       "url": "https://www.bbc.co.uk/news/articles/cqp8dxxg325no?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 25 Sep 2026 14:44:16 GMT",
+      "published": "Fri, 25 Sep 2026 17:13:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -897,15 +914,18 @@
       "is_ticker": false
     },
     {
-      "title": "Guterres calls on countries to set clear timelines for transition away from fossil fuels",
-      "description": "“We are the first generation with the tools to end the fossil fuel age – and the last who can avert climate catastrophe,” UN Secretary-General António Guterres said on Wednesday, calling on countries to draw up credible roadmaps with clear timelines to transition away from fossil fuels.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168418",
-      "published": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "title": "Sudan’s farmers are ready to return – private investment could get them there",
+      "description": "The war in Sudan has devastated the economy and agricultural production, but a UN-backed plan aims to mobilise private sector investment to help farmers return to their fields.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168439",
+      "published": "Fri, 25 Sep 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Sudan’s farmers are ready to return – private investment could get them there"
     },
     {
       "title": "Iowa teacher, 10-year-old student die during fifth grade school field trip at Lake Macbride State Park",
@@ -942,6 +962,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Pope Leo warns a 'paradise of machines' could undermine humanity on his France visit"
+    },
+    {
+      "title": "US Supreme Court allows Trump to use controversial voter 'verification' system",
+      "description": "The US Supreme Court on Friday ruled the Trump administration can use a controversial new federal database that would ostensibly verify voter citizenship in November’s elections. Critics argue the administration is exaggerating the threat of non-citizen voters – an extreme rarity in US elections – to implement policies that would disenfranchise likely Democratic voters.",
+      "url": "https://www.france24.com/en/americas/20260925-supreme-court-restores-trump-mass-voter-verification-system-despite-outcry",
+      "published": "Fri, 25 Sep 2026 16:52:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "War, AI, secularism, surrogacy: what to take away from the Pope's speech",
@@ -1085,10 +1116,10 @@
       "is_ticker": false
     },
     {
-      "title": "‘Peace remains only a promise’ for millions in eastern DR Congo, General Assembly hears",
-      "description": "The Prime Minister of the Democratic Republic of the Congo (DRC) cautioned against growing global demand for “blood-stained minerals” in the rush to net-zero, in her speech to the UN General Assembly.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168422",
-      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
+      "title": "Africa needs its own AI solutions, not borrowed ones, says expert",
+      "description": "Africa should focus its use of technology on solving its own real challenges rather than copying the systems and priorities of other parts of the world.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168440",
+      "published": "Fri, 25 Sep 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 9,
@@ -1096,10 +1127,10 @@
       "is_ticker": false
     },
     {
-      "title": "Rohingya refugees deserve a future beyond survival, not endless displacement",
-      "description": "Nine years after the mass displacement of the Rohingya from Myanmar, their situation remains one of the world's most protracted and complex refugee crises, marked by years of persecution and uncertainty over the prospect of returning home.",
-      "url": "https://news.un.org/feed/view/en/story/2026/09/1168417",
-      "published": "Wed, 23 Sep 2026 12:00:00 +0000",
+      "title": "‘Peace remains only a promise’ for millions in eastern DR Congo, General Assembly hears",
+      "description": "The Prime Minister of the Democratic Republic of the Congo (DRC) cautioned against growing global demand for “blood-stained minerals” in the rush to net-zero, in her speech to the UN General Assembly.",
+      "url": "https://news.un.org/feed/view/en/story/2026/09/1168422",
+      "published": "Thu, 24 Sep 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 9,
@@ -1288,6 +1319,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Renewed fighting in northern Ethiopia effectively shatters peace deal that ended 2022 war"
+    },
+    {
+      "title": "Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea",
+      "description": "Ukrainian President Volodymyr Zelenskyy says Ukraine has sent two North Korean prisoners of war to South Korea",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-ukraine-2-north-korean-prisoners-war-south-136706303",
+      "published": "Thu, 24 Sep 2026 03:42:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelenskyy says Ukraine sent 2 North Korean prisoners of war to South Korea"
     },
     {
       "title": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
@@ -1538,17 +1583,6 @@
       "description": "A boat heading from Tanzania to Congo on Lake Tanganyika has capsized, leaving at least 41 people dead",
       "url": "https://abcnews.com/International/wireStory/boat-heading-tanzania-congo-lake-tanganyika-capsizes-leaving-136729088",
       "published": "Fri, 25 Sep 2026 02:44:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
-      "description": "U.S. President Donald Trump’s elaborate reception of Chinese President Xi Jinping in Washington, D.C., has impressed the Chinese public",
-      "url": "https://abcnews.com/International/wireStory/china-xi-trump-summit-projecting-image-countrys-rise-136745988",
-      "published": "Fri, 25 Sep 2026 06:50:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -2262,7 +2296,7 @@
     },
     {
       "title": "Why farmers are pairing crops with solar panels",
-      "description": "From cooler soil to paid grazing land, farmers are finding solar panels can do more than generate power.",
+      "description": "From cooler soil to paid grazing land, farmers in the US are finding that solar panels can do more than generate power.",
       "url": "https://www.dw.com/en/why-farmers-are-pairing-crops-with-solar-panels/a-79233970?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 25 Sep 2026 09:31:00 GMT",
       "source": "Deutsche Welle",
@@ -2353,17 +2387,6 @@
       "description": "In an interview with FRANCE 24 on the sidelines of the UN General Assembly, Trump's Africa envoy Massad Boulos said that each side in Sudan feels it \"could get a decisive military victory\". Asked about Western Sahara, he acknowledged there is no \"imminent solution that we can feel or touch\". He also rejected Rwanda's accusations of bias over US sanctions, saying they \"can easily be reversed\".",
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20260925-each-side-feels-it-could-get-a-decisive-military-victory-in-sudan-trump-s-africa-envoy-says",
       "published": "Fri, 25 Sep 2026 12:54:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Prix Goncourt drops Canadian-Haitian writer from top French literary prize list over AI claims",
-      "description": "Canadian-Haitian novelist Thélyson Orélien was removed from the Prix Goncourt longlist following online claims that his book, \"It Was Either That or Die\", was largely written by artificial intelligence (AI), the organisers of France's top literary prize said Friday.",
-      "url": "https://www.france24.com/en/culture/20260925-canadian-haitian-writer-th%C3%A9lyson-or%C3%A9lien-stripped-from-prix-goncourt-longlist-after-ai-claims",
-      "published": "Fri, 25 Sep 2026 11:35:26 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2466,17 +2489,6 @@
       "description": "A far-right activist has been arrested for allegedly slashing a dinghy in the English Channel",
       "url": "https://abcnews.com/International/wireStory/uk-activist-arrested-after-migrant-dinghy-slashed-english-136710974",
       "published": "Thu, 24 Sep 2026 06:24:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search",
-      "description": "Divers in Indonesia have recovered 52 bodies following the capsizing of a ferry in rough seas earlier this month",
-      "url": "https://abcnews.com/International/wireStory/divers-recover-total-52-bodies-capsized-ferry-indonesia-136745410",
-      "published": "Fri, 25 Sep 2026 07:55:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
