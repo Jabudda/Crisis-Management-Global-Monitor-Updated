@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26T11:13:53.596227Z",
+  "last_updated": "2026-09-26T11:37:02.865064Z",
   "event_count": 222,
   "events": [
     {
@@ -152,6 +152,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Meth is a key driver in Fiji's fast-growing HIV epidemic: 1 in 60 adults are affected",
+      "description": "In mid-September, Fiji's government declared a national emergency because of a startling rise in HIV infections. The country's crystal meth epidemic is a strong contributing factor.",
+      "url": "https://www.npr.org/2026/09/26/g-s1-144667/hiv-crystal-meth-epidemic-fiji",
+      "published": "Sat, 26 Sep 2026 07:31:18 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 28,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -366,6 +377,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Mistress may have handed prosecutors missing ‘why’ in ‘American Idol’ alum’s wife murder case: expert",
+      "description": "The Caleb Flynn trial took a dramatic turn as mistress Alleigha Botner read explosive texts exchanged in the months before Ashley Flynn's fatal shooting.",
+      "url": "https://www.foxnews.com/us/mistress-may-handed-prosecutors-missing-why-american-idol-alum-wife-murder-case-expert",
+      "published": "Sat, 26 Sep 2026 07:00:51 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Mistress may have handed prosecutors missing ‘why’ in ‘American Idol’ alum’s wife murder case: expert"
     },
     {
       "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
@@ -670,6 +695,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Bangkok on red alert as massive floods hit the city"
+    },
+    {
+      "title": "Yemen’s civil war returns and overwhelms hospitals with 'a very dangerous situation'",
+      "description": "Hospitals in Yemen are struggling as civil war returns to the Arab world's poorest nation",
+      "url": "https://abcnews.com/International/wireStory/yemens-civil-war-returns-overwhelms-hospitals-dangerous-situation-136744228",
+      "published": "Fri, 25 Sep 2026 07:54:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Yemen’s civil war returns and overwhelms hospitals with 'a very dangerous situation'"
     },
     {
       "title": "World leaders descend on New York for UNGA — but who really has America’s ear?",
@@ -1313,7 +1352,7 @@
       "ticker_label": "🪖 Middle East: An art centre for children in occupied West Bank"
     },
     {
-      "title": "ChatGPT says its rogue AI agents posted users’ images online, entered federal website",
+      "title": "Rogue AI agents accessed federal websites, posted user images online, ChatGPT says",
       "description": "ChatGPT's AI agents have sidestepped OpenAI policy and posted some users’ images online without permission, the company said on Friday. OpenAI also confirmed reports that the AI agents accessed websites belonging to US federal agencies, but added that they only retrieved publicly available information.",
       "url": "https://www.france24.com/en/technology/20260926-chatgpt-says-its-rogue-ai-agents-posted-users-images-online-entered-federal-website",
       "published": "Sat, 26 Sep 2026 08:35:02 GMT",
@@ -1336,6 +1375,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Pope greets Paris crowds in popemobile as he warns of AI risks"
+    },
+    {
+      "title": "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
+      "description": "China and the U.S. have agreed to set up a channel for handling AI-related incidents and accelerate work on military crisis communications",
+      "url": "https://abcnews.com/International/wireStory/china-us-agree-set-new-ai-safety-channel-136777768",
+      "published": "Sat, 26 Sep 2026 07:16:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Pakistan’s Sharif warns any diversion of Indus waters will be ‘treated as an act of war’",
@@ -1367,17 +1417,6 @@
       "description": "It remains unclear whether the deaths of Ole Miss students are connected, according to Lafayette County authorities.",
       "url": "https://www.foxnews.com/us/ole-miss-victim-identified-narcotics-task-force-probes-two-student-deaths",
       "published": "Thu, 24 Sep 2026 12:34:29 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Texas triple murderer uses last words before execution to send message to death row inmates",
-      "description": "Ker'Sean Ramey received lethal injection at Huntsville prison, one week after accomplice LeJames Norman was executed for the same triple killing.",
-      "url": "https://www.foxnews.com/us/texas-triple-murderer-uses-last-words-execution-send-message-death-row-inmates",
-      "published": "Thu, 24 Sep 2026 08:55:45 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1537,17 +1576,6 @@
       "is_ticker": false
     },
     {
-      "title": "In China, the Xi-Trump summit is seen as projecting image of the country’s rise",
-      "description": "U.S. President Donald Trump’s elaborate reception of Chinese President Xi Jinping in Washington, D.C., has impressed the Chinese public",
-      "url": "https://abcnews.com/International/wireStory/china-xi-trump-summit-projecting-image-countrys-rise-136745988",
-      "published": "Fri, 25 Sep 2026 06:50:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "‘Invest with Iraq’: PM sets out vision for new economic future",
       "description": "Iraq’s Prime Minister, Ali Faleh Al-Zaidi, said his country aims to exert its influence as an active economic power in the region, and as a bridge for dialogue and cooperation between its peoples.",
       "url": "https://news.un.org/feed/view/en/story/2026/09/1168443",
@@ -1665,17 +1693,6 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Fighter jet pilots eject moments before fiery crash in Wales"
-    },
-    {
-      "title": "US official claims Trump holds all the cards in Iran talks",
-      "description": "US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 04:37:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -2030,6 +2047,17 @@
       "is_ticker": false
     },
     {
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "description": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran's messages to the US.",
+      "url": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+      "published": "Sat, 26 Sep 2026 11:06:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "An unexpected welcome: Syrian Kurds return to their homes in Afrin",
       "description": "Syrian Kurds are beginning to return to their homes in Afrin after years in exile, but have different experiences.",
       "url": "https://www.aljazeera.com/features/2026/9/26/an-unexpected-welcome-syrian-kurds-return-to-their-homes-in-afrin?traffic_source=rss",
@@ -2283,17 +2311,6 @@
       "is_ticker": false
     },
     {
-      "title": "Former U.S. Ambassador to Israel on Netanyahu's speech at UNGA",
-      "description": "NPR's Leila Fadel speaks with former U.S. Ambassador to Israel Thomas Nides about Israeli Prime Minister Benjamin Netanyahu's speech at the United Nations General Assembly.",
-      "url": "https://www.npr.org/2026/09/25/nx-s1-5979942/former-u-s-ambassador-to-israel-on-netanyahus-speech-at-unga",
-      "published": "Fri, 25 Sep 2026 04:40:59 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Germany news: EU ministers meet for migration showdown",
       "description": "European interior ministers hold migration talks in Munich as the bloc plans to strengthen borders and speed up deportations. Also, will Cologne or Munich win the battle to bid for the Olympic Games? DW has more.",
       "url": "https://www.dw.com/en/germany-news-eu-ministers-meet-for-migration-showdown/live-79441034?maca=en-rss-en-all-1573-xml-mrss",
@@ -2462,6 +2479,39 @@
       "ticker_label": "💥 Man shot during Trump assassination attempt dies"
     },
     {
+      "title": "Exclusive: Board of Peace quietly met with UNRWA, ex-agency chief says",
+      "description": "The U.S.-created Board of Peace has said the U.N. agency for Palestinian refugees has no place in Gaza",
+      "url": "https://abcnews.com/International/wireStory/board-peace-met-unrwa-despite-gaza-role-agencys-136744594",
+      "published": "Fri, 25 Sep 2026 07:54:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UN adds 61 companies to settlements blacklist over alleged Palestinian rights violations",
+      "description": "The U.N. human rights office has added 61 more companies to a blacklist for alleged involvement in violating Palestinian rights through business ties to Israeli settlements in the West Bank",
+      "url": "https://abcnews.com/International/wireStory/adds-61-companies-settlements-blacklist-alleged-palestinian-rights-136758208",
+      "published": "Fri, 25 Sep 2026 14:16:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bus overturns in central Iran, killing 11 and injuring 24",
+      "description": "A passenger bus has overturned in Iran, killing 11 people and injuring 24 others",
+      "url": "https://abcnews.com/International/wireStory/bus-overturns-central-iran-killing-11-injuring-24-136775733",
+      "published": "Sat, 26 Sep 2026 03:29:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Pope encourages Catholics in deeply secular France to persevere as Paris shuts down for huge Mass",
       "description": "Pope Leo XIV is encouraging French Catholics to persevere in their faith",
       "url": "https://abcnews.com/International/wireStory/pope-encourages-catholics-deeply-secular-france-persevere-paris-136777307",
@@ -2484,54 +2534,10 @@
       "is_ticker": false
     },
     {
-      "title": "Bus overturns in central Iran, killing 11 and injuring 24",
-      "description": "A passenger bus has overturned in Iran, killing 11 people and injuring 24 others",
-      "url": "https://abcnews.com/International/wireStory/bus-overturns-central-iran-killing-11-injuring-24-136775733",
-      "published": "Sat, 26 Sep 2026 03:29:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "11-year-old Japanese player Yuki Kurihara wins esports gold medal at the Asian Games",
       "description": "Yuki Kurihara of Japan has won a gold medal in esports at the Asian Games in Nagoya, Japan",
       "url": "https://abcnews.com/International/wireStory/11-year-japanese-player-yuki-kurihara-wins-esports-136775823",
       "published": "Sat, 26 Sep 2026 03:30:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Brazil's President Lula bans online betting ahead of presidential election",
-      "description": "Brazil’s President Lula da Silva has signed an order to ban fixed-odds betting",
-      "url": "https://abcnews.com/International/wireStory/brazils-president-lula-bans-online-betting-ahead-presidential-136770762",
-      "published": "Fri, 25 Sep 2026 21:03:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UN adds 61 companies to settlements blacklist over alleged Palestinian rights violations",
-      "description": "The U.N. human rights office has added 61 more companies to a blacklist for alleged involvement in violating Palestinian rights through business ties to Israeli settlements in the West Bank",
-      "url": "https://abcnews.com/International/wireStory/adds-61-companies-settlements-blacklist-alleged-palestinian-rights-136758208",
-      "published": "Fri, 25 Sep 2026 14:16:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Divers recover a total of 52 bodies from capsized ferry in Indonesia after a dayslong search",
-      "description": "Divers in Indonesia have recovered 52 bodies following the capsizing of a ferry in rough seas earlier this month",
-      "url": "https://abcnews.com/International/wireStory/divers-recover-total-52-bodies-capsized-ferry-indonesia-136745410",
-      "published": "Fri, 25 Sep 2026 07:55:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
