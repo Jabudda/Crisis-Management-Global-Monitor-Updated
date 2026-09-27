@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T07:19:14.605192Z",
+  "last_updated": "2026-09-27T07:40:48.391384Z",
   "event_count": 222,
   "events": [
     {
@@ -157,34 +157,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Canada urges stronger partnerships as global order faces ‘rupture’"
-    },
-    {
-      "title": "At least 17 killed in South Africa shooting, police hunt for eight suspects",
-      "description": "Emergency medical services declared all 17 victims dead ⁠at the ​scene in Wedela ​township southwest of ​Johannesburg.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 05:48:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 At least 17 killed in South Africa shooting, police hunt for eight suspects"
-    },
-    {
-      "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-      "description": "Four people were killed and four wounded near the capital of Kingstown on the islands, known as a tourism destination.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 22:38:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines"
     },
     {
       "title": "Countries far from conflict paying the price for wars not their own, India tells UN",
@@ -449,6 +421,20 @@
       "ticker_label": "🌪️ Bangkok roads submerged as flood disaster declared"
     },
     {
+      "title": "At least 27 killed in two shootings in two South African townships",
+      "description": "Incidents in Wedela, southwest of ​Johannesburg, and Lwandle, near Cape Town, come days after Durban mass shooting.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 05:48:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 At least 27 killed in two shootings in two South African townships"
+    },
+    {
       "title": "Bangkok declared disaster zone after heavy rains submerge roads",
       "description": "Bangkok has officially been declared a disaster zone after relentless rains triggered widespread flooding.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/bangkok-declared-disaster-zone-after-heavy-rains-submerge-roads?traffic_source=rss",
@@ -511,6 +497,20 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "A month after Nepal floods, thousands still missing and families face a long recovery",
+      "description": "Thousands in Nepal have lost their homes and livelihoods after last month's devastating floods",
+      "url": "https://abcnews.com/International/wireStory/month-after-nepal-floods-thousands-missing-families-face-136775003",
+      "published": "Sat, 26 Sep 2026 03:28:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ A month after Nepal floods, thousands still missing and families face a long recovery"
     },
     {
       "title": "Gunmen target ambulance in Pakistan after suicide bombing at checkpoint killed 12",
@@ -1429,10 +1429,10 @@
       "is_ticker": false
     },
     {
-      "title": "Voters in Switzerland decide on right-wing party's proposal to tighten neutrality rules",
-      "description": "Voters in Switzerland are deciding on a proposal to strengthen the country's neutrality",
-      "url": "https://abcnews.com/International/wireStory/voters-switzerland-decide-wing-partys-proposal-tighten-neutrality-136792739",
-      "published": "Sun, 27 Sep 2026 02:37:26 -0400",
+      "title": "A new European soccer league for amputee players kicked off in Romania’s capital",
+      "description": "A new European soccer league for amputee players has kicked off in Romania’s capital",
+      "url": "https://abcnews.com/International/wireStory/new-european-soccer-league-amputee-players-kicked-off-136776746",
+      "published": "Sat, 26 Sep 2026 06:34:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1451,10 +1451,10 @@
       "is_ticker": false
     },
     {
-      "title": "A new European soccer league for amputee players kicked off in Romania’s capital",
-      "description": "A new European soccer league for amputee players has kicked off in Romania’s capital",
-      "url": "https://abcnews.com/International/wireStory/new-european-soccer-league-amputee-players-kicked-off-136776746",
-      "published": "Sat, 26 Sep 2026 06:34:49 -0400",
+      "title": "Voters in Switzerland decide on right-wing party's proposal to tighten neutrality rules",
+      "description": "Voters in Switzerland are deciding on a proposal to strengthen the country's neutrality",
+      "url": "https://abcnews.com/International/wireStory/voters-switzerland-decide-wing-partys-proposal-tighten-neutrality-136792739",
+      "published": "Sun, 27 Sep 2026 02:37:26 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1510,17 +1510,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Powerful storm batters US Northeast disrupting power and travel"
-    },
-    {
-      "title": "Student protesters disrupt NVIDIA AI climate panel",
-      "description": "Student protesters have interrupted an NVIDIA panel during NYC Climate Week.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/student-protesters-disrupt-nvidia-ai-climate-panel?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 22:09:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Is Congo's Ebola outbreak coming under control?",
@@ -1978,6 +1967,39 @@
       "is_ticker": false
     },
     {
+      "title": "Kylian Mbappe’s knee injury to keep him out for two weeks",
+      "description": "Mbappe suffered a hyperextension of his left knee against Turkiye but will be fit to face Barcelona in El Clasico.",
+      "url": "https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 07:32:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
+      "description": "Norway host two-time UEFA Nations League winners Portugal in Oslo in the second match of the league phase.",
+      "url": "https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 07:23:33 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+      "description": "Call to face Senate inquiry follows security breach of Australia's Medicare portal by rogue OpenAI bot in June.",
+      "url": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss",
+      "published": "Sun, 27 Sep 2026 07:08:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
       "description": "Pope Leo XIV drew around 800,000 people to central Paris for an open-air Mass at Place de la Concorde",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
@@ -2026,17 +2048,6 @@
       "description": "Iran’s Pezeshkian says Tehran no longer trusts US talks, shortly before Trump rejected its Hormuz proposal.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
       "published": "Sat, 26 Sep 2026 23:49:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says he is rolling back Biden-era US fuel economy rules for cars",
-      "description": "The US president said he would end a so-called 'EV mandate' that steered consumers to electric vehicles.",
-      "url": "https://www.aljazeera.com/news/2026/9/26/trump-says-he-is-rolling-back-biden-era-us-fuel-economy-rules-for-cars?traffic_source=rss",
-      "published": "Sat, 26 Sep 2026 21:51:56 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2440,32 +2451,21 @@
       "is_ticker": false
     },
     {
-      "title": "Fuel price spike squeezes French baguette bakers as heating oil costs soar",
-      "description": "Kevin and Sandrine Luce run a bakery in northern France and are struggling with soaring fuel prices",
-      "url": "https://abcnews.com/International/wireStory/crunch-time-fuel-price-spike-squeezes-french-baguette-136793021",
-      "published": "Sun, 27 Sep 2026 02:40:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope brings message to protect life to French shrine at Lourdes known for miraculous cures",
-      "description": "Pope Leo XIV is taking his opposition to euthanasia and medically assisted dying to Lourdes",
-      "url": "https://abcnews.com/International/wireStory/pope-brings-message-protect-life-french-shrine-lourdes-136792931",
-      "published": "Sun, 27 Sep 2026 02:37:17 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Andy Burnham brings good vibes to Labour’s annual conference but tough choices are coming",
       "description": "British Prime Minister Andy Burnham has been in office for two months, and his party seems content for now",
       "url": "https://abcnews.com/International/wireStory/andy-burnham-brings-good-vibes-labours-annual-conference-136791914",
       "published": "Sun, 27 Sep 2026 01:23:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bus overturns in central Iran, killing 11 and injuring 24",
+      "description": "A passenger bus has overturned in Iran, killing 11 people and injuring 24 others",
+      "url": "https://abcnews.com/International/wireStory/bus-overturns-central-iran-killing-11-injuring-24-136775733",
+      "published": "Sat, 26 Sep 2026 03:29:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2495,10 +2495,10 @@
       "is_ticker": false
     },
     {
-      "title": "Bus overturns in central Iran, killing 11 and injuring 24",
-      "description": "A passenger bus has overturned in Iran, killing 11 people and injuring 24 others",
-      "url": "https://abcnews.com/International/wireStory/bus-overturns-central-iran-killing-11-injuring-24-136775733",
-      "published": "Sat, 26 Sep 2026 03:29:33 -0400",
+      "title": "11-year-old Japanese player Yuki Kurihara wins esports gold medal at the Asian Games",
+      "description": "Yuki Kurihara of Japan has won a gold medal in esports at the Asian Games in Nagoya, Japan",
+      "url": "https://abcnews.com/International/wireStory/11-year-japanese-player-yuki-kurihara-wins-esports-136775823",
+      "published": "Sat, 26 Sep 2026 13:06:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2506,10 +2506,10 @@
       "is_ticker": false
     },
     {
-      "title": "11-year-old Japanese player Yuki Kurihara wins esports gold medal at the Asian Games",
-      "description": "Yuki Kurihara of Japan has won a gold medal in esports at the Asian Games in Nagoya, Japan",
-      "url": "https://abcnews.com/International/wireStory/11-year-japanese-player-yuki-kurihara-wins-esports-136775823",
-      "published": "Sat, 26 Sep 2026 13:06:17 -0400",
+      "title": "Fuel price spike squeezes French baguette bakers as heating oil costs soar",
+      "description": "Kevin and Sandrine Luce run a bakery in northern France and are struggling with soaring fuel prices",
+      "url": "https://abcnews.com/International/wireStory/crunch-time-fuel-price-spike-squeezes-french-baguette-136793021",
+      "published": "Sun, 27 Sep 2026 02:40:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
