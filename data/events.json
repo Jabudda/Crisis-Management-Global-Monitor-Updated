@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T07:36:27.585481Z",
+  "last_updated": "2026-09-28T08:32:03.575988Z",
   "event_count": 221,
   "events": [
     {
@@ -29,6 +29,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 At least 27 dead after two mass shootings in South Africa, police say"
+    },
+    {
+      "title": "Thai downpours shift north-westwards after Bangkok declared a disaster zone",
+      "description": "Capital city submerged in waist-high flood water, while elsewhere Hurricane Nolo threatens Hawaii’s Big Island Bangkok was declared a disaster zone by its city officials towards the end of last week, after streets in Thailand’s capital city were submerged in up to waist-high flood water. The flooding stemmed from an active cell of low pressure across central Thailand that brought continuous heavy rainfall and thunderstorms to Bangkok and surrounding regions. The heavy rain began early on Thursday when the weak area of low pressure travelled north-westwards up the gulf of Thailand before then sitting over central Thailand by Friday morning. For most of the following two days this low pressure remained roughly in situ, which allowed unrelenting downpours over Bangkok and nearby areas. One weather station near Prachin Buri, just north-east of the capital, recorded 213.5mm within a 24-hour period between Friday and Saturday evening local time – for comparison, London receives an average 585mm a year ). Fortunately, the centre of the low-pressure cell shifted north-westwards on Sunday and brought an end to the torrential rainfall. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone",
+      "published": "Mon, 28 Sep 2026 08:18:24 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 56,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Thai downpours shift north-westwards after Bangkok declared a disaster zone"
     },
     {
       "title": "Femicides on the rise in South Africa",
@@ -255,20 +269,6 @@
       "ticker_label": "🪖 Countries far from conflict paying the price for wars not their own, India tells UN"
     },
     {
-      "title": "Major incident at UK airbase used by US",
-      "description": "British police have evacuated homes near an air force base in Gloucestershire, as army bomb disposal experts examined several vehicles in what authorities described as a major incident. Five men have been arrested on suspicion of preparing a terrorist act and offences under the Explosives Act. RAF Fairford, the base involved, is also being used by the US for strikes on Iranian missile sites targeting ships in the Strait of Hormuz. US Air Force personnel at the base have been told to remain vigilant, while police say the incident is now contained. Caroline Baum reports.",
-      "url": "https://www.france24.com/en/major-incident-at-uk-airbase-used-by-us",
-      "published": "Sun, 27 Sep 2026 13:49:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Major incident at UK airbase used by US"
-    },
-    {
       "title": "Bangkok declared disaster zone after more than 30cm of rain in 48 hours",
       "description": "Bangkok has been declared a disaster zone after parts of the Thai capital saw more than 30cm (12 inches) of rain in 48 hours, causing flooding across much of the city.",
       "url": "https://news.sky.com/story/bangkok-declared-disaster-zone-after-more-than-30cm-of-rain-in-48-hours-13592027",
@@ -428,18 +428,15 @@
       "is_ticker": false
     },
     {
-      "title": "Gunmen kill at least 27 people in separate mass shootings in South Africa",
-      "description": "At least 27 people were killed in separate mass shootings in Cape Town and Johannesburg, police said Sunday. No suspects have been arrested in either shooting, and the motives for the attacks remain unknown.",
-      "url": "https://www.france24.com/en/africa/20260927-gunmen-kill-27-people-in-separate-mass-shootings-in-south-africa",
-      "published": "Sun, 27 Sep 2026 12:34:08 GMT",
-      "source": "France24",
+      "title": "Rescuers search for 12 missing after Nepal avalanche kills two",
+      "description": "Rescue teams resume search for missing people after avalanche on Himlung Himal killed two people during severe weather.",
+      "url": "https://www.aljazeera.com/news/2026/9/28/rescuers-search-for-12-missing-after-nepal-avalanche-kills-two?traffic_source=rss",
+      "published": "Mon, 28 Sep 2026 07:10:58 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
-      "severity_score": 23,
+      "severity_score": 22,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Gunmen kill at least 27 people in separate mass shootings in South Africa"
+      "is_ticker": false
     },
     {
       "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
@@ -545,20 +542,6 @@
       "is_ticker": false
     },
     {
-      "title": "Powerful storm floods US Northeast, causes power outages",
-      "description": "The nor'easter causes another round of flooding in low-lying areas in New Jersey and New York City and knocks out power.",
-      "url": "https://www.aljazeera.com/news/2026/9/27/powerful-storm-floods-us-northeast-causes-power-outages?traffic_source=rss",
-      "published": "Sun, 27 Sep 2026 22:51:29 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Powerful storm floods US Northeast, causes power outages"
-    },
-    {
       "title": "Moscow rejects German calls to de-escalate Ukraine war",
       "description": "Strikes across Ukraine killed at least six people overnight and on Sunday.",
       "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-after-moscow-rejects-136794206",
@@ -576,7 +559,7 @@
       "title": "Rain eases in Bangkok but persistent flooding forces thousands to leave home",
       "description": "Rain has eased in Thailand’s capital on Sunday, but flooding persisted in several low-lying areas, with thousands forced to evacuate",
       "url": "https://abcnews.com/International/wireStory/rain-eases-bangkok-persistent-flooding-forces-thousands-leave-136793629",
-      "published": "Sun, 27 Sep 2026 05:29:40 -0400",
+      "published": "Mon, 28 Sep 2026 03:46:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -785,10 +768,24 @@
       "ticker_label": "🪖 First Protestant march in Catholic area in nearly 30 years"
     },
     {
+      "title": "Two mass shootings kill at least 27 people in South Africa",
+      "description": "At least 27 people have been killed in two separate mass shootings within hours of each other in South Africa.",
+      "url": "https://news.sky.com/story/two-mass-shootings-kill-at-least-27-people-in-south-africa-13592523",
+      "published": "Sun, 27 Sep 2026 19:05:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Two mass shootings kill at least 27 people in South Africa"
+    },
+    {
       "title": "On Poland's border with Ukraine, residents brace for a possible Russian hybrid attack",
       "description": "Polish Prime Minister Donald Tusk has warned of potential hybrid attacks from Russia on European countries supporting Ukraine, including Poland",
       "url": "https://abcnews.com/International/wireStory/polands-border-ukraine-residents-brace-russian-hybrid-attack-136813873",
-      "published": "Mon, 28 Sep 2026 02:30:49 -0400",
+      "published": "Mon, 28 Sep 2026 03:46:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -802,7 +799,7 @@
       "title": "Rescue teams search Nepal mountain for 12 swept by avalanche",
       "description": "Rescue teams are searching for 12 people who are missing on a Nepalese mountain after they were swept by an avalanche during bad weather",
       "url": "https://abcnews.com/International/wireStory/rescue-teams-search-nepal-mountain-12-swept-avalanche-136813766",
-      "published": "Mon, 28 Sep 2026 02:18:24 -0400",
+      "published": "Mon, 28 Sep 2026 03:38:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
@@ -916,7 +913,7 @@
       "title": "Heavy rain and flooding kill at least 62 in northern India",
       "description": "Officials say at least 62 people have died after days of heavy rain and flooding in India’s northern Uttar Pradesh state",
       "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-kill-62-northern-india-136813580",
-      "published": "Mon, 28 Sep 2026 02:18:51 -0400",
+      "published": "Mon, 28 Sep 2026 03:46:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
@@ -1021,20 +1018,6 @@
       "is_ticker": false
     },
     {
-      "title": "Gunmen kill 27 people in two mass shootings in South Africa",
-      "description": "South African police have launched a search for suspects after 17 people were found dead at a tavern southwest of Johannesburg. A separate tavern shooting near Cape Town left 10 dead.",
-      "url": "https://www.dw.com/en/gunmen-kill-27-people-in-two-mass-shootings-in-south-africa/a-79447130?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 27 Sep 2026 06:08:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Gunmen kill 27 people in two mass shootings in South Africa"
-    },
-    {
       "title": "Spain housing crisis protest after 87-year-old woman evicted",
       "description": "Tens of thousands of people marched through the streets of Madrid to protest against Spain's housing crisis after an 87-year-old woman was evicted from an apartment she had lived in for decades.",
       "url": "https://news.sky.com/story/spain-housing-crisis-protest-after-87-year-old-woman-evicted-13592322",
@@ -1115,6 +1098,17 @@
       "url": "https://www.dw.com/en/avalanche-in-nepal-leaves-2-dead-several-missing/a-79450101?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sun, 27 Sep 2026 17:47:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Leo building on Francis' legacy while reincorporating 'more traditional elements of papal activity'",
+      "description": "Erin Ogunkeye is pleased to welcome Miles Pattenden, historian of the Catholic Church at the University of Oxford. For Pattenden, Pope Leo XIV’s visit to France is part of a broader recalibration of the papacy. While Pope Francis placed particular emphasis on the Catholic Church’s peripheries and the needs of the Global South, Leo is subtly bringing the Church’s historic European heartlands back into focus. France is especially significant in this regard, given its deep historical relationship with Catholicism and its evolving relationship with Christianity, European identity, secularism and contemporary geopolitical debates.",
+      "url": "https://www.france24.com/en/leo-building-on-francis-legacy-while-reincorporating-more-traditional-elements-of-papal-activity",
+      "published": "Mon, 28 Sep 2026 07:17:35 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1229,17 +1223,6 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump swoons over strongman soulmate Xi – are you feeling jealous, Vladimir?",
-      "description": "Deference was deafening as US president rolled out red carpet for world’s biggest jailer of journalists – perhaps he was seeking tips One is an authoritarian who represses the media and has a strong allergy to democratic elections. The other is head of the Chinese Communist party. Donald Trump welcomed the Chinese president, Xi Jinping, to the White House on Thursday, setting the stage for a scene quite unlike anything the august old building has seen over more than two centuries. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/sep/24/trump-xi-jinping-meeting-white-house",
-      "published": "Thu, 24 Sep 2026 18:30:54 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1415,7 +1398,7 @@
       "title": "Seoul demands apology after Zelenskyy reveals North Korean prisoners of war transfer",
       "description": "South Korea has demanded an apology from Ukraine after President Zelenskyy revealed what Seoul says was supposed to be a secret transfer of two North Korean prisoners of war to South Korea",
       "url": "https://abcnews.com/International/wireStory/seoul-demands-apology-after-zelenskyy-unilaterally-reveals-north-136814400",
-      "published": "Mon, 28 Sep 2026 02:41:49 -0400",
+      "published": "Mon, 28 Sep 2026 03:46:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1647,8 +1630,19 @@
       "is_ticker": false
     },
     {
+      "title": "India: LPU suspends classes after violent protests over alleged campus rape",
+      "description": "A university in Punjab has suspended classes after protests over a rumored sexual assault took a violent turn. Separately, the Supreme Court has taken suo motu cognizance of recent rape cases in Delhi. DW has more.",
+      "url": "https://www.dw.com/en/india-lpu-suspends-classes-after-violent-protests-over-alleged-campus-rape/live-79454038?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 28 Sep 2026 08:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Trump expects Iran talks next week after rejecting seven-day truce proposal",
-      "description": "US President Donald Trump said on Sunday he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump has raised the possibility of renewed air strikes on Iran, but told Axios he anticipated further negotiations.",
+      "description": "US President Donald Trump on Sunday said he expected talks with Iran to resume next week, despite rejecting Tehran’s proposal for a seven-day truce followed by the reopening of the Strait of Hormuz. Trump raised the possibility of renewed air strikes on Iran but also said he anticipated further negotiations.",
       "url": "https://www.france24.com/en/middle-east/20260927-trump-expects-iran-talks-next-week-after-rejecting-seven-day-truce-proposal",
       "published": "Sun, 27 Sep 2026 22:10:44 GMT",
       "source": "France24",
@@ -1990,6 +1984,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 UK: 5 arrested after 'major incident' near Fairford air base"
+    },
+    {
+      "title": "Live: Pope Leo XIV arrives in Metz for final stop of France visit",
+      "description": "Pope Leo XIV on Monday arrived in the northeastern city of Metz, where he is expected to discuss hopes for peace in Europe on the fourth and final day of his visit to France. He will also lead a Mass in the afternoon which is set to be attended by French President Emmanuel Macron. Follow our liveblog for all the latest.",
+      "url": "https://www.france24.com/en/france/20260928-live-pope-leo-xiv-arrives-in-metz-for-final-stop-of-france-visit",
+      "published": "Mon, 28 Sep 2026 08:03:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "German town decision to halt Holocaust memorial plaques sparks outrage",
@@ -2416,6 +2421,17 @@
       "is_ticker": false
     },
     {
+      "title": "Nations League: With Mbappé away, Dembélé steps into new role",
+      "description": "France face Belgium on Matchday 2 of the Nations League. With Kylian Mbappé out due to injury, Ousmane Dembélé will serve as captain if he starts.",
+      "url": "https://www.france24.com/en/tv-shows/sports/20260928-nations-league-with-mbapp%C3%A9-away-demb%C3%A9l%C3%A9-steps-into-new-role",
+      "published": "Mon, 28 Sep 2026 08:14:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "SpaceX to attempt putting Starship rocket into Earth orbit for first time",
       "description": "Space X on Monday will attempt to launch its Starship rocket from Texas into Earth's orbit in a 10-hour flight which would deploy 26 Starlink satellites and would represent a milestone in the development of the massive launch vehicle. But the success of the launch is uncertain, as many previous tests have failed.",
       "url": "https://www.france24.com/en/science/20260928-spacex-aims-put-starship-rocket-into-earth-orbit-first-time",
@@ -2442,17 +2458,6 @@
       "description": "A referendum on whether Swiss neutrality should be more strictly, legally enforced in the Constitution.",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260927-non-why-the-swiss-rejected-stricter-neutrality",
       "published": "Sun, 27 Sep 2026 17:33:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Behind the scenes of Céline Dion's high-tech comeback",
-      "description": "You'll have seen the coverage of Céline Dion's return from illness and her Paris residency. But here's a different angle: the audio technology keeping her stage quiet, and the artificial intelligence isolating her voice from the noise of a 30,000-seat stadium.",
-      "url": "https://www.france24.com/en/tv-shows/tech-24/20260927-behind-the-scenes-of-c%C3%A9line-dion-s-high-tech-comeback",
-      "published": "Sun, 27 Sep 2026 13:38:31 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
@@ -2493,17 +2498,6 @@
       "is_ticker": false
     },
     {
-      "title": "Gang jailed over plot to import cocaine and ketamine in frozen fish deliveries",
-      "description": "A gang that plotted to import cocaine and ketamine worth more than £20m into the UK hidden in frozen fish deliveries has been jailed for a total of more than 71 years.",
-      "url": "https://news.sky.com/story/drugs-gang-jailed-over-plot-to-import-cocaine-and-ketamine-into-uk-hidden-in-frozen-fish-deliveries-13591988",
-      "published": "Sat, 26 Sep 2026 07:57:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Venezuelans rally to demand opposition leader's safe return, presidential elections",
       "description": "Supporters of opposition leader Maria Corina Machado have taken to the streets.",
       "url": "https://abcnews.com/International/wireStory/venezuelans-rally-demand-opposition-leaders-safe-return-presidential-136806242",
@@ -2518,7 +2512,7 @@
       "title": "Serbia's populist President Vucic resigns to run for prime minister at early vote",
       "description": "Serbia’s populist President Aleksandar Vucic has resigned the post to pursue a bid to become the prime minister in an upcoming early parliamentary election",
       "url": "https://abcnews.com/International/wireStory/serbias-populist-president-vucic-resigns-run-prime-minister-136801094",
-      "published": "Mon, 28 Sep 2026 02:18:19 -0400",
+      "published": "Mon, 28 Sep 2026 03:06:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
