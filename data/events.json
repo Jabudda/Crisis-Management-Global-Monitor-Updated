@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-05T04:29:35.260889Z",
+  "last_updated": "2026-10-05T05:09:47.935365Z",
   "event_count": 222,
   "events": [
     {
@@ -299,17 +299,6 @@
       "ticker_label": "🚨 Texas mother facing capital murder charges after allegedly shooting her two sons to death"
     },
     {
-      "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-      "description": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 03:42:15 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "2 people killed in Norway after shooter opens fire on hunting party",
       "description": "Two people were killed and another seriously injured when a shooter opened fire on a hunting party in southern Norway",
       "url": "https://abcnews.com/International/wireStory/2-people-killed-norway-after-shooter-opens-fire-136984128",
@@ -517,17 +506,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Gaza: WHO appeals for massive aid influx ahead of winter"
-    },
-    {
-      "title": "Rescuers suspend search for survivors after plane went missing off US coast",
-      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 23:29:18 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Iran war live: Yemen fighting intensifies; Tehran says ready for US attacks",
@@ -1061,6 +1039,20 @@
       "ticker_label": "🪖 Why I quit the movement shaping AI"
     },
     {
+      "title": "North Korea fires ballistic missile after Seoul demands apology",
+      "description": "North Korea's Kim Yo Jong, the powerful sister of leader Kim ​Jong Un, has said that her country tested an intermediate-range strategic missile.",
+      "url": "https://news.sky.com/story/north-korea-fires-ballistic-missile-after-seoul-demands-apology-over-border-mine-blasts-13594567",
+      "published": "Sat, 03 Oct 2026 07:14:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 North Korea fires ballistic missile after Seoul demands apology"
+    },
+    {
       "title": "No more execution attempts on Christa Pike: UN rights chief",
       "description": "The UN human rights chief and nine independent rights experts on Thursday called on authorities in Tennessee not to pursue any further attempts to execute Christa Pike, saying her case highlights multiple concerns surrounding the death penalty.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168504",
@@ -1083,10 +1075,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australia investigating Flydubai co-pilot's links to country",
-      "description": "State police and the country's security agency are looking into the co-pilot, who attempted to take control of a Flydubai plane travelling to Israel.",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4nym57q9o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 06:19:17 GMT",
+      "title": "France closes up to 500 schools Monday over student protests",
+      "description": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 04:49:14 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1171,15 +1163,18 @@
       "is_ticker": false
     },
     {
-      "title": "US father and son arrested after 'gas station heroin' deaths",
-      "description": "They are accused of selling at least one student derivatives of kratom, often called \"gas station heroin\" in the US.",
-      "url": "https://www.bbc.co.uk/news/articles/c6qjnlk4r2jjo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 03 Oct 2026 22:39:06 GMT",
+      "title": "All six passengers presumed dead after plane went missing off US coast",
+      "description": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data.",
+      "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 04:00:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ All six passengers presumed dead after plane went missing off US coast"
     },
     {
       "title": "Why Canada is wargaming a (long shot) US invasion",
@@ -1194,6 +1189,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Why Canada is wargaming a (long shot) US invasion"
+    },
+    {
+      "title": "Russian lab worker dies of suspected plague in Siberia; US monitoring case",
+      "description": "A Russian agency links the lab worker's death to 'pneumonia of unknown' origin.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/russian-lab-worker-dies-of-suspected-plague-in-siberia-us-monitoring-case?traffic_source=rss",
+      "published": "Mon, 05 Oct 2026 04:07:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1234,17 +1240,6 @@
       "url": "https://www.france24.com/en/cornell-president-breaks-silence-over-alleged-campus-rape",
       "published": "Sun, 04 Oct 2026 11:53:09 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ireland's football media call ends in chaos",
-      "description": "Republic of Ireland's Nations League press conference descended into chaos after Israeli journalists started asking questions about the flydubai attack and alleged racial abuse of players.",
-      "url": "https://news.sky.com/story/irelands-nations-league-media-call-ends-in-chaos-after-question-by-israeli-journalist-about-flydubai-13594700",
-      "published": "Sat, 03 Oct 2026 15:18:00 +0100",
-      "source": "Sky News World",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1333,6 +1328,53 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "US air force removes all bombers from British military base RAF Fairford",
+      "description": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 04:58:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 US air force removes all bombers from British military base RAF Fairford"
+    },
+    {
+      "title": "Watch: How Brazil's dramatic election unfolded",
+      "description": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections.",
+      "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 04:51:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "description": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 03:37:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Supporters of jailed ex-PM Imran Khan march to Pakistan capital",
+      "description": "Thousands have taken to the streets after talks between authorities and Khan's party ended in deadlock.",
+      "url": "https://www.bbc.co.uk/news/articles/cmkg79z04w4zo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 05 Oct 2026 03:59:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1583,17 +1625,6 @@
       "is_ticker": false
     },
     {
-      "title": "US Marine arrested over murder of woman in Japan's Okinawa",
-      "description": "Japan's government lodged a formal protest with the US, demanding that military officials take action.",
-      "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 14:36:57 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Singapore turns matchmaker amid rock-bottom birthrate",
       "description": "City-state launches dating platform for government workers, drawing curiosity, amusement and scorn.",
       "url": "https://www.aljazeera.com/economy/2026/10/5/singapore-turns-matchmaker-amid-rock-bottom-birthrate?traffic_source=rss",
@@ -1715,17 +1746,6 @@
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
       "published": "Mon, 21 Mar 2022 19:54:24 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
-      "description": "Brazilians voted Sunday in a high-stakes presidential election pitting incumbent Luiz Inácio Lula da Silva against Senator Flávio Bolsonaro amid a regional shift to the right. Bolsonaro is the son of jailed former president Jair Bolsonaro. A runoff will take place October 25 if no candidate wins an outright majority.",
-      "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
-      "published": "Mon, 05 Oct 2026 00:16:05 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1892,6 +1912,17 @@
       "is_ticker": false
     },
     {
+      "title": "Forced to call him 'Dad': Trial over sexual abuse in disabled care home shocks South Korea",
+      "description": "The BBC spoke to one of three residents at a care home who were sexually assaulted by a staff member.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4z93n9n1zo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 04 Oct 2026 22:11:33 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Christa Pike's prognosis still unclear after failed execution, lawyer says",
       "description": "Pike's lawyer says doctors are still trying to clear two lethal doses of pentobarbital from her body.",
       "url": "https://www.bbc.co.uk/news/articles/ckgelynyg7d3o?at_medium=RSS&at_campaign=rss",
@@ -1903,22 +1934,11 @@
       "is_ticker": false
     },
     {
-      "title": "What to know about Brazil's election as Lula and Flávio Bolsonaro face off",
-      "description": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 20:14:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "description": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 04 Oct 2026 00:11:25 GMT",
-      "source": "BBC News",
+      "title": "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+      "description": "A California woman allegedly sent photos and videos of President Lai's son and his family to Chinese officials.",
+      "url": "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+      "published": "Mon, 05 Oct 2026 04:13:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -1969,7 +1989,7 @@
       "is_ticker": false
     },
     {
-      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ after ties over",
+      "title": "Israel face spitting allegation as Ireland boss ‘delighted’ games are over",
       "description": "Ireland manager says 'disciplinary committee will look at' allegations Israel player spat at one of his coaching staff.",
       "url": "https://www.aljazeera.com/sports/2026/10/4/israel-face-spitting-allegation-as-ireland-boss-delighted-ties-after-over?traffic_source=rss",
       "published": "Sun, 04 Oct 2026 23:52:49 +0000",
@@ -1995,28 +2015,6 @@
       "description": "Dramatic video shows a man in Egypt rushing and catching a child who fell from the second floor.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/4/mans-miraculous-catch-saves-child-after-balcony-fall-in-egypt?traffic_source=rss",
       "published": "Sun, 04 Oct 2026 22:47:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Cornell case puts New York’s progressive image at odds with its rape laws",
-      "description": "New York lawmakers will review sexual-assault laws, including voluntary intoxication rule at the heart of Cornell case.",
-      "url": "https://www.aljazeera.com/news/2026/10/4/cornell-case-puts-new-yorks-progressive-image-at-odds-with-its-rape-laws?traffic_source=rss",
-      "published": "Sun, 04 Oct 2026 21:39:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ireland refuse handshake with Israel and don armbands in Nations League tie",
-      "description": "Republic of Ireland football players again wear black armbands and refuse handshakes with Israel in UEFA Nations League.",
-      "url": "https://www.aljazeera.com/sports/2026/10/4/ireland-refuse-handshake-with-israel-and-don-armbands-in-nations-league-tie?traffic_source=rss",
-      "published": "Sun, 04 Oct 2026 21:30:22 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2316,6 +2314,17 @@
       "is_ticker": false
     },
     {
+      "title": "Brazil presidential election heads to runoff as Bolsonaro leads Lula",
+      "description": "Right-wing Senator Flavio Bolsonaro pulled off a surprise first-place finish ahead of President Luiz Inacio Lula da Silva in Sunday's election, which heads to a run-off vote on October 25 as neither clinched a majority.",
+      "url": "https://www.france24.com/en/americas/20261005-brazil-presidential-election-runoff-bolsonaro-lula",
+      "published": "Mon, 05 Oct 2026 00:16:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Brazil: Lula and Bolsonaro tied in polls",
       "description": "Brazilians began casting their votes on Sunday in a closely watch presidential election pitting incumbent President Luiz Inacio Lula da Silva against right-wing Senator Flavio Bolsonaro, son of former president Jair Bolsonaro. Mara Nogueira, Senior Lecturer in Urban Geography at Birbeck, University of London, says the tight race reflects the consolidation of two political camps, with many Brazilians voting not out of support for a candidate, but to keep the other out of power. She points to the cost of living, religion and social media echo chambers as key factors shaping the vote, alongside a major banking scandal that has so far had limited impact on Flavio Bolsonaro’s campaign.",
       "url": "https://www.france24.com/en/brazil-lula-and-bolsonaro-tied-in-polls",
@@ -2330,10 +2339,10 @@
       "ticker_label": "💥 Brazil: Lula and Bolsonaro tied in polls"
     },
     {
-      "title": "'We manage together': Meet the psychologist helping Ukraine's veterans live again",
-      "description": "\"Often they feel superfluous, as if they don't fit in,\" says psychologist Yevheniia Zhuravel.",
-      "url": "https://news.sky.com/story/we-manage-together-meet-the-psychologist-helping-ukraines-veterans-live-again-13594913",
-      "published": "Sun, 04 Oct 2026 09:02:00 +0100",
+      "title": "Israeli journalists banned from media call after Republic of Ireland match",
+      "description": "Two Israeli journalists were banned from the post-match press conference for Ireland v Israel after Saturday's media call descended into chaos.",
+      "url": "https://news.sky.com/story/israeli-journalists-banned-from-media-call-after-republic-of-ireland-match-13595127",
+      "published": "Sun, 04 Oct 2026 20:18:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
@@ -2341,10 +2350,10 @@
       "is_ticker": false
     },
     {
-      "title": "Israeli journalists banned from media call after Republic of Ireland match",
-      "description": "Two Israeli journalists were banned from the post-match press conference for Ireland v Israel after Saturday's media call descended into chaos.",
-      "url": "https://news.sky.com/story/israeli-journalists-banned-from-media-call-after-republic-of-ireland-match-13595127",
-      "published": "Sun, 04 Oct 2026 20:18:00 +0100",
+      "title": "'We manage together': Meet the psychologist helping Ukraine's veterans live again",
+      "description": "\"Often they feel superfluous, as if they don't fit in,\" says psychologist Yevheniia Zhuravel.",
+      "url": "https://news.sky.com/story/we-manage-together-meet-the-psychologist-helping-ukraines-veterans-live-again-13594913",
+      "published": "Sun, 04 Oct 2026 09:02:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
