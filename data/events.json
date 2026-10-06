@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T15:17:31.042224Z",
+  "last_updated": "2026-10-06T15:41:26.086904Z",
   "event_count": 219,
   "events": [
     {
@@ -123,18 +123,18 @@
       "ticker_label": "💥 Egyptian journalist faces terrorism charges after entire newsroom detained"
     },
     {
-      "title": "Germany news: Far-right AfD gets first house speaker in a German state parliament",
-      "description": "For the first time since World War II, a far-right party has a house speaker in a German state parliament. And Germany's foreign minister has warned that the climate crisis could fuel extremism. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-far-right-afd-gets-first-house-speaker-in-a-german-state-parliament/live-79558497?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 06:21:00 GMT",
+      "title": "UK: Seventh arrest made after air base plot",
+      "description": "The man, a British national in his twenties, was arrested in London in suspicion of \"preparing terrorist acts.\"",
+      "url": "https://www.dw.com/en/uk-seventh-arrest-made-after-air-base-plot/a-79566985?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 6 Oct 2026 15:30:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany news: Far-right AfD gets first house speaker in a German state parliament"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 UK: Seventh arrest made after air base plot"
     },
     {
       "title": "In Islamabad, Guterres calls for end to US-Iran conflict",
@@ -174,6 +174,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UK police arrest 22-year-old British man in suspected Fairford base plot"
+    },
+    {
+      "title": "Thailand braces for more rain as death toll from recent flooding hits 31",
+      "description": "Thai authorities have warned of more rain and flash flooding as the death toll from floods since mid-September has risen to 31",
+      "url": "https://abcnews.com/International/wireStory/thailand-braces-rain-death-toll-recent-flooding-hits-136997352",
+      "published": "Mon, 05 Oct 2026 06:50:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Thailand braces for more rain as death toll from recent flooding hits 31"
     },
     {
       "title": "France’s violent student protests raise warning for America: ‘A cautionary tale’",
@@ -227,6 +241,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Extreme heat making pregnancy a ‘new fault line’ in climate crisis"
+    },
+    {
+      "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+      "description": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran.",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 14:15:06 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 White House defends Trump comment to let Iran 'take out' LA and San Diego"
     },
     {
       "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
@@ -283,6 +311,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ethiopia 'fears Tigray conflict could get out of control'"
+    },
+    {
+      "title": "ICC will unseal warrants for 4 Taliban leaders wanted on gender persecution charges",
+      "description": "The International Criminal Court says it is unsealing arrest warrants against four senior Taliban leaders on charges of crimes against humanity",
+      "url": "https://abcnews.com/International/wireStory/icc-unseal-arrest-warrants-4-taliban-leaders-wanted-137005762",
+      "published": "Mon, 05 Oct 2026 11:47:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ICC will unseal warrants for 4 Taliban leaders wanted on gender persecution charges"
     },
     {
       "title": "Bulgarian PM says drone attack on 2 commercial vessels is 'blatant violation of international law'",
@@ -441,15 +483,18 @@
       "ticker_label": "✈️ Plane carrying 25 crashes with no survivors"
     },
     {
-      "title": "Spain’s gov't approves new urgent housing measures after night of unrest in Barcelona",
-      "description": "Spain's government has approved urgent measures on the country's housing crisis",
-      "url": "https://abcnews.com/International/wireStory/spains-government-approves-new-urgent-housing-measures-after-137027337",
-      "published": "Tue, 06 Oct 2026 08:10:32 -0400",
+      "title": "Romania reports 2 dead and 11 rescued after fire onboard a vessel in Black Sea",
+      "description": "Romanian authorities report that two people have died and 11 crew members were rescued after a commercial vessel caught fire in the Black Sea",
+      "url": "https://abcnews.com/International/wireStory/romania-reports-2-dead-11-rescued-after-fire-137000000",
+      "published": "Mon, 05 Oct 2026 08:58:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Romania reports 2 dead and 11 rescued after fire onboard a vessel in Black Sea"
     },
     {
       "title": "UK police arrest British national linked to airbase incident",
@@ -837,10 +882,10 @@
       "is_ticker": false
     },
     {
-      "title": "India opposition parties rally for election chief’s exit over voter list changes",
-      "description": "Opposition parties in India are protesting in New Delhi, demanding the resignation of the country's election chief Gyanesh Kumar",
-      "url": "https://abcnews.com/International/wireStory/india-opposition-parties-rally-election-chiefs-exit-voter-137024629",
-      "published": "Tue, 06 Oct 2026 06:55:32 -0400",
+      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
+      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
+      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
+      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -848,10 +893,10 @@
       "is_ticker": false
     },
     {
-      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
-      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
-      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
-      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
+      "title": "India opposition parties rally for election chief’s exit over voter list changes",
+      "description": "Opposition parties in India are protesting in New Delhi, demanding the resignation of the country's election chief Gyanesh Kumar",
+      "url": "https://abcnews.com/International/wireStory/india-opposition-parties-rally-election-chiefs-exit-voter-137024629",
+      "published": "Tue, 06 Oct 2026 06:55:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
@@ -1048,6 +1093,17 @@
       "description": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment.",
       "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 05 Oct 2026 22:28:02 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Fear and disruption for Ukraine's rail passengers as Russia escalates drone attacks",
+      "description": "Ukrainians travelling by train are increasingly caught in the crosshairs of Russia's attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/cr4g1qxzwyj1o?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 09:48:37 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1294,6 +1350,20 @@
       "ticker_label": "🪖 Spain lifts arrest warrant for Catalan separatist Carles Puigdemont"
     },
     {
+      "title": "Nobel medicine prize goes to 3 scientists for research into brain activity",
+      "description": "The Nobel Prize in medicine has been awarded to three scientists whose work led to a tool that uses light to help unravel how the brain works",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-week-kicking-off-stockholm-medicine-award-136995821",
+      "published": "Mon, 05 Oct 2026 09:30:23 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Nobel medicine prize goes to 3 scientists for research into brain activity"
+    },
+    {
       "title": "Nigerian Air Force says plane carrying 25 crashed with no survivors",
       "description": "Officials say there were no survivors among 25 people on board a Nigerian Air Force plane that crashed in southern Nigeria’s Ondo state",
       "url": "https://abcnews.com/International/wireStory/nigerian-air-force-plane-carrying-25-crashed-survivors-137026228",
@@ -1403,6 +1473,20 @@
       "severity_score": 7,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Russian report says Siberian plague institute worker fell ill, died of unknown cause",
+      "description": "Russian authorities say a staffer at a plague research institute in Siberia contracted pneumonia of an unknown cause, and local state TV reported the woman died last week",
+      "url": "https://abcnews.com/International/wireStory/russian-report-worker-siberian-plague-institute-fell-ill-137000129",
+      "published": "Mon, 05 Oct 2026 23:46:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Russian report says Siberian plague institute worker fell ill, died of unknown cause"
     },
     {
       "title": "‘Ebola takes the people children depend on’: UNICEF",
@@ -1515,32 +1599,21 @@
       "is_ticker": false
     },
     {
+      "title": "Russia hosts consultations on Afghanistan, including with a Taliban delegation",
+      "description": "Russia has hosted consultations on Afghanistan that included a delegation of the country's ruling Taliban government along with officials from China, India, Iran, Pakistan and other nations",
+      "url": "https://abcnews.com/International/wireStory/russia-hosts-consultations-afghanistan-including-taliban-delegation-136999824",
+      "published": "Mon, 05 Oct 2026 08:50:55 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Kenyan prisoners play chess for fun behind bars and to help with rehabilitation",
       "description": "Kenya’s Department for Correctional Services has introduced chess across the country’s prisons since 2024, in one of the most prominent institutional carceral chess programs in Africa",
       "url": "https://abcnews.com/International/wireStory/kenyan-prisoners-play-chess-fun-bars-rehabilitation-137024480",
       "published": "Tue, 06 Oct 2026 02:09:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Colombia launches joint task force to protect pipeline and fight ELN rebels",
-      "description": "Colombian President Abelardo de la Espriella has launched a joint task force that will fight rebel groups and drug gangs in the country's northeast",
-      "url": "https://abcnews.com/International/wireStory/colombia-launches-joint-task-force-protect-pipeline-fight-137020512",
-      "published": "Mon, 05 Oct 2026 22:31:59 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Ethiopia again demands access to the Red Sea as tensions with neighbors escalate",
-      "description": "Ethiopian Prime Minister Abiy Ahmed insists his country must have access to the Red Sea",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-demands-access-red-sea-tensions-neighbors-escalate-137007336",
-      "published": "Mon, 05 Oct 2026 13:58:11 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1584,7 +1657,7 @@
       "is_ticker": false
     },
     {
-      "title": "Photos: France braces for day of school blockades and street protests",
+      "title": "Photos: School blockades, street protests grip France",
       "description": "Protesters increased pressure on the government of outgoing President Emmanuel Macron demanding more education funding.",
       "url": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
       "published": "Tue, 06 Oct 2026 14:53:02 +0000",
@@ -1633,17 +1706,6 @@
       "url": "https://www.france24.com/en/video/20261006-students-protest-cornell-s-response-to-gang-rape-complaint",
       "published": "Tue, 06 Oct 2026 12:26:59 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Protesting pupils blockade French high schools again, testing a weekslong movement",
-      "description": "Protesting students have blockaded high schools again, demanding more resources for the school system",
-      "url": "https://abcnews.com/International/wireStory/protesting-pupils-blockade-french-high-schools-testing-weekslong-137025460",
-      "published": "Tue, 06 Oct 2026 09:06:23 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1799,7 +1861,7 @@
       "title": "Russia says nearly 900 Ukrainian drones downed, fuel depot reportedly burns",
       "description": "Russia's Defense Ministry says air defenses intercepted nearly 900 Ukrainian drones over multiple regions overnight",
       "url": "https://abcnews.com/International/wireStory/russia-900-ukrainian-drones-downed-moscow-region-fuel-137027723",
-      "published": "Tue, 06 Oct 2026 08:50:50 -0400",
+      "published": "Tue, 06 Oct 2026 11:22:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1932,31 +1994,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Blue Planet and Gandhi composer George Fenton dies aged 76",
-      "description": "The musician received five Oscar nominations, and soundtracked dozens of memorable nature films.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0v40r98n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 22:58:25 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US 'watching closely' after plague researcher dies in Russia",
-      "description": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia.",
-      "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 07:58:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 US 'watching closely' after plague researcher dies in Russia"
     },
     {
       "title": "The small African nation ready for Messi's big night",
@@ -2378,10 +2415,10 @@
       "ticker_label": "💥 Tennis star disqualified after hitting spectator with ball"
     },
     {
-      "title": "What to know as the fighting in Yemen escalates while US-Iran tensions remain high",
-      "description": "Saudi Arabia and its allies in the Yemeni government have launched a military campaign to reclaim territory near the Bab al-Mandeb Strait from Houthi rebels",
-      "url": "https://abcnews.com/International/wireStory/fighting-yemen-escalates-us-iran-tensions-remain-high-137033030",
-      "published": "Tue, 06 Oct 2026 10:01:18 -0400",
+      "title": "Samoa prime minister apologizes for Nazi gesture and saying 'Heil Hitler' in 2007 video",
+      "description": "Samoa’s Prime Minister Laʻauli Leuatea Schmidt has apologized for a 2007 video that showed him saying “Heil Hitler” and making a Nazi gesture",
+      "url": "https://abcnews.com/International/wireStory/samoa-prime-minister-apologizes-nazi-gesture-heil-hitler-136995356",
+      "published": "Mon, 05 Oct 2026 02:58:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2389,37 +2426,18 @@
       "is_ticker": false
     },
     {
-      "title": "Solar power helps Amazon communities ditch diesel and prepare for El Niño drought",
-      "description": "Off-grid solar power is spreading across Brazil’s Amazon, helping remote communities prepare for severe drought while replacing costly, polluting diesel generators",
-      "url": "https://abcnews.com/International/wireStory/solar-power-helps-amazon-communities-ditch-diesel-prepare-137031805",
-      "published": "Tue, 06 Oct 2026 09:23:01 -0400",
+      "title": "Italy’s Meloni follows pop stars in seeking to trademark her voice to combat AI deepfakes",
+      "description": "Italian Premier Giorgia Meloni has applied to trademark her voice with the European Union intellectual property office in a bid to bolster protections against AI-generated deepfakes",
+      "url": "https://abcnews.com/International/wireStory/italys-meloni-pop-stars-seeking-trademark-voice-combat-137005335",
+      "published": "Mon, 05 Oct 2026 11:48:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on neutrinos",
-      "description": "Belgian-born scientist Francis Halzen has won the Nobel Prize in physics for his work on neutrinos, tiny cosmic particles that offer clues about how the universe evolved",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-physics-awarded-stockholm-137024985",
-      "published": "Tue, 06 Oct 2026 09:22:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Far-right election win leaves migrants questioning their future in eastern Germany",
-      "description": "The far-right Alternative for Germany party's recent election win in Saxony-Anhalt has sparked fear among migrants",
-      "url": "https://abcnews.com/International/wireStory/election-win-leaves-migrants-questioning-future-eastern-germany-137023929",
-      "published": "Tue, 06 Oct 2026 08:10:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Italy’s Meloni follows pop stars in seeking to trademark her voice to combat AI deepfakes"
     },
     {
       "title": "When streets become pharmacies: Booming illicit markets in Central Africa",
