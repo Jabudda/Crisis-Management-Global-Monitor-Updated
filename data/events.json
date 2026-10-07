@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T09:21:48.225746Z",
+  "last_updated": "2026-10-07T09:45:33.886030Z",
   "event_count": 218,
   "events": [
     {
@@ -321,17 +321,6 @@
       "ticker_label": "🪖 Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked"
     },
     {
-      "title": "Bulgarian PM says drone attack on 2 commercial vessels is 'blatant violation of international law'",
-      "description": "Two commercial vessels have been hit by drones in the Black Sea, Bulgarian Prime Minister Rumen Radev",
-      "url": "https://abcnews.com/International/wireStory/bulgarian-pm-drone-attack-2-commercial-vessels-blatant-137025648",
-      "published": "Tue, 06 Oct 2026 06:43:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "ICC unseals four arrest warrants over Taliban persecution of women and girls",
       "description": "The International Criminal Court (ICC) has made public four arrest warrants against senior Taliban figures, accusing them of persecuting women and girls in Afghanistan, which amounts to a crime against humanity.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168521",
@@ -360,6 +349,20 @@
       "ticker_label": "✈️ FlyDubai co-pilot allegedly planned to crash Israel-bound jet at Ben Gurion Airport"
     },
     {
+      "title": "At least 11 killed as Russia launches ‘massive’ attack on Ukraine",
+      "description": "Ukraine's air force says Russia launched 130 drones, 48 cruise missiles and ballistic missiles in overnight attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 06:19:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 At least 11 killed as Russia launches ‘massive’ attack on Ukraine"
+    },
+    {
       "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
       "description": "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time.",
       "url": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
@@ -372,20 +375,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks"
-    },
-    {
-      "title": "At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine",
-      "description": "Russia’s Defence Ministry says its forces carried out a 'massive strike' on Kyiv and other Ukrainian regions.",
-      "url": "https://www.aljazeera.com/news/2026/10/7/at-least-two-killed-in-kyiv-as-russia-launches-massive-attack-on-ukraine?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 06:19:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At least two killed in Kyiv as Russia launches ‘massive’ attack on Ukraine"
     },
     {
       "title": "France's police fire tear gas and water cannons as school protests sweep the country",
@@ -484,7 +473,7 @@
     },
     {
       "title": "Cancer rates rising faster among younger people, international study finds",
-      "description": "New major research has found that cases of several different kinds of cancer have risen sharply among young people in England, the US, and in the Netherlands. The number of people under the age of 50 diagnosed with prostate cancer in England has quadrupled since 2001. Researchers aren't exactly sure why there's been such an increase but say the broad reason could be linked to a growing rate of obesity, poor diets and a lack of exercise. FRANCE 24's Sharon Gaffney speaks with Jon Shelton, Head of cancer intelligence at Cancer Research UK.",
+      "description": "New major research has found that cases of several different kinds of cancer have risen sharply among young people in England, the US and the Netherlands. The number of people under the age of 50 diagnosed with prostate cancer in England has quadrupled since 2001. Researchers aren't exactly sure why there's been such an increase, but say the broad reason could be linked to a growing rate of obesity, poor diets and a lack of exercise. FRANCE 24's Sharon Gaffney speaks with Jon Shelton, Head of cancer intelligence at Cancer Research UK.",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20261006-cancer-rates-rising-faster-among-younger-people-international-study-finds",
       "published": "Tue, 06 Oct 2026 21:10:49 GMT",
       "source": "France24",
@@ -533,6 +522,17 @@
       "ticker_label": "🪖 Russian missile strike in Ukraine's capital kills at least 2"
     },
     {
+      "title": "Spain’s gov't approves new urgent housing measures after night of unrest in Barcelona",
+      "description": "Spain's government has approved urgent measures on the country's housing crisis",
+      "url": "https://abcnews.com/International/wireStory/spains-government-approves-new-urgent-housing-measures-after-137027337",
+      "published": "Tue, 06 Oct 2026 08:10:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "WHO releases first global guidelines on child obesity as cases surge",
       "description": "Child and adolescent obesity has quadrupled since 1990, rising from two per cent to around eight per cent of youngsters in the five-to-19 age group, according to the UN World Health Organization (WHO).",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168536",
@@ -542,6 +542,20 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Fear and a far-right lurch: How October 7 reshaped Israel",
+      "description": "Three years on, the trauma of October 7, 2023, continues to reshape Israel’s politics, wars and place in the world.",
+      "url": "https://www.aljazeera.com/news/2026/10/7/fear-and-a-far-right-lurch-how-october-7-reshaped-israel?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 08:53:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Fear and a far-right lurch: How October 7 reshaped Israel"
     },
     {
       "title": "New Zealand greenhouse gas levels hit record highs threatening catastrophic glacier melts",
@@ -760,6 +774,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ronaldo stays on under cloud as Messi exits internationals",
+      "description": "Just hours before Lionel Messi played his last match for Argentina, Cristiano Ronaldo posted his latest salvo in a row with Portugal. Ronaldo wants to play on despite the troubles, while Messi bathed in adulation.",
+      "url": "https://www.dw.com/en/ronaldo-stays-on-under-cloud-as-messi-exits-internationals/a-79574551?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 09:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Munich up against at least six competitors for 2036 Olympics",
       "description": "The International Olympic Committee has revealed the six other countries intending to bid for the 2036 Olympic Games. This comes after Germany selected Munich as its Olympic candidate.",
       "url": "https://www.dw.com/en/munich-up-against-at-least-six-competitors-for-2036-olympics/a-79566678?maca=en-rss-en-all-1573-xml-mrss",
@@ -815,6 +840,20 @@
       "is_ticker": false
     },
     {
+      "title": "What does a year-long ceasefire in Gaza look like?",
+      "description": "Israel attacked Gaza nine days out of 10 during a so-called ceasefire.",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/7/what-does-a-year-long-ceasefire-in-gaza-look-like?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 08:55:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 What does a year-long ceasefire in Gaza look like?"
+    },
+    {
       "title": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
       "description": "The death of a 28-year-old Russian lab worker at Siberia’s Irkutsk Anti-Plague Institute has sparked online panic about a ‘plague’, despite the WHO assessing the public health risk in Russia as low. Unverified claims about how she became ill, including a laboratory accident involving a test tube, are circulating online. Misleading posts and out-of-context videos have also fuelled speculation and fear. Vedika Bahl goes through them, and what we know, in Truth or Fake.",
       "url": "https://www.france24.com/en/russian-lab-worker-s-death-sparks-plague-fears-as-unverified-claims-spread-online-1",
@@ -827,6 +866,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Russian lab worker’s death sparks plague fears as unverified claims spread online"
+    },
+    {
+      "title": "Rubio, in Greece, set to call for the West to restore founding democratic principles",
+      "description": "Secretary of State Marco Rubio is set to call on the nations of the West to return to their civilizational roots and restore the values that drove the rise of Europe and North America to global dominance for centuries",
+      "url": "https://abcnews.com/International/wireStory/rubio-greece-set-call-west-restore-founding-democratic-137057052",
+      "published": "Wed, 07 Oct 2026 03:30:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "From drought to deluge: ‘Super’ El Niño’s expanding reach",
@@ -1087,28 +1137,6 @@
       "ticker_label": "🪖 EU seeks ways to make expansion more palatable to members"
     },
     {
-      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
-      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
-      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
-      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "India opposition parties rally for election chief’s exit over voter list changes",
-      "description": "Opposition parties in India are protesting in New Delhi, demanding the resignation of the country's election chief Gyanesh Kumar",
-      "url": "https://abcnews.com/International/wireStory/india-opposition-parties-rally-election-chiefs-exit-voter-137024629",
-      "published": "Tue, 06 Oct 2026 06:55:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Former Australian bishop jailed for sexually abusing young men",
       "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
       "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
@@ -1247,10 +1275,10 @@
       "is_ticker": false
     },
     {
-      "title": "Watch: How Russia responded to US after plague researcher death",
-      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
-      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
+      "title": "What we know about Christa Pike’s ‘unprecedented' recovery after failed execution",
+      "description": "The BBC's Sarah Smith details the injuries sustained by the US death row inmate after two failed lethal injections, and what comes next.",
+      "url": "https://www.bbc.co.uk/news/videos/c5398nwe9lzlo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 23:42:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1258,10 +1286,10 @@
       "is_ticker": false
     },
     {
-      "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-      "description": "A series of measures to tackle the housing crisis were defeated in parliament on Friday",
-      "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 05 Oct 2026 09:03:30 GMT",
+      "title": "Watch: How Russia responded to US after plague researcher death",
+      "description": "The US and Russia have each offered to help each other tackling infectious diseases.",
+      "url": "https://www.bbc.co.uk/news/videos/c8e36y796enno?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 06 Oct 2026 13:32:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1341,6 +1369,20 @@
       "is_ticker": false
     },
     {
+      "title": "Suspected pneumonic plague in Siberia: What we know about the disease",
+      "description": "After a worker at a Russian plague research institute in Siberia died October 2, 2026, nearly 200 of her contacts were under medical observation. But authorities there denied pneumonic plague had caused the death.",
+      "url": "https://www.dw.com/en/suspected-pneumonic-plague-in-siberia-what-we-know-about-the-disease/a-79547919?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 09:44:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Suspected pneumonic plague in Siberia: What we know about the disease"
+    },
+    {
       "title": "Christa Pike awake after failed Tennessee execution: lawyers",
       "description": "A death row inmate who survived a botched execution last week is conscious and talking in hospital, according to her lawyers, who want to commute her death sentence to life imprisonment without parole.",
       "url": "https://www.dw.com/en/christa-pike-awake-after-failed-tennessee-execution-lawyers/a-79569867?maca=en-rss-en-all-1573-xml-mrss",
@@ -1361,34 +1403,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Paramount and Warner Bros merge into one Hollywood giant",
-      "description": "Paramount has completed an $81 billion purchase of Warner Bros. Discovery, as its owner Skydance creates a new entertainment behemoth. Billionaire David Ellison's hostile takeover bid defeated rival efforts from Netflix.",
-      "url": "https://www.dw.com/en/paramount-and-warner-bros-merge-into-one-hollywood-giant/a-79565762?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 14:18:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Paramount and Warner Bros merge into one Hollywood giant"
-    },
-    {
-      "title": "Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections",
-      "description": "Catalan separatist leader Carles Puigdemont fled Spain in 2017 after launching an independence bid. The court's decision means he can return home without fear of arrest after almost a decade in exile.",
-      "url": "https://www.dw.com/en/spain-court-lifts-puigdemont-arrest-warrant-clearing-way-for-his-return-home-ahead-of-november-elections/a-79565853?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 14:06:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Spain court lifts Puigdemont arrest warrant, clearing way for his return home ahead of November elections"
     },
     {
       "title": "Plague risk to UK 'very low', officials say after Russian woman's death",
@@ -1430,6 +1444,34 @@
       "ticker_label": "💥 'My heart is broken': Michael Flatley announces his wife has died"
     },
     {
+      "title": "Nobel Prize in chemistry set to be awarded in Stockholm",
+      "description": "The Royal Swedish Academy of Sciences will award the Nobel Prize in chemistry",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-chemistry-set-awarded-stockholm-137057382",
+      "published": "Wed, 07 Oct 2026 03:46:25 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Nobel Prize in chemistry set to be awarded in Stockholm"
+    },
+    {
+      "title": "Pakistan provides fuel aid to 9 million low-income people as Middle East war drives up prices",
+      "description": "Pakistan’s government is providing fuel subsidies to over 9 million low-income people as the U.S.-Iran war drives up energy prices",
+      "url": "https://abcnews.com/International/wireStory/pakistan-fuel-aid-9-million-low-income-people-137039907",
+      "published": "Tue, 06 Oct 2026 21:22:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Pakistan provides fuel aid to 9 million low-income people as Middle East war drives up prices"
+    },
+    {
       "title": "A British father asks a Cyprus judge to avoid prison after son's fatal hotel fall",
       "description": "The lawyer for a British man who pleaded guilty to a charge of negligence in the fatal fall of his 3-year-old son from a hotel window in Cyprus has appealed to a judge to avoid a prison sentence",
       "url": "https://abcnews.com/International/wireStory/british-father-asks-cyprus-judge-avoid-prison-after-137032251",
@@ -1453,20 +1495,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Spain lifts arrest warrant for Catalan separatist Carles Puigdemont"
-    },
-    {
-      "title": "Nobel Prize in chemistry set to be awarded in Stockholm",
-      "description": "The Royal Swedish Academy of Sciences will award the Nobel Prize in chemistry",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-chemistry-set-awarded-stockholm-137057382",
-      "published": "Wed, 07 Oct 2026 03:46:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Nobel Prize in chemistry set to be awarded in Stockholm"
     },
     {
       "title": "Nigerian Air Force says plane carrying 25 crashed with no survivors",
@@ -1596,17 +1624,6 @@
       "is_ticker": false
     },
     {
-      "title": "Kenyan prisoners play chess for fun behind bars and to help with rehabilitation",
-      "description": "Kenya’s Department for Correctional Services has introduced chess across the country’s prisons since 2024, in one of the most prominent institutional carceral chess programs in Africa",
-      "url": "https://abcnews.com/International/wireStory/kenyan-prisoners-play-chess-fun-bars-rehabilitation-137024480",
-      "published": "Tue, 06 Oct 2026 02:09:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "‘Rocket revolution’ opens access to space",
       "description": "For a long time, launching something beyond Earth was reserved for a relatively small number of national space programmes. That is changing.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168538",
@@ -1666,17 +1683,6 @@
       "description": "French students and teachers protesting school conditions spoke with Al Jazeera about their demands.",
       "url": "https://www.aljazeera.com/news/2026/10/7/were-short-of-resources-frances-student-protesters-in-their-own-words?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 08:32:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Tree nearly as old as US torn down to expand Mexico border wall",
-      "description": "A 200-year-old cottonwood tree has been cut down to make way for a 44-km US-Mexico double border wall despite protests.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 04:20:28 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1847,17 +1853,6 @@
       "ticker_label": "💥 Germany's former spy chief detained on suspicion of trading state secrets"
     },
     {
-      "title": "Germany's former foreign intelligence chief arrested on suspicion of espionage and attempted treason",
-      "description": "A former head of Germany's foreign intelligence service has been arrested on suspicion of passing state secrets to a foreign intelligence service",
-      "url": "https://abcnews.com/International/wireStory/spy-chief-arrested-germany-suspicion-trading-state-secrets-137025370",
-      "published": "Tue, 06 Oct 2026 22:18:13 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Zambia will sign $3.6 billion health plan with US that won't require sharing of patient data",
       "description": "Zambia plans to sign a revised health agreement with the United States that excludes controversial clauses about sharing patient data and specimens",
       "url": "https://abcnews.com/International/wireStory/zambia-sign-36-billion-health-plan-us-require-137027255",
@@ -1982,31 +1977,6 @@
       "ticker_label": "🪖 Mali: Junta forces retake strategic town of Kidal from separatists"
     },
     {
-      "title": "Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election",
-      "description": "Serbia's election commission has tied overseas voting hours to local time, affecting the Serbian diaspora's ability to vote in the upcoming election later this month",
-      "url": "https://abcnews.com/International/wireStory/serbia-ties-overseas-voting-local-time-move-spark-137026218",
-      "published": "Tue, 06 Oct 2026 06:43:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Serbia ties overseas voting to local time, a move likely to spark backlash ahead of a key election"
-    },
-    {
-      "title": "Vietnamese police arrest 12 suspected of snatching cats for meat",
-      "description": "Police in Vietnam’s Ho Chi Minh City have arrested 12 men suspected of running a ring that stole and resold about 2,700 cats for meat",
-      "url": "https://abcnews.com/International/wireStory/vietnamese-police-arrest-12-suspected-prowling-city-streets-137025998",
-      "published": "Tue, 06 Oct 2026 07:20:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Suspects wanted for stabbing of off-duty NYPD detective are illegal aliens with long criminal histories",
       "description": "Both suspects accused of stabbing off-duty NYPD Detective Jose Mercedes in New York City are illegal immigrants with lengthy criminal records, DHS says.",
       "url": "https://www.foxnews.com/us/suspects-wanted-stabbing-off-duty-nypd-detective-illegal-aliens-long-criminal-histories",
@@ -2127,17 +2097,6 @@
       "description": "Eastern-based parliament votes to replace longtime speaker with Al-Salhin Abdelnabi al-Obeidi.",
       "url": "https://www.aljazeera.com/news/2026/10/7/libyas-parliament-removes-speaker-aguila-saleh-after-12-years?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 05:12:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What Israeli schools teach",
-      "description": "What Israeli schools teach",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
-      "published": "Wed, 07 Oct 2026 04:00:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2371,6 +2330,28 @@
       "is_ticker": false
     },
     {
+      "title": "Former Australian Catholic bishop sentenced for abusing Indigenous men",
+      "description": "A former Australian Catholic bishop has been sentenced to more than six years in prison for sexually abusing two young Indigenous men",
+      "url": "https://abcnews.com/International/wireStory/former-australian-catholic-bishop-sentenced-abusing-indigenous-men-137056174",
+      "published": "Wed, 07 Oct 2026 03:38:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Okinawa governor wants discipline for US military in Japan after murder",
+      "description": "The governor of the southern Japanese island of Okinawa has demanded that the central government do more to ensure discipline among U.S. troops on the southern island following the arrest of a U.S. Marine on accusations that he robbed and murdered a lo...",
+      "url": "https://abcnews.com/International/wireStory/okinawa-governor-discipline-us-military-japan-after-murder-137056445",
+      "published": "Wed, 07 Oct 2026 02:26:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Colombia's president offers support to veterans extradited to US over Haitian leader's killing",
       "description": "Colombian president Abelardo de la Espriella has offered legal assistance to a group of Colombian military veterans who were arrested over the 2021 killing of Haitian president Jovenel Moïse",
       "url": "https://abcnews.com/International/wireStory/colombias-president-offers-support-veterans-extradited-us-haitian-137043837",
@@ -2386,6 +2367,28 @@
       "description": "Spanish Prime Minister Pedro Sánchez has a reputation as a political survivor who relishes the electoral gambit",
       "url": "https://abcnews.com/International/wireStory/pedro-snchezs-bid-turn-spains-housing-crunch-electoral-137040710",
       "published": "Tue, 06 Oct 2026 13:46:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "3 alleged Iranian spies on trial in London for targeting Persian journalists in UK",
+      "description": "British prosecutors say three Iranian spies conducted surveillance on journalists at a London-based Persian news channel critical of Tehran's government",
+      "url": "https://abcnews.com/International/wireStory/3-alleged-iranian-spies-trial-london-targeting-persian-137038710",
+      "published": "Tue, 06 Oct 2026 12:29:38 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What to know as the fighting in Yemen escalates while US-Iran tensions remain high",
+      "description": "Saudi Arabia and its allies in the Yemeni government have launched a military campaign to reclaim territory near the Bab al-Mandeb Strait from Houthi rebels",
+      "url": "https://abcnews.com/International/wireStory/fighting-yemen-escalates-us-iran-tensions-remain-high-137033030",
+      "published": "Tue, 06 Oct 2026 10:01:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
