@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T04:22:10.382446Z",
+  "last_updated": "2026-10-07T04:46:36.860278Z",
   "event_count": 218,
   "events": [
     {
@@ -207,20 +207,6 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Fans flood Buenos Aires ahead of Messi’s final international match",
-      "description": "Thousands of Argentina fans poured into Buenos Aires’ Monumental stadium ahead of Lionel Messi’s final match.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/10-7-messi-fans-flock-clip?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 22:07:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Fans flood Buenos Aires ahead of Messi’s final international match"
     },
     {
       "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
@@ -765,20 +751,6 @@
       "ticker_label": "💥 Kenya confirms its first Ebola death as outbreak spreads"
     },
     {
-      "title": "Houthis, Saudi-led forces claim victories as Yemen fighting rages on",
-      "description": "Saudi Arabia’s Jazan and Najran airports were attacked as Saudi-led gov’t forces launched air strikes on the Houthis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/houthis-saudi-led-forces-claim-victories-as-yemen-fighting-rages-on?traffic_source=rss",
-      "published": "Tue, 06 Oct 2026 21:57:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Houthis, Saudi-led forces claim victories as Yemen fighting rages on"
-    },
-    {
       "title": "Southeast Asia's haze crisis: Have lessons been learned?",
       "description": "Eleven years after catastrophic fires prompted promises of tougher action, Southeast Asia is again choking on transboundary haze, raising questions about whether the region has learned the lessons of 2015.",
       "url": "https://www.dw.com/en/southeast-asia-s-haze-crisis-have-lessons-been-learned/a-79564992?maca=en-rss-en-all-1573-xml-mrss",
@@ -799,20 +771,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Nigerian military plane crash kills all 25 on board",
-      "description": "Rescue teams searched the crash site after the military aircraft went down in southern Nigeria, with everyone on board now confirmed to have died.",
-      "url": "https://www.dw.com/en/nigerian-military-plane-crash-kills-all-25-on-board/a-79552403?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 6 Oct 2026 11:29:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Nigerian military plane crash kills all 25 on board"
     },
     {
       "title": "Russian lab worker’s death sparks plague fears as unverified claims spread online",
@@ -1056,6 +1014,17 @@
       "is_ticker": false
     },
     {
+      "title": "Where is Spain headed after the snap election announcement?",
+      "description": "Prime Minister Pedro Sanchez is taking a gamble by calling an early election in Spain. The housing crisis, migration and the rise of the right-wing populist Vox party are all likely to dominate the campaign.",
+      "url": "https://www.dw.com/en/where-is-spain-headed-after-the-snap-election-announcement/a-79567959?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 7 Oct 2026 04:33:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "EU seeks ways to make expansion more palatable to members",
       "description": "The European Commission has put forward ideas it hopes will both ease the EU expansion process and allay concerns among existing members. Several countries, not least war-torn Ukraine, are among the candidates.",
       "url": "https://www.dw.com/en/eu-seeks-ways-to-make-expansion-more-palatable-to-members/a-79567297?maca=en-rss-en-all-1573-xml-mrss",
@@ -1081,17 +1050,6 @@
       "is_ticker": false
     },
     {
-      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
-      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
-      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
-      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "India opposition parties rally for election chief’s exit over voter list changes",
       "description": "Opposition parties in India are protesting in New Delhi, demanding the resignation of the country's election chief Gyanesh Kumar",
       "url": "https://abcnews.com/International/wireStory/india-opposition-parties-rally-election-chiefs-exit-voter-137024629",
@@ -1103,10 +1061,32 @@
       "is_ticker": false
     },
     {
+      "title": "Nicaragua torture victim imprisoned for second time after being deported by U.S.",
+      "description": "A Nicaraguan exile who was imprisoned and tortured after protesting against that country's government was deported by the U.S. back to his country, where he was immediately imprisoned once again by authorities",
+      "url": "https://abcnews.com/International/wireStory/nicaragua-torture-victim-imprisoned-time-after-deported-us-137020965",
+      "published": "Mon, 05 Oct 2026 20:55:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Former Australian bishop jailed for sexually abusing young men",
       "description": "The former Bishop of Broome is one of the most senior Catholic clerics in the world to face sex abuse charges.",
       "url": "https://www.bbc.co.uk/news/articles/cj62ylxqz173o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 07 Oct 2026 04:04:13 GMT",
+      "published": "Wed, 07 Oct 2026 04:22:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Pornhub returns to Australia but only for adults with Apple devices",
+      "description": "The world's most popular porn site went dark in March in Australia due to age verification laws.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdlzvl9ego?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 07 Oct 2026 04:39:59 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 9,
@@ -1659,6 +1639,17 @@
       "is_ticker": false
     },
     {
+      "title": "Tree nearly as old as US torn down to expand Mexico border wall",
+      "description": "A 200-year-old cottonwood tree has been cut down to make way for a 44-km US-Mexico double border wall despite protests.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/tree-nearly-as-old-as-us-torn-down-to-expand-mexico-border-wall?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 04:20:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "‘We are desperate’: Venezuela’s power cuts fuel growing public anger",
       "description": "Frequent outages have fuelled protests against the government of interim Venezuelan President Delcy Rodriguez.",
       "url": "https://www.aljazeera.com/news/longform/2026/10/6/we-are-desperate-venezuelas-power-cuts-fuel-growing-public-anger?traffic_source=rss",
@@ -2004,18 +1995,18 @@
       "is_ticker": false
     },
     {
-      "title": "OpenAI admits response to Australian government hacks 'not good enough'",
-      "description": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 06 Oct 2026 06:53:17 GMT",
-      "source": "BBC News",
+      "title": "What Israeli schools teach",
+      "description": "What Israeli schools teach",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/7/what-israeli-schools-teach?traffic_source=rss",
+      "published": "Wed, 07 Oct 2026 04:00:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "US stock market hits all-time high as investors bet big on AI",
+      "title": "US stock market hits all-time high as investors continue to bet on AI",
       "description": "The benchmark S&P 500 is up 14 percent this year despite elevated oil prices and US government debt sell-off.",
       "url": "https://www.aljazeera.com/economy/2026/10/7/us-stock-market-hits-all-time-high-as-investors-bet-big-on-ai?traffic_source=rss",
       "published": "Wed, 07 Oct 2026 03:27:20 +0000",
