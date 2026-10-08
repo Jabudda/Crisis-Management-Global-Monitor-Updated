@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T07:27:11.783826Z",
+  "last_updated": "2026-10-08T07:50:38.470141Z",
   "event_count": 218,
   "events": [
     {
@@ -620,8 +620,8 @@
       "ticker_label": "🪖 Saudi Arabia, Pakistan, Turkey: Could the Mecca defense pact become a game changer in the war against the Houthis in Yemen?"
     },
     {
-      "title": "Live: Roughly 6% of France's middle, high schools shut as student protests continue",
-      "description": "France's Ministry of Education on Thursday said an estimated 6 percent of the country's middle and high schools were closed as students prepare for a fourth day of nationwide demonstrations over poor school conditions and funding. More than 6,000 people have been arrested since protests began in late September. Follow our liveblog for the latest updates.",
+      "title": "Live: Roughly 6% of France's middle and high schools shut as student protests continue",
+      "description": "France's Ministry of Education on Thursday said an estimated 6 percent of the country's middle and high schools were closed as students staged a fourth day of nationwide demonstrations over poor school conditions and funding. More than 6,000 people have been arrested since protests began in late September. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/france/20261008-live-students-fourth-round-protests-education-funding-france",
       "published": "Thu, 08 Oct 2026 03:28:21 GMT",
       "source": "France24",
@@ -978,6 +978,17 @@
       "url": "https://www.france24.com/en/americas/20261007-dnc-sues-trump-administration-taxpayer-funded-tv-ads",
       "published": "Wed, 07 Oct 2026 22:27:23 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "A partial building collapse in Istanbul traps at least 7 people, including a child",
+      "description": "A seven-story building in Istanbul has partially collapsed, trapping at least seven people, including a 6-year-old",
+      "url": "https://abcnews.com/International/wireStory/partial-building-collapse-istanbul-traps-7-people-including-137086897",
+      "published": "Thu, 08 Oct 2026 03:44:37 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1422,10 +1433,10 @@
       "is_ticker": false
     },
     {
-      "title": "Nobel Prize in chemistry set to be awarded in Stockholm",
-      "description": "Scientists Henri B",
-      "url": "https://abcnews.com/International/wireStory/nobel-prize-chemistry-set-awarded-stockholm-137057382",
-      "published": "Wed, 07 Oct 2026 23:22:15 -0400",
+      "title": "Nobel Prize in literature to be awarded in Stockholm",
+      "description": "The Nobel Prize in literature will be awarded by the Swedish Academy in Stockholm",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-literature-awarded-stockholm-137086895",
+      "published": "Thu, 08 Oct 2026 03:45:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1433,7 +1444,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Nobel Prize in chemistry set to be awarded in Stockholm"
+      "ticker_label": "🪖 Nobel Prize in literature to be awarded in Stockholm"
     },
     {
       "title": "Iraq devalues its currency as the US war with Iran disrupts oil shipping routes",
@@ -1450,21 +1461,10 @@
       "ticker_label": "🪖 Iraq devalues its currency as the US war with Iran disrupts oil shipping routes"
     },
     {
-      "title": "A British father asks a Cyprus judge to avoid prison after son's fatal hotel fall",
-      "description": "The lawyer for a British man who pleaded guilty to a charge of negligence in the fatal fall of his 3-year-old son from a hotel window in Cyprus has appealed to a judge to avoid a prison sentence",
-      "url": "https://abcnews.com/International/wireStory/british-father-asks-cyprus-judge-avoid-prison-after-137032251",
-      "published": "Tue, 06 Oct 2026 09:22:51 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Spain lifts arrest warrant for Catalan separatist Carles Puigdemont",
-      "description": "Spain has lifted the arrest warrant for Catalan separatist leader Carles Puigdemont, allowing the politician to return home without fear of detention for the first time in nearly a decade",
-      "url": "https://abcnews.com/International/wireStory/spain-lifts-arrest-warrant-catalan-separatist-carles-puigdemont-137029649",
-      "published": "Tue, 06 Oct 2026 09:23:34 -0400",
+      "title": "Nobel Prize in chemistry set to be awarded in Stockholm",
+      "description": "Scientists Henri B",
+      "url": "https://abcnews.com/International/wireStory/nobel-prize-chemistry-set-awarded-stockholm-137057382",
+      "published": "Wed, 07 Oct 2026 23:22:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1472,7 +1472,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Spain lifts arrest warrant for Catalan separatist Carles Puigdemont"
+      "ticker_label": "🪖 Nobel Prize in chemistry set to be awarded in Stockholm"
     },
     {
       "title": "‘Nothing can justify these atrocities,’ says Guterres three years on from 7 October attacks",
@@ -1834,6 +1834,20 @@
       "severity_score": 4,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Eritrean soldiers entered northern Ethiopian towns, government-allied commander says",
+      "description": "A commander allied with Ethiopia’s government reports Eritrean soldiers entered in Adigrat and Idaga Hamus, with military officers conducting surveillance in Idaga Hamus",
+      "url": "https://abcnews.com/International/wireStory/eritrean-soldiers-entered-northern-ethiopian-towns-government-allied-137086855",
+      "published": "Thu, 08 Oct 2026 03:43:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Eritrean soldiers entered northern Ethiopian towns, government-allied commander says"
     },
     {
       "title": "US could play role in united Ireland push after Trump's backing, Irish PM says",
@@ -2360,10 +2374,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mayor of Turkish opposition stronghold defects to Erdogan's party",
-      "description": "A stronghold of Turkey’s opposition has fallen to President Recep Tayyip Erdogan’s ruling party for the first time",
-      "url": "https://abcnews.com/International/wireStory/mayor-turkish-opposition-stronghold-defects-erdogans-party-137059686",
-      "published": "Wed, 07 Oct 2026 08:07:23 -0400",
+      "title": "Deported to Central African Republic, a transgender woman who lived openly in Miami is hiding again",
+      "description": "Daniela Fuentes is a transgender woman from Cuba who's been deported to the Central African Republic as part of a U.S. immigration policy",
+      "url": "https://abcnews.com/International/wireStory/deported-central-african-republic-transgender-woman-lived-openly-137085711",
+      "published": "Thu, 08 Oct 2026 02:02:27 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2371,10 +2385,21 @@
       "is_ticker": false
     },
     {
-      "title": "Deported to Central African Republic, a transgender woman who lived openly in Miami is hiding again",
-      "description": "Daniela Fuentes is a transgender woman from Cuba who's been deported to the Central African Republic as part of a U.S. immigration policy",
-      "url": "https://abcnews.com/International/wireStory/deported-central-african-republic-transgender-woman-lived-openly-137085711",
-      "published": "Thu, 08 Oct 2026 02:02:27 -0400",
+      "title": "Neither Bolsonaro nor Lula: Brazil’s undecided and abstaining voters may determine the election",
+      "description": "Brazilian President Lula da Silva and Sen. Flávio Bolsonaro are both focused on persuading the undecided voters ahead of the Oct. 25 presidential election",
+      "url": "https://abcnews.com/International/wireStory/bolsonaro-lula-brazils-undecided-abstaining-voters-determine-election-137070911",
+      "published": "Wed, 07 Oct 2026 14:04:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Sri Lanka's former first lady is arrested on corruption allegations",
+      "description": "The wife of Sri Lanka’s former powerful President Mahinda Rajapaksa has been arrested and detained on allegations of misusing donations received into her charity when she was first lady",
+      "url": "https://abcnews.com/International/wireStory/sri-lankas-former-lady-arrested-corruption-allegations-137067542",
+      "published": "Wed, 07 Oct 2026 22:18:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2407,43 +2432,10 @@
       "ticker_label": "💥 Man charged in killing of British ex-politician tried to break into Farage's home"
     },
     {
-      "title": "Former Australian Catholic bishop sentenced for abusing Indigenous men",
-      "description": "A former Australian Catholic bishop has been sentenced to more than six years in prison for sexually abusing two young Indigenous men",
-      "url": "https://abcnews.com/International/wireStory/former-australian-catholic-bishop-sentenced-abusing-indigenous-men-137056174",
-      "published": "Wed, 07 Oct 2026 03:38:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Sri Lanka's former first lady is arrested on corruption allegations",
-      "description": "The wife of Sri Lanka’s former powerful President Mahinda Rajapaksa has been arrested and detained on allegations of misusing donations received into her charity when she was first lady",
-      "url": "https://abcnews.com/International/wireStory/sri-lankas-former-lady-arrested-corruption-allegations-137067542",
-      "published": "Wed, 07 Oct 2026 22:18:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election",
-      "description": "Kosovo's lawmakers have elected economist Justina Shiroka Pula as the new president, narrowly avoiding a snap election",
-      "url": "https://abcnews.com/International/wireStory/kosovo-lawmakers-elect-new-president-late-night-vote-137057654",
-      "published": "Wed, 07 Oct 2026 21:54:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Okinawa governor wants discipline for US military in Japan after murder",
-      "description": "The governor of Okinawa has demanded the central government do more to ensure discipline among U.S. troops on the southern Japanese island",
-      "url": "https://abcnews.com/International/wireStory/okinawa-governor-discipline-us-military-japan-after-murder-137056445",
-      "published": "Wed, 07 Oct 2026 21:46:34 -0400",
+      "title": "Mayor of Turkish opposition stronghold defects to Erdogan's party",
+      "description": "A stronghold of Turkey’s opposition has fallen to President Recep Tayyip Erdogan’s ruling party for the first time",
+      "url": "https://abcnews.com/International/wireStory/mayor-turkish-opposition-stronghold-defects-erdogans-party-137059686",
+      "published": "Wed, 07 Oct 2026 08:07:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2462,10 +2454,21 @@
       "is_ticker": false
     },
     {
-      "title": "Neither Bolsonaro nor Lula: Brazil’s undecided and abstaining voters may determine the election",
-      "description": "Brazilian President Lula da Silva and Sen. Flávio Bolsonaro are both focused on persuading the undecided voters ahead of the Oct. 25 presidential election",
-      "url": "https://abcnews.com/International/wireStory/bolsonaro-lula-brazils-undecided-abstaining-voters-determine-election-137070911",
-      "published": "Wed, 07 Oct 2026 14:04:16 -0400",
+      "title": "Kosovo lawmakers elect a new president in a late-night vote to avert snap election",
+      "description": "Kosovo's lawmakers have elected economist Justina Shiroka Pula as the new president, narrowly avoiding a snap election",
+      "url": "https://abcnews.com/International/wireStory/kosovo-lawmakers-elect-new-president-late-night-vote-137057654",
+      "published": "Wed, 07 Oct 2026 21:54:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Former Australian Catholic bishop sentenced for abusing Indigenous men",
+      "description": "A former Australian Catholic bishop has been sentenced to more than six years in prison for sexually abusing two young Indigenous men",
+      "url": "https://abcnews.com/International/wireStory/former-australian-catholic-bishop-sentenced-abusing-indigenous-men-137056174",
+      "published": "Wed, 07 Oct 2026 03:38:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
