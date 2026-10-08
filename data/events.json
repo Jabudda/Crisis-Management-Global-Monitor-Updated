@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T21:41:43.953411Z",
+  "last_updated": "2026-10-08T22:17:20.712163Z",
   "event_count": 223,
   "events": [
     {
@@ -51,20 +51,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health"
-    },
-    {
-      "title": "30 dead in strike on Ukraine bus as Russian attacks intensify",
-      "description": "Thirty people were killed and at least 18 were injured by Russian strikes in eastern Ukraine that included an attack on a public bus, authorities said Thursday, as an intensive pre-winter wave of attacks continued.",
-      "url": "https://www.france24.com/en/video/20261008-30-dead-in-strike-on-ukraine-bus-as-russian-attacks-intensify",
-      "published": "Thu, 08 Oct 2026 13:44:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 30 dead in strike on Ukraine bus as Russian attacks intensify"
     },
     {
       "title": "'Fighting for our future': France high school students vow no let-up",
@@ -312,15 +298,18 @@
       "is_ticker": false
     },
     {
-      "title": "Bear kills man in home attack near Mongolian capital",
-      "description": "Police say the bear entered a traditional nomadic dwelling near Ulaanbaatar, killing a man and seriously injured a woman.",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg79wz9v2yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 11:52:59 GMT",
-      "source": "BBC News",
+      "title": "Federal agents involved in NYC shooting that leaves one person wounded, NYPD says",
+      "description": "A shooting involving federal law enforcement agents in the Marble Hill neighborhood of the Bronx left one person hospitalized Thursday afternoon, according to the NYPD",
+      "url": "https://www.foxnews.com/us/federal-agents-involved-nyc-shooting-leaves-one-person-wounded-nypd-says",
+      "published": "Thu, 08 Oct 2026 17:50:08 -0400",
+      "source": "Fox News US",
       "type": "rss",
-      "severity_score": 20,
+      "severity_score": 21,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Federal agents involved in NYC shooting that leaves one person wounded, NYPD says"
     },
     {
       "title": "French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’",
@@ -374,6 +363,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Nepal ends search for flood victims as family reactions range from anger to relief"
+    },
+    {
+      "title": "A British man is bailed after his arrest in security incident at a US-run military base in England",
+      "description": "Authorities have released a 22-year-old British man on bail after his arrest on suspicion of plotting a terror attack at a U.S.-run military air base in England",
+      "url": "https://abcnews.com/International/wireStory/british-man-bailed-after-arrest-security-incident-us-137089017",
+      "published": "Thu, 08 Oct 2026 07:06:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 A British man is bailed after his arrest in security incident at a US-run military base in England"
     },
     {
       "title": "Testing and monitoring underway in suspected Russia plague death",
@@ -1239,20 +1242,6 @@
       "is_ticker": false
     },
     {
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "description": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 03:02:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Texas carries out first US execution since Christa Pike's botched lethal injections"
-    },
-    {
       "title": "What is the Mecca defence pact?",
       "description": "Saudi Arabia, Turkiye and Pakistan are activating their defence pact to counter attacks from Yemen’s Houthis.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/what-is-the-mecca-defence-pact?traffic_source=rss",
@@ -1309,17 +1298,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award"
-    },
-    {
-      "title": "Syria calls for independent probe into sinking of ship in Black Sea",
-      "description": "Syrian authorities questioned why search and rescue operations were called off before the fate of 10 sailors was known.",
-      "url": "https://www.aljazeera.com/news/2026/10/8/syria-calls-for-independent-probe-into-sinking-of-ship-in-black-sea?traffic_source=rss",
-      "published": "Thu, 08 Oct 2026 17:27:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1409,6 +1387,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 How a multibillion-dollar oilfield has ignited the UK-Argentina feud over the Falklands"
+    },
+    {
+      "title": "Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says",
+      "description": "The Pentagon said the firing squad execution of Fort Hood shooter Nidal Malik Hasan would be livestreamed on December 3. Defense Secretary Pete Hegseth said Wednesday the execution would be public. Hasan was convicted of killing 13 people and injuring 32 in a 2009 shooting at the Texas military base.",
+      "url": "https://www.france24.com/en/americas/20261008-fort-hood-shooter-firing-squad-execution-livestreamed-pentagon",
+      "published": "Thu, 08 Oct 2026 22:01:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Fort Hood shooter’s firing squad execution to be livestreamed, Pentagon says"
     },
     {
       "title": "Trump envoys, European officials to discuss ‘new ideas’ for Ukraine peace in Miami",
@@ -1707,6 +1699,17 @@
       "is_ticker": false
     },
     {
+      "title": "What Man City charges anger Liverpool before Premier League game?",
+      "description": "Clubs reportedly want reimbursements after Man City charges - one of those, Liverpool, are first opponent in fallout.",
+      "url": "https://www.aljazeera.com/sports/2026/10/8/liverpool-vs-manchester-city-what-premier-league-charges-grate-reds-most?traffic_source=rss",
+      "published": "Thu, 08 Oct 2026 21:49:30 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1741,20 +1744,6 @@
       "severity_score": 4,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Eritrean soldiers entered northern Ethiopian towns, government-allied commander says",
-      "description": "A commander allied with Ethiopia’s government reports Eritrean soldiers entered in Adigrat and Idaga Hamus, with military officers conducting surveillance in Idaga Hamus",
-      "url": "https://abcnews.com/International/wireStory/eritrean-soldiers-entered-northern-ethiopian-towns-government-allied-137086855",
-      "published": "Thu, 08 Oct 2026 03:43:18 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Eritrean soldiers entered northern Ethiopian towns, government-allied commander says"
     },
     {
       "title": "US could play role in united Ireland push after Trump's backing, Irish PM says",
@@ -1867,54 +1856,24 @@
       "is_ticker": false
     },
     {
+      "title": "Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says",
+      "description": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 21:55:22 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says"
+    },
+    {
       "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
       "description": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections.",
       "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 15:02:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
-      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
-      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 17:38:59 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 12:32:12 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
-      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
-      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 17:16:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Zambia signs US health deal after disputes over data-sharing",
-      "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 16:24:05 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1933,10 +1892,32 @@
       "is_ticker": false
     },
     {
-      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 08 Oct 2026 15:21:46 GMT",
+      "title": "Venezuela's ex-leader Nicolás Maduro charged with conspiracy to commit torture",
+      "description": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 17:38:59 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "'Bold and inventive' Canadian poet Anne Carson wins Nobel Literature Prize",
+      "description": "Carson, 76, is celebrated for works that often cross boundaries between poetry, fiction and scholarship.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1j54nepyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 14:33:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US deportations to African countries unlawful and exploit suffering, rights group says",
+      "description": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data.",
+      "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 17:16:32 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1948,6 +1929,39 @@
       "description": "Known for his intense performances, Patekar carved out a distinctive place in Indian cinema.",
       "url": "https://www.bbc.co.uk/news/articles/cj3vqr5rknpeo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 08 Oct 2026 20:38:11 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
+      "description": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 12:32:12 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Zambia signs US health deal after disputes over data-sharing",
+      "description": "The US will provide $1.5bn (£1.1bn) under the deal that was negotiated after Trump cut USAID funding.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09eyk0g8no?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 16:24:05 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+      "description": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 08 Oct 2026 15:21:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2599,17 +2613,6 @@
       "description": "Holly Leeann Flores faces attempted murder charges after allegedly stabbing her two children and husband in their Northlake, Texas, home.",
       "url": "https://www.foxnews.com/us/mom-alleged-stabbing-spree-husband-toddler-10-month-old-baby",
       "published": "Thu, 08 Oct 2026 06:00:17 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "FIRST ON FOX: US Coast Guard recruits largest class in nearly 40 years, beats goals for third straight year",
-      "description": "The Coast Guard enlisted 5,445 active-duty members in fiscal year 2026, its largest class in nearly four decades as Force Design aims to add 15,000.",
-      "url": "https://www.foxnews.com/us/us-coast-guard-recruits-largest-class-nearly-40-years-beats-goals-third-straight-year",
-      "published": "Wed, 07 Oct 2026 20:58:34 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
