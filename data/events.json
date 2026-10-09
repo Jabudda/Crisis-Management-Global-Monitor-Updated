@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T15:16:45.043344Z",
+  "last_updated": "2026-10-09T15:43:16.166883Z",
   "event_count": 222,
   "events": [
     {
@@ -73,15 +73,18 @@
       "ticker_label": "🌪️ World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health"
     },
     {
-      "title": "Lufthansa, Indian airlines suspend Riyadh service after explosions hit Saudi capital",
-      "description": "Airlines like Lufthansa and Air India have temporarily suspended flights to Saudi Arabia's capital after explosions were reported Thursday, including a large blast at Riyadh's international airport",
-      "url": "https://abcnews.com/International/wireStory/lufthansa-indian-airlines-suspend-riyadh-service-after-explosions-137108326",
-      "published": "Thu, 08 Oct 2026 15:46:32 -0400",
-      "source": "ABC News International",
+      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
+      "description": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
+      "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 9 Oct 2026 15:20:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 31,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Eritrean troops in Ethiopia raise fears of a regional war"
     },
     {
       "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
@@ -99,7 +102,7 @@
     },
     {
       "title": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
-      "description": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza Nobel peace prize – latest updates The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
+      "description": "Committee recognises work of South African who chaired UN commission that concluded Israel was guilty of genocide in Gaza The Nobel peace prize has been awarded to Navi Pillay, the South African former UN human rights chief who chaired the UN commission that concluded Israel was guilty of genocide in Gaza . The Norwegian Nobel committee said Pillay, who is serving as a judge at the international court of justice (ICJ), has “shown that legal measures can help prevent acts of war and violence”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize",
       "published": "Fri, 09 Oct 2026 11:24:10 GMT",
       "source": "The Guardian World",
@@ -193,18 +196,15 @@
       "ticker_label": "🪖 Ethiopia launches drone attack against Eritrean troops who crossed into Tigray"
     },
     {
-      "title": "Russian strikes kill 2 in Ukraine as Kyiv struggles to counter Russian attacks",
-      "description": "Russian strikes killed two people and wounded five more across Ukraine, officials said Friday, as Ukraine struggles to counter escalating Russian bombardments that have killed more than 50 people over the past three days",
-      "url": "https://abcnews.com/International/wireStory/russian-strikes-kill-2-ukraine-kyiv-struggles-counter-137121911",
-      "published": "Fri, 09 Oct 2026 05:49:43 -0400",
-      "source": "ABC News International",
+      "title": "Falling test scores in schools startle EU countries: Why are standards going down?",
+      "description": "It has been dubbed \"the PISA shock\". Countries that had been used to their school pupils performing well in test scores are seeing a plunge in standards. The PISA test is an international assessment led by the Organisation for Economic Co-operation and Development (OECD), which measures how well 15‑year‑olds in over 80 countries apply reading, mathematics and science skills to real‑world problems. In the latest rankings, France's results were the worst it has ever had, and Germany's school pupils got their worst PISA report card too.",
+      "url": "https://www.france24.com/en/tv-shows/talking-europe/20261009-falling-test-scores-in-schools-startle-eu-countries-why-are-standards-going-down",
+      "published": "Fri, 09 Oct 2026 15:03:42 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian strikes kill 2 in Ukraine as Kyiv struggles to counter Russian attacks"
+      "is_ticker": false
     },
     {
       "title": "Residents of Ukraine's Kramatorsk forced to flee as drone strikes intensify",
@@ -421,20 +421,6 @@
       "is_ticker": false
     },
     {
-      "title": "Eritrea and Ethiopia accuse each other of provoking war as Tigray rebels retreat",
-      "description": "Ethiopia and Eritrea on Friday accused each other of starting a \"war of agresson\" days after the two countries severed diplomatic ties. Ethiopian officals estimate that up to 8,000 Eritrean soldiers are present in Tigray supporting rebels who last month launched attacks against federal forces.",
-      "url": "https://www.france24.com/en/africa/20261009-eritrea-ethiopia-accuse-each-other-of-provoking-war-as-tigray-rebels-retreat",
-      "published": "Fri, 09 Oct 2026 11:36:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Eritrea and Ethiopia accuse each other of provoking war as Tigray rebels retreat"
-    },
-    {
       "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
       "description": "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.",
       "url": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
@@ -461,20 +447,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’"
-    },
-    {
-      "title": "Ukraine, Europe, US to meet in Miami for talks on ending war",
-      "description": "Officials from Ukraine, Europe and the US are meeting in Miami to discuss ways to break the deadlock in the war. The meeting comes as Russian strikes on Ukraine killed more than 70 people this week.",
-      "url": "https://www.dw.com/en/ukraine-europe-us-to-meet-in-miami-for-talks-on-ending-war/a-79606735?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Oct 2026 03:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine, Europe, US to meet in Miami for talks on ending war"
     },
     {
       "title": "Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain",
@@ -517,6 +489,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sierra Leone: From 'blood diamonds' to stones of hope?"
+    },
+    {
+      "title": "A British man is bailed after his arrest in security incident at a US-run military base in England",
+      "description": "Authorities have released a 22-year-old British man on bail after his arrest on suspicion of plotting a terror attack at a U.S.-run military air base in England",
+      "url": "https://abcnews.com/International/wireStory/british-man-bailed-after-arrest-security-incident-us-137089017",
+      "published": "Thu, 08 Oct 2026 07:06:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 A British man is bailed after his arrest in security incident at a US-run military base in England"
     },
     {
       "title": "15-year-old arrested after attack at Polish school that left 1 dead, 2 wounded",
@@ -694,10 +680,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ethiopia warns Eritrea it will defend itself after troops cross border",
+      "title": "Ethiopia and Eritrea accuse each other of starting conflict after troops cross border",
       "description": "Truckloads of Eritrean soldiers have been seen driving into Ethiopia, which has reportedly responded with drone strikes.",
       "url": "https://www.bbc.co.uk/news/articles/c65ynvw250y1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 09 Oct 2026 13:31:07 GMT",
+      "published": "Fri, 09 Oct 2026 15:24:43 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 14,
@@ -705,32 +691,18 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ethiopia warns Eritrea it will defend itself after troops cross border"
+      "ticker_label": "🪖 Ethiopia and Eritrea accuse each other of starting conflict after troops cross border"
     },
     {
-      "title": "‘Is it April fool’s?’ Navi Pillay reacts to Nobel Peace Prize news",
-      "description": "International judge Navi Pillay was applauded by colleagues as she gave her first public reaction to her Peace Prize.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/is-it-april-fools-navi-pillay-reacts-to-nobel-peace-prize-news?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 11:07:52 +0000",
+      "title": "US sanctions International Criminal Court itself in latest escalation",
+      "description": "Latest action seeks to stem resources to international tribunal Trump administration has vowed to dismantle.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/us-sanctions-international-criminal-court-itself-in-latest-escalation?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 15:08:30 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Is Trump signalling a return to war with Iran after the midterms?",
-      "description": "US media reports suggest he may be weighing strikes before the vote, but the president has ruled that out.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/is-trump-signalling-a-return-to-war-with-iran-after-the-midterms?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 10:40:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Is Trump signalling a return to war with Iran after the midterms?"
     },
     {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
@@ -813,6 +785,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay",
+      "description": "Advocates of human rights and international justice cheered, even as Israeli officials fumed, after South African jurist and former UN human rights chief Navi Pillay won the Nobel Peace Prize on Friday. The 85-year-old drew wide praise for decades of work, including investigating crimes in Rwanda, Israel and the occupied Palestinian territories.",
+      "url": "https://www.france24.com/en/europe/20261009-israel-a-rare-dissenting-voice-as-praise-pours-in-for-nobel-peace-prize-winner-navi-pillay",
+      "published": "Fri, 09 Oct 2026 15:20:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Israel a rare dissenting voice as praise pours in for Nobel Peace Prize winner Navi Pillay"
+    },
+    {
       "title": "Four astronauts return to Earth after eight months in space",
       "description": "An astronaut crew that carried out an eight-month mission aboard the International Space Station splashed down as planned Thursday off the coast of California. During the mission, Sophie Adenot became the first French female astronaut to venture outside the space station for a spacewalk. In all, she undertook three spacewalks on August 18 and 25, and September 1.",
       "url": "https://www.france24.com/en/video/20261009-four-astronauts-return-to-earth-after-eight-months-in-space",
@@ -839,28 +825,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Morocco and Senegal await AFCON final verdict after arbitration hearing"
-    },
-    {
-      "title": "Navi Pillay wins the Nobel Peace Prize for her work in international justice",
-      "description": "The South African-born jurist and former UN human rights chief Navi Pillay, who is currently an ad hoc judge at the International Court of Justice, won the Nobel Peace Prize on Friday for her efforts to promote peace and international law. Her win is sure to be seen as a high-profile rebuke to US President Trump and Israeli Prime Minister Benjamin Netanyahu, who have both rejected the findings of a UN commission she led that Israel committed genocide in Gaza. Both leaders also have been highly critical of the institutions where Pillay has worked. FRANCE 24's International Affairs Editor Philip Turle tells us more.",
-      "url": "https://www.france24.com/en/video/20261009-navi-pillay-wins-the-nobel-peace-prize-for-her-work-in-international-justice",
-      "published": "Fri, 09 Oct 2026 11:31:02 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Vehicles torched in South Africa as protests over asylum ruling rage on",
-      "description": "Clashes between South African and foreign nationals in Soweto have led to nine vehicles being set on fire",
-      "url": "https://abcnews.com/International/wireStory/vehicles-torched-south-africa-protests-asylum-ruling-rage-137105122",
-      "published": "Thu, 08 Oct 2026 16:18:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Reform, or lose trust: Governments press the UN to reflect the world as it is",
@@ -1062,20 +1026,6 @@
       "is_ticker": false
     },
     {
-      "title": "South Korea to recall its ambassador to Ukraine over North Korean POW dispute",
-      "description": "South Korea says it will recall its ambassador to Ukraine, stepping up its protest of Ukraine President Volodymyr Zelenskyy’s recent revelation of a supposedly secret transfer of two North Korean prisoners of war to South Korea",
-      "url": "https://abcnews.com/International/wireStory/south-korea-recall-ambassador-ukraine-north-korean-pow-137089285",
-      "published": "Thu, 08 Oct 2026 07:06:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 South Korea to recall its ambassador to Ukraine over North Korean POW dispute"
-    },
-    {
       "title": "Afghanistan: Women face fresh dress code arrests amid record refugee returns",
       "description": "Afghan women and girls are being arrested, detained and threatened with arrest by Taliban authorities, the UN warned on Thursday as record numbers of returnees struggle to rebuild their lives back home.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168551",
@@ -1229,18 +1179,15 @@
       "is_ticker": false
     },
     {
-      "title": "Former Prince Andrew awarded $400,000 compensation after surrendering Windsor lease",
-      "description": "The Crown Estate says ex-Prince Andrew has been awarded 302,000 pounds in compensation after surrendering his lease on Royal Lodge",
-      "url": "https://abcnews.com/International/wireStory/former-prince-andrew-awarded-400000-compensation-after-surrendering-137122622",
-      "published": "Fri, 09 Oct 2026 06:54:58 -0400",
+      "title": "A partial building collapse in Istanbul traps at least 7 people, including a child",
+      "description": "A seven-story building in Istanbul has partially collapsed, killing two and trapping at least two other people",
+      "url": "https://abcnews.com/International/wireStory/partial-building-collapse-istanbul-traps-7-people-including-137086897",
+      "published": "Thu, 08 Oct 2026 05:46:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Former Prince Andrew awarded $400,000 compensation after surrendering Windsor lease"
+      "is_ticker": false
     },
     {
       "title": "‘No plague case’ in Siberia, Russia tells WHO as assessments continue",
@@ -1404,18 +1351,15 @@
       "is_ticker": false
     },
     {
-      "title": "Two German officials shot dead during routine gun inspection in Bavaria; suspect arrested after overnight standoff",
-      "description": "A routine inspection of legally owned firearms turned deadly in Bavaria. Police spent hours negotiating with an armed suspect before storming his home. Follow DW for more.",
-      "url": "https://www.dw.com/en/two-german-officials-shot-dead-during-routine-gun-inspection-in-bavaria-suspect-arrested-after-overnight-standoff/live-79607225?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Oct 2026 05:40:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Police fire tear gas at a barricaded Paris school as protests show no sign of ending",
+      "description": "Students in northeastern Paris gathered Thursday to protest outside a high school, with police responding using tear gas",
+      "url": "https://abcnews.com/International/wireStory/police-fire-tear-gas-barricaded-high-school-paris-137088376",
+      "published": "Thu, 08 Oct 2026 14:26:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Two German officials shot dead during routine gun inspection in Bavaria; suspect arrested after overnight standoff"
+      "is_ticker": false
     },
     {
       "title": "World News in Brief: Child migrants in Europe, Greenland forced contraception scandal, FAO hunger updates",
@@ -1576,20 +1520,6 @@
       "is_ticker": false
     },
     {
-      "title": "'The Blue Fighter': Zimbabwean author Kundizeza wins 2026 Caine Prize",
-      "description": "A big win for Zimbabwean literature: Harare-based author Simbarashe Steyn Kundizeza has claimed the 2026 Caine Prize for African Writing for his short story \"The Blue Fighter\". The award is given to the best short story by an African writer published in English and comes with a £10,000 pounds cash prize. FRANCE 24's Sharon Mazingaizo met with the writer.",
-      "url": "https://www.france24.com/en/video/20261009-the-blue-fighter-zimbabwean-writer-kundizeza-wins-2026-caine-prize",
-      "published": "Fri, 09 Oct 2026 11:27:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'The Blue Fighter': Zimbabwean author Kundizeza wins 2026 Caine Prize"
-    },
-    {
       "title": "And the Nobel Peace Prize goes to...",
       "description": "Navanethem \"Navi\" Pillay, a South African jurist and former UN high commissioner for human rights, has been awarded the 2026 Nobel Peace Prize.",
       "url": "https://news.sky.com/story/former-un-human-rights-chief-navi-pillay-wins-the-nobel-peace-prize-13596724",
@@ -1629,10 +1559,10 @@
       "is_ticker": false
     },
     {
-      "title": "Stigma, funding cuts and the Iran war put contraception out of reach for Africa’s girls",
-      "description": "Zimbabwean teenager Kelly Nhedega once dreamed of finishing school and starting a career before having a family",
-      "url": "https://abcnews.com/International/wireStory/stigma-funding-cuts-iran-war-put-contraception-reach-137119599",
-      "published": "Fri, 09 Oct 2026 01:22:08 -0400",
+      "title": "Ukraine grapples with a shortage of troops at the front after over 4 years of war",
+      "description": "A shortage of combat-ready troops has plagued Ukraine ever since Russia's full-scale invasion in 2022",
+      "url": "https://abcnews.com/International/wireStory/ukraine-grapples-shortage-troops-front-after-4-years-137087565",
+      "published": "Thu, 08 Oct 2026 05:30:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1640,7 +1570,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Stigma, funding cuts and the Iran war put contraception out of reach for Africa’s girls"
+      "ticker_label": "🪖 Ukraine grapples with a shortage of troops at the front after over 4 years of war"
     },
     {
       "title": "Former UN human rights chief Navi Pillay awarded Nobel Peace Prize",
@@ -1936,6 +1866,20 @@
       "is_ticker": false
     },
     {
+      "title": "Eritrean soldiers entered northern Ethiopian towns, government-allied commander says",
+      "description": "A commander allied with Ethiopia’s government reports Eritrean soldiers entered in Adigrat and Idaga Hamus, with military officers conducting surveillance in Idaga Hamus",
+      "url": "https://abcnews.com/International/wireStory/eritrean-soldiers-entered-northern-ethiopian-towns-government-allied-137086855",
+      "published": "Thu, 08 Oct 2026 03:43:18 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Eritrean soldiers entered northern Ethiopian towns, government-allied commander says"
+    },
+    {
       "title": "US could play role in united Ireland push after Trump's backing, Irish PM says",
       "description": "Irish Prime Minister Micheál Martin said the United States could potentially help in a future push for a united Ireland after Trump backed it.",
       "url": "https://www.foxnews.com/world/us-could-play-role-united-ireland-push-after-trumps-backing-irish-pm-says",
@@ -1991,6 +1935,17 @@
       "is_ticker": false
     },
     {
+      "title": "Man City charges: How Premier League reacted – United, Arsenal, Liverpool",
+      "description": "After Manchester City were found guilty of Premier League breaches, rival managers give their reaction as games resume.",
+      "url": "https://www.aljazeera.com/sports/2026/10/9/man-city-charges-how-premier-league-reacted-man-utd-arsenal-liverpool?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 15:09:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Man City case causing ‘uncertainty’ for whole Premier League, says Iraola",
       "description": "Liverpool's Andoni Iraola looks to Manchester City clash and rival's appeal over guilty verdict for financial breaches.",
       "url": "https://www.aljazeera.com/sports/2026/10/9/man-city-case-causing-uncertainty-for-whole-premier-league-says-iraola?traffic_source=rss",
@@ -2036,7 +1991,7 @@
     },
     {
       "title": "Voting to begin in local elections in the Czech Republic",
-      "description": "The vote is being seen as a test of popularity for the Andrej Babis government.",
+      "description": "The vote is being seen as a test of popularity for Prime Minister Andrej Babis's government.",
       "url": "https://www.dw.com/en/voting-to-begin-in-local-elections-in-the-czech-republic/a-79612365?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Oct 2026 11:34:00 GMT",
       "source": "Deutsche Welle",
@@ -2044,6 +1999,20 @@
       "severity_score": 2,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality",
+      "description": "We bring you all the latest from Paris Fashion Week. For Weinsanto, audacity is about finding a lightness, as embodied by the LGBTQ+ community. At Issey Miyake, it's about sensuality rooted in the Japanese concept of Ma, the space that bridges the gap between fabric and skin. It's a similar story at Yohji Yamamoto who, at 83, is still on the hunt for emotions.",
+      "url": "https://www.france24.com/en/tv-shows/fashion/20261009-2027-spring-summer-ready-to-wear-collections-audacity-movement-and-sensuality",
+      "published": "Fri, 09 Oct 2026 15:26:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 2027 spring-summer ready-to-wear collections: Audacity, movement and sensuality"
     },
     {
       "title": "Callum Turner's new film sparkles at Dinard Film Festival",
@@ -2184,6 +2153,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump’s planned DC arch faces new lawsuit",
+      "description": "A Virginia county governing board filed the suit, claiming that planning for the monument near DC was rushed.",
+      "url": "https://www.aljazeera.com/news/2026/10/9/trumps-planned-dc-arch-faces-new-lawsuit?traffic_source=rss",
+      "published": "Fri, 09 Oct 2026 15:04:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "US to livestream Fort Hood shooter’s execution: Is that legal?​",
       "description": "Rights groups and legal experts say the move could endanger minors, who are usually barred from witnessing executions.",
       "url": "https://www.aljazeera.com/news/2026/10/9/us-to-livestream-fort-hood-shooters-execution-is-that?traffic_source=rss",
@@ -2224,17 +2204,6 @@
       "description": "The US is suspending top tech firms, including Microsoft, from a key programme to sponsor foreign workers’ green cards.",
       "url": "https://www.aljazeera.com/news/2026/10/9/indentured-servants-us-green-card-move-will-hit-thousands-of-it-workers?traffic_source=rss",
       "published": "Fri, 09 Oct 2026 11:08:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Labour fends off the Green party in closely watched UK by-election",
-      "description": "Sagal Abdi-Wali won by 3,300 votes in the London seat of Holborn and St Pancras.",
-      "url": "https://www.aljazeera.com/news/2026/10/9/labour-fends-off-the-green-party-in-closely-watched-uk-by-election?traffic_source=rss",
-      "published": "Fri, 09 Oct 2026 10:56:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2429,6 +2398,17 @@
       "is_ticker": false
     },
     {
+      "title": "Franco-German relations: Steinmeier and Macron say their farewells and create a new momentum for Europe",
+      "description": "Presidents Frank-Walter Steinmeier and Emmanuel Macron are about to step down from their offices. Their meeting in France made it clear how urgently the Franco-German partnership needs new momentum.",
+      "url": "https://www.dw.com/en/franco-german-relations-steinmeier-and-macron-say-their-farewells-and-create-a-new-momentum-for-europe/a-79618635?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 9 Oct 2026 15:17:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Art for freedom: Maria Kalesnikava in Bonn",
       "description": "The Belarusian musician and civil rights activist Maria Kalesnikava held the keynote speech on the importance of art at the 2026 Beethovenfest in Bonn. She also visited DW.",
       "url": "https://www.dw.com/en/art-for-freedom-maria-kalesnikava-in-bonn/a-79612009?maca=en-rss-en-all-1573-xml-mrss",
@@ -2501,10 +2481,10 @@
       "ticker_label": "💥 Russia denies second case of 'plague' as WHO seeks to verify"
     },
     {
-      "title": "UK's Labour wins a special election that puts Green Party leader under pressure",
-      "description": "Britain’s Labour Party has won a special election in London, defeating the Green Party's leader",
-      "url": "https://abcnews.com/International/wireStory/uks-labour-wins-london-special-election-puts-green-137120637",
-      "published": "Fri, 09 Oct 2026 04:06:45 -0400",
+      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
+      "description": "South Korea has flight-tested its first domestically developed hypersonic weapon",
+      "url": "https://abcnews.com/International/wireStory/south-korea-test-flies-domestically-developed-hypersonic-weapon-137090542",
+      "published": "Thu, 08 Oct 2026 07:54:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2512,24 +2492,10 @@
       "is_ticker": false
     },
     {
-      "title": "A US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech",
-      "description": "A U.S. charity in Gaza is worried that teachers at its schools might stray from a curriculum it says promotes peace and tolerance",
-      "url": "https://abcnews.com/International/wireStory/us-charity-plans-ai-monitor-gaza-classrooms-hateful-137119694",
-      "published": "Fri, 09 Oct 2026 01:20:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 A US charity plans to use AI to monitor its Gaza classrooms for 'hateful' speech"
-    },
-    {
-      "title": "Trial in killings of 3 foreign surfers in Mexico nears verdict",
-      "description": "The trial of three men accused of killing two Australian brothers and their American friend during a 2024 surfing trip to Mexico has entered its final stage",
-      "url": "https://abcnews.com/International/wireStory/trial-killings-3-foreign-surfers-mexico-nears-verdict-137113737",
-      "published": "Thu, 08 Oct 2026 18:40:46 -0400",
+      "title": "Deported to Central African Republic, a transgender woman who lived openly in Miami is hiding again",
+      "description": "Daniela Fuentes is a transgender woman from Cuba who's been deported to the Central African Republic as part of a U.S. immigration policy",
+      "url": "https://abcnews.com/International/wireStory/deported-central-african-republic-transgender-woman-lived-openly-137085711",
+      "published": "Thu, 08 Oct 2026 05:46:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2548,10 +2514,32 @@
       "is_ticker": false
     },
     {
-      "title": "South Korea test-flies its first domestically developed hypersonic weapon",
-      "description": "South Korea has flight-tested its first domestically developed hypersonic weapon",
-      "url": "https://abcnews.com/International/wireStory/south-korea-test-flies-domestically-developed-hypersonic-weapon-137090542",
-      "published": "Thu, 08 Oct 2026 07:54:33 -0400",
+      "title": "Australian bishop acknowledges 8-year delay in justice in Indigenous abuse case but defends process",
+      "description": "A top Australian Catholic bishop has acknowledged the eight-year delay in bringing a fellow bishop to justice on charges he sexually abused young Indigenous men",
+      "url": "https://abcnews.com/International/wireStory/australian-bishop-acknowledges-8-year-delay-justice-indigenous-137132658",
+      "published": "Fri, 09 Oct 2026 11:24:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Myanmar's military-backed leader seeks closer ties on visit to Malaysia as he pivots to diplomacy",
+      "description": "Myanmar's military-backed leader, Min Aung Hlaing, is focusing on diplomacy and bilateral cooperation during his visit to Malaysia",
+      "url": "https://abcnews.com/International/wireStory/myanmars-military-backed-leader-seeks-closer-ties-visit-137086659",
+      "published": "Thu, 08 Oct 2026 08:38:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UK's Labour wins a special election that puts Green Party leader under pressure",
+      "description": "Britain’s Labour Party has won a special election in London, defeating the Green Party's leader",
+      "url": "https://abcnews.com/International/wireStory/uks-labour-wins-london-special-election-puts-green-137120637",
+      "published": "Fri, 09 Oct 2026 04:06:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
