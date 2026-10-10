@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T20:41:37.253826Z",
+  "last_updated": "2026-10-10T21:16:00.400430Z",
   "event_count": 224,
   "events": [
     {
@@ -15,20 +15,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Amid heartache of Nepal flooding disaster, fear remains"
-    },
-    {
-      "title": "Hurricane Isaias leaves two dead and 800,000 without power in US Southeast",
-      "description": "Storm damage stretches across Florida and Alabama as officials warn of continued flooding and possible tornadoes.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/hurricane-isaias-leaves-two-dead-and-800000-without-power-in-us-southeast?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 15:45:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 42,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Hurricane Isaias leaves two dead and 800,000 without power in US Southeast"
     },
     {
       "title": "War in Ukraine: Russian strikes kill 15, including a young girl",
@@ -129,6 +115,20 @@
       "ticker_label": "🌪️ Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital"
     },
     {
+      "title": "At least two killed, multiple people wounded in attack on Riyadh airport",
+      "description": "At least two people were killed in an attack on Riyadh's King Khalid International Airport on Saturday, including an Egyptian flight attendant, according to a medical source at a local hospital. Earlier this week, another attack on the airport by the Houthis killed three people and damaged a plane, though the Iran-backed group did not announce any new attacks on Saturday.",
+      "url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+      "published": "Sat, 10 Oct 2026 18:03:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ At least two killed, multiple people wounded in attack on Riyadh airport"
+    },
+    {
       "title": "World News in Brief: Russian attacks continue in Ukraine, Gazans shelter in flood-prone areas, keeping sight of eye health",
       "description": "UN human rights chief Volker Türk said on Thursday he was appalled by a wave of attacks that have killed civilians across Ukraine over the past four days.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168557",
@@ -155,20 +155,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Strong earthquakes shake Panama, buildings damaged"
-    },
-    {
-      "title": "Riyadh airport suspends operations after attack leaves multiple people wounded",
-      "description": "Saudi authorities on Saturday said that they had suspended operations at Riyadh's King Khalid International Airport after a new attack there left multiple people wounded. An attack on the airport by the Houthis on Thursday killed three people and damaged a plane, though the Iran-backed group did not announce any new attacks on Saturday.",
-      "url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
-      "published": "Sat, 10 Oct 2026 18:03:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Riyadh airport suspends operations after attack leaves multiple people wounded"
     },
     {
       "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
@@ -479,6 +465,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Damage seen inside Saudi airport after third attack this week",
+      "description": "Video shows damage inside King Khalid International Airport in Riyadh after the third attack in a week.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/damage-seen-inside-saudi-airport-after-third-attack-this-week?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 20:43:19 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -849,20 +846,6 @@
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Eritrea urges UN to intervene in standoff with Ethiopia",
-      "description": "The neighbouring countries blame one another for starting war amid heightened tensions and fears of a wider conflict.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/eritrea-urges-un-to-intervene-in-standoff-with?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 16:41:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Eritrea urges UN to intervene in standoff with Ethiopia"
     },
     {
       "title": "Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region",
@@ -1453,10 +1436,10 @@
       "ticker_label": "🪖 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
       "description": "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal.",
       "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 14:16:50 GMT",
+      "published": "Sat, 10 Oct 2026 20:51:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1464,7 +1447,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Russian glide bomb attack on Zaporizhzhia kills at least 15 people"
+      "ticker_label": "💥 Russian glide bomb attack on Zaporizhzhia kills at least 20 people"
     },
     {
       "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
@@ -2098,6 +2081,31 @@
       "is_ticker": false
     },
     {
+      "title": "Philippines volcano erupts, creating 6km-high ash cloud",
+      "description": "Mount Kanlaon volcano in central Philippines erupted on Saturday sending thick plumes of smoke and ash.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/philippines-volcano-erupts-creating-6km-high-ash-cloud?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 20:37:17 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Philippines volcano erupts, creating 6km-high ash cloud"
+    },
+    {
+      "title": "Rubio pledges US cooperation in Marine-linked murder case",
+      "description": "A US Marine stationed on Okinawa has been arrested on suspicion of killing a 39-year-old woman.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/rubio-pledges-us-cooperation-in-marine-linked-murder-case?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 20:30:36 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Manchester United held by ten-man Tottenham as woes for both continue",
       "description": "Ten-man Tottenham fight back from a goal behind to draw 1-1 at Manchester United in the Premier League.",
       "url": "https://www.aljazeera.com/sports/2026/10/10/manchester-united-held-by-ten-man-tottenham-as-woes-for-both-continue?traffic_source=rss",
@@ -2124,17 +2132,6 @@
       "description": "US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
       "published": "Sat, 10 Oct 2026 18:50:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump Accounts: Free money, but who gets a say?",
-      "description": "Trump Accounts promise children a financial head start. Al Jazeera’s Emma Withrow spoke with one parent.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-accounts-free-money-but-who-gets-a-say?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 15:21:39 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2310,7 +2307,7 @@
       "title": "M 6.6 - 14 km W of Río Grande, Panama",
       "description": "PAGER - YELLOW ShakeMap - VIII DYFI? - VII Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
-      "published": "2026-10-10T20:32:13.791Z",
+      "published": "2026-10-10T21:09:05.458Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2332,7 +2329,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-10T20:36:45.011Z",
+      "published": "2026-10-10T21:01:17.516Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
