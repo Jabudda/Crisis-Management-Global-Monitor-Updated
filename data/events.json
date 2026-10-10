@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T17:38:48.553953Z",
+  "last_updated": "2026-10-10T18:21:20.194435Z",
   "event_count": 224,
   "events": [
     {
@@ -143,6 +143,31 @@
       "ticker_label": "🌪️ Strong earthquakes shake Panama, buildings damaged"
     },
     {
+      "title": "Riyadh airport suspends operations after attack leaves multiple people wounded",
+      "description": "Saudi authorities on Saturday said that they had suspended operations at Riyadh's King Khalid International Airport after a new attack there left multiple people wounded. An attack on the airport by the Houthis on Thursday killed three people and damaged a plane, though the Iran-backed group did not announce any new attacks on Saturday.",
+      "url": "https://www.france24.com/en/middle-east/20261010-riyadh-airport-suspends-operations-after-attack-leaves-multiple-people-wounded",
+      "published": "Sat, 10 Oct 2026 18:03:32 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Riyadh airport suspends operations after attack leaves multiple people wounded"
+    },
+    {
+      "title": "Attack on airport in Saudi capital, Riyadh, leaves several injured",
+      "description": "Operations suspended at King Khalid International Airport after another attack this week, Civil Aviation Authority says.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/attack-on-airport-in-saudi-capital-riyadh-leaves-several-injured?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 18:08:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Wildfires threaten Indonesia's orangutans as rescuers find injured animals",
       "description": "Wildfires sweeping across Indonesia’s Borneo island have left endangered orangutans struggling to survive",
       "url": "https://abcnews.com/International/wireStory/wildfires-threaten-indonesias-orangutans-rescuers-find-injured-animals-137155487",
@@ -155,20 +180,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Wildfires threaten Indonesia's orangutans as rescuers find injured animals"
-    },
-    {
-      "title": "Eritrean troops in Ethiopia raise fears of a regional war",
-      "description": "Ethiopia and Eritrea are trading blame for confrontations in Tigray amid international calls for restraint. Their respective allies have the potential to catapult the conflict into a regional war.",
-      "url": "https://www.dw.com/en/eritrean-troops-in-ethiopia-raise-fears-of-a-regional-war/a-79615065?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Oct 2026 15:20:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Eritrean troops in Ethiopia raise fears of a regional war"
     },
     {
       "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
@@ -308,17 +319,6 @@
       "ticker_label": "🪖 Critical funding gap threatens health response in Yemen"
     },
     {
-      "title": "Saudi capital airport has been attacked again, officials say",
-      "description": "King Khalid International Airport has been targeted multiple times this week.",
-      "url": "https://abcnews.com/International/wireStory/airport-saudi-capital-attacked-officials-137158067",
-      "published": "Sat, 10 Oct 2026 10:05:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police",
       "description": "Masked agitators clashed with riot police in Brussels as thousands of others marched against Belgium's austerity measures and cost of living crisis.",
       "url": "https://www.foxnews.com/world/thousands-flood-brussels-streets-anti-austerity-protests-erupt-clashes-police",
@@ -331,6 +331,34 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Thousands flood Brussels streets as anti-austerity protests erupt into clashes with police"
+    },
+    {
+      "title": "Nine killed in shooting in US state of Pennsylvania, including two children",
+      "description": "The shooting in Erie, Pennsylvania happened on Friday, according to state officials. The attacker is among the dead.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 17:48:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Nine killed in shooting in US state of Pennsylvania, including two children"
+    },
+    {
+      "title": "Missile strikes passenger terminal at Riyadh airport, many wounded",
+      "description": "King Khalid International Airport has been targeted multiple times this week.",
+      "url": "https://abcnews.com/International/wireStory/airport-saudi-capital-attacked-officials-137158067",
+      "published": "Sat, 10 Oct 2026 13:57:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Missile strikes passenger terminal at Riyadh airport, many wounded"
     },
     {
       "title": "Global trade reaches record $35 trillion despite conflicts",
@@ -501,6 +529,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope says death penalty ‘inadmissible’ as US plans to livestream execution",
+      "description": "Pope Leo XIV describes capital punishment as an 'attack on the inviolability and dignity of the person' in post on X.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/pope-says-death-penalty-inadmissible-as-us-plans-to-livestream-execution?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 17:38:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -681,15 +720,18 @@
       "ticker_label": "🪖 India detains thousands, locks down Delhi to foil election chief protest"
     },
     {
-      "title": "Severe injuries at French student protests draw scrutiny to police tactics",
-      "description": "Twenty-four investigations have been opened by French police watchdog IGPN into incidents linked to the ongoing high school protest movement, the interior ministry said. The police response has reignited calls to scrap rubber bullets and launcher-fired riot-control weapons, long denounced by rights groups and UN experts as dangerous and excessive.",
-      "url": "https://www.france24.com/en/france/20261010-injuries-french-student-protests-draw-scrutiny-to-police-tactics",
-      "published": "Sat, 10 Oct 2026 10:20:54 GMT",
-      "source": "France24",
+      "title": "Unnerved Panamanians sleep in streets as aftershocks rattle quake-hit towns",
+      "description": "Residents in rural Panama are dealing with aftershocks following two powerful earthquakes that hit the country on Friday",
+      "url": "https://abcnews.com/International/wireStory/unnerved-panamanians-sleep-streets-aftershocks-rattle-quake-hit-137161589",
+      "published": "Sat, 10 Oct 2026 13:54:30 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Unnerved Panamanians sleep in streets as aftershocks rattle quake-hit towns"
     },
     {
       "title": "Nine people killed in Pennsylvania shooting; suspected gunman found dead: report",
@@ -806,20 +848,6 @@
       "ticker_label": "🌪️ Indonesia accused of ‘gross negligence’ in wildfires lawsuit as haze tests region"
     },
     {
-      "title": "Hunger and malnutrition stalk Gazans, a year on from ceasefire",
-      "description": "Every day, Gazan mother Niyaha al-Masri spends six exhausting hours or more queueing at a community kitchen in the hope of getting some food for her family. It has been a year since a ceasefire between Hamas and Israel was supposed to allow food to flood into the ruined territory, yet widespread hunger persists there.",
-      "url": "https://www.france24.com/en/video/20261010-hunger-and-malnutrition-stalk-gazans-a-year-on-from-ceasefire",
-      "published": "Sat, 10 Oct 2026 11:00:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Hunger and malnutrition stalk Gazans, a year on from ceasefire"
-    },
-    {
       "title": "Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest",
       "description": "IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S. Army.",
       "url": "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
@@ -930,17 +958,6 @@
       "url": "https://www.dw.com/en/mexico-court-finds-three-men-guilty-of-murder-of-australian-us-surfers/a-79624125?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 10 Oct 2026 02:21:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Navanethem 'Navi' Pillay wins the Nobel Peace Prize",
-      "description": "Former UN human rights chief Navanethem \"Navi\" Pillay, a judge at the International Court of Justice, won the Nobel Peace Prize on Friday in Oslo, Norway.",
-      "url": "https://www.france24.com/en/video/20261010-navanethem-navi-pillay-wins-the-nobel-peace-prize",
-      "published": "Sat, 10 Oct 2026 09:25:54 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -1258,17 +1275,6 @@
       "is_ticker": false
     },
     {
-      "title": "India’s ‘Cockroach’ leaders detained; New Delhi in lockdown",
-      "description": "Indian police crackdown appears to have prevented mass protests against the country's election chief from taking place.",
-      "url": "https://www.aljazeera.com/news/2026/10/10/indias-cockroach-leaders-detained-new-delhi-in-lockdown?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 12:50:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
       "description": "Dozens of CIA officers have been afflicted by debilitating symptoms over the past decade. Are they the result of ‘mass hysteria’? Or are they from attacks with an energy weapon and, if so, who is responsible? And has there been a cover-up? Shortly after 1am one night in April 2019, a CIA officer on a work trip to London was jolted awake in his hotel room by the most intense head pain he had ever experienced. His body was soaked with sweat and he felt like his eyes were spinning in their sockets. He manoeuvred his way out of bed, hoping to make it to the bathroom to vomit, but found his sense of balance had deserted him. Eventually, he fell back into a fitful, shallow sleep. The next day, arriving at the work meeting he had travelled for, the officer found he could not remember the names of colleagues in the room, people he knew well. As the meeting got under way, he could barely follow the discussion. Initially, he chalked it up to a terrible – if rather odd – case of food poisoning. But over subsequent weeks, worrying symptoms persisted: brain fog, loss of balance and increasingly harsh tinnitus. Continue reading...",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
@@ -1335,17 +1341,6 @@
       "url": "https://www.france24.com/en/video/20261010-kenya-ebola-tests-negative-as-contact-tracing-continues",
       "published": "Sat, 10 Oct 2026 16:10:53 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "India’s young return to streets as anger against election chief and Modi grows",
-      "description": "India’s youth “Cockroach” movement is set to hold fresh protests in the capital New Delhi, intensifying a campaign against a voter list revision",
-      "url": "https://abcnews.com/International/wireStory/indias-young-return-streets-anger-election-chief-modi-137151181",
-      "published": "Sat, 10 Oct 2026 00:22:11 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
@@ -1435,7 +1430,7 @@
       "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
       "description": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
       "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 17:31:24 GMT",
+      "published": "Sat, 10 Oct 2026 18:01:18 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1571,6 +1566,20 @@
       "is_ticker": false
     },
     {
+      "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
+      "description": "President Trump has criticized Volodymyr Zelenskyy for not making a deal with Russia to end the Ukraine war. Trump also warned Kyiv against targeting Russian oil refineries that will supply the US with diesel fuel.",
+      "url": "https://www.dw.com/en/trump-slams-zelenskyy-says-ukraine-should-elect-new-president/a-79629740?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 10 Oct 2026 17:48:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Trump slams Zelenskyy, says Ukraine should elect new president"
+    },
+    {
       "title": "Trump names new press secretary to succeed Karoline Leavitt",
       "description": "Trump has appointed Katie Zacharia to take over the White House press secretary role vacated by Karoline Leavitt. She assumes the role with Trump struggling with low approval ratings driven by the US war with Iran.",
       "url": "https://www.dw.com/en/trump-names-new-press-secretary-to-succeed-karoline-leavitt/a-79623824?maca=en-rss-en-all-1573-xml-mrss",
@@ -1583,6 +1592,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump names new press secretary to succeed Karoline Leavitt"
+    },
+    {
+      "title": "🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20261010-live-russian-strikes-on-ukraine-zaporizhzhia-kill-least-seven-including-children",
+      "published": "Sat, 10 Oct 2026 17:39:46 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 🔴 Live: Trump lashes out at Zelensky, says Ukraine needs new president who will agree to end war"
     },
     {
       "title": "October 7 scars push Israel's first-time voters to right",
@@ -1625,6 +1648,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Gang of masked men stole £4.2m worth of red wine from Italy"
+    },
+    {
+      "title": "Man attacked by tiger after entering enclosure at England wildlife park",
+      "description": "The tigers remained inside the enclosure and there was no danger to the public.",
+      "url": "https://abcnews.com/International/wireStory/man-attacked-tiger-after-entering-enclosure-wildlife-park-137161794",
+      "published": "Sat, 10 Oct 2026 14:08:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Police detain dozens and check 50,000 schools after 2 attacks shake Poland",
@@ -1755,6 +1789,17 @@
       "ticker_label": "🚨 Public executions in the US stopped nearly a century ago -  why are they resuming now?"
     },
     {
+      "title": "Video shows rare albino Asian black bear",
+      "description": "A rare albino Asian black bear was captured on camera in China’s Shennongjia National Park",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/video-shows-rare-albino-asian-black-bear?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 17:37:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Christa Pike discharged from hospital and returned to Tennessee prison",
       "description": "Pike survived two doses of lethal-injection drugs on September 30, renewing scrutiny of capital punishment.",
       "url": "https://www.aljazeera.com/news/2026/10/10/christa-pike-discharged-from-hospital-and-returned-to-tennessee-prison?traffic_source=rss",
@@ -1793,39 +1838,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 10 Oct 2026 12:28:51 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-      "description": "India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov't march.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 13:23:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-      "description": "Rubio says threats to Western civilisation today 'every bit as real as they were on the dramatic stage of antiquity'.",
-      "url": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 13:09:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
-      "description": "Max Verstappen's sprint race win was ​Dutchman's first of any kind in Singapore as he finished ahead of Lewis Hamilton.",
-      "url": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 13:08:35 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -2047,7 +2059,7 @@
       "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
       "description": "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month.",
       "url": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 16:30:21 GMT",
+      "published": "Sat, 10 Oct 2026 17:44:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2289,7 +2301,7 @@
       "title": "M 6.0 - 7 km N of La Tronosa, Panama",
       "description": "PAGER - YELLOW ShakeMap - VIII DYFI? - VI Time 2026-10-10 04:14:01 UTC 2026-10-10 04:14:01 UTC at epicenter Location 7.507°N 80.599°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1cf",
-      "published": "2026-10-10T16:27:25.144Z",
+      "published": "2026-10-10T18:10:38.732Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2300,7 +2312,7 @@
       "title": "M 6.6 - 14 km W of Río Grande, Panama",
       "description": "PAGER - YELLOW ShakeMap - VIII DYFI? - VII Time 2026-10-09 20:25:39 UTC 2026-10-09 20:25:39 UTC at epicenter Location 7.718°N 81.469°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u19w",
-      "published": "2026-10-10T17:37:32.040Z",
+      "published": "2026-10-10T18:01:14.420Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2322,7 +2334,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-10T17:30:05.098Z",
+      "published": "2026-10-10T18:07:50.793Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2426,6 +2438,17 @@
       "url": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 9 Oct 2026 17:09:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution",
+      "description": "Christa Pike's lawyers on Saturday said that the 50-year-old convicted murderer has been discharged from the hospital and returned to prison. Pike was transported to the hospital in critical condition on September 30 after she survived Tennessee's botched effort to execute her for murdering a classmate when she was a teenager.",
+      "url": "https://www.france24.com/en/americas/20261010-convicted-murderer-christa-pike-leaves-hospital-returns-to-prison-after-botched-execution",
+      "published": "Sat, 10 Oct 2026 17:41:10 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2560,17 +2583,6 @@
       "description": "Britain’s Labour Party has won a special election in London, defeating the Green Party's leader",
       "url": "https://abcnews.com/International/wireStory/uks-labour-wins-london-special-election-puts-green-137120637",
       "published": "Fri, 09 Oct 2026 04:06:45 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mahmoud Abbas postpones Palestinian legislative elections another year",
-      "description": "Palestinians won't head to the polls next month to vote on reviving a dissolved parliament",
-      "url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596",
-      "published": "Sat, 10 Oct 2026 09:33:53 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
