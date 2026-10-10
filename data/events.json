@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T22:40:37.985560Z",
+  "last_updated": "2026-10-10T23:16:07.953709Z",
   "event_count": 223,
   "events": [
     {
@@ -59,20 +59,6 @@
       "ticker_label": "🪖 War in Ukraine: Russian strikes kill 15, including a young girl"
     },
     {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "description": "The US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 10 Oct 2026 21:27:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 40,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Several injured in attack on airport in Saudi capital Riyadh"
-    },
-    {
       "title": "Hurricane Isaias makes landfall in Florida",
       "description": "US weather authorities are warning of \"life-threatening\" storm surges on the Gulf Coast due to the Category 2 hurricane. Extreme winds, rising water levels and possible tornadoes are also on the radar.",
       "url": "https://www.dw.com/en/hurricane-isaias-makes-landfall-in-florida/a-79624148?maca=en-rss-en-all-1573-xml-mrss",
@@ -88,7 +74,7 @@
     },
     {
       "title": "Falling international student numbers create ‘massive problems’ for Australian universities, expert warns",
-      "description": "Immigration debate and visa uncertainty is putting students off and increasing pressure on budgets Get our breaking news email , free app or daily news podcast University leaders warn they’re struggling to fill international student places due to visa uncertainty and heated political debate on immigration, with regional areas hit the hardest and concern that financial deficits could affect domestic students. The latest numbers from the Department of Education in October show on average universities are filling just two-thirds of their allocated places, and just five public universities have reached more than 80% capacity, all in capital cities. Continue reading...",
+      "description": "Immigration debate and visa uncertainty are putting students off and increasing pressure on budgets Get our breaking news email , free app or daily news podcast University leaders warn they’re struggling to fill international student places due to visa uncertainty and heated political debate on immigration, with regional areas hit the hardest amid concern that financial deficits could affect domestic students. The latest numbers from the Department of Education in October show on average universities are filling just two-thirds of their allocated places, and just five public universities have reached more than 80% capacity, all in capital cities. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
       "published": "Sat, 10 Oct 2026 19:00:05 GMT",
       "source": "The Guardian World",
@@ -252,6 +238,20 @@
       "ticker_label": "🪖 ICJ judge Navi Pillay wins Nobel peace prize for promoting international law"
     },
     {
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "description": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 10 Oct 2026 22:40:56 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Twelve killed in attack on airport in Saudi capital Riyadh"
+    },
+    {
       "title": "Yemen says advancing against Houthis around key Bab al-Mandab strait",
       "description": "Yemen said Saturday that forces were advancing against the Houthis around the Bab al-Mandab strait, a week after the country's Saudi-backed government announced that it was initiating a counter-offensive to take back territory seized by the pro-Iran group during last month's lightning offensive. In Riyadh, diplomatic sources reported a missile attack on the civilian airport, with at least five Saudi nationals wounded being treated in intensive care.",
       "url": "https://www.france24.com/en/middle-east/20261010-yemen-says-forces-made-advances-against-houthis-around-key-waterway",
@@ -264,6 +264,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Yemen says advancing against Houthis around key Bab al-Mandab strait"
+    },
+    {
+      "title": "Saudi authorities say 3 killed in attacks on Riyadh airport claimed by Houthi rebels",
+      "description": "Saudi Arabia's General Authority of Civil Aviation reports that three Saudi citizens were killed and several other people wounded in two attacks Thursday",
+      "url": "https://abcnews.com/International/wireStory/saudi-authorities-3-killed-attacks-riyadh-airport-claimed-137120636",
+      "published": "Fri, 09 Oct 2026 04:07:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Saudi authorities say 3 killed in attacks on Riyadh airport claimed by Houthi rebels"
     },
     {
       "title": "‘Overshoot is not a reason to surrender’: UN calls for accelerated climate action ahead of COP31 summit",
@@ -363,6 +377,17 @@
       "url": "https://www.npr.org/2026/10/09/g-s1-147295/russia-lab-death-pneumonia-plague",
       "published": "Fri, 09 Oct 2026 12:43:45 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Prison riot in Mexico's violence-plagued Sinaloa state kills 10 and leaves 16 injured",
+      "description": "Mexican officials say a deadly riot broke out during family visiting hours at a prison in the violence-plagued state of Sinaloa",
+      "url": "https://abcnews.com/International/wireStory/prison-riot-mexicos-violence-plagued-sinaloa-state-kills-137118270",
+      "published": "Fri, 09 Oct 2026 01:40:14 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
@@ -547,34 +572,6 @@
       "ticker_label": "🪖 French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’"
     },
     {
-      "title": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-      "description": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 18:38:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Palestinians still being killed in Gaza, one year into ‘ceasefire’"
-    },
-    {
-      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
-      "description": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza 'ceasefire' anniversary.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-      "published": "Sat, 10 Oct 2026 18:26:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Photos: Thousands march across Europe to demand end to Israel’s war on Gaza"
-    },
-    {
       "title": "Protests against voter roll revisions rock capital of world's largest democracy",
       "description": "Parts of the capital city of India, the world's largest democracy, are on lockdown. Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.",
       "url": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
@@ -584,20 +581,6 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Wildfires in Brazil’s Amazonas state worsen air quality in Manaus",
-      "description": "Smoke from fires in Brazil's Amazonas state is disrupting life in Manaus, the Amazon's largest city",
-      "url": "https://abcnews.com/International/wireStory/wildfires-brazils-amazonas-state-worsen-air-quality-manaus-137144994",
-      "published": "Fri, 09 Oct 2026 17:18:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Wildfires in Brazil’s Amazonas state worsen air quality in Manaus"
     },
     {
       "title": "Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain",
@@ -696,7 +679,7 @@
     },
     {
       "title": "Nine people killed in Pennsylvania shooting; suspected gunman found dead: report",
-      "description": "Erie Police Chief Rick Lorah called the Perry Street mass shooting the worst scene he has encountered in nearly three decades of law enforcement.",
+      "description": "Erie Police Chief Rick Lorah called the Perry Street mass shooting the worst crime he has encountered in nearly three decades of law enforcement.",
       "url": "https://www.foxnews.com/us/multiple-people-killed-pennsylvania-shooting-suspected-gunman-found-dead-report",
       "published": "Sat, 10 Oct 2026 08:57:28 -0400",
       "source": "Fox News US",
@@ -729,6 +712,20 @@
       "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Heavy rain batters Chile’s capital, sweeping away cars and flooding homes",
+      "description": "Heavy rains have triggered mudslides in Chile’s capital, Santiago, sweeping cars through streets and flooding homes and hospitals",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-batters-chiles-capital-sweeping-cars-flooding-137118360",
+      "published": "Fri, 09 Oct 2026 02:43:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Heavy rain batters Chile’s capital, sweeping away cars and flooding homes"
     },
     {
       "title": "Darfur: Healthcare needs outstrip resources as Security Council extends Sudan sanctions",
@@ -889,17 +886,6 @@
       "is_ticker": false
     },
     {
-      "title": "Brazilian police kill suspect who held 13 children at knifepoint in school",
-      "description": "Brazilian police have killed a suspect who held at least 13 children at knifepoint in a school of the city of Curitiba, in the country’s south",
-      "url": "https://abcnews.com/International/wireStory/brazilian-police-kill-suspect-held-13-children-knifepoint-137147217",
-      "published": "Fri, 09 Oct 2026 18:30:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Inside the protest playbook to vilify Israel on 'global day of action'",
       "description": "Global Alliance for Palestine distributed a detailed playbook urging groups to shut down city squares and blockade corporate hubs across continents.",
       "url": "https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel",
@@ -1003,20 +989,6 @@
       "is_ticker": false
     },
     {
-      "title": "UAE: Omani Flydubai co-pilot planned suicide attack",
-      "description": "A Flydubai co-pilot planned to crash a Dubai-Tel Aviv flight into the terminal at Israel's Ben Gurion Airport, according to a UAE official.",
-      "url": "https://www.dw.com/en/uae-omani-flydubai-co-pilot-planned-suicide-attack/a-79621960?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Oct 2026 18:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ UAE: Omani Flydubai co-pilot planned suicide attack"
-    },
-    {
       "title": "Midterms: \"It does look like the Republicans will lose control of the House of Representatives\"",
       "description": "Most of the political world is focused on next month's midterm elections in the US. \"It does look like the Republicans will lose control of the House of Representatives,\" says our guest, Bruce Stokes, a visiting senior fellow at the German Marshall Fund of the United States.",
       "url": "https://www.france24.com/en/video/20261010-midterms-it-does-look-like-the-republicans-will-lose-control-of-the-house-of-representatives",
@@ -1056,20 +1028,6 @@
       "ticker_label": "✈️ Flydubai hijacker planned to crash aircraft in 9/11-inspired attack, UAE says"
     },
     {
-      "title": "Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border",
-      "description": "A drone strike blamed on Sudan's paramilitaries has killed 41 displaced people near the Ethiopian border",
-      "url": "https://abcnews.com/International/wireStory/rights-group-paramilitary-drone-strike-sudan-killed-41-137155407",
-      "published": "Sat, 10 Oct 2026 07:26:29 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Rights group says paramilitary drone strike in Sudan killed 41 near Ethiopian border"
-    },
-    {
       "title": "Drone strike in Sudan kills 40, Lebanon welcomes US flight ban lift, and other Mideast developments",
       "description": "A drone strike in Sudan has killed at least 40 people, including children, according to a rights group",
       "url": "https://abcnews.com/International/wireStory/drone-strike-sudan-kills-40-lebanon-welcomes-us-137154846",
@@ -1084,10 +1042,10 @@
       "ticker_label": "✈️ Drone strike in Sudan kills 40, Lebanon welcomes US flight ban lift, and other Mideast developments"
     },
     {
-      "title": "At least 38 people hurt after supermarket ceiling collapses in South Korea",
-      "description": "At least 38 people sustained minor injuries after parts of a plaster ceiling collapsed at a supermarket in South Korea’s Daegu city",
-      "url": "https://abcnews.com/International/wireStory/38-people-hurt-after-supermarket-ceiling-collapses-south-137152246",
-      "published": "Sat, 10 Oct 2026 00:23:14 -0400",
+      "title": "Australian shark attack survivor says he hit at the predator's eye in an effort to fight it off",
+      "description": "Shark attack survivor Mel Ismail jabbed at the eye of the predator that severed his leg in an effort to fight it off before struggling back to shore, the surfer and professional firefighter said in an interview that revealed new details of his near-dea...",
+      "url": "https://abcnews.com/International/wireStory/australian-shark-attack-survivor-hit-predators-eye-effort-137115353",
+      "published": "Fri, 09 Oct 2026 01:30:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1275,17 +1233,6 @@
       "is_ticker": false
     },
     {
-      "title": "India’s young return to streets as anger against election chief and Modi grows",
-      "description": "India’s youth “Cockroach” movement is set to hold fresh protests in the capital New Delhi, intensifying a campaign against a voter list revision",
-      "url": "https://abcnews.com/International/wireStory/indias-young-return-streets-anger-election-chief-modi-137151181",
-      "published": "Sat, 10 Oct 2026 00:22:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Philadelphia police officer killed, partner shot 12 times in ambush; suspect found hiding in tree",
       "description": "Philadelphia Police Officer Shane Seiber, a 40-year-old father of two, was killed. His partner was shot 12 times after the officers were ambushed while responding to a report of an armed man.",
       "url": "https://www.foxnews.com/us/philadelphia-police-officers-shot-15-times-combined-ambush-attack-suspect-found-hiding-tree",
@@ -1427,6 +1374,17 @@
       "is_ticker": false
     },
     {
+      "title": "WHO says no plague case registered after Russian lab worker’s death",
+      "description": "The WHO says the lack of a confirmed diagnosis remains a key uncertainty, with no sign of ongoing transmission.",
+      "url": "https://www.aljazeera.com/news/2026/10/10/who-says-no-plague-case-registered-after-russian-lab-workers-death?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 22:34:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Yemeni government’s military says its forces advancing against Houthis",
       "description": "Saudi-backed forces say 1,150 Houthis killed in operations against the Iran-aligned group over the past 24 hours.",
       "url": "https://www.aljazeera.com/news/2026/10/10/yemeni-governments-military-says-its-forces-advancing-against-houthis?traffic_source=rss",
@@ -1553,6 +1511,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Storm Isaias leaves 4 dead as it moves across southern US",
+      "description": "The storm, which is now a post-tropical cyclone, had made landfall near Destin, Florida on Friday evening. The storm brings heavy rainfall and powerful winds and has caused mass power outages in Florida and Alabama.",
+      "url": "https://www.dw.com/en/storm-isaias-leaves-4-dead-as-it-moves-across-southern-us/a-79630125?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 10 Oct 2026 23:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Storm Isaias leaves 4 dead as it moves across southern US"
     },
     {
       "title": "Trump slams Zelenskyy, says Ukraine should elect new president",
@@ -1819,28 +1791,6 @@
       "is_ticker": false
     },
     {
-      "title": "Chinese court sentenced former mayor of Wuhan city to 14 years in prison for bribery",
-      "description": "A former Chinese mayor of a central Chinese city plagued by the coronavirus outbreak more than six years ago has been sentenced to 14 years in prison for corruption",
-      "url": "https://abcnews.com/International/wireStory/chinese-court-sentenced-former-mayor-wuhan-city-14-137155735",
-      "published": "Sat, 10 Oct 2026 09:34:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Taiwan's Lai says the island will not give up freedom in National Day speech",
-      "description": "Lai drew Beijing's criticism, accusing him of disregarding facts.",
-      "url": "https://abcnews.com/International/wireStory/taiwans-lai-calls-indo-pacific-democracies-maintain-peace-137152984",
-      "published": "Sat, 10 Oct 2026 09:43:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Unrest erupts in New York City after illegal immigrant shot by ICE agent and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/unrest-erupts-new-york-city-after-illegal-immigrant-shot-ice-agent-more-top-headlines",
@@ -2030,6 +1980,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Liverpool vs Man City: the top five clashes between Premier League giants",
+      "description": "Liverpool face Manchester City on Sunday in what has become a battle between the EPL's dominant teams in recent times.",
+      "url": "https://www.aljazeera.com/sports/2026/10/10/liverpool-vs-man-city-top-5-battles-premier-league-matches-head-to-head?traffic_source=rss",
+      "published": "Sat, 10 Oct 2026 22:43:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2348,7 +2309,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - RED ShakeMap - IX DYFI? - IX Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-10T22:37:00.092Z",
+      "published": "2026-10-10T23:10:21.290Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2411,6 +2372,17 @@
       "is_ticker": false
     },
     {
+      "title": "Palestinian president postpones elections until late 2027",
+      "description": "Palestinian President Mahmoud Abbas previously committed to holding legislative elections in November 2026. He said that due to \"obstacles ⁠posed by Israeli measures\" the vote would be pushed back until late next year.",
+      "url": "https://www.dw.com/en/palestinian-president-postpones-elections-until-late-2027/a-79630075?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 10 Oct 2026 22:54:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "'Ragebait' is the 2026 German Youth Word of the Year",
       "description": "Already named the 2025 Oxford Word of the Year, \"rage bait\" has also been widely adopted in German slang.",
       "url": "https://www.dw.com/en/ragebait-is-the-2026-german-youth-word-of-the-year/a-79608158?maca=en-rss-en-all-1573-xml-mrss",
@@ -2445,17 +2417,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Trump weighs livestream execution amid bipartisan backlash"
-    },
-    {
-      "title": "China, EU reach deal to 'moderate' China's car exports to EU",
-      "description": "An agreement between the EU and China would reduce exports of Chinese electric and plug-in hybrid cars to the 27-member European bloc by up to 50%, according to the EU trade envoy.",
-      "url": "https://www.dw.com/en/china-eu-reach-deal-to-moderate-china-s-car-exports-to-eu/a-79621394?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 9 Oct 2026 17:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Convicted murderer Christa Pike leaves hospital, returns to prison after botched execution",
@@ -2524,6 +2485,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ethiopia tells UN it is acting in self-defense against Eritrea",
+      "description": "Ethiopia has told the United Nations Security Council it is taking self-defense measures against Eritrea",
+      "url": "https://abcnews.com/International/wireStory/ethiopia-tells-acting-defense-eritrea-137153814",
+      "published": "Sat, 10 Oct 2026 03:41:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "The ruling party of the populist Czech prime minister leads in 1st round of Senate election",
       "description": "Prime Minister Andrej Babiš's political group is leading in the Czech Republic’s first round of Senate elections",
       "url": "https://abcnews.com/International/wireStory/ruling-party-populist-czech-prime-minister-leads-1st-137164001",
@@ -2535,10 +2507,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mahmoud Abbas postpones Palestinian legislative elections another year",
-      "description": "Palestinians won't head to the polls next month to vote on reviving a dissolved parliament",
-      "url": "https://abcnews.com/International/wireStory/mahmoud-abbas-postpones-palestinian-legislative-elections-year-137157596",
-      "published": "Sat, 10 Oct 2026 09:33:53 -0400",
+      "title": "Thieves pull off Italy's biggest-ever wine heist, stealing 30,000 bottles worth 5 million euros",
+      "description": "Thieves have stolen about 30,000 bottles of premium wine worth an estimated 5 million euros from a Marchesi Antinori winery in Tuscany in what the company says is the largest wine theft in Italy’s history",
+      "url": "https://abcnews.com/International/wireStory/thieves-pull-off-italys-biggest-wine-heist-stealing-137137884",
+      "published": "Fri, 09 Oct 2026 13:49:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2557,10 +2529,21 @@
       "is_ticker": false
     },
     {
-      "title": "Ethiopia tells UN it is acting in self-defense against Eritrea",
-      "description": "Ethiopia has told the United Nations Security Council it is taking self-defense measures against Eritrea",
-      "url": "https://abcnews.com/International/wireStory/ethiopia-tells-acting-defense-eritrea-137153814",
-      "published": "Sat, 10 Oct 2026 03:41:33 -0400",
+      "title": "Australian bishop acknowledges 8-year delay in justice in Indigenous abuse case but defends process",
+      "description": "A top Australian Catholic bishop has acknowledged the eight-year delay in bringing a fellow bishop to justice on charges he sexually abused young Indigenous men",
+      "url": "https://abcnews.com/International/wireStory/australian-bishop-acknowledges-8-year-delay-justice-indigenous-137132658",
+      "published": "Fri, 09 Oct 2026 11:24:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Haiti police say US missionary detained following sex abuse allegations at orphanage",
+      "description": "Haitian police tells The Associated Press that a U.S. missionary accused of running an illegal orphanage in Haiti has been detained following child abuse allegations",
+      "url": "https://abcnews.com/International/wireStory/haiti-police-us-missionary-detained-sex-abuse-allegations-137140499",
+      "published": "Fri, 09 Oct 2026 14:17:38 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2582,6 +2565,17 @@
       "ticker_label": "💥 Jean Massillon, a Haitian mayor known for defending the people of Kenscoff, has died"
     },
     {
+      "title": "UK's Labour wins a special election that puts Green Party leader under pressure",
+      "description": "Britain’s Labour Party has won a special election in London, defeating the Green Party's leader",
+      "url": "https://abcnews.com/International/wireStory/uks-labour-wins-london-special-election-puts-green-137120637",
+      "published": "Fri, 09 Oct 2026 04:06:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "UN rights chief: Legacy of slavery and colonialism is still fuelling racism",
       "description": "The legacy of enslavement and colonialism continues to shape the lives of Africans and people of African descent, UN human rights chief Volker Türk said on Thursday, calling for urgent action to deliver reparatory justice beyond financial compensation.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168554",
@@ -2593,7 +2587,7 @@
       "is_ticker": false
     },
     {
-      "title": "Letitia James faces new push to boot her from Cornell rape probe over alleged bias: court docs",
+      "title": "Letitia James faces new push to boot her from Cornell rape probe over alleged bias: court documents",
       "description": "A defense lawyer argues New York Attorney General Letitia James prejudged the Cornell University rape case and asks Tompkins County court to remove her.",
       "url": "https://www.foxnews.com/us/letitia-james-faces-new-push-boot-cornell-rape-probe-alleged-bias-court-docs",
       "published": "Sat, 10 Oct 2026 12:13:39 -0400",
