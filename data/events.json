@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T13:52:28.656249Z",
+  "last_updated": "2026-10-13T14:21:33.764108Z",
   "event_count": 225,
   "events": [
     {
@@ -527,7 +527,7 @@
       "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
       "description": "Eleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
       "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 13 Oct 2026 13:17:58 GMT",
+      "published": "Tue, 13 Oct 2026 14:06:27 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 16,
@@ -535,15 +535,18 @@
       "is_ticker": false
     },
     {
-      "title": "Murder investigation launched after man, woman and two children killed in house fire",
-      "description": "A murder investigation into a house fire in Waterford has been launched after two children and two adults were killed.",
+      "title": "Murder investigation after man, woman and two children killed in house fire",
+      "description": "A murder investigation has been launched after two children and two adults died in a house fire in Waterford.",
       "url": "https://news.sky.com/story/number-of-people-dead-after-house-fire-in-waterford-13598691",
       "published": "Tue, 13 Oct 2026 10:25:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Murder investigation after man, woman and two children killed in house fire"
     },
     {
       "title": "Ukraine received no intelligence from partners on incoming missile strike on Kyiv",
@@ -618,6 +621,17 @@
       "url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss",
       "published": "Tue, 13 Oct 2026 12:25:00 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Flying foxes in NSW and Victoria face mass starvation amid food shortages",
+      "description": "Rescuers respond to surge in callouts for the vulnerable bat species, which usually feeds on blossoms and tree nectar Get our breaking news email , free app or daily news podcast Flying foxes are starving en masse across New South Wales and parts of Victoria, with wildlife rescuers responding to a surge in reports of “exhausted and emaciated” adults and skeletal pups. Most reports involved grey-headed flying foxes, listed as vulnerable under federal environment laws and which usually feed on the blossoms and nectar of native trees. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/oct/14/flying-foxes-in-nsw-and-victoria-face-mass-starvation-amid-food-shortages",
+      "published": "Tue, 13 Oct 2026 14:00:06 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
@@ -819,6 +833,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
+      "description": "Experts say there is no evidence that Russian trolls have been affected by Ukraine’s Yandex attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9y7l0pm8jkko?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 13 Oct 2026 13:27:31 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Is Zelensky right to say data centre strikes have taken down Russian bots?"
     },
     {
       "title": "Trump’s use of Russian diesel fuel, at Ukraine’s expense, sparks controversy in the US",
@@ -1481,17 +1509,6 @@
       "is_ticker": false
     },
     {
-      "title": "US immigration authorities raid home of Democratic Trump critic Ilhan Omar",
-      "description": "US authorities raided the Washington home of Democratic Representative Ilhan Omar on Monday as part of an ongoing investigation into alleged immigration fraud, according to reports. The probe reportedly includes immigration paperwork completed by her late father when she was a child. Omar accused the Trump administration of using government institutions to target political opponents, describing the raid as an act of political intimidation. FRANCE 24's Fraser Jackson has the latest from Washington.",
-      "url": "https://www.france24.com/en/us-immigration-authorities-raid-home-of-democratic-trump-critic-ilhan-omar",
-      "published": "Tue, 13 Oct 2026 09:57:35 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Rwanda to host a Grand Prix in 2030s as Formula One returns to Africa",
       "description": "Rwanda has secured a 10-year deal to host F1 races at a purpose-built race track on the outskirts of the capital, Kigali.",
       "url": "https://www.aljazeera.com/sports/2026/10/13/rwanda-to-host-a-grand-prix-in-2030s-as-formula-one-returns-to-africa?traffic_source=rss",
@@ -1630,20 +1647,6 @@
       "ticker_label": "💥 Documents falsified to evade tax on Abramovich's wealth, BBC finds"
     },
     {
-      "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
-      "description": "While Ukraine's Volodymyr Zelensky suggests he would sign up to a ceasefire on energy infrastructure, Russia has said little.",
-      "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 12 Oct 2026 20:17:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Why Moscow is staying tight-lipped on Trump's energy ceasefire"
-    },
-    {
       "title": "Yemeni government launches air strikes on Houthi positions",
       "description": "Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.",
       "url": "https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss",
@@ -1696,6 +1699,17 @@
       "url": "https://www.npr.org/2026/10/12/nx-s1-5998831/india-opposition-protests",
       "published": "Mon, 12 Oct 2026 12:01:54 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "French student protests: From confiscated signs to catchy slogans",
+      "description": "As French student protests continue, we take a look at how French police have seized some protest signs. We break down whether this is legal, or police intimidation. We also discuss the origin of a slogan that's catching on – \"Bismillah, c'est les ténèbres\" – and another that allegedly, according to Le Parisien newspaper, has made French President Emmanuel Macron furious.",
+      "url": "https://www.france24.com/en/tv-shows/entre-nous/20261013-french-student-protests-from-confiscated-signs-to-catchy-slogans",
+      "published": "Tue, 13 Oct 2026 14:05:07 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1812,6 +1826,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "White House asks US Ambassador to Greece Kimberly Guilfoyle to step down amid misconduct allegations",
+      "description": "Trump has previously said he was unhappy with Guilfoyle amid reports of a bribery scandal and ethics violations.",
+      "url": "https://www.dw.com/en/white-house-asks-us-ambassador-to-greece-kimberly-guilfoyle-to-step-down-amid-misconduct-allegations/a-79652952?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 14:14:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2146,21 +2171,10 @@
       "is_ticker": false
     },
     {
-      "title": "Man and woman charged after baby boy found dead in Adelaide motel",
-      "description": "South Australia police say infant was aged between six and seven months old and had been ‘deceased for a period of time’ Get our breaking news email , free app or daily news podcast A man and a woman have been charged after a baby boy was found dead in a motel. Benjamin Nicholas Houghton, 40, and Yue Ning Lieu, 42, are in custody after police discovered the child during a welfare check at a Glen Osmond motel in Adelaide’s south on Saturday. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/man-and-woman-charged-after-baby-boy-found-dead-in-adelaide-motel-ntwnfb",
-      "published": "Tue, 13 Oct 2026 07:09:40 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Bacon, eggs and Bowie: how year 12 English students tackled ‘human strength and vulnerability’ in HSC paper",
-      "description": "Tens of thousands of high school students across New South Wales sit the first test of their final exams Get our breaking news email , free app or daily news podcast “How does the composer of your prescribed text offer you opportunities to examine assumptions about human strength and vulnerability?” This was the bamboozling English question tens of thousands of year 12 students sat down to answer on the first day of their final school exams. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/13/hsc-first-exam-english-paper-2026",
-      "published": "Tue, 13 Oct 2026 06:56:22 GMT",
+      "title": "AFL tells Sportsbet to stop using players in AI generated content",
+      "description": "Exclusive: Gambling firm working with AFL ‘on the evolving use of AI in our content’ as it deletes video depicting Lachie Neale saying ‘I want to thank me for believing in me’ Get our breaking news email , free app or daily news podcast The AFL has told its official gambling partner, Sportsbet, to stop featuring its high-profile athletes in AI-generated social media content without their permission. Sportsbet has also been told to delete AI videos depicting AFL stars delivering lines from movies, television shows or speeches to react to real events. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/14/afl-tells-sportsbet-to-stop-using-players-in-ai-generated-content",
+      "published": "Tue, 13 Oct 2026 14:00:06 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2237,7 +2251,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-13T13:46:01.590Z",
+      "published": "2026-10-13T14:11:00.123Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2389,17 +2403,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 UK: Iran 'highly likely' to be behind RAF Fairford incident"
-    },
-    {
-      "title": "Germany: Labor Minister's resignation puts a spotlight on cracks within the government",
-      "description": "Following the sudden resignation of Bärbel Bas as Labor Minister and co-chair of the Social Democratic Party, accusations are flying in Chancellor Merz's coalition government.",
-      "url": "https://www.dw.com/en/germany-labor-minister-s-resignation-puts-a-spotlight-on-cracks-within-the-government/a-79645823?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 12 Oct 2026 17:08:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "US economists win Nobel for research helping policymakers navigate crises",
