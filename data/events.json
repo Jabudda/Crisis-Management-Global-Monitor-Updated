@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T12:29:29.388878Z",
+  "last_updated": "2026-10-13T12:58:08.249883Z",
   "event_count": 225,
   "events": [
     {
@@ -57,6 +57,20 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Airlines suspend flights to Riyadh amid security fears"
+    },
+    {
+      "title": "Indonesia wildfire fuelled by El Niño razes 300 homes",
+      "description": "Hundreds of people displaced in Bangka Belitung province as shift in wind direction drove blaze towards settlement An forest fire on Indonesia’s Sumatra island fuelled by El Niño has razed nearly 300 homes, forcing hundreds of people to evacuate, an official said on Tuesday as the country battles devastating blazes and haze. Residents first spotted the fire approaching their village in Bangka Belitung province on Saturday and tried to put it out themselves with portable water pumps, the head of South Bangka regency, Riza Herdavid, said. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/13/indonesia-wildfire-el-nino-razes-300-homes-bankga-belitung",
+      "published": "Tue, 13 Oct 2026 12:44:44 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Indonesia wildfire fuelled by El Niño razes 300 homes"
     },
     {
       "title": "Isaias strengthens to become first Atlantic hurricane of 2026 season",
@@ -396,20 +410,6 @@
       "ticker_label": "💥 Egyptian journalists plan weekend protest over detention of six colleagues"
     },
     {
-      "title": "IMF upgrades 2026 global growth forecast but war and debt threaten outlook",
-      "description": "The IMF has raised its 2026 global growth forecast slightly to 3.1%, citing the resilience of advanced economies despite rising energy prices caused by the Iran war. But it warned that poorer countries that are not benefiting from the AI boom remain particularly vulnerable to energy shocks, economic uncertainty and mounting debt.",
-      "url": "https://www.france24.com/en/business/20261013-imf-upgrades-2026-global-growth-forecast-but-war-and-debt-threaten-outlook",
-      "published": "Tue, 13 Oct 2026 03:57:42 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 IMF upgrades 2026 global growth forecast but war and debt threaten outlook"
-    },
-    {
       "title": "Canadian PM Carney makes case for Canadian unity as Alberta referendum nears",
       "description": "Canadian Prime Minister Mark Carney is making the case for Alberta to remain in Canada, warning one week before the province’s referendum that separation would begin a “long and uncertain process” at a dangerous time for the country",
       "url": "https://abcnews.com/International/wireStory/canadian-prime-minister-carney-makes-case-canadian-unity-137206883",
@@ -447,20 +447,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ronaldo scores, waves Saudi scarf in Al-Nassr’s win after security delay"
-    },
-    {
-      "title": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-      "description": "A year after Gaza's ceasefire, Israeli attacks persist as settler violence disrupts West Bank's oil harvest.",
-      "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 07:45:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing"
     },
     {
       "title": "Formula 1: Rwanda to bring sport back to Africa",
@@ -508,6 +494,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Security Council LIVE: Syria’s fragile transition – economic strain, Israeli incursions and progress towards elections"
+    },
+    {
+      "title": "Nord Stream: Trial of Ukrainian attack suspect begins in Germany",
+      "description": "A Ukrainian citizen faces court in Hamburg, accused of attacking the Nord Stream gas pipelines in 2022. It raises questions about Kyiv's possible role in the explosions. German support for Ukraine is also under scrutiny.",
+      "url": "https://www.dw.com/en/nord-stream-trial-of-ukrainian-attack-suspect-begins-in-germany/a-79647617?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 13 Oct 2026 12:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Bulgaria condemns Black Sea drone attacks as Russia's war in Ukraine spills over into Eastern Europe",
@@ -568,17 +565,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 13 Oct 2026 12:10:54 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-      "description": "Responding to a Guardian report that revealed thousands of tonnes of fuel was transported to Russia, Seoul said it was investigating the cases South Korea will take legal action if it finds that shipments of fuel from its ports to Russia broke domestic law, the government has said, responding to a Guardian report on the trade . The government, in a statement issued by the foreign and trade ministries and the customs service, said that it is “checking additional information concerning the loading cases reported by the Guardian” and “if the verification establishes that our laws and regulations have been violated, it plans to act in accordance with the law”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-      "published": "Thu, 08 Oct 2026 04:45:07 GMT",
-      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
@@ -661,6 +647,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops"
+    },
+    {
+      "title": "Yemeni families’ search for missing loved ones hindered by new fighting",
+      "description": "Hundreds of people have gone missing in Yemen, with families not knowing whether they were killed in fighting or detained.",
+      "url": "https://www.aljazeera.com/news/2026/10/13/yemens-families-search-for-missing-loved-ones-hindered-by-new-fighting?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 12:25:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Drones hit ships in Black Sea, sinking 1, prompting rescue operations, Bulgaria says",
@@ -786,6 +783,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Poland reports arrests of 2 Turkish citizens in Germany in connection with Starlink station fire last month"
+    },
+    {
+      "title": "Hackers heat French supermarket fridges, sparking fires and spoiling food",
+      "description": "Major French supermarket chains on Monday said they were hit by a cyberattack that caused their refrigerators to shoot up in temperature in hundreds of stores, forcing spoiled food to be thrown away and raising concerns about food security.",
+      "url": "https://www.france24.com/en/video/20261013-hackers-heat-french-supermarket-fridges-sparking-fires-and-spoiling-food-1",
+      "published": "Tue, 13 Oct 2026 12:30:30 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "UN aid operation underway in Nepal following fresh floods",
@@ -920,17 +928,6 @@
       "description": "Millions of Ethiopians rely on social media for daily news. But as fighting resumes in the country’s north between federal forces and a coalition of rebel groups, these platforms have become a breeding ground for propaganda and disinformation. Pro-government and pro-rebel accounts are battling to shape the news, while journalists’ limited access to the front lines makes it increasingly difficult to verify what is happening on the ground.",
       "url": "https://www.france24.com/en/ethiopia-social-media-becomes-a-battleground-for-propaganda",
       "published": "Tue, 13 Oct 2026 10:00:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "'A positive step': Hungary removes anti-LGBTQ provisions from Orban-era law",
-      "description": "Hungary's parliament voted on Tuesday to remove anti-LGBTQ provisions from a \"child protection\" law adopted in 2021 under the country's former nationalist leader, in the first significant move to reverse discriminatory legislation since Prime Minister Peter Magyar took power in May.",
-      "url": "https://www.france24.com/en/europe/20261013-a-positive-step-hungary-removes-anti-lgbtq-provisions-from-orban-era-law",
-      "published": "Tue, 13 Oct 2026 05:15:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 11,
@@ -1284,9 +1281,9 @@
       "is_ticker": false
     },
     {
-      "title": "Critics warn of espionage risks, loss of trust within NATO as Slovakia restores military-diplomatic representation with Russia",
-      "description": "Slovakia is restoring military-diplomatic representation with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
-      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-loss-of-trust-within-nato-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia",
+      "description": "Slovakia is restoring military-diplomatic relations with Russia for the first time since 2022. The government has defended the move; critics warn of espionage risks and further damage to trust within NATO.",
+      "url": "https://www.dw.com/en/critics-warn-of-espionage-risks-as-slovakia-restores-military-diplomatic-representation-with-russia/a-79649641?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 12:04:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1295,12 +1292,12 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Critics warn of espionage risks, loss of trust within NATO as Slovakia restores military-diplomatic representation with Russia"
+      "ticker_label": "🪖 Critics warn of espionage risks as Slovakia restores military-diplomatic representation with Russia"
     },
     {
-      "title": "Germany: Nuremberg airport closed over in-flight emergency",
-      "description": "Police are investigating a suspected in-flight emergency on a Corfu flight. The plane landed safely in Nuremberg after a fighter jet escort.",
-      "url": "https://www.dw.com/en/germany-nuremberg-airport-closed-over-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Nuremberg airport briefly closed after in-flight emergency",
+      "description": "Police are investigating a suspected in-flight emergency on a Corfu flight. After the airport reopened, the airline said they believed the emergency code was a result of a technical malfunction.",
+      "url": "https://www.dw.com/en/nuremberg-airport-briefly-closed-after-in-flight-emergency/a-79649580?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 11:47:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1668,28 +1665,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pope lung nodule: Could it be cancer?",
-      "description": "The case of Pope Leo shows how small lung nodules are often found during routine health checks. Quick treatment is generally advised before nodules can grow to become larger life-threatening masses.",
-      "url": "https://www.dw.com/en/pope-lung-nodule-could-it-be-cancer/a-79641503?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 12 Oct 2026 14:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Oldest covered food market in Paris destroyed in fire",
-      "description": "Paris' oldest covered food ‌market has been \"completely destroyed” after a fire broke out in the early hours of Monday morning, authorities said.",
-      "url": "https://news.sky.com/story/oldest-covered-food-market-in-paris-destroyed-in-fire-13598110",
-      "published": "Mon, 12 Oct 2026 11:07:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "India's opposition parties march to top court as protests over voter lists escalate",
       "description": "India’s opposition parties have marched to the Supreme Court to protest a voter list purge they claim favors Prime Minister Narendra Modi's party",
       "url": "https://abcnews.com/International/wireStory/indias-opposition-parties-march-top-court-protests-voter-137187227",
@@ -1715,17 +1690,6 @@
       "ticker_label": "✈️ Pakistani army training aircraft crashes, killing both pilots"
     },
     {
-      "title": "Emir of Qatar reiterates the need for safety and stability in the region",
-      "description": "Sheikh Tamim bin Hamad Al Thani addresses the Shura Council and emphasises the need for regional stability and safety.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/emir-of-qatar-reiterates-the-need-for-safety-and-stability-in-the-region?traffic_source=rss",
-      "published": "Tue, 13 Oct 2026 08:10:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1742,6 +1706,17 @@
       "url": "https://www.dw.com/en/what-is-holding-back-cyprus-s-schengen-ambitions/a-79641488?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Tue, 13 Oct 2026 06:26:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Asia's fertility hub: Thailand emerges as top destination for IVF treatment",
+      "description": "Thailand has become one of Asia's leading fertility hubs. Every year, thousands of foreign patients travel to Bangkok's state-of-the-art private clinics for IVF, egg donation and other fertility treatments. They come from China, South Korea, Europe and across Southeast Asia, looking for what may be harder to find at home: shorter waiting times, lower costs and, in some cases, fewer restrictions.",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261013-asia-s-fertility-hub-thailand-emerges-as-top-destination-for-ivf-treatment",
+      "published": "Tue, 13 Oct 2026 12:38:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1972,6 +1947,17 @@
       "is_ticker": false
     },
     {
+      "title": "Australia bowl out South Africa to win first Test in Durban",
+      "description": "Hazlewood's 6-49 ⁠⁠helped the visitors clean up the South African batting, securing the win before tea on day five.",
+      "url": "https://www.aljazeera.com/sports/2026/10/13/australia-bowl-out-south-africa-to-win-first-test-in-durban?traffic_source=rss",
+      "published": "Tue, 13 Oct 2026 12:28:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "The monetisation of mental health",
       "description": "The monetisation of mental health",
       "url": "https://www.aljazeera.com/video/money-works/2026/10/13/the-monetisation-of-mental-health?traffic_source=rss",
@@ -2159,6 +2145,17 @@
       "is_ticker": false
     },
     {
+      "title": "M 6.9 - central Mid-Atlantic Ridge",
+      "description": "PAGER - GREEN ShakeMap - I Time 2026-10-13 12:23:07 UTC 2026-10-13 12:23:07 UTC at epicenter Location 0.402°S 19.415°W Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u214",
+      "published": "2026-10-13T12:46:00.245Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "M 6.7 - central Mid-Atlantic Ridge",
       "description": "PAGER - GREEN ShakeMap - I Time 2026-10-13 05:44:46 UTC 2026-10-13 05:44:46 UTC at epicenter Location 0.169°N 19.860°W Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u1z5",
@@ -2217,7 +2214,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-13T11:38:55.885Z",
+      "published": "2026-10-13T12:36:51.687Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
