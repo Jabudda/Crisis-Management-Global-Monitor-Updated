@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T11:16:38.275443Z",
+  "last_updated": "2026-10-14T11:40:29.875402Z",
   "event_count": 225,
   "events": [
     {
@@ -674,9 +674,9 @@
       "is_ticker": false
     },
     {
-      "title": "Germany news: Nord Stream sabotage suspect's trial opens",
-      "description": "A Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. At the same time, Chancellor Merz is expected to give a major policy statement. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-nord-stream-sabotage-suspect-s-trial-opens/live-79656436?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Germany news: Merz to set out EU priorities after urging reforms",
+      "description": "Chancellor Merz is giving a major policy statement. Meanwhile, a Ukrainian man is going on trial in Hamburg in the case of a 2022 attack on major gas pipelines. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-merz-to-set-out-eu-priorities-after-urging-reforms/live-79656436?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 14 Oct 2026 06:51:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -719,6 +719,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+      "description": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:33:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot"
     },
     {
       "title": "Is Zelensky right to say data centre strikes have taken down Russian bots?",
@@ -1458,20 +1472,6 @@
       "is_ticker": false
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "description": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 04:20:17 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot"
-    },
-    {
       "title": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
       "description": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
       "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
@@ -1616,20 +1616,6 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line",
-      "description": "Critical energy infrastructure is hit, as Ukraine says speed restrictions of Elon Musk's Starlink are disrupting battlefield missions.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 10:04:28 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian strikes leave 600,000 without power in Ukraine, as Starlink restrictions affect front line"
     },
     {
       "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
@@ -1891,10 +1877,21 @@
       "is_ticker": false
     },
     {
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "description": "Elon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 14 Oct 2026 11:32:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
       "description": "Pope Leo had a \"peaceful night\" in the hospital after the surgery to remove a lower lobe of his right lung, the Vatican says.",
       "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 14 Oct 2026 08:53:40 GMT",
+      "published": "Wed, 14 Oct 2026 11:17:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2296,7 +2293,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-14T10:44:36.372Z",
+      "published": "2026-10-14T11:26:36.945Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
