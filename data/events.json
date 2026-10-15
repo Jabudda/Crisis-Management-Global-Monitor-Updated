@@ -1,18 +1,7 @@
 {
-  "last_updated": "2026-10-15T11:15:45.857473Z",
+  "last_updated": "2026-10-15T11:40:09.502423Z",
   "event_count": 223,
   "events": [
-    {
-      "title": "Albania: Fire at Education Ministry as students protest",
-      "description": "Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.",
-      "url": "https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Oct 2026 14:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
     {
       "title": "Yemen: WFP warns of potential ‘humanitarian catastrophe’ as fighting blocks aid delivery",
       "description": "Intensifying fighting in Yemen has cut off life-saving assistance to 800,000 people as shifting frontlines, blocked roads and growing insecurity severely restrict access to the city of Taiz and other conflict zones, the UN World Food Programme (WFP) said on Wednesday.",
@@ -82,20 +71,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ICJ judge Navi Pillay wins Nobel peace prize for promoting international law"
-    },
-    {
-      "title": "Heavy rain shuts down Istanbul, causing flooding and 2 deaths",
-      "description": "A heavy downpour has shut down Istanbul, flooded homes and roads and killed at least two people",
-      "url": "https://abcnews.com/International/wireStory/heavy-rain-shuts-istanbul-causing-flooding-2-deaths-137278654",
-      "published": "Thu, 15 Oct 2026 03:31:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Heavy rain shuts down Istanbul, causing flooding and 2 deaths"
     },
     {
       "title": "UK’s ‘incoherent’ approach to China plagued by lack of expertise, report says",
@@ -216,20 +191,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Children killed in arson attack named - as family calls for culprit to 'own up'"
-    },
-    {
-      "title": "Mauritius imposes curfew to calm days of protests after woman shot by police",
-      "description": "Mauritius imposed an overnight curfew in its capital and major towns after a police shooting fueled rare civil unrest on the Indian Ocean island",
-      "url": "https://abcnews.com/International/wireStory/mauritius-imposes-curfew-calm-days-protests-after-woman-137265006",
-      "published": "Wed, 14 Oct 2026 13:49:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Mauritius imposes curfew to calm days of protests after woman shot by police"
     },
     {
       "title": "Ukraine: Residents killed and dozens injured in attacks on Kharkiv and Kyiv",
@@ -402,9 +363,23 @@
       "is_ticker": false
     },
     {
+      "title": "Bulgaria says Russia likely behind Black Sea strikes as rescue operations continue",
+      "description": "Bulgaria says Russia was likely behind drone attacks in the Black Sea that sank two ships in the Black Sea but there is no way of proving it",
+      "url": "https://abcnews.com/International/wireStory/bulgaria-russia-black-sea-drone-strikes-rescue-operations-137252912",
+      "published": "Wed, 14 Oct 2026 08:26:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Bulgaria says Russia likely behind Black Sea strikes as rescue operations continue"
+    },
+    {
       "title": "School owner arrested after dozens of children killed in roof collapse",
-      "description": "At least 35 children and a teacher have died after the roof of a private school collapsed in Pakistan.",
-      "url": "https://news.sky.com/story/at-least-17-children-killed-in-pakistan-school-collapse-13599466",
+      "description": "At least 34 children and a teacher have died after the roof of a private school collapsed in Pakistan.",
+      "url": "https://news.sky.com/story/at-least-34-children-killed-in-pakistan-school-collapse-13599466",
       "published": "Thu, 15 Oct 2026 07:21:00 +0100",
       "source": "Sky News World",
       "type": "rss",
@@ -650,6 +625,20 @@
       "ticker_label": "🪖 Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted"
     },
     {
+      "title": "French cybersecurity authority warns attack may be ongoing as stores scramble to restock",
+      "description": "Supermarkets in France and the Netherlands are dealing with the aftermath of a cyberattack that disrupted refrigeration systems",
+      "url": "https://abcnews.com/International/wireStory/french-cybersecurity-authority-warns-attack-ongoing-stores-scramble-137256642",
+      "published": "Wed, 14 Oct 2026 10:35:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 French cybersecurity authority warns attack may be ongoing as stores scramble to restock"
+    },
+    {
       "title": "San Jose girl, 8, dies after living in cockroach-infested home as mother, stepfather face charges",
       "description": "Aurora Williams lived in a cockroach-infested San Jose home with mold and pet feces before a fatal asthma attack, which prompted felony charges against her mother and stepfather.",
       "url": "https://www.foxnews.com/us/san-jose-girl-8-dies-living-cockroach-infested-home-mother-stepfather-face-charges",
@@ -830,6 +819,31 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/15/adf-person-of-interest-recording-device-hmas-leeuwin-womens-showers-ntwnfb",
       "published": "Thu, 15 Oct 2026 07:00:34 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'",
+      "description": "Volodymyr Zelenskyy has announced that Ukraine is resuming attacks on Russian energy sites. It came after Moscow summarily ignored a claim by US President Donald Trump that an \"energy ceasefire\" had been agreed.",
+      "url": "https://www.dw.com/en/ukraine-resumes-attacks-on-russian-refineries-as-zelenskyy-says-we-re-done/a-79667757?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Oct 2026 11:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine resumes attacks on Russian refineries as Zelenskyy says 'we're done'"
+    },
+    {
+      "title": "Romania: 2 ships on fire in Black Sea, 7 crew missing",
+      "description": "Two chemical tankers have caught fire in Romanian territorial waters in the Black Sea. The blazes occurred after Russian drones were sighted in Romanian airspace.",
+      "url": "https://www.dw.com/en/romania-2-ships-on-fire-in-black-sea-7-crew-missing/a-79667003?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 15 Oct 2026 11:27:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -1132,6 +1146,17 @@
       "is_ticker": false
     },
     {
+      "title": "The not-so-secret vulnerability in Ukraine's drone arsenal? Chinese technology",
+      "description": "Since Russia invaded more than four years ago, Ukraine has become a global leader in military drone innovation",
+      "url": "https://abcnews.com/International/wireStory/secret-vulnerability-ukraines-drone-arsenal-chinese-technology-137247698",
+      "published": "Wed, 14 Oct 2026 03:22:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "WHO calls for urgent health action across the Eastern Mediterranean",
       "description": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
@@ -1221,20 +1246,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "From Morocco to South Africa, Israel election watched closely across Africa",
-      "description": "October 27 vote could test whether Israel's ties with African countries withstand the fallout from the war on Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/from-morocco-to-south-africa-israel-election-watched-closely-across-africa?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 06:46:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 From Morocco to South Africa, Israel election watched closely across Africa"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1384,18 +1395,15 @@
       "ticker_label": "💥 Kenya reports second Ebola case, family member of first patient"
     },
     {
-      "title": "School roof collapse kills at least 28 people in Pakistan",
-      "description": "Death toll in Pakistan school roof collapse increases to 28, official says",
-      "url": "https://abcnews.com/International/wireStory/school-roof-collapse-kills-10-children-injures-2-137278356",
-      "published": "Thu, 15 Oct 2026 03:30:46 -0400",
+      "title": "Fuel crisis hits Indonesia's Bali, triggers long lines in gas stations for days",
+      "description": "Long lines have formed at gas stations across Indonesia’s resort island of Bali after fuel deliveries have been disrupted by a tanker delay, bad weather and strong demand for subsidized fuel",
+      "url": "https://abcnews.com/International/wireStory/fuel-crisis-hits-indonesias-bali-triggers-long-lines-137257852",
+      "published": "Wed, 14 Oct 2026 11:25:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 School roof collapse kills at least 28 people in Pakistan"
+      "is_ticker": false
     },
     {
       "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
@@ -1518,12 +1526,26 @@
       "title": "Why is Starlink internet so important on the battlefield in Ukraine?",
       "description": "It is the \"backbone of military communications in Ukraine\" that provides vital high-speed internet to forces across the country.",
       "url": "https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 10:53:40 GMT",
+      "published": "Thu, 15 Oct 2026 11:25:19 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Syrian authorities arrest main suspect in 2013 Baniyas mass killings",
+      "description": "Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.",
+      "url": "https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss",
+      "published": "Thu, 15 Oct 2026 11:12:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Syrian authorities arrest main suspect in 2013 Baniyas mass killings"
     },
     {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
@@ -1587,11 +1609,11 @@
       "ticker_label": "🪖 PSG outgun embattled Man City in six-goal Champions League thriller"
     },
     {
-      "title": "France 'can no longer finance' Ukraine, far-right presidential frontrunner Le Pen says",
-      "description": "Far-right leader and presidential candidate Marine Le Pen said on Wednesday that France could no longer afford to fund Ukraine, citing the country's high deficit and weak economic growth.",
-      "url": "https://www.france24.com/en/europe/20261015-france-can-no-longer-finance-ukraine-far-right-candidate-marine-le-pen-says",
-      "published": "Thu, 15 Oct 2026 05:49:13 GMT",
-      "source": "France24",
+      "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade",
+      "description": "China’s customs agency says the country's exports surged 36.3% in September from a year earlier",
+      "url": "https://abcnews.com/International/wireStory/chinas-exports-surge-363-september-pressure-ramps-rebalance-137246051",
+      "published": "Wed, 14 Oct 2026 02:58:20 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1679,31 +1701,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 An increase in killings of women in Cameroon spurs protests"
-    },
-    {
-      "title": "Irish public sector workers strike, leading to school closures and canceled medical appointments",
-      "description": "Hundreds of thousands of Irish teachers, doctors and civil servants have walked off the job",
-      "url": "https://abcnews.com/International/wireStory/irish-public-sector-workers-strike-leading-school-closures-137258511",
-      "published": "Wed, 14 Oct 2026 11:25:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Irish public sector workers strike, leading to school closures and canceled medical appointments"
-    },
-    {
-      "title": "Woman accused of deadly revenge crash faces jury as boyfriend’s hospital account stays out of trial",
-      "description": "Leigha Mumby's trial opened with prosecutors alleging she turned sharply into woods at nearly 100 mph after a fight over another girl's texts.",
-      "url": "https://www.foxnews.com/us/woman-accused-deadly-revenge-crash-faces-jury-boyfriend-hospital-account-stays-out-trial",
-      "published": "Tue, 13 Oct 2026 17:52:30 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "White House defends new press secretary amid questions about her legal credentials",
@@ -1795,6 +1792,20 @@
       "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Starlink in Ukraine: Musk suggests US govt behind any slowdown",
+      "description": "🇺🇦🇺🇸 As Ukraine reports slowdowns in the Starlink system used for battlefield communications and frontline logistics, Elon Musk says that \"any limits on speed or usage are decided by the US military and ultimately POTUS.\"",
+      "url": "https://www.france24.com/en/video/20261015-starlink-in-ukraine-musk-suggests-us-govt-behind-any-slowdown",
+      "published": "Thu, 15 Oct 2026 11:19:52 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Starlink in Ukraine: Musk suggests US govt behind any slowdown"
     },
     {
       "title": "EU leaders to clash over long-term budget, Ukraine support",
@@ -2290,6 +2301,17 @@
       "is_ticker": false
     },
     {
+      "title": "Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric",
+      "description": "Social Security benefits are set to get a boost to offset rising consumer prices. And, streamer Hasan Piker says the GOP's \"guilt-by-association politics\" won't drag Democrats down in the midterms.",
+      "url": "https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia",
+      "published": "Thu, 15 Oct 2026 07:31:25 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
       "description": "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition. Writer Rana Foroohar explains the stakes in Sea Change.",
       "url": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
@@ -2319,17 +2341,6 @@
       "description": "Factory workers in India are being asked to wear GoPro cameras to record the way they do their jobs. The ultimate goal is to train robots to take over. Will it work?",
       "url": "https://www.npr.org/2026/10/14/g-s1-146907/these-workers-help-train-robots-who-could-one-day-steal-their-jobs",
       "published": "Wed, 14 Oct 2026 05:28:47 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump's ambassador to Greece, Kimberly Guilfoyle, resigns after allegations of improper conduct",
-      "description": "The White House publicly asked for U.S. Ambassador to Greece Kimberly Guilfoyle's resignation on Tuesday as she faced mounting accusations of improper conduct.",
-      "url": "https://www.npr.org/2026/10/14/g-s1-148027/trump-ambassador-greece-resignation",
-      "published": "Wed, 14 Oct 2026 05:09:39 -0400",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
@@ -2374,17 +2385,6 @@
       "description": "A journalist for a Japanese newspaper was arrested on suspicion of spying in Russia's Far East. A geopolitical rivalry over disputed islands in the region has recently caused tension.",
       "url": "https://www.dw.com/en/japanese-journalist-arrest-in-russia-s-far-east-draws-rebuke-from-tokyo-in-latest-diplomatic-spat-with-moscow/a-79663428?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 14 Oct 2026 17:28:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Germany's far-right AfD forges a pro-Russia alliance with the BSW",
-      "description": "In Saxony-Anhalt, the AfD and BSW are joining forces to push for negotiations with Moscow. What is driving this rapprochement?",
-      "url": "https://www.dw.com/en/germany-s-far-right-afd-forges-a-pro-russia-alliance-with-the-bsw/a-79662413?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 14 Oct 2026 15:13:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2447,10 +2447,10 @@
       "is_ticker": false
     },
     {
-      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
-      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
-      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
-      "published": "Thu, 15 Oct 2026 02:50:03 -0400",
+      "title": "Building housing London's oldest restaurant is donated to a conservation charity",
+      "description": "The building that houses London’s oldest restaurant has been donated to Europe’s biggest conservation charity",
+      "url": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644",
+      "published": "Wed, 14 Oct 2026 10:38:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2458,10 +2458,10 @@
       "is_ticker": false
     },
     {
-      "title": "New China-North Korea bridge opens after more than a decade of delay",
-      "description": "A new bridge linking China and North Korea has opened after more than a decade of delay, signaling deeper ties between the two countries",
-      "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
-      "published": "Thu, 15 Oct 2026 03:30:18 -0400",
+      "title": "Lufthansa to buy 44.9% of TAP Air Portugal in €1.2B deal",
+      "description": "Lufthansa is buying a 44.9% stake in TAP Air Portugal in a deal valued at 1.3 billion dollars",
+      "url": "https://abcnews.com/International/wireStory/lufthansa-buy-449-tap-air-portugal-12b-deal-137254490",
+      "published": "Wed, 14 Oct 2026 08:58:52 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2469,10 +2469,32 @@
       "is_ticker": false
     },
     {
-      "title": "China opens joint airfield in Laos with eyes on its military role",
-      "description": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
-      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
-      "published": "Thu, 15 Oct 2026 02:55:43 -0400",
+      "title": "Libya executing people based on secret trials and confessions extracted under torture, group says",
+      "description": "Libya has executed at least 31 people since late August, marking the first known executions since 2010, according to Human Rights Watch",
+      "url": "https://abcnews.com/International/wireStory/libya-executing-people-based-secret-trials-confessions-extracted-137257783",
+      "published": "Wed, 14 Oct 2026 10:35:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania",
+      "description": "The European Union’s criminal justice agency says five people have been arrested in Norway in connection with suspected fraud and bribery linked to NATO ship contracts",
+      "url": "https://abcnews.com/International/wireStory/fraud-probe-nato-contracts-leads-5-arrests-norway-137258100",
+      "published": "Wed, 14 Oct 2026 11:25:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Prosecution labels Russell Brand 'ruthless sexual predator' at opening of trial",
+      "description": "A British prosecutor has accused Russell Brand of being a “ruthless” sexual predator who assaulted six women over the course of a decade",
+      "url": "https://abcnews.com/International/wireStory/prosecution-labels-russell-brand-ruthless-sexual-predator-opening-137251012",
+      "published": "Wed, 14 Oct 2026 22:10:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2491,43 +2513,10 @@
       "is_ticker": false
     },
     {
-      "title": "Costa Rica opens a Bukele-style mega-prison. Here's how it got here",
-      "description": "Costa Rica has made fighting drug trafficking a main goal, inspired by El Salvador's hardline approach",
-      "url": "https://abcnews.com/International/wireStory/costa-rica-opens-bukele-style-mega-prison-137275010",
-      "published": "Thu, 15 Oct 2026 02:57:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Zimbabwe’s Caine Prize winner rejects claim he used AI to write his story",
-      "description": "Zimbabwean author Simbarashe Kundizeza denies using AI to write his short story, \"The Blue Fighter,\" which won the $10,000 Caine Prize for African Writing",
-      "url": "https://abcnews.com/International/wireStory/zimbabwes-caine-prize-winner-rejects-claim-ai-write-137269798",
-      "published": "Wed, 14 Oct 2026 16:53:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "South Americans pray for Pope Leo’s recovery as uncertainty hangs over his visit",
-      "description": "Catholics across South America are praying for Pope Leo XIV’s recovery from lung cancer surgery as uncertainty grows over his planned visit next month",
-      "url": "https://abcnews.com/International/wireStory/south-americans-pray-pope-leos-recovery-uncertainty-hangs-137266695",
-      "published": "Wed, 14 Oct 2026 21:38:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Colombia opens an embassy in Jerusalem after restoring diplomatic ties with Israel",
-      "description": "Colombia has opened an embassy in Jerusalem, marking a significant shift in its relations with Israel",
-      "url": "https://abcnews.com/International/wireStory/colombia-opens-embassy-jerusalem-after-restoring-diplomatic-ties-137265413",
-      "published": "Wed, 14 Oct 2026 13:49:12 -0400",
+      "title": "Ukrainian ex-army officer's lawyers seek dismissal as Nord Stream pipeline blast trial opens",
+      "description": "Defense lawyers for a former Ukrainian army officer charged with damaging the Nord Stream gas pipelines in blasts four years ago have called for the dismissal of charges in the first day of his trial",
+      "url": "https://abcnews.com/International/wireStory/former-ukrainian-officer-trial-sabotage-nord-stream-pipelines-137247789",
+      "published": "Wed, 14 Oct 2026 08:58:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2546,11 +2535,22 @@
       "is_ticker": false
     },
     {
-      "title": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania",
-      "description": "The European Union’s criminal justice agency says five people have been arrested in Norway in connection with suspected fraud and bribery linked to NATO ship contracts",
-      "url": "https://abcnews.com/International/wireStory/fraud-probe-nato-contracts-leads-5-arrests-norway-137258100",
-      "published": "Wed, 14 Oct 2026 11:25:54 -0400",
+      "title": "Indonesia’s top Muslim council opposes Andrea Bocelli concerts over Israel ties",
+      "description": "Indonesia’s top Muslim clerical body has opposed upcoming concerts by Italian tenor Andrea Bocelli at Borobudur Temple and Jakarta",
+      "url": "https://abcnews.com/International/wireStory/indonesias-top-muslim-council-opposes-upcoming-andrea-bocelli-137251656",
+      "published": "Wed, 14 Oct 2026 21:54:24 -0400",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Lindsay Clancy holdout explains 'methodical' slayings and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/lindsay-clancy-holdout-explains-methodical-slayings-more-top-headlines",
+      "published": "Thu, 15 Oct 2026 07:21:41 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
