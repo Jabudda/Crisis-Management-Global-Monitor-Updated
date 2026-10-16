@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T05:16:53.932345Z",
+  "last_updated": "2026-10-16T05:41:41.551515Z",
   "event_count": 225,
   "events": [
     {
@@ -265,17 +265,6 @@
       "ticker_label": "🪖 The world is waging a ‘war on nature’ as progress on biodiversity targets lags"
     },
     {
-      "title": "At least 7 crew members missing after drone attacks on ships in Black Sea",
-      "description": "Emergency teams are searching for 7 missing crew after two chemical tankers were attacked in the Black Sea.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/at-least-7-crew-members-missing-after-drone-attacks-on-ships-in-black-sea?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 20:29:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Teen shooter kills three children and teacher at Oregon elementary school",
       "description": "A 16-year-old gunman killed three children aged 5, 8 and 11, and a teacher at Silver Rail Elementary School in Bend, Oregon, on Thursday before being killed by a community member who pursued him inside, police said. Two other people were wounded in the shooting.",
       "url": "https://www.france24.com/en/americas/20261015-two-hospitalised-after-shooting-at-oregon-elementary-school-gunman-dead",
@@ -452,6 +441,17 @@
       "is_ticker": false
     },
     {
+      "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+      "description": "The deaths come as Jakarta says it will accept foreign help to tackle its worst forest fires in more than a decade.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 05:15:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Graduate student accused of poisoning colleague and trying to flee to China arrested at LAX",
       "description": "Microbiologist Aili Wang, 32, poisoned tea of colleague in Wyoming who had pending patents, prosecutors allege A Wyoming microbiology graduate student from China has been arrested on accusations she poisoned the tea of a colleague who had pending patents and with whom she did not get along, then tried to flee the country after police questioned her. Aili Wang, 32, was arrested 6 October at Los Angeles international airport, where prosecutors allege she sought to return to China. With her were laptops, electronic storage devices and documents now in the possession of police, who allege Wang was seen on surveillance video rummaging through the desk of the victim who specialized in technology for disease treatment – research similar to work she had done in China. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/oct/13/wyoming-student-graduate-poison-arrest",
@@ -625,20 +625,6 @@
       "is_ticker": false
     },
     {
-      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
-      "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
-      "url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440",
-      "published": "Thu, 15 Oct 2026 23:46:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path"
-    },
-    {
       "title": "Mauritius tightens security and extends curfew after days of unrest",
       "description": "Mauritius is extending a curfew for two more nights and tightening security after unrest sparked by police shooting a woman during protests over water shortages and the cost of living",
       "url": "https://abcnews.com/International/wireStory/mauritius-tightens-security-extends-curfew-after-days-unrest-137285182",
@@ -651,6 +637,20 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Mauritius tightens security and extends curfew after days of unrest"
+    },
+    {
+      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+      "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
+      "url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440",
+      "published": "Thu, 15 Oct 2026 23:46:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path"
     },
     {
       "title": "World News in Brief: Gaza braces for winter amid attacks, joint patrols in CAR, 90 cities commit to sustainable development",
@@ -687,6 +687,20 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 Three children and teacher killed in US primary school shooting"
+    },
+    {
+      "title": "Bystander guns down suspected primary school shooter in Oregon",
+      "description": "Three children and a teacher were killed in a shooting at Silver Rail Elementary School in Bend, Oregon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/bystander-guns-down-suspected-primary-school-shooter-in-oregon?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 05:00:25 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Bystander guns down suspected primary school shooter in Oregon"
     },
     {
       "title": "Peshawar mourns children killed in school roof collapse",
@@ -1151,17 +1165,6 @@
       "is_ticker": false
     },
     {
-      "title": "El Salvador's Bukele unveils plan to free up to 50% arrested under state of emergency",
-      "description": "President Nayib Bukele of El Salvador announces a plan to release up to 50% of those imprisoned under a state of emergency",
-      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-unveils-plan-free-50-arrested-137273897",
-      "published": "Thu, 15 Oct 2026 03:09:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Afghanistan faces record hunger levels amid rampant rights violations",
       "description": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
@@ -1265,7 +1268,7 @@
     },
     {
       "title": "‘It’s about the underdog’: Ben Roberts-Smith launches brand to support family amid legal battle",
-      "description": "Accused war criminal announces venture with video on Instagram of him walking along beach and working out Accused war criminal Ben Roberts-Smith has launched a brand, saying he needs the income to support his family and fund his legal expenses after being charged with murdering or ordering the murders of five unarmed detainees while deployed in Afghanistan between 2009 and 2012. Roberts-Smith launched the label with a video of him walking along a beach on the Gold Coast and working out on Instagram, soundtracked by media reports about him being awarded the Victoria Cross and his subsequent arrest. The video included the caption “Get ready….the time has come. #neveroutofthefight #underdog”. Continue reading...",
+      "description": "Accused war criminal announces venture with video on Instagram of him walking along beach and working out Get our breaking news email , free app or daily news podcast Accused war criminal Ben Roberts-Smith has launched a brand, saying he needs the income to support his family and fund his legal expenses after being charged with murdering or ordering the murders of five unarmed detainees while deployed in Afghanistan between 2009 and 2012. Roberts-Smith launched the label with a video on Instagram of him walking along a beach on the Gold Coast and working out, soundtracked by media reports about him being awarded the Victoria Cross and his subsequent arrest. The video included the caption: “Get ready….the time has come. #neveroutofthefight #underdog”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/16/ben-roberts-smith-launches-brand-epic-1-two-amid-legal-battle-ntwnfb",
       "published": "Fri, 16 Oct 2026 04:55:32 GMT",
       "source": "The Guardian World",
@@ -1308,6 +1311,17 @@
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
       "published": "Mon, 06 Mar 2023 14:13:40 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "The not-so-secret vulnerability in Ukraine's drone arsenal? Chinese technology",
+      "description": "Since Russia invaded more than four years ago, Ukraine has become a global leader in military drone innovation",
+      "url": "https://abcnews.com/International/wireStory/secret-vulnerability-ukraines-drone-arsenal-chinese-technology-137247698",
+      "published": "Wed, 14 Oct 2026 03:22:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1431,20 +1445,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Can Zimbabwe’s ZiG win trust and replace the US dollar?"
-    },
-    {
-      "title": "Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices",
-      "description": "An Israeli spyware disguised as a digital advertisement firm has targeted journalists’ devices at Al Jazeera.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/israeli-ad-firm-helped-infect-spyware-into-al-jazeera-devices?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 21:05:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli ‘ad’ firm helped infect spyware into Al Jazeera devices"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1799,17 +1799,6 @@
       "is_ticker": false
     },
     {
-      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
-      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
-      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
-      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "An increase in killings of women in Cameroon spurs protests",
       "description": "Elementary school teacher Geraldine Achiah died in Cameroon after allegedly being beaten by her husband",
       "url": "https://abcnews.com/International/wireStory/increase-killings-women-cameroon-spurs-protests-demands-laws-137278252",
@@ -1822,6 +1811,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 An increase in killings of women in Cameroon spurs protests"
+    },
+    {
+      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
+      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
+      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
+      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "White House defends new press secretary over her legal credentials",
@@ -1840,6 +1840,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 15 Oct 2026 22:46:49 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+      "description": "Lebanon's president reaffirms the commitment to bring all arms under state control.",
+      "url": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 05:28:29 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1879,8 +1890,8 @@
       "is_ticker": false
     },
     {
-      "title": "Sydney suburb Dulwich Hill in lockdown as police search for man seen with shotgun",
-      "description": "Widespread manhunt in city’s inner west after man reportedly seen carrying longarm weapon Get our breaking news email , free app or daily news podcast A large swathe of Dulwich Hill in Sydney’s inner west has been locked down by police as they search for a man reportedly carrying a shotgun. The man allegedly set alight a stolen car and menaced witnesses with the weapon before fleeing on foot. Continue reading...",
+      "title": "Sydney suburb lockdown lifted as manhunt continues for person with shotgun",
+      "description": "Police appeal for information after man reportedly seen carrying longarm weapon in Dulwich Hill in the city’s inner west Get our breaking news email , free app or daily news podcast A lockdown across a large swathe of Dulwich Hill in Sydney’s inner west has been lifted after a major police search for a man reportedly carrying a shotgun. The man allegedly set alight a stolen car and menaced witnesses with the weapon before fleeing on foot. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/16/sydney-suburb-in-lockdown-as-police-search-for-man-armed-with-shotgun-ntwnfb",
       "published": "Fri, 16 Oct 2026 03:41:50 GMT",
       "source": "The Guardian World",
@@ -1916,17 +1927,6 @@
       "description": "Iraq's parliament has finalised key minister appointments five months after al-Zaidi's government took office.",
       "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
       "published": "Fri, 16 Oct 2026 00:31:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "ICE tactics spark debate before pivotal US midterm elections",
-      "description": "Polls have found that Trump's hardline immigration enforcement effort has divided voters before the 2026 midterm race.",
-      "url": "https://www.aljazeera.com/news/2026/10/15/ice-tactics-spark-debate-before-pivotal-us-midterm-elections?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 21:02:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
@@ -2094,6 +2094,17 @@
       "is_ticker": false
     },
     {
+      "title": "Infantino apologises amid calls for him to quit as FIFA president",
+      "description": "Infantino spoke at FIFA’s long-awaited executive board meeting in Zurich.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/infantino-apologises-amid-calls-for-him-to-quit-as-fifa-president?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 04:45:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
       "description": "'The Palestinian question is the greatest historical injustice of this century,' China's foreign minister said.",
       "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
@@ -2142,17 +2153,6 @@
       "description": "Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.",
       "url": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
       "published": "Thu, 15 Oct 2026 21:54:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Robots dance the ‘Macarena’ at Japan tech expo",
-      "description": "Humanoid robots were seen performing the “Macarena” at the annual CEATEC technology exhibition in Chiba, Japan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/15/robots-dance-the-macarena-at-japan-tech-expo?traffic_source=rss",
-      "published": "Thu, 15 Oct 2026 21:00:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2295,7 +2295,7 @@
       "title": "M 6.9 - 76 km NE of Ozernovskiy, Russia",
       "description": "PAGER - GREEN ShakeMap - VI Time 2026-10-16 03:35:31 UTC 2026-10-16 03:35:31 UTC at epicenter Location 51.985°N 157.270°E Depth 135.00 km (83.89 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u2mq",
-      "published": "2026-10-16T04:21:47.778Z",
+      "published": "2026-10-16T05:39:42.504Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2372,7 +2372,7 @@
       "title": "M 7.7 - 12 km WSW of Pitaloza Arriba, Panama",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VIII Time 2026-10-09 17:56:06 UTC 2026-10-09 17:56:06 UTC at epicenter Location 7.587°N 80.769°W Depth 12.65 km (7.86 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k",
-      "published": "2026-10-16T03:38:55.036Z",
+      "published": "2026-10-16T05:39:09.022Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2521,43 +2521,10 @@
       "is_ticker": false
     },
     {
-      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
-      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
-      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
-      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ex-leader of N. Ireland’s largest unionist party sentenced to 15 years for sex abuse",
-      "description": "The former leader of Northern Ireland’s largest unionist party has been on Thursday to 15 years in prison for the rape and sex abuse of two girls decades ago",
-      "url": "https://abcnews.com/International/wireStory/leader-northern-irelands-largest-unionist-party-sentenced-15-137281102",
-      "published": "Thu, 15 Oct 2026 07:36:23 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
-      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
-      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
-      "published": "Thu, 15 Oct 2026 07:06:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "New China-North Korea bridge opens after more than a decade of delay",
-      "description": "A new bridge linking China and North Korea has opened after more than a decade of delay It's being touted as a symbol of the neighbors' traditional friendship and it signals deeper ties between the countries",
-      "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
-      "published": "Thu, 15 Oct 2026 07:06:14 -0400",
+      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
+      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
+      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2576,10 +2543,21 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
-      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
-      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
-      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
+      "title": "Prince Harry and Meghan to make first joint appearances since returning to UK",
+      "description": "Prince Harry and Meghan are making their first joint public appearances in England since stepping back from royal duties six years ago",
+      "url": "https://abcnews.com/International/wireStory/prince-harry-meghan-make-joint-appearances-returning-uk-137278143",
+      "published": "Thu, 15 Oct 2026 07:06:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ex-leader of N. Ireland’s largest unionist party sentenced to 15 years for sex abuse",
+      "description": "The former leader of Northern Ireland’s largest unionist party has been on Thursday to 15 years in prison for the rape and sex abuse of two girls decades ago",
+      "url": "https://abcnews.com/International/wireStory/leader-northern-irelands-largest-unionist-party-sentenced-15-137281102",
+      "published": "Thu, 15 Oct 2026 07:36:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2598,10 +2576,32 @@
       "is_ticker": false
     },
     {
-      "title": "Zimbabwe’s Caine Prize winner rejects claim he used AI to write his story",
-      "description": "Zimbabwean author Simbarashe Kundizeza denies using AI to write his short story, \"The Blue Fighter,\" which won the $10,000 Caine Prize for African Writing",
-      "url": "https://abcnews.com/International/wireStory/zimbabwes-caine-prize-winner-rejects-claim-ai-write-137269798",
-      "published": "Wed, 14 Oct 2026 16:53:26 -0400",
+      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
+      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
+      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
+      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "New China-North Korea bridge opens after more than a decade of delay",
+      "description": "A new bridge linking China and North Korea has opened after more than a decade of delay It's being touted as a symbol of the neighbors' traditional friendship and it signals deeper ties between the countries",
+      "url": "https://abcnews.com/International/wireStory/new-china-north-korea-bridge-opens-after-decade-137277411",
+      "published": "Thu, 15 Oct 2026 07:06:14 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Building housing London's oldest restaurant is donated to a conservation charity",
+      "description": "The building that houses London’s oldest restaurant has been donated to Europe’s biggest conservation charity",
+      "url": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644",
+      "published": "Wed, 14 Oct 2026 10:38:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
