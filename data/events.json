@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T21:14:07.357914Z",
+  "last_updated": "2026-10-16T21:37:44.355064Z",
   "event_count": 225,
   "events": [
     {
@@ -85,6 +85,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ICJ judge Navi Pillay wins Nobel peace prize for promoting international law"
+    },
+    {
+      "title": "Heavy rain shuts down Istanbul, causing flooding and 3 deaths",
+      "description": "A heavy downpour has shut down Istanbul, flooded homes and roads and killed at least three people",
+      "url": "https://abcnews.com/International/wireStory/heavy-rain-shuts-istanbul-causing-flooding-2-deaths-137278654",
+      "published": "Thu, 15 Oct 2026 07:32:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Heavy rain shuts down Istanbul, causing flooding and 3 deaths"
     },
     {
       "title": "US journalist injured during Israeli settler attack on West Bank olive harvest",
@@ -283,17 +297,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Sally Rooney's books no longer sold in UK over support for banned pro-Palestinian group"
-    },
-    {
-      "title": "Cost-of-living demonstrations to grip pre-election France",
-      "description": "After weeks of student protests, France is set to be swept by broader, nationwide demonstrations Saturday over the cost of living, setting up a potentially fraught period ahead of presidential elections next year. The prospect of the two movements merging, perhaps with outbreaks of violence, poses a big challenge to the government -- and an opportunity for far-left and far-right presidential candidates jockeying for power.",
-      "url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
-      "published": "Fri, 16 Oct 2026 15:55:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Istanbul's worst floods in 80 years leave 4 dead",
@@ -500,20 +503,6 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
-      "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
-      "url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440",
-      "published": "Thu, 15 Oct 2026 23:46:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path"
     },
     {
       "title": "Mauritius tightens security and extends curfew after days of unrest",
@@ -936,6 +925,17 @@
       "ticker_label": "🌪️ Four dead as Istanbul suffers worst floods in 80 years"
     },
     {
+      "title": "Rubio urges restraint over Ethiopia-Eritrea tensions, civilians killed",
+      "description": "U.S. Secretary of State Marco Rubio is calling for de-escalation in the Horn of Africa amid renewed fighting in northern Ethiopia",
+      "url": "https://abcnews.com/International/wireStory/rubio-urges-restraint-ethiopia-eritrea-tensions-rights-group-137280105",
+      "published": "Thu, 15 Oct 2026 07:33:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Afghanistan faces record hunger levels amid rampant rights violations",
       "description": "Acute malnutrition and hunger in Afghanistan have reached the highest levels ever recorded, with 15.9 million people facing acute food insecurity and conditions set to worsen in the coming months, according to a global hunger monitor report released on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168605",
@@ -1092,6 +1092,17 @@
       "description": "An online movement against rising fuel prices has gained momentum ahead of planned nationwide demonstrations on October 17 with former Yellow Vest figures set to join the protests in support of high-school students. Some are drawing parallels between the latest action and the 2018 cost-of-living protests that rattled President Emmanuel Macron's first term in office.",
       "url": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
       "published": "Fri, 16 Oct 2026 20:10:18 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
+      "description": "An online movement against rising fuel prices has gained momentum ahead of planned nationwide demonstrations on October 17 with former Yellow Vest figures set to join the protests in support of high-school students. Some are drawing parallels between the latest action and the 2018 cost-of-living protests that rattled President Emmanuel Macron's first term in office.",
+      "url": "https://www.france24.com/en/video/20261016-cost-of-living-demonstrations-to-grip-pre-election-france",
+      "published": "Fri, 16 Oct 2026 15:55:23 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 10,
@@ -1686,17 +1697,6 @@
       "is_ticker": false
     },
     {
-      "title": "Indian protest leaders detained ahead of flag march in New Delhi",
-      "description": "India's Cockroach Janta Party founder Abhijeet Dipke and student leader Neha Bora were detained ahead of a flag march.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/indian-protest-leaders-detained-ahead-of-flag-march-in-new-delhi?traffic_source=rss",
-      "published": "Fri, 16 Oct 2026 16:16:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Museum releases historical photos of island where Amelia Earhart may have crashed",
       "description": "Images from New Zealand aerial survey of Nikumaroro in 1938 offer new clues over aviator’s disappearance A New Zealand museum has released nearly 50 photos from a 1938 aerial survey of the island where Amelia Earhart is believed to have crash-landed, offering amateur sleuths new evidence to scour for traces of the pioneering aviator and her plane. The black-and-white images were published by the Air Force Museum of New Zealand after renewed interest in one of the biggest mysteries of the 20th century, spurred by a US expedition to the Pacific atoll of Nikumaroro in search of new clues. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/oct/16/amelia-earhart-new-zeland-museum-aerial-survey-photos-nikumaroro-island",
@@ -1766,21 +1766,24 @@
       "is_ticker": false
     },
     {
-      "title": "Policing of France's school protests clouds Macron's final months and sparks uproar",
-      "description": "In France, teenagers are protesting for better-resourced schools, leading to clashes with one of Europe's largest internal security forces",
-      "url": "https://abcnews.com/International/wireStory/policing-frances-school-protests-clouds-macrons-final-months-137310490",
-      "published": "Fri, 16 Oct 2026 03:12:32 -0400",
+      "title": "An increase in killings of women in Cameroon spurs protests",
+      "description": "Elementary school teacher Geraldine Achiah died in Cameroon after allegedly being beaten by her husband",
+      "url": "https://abcnews.com/International/wireStory/increase-killings-women-cameroon-spurs-protests-demands-laws-137278252",
+      "published": "Thu, 15 Oct 2026 01:38:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 An increase in killings of women in Cameroon spurs protests"
     },
     {
-      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
-      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
-      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
-      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
+      "title": "Policing of France's school protests clouds Macron's final months and sparks uproar",
+      "description": "In France, teenagers are protesting for better-resourced schools, leading to clashes with one of Europe's largest internal security forces",
+      "url": "https://abcnews.com/International/wireStory/policing-frances-school-protests-clouds-macrons-final-months-137310490",
+      "published": "Fri, 16 Oct 2026 03:12:32 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1853,6 +1856,17 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "description": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro's profile and his WhatsApp channel.",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+      "published": "Fri, 16 Oct 2026 21:08:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1989,17 +2003,6 @@
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
       "published": "Sun, 20 Mar 2022 07:01:50 GMT",
       "source": "CNN World",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Commercial goods are no longer entering Gaza, raising fears of worsening shortages in the territory",
-      "description": "No commercial goods are entering the Gaza Strip, Israeli authorities said, attributing the suspension to local vendors they said are fed up with Hamas raising taxes on them",
-      "url": "https://abcnews.com/International/wireStory/commercial-goods-longer-entering-gaza-raising-fears-worsening-137281567",
-      "published": "Fri, 16 Oct 2026 01:55:01 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2566,10 +2569,10 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil says Amazon deforestation fell to the lowest level since 1988",
-      "description": "Brazil’s government announces that annual deforestation in the Amazon has fallen to its lowest level since 1988",
-      "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441",
-      "published": "Fri, 16 Oct 2026 14:36:39 -0400",
+      "title": "Brazil's Senate approves a shorter workweek in major win for Lula ahead of runoff",
+      "description": "Brazil’s Senate has approved a constitutional amendment to reduce the maximum workweek from 44 to 40 hours without cutting salaries",
+      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-shorter-workweek-major-win-lula-137275357",
+      "published": "Wed, 14 Oct 2026 22:58:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2591,10 +2594,10 @@
       "ticker_label": "💥 Kenya confirms third Ebola case, a relative of the first patient who died"
     },
     {
-      "title": "EU leaders push back on a major budget proposal, putting a deal by 2027 in doubt",
-      "description": "European Union leaders are voicing strong opposition to a new proposal for the bloc’s long-term budget",
-      "url": "https://abcnews.com/International/wireStory/eu-leaders-push-back-major-budget-proposal-putting-137284258",
-      "published": "Thu, 15 Oct 2026 09:05:34 -0400",
+      "title": "Brazil says Amazon deforestation fell to the lowest level since 1988",
+      "description": "Brazil’s government announces that annual deforestation in the Amazon has fallen to its lowest level since 1988",
+      "url": "https://abcnews.com/International/wireStory/brazil-amazon-deforestation-fell-lowest-level-1988-137329441",
+      "published": "Fri, 16 Oct 2026 14:36:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2602,10 +2605,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-leader of N. Ireland’s largest unionist party sentenced to 15 years for sex abuse",
-      "description": "The former leader of Northern Ireland’s largest unionist party has been on Thursday to 15 years in prison for the rape and sex abuse of two girls decades ago",
-      "url": "https://abcnews.com/International/wireStory/leader-northern-irelands-largest-unionist-party-sentenced-15-137281102",
-      "published": "Thu, 15 Oct 2026 07:36:23 -0400",
+      "title": "China opens joint airfield in Laos with eyes on its military role",
+      "description": "China’s newly opened joint military airfield in Laos is Beijing’s first overseas facility focused on air power",
+      "url": "https://abcnews.com/International/wireStory/china-opens-joint-airfield-laos-construction-ongoing-eyes-137275971",
+      "published": "Thu, 15 Oct 2026 02:55:43 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
