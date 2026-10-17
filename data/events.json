@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T02:22:18.780805Z",
+  "last_updated": "2026-10-17T02:44:03.023883Z",
   "event_count": 224,
   "events": [
     {
@@ -152,17 +152,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 As disasters mount, next UN climate summit faces a test of trust"
-    },
-    {
-      "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
-      "description": "A search and rescue operation is under way in the Black Sea after the latest attack in the area.",
-      "url": "https://www.bbc.co.uk/news/articles/c60qkgpp592yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 15 Oct 2026 14:51:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "West Bank: US journalist injured by Israeli settlers",
@@ -366,6 +355,31 @@
       "ticker_label": "🌪️ Tech market sell-off deepens amid fears over US inflation and AI debt"
     },
     {
+      "title": "Bus crash in Canada leaves 3 dead and multiple people injured, police say",
+      "description": "Three people are dead and multiple people are injured following a fire involving a city transit bus in Calgary, police said",
+      "url": "https://abcnews.com/International/wireStory/bus-crash-canada-leaves-3-dead-multiple-people-137304062",
+      "published": "Thu, 15 Oct 2026 19:05:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Canada's Carney makes final appeal against Alberta separation ahead of referendum",
+      "description": "Canadian Prime Minister Mark Carney made a final appeal to voters in his home province of Alberta warning that a referendum that could put the oil-rich province on a path toward independence is a dangerous gamble at a time of growing threats to Canada’...",
+      "url": "https://abcnews.com/International/wireStory/canadas-carney-makes-final-appeal-alberta-separation-ahead-137334494",
+      "published": "Fri, 16 Oct 2026 22:20:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Canada's Carney makes final appeal against Alberta separation ahead of referendum"
+    },
+    {
       "title": "Russia strikes 9 Ukrainian regions as strain grows between Zelenskyy and Trump",
       "description": "Russian attacks on nine regions of Ukraine have caused emergency power outages and damaged homes, wounding at least 15 people",
       "url": "https://abcnews.com/International/wireStory/russia-strikes-9-ukrainian-regions-strain-grows-zelenskyy-137313108",
@@ -477,6 +491,20 @@
       "is_ticker": false
     },
     {
+      "title": "Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path",
+      "description": "Canadian Prime Minister Mark Carney has campaigned for national unity as advance voting is underway in oil-rich Alberta in a referendum that could set the province on a path toward a future vote on separation from Canada",
+      "url": "https://abcnews.com/International/wireStory/prime-minister-mark-carney-us-break-canada-alberta-137300440",
+      "published": "Thu, 15 Oct 2026 23:46:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Prime Minister Mark Carney says US is trying to break Canada as Alberta votes on separation path"
+    },
+    {
       "title": "WHO scales up Ebola readiness in 22 countries across three continents",
       "description": "The World Health Organization (WHO) is strengthening Ebola preparedness amid conflict and displacement affecting millions of lives in a region that spans parts of Africa, Asia and Europe.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168613",
@@ -555,34 +583,6 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Brazil investigates Amazon wildfires that disrupt daily life",
-      "description": "Brazilian authorities are investigating whether a recent surge in Amazon wildfires was orchestrated",
-      "url": "https://abcnews.com/International/wireStory/brazil-investigates-amazon-wildfires-disrupt-daily-life-fueled-137285901",
-      "published": "Thu, 15 Oct 2026 09:39:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Brazil investigates Amazon wildfires that disrupt daily life"
-    },
-    {
-      "title": "French cybersecurity authority warns attack may be ongoing as stores scramble to restock",
-      "description": "Supermarkets in France and the Netherlands are dealing with the aftermath of a cyberattack that disrupted refrigeration systems",
-      "url": "https://abcnews.com/International/wireStory/french-cybersecurity-authority-warns-attack-ongoing-stores-scramble-137256642",
-      "published": "Wed, 14 Oct 2026 10:35:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 French cybersecurity authority warns attack may be ongoing as stores scramble to restock"
     },
     {
       "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
@@ -816,20 +816,6 @@
       "ticker_label": "🪖 Three years on, Israel still bars foreign journalists from entering Gaza"
     },
     {
-      "title": "Heavy rain and flooding in Istanbul forces closure of schools",
-      "description": "The Istanbul governor’s office has declared schools closed and placed some public sector workers on leave after heavy rainfalls caused flooding across the city",
-      "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-istanbul-forces-closure-schools-137267243",
-      "published": "Wed, 14 Oct 2026 15:49:37 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Heavy rain and flooding in Istanbul forces closure of schools"
-    },
-    {
       "title": "Suspected Florida Publix slasher walked free from court months earlier despite victim warnings",
       "description": "Ramsey Thomas Lyons allegedly slashed a 70-year-old Publix shopper with a box cutter months after a mental health court ended his probation early.",
       "url": "https://www.foxnews.com/us/suspected-florida-publix-slasher-walked-free-court-months-earlier-despite-victim-warnings",
@@ -894,15 +880,18 @@
       "ticker_label": "🌪️ Four dead as Istanbul suffers worst floods in 80 years"
     },
     {
-      "title": "El Salvador's Bukele unveils plan to free up to 50% arrested under state of emergency",
-      "description": "President Nayib Bukele of El Salvador announces a plan to release up to 50% of those imprisoned under a state of emergency",
-      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-unveils-plan-free-50-arrested-137273897",
-      "published": "Thu, 15 Oct 2026 03:09:40 -0400",
+      "title": "El Niño rains flood South America, sending residents fleeing and cattle swimming",
+      "description": "Rivers swollen by El Niño rains have flooded parts of Argentina, Paraguay and Uruguay, driving thousands of people from their homes",
+      "url": "https://abcnews.com/International/wireStory/el-nio-rains-flood-south-america-sending-residents-137330862",
+      "published": "Fri, 16 Oct 2026 22:21:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ El Niño rains flood South America, sending residents fleeing and cattle swimming"
     },
     {
       "title": "Afghanistan faces record hunger levels amid rampant rights violations",
@@ -1149,17 +1138,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Crowds throng New Delhi and wave Indian flags amid escalating protests"
-    },
-    {
-      "title": "The not-so-secret vulnerability in Ukraine's drone arsenal? Chinese technology",
-      "description": "Since Russia invaded more than four years ago, Ukraine has become a global leader in military drone innovation",
-      "url": "https://abcnews.com/International/wireStory/secret-vulnerability-ukraines-drone-arsenal-chinese-technology-137247698",
-      "published": "Wed, 14 Oct 2026 03:22:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "‘Peace through strength’: Trump Gaza plan gains global backing one year on",
@@ -1614,6 +1592,20 @@
       "is_ticker": false
     },
     {
+      "title": "2 missiles strike the airport in Yemen's port city of Aden, officials say",
+      "description": "Two missiles have struck the airport in Yemen’s port city of Aden, according to police",
+      "url": "https://abcnews.com/International/wireStory/2-missiles-strike-airport-yemens-port-city-aden-137331824",
+      "published": "Fri, 16 Oct 2026 22:21:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 2 missiles strike the airport in Yemen's port city of Aden, officials say"
+    },
+    {
       "title": "Serbian populist leader Aleksandar Vucic returns to tragedy-hit Novi Sad for preelection rally",
       "description": "Serbia’s populist leader Aleksandar Vucic has returned to Novi Sad, the northern city where 16 people died in a train station tragedy almost two years ago that set off a wave of anti-government protests",
       "url": "https://abcnews.com/International/wireStory/serbian-populist-leader-aleksandar-vucic-returns-tragedy-hit-137329440",
@@ -1626,17 +1618,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Serbian populist leader Aleksandar Vucic returns to tragedy-hit Novi Sad for preelection rally"
-    },
-    {
-      "title": "China’s trade surplus hits $938 billion for Jan-Sep as pressure ramps up to rebalance trade",
-      "description": "China’s customs agency says the country's exports surged 36.3% in September from a year earlier",
-      "url": "https://abcnews.com/International/wireStory/chinas-exports-surge-363-september-pressure-ramps-rebalance-137246051",
-      "published": "Wed, 14 Oct 2026 02:58:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Ex-OpenAI engineer charged with planting recording device had one-way flight booked to Saudi Arabia, DOJ says",
@@ -1755,6 +1736,17 @@
       "is_ticker": false
     },
     {
+      "title": "Lebanon opens investigation into Syrian militia leader's abduction and transfer to Syria",
+      "description": "Lebanese authorities are investigating how a former Syrian militia commander was kidnapped in Lebanon and taken to Syria",
+      "url": "https://abcnews.com/International/wireStory/lebanon-opens-investigation-syrian-militia-leaders-abduction-transfer-137331427",
+      "published": "Fri, 16 Oct 2026 22:21:11 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "India tightens security in New Delhi ahead of 'Cockroach' movement's rally",
       "description": "Indian authorities have increased security in New Delhi and closed a central park ahead of a flag-waving protest by the youth \"Cockroach\" movement",
       "url": "https://abcnews.com/International/wireStory/indian-authorities-tighten-security-new-delhi-ahead-cockroach-137313289",
@@ -1770,6 +1762,17 @@
       "description": "In France, teenagers are protesting for better-resourced schools, leading to clashes with one of Europe's largest internal security forces",
       "url": "https://abcnews.com/International/wireStory/policing-frances-school-protests-clouds-macrons-final-months-137310490",
       "published": "Fri, 16 Oct 2026 03:12:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Minibus slams into Channel Tunnel shuttle train, injuring 19 and halting service",
+      "description": "A minibus carrying truck drivers has crashed into a train in the Channel Tunnel between France and England, injuring 19 people",
+      "url": "https://abcnews.com/International/wireStory/minibus-slams-channel-tunnel-shuttle-train-injuring-19-137304000",
+      "published": "Thu, 15 Oct 2026 19:05:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1996,6 +1999,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role"
+    },
+    {
+      "title": "Brazil sees record fall in Amazon deforestation as key election looms",
+      "description": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 02:33:09 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Katie Zacharia leaving her White House role less than five days on the job",
@@ -2530,10 +2544,10 @@
       "is_ticker": false
     },
     {
-      "title": "Kenya confirms third Ebola case, a relative of the first patient who died",
-      "description": "Kenya’s health ministry confirmed that a third person tested positive for Ebola on Friday while in quarantine as a known contact of the first patient, who died two days after arriving from Congo",
-      "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289",
-      "published": "Fri, 16 Oct 2026 14:34:28 -0400",
+      "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
+      "description": "Tech giant Meta has denied accusations it has acted with political bias during Brazil’s presidential campaign",
+      "url": "https://abcnews.com/International/wireStory/meta-denies-accusation-anti-lula-political-bias-brazil-137336666",
+      "published": "Fri, 16 Oct 2026 22:20:45 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2541,7 +2555,29 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Kenya confirms third Ebola case, a relative of the first patient who died"
+      "ticker_label": "💥 Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling"
+    },
+    {
+      "title": "Burly men in Gaza pull trucks and flip tires in competition of strength",
+      "description": "Burly men in Gaza pulled trucks with ropes and flipped massive tires as part of a strength competition that drew cheers from Palestinian onlookers",
+      "url": "https://abcnews.com/International/wireStory/burly-men-gaza-pull-trucks-flip-tires-competition-137332044",
+      "published": "Fri, 16 Oct 2026 22:21:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Presidential adviser says Ukraine is in talks to lift speed limit on military satellite network",
+      "description": "Ukraine is in talks with SpaceX and the Pentagon to lift a speed cap on its military satellite communication service",
+      "url": "https://abcnews.com/International/wireStory/presidential-adviser-ukraine-talks-lift-speed-limit-military-137331428",
+      "published": "Fri, 16 Oct 2026 22:21:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Brazil says Amazon deforestation fell to the lowest level since 1988",
@@ -2555,48 +2591,18 @@
       "is_ticker": false
     },
     {
-      "title": "Building housing London's oldest restaurant is donated to a conservation charity",
-      "description": "The building that houses London’s oldest restaurant has been donated to Europe’s biggest conservation charity",
-      "url": "https://abcnews.com/International/wireStory/building-housing-londons-oldest-restaurant-donated-conservation-charity-137256644",
-      "published": "Wed, 14 Oct 2026 10:38:17 -0400",
+      "title": "Kenya confirms third Ebola case, a relative of the first patient who died",
+      "description": "Kenya’s health ministry confirmed that a third person tested positive for Ebola on Friday while in quarantine as a known contact of the first patient, who died two days after arriving from Congo",
+      "url": "https://abcnews.com/International/wireStory/kenya-confirms-ebola-case-relative-patient-died-137325289",
+      "published": "Fri, 16 Oct 2026 14:34:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Lufthansa to buy 44.9% of TAP Air Portugal in €1.2B deal",
-      "description": "Lufthansa is buying a 44.9% stake in TAP Air Portugal in a deal valued at 1.3 billion dollars",
-      "url": "https://abcnews.com/International/wireStory/lufthansa-buy-449-tap-air-portugal-12b-deal-137254490",
-      "published": "Wed, 14 Oct 2026 08:58:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Libya executing people based on secret trials and confessions extracted under torture, group says",
-      "description": "Libya has executed at least 31 people since late August, marking the first known executions since 2010, according to Human Rights Watch",
-      "url": "https://abcnews.com/International/wireStory/libya-executing-people-based-secret-trials-confessions-extracted-137257783",
-      "published": "Wed, 14 Oct 2026 10:35:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Fraud probe over NATO contracts leads to 5 arrests in Norway and searches in Germany and Romania",
-      "description": "The European Union’s criminal justice agency says five people have been arrested in Norway in connection with suspected fraud and bribery linked to NATO ship contracts",
-      "url": "https://abcnews.com/International/wireStory/fraud-probe-nato-contracts-leads-5-arrests-norway-137258100",
-      "published": "Wed, 14 Oct 2026 11:25:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Kenya confirms third Ebola case, a relative of the first patient who died"
     },
     {
       "title": "Guterres urges faster action and financing to stop biodiversity loss",
