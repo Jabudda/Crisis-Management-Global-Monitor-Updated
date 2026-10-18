@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18T06:26:15.615246Z",
+  "last_updated": "2026-10-18T06:50:20.343567Z",
   "event_count": 220,
   "events": [
     {
@@ -207,20 +207,6 @@
       "ticker_label": "🚨 Bend school district honors slain teacher, praises staff member's courage during attack: ‘Forever grateful’"
     },
     {
-      "title": "West Bank: US journalist injured by Israeli settlers",
-      "description": "Washington Post journalist Heidi Levine said she was beaten by Israeli settlers in the occupied West Bank. Reporters Without Borders slammed the attack as \"brazen violence.\"",
-      "url": "https://www.dw.com/en/west-bank-us-journalist-injured-by-israeli-settlers/a-79684181?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 16 Oct 2026 19:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 24,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 West Bank: US journalist injured by Israeli settlers"
-    },
-    {
       "title": "WHO urges faster action to end lead exposure which kills 3.5 million annually",
       "description": "Countries must accelerate efforts to prevent lead exposure, which is estimated to cause more than 3.5 million deaths globally each year and affects hundreds of millions of children, the World Health Organization (WHO) said on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168600",
@@ -388,6 +374,17 @@
       "is_ticker": false
     },
     {
+      "title": "Major fire breaks out in Alberta after deadly incident at military base",
+      "description": "Canada’s defense minister says that people have been killed and injured in an incident at a military base in Alberta that caused a major fire, while reports said that large numbers of injured people were being transported to hospitals",
+      "url": "https://abcnews.com/International/wireStory/major-fire-breaks-alberta-after-deadly-incident-military-137354452",
+      "published": "Sun, 18 Oct 2026 02:34:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
       "description": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
@@ -458,15 +455,32 @@
       "ticker_label": "🪖 Rioters loot stores, set fires in central Milan during cost-of-living protest"
     },
     {
-      "title": "Deaths confirmed in major fire at Canada military base",
-      "description": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister.",
+      "title": "Several dead or injured in major fire at Canada military base",
+      "description": "Officials have not given a death toll, citing the \"very active and delicate\" situation at Canadian Forces Base Wainwright.",
       "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 04:00:50 GMT",
+      "published": "Sun, 18 Oct 2026 06:47:57 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Several dead or injured in major fire at Canada military base"
+    },
+    {
+      "title": "Months-long Indonesia wildfires spew toxic haze across Southeast Asia",
+      "description": "Parts of southern Southeast Asia have been put under the highest-level haze alert as wildfires that have swept Indonesia for months continue to belch toxic smoke across the region. The seasonal wildfires are worse this year due to the drought conditions caused by a severe \"super-El Nino\" effect.",
+      "url": "https://www.france24.com/en/asia-pacific/20261018-months-long-indonesia-wildfires-spew-toxic-haze-across-southeast-asia",
+      "published": "Sun, 18 Oct 2026 06:30:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Months-long Indonesia wildfires spew toxic haze across Southeast Asia"
     },
     {
       "title": "Man and woman charged with assault and criminal damage after fatal house fire",
@@ -478,31 +492,6 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Major fire breaks out in Alberta after deadly incident at military base",
-      "description": "Canada’s defense minister says that people have been killed and injured in an incident at a military base in Alberta that caused a major fire",
-      "url": "https://abcnews.com/International/wireStory/major-fire-breaks-alberta-after-deadly-incident-military-137354452",
-      "published": "Sun, 18 Oct 2026 00:18:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Canada's Carney makes final appeal against Alberta separation ahead of referendum",
-      "description": "Canadian Prime Minister Mark Carney made a final appeal to voters in his home province of Alberta warning that a referendum that could put the oil-rich province on a path toward independence is a dangerous gamble at a time of growing threats to Canada’...",
-      "url": "https://abcnews.com/International/wireStory/canadas-carney-makes-final-appeal-alberta-separation-ahead-137334494",
-      "published": "Fri, 16 Oct 2026 22:20:52 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Canada's Carney makes final appeal against Alberta separation ahead of referendum"
     },
     {
       "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
@@ -671,15 +660,18 @@
       "ticker_label": "💥 Israeli settlers attack European delegation convoy in West Bank, beat French mayor"
     },
     {
-      "title": "Fires and clashes rock France amid massive nationwide protests",
-      "description": "Protesters clashed with police in Paris and other French cities on Saturday as hundreds of thousands took to the streets to protest higher living costs and the declining conditions in schools and other public services. Several town halls were broken into – and in at least one instance set on fire – and many shops were vandalised and ransacked. One protester had his hand torn off by what appeared to be a crowd-control grenade used by police.",
-      "url": "https://www.france24.com/en/france/20261017-looting-fires-and-clashes-rock-france-amid-massive-nationwide-protests",
-      "published": "Sat, 17 Oct 2026 12:31:24 GMT",
-      "source": "France24",
+      "title": "Brazil investigates Amazon wildfires that disrupt daily life",
+      "description": "Brazilian authorities are investigating whether a recent surge in Amazon wildfires was orchestrated",
+      "url": "https://abcnews.com/International/wireStory/brazil-investigates-amazon-wildfires-disrupt-daily-life-fueled-137285901",
+      "published": "Thu, 15 Oct 2026 09:39:53 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Brazil investigates Amazon wildfires that disrupt daily life"
     },
     {
       "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
@@ -1180,17 +1172,6 @@
       "is_ticker": false
     },
     {
-      "title": "Clashes, fires and looting break out as protesters rally across France",
-      "description": "Violent clashes, fires, and looting have marred demonstrations across France as hundreds of thousands protest rising living costs and poor school conditions",
-      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
-      "published": "Sat, 17 Oct 2026 22:50:56 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine",
       "description": "Food and medical supplies have been scarce for months in Oleshky, which sits on the Dnipro River that separates Ukrainian forces from the city’s Russian occupiers",
       "url": "https://abcnews.com/International/wireStory/winter-hunger-looms-residents-trapped-russian-occupied-city-137341209",
@@ -1203,6 +1184,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 A winter of hunger looms for residents trapped in Russian-occupied city in Ukraine"
+    },
+    {
+      "title": "Clashes, fires and looting break out as protesters rally across France",
+      "description": "Violent clashes, fires, and looting have marred demonstrations across France as hundreds of thousands protest rising living costs and poor school conditions",
+      "url": "https://abcnews.com/International/wireStory/protesters-france-rally-rising-living-costs-joining-students-137342706",
+      "published": "Sat, 17 Oct 2026 22:50:56 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -1231,17 +1223,6 @@
       "description": "Brothers Jake and Callum Robinson and their friend Carter Rhoad were killed on a surfing trip in an apparent botched robbery.",
       "url": "https://www.bbc.co.uk/news/articles/c3kgqjkzw29wo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 03:11:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
-      "description": "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses.",
-      "url": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 01:55:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1388,20 +1369,6 @@
       "is_ticker": false
     },
     {
-      "title": "Masked settlers attack European diplomats in the occupied West Bank",
-      "description": "Belgium’s foreign minister says masked settlers have attacked a group of European diplomats in the occupied West Bank",
-      "url": "https://abcnews.com/International/wireStory/masked-settlers-attack-european-diplomats-occupied-west-bank-137348438",
-      "published": "Sat, 17 Oct 2026 13:38:26 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Masked settlers attack European diplomats in the occupied West Bank"
-    },
-    {
       "title": "US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus",
       "description": "Republican U.S. Sen. Rick Scott accused Turkey of “thuggish behavior” toward Greece and Cyprus and questioned Ankara’s commitment to NATO amid longstanding disputes over Aegean airspace, maritime boundaries and the divided island of Cyprus",
       "url": "https://abcnews.com/International/wireStory/us-senator-accuses-turkey-thuggish-behavior-greece-cyprus-137347982",
@@ -1414,6 +1381,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US senator accuses Turkey of ‘thuggish behavior’ toward Greece and Cyprus"
+    },
+    {
+      "title": "Masked settlers attack European diplomats in the occupied West Bank",
+      "description": "Belgium’s foreign minister says masked settlers have attacked a group of European diplomats in the occupied West Bank",
+      "url": "https://abcnews.com/International/wireStory/masked-settlers-attack-european-diplomats-occupied-west-bank-137348438",
+      "published": "Sat, 17 Oct 2026 13:38:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Masked settlers attack European diplomats in the occupied West Bank"
     },
     {
       "title": "Colombia: UN independent experts call for Ecopetrol to provide reparations to victims of armed conflict",
@@ -1585,6 +1566,17 @@
       "is_ticker": false
     },
     {
+      "title": "India: CJP leader Abhijeet Dipke released after detention",
+      "description": "Two other prominent CJP leaders are set to be released on Sunday. India has seen huge rallies calling on the country's top election official to step down over alleged manipulation of voter rolls.",
+      "url": "https://www.dw.com/en/india-cjp-leader-abhijeet-dipke-released-after-detention/a-79690933?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 18 Oct 2026 06:29:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Trump puts new Russia sanctions on hold",
       "description": "The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia.",
       "url": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
@@ -1619,6 +1611,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city"
+    },
+    {
+      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
+      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 00:41:58 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 A thousand slogans echoed here - but it could be the end for iconic Delhi protest site"
     },
     {
       "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
@@ -1759,6 +1765,17 @@
       "is_ticker": false
     },
     {
+      "title": "India tightens security in New Delhi ahead of 'Cockroach' movement's rally",
+      "description": "Indian authorities have increased security in New Delhi and closed a central park ahead of a flag-waving protest by the youth \"Cockroach\" movement",
+      "url": "https://abcnews.com/International/wireStory/indian-authorities-tighten-security-new-delhi-ahead-cockroach-137313289",
+      "published": "Fri, 16 Oct 2026 07:08:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Ivy League-educated pediatrician allegedly murdered by husband who then set home on fire: police",
       "description": "Julia Pederson, a Stanford-educated pediatrician at UPMC, was allegedly strangled by husband Jonathan Gatto before he set their Harrisburg home ablaze.",
       "url": "https://www.foxnews.com/us/ivy-league-educated-pediatrician-allegedly-murdered-husband-set-home-fire-police",
@@ -1824,6 +1841,17 @@
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What we learned from heated US midterm Senate debates",
+      "description": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged.",
+      "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 19:09:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2010,10 +2038,10 @@
       "is_ticker": false
     },
     {
-      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
-      "description": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 00:38:34 GMT",
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 18:11:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2021,24 +2049,10 @@
       "is_ticker": false
     },
     {
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "description": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 23:54:35 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC"
-    },
-    {
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 18:11:29 GMT",
+      "title": "Trial of German steakhouse heiress that sparked a huge spy scandal",
+      "description": "For 15 months, a high-security courtroom in Hamburg has been hearing the case of Christina Block, accused of ordering the abduction of her children.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgdn3d656vo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 16 Oct 2026 23:07:18 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2431,32 +2445,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
-      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
-      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
-      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How Alberta separatism went from fringe cause to referendum",
-      "description": "For decades, Alberta separatism was a fringe cause",
-      "url": "https://abcnews.com/International/wireStory/alberta-separatism-fringe-cause-referendum-137346263",
-      "published": "Sat, 17 Oct 2026 10:34:39 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
-      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
-      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
+      "title": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
+      "description": "The sentencing marked the end of a lengthy legal process over the killings.",
+      "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
+      "published": "Sat, 17 Oct 2026 06:18:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2486,10 +2478,10 @@
       "is_ticker": false
     },
     {
-      "title": "3 men sentenced to 158 years for the killings of Australian, US surfers in Mexico",
-      "description": "The sentencing marked the end of a lengthy legal process over the killings.",
-      "url": "https://abcnews.com/International/wireStory/3-men-sentenced-158-years-killings-australian-us-137340778",
-      "published": "Sat, 17 Oct 2026 06:18:41 -0400",
+      "title": "How Alberta separatism went from fringe cause to referendum",
+      "description": "For decades, Alberta separatism was a fringe cause",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatism-fringe-cause-referendum-137346263",
+      "published": "Sat, 17 Oct 2026 10:34:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2497,18 +2489,26 @@
       "is_ticker": false
     },
     {
-      "title": "Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling",
-      "description": "Tech giant Meta has denied accusations it has acted with political bias during Brazil’s presidential campaign",
-      "url": "https://abcnews.com/International/wireStory/meta-denies-accusation-anti-lula-political-bias-brazil-137336666",
-      "published": "Fri, 16 Oct 2026 22:20:45 -0400",
+      "title": "Zelenskyy urges support for new US sanctions on Russia after Trump puts them on hold",
+      "description": "Zelenskyy calls Trump's decision to put them on hold \"unfortunate.\"",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-urges-support-new-us-sanctions-russia-after-137342993",
+      "published": "Sat, 17 Oct 2026 11:30:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Meta denies accusation of anti-Lula political bias in Brazil after electoral court ruling"
+      "is_ticker": false
+    },
+    {
+      "title": "Pro-Western opposition wins big in Czech Senate election, dealing a blow to populist PM Babiš",
+      "description": "Pro-Western opposition parties have won big in the Czech Republic's vote for one-third of the seats in Parliament’s upper house, the Senate, dealing a blow to Prime Minister Andrej Babiš's ruling coalition",
+      "url": "https://abcnews.com/International/wireStory/pro-western-opposition-wins-big-czech-senate-election-137347562",
+      "published": "Sat, 17 Oct 2026 11:47:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Guterres urges faster action and financing to stop biodiversity loss",
