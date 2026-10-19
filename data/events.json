@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T20:41:45.209111Z",
-  "event_count": 205,
+  "last_updated": "2026-10-19T21:15:31.827100Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
@@ -31,15 +31,18 @@
       "ticker_label": "🪖 Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll"
     },
     {
-      "title": "Gangs in Haiti target foreign troops in biggest attack since new force began operations",
-      "description": "Gangs in Haiti have opened fire on an armored vehicle, leaving four soldiers from El Salvador unaccounted for in the first major attack since an international gang suppression force began operations in the violence-wracked country",
-      "url": "https://abcnews.com/International/wireStory/gangs-haiti-target-foreign-troops-biggest-attack-new-137376267",
-      "published": "Mon, 19 Oct 2026 09:50:26 -0400",
-      "source": "ABC News International",
+      "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+      "description": "The Ukrainian army says it has carried out the world’s first drone evacuation of a wounded soldier from the front line.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 20:49:39 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 37,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Injured Ukrainian soldier rescued in first-ever drone evacuation mission"
     },
     {
       "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
@@ -54,6 +57,34 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza"
+    },
+    {
+      "title": "Zelensky says Starshield speed limits slowing down frontline response",
+      "description": "Speed limits on a US military grade satellite system are hindering Ukrainian forces' ability to coordinate drone strikes against Russian forces, President Volodymyr Zelensky said on Monday. Zelensky said frontline units had reported that the Starshield equipment \"stops functioning at speeds of 130-160 kilometres (80-100 miles) per hour in various sectors of the front\". Separately, a Ukrainian army brigade has announced the rescue of a wounded soldier from the front line using an aerial drone, describing the evacuation as the first of its kind. The brigade published a video showing the drone lowering itself to the ground, before a man in combat gear fastens himself to a winch onboard and is lifted upwards. FRANCE 24's Gulliver Cragg reports from Ukraine.",
+      "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
+      "published": "Mon, 19 Oct 2026 18:45:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelensky says Starshield speed limits slowing down frontline response"
+    },
+    {
+      "title": "Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum",
+      "description": "At least 80 people were killed in a drone strike near a market in Sudan’s southern West Kordofan state, a medical source and a witness said Monday, in one of the deadliest single attacks since the Sudan war erupted in 2023. A separate drone attack Monday in the capital Khartoum killed four, including three children.",
+      "url": "https://www.france24.com/en/africa/20261019-drone-attack-near-southern-sudan-market-kills-scores",
+      "published": "Mon, 19 Oct 2026 14:00:04 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Drone attacks kill scores in Sudan's West Kordofan state and capital Khartoum"
     },
     {
       "title": "Sudan drone attacks kill 3 children in Khartoum, dozens of civilians in Kordofan",
@@ -81,18 +112,15 @@
       "ticker_label": "💥 Three deaths from float crushes raise safety concerns over Japanese festivals"
     },
     {
-      "title": "Bulgarian authorities seek arrests Germans in arson of Starlink antennas",
-      "description": "Bulgaria issued an international arrest warrant for two German citizens suspected of setting fire to Starlink antennas outside the Bulgarian capital",
-      "url": "https://abcnews.com/International/wireStory/bulgarian-authorities-seek-arrests-germans-arson-starlink-antennas-137391013",
-      "published": "Mon, 19 Oct 2026 15:50:17 -0400",
-      "source": "ABC News International",
+      "title": "Macron kicks off three-day Gulf tour, seeks securing fuel supplies amid crisis",
+      "description": "French President Emmanuel Macron on Monday began a Gulf tour aimed at securing oil and diesel supplies in an effort to bring down prices, after a weekend of violent protests sparked by soaring living costs. Macron, just hours after slamming France's \"unbridled\" violence in an address late on Sunday, arrived in OPEC member Kuwait where he was welcomed by the emir, Sheikh Mishal Al-Ahmad Al-Jaber Al-Sabah. FRANCE 24's International Affairs Editor Kethevane Gorjestani tells us more.",
+      "url": "https://www.france24.com/en/video/20261019-macron-kicks-off-three-day-gulf-tour-seeks-securing-fuel-supplies-amid-crisis",
+      "published": "Mon, 19 Oct 2026 14:02:57 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 32,
       "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Bulgarian authorities seek arrests Germans in arson of Starlink antennas"
+      "is_ticker": false
     },
     {
       "title": "Drone attack near market kills 80 in Sudan",
@@ -107,6 +135,31 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Drone attack near market kills 80 in Sudan"
+    },
+    {
+      "title": "Ukraine deploys drone to airlift wounded soldier in 'world-first' operation",
+      "description": "Ukraine has evacuated a wounded soldier from the front line using an aerial drone in what a Ukrainian army brigade has described as a world-first operation. The successful mission highlights the growing role of unmanned technology in battlefield evacuations as drones continue to shape the conflict between Ukraine and Russia.",
+      "url": "https://www.france24.com/en/europe/20261019-ukraine-deploys-drone-airlift-wounded-soldier-world-first-operation",
+      "published": "Mon, 19 Oct 2026 15:44:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "'Police weren't overwhelmed by people protesting and marching' about education and cost of living",
+      "description": "Oliver Farry is pleased to welcome Andrew Smith, Lecturer in Liberal Arts at Queen Mary University of London. France's escalating social unrest has exposed a troubling disconnect between legitimate popular grievances and the government's increasingly security-focused response. Smith argues that the violence accompanying otherwise largely peaceful demonstrations reveals serious failures of policing, while President Emmanuel Macron's response offers \"very little of substance.\" Drawing parallels with France's historic protest movements, Smith identifies a \"convergence of causes\" rooted in economic insecurity, educational inequalities and political paralysis. He warns that a repressive response risks deepening the crisis, calling instead for a renewed commitment to \"participatory social democracy.\"",
+      "url": "https://www.france24.com/en/video/20261019-police-weren-t-overwhelmed-by-people-protesting-and-marching-about-education-and-cost-of-living",
+      "published": "Mon, 19 Oct 2026 14:58:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'Police weren't overwhelmed by people protesting and marching' about education and cost of living"
     },
     {
       "title": "AI, green energy and economic transitions risk leaving vulnerable communities behind, UN warns",
@@ -126,7 +179,7 @@
       "title": "Helen Haines: independent MP in critical condition in Melbourne’s Alfred hospital after being struck by car in Wangaratta  – follow updates",
       "description": "A joint counter-terrorism taskforce is investigating the incident, which Anthony Albanese alleged ‘wasn’t an accident’ ‘Deeply appalled’: politicians condemn alleged attack after Helen Haines critically injured Helen Haines, the principled MP respected across parliament What we know so far Get our new political email , free app or daily news podcast ‘It’s very clear that this was a deliberate act’, PM says The prime minister, Anthony Albanese , said Haines’ alleged attacker “did a U-turn in order to get back to where Helen Haines was” after passing her on the road. It would appear that the driver of the vehicle that inflicted the damage to Helen Haines did a U-turn in order to get back to where Helen Haines was after passing where she was getting things from the boot or putting things into the boot of her car. So it’s clear that there was a deliberate act here, this wasn’t an accident – someone, you know, just getting off the road here. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/20/helen-haines-independent-mp-alleged-car-attack-wangaratta-melbourne-hospital-ntwnfb",
-      "published": "Mon, 19 Oct 2026 20:34:07 GMT",
+      "published": "Mon, 19 Oct 2026 21:02:19 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 29,
@@ -148,6 +201,28 @@
       "is_ticker": false
     },
     {
+      "title": "Paris weekend riots raise concerns for tourism industry",
+      "description": "France announced partial curfews in Paris and other cities on Monday after weekend demonstrations over soaring prices degenerated into some of the worst street violence in recent years. Images of riots and looting in France over the weekend have been seen across the world and are worrying the country's tourism industry. Could the violence put off foreign tourists from visiting? FRANCE 24's Selina Sykes reports.",
+      "url": "https://www.france24.com/en/paris-weekend-riots-raise-concerns-for-tourism-industry",
+      "published": "Mon, 19 Oct 2026 19:06:20 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "France wants curfews in some areas after weekend of riots",
+      "description": "France's central government asked some local authorities to impose curfews and faced pressure over security failings on Monday after a weekend of riots and looting borne out of nationwide anti-government protests. Prime Minister Sébastien Lecornu did not rule out declaring state of emergency but said it was more appropriate for now to apply partial and localised curfews, without providing details of which cities would be affected.",
+      "url": "https://www.france24.com/en/video/20261019-france-wants-curfews-in-some-areas-after-weekend-of-riots",
+      "published": "Mon, 19 Oct 2026 15:37:30 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 28,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Violence erupts at France protests as Macron warns unrest is being exploited",
       "description": "French President Emmanuel Macron called for calm as tear gas, water cannons and over 8,000 arrests mark weeks of violent clashes across the country.",
       "url": "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
@@ -162,11 +237,44 @@
       "ticker_label": "🪖 Violence erupts at France protests as Macron warns unrest is being exploited"
     },
     {
+      "title": "French PM says 'ultra-left' seeking 'deep unrest' ahead of election",
+      "description": "French Prime Minister Sebastien Lecornu on Monday accused the \"ultra-left movement\" of seeking to \"orchestrate deep unrest across the country\" in the runup to next year's presidential election. FRANCE 24 International Affairs Editor Angela Diffley looks back at Lecornu's remarks in the wake of the violent protests that shook the country over the weekend.",
+      "url": "https://www.france24.com/en/video/20261019-french-pm-says-ultra-left-seeking-deep-unrest-ahead-of-election",
+      "published": "Mon, 19 Oct 2026 14:20:25 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "France protests draw global attention: Trump, Vance blame immigration for unrest",
+      "description": "US President Donald Trump on Sunday blamed immigration for unrest during protests in France and urged the country to tighten its migration rules. Trump's post comes after similar comments made by Vice President JD Vance on Saturday. Vance, who is seen as a potential presidential candidate in the 2028 election, also drew a connection to upcoming midterm races for congressional seats on November 3, where Republicans are not expected to perform well. FRANCE 24's Fraser Jackson reports from the United States.",
+      "url": "https://www.france24.com/en/video/20261019-france-protests-draw-global-attention-trump-vance-blame-immigration-for-unrest",
+      "published": "Mon, 19 Oct 2026 14:04:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
       "description": "Paul Mackenzie and his church set up sect that ordered followers to starve themselves and their children, say prosecutors A Kenyan court has found the starvation cult leader Paul Mackenzie and about 30 others guilty of murder over the deaths of ⁠190 children and one adult in one of the world’s worst cult-related disasters in recent history. Mackenzie was arrested in 2023 after police received a tipoff, and weeks later authorities began uncovering bodies in shallow graves in the Shakahola forest near the coast ⁠in south-eastern Kenya. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
       "published": "Mon, 19 Oct 2026 16:08:14 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "French far right seeks to capitalise on protests with calls for law and order",
+      "description": "In the wake of the weekend's violence, the political camps have been trading blame for the “chaos”. The riots have played into the hands of the far-right National Rally, which has been quick to capitalise on the anger and fears over law and order. FRANCE 24's Emerald Maxwell takes a look.",
+      "url": "https://www.france24.com/en/french-far-right-seeks-to-capitalise-on-protests-with-calls-for-law-and-order",
+      "published": "Mon, 19 Oct 2026 19:41:46 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 26,
       "severity_level": "Critical",
@@ -196,6 +304,20 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'",
+      "description": "François Picard is pleased to welcome art crime detective Arthur Brand. \"In the old days they stole a painting, but a painting is unique; you cannot cut it in two,\" explains Brand, \"In the last 10 years they have been targeting more and more objects made of gold, silver\". He examines the transformation of international art theft, warning that increasingly sophisticated criminal opportunism is shifting attention from irreplaceable paintings towards precious metals and gemstones that can be dismantled, melted down or dispersed.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261019-art-crime-detective-arthur-brand-warns-all-museums-have-been-and-will-be-victims-of-theft",
+      "published": "Mon, 19 Oct 2026 20:16:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Art crime detective Arthur Brand warns: 'All museums have been, and will be, victims of theft'"
     },
     {
       "title": "Bend school district honors slain teacher, praises staff member's courage during attack: ‘Forever grateful’",
@@ -259,6 +381,20 @@
       "ticker_label": "🪖 Warning signs over threats to Australian politicians were rising before MP hit by car"
     },
     {
+      "title": "One killed in US shooting near mosque in Columbus, Ohio",
+      "description": "Local authorities say mosque was not target of attack.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 19:50:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 One killed in US shooting near mosque in Columbus, Ohio"
+    },
+    {
       "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
       "description": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
       "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435?maca=en-rss-en-all-1573-xml-mrss",
@@ -287,6 +423,17 @@
       "ticker_label": "🪖 The world is waging a ‘war on nature’ as progress on biodiversity targets lags"
     },
     {
+      "title": "Four soldiers dead, dozens injured in fire at Canada military base",
+      "description": "Four soldiers were killed and dozens injured in a fire at a military base in Alberta province, one of the worst peacetime tragedies to hit Canada's armed forces on home soil, Prime Minister Mark Carney said Sunday.",
+      "url": "https://www.france24.com/en/video/20261019-four-soldiers-dead-dozens-injured-in-fire-at-canada-military-base",
+      "published": "Mon, 19 Oct 2026 14:25:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
       "description": "Like many people in the war-ravaged Gaza Strip, Ahmed Al-Omari is preparing for another winter of bitter cold and rain that threatens to cause flooding as families struggle to survive in tattered tents and damaged buildings.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168619",
@@ -313,7 +460,7 @@
     },
     {
       "title": "After 25 years, Australian dance star Lucy Guerin bows out of the company she founded",
-      "description": "The choreographer said goodbye to Lucy Guerin Inc by dancing in public for the first time in 13 years - which she found ‘incredibly confronting’ If there is one thing the professional dancer learns never to expect, it’s longevity. The physical demands on the body and increasing risk of injury tend to necessitate short careers. Melbourne-based choreographer Lucy Guerin has certainly bucked that trend, with a CV spanning decades and several international awards under her belt. But after 25 years at the helm of her eponymous company, she is now stepping away, conferring her artistic directorship on choreographer Melanie Lane. Before she departed, Guerin returned to the stage for an exquisite solo show, Place Dances, inside Melbourne’s Buxton Contemporary art gallery. It was the first time she had danced publicly in 13 years. “I have found it incredibly confronting, to be honest,” she says, hours before the premiere. “As a dancer, you always remember in your body what it feels like to do an arabesque or a jump. And part of me thought I could still do all those things if I just got back in the studio and trained a bit.” She laughs at her own hubris. “But I’m afraid that wasn’t the case.” Continue reading...",
+      "description": "The choreographer said goodbye to Lucy Guerin Inc by dancing in public for the first time in 13 years - which she found ‘incredibly confronting’ If there is one thing the professional dancer learns never to expect, it’s longevity. The physical demands on the body and increasing risk of injury tend to necessitate short careers. Melbourne-based choreographer Lucy Guerin has certainly bucked that trend, with a CV spanning decades and several international awards under her belt. But after 25 years at the helm of her eponymous company, she is now stepping away, conferring her artistic directorship on choreographer Melanie Lane. Before she left, Guerin returned to the stage for an exquisite solo show, Place Dances, inside Melbourne’s Buxton Contemporary art gallery. It was the first time she had danced publicly in 13 years. “I have found it incredibly confronting, to be honest,” she says, hours before the premiere. “As a dancer, you always remember in your body what it feels like to do an arabesque or a jump. And part of me thought I could still do all those things if I just got back in the studio and trained a bit.” She laughs at her own hubris. “But I’m afraid that wasn’t the case.” Continue reading...",
       "url": "https://www.theguardian.com/stage/2026/oct/20/after-25-years-australian-dance-star-lucy-guerin-bows-out-of-the-company-she-founded",
       "published": "Mon, 19 Oct 2026 14:00:02 GMT",
       "source": "The Guardian World",
@@ -340,11 +487,11 @@
       "ticker_label": "🪖 Ukraine got 'no warning' of Russian ballistic strikes, Zelenskyy says"
     },
     {
-      "title": "Gold mine collapse kills at least 6 in southwest Colombia",
-      "description": "At least six miners were killed Monday when an open pit gold mine collapsed in a remote corner of Colombia’s Nariño province, authorities said",
-      "url": "https://abcnews.com/International/wireStory/gold-mine-collapse-kills-6-southwest-colombia-137392944",
-      "published": "Mon, 19 Oct 2026 16:30:46 -0400",
-      "source": "ABC News International",
+      "title": "France faces reckoning with public order policing after violent protest weekend",
+      "description": "France reeled Monday after a weekend of nationwide unrest sparked by mass protests against the rising cost of living and in support of high school students’ demands over education funding. In the violent clashes that erupted, law enforcement officers and protesters were wounded, public buildings were set ablaze and businesses were looted, raising significant questions about the French police's approach to public order.",
+      "url": "https://www.france24.com/en/france/20261019-france-faces-reckoning-public-order-policing-after-violent-protest-weekend",
+      "published": "Mon, 19 Oct 2026 19:56:15 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 21,
       "severity_level": "Critical",
@@ -374,6 +521,20 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "France protests: Who are the people arrested during the unrest?",
+      "description": "At least 2,400 people were arrested in France during protests over the weekend, some simply for being in the wrong place at the wrong time, others on suspicion of theft and looting. In an official address, French President Emmanuel Macron warned that “those who looted will have to pay for the damage”. But who exactly are these rioters?",
+      "url": "https://www.france24.com/en/video/20261019-france-protests-who-are-the-people-arrested-during-the-unrest",
+      "published": "Mon, 19 Oct 2026 15:36:05 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 France protests: Who are the people arrested during the unrest?"
     },
     {
       "title": "Deadly fire at Canada military base moved a kilometre 'in 30 to 60 seconds'",
@@ -413,6 +574,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Houthi strike on Yemen government military camp kills at least 50"
+    },
+    {
+      "title": "France: ‘localised’ curfews announced after weekend of violence",
+      "description": "Following a weekend of #violence and #looting, the French government has announced localised #curfews, financial support for affected businesses and a tougher judicial response, while keeping the option of a state of emergency on the table.",
+      "url": "https://www.france24.com/en/france-localised-curfews-announced-after-weekend-scenes-of-violence",
+      "published": "Mon, 19 Oct 2026 16:44:38 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
@@ -490,6 +662,20 @@
       "is_ticker": false
     },
     {
+      "title": "France riots: AI photos falsely depict elderly couple ‘stripped and robbed’",
+      "description": "AI-generated photos falsely claiming to show an elderly couple being “stripped and robbed” during unrest in France have racked up millions of views. Amplified by far-right accounts, the images fuelled inflammatory claims about Muslims, Jews and the riots. The FRANCE 24 Observers traced one image to an AI photo montage published by a pro-Israel account. The images were created using OpenAI tools, and the alleged assault remains unverified, with no official reports confirming the attack.",
+      "url": "https://www.france24.com/en/france-riots-ai-photos-falsely-depict-elderly-couple-stripped-and-robbed-1",
+      "published": "Mon, 19 Oct 2026 20:06:36 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 France riots: AI photos falsely depict elderly couple ‘stripped and robbed’"
+    },
+    {
       "title": "Police issue overnight curfew in 2 areas of Paris to try to prevent further disorder",
       "description": "Paris police say that they have issued an overnight curfew in two areas of the French capital “to protect people and property from the violence and looting.”",
       "url": "https://abcnews.com/International/wireStory/macron-rejects-interior-ministers-resignation-rioting-looting-expose-137372032",
@@ -551,15 +737,18 @@
       "ticker_label": "🪖 Florida issues arrest warrant for Cuban leader Raul Castro"
     },
     {
-      "title": "Search under way for four soldiers missing after gang attack in Haiti",
-      "description": "The UN Security Council holds a meeting on Haiti; the attack on UN-backed forces is expected to dominate the discussions.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/search-under-way-for-four-soldiers-missing-after-gang-attack-in-haiti?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 16:40:01 +0000",
-      "source": "Al Jazeera",
+      "title": "Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria after bomb threat",
+      "description": "Bulgaria state television reports that a flight from Tel Aviv made an emergency landing in Sofia after a bomb threat",
+      "url": "https://abcnews.com/International/wireStory/flight-tel-aviv-vienna-makes-emergency-landing-bulgaria-137365438",
+      "published": "Sun, 18 Oct 2026 19:11:21 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 17,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria after bomb threat"
     },
     {
       "title": "National Guard member shot in DC, police chief says",
@@ -673,7 +862,7 @@
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
       "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 20:13:27 GMT",
+      "published": "Mon, 19 Oct 2026 20:49:00 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 15,
@@ -684,10 +873,21 @@
       "ticker_label": "🪖 Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC"
     },
     {
+      "title": "Israeli police say they arrested 10 in connection with settler attacks",
+      "description": "Israeli police released a video they say shows the arrest of 10 suspects over weekend settler violence.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/israeli-police-say-they-arrested-10-in-connection-with-settler-attacks?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 21:00:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "France: Curfews issued in Paris, Nice after unrest",
       "description": "French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
       "url": "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 19 Oct 2026 19:02:00 GMT",
+      "published": "Mon, 19 Oct 2026 19:57:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 15,
@@ -704,6 +904,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
+      "description": "An airstrike has killed at least nine people in an area of Yemen controlled by Iran-backed Houthi rebels as fighting escalates with Saudi-backed forces",
+      "url": "https://abcnews.com/International/wireStory/us-ambassador-israel-condemns-settler-attack-us-journalist-137358198",
+      "published": "Sun, 18 Oct 2026 12:58:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news"
     },
     {
       "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
@@ -778,20 +992,6 @@
       "ticker_label": "🪖 Hungary and Poland defend tough migration policies as France reels from violent unrest"
     },
     {
-      "title": "US Federal authorities responding to shooting at mosque in Columbus, Ohio",
-      "description": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 19:50:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 US Federal authorities responding to shooting at mosque in Columbus, Ohio"
-    },
-    {
       "title": "Protesters block Louvre in support of French student movement",
       "description": "French students are now blockading the world’s busiest museum.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/protesters-block-louvre-in-support-of-french-student-movement?traffic_source=rss",
@@ -853,20 +1053,6 @@
       "is_ticker": false
     },
     {
-      "title": "War on Iran backlash threatens Republican control of Congress",
-      "description": "Public opposition to the war on Iran could threaten Republican control of Congress.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_iran-war-fuels-anger-ahead-of-us-midterms-191026?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 16:24:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 War on Iran backlash threatens Republican control of Congress"
-    },
-    {
       "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
       "description": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that such a move would be “discriminatory”. Downing Street said on Friday that it would “welcome the objective to have the UK included in the Industrial Accelerator Act” after France dropped its opposition to Britain joining the scheme . Continue reading...",
       "url": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
@@ -923,21 +1109,10 @@
       "ticker_label": "✈️ Flight from Tel Aviv to Vienna makes emergency landing after bomb threat"
     },
     {
-      "title": "From France to Albania, social unrest is setting Europe's streets ablaze",
-      "description": "Rising food and fuel prices, a lack of funding for education, the state of public services, and access to housing have created the perfect breeding ground for a fall of protests across Europe",
-      "url": "https://abcnews.com/International/wireStory/france-albania-social-unrest-setting-europes-streets-ablaze-137383294",
-      "published": "Mon, 19 Oct 2026 12:44:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "North Korea threatens to restart propaganda broadcasts, deploy more weapons at border",
-      "description": "North Korea has threatened to resume propaganda broadcasts and deploy more weapons along the border with South Korea, as the rivals remain locked in animosities over last month’s mine blasts that injured three South Korean soldiers",
-      "url": "https://abcnews.com/International/wireStory/north-korea-threatens-restart-propaganda-broadcasts-deploy-weapons-137373680",
-      "published": "Mon, 19 Oct 2026 09:06:11 -0400",
+      "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
+      "description": "Washington Post photographer Heidi Levine, attacked by Jewish settlers in the West Bank, says she's angry that Israel's military seems to protect settlers more than those under threat",
+      "url": "https://abcnews.com/International/wireStory/photographer-attacked-settlers-west-bank-feels-insulted-netanyahu-137363206",
+      "published": "Sun, 18 Oct 2026 15:22:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1131,6 +1306,20 @@
       "ticker_label": "💥 West Bank: Israel arrests 10 suspects over settler attacks on US journalist, European diplomats"
     },
     {
+      "title": "Russia-China-US summit would prolong the war, Kyiv says",
+      "description": "Ukrainian ⁠Foreign Minister ​Andrii Sybiha said on ​Monday that a summit between Russia, China ​and the ‌US would ⁠encourage President Vladimir Putin ‌to prolong the war. The ​Wall Street Journal reported that Putin had proposed a ​summit next month ​with US ​President Donald Trump and Chinese President ​Xi Jinping to negotiate an end to the war on terms ⁠that would favour Moscow. FRANCE 24's Monte Francis reports.",
+      "url": "https://www.france24.com/en/russia-china-us-summit-would-prolong-the-war-kyiv-says",
+      "published": "Mon, 19 Oct 2026 19:21:00 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia-China-US summit would prolong the war, Kyiv says"
+    },
+    {
       "title": "Could your brain data be used against you? UN calls for limits on neurotechnology",
       "description": "Brain signals recorded by a gaming headset or a wellness gadget could one day be used as evidence against you in court, according to a new UN report which warns that neurotechnology is outpacing the laws meant to protect human rights.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168609",
@@ -1258,10 +1447,10 @@
       "is_ticker": false
     },
     {
-      "title": "Philippines summons Chinese ambassador to protest remarks it says threatened force",
-      "description": "The Philippine government has summoned the Chinese ambassador to protest remarks it considered a threat to use force",
-      "url": "https://abcnews.com/International/wireStory/philippines-summons-chinese-ambassador-protest-remarks-threatened-force-137371744",
-      "published": "Mon, 19 Oct 2026 06:18:19 -0400",
+      "title": "Albertans vote on path to independence as Carney fights to keep Canada united",
+      "description": "Voters in Canada’s oil-rich Alberta province will decide Monday whether to begin a process that could lead to independence, testing national unity",
+      "url": "https://abcnews.com/International/wireStory/albertans-vote-path-independence-carney-fights-canada-united-137370162",
+      "published": "Mon, 19 Oct 2026 05:38:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1341,6 +1530,17 @@
       "ticker_label": "🚨 Bollywood actor Tiger Shroff survives shooting attempt in Mumbai"
     },
     {
+      "title": "Kenya convicts cult leader over the murder of 190 children",
+      "description": "The leader of a Kenyan cult who instructed followers to starve themselves to death to reach heaven has been found guilty",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 20:31:21 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Finland seeking one million land mines as it eyes Russian threat",
       "description": "Helsinki recently joined regional peers in withdrawing from UN Charter banning munitions as it eyes its eastern border.",
       "url": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
@@ -1350,34 +1550,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?",
-      "description": "Trump’s endorsement comes after he previously shied away from fully backing Netanyahu’s election campaign.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/trump-backs-netanyahu-is-the-us-planning-a-new-iran-attack-with-israel?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 17:16:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Trump backs Netanyahu: Is the US planning a new Iran attack with Israel?"
-    },
-    {
-      "title": "How HSBC’s Sharia fund invested millions in Israeli war-linked firms",
-      "description": "HSBC bought $130m in shares in firms tied to Israel’s military, in breach of Islamic law compliance requirements.",
-      "url": "https://www.aljazeera.com/news/2026/10/19/how-hsbcs-sharia-fund-invested-millions-in-israeli-war-linked-firms?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 17:14:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 How HSBC’s Sharia fund invested millions in Israeli war-linked firms"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1505,18 +1677,37 @@
       "ticker_label": "🪖 Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'"
     },
     {
-      "title": "Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8",
-      "description": "Ukrainian President Volodymyr Zelenskyy says Russia launched ballistic missiles and drones to attack Ukraine's energy infrastructure again",
-      "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-hit-kyiv-overnight-killing-1-137371029",
-      "published": "Mon, 19 Oct 2026 09:46:20 -0400",
+      "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "description": "Egypt's top security body says it has agreed to support Saudi Arabia in its fight against Iranian-backed Houthi rebels in Yemen",
+      "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
+      "published": "Sun, 18 Oct 2026 15:22:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8"
+      "is_ticker": false
+    },
+    {
+      "title": "Congo’s fast-moving Ebola outbreak spreads to eighth province",
+      "description": "The Ebola outbreak in Congo has spread to an eighth province",
+      "url": "https://abcnews.com/International/wireStory/congos-fast-moving-ebola-outbreak-spreads-eighth-province-137363686",
+      "published": "Sun, 18 Oct 2026 18:48:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
+      "description": "Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg",
+      "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
+      "published": "Mon, 19 Oct 2026 03:06:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Inside the New York ‘time machine’ racing to save a century of sound and film",
@@ -1609,6 +1800,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "DZ Mafia murder trial set to begin near Marseille",
+      "description": "Five men with alleged connections to the major criminal group DZ Mafia are accused of murdering, in 2020, the elder brother of anti-drug activist Amine Kessaci – now deputy mayor of Aix-en-Provence. The trial, set to begin on Monday, highlights the threat posed by mafia-style drug trafficking networks in the region. FRANCE 24’s Delano D’Souza reports.",
+      "url": "https://www.france24.com/en/video/20261019-dz-mafia-murder-trial-set-to-begin-near-marseille",
+      "published": "Mon, 19 Oct 2026 15:58:06 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1707,21 +1909,21 @@
       "is_ticker": false
     },
     {
-      "title": "Shawn Oliver pleads not guilty to OUI charge after crash",
-      "description": "Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts",
-      "url": "https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161",
-      "published": "Mon, 19 Oct 2026 16:33:09 -0400",
-      "source": "ABC News International",
+      "title": "Brazil court orders Meta to prove it gives Lula, Bolsonaro campaign content equal treatment",
+      "description": "Brazil’s top electoral court has given Meta 24 hours to prove it is treating campaign content from incumbent President Luiz Inácio Lula da Silva and Senator Flavio Bolsonaro equally on its online platforms, threatening a daily fine for noncompliance. The ruling follows allegations from Lula's campaign that the social media giant is suppressing Lula’s campaign content ahead of Sunday’s closely contested presidential runoff.",
+      "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment",
+      "published": "Mon, 19 Oct 2026 14:16:05 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
     {
-      "title": "Former South African president denies impeding investigation and prosecution of apartheid-era cases",
-      "description": "Former South African President Thabo Mbeki denies ordering prosecutors to halt apartheid-era crime cases or making secret deals to protect former security officers",
-      "url": "https://abcnews.com/International/wireStory/former-south-african-president-denies-impeding-investigation-prosecution-137377328",
-      "published": "Mon, 19 Oct 2026 09:50:32 -0400",
+      "title": "Shawn Oliver pleads not guilty to OUI charge after crash",
+      "description": "Shawn Oliver has pleaded not guilty to charges of operating under the influence and other related offenses after suspending his campaign for lieutenant governor of Massachusetts",
+      "url": "https://abcnews.com/International/wireStory/shawn-oliver-pleads-guilty-oui-charge-after-crash-137392161",
+      "published": "Mon, 19 Oct 2026 16:33:09 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1850,6 +2052,17 @@
       "is_ticker": false
     },
     {
+      "title": "🔴 France issues curfew for parts of central Paris",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/france/20261019-live-french-pm-lecornu-calls-for-partial-curfews-in-cities-hit-by-riots-and-looting",
+      "published": "Mon, 19 Oct 2026 17:09:26 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Convicted serial rapist originally sentenced to 124 years walks free after 20, sparking outrage",
       "description": "Andrew Luster, convicted of 86 felony counts for drugging and assaulting women, is reportedly living in Glendora after serving only 20 years in prison.",
       "url": "https://www.foxnews.com/us/convicted-serial-rapist-originally-sentenced-124-years-walks-free-after-20-sparking-outrage",
@@ -1883,10 +2096,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
       "description": "The Saudi government did not immediately respond to BBC requests for comment.",
       "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 16:22:12 GMT",
+      "published": "Mon, 19 Oct 2026 21:12:30 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1938,6 +2151,28 @@
       "is_ticker": false
     },
     {
+      "title": "Trump approval hits record-low 31 percent, polls show Republican struggles",
+      "description": "Reuters/Ipsos poll shows Democrats leading by 12 points in generic US congressional ballot surveys against Republicans.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-approval-hits-record-low-31-percent-polls-show-republican-struggles?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 20:59:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump signs order launching women’s health division at NIH, White House",
+      "description": "First Lady Melania Trump has championed the executive action as a 'transformative moment' for US women's health.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 20:29:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Benny Gantz drops out of Israel’s election race",
       "description": "Decision comes after polls showed his Blue and White party below the 3.25 percent threshold needed to enter the Knesset.",
       "url": "https://www.aljazeera.com/news/2026/10/19/benny-gantz-drops-out-of-israels-election-race?traffic_source=rss",
@@ -1975,17 +2210,6 @@
       "description": "A judge also doubled the daily fine for noncompliance with a previous court order governing political content.",
       "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment?traffic_source=rss",
       "published": "Mon, 19 Oct 2026 17:24:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "12 migrants, including an infant, drown in two incidents off Greece",
-      "description": "Two separate boat incidents off the Greek islands of Lesbos and Samos left 12 migrants dead.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/12-migrants-including-an-infant-drown-in-two-incidents-off-greece?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 17:23:56 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2279,10 +2503,10 @@
       "is_ticker": false
     },
     {
-      "title": "Millions of dollars are unaccounted for in Ebola response, officials say. This is what we know.",
-      "description": "Africa’s top public health agency and Congolese officials said that over $700 million in Ebola aid is unaccounted for, and called on organizations to provide more information about their spending",
-      "url": "https://abcnews.com/International/wireStory/millions-dollars-unaccounted-ebola-response-officials-137386655",
-      "published": "Mon, 19 Oct 2026 15:52:42 -0400",
+      "title": "Alberta separatists say they'll keep fighting after independence vote",
+      "description": "One of Alberta’s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542",
+      "published": "Sun, 18 Oct 2026 00:22:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2290,10 +2514,35 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo XIV urges humanitarian cooperation between Ukraine and Russia during call with Zelenskyy",
-      "description": "Pope Leo XIV has spoken by phone with Ukrainian President Volodymyr Zelenskyy",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-urges-humanitarian-cooperation-ukraine-russia-137385600",
-      "published": "Mon, 19 Oct 2026 15:53:15 -0400",
+      "title": "Hungarian journalists feel the pressure lifting after Orbán’s defeat",
+      "description": "Former Hungarian Prime Minister Viktor Orbán's election defeat in April ended a 16-year rule marked by media control and restrictions on press freedoms",
+      "url": "https://abcnews.com/International/wireStory/hungarian-journalists-feel-pressure-lifting-after-orbns-defeat-137370898",
+      "published": "Mon, 19 Oct 2026 03:56:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Kenya’s Ebola cases hit 8, with no community transmission yet",
+      "description": "Ebola cases in Kenya rose to eight on Sunday after another person tested positive while in quarantine, having been identified as a contact of the first patient",
+      "url": "https://abcnews.com/International/wireStory/kenyas-ebola-cases-hit-8-community-transmission-137365855",
+      "published": "Sun, 18 Oct 2026 23:38:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Kenya’s Ebola cases hit 8, with no community transmission yet"
+    },
+    {
+      "title": "China's economy accelerated in the July-September quarter on robust exports",
+      "description": "China says its economy grew 4.5% for the July-September quarter from a year ago",
+      "url": "https://abcnews.com/International/wireStory/chinas-economy-accelerates-robust-exports-domestic-weakness-persists-137369591",
+      "published": "Mon, 19 Oct 2026 07:22:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2312,21 +2561,10 @@
       "is_ticker": false
     },
     {
-      "title": "Barcelona 'grandmas' dish out cooking wisdom. And find nourishment themselves",
-      "description": "In Barcelona, a group called Grandmas Cooking Barcelona offers visitors a chance to cook and eat traditional Spanish food",
-      "url": "https://abcnews.com/International/wireStory/barcelona-grandmas-dish-cooking-wisdom-find-nourishment-137381338",
-      "published": "Mon, 19 Oct 2026 11:37:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "German police say 2 men turned themselves in after smashing car into an airport fence",
-      "description": "German police say that two men have turned themselves in after a security fence was damaged at Leipzig Airport",
-      "url": "https://abcnews.com/International/wireStory/german-police-2-men-turned-after-smashing-car-137374754",
-      "published": "Mon, 19 Oct 2026 08:58:31 -0400",
+      "title": "Pope Leo XIV urges humanitarian cooperation between Ukraine and Russia during call with Zelenskyy",
+      "description": "Pope Leo XIV has spoken by phone with Ukrainian President Volodymyr Zelenskyy",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-urges-humanitarian-cooperation-ukraine-russia-137385600",
+      "published": "Mon, 19 Oct 2026 15:53:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
