@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T04:20:58.389461Z",
-  "event_count": 223,
+  "last_updated": "2026-10-19T04:46:53.097134Z",
+  "event_count": 224,
   "events": [
     {
       "title": "Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll",
@@ -376,15 +376,18 @@
       "is_ticker": false
     },
     {
-      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
-      "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
-      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 18 Oct 2026 22:22:51 GMT",
-      "source": "BBC News",
+      "title": "Rioters loot stores, set fires in central Milan during cost-of-living protest",
+      "description": "The march against wars and rising living costs began peacefully.",
+      "url": "https://abcnews.com/International/wireStory/rioters-loot-stores-set-fires-central-milan-cost-137352156",
+      "published": "Sat, 17 Oct 2026 17:45:58 -0400",
+      "source": "ABC News International",
       "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Rioters loot stores, set fires in central Milan during cost-of-living protest"
     },
     {
       "title": "Major fire at Canada military base leaves four dead, dozens injured",
@@ -410,6 +413,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Oil facilities hit in deadly overnight attack on St Petersburg"
+    },
+    {
+      "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+      "description": "A historic town hall in the French city of Limoges has been damaged in an apparent arson attack following a day of nationwide protests",
+      "url": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 22:22:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Carney says 4 service members killed and dozens injured in fire at Alberta military base",
@@ -495,6 +509,20 @@
       "is_ticker": false
     },
     {
+      "title": "Florida Attorney General James Uthmeier secures state arrest warrant for Raúl Castro",
+      "description": "A no-bond Florida arrest warrant charges Raúl Castro with conspiracy to commit first-degree murder in the 1996 Brothers to the Rescue shootdown.",
+      "url": "https://www.foxnews.com/us/florida-attorney-general-james-uthmeier-secures-state-arrest-warrant-raul-castro",
+      "published": "Mon, 19 Oct 2026 00:15:33 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Florida Attorney General James Uthmeier secures state arrest warrant for Raúl Castro"
+    },
+    {
       "title": "Limoges Town Hall 'largely lost' after far-left rioters set historic building on fire amid French unrest",
       "description": "Rioters set fire to the historic Limoges Town Hall, collapsing its roof and destroying much of the landmark as France's protests rage on.",
       "url": "https://www.foxnews.com/world/limoges-town-hall-largely-lost-after-far-left-rioters-set-historic-building-fire-amid-french-unrest",
@@ -506,7 +534,7 @@
       "is_ticker": false
     },
     {
-      "title": "Beau Lamarre-Condon told cop friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told",
+      "title": "Beau Lamarre-Condon told officer friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told",
       "description": "Accused asked fellow police officer how law enforcement would respond to reports of gunshots days before alleged murders, court hears Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon allegedly told a friend “I love you’” and “not everything in the news is true” a month after he was arrested over a double murder, a court has heard. Lamarre-Condon, 31, has been accused of fatally shooting Sydney couple Jesse Baird and Luke Davies with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/19/beau-lamarre-condon-told-cop-friend-i-love-you-and-not-everything-in-the-news-is-true-after-arrest-court-told-ntwnfb",
       "published": "Mon, 19 Oct 2026 03:36:11 GMT",
@@ -517,7 +545,7 @@
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Beau Lamarre-Condon told cop friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told"
+      "ticker_label": "🚨 Beau Lamarre-Condon told officer friend ‘I love you’ and ‘not everything in the news is true’ after arrest, court told"
     },
     {
       "title": "How reliant is Ukraine on the US-controlled Starlink internet service?",
@@ -555,6 +583,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "France's government under pressure after weekend of widespread violence",
+      "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 04:16:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -678,15 +717,18 @@
       "is_ticker": false
     },
     {
-      "title": "‘Limited evidence’ of protester violence at Sydney demonstration against Israeli president Isaac Herzog visit",
-      "description": "Amid police brutality allegations, inquiry hears protesters against visit of Israeli president were ‘largely peaceful’ Get our new political email , free app or daily news podcast An inquiry into a Sydney rally against the Israeli president’s visit has so far found protesters were “largely peaceful” and there is “limited evidence of physical violence on the part of the protesters”. The Law Enforcement Conduct Commission (Lecc) kicked off its inquiry into the February protest at Sydney’s town hall against the visit of Isaac Herzog on Monday, outlining a number of issues it is examining, including police use of OC spray and “ police boasting about gratuitous force ”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/19/limited-evidence-violence-sydney-protest-herzog-visit-police-ntwnfb",
-      "published": "Mon, 19 Oct 2026 01:39:12 GMT",
-      "source": "The Guardian World",
+      "title": "'Crisis simulation' asks what if Russia was pushed into wider war?",
+      "description": "Mutiny erupts in the Russian exclave of Kaliningrad in an uncomfortable test for the Kremlin.",
+      "url": "https://news.sky.com/story/sky-news-defence-insider-gets-exclusive-access-to-staged-kaliningrad-crisis-simulation-13600825",
+      "published": "Mon, 19 Oct 2026 05:11:00 +0100",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'Crisis simulation' asks what if Russia was pushed into wider war?"
     },
     {
       "title": "Zelenskyy says US taking Putin's side would be 'historic mistake' - as Russian oil sites attacked",
@@ -1139,17 +1181,6 @@
       "is_ticker": false
     },
     {
-      "title": "Murder weapons in Great Wolf Lodge family massacre may offer premeditation evidence: private investigator",
-      "description": "A private investigator says evidence points to possible premeditation in the Great Wolf Lodge double murder at the Poconos resort in Pennsylvania.",
-      "url": "https://www.foxnews.com/us/murder-weapons-great-wolf-lodge-family-massacre-may-offer-premeditation-evidence-private-investigator",
-      "published": "Fri, 16 Oct 2026 07:00:28 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Macron calls for 'calm and order' after riots across France",
       "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
       "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
@@ -1521,32 +1552,10 @@
       "ticker_label": "🪖 Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'"
     },
     {
-      "title": "US ambassador to Israel condemns settler attack on US journalist, and other Mideast news",
-      "description": "The U.S. ambassador to Israel condemns a settler attack that left an American journalist badly beaten in the West Bank",
-      "url": "https://abcnews.com/International/wireStory/us-ambassador-israel-condemns-settler-attack-us-journalist-137358198",
-      "published": "Sun, 18 Oct 2026 06:25:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
       "description": "Egypt's top security body says it has agreed to support Saudi Arabia in its fight against Iranian-backed Houthi rebels in Yemen",
       "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
       "published": "Sun, 18 Oct 2026 15:08:09 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
-      "description": "Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg",
-      "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
-      "published": "Sun, 18 Oct 2026 14:10:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1583,6 +1592,28 @@
       "description": "French president expressed anger and shame over recent violence.",
       "url": "https://abcnews.com/International/wireStory/macron-address-nation-after-riots-looting-lead-1800-137358854",
       "published": "Sun, 18 Oct 2026 19:23:41 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "St Petersburg oil facilities ablaze as Ukraine launches more than 1,000 drones at Russia",
+      "description": "Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg",
+      "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
+      "published": "Sun, 18 Oct 2026 14:10:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "US ambassador to Israel condemns settler attack on US journalist, and other Mideast news",
+      "description": "The U.S. ambassador to Israel condemns a settler attack that left an American journalist badly beaten in the West Bank",
+      "url": "https://abcnews.com/International/wireStory/us-ambassador-israel-condemns-settler-attack-us-journalist-137358198",
+      "published": "Sun, 18 Oct 2026 06:25:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1963,17 +1994,6 @@
       "is_ticker": false
     },
     {
-      "title": "India tightens security in New Delhi ahead of 'Cockroach' movement's rally",
-      "description": "Indian authorities have increased security in New Delhi and closed a central park ahead of a flag-waving protest by the youth \"Cockroach\" movement",
-      "url": "https://abcnews.com/International/wireStory/indian-authorities-tighten-security-new-delhi-ahead-cockroach-137313289",
-      "published": "Fri, 16 Oct 2026 07:08:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Ivy League-educated pediatrician allegedly murdered by husband who then set home on fire: police",
       "description": "Julia Pederson, a Stanford-educated pediatrician at UPMC, was allegedly strangled by husband Jonathan Gatto before he set their Harrisburg home ablaze.",
       "url": "https://www.foxnews.com/us/ivy-league-educated-pediatrician-allegedly-murdered-husband-set-home-fire-police",
@@ -2032,7 +2052,7 @@
       "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
       "description": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 02:41:41 GMT",
+      "published": "Mon, 19 Oct 2026 04:30:59 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 3,
@@ -2124,17 +2144,6 @@
       "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
       "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 17 Oct 2026 22:09:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 18:11:29 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2329,6 +2338,17 @@
       "is_ticker": false
     },
     {
+      "title": "Minns accused of bypassing high court ruling with laws to allow NSW mine to increase coal production by 32%",
+      "description": "Bill to authorise production expansion at Mount Pleasant coalmine, subject to a landmark high court decision, criticised as ‘legislative overreach’ Get our breaking news email , free app or daily news podcast The Minns government says it will introduce special legislation to allow a mine in the New South Wales Hunter Valley that was the subject of high court proceedings to increase its coal production by 32% per year. The premier, Chris Minns, said the bill would authorise MACH Energy to increase the annual coal output at its Mount Pleasant coalmine by 4m tonnes to 16.5MT per year until 2032. He claimed it was necessary to save 400 jobs at the site before Christmas. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/19/chris-minns-bill-expansion-mount-pleasant-coalmine-high-court-decision",
+      "published": "Mon, 19 Oct 2026 04:21:15 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "PM, Coalition and crossbench support Jacqui Lambie after Pauline Hanson cartoon mocked vaginal prolapse",
       "description": "One Nation leader said Tasmanian senator should ‘get over it’ and claimed the cartoon was ‘satirical’ Get our breaking news email , free app or daily news podcast Anthony Albanese has praised the courage of Jacqui Lambie in speaking out about her struggles with vaginal prolapse, as politicians from across the spectrum condemn a One Nation cartoon. The latest cartoon, part of Pauline Hanson’s Please Explain series, depicts the army veteran as saying “I can’t laugh because of my prolapsed vagina,” before adding a crude sound effect ridiculing the health condition. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/19/jacqui-lambie-one-nation-pauline-hanson-please-explain-ntwnfb",
@@ -2486,17 +2506,6 @@
       "is_ticker": false
     },
     {
-      "title": "Alberta separatists say they'll keep fighting after independence vote",
-      "description": "One of Alberta’s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
-      "url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542",
-      "published": "Sun, 18 Oct 2026 00:22:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "China's economy accelerates on robust exports as domestic weakness persists",
       "description": "China says its economy grew 4.5% for the July-September quarter from a year ago, moving closer to meeting its official annual growth target as the year nears its end",
       "url": "https://abcnews.com/International/wireStory/chinas-economy-accelerates-robust-exports-domestic-weakness-persists-137369591",
@@ -2548,6 +2557,17 @@
       "description": "Rabbi Elie Abadie, who left Lebanon over 50 years ago, remains deeply connected to his Lebanese roots",
       "url": "https://abcnews.com/International/wireStory/israel-lebanon-agreement-shines-light-long-lost-jewish-137357254",
       "published": "Sun, 18 Oct 2026 03:00:03 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Alberta separatists say they'll keep fighting after independence vote",
+      "description": "One of Alberta’s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542",
+      "published": "Sun, 18 Oct 2026 00:22:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
