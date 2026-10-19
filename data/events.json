@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T11:41:04.941340Z",
-  "event_count": 224,
+  "last_updated": "2026-10-19T12:27:18.400193Z",
+  "event_count": 225,
   "events": [
     {
       "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
@@ -187,6 +187,17 @@
       "url": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
       "published": "Sun, 18 Oct 2026 23:53:13 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Australian prime minister says lawmaker critically injured by car is 'no accident'",
+      "description": "A car hit an Australian federal independent lawmaker on Monday, critically injuring her in an apparent deliberate attack, Prime Minister Anthony Albanese said. The driver was arrested.",
+      "url": "https://www.npr.org/2026/10/19/g-s1-148737/australia-lawmaker-critically-injured",
+      "published": "Mon, 19 Oct 2026 07:38:43 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 24,
       "severity_level": "Critical",
@@ -440,17 +451,6 @@
       "is_ticker": false
     },
     {
-      "title": "Emmanuel Macron slams 'failures' over protest unrest in France but refuses his interior minister's resignation",
-      "description": "France's president has refused the resignation of his interior minister, who says police \"lost control\" during nationwide protests that turned violent at the weekend. Limited curfews are being imposed around the country.",
-      "url": "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 19 Oct 2026 05:53:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Ukraine: Critical health supplies destroyed in ongoing Russian attacks",
       "description": "Ongoing and deadly Russian attacks across Ukraine are causing serious healthcare disruption, with more than $1.5 million-worth of medicines and supplies destroyed in four separate strikes on warehouses used by the UN there since July.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168603",
@@ -511,6 +511,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Third Ebola case in Kenya highlights US failures amid Trump cuts to key services",
+      "description": "Opposition to US-led quarantine center in Kenya follows sweeping funding cuts and withdrawal from WHO A third person in Kenya has tested positive for Bundibugyo ebolavirus in the country’s first-ever cluster of Ebola cases, as the second-largest outbreak in history kills more than 4,300 and sickens more than 9,000 people in the region. It highlights the diminished role the US has played in the worsening Ebola outbreak by building a controversial quarantine center in Kenya, pulling back health support globally, and banning travelers from certain countries. All of this has also reduced the ability to identify and respond to the outbreak and exacerbated mistrust. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/19/ebola-cases-kenya-us-quarantine",
+      "published": "Mon, 19 Oct 2026 12:00:01 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -623,6 +634,17 @@
       "is_ticker": false
     },
     {
+      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
+      "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 07:46:54 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
       "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
       "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
@@ -637,15 +659,18 @@
       "ticker_label": "🪖 Inside the shadowy world of anti-Putin sabotage from within Russia"
     },
     {
-      "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
-      "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 07:46:54 GMT",
-      "source": "BBC News",
+      "title": "On Iran, Israel’s opposition is even more hawkish than Netanyahu",
+      "description": "In rest of the world, the Israeli PM is often blamed for the Iran war. His opponents say he hasn't been tough enough.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/on-iran-israels-opposition-is-even-more-hawkish-than-netanyahu?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 11:35:52 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 On Iran, Israel’s opposition is even more hawkish than Netanyahu"
     },
     {
       "title": "Qatar warns global energy shockwaves from Iran war have yet to peak",
@@ -804,11 +829,33 @@
       "ticker_label": "💥 Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify"
     },
     {
+      "title": "Personal attacks fire up debate before Brazil's run-off vote",
+      "description": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger.",
+      "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 11:41:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
       "published": "Mon, 10 Apr 2023 12:22:59 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Emmanuel Macron slams 'failures' over protest unrest in France but refuses his interior minister's resignation",
+      "description": "France's president has refused the resignation of his interior minister, who says police \"lost control\" during protests that turned violent at the weekend. France's PM has called for limited curfews around the country.",
+      "url": "https://www.dw.com/en/emmanuel-macron-slams-failures-over-protest-unrest-in-france-but-refuses-his-interior-minister-s-resignation/a-79695496?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 19 Oct 2026 05:53:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -849,6 +896,20 @@
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+      "description": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs.",
+      "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 18 Oct 2026 21:00:22 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Inside Chicago's battle against the synthetic drugs flooding the US"
     },
     {
       "title": "Mali’s military and armed groups committing abuses against civilians: HRW",
@@ -1032,6 +1093,20 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Four Canadian soldiers killed after grass fire spread 'a kilometre in 36 seconds'",
+      "description": "The four Canadian soldiers who died during a training exercise at the weekend did so when a grass fire spread \"a kilometre in 36 seconds\", officials said.",
+      "url": "https://news.sky.com/story/four-canadian-soldiers-killed-after-grass-fire-spread-a-kilometre-in-36-seconds-13600915",
+      "published": "Mon, 19 Oct 2026 11:24:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Four Canadian soldiers killed after grass fire spread 'a kilometre in 36 seconds'"
     },
     {
       "title": "Flight from Tel Aviv to Vienna makes emergency landing after bomb threat",
@@ -1308,11 +1383,11 @@
       "is_ticker": false
     },
     {
-      "title": "Student protests widen into greater social unrest in France",
-      "description": "Hundreds of protests took place in cities across France. Most of them were peaceful but some turned chaotic and violent.",
-      "url": "https://www.npr.org/2026/10/17/nx-s1-6006735/student-protests-widen-into-greater-social-unrest-in-france",
-      "published": "Sat, 17 Oct 2026 17:18:52 -0400",
-      "source": "NPR World News",
+      "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
+      "description": "Amid funding shortages, the World Food Program has said it is being forced to reduce necessary aid. Over two-thirds of Palestinians in Gaza are facing acute hunger, according to the agency.",
+      "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 19 Oct 2026 11:41:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1339,20 +1414,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Meloni backs police after cost-of-living protests turn violent in Italian cities",
-      "description": "Anger over living costs and low wages has brought Italians onto the streets. A major union has called a general strike for November 20.",
-      "url": "https://www.dw.com/en/meloni-backs-police-after-cost-of-living-protests-turn-violent-in-italian-cities/a-79692755?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 18 Oct 2026 16:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Meloni backs police after cost-of-living protests turn violent in Italian cities"
     },
     {
       "title": "🔴 Live: France's Yellow Vest movement calls for new round of protests after weekend unrest",
@@ -1759,17 +1820,6 @@
       "is_ticker": false
     },
     {
-      "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-      "description": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK Jr Guinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday. The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "published": "Wed, 14 Oct 2026 13:16:30 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Israel: Trump endorses Netanyahu ahead of elections",
       "description": "The US president said he supports Israel's current prime minister in the country's elections on October 27. But polls say Netanyahu and his far-right partners currently lack the majority to secure a new term.",
       "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-xml-mrss",
@@ -1784,7 +1834,7 @@
       "title": "France's PM calls for localized curfews in cities to curb rioting and looting",
       "description": "French Prime Minister Sébastien Lecornu has instructed prefects to impose \"very limited\" and \"localized\" curfews in cities to prevent more rioting and looting",
       "url": "https://abcnews.com/International/wireStory/macron-rejects-interior-ministers-resignation-rioting-looting-expose-137372032",
-      "published": "Mon, 19 Oct 2026 07:34:24 -0400",
+      "published": "Mon, 19 Oct 2026 08:24:17 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1804,20 +1854,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Recovering from lung surgery, Pope Leo urges Putin to agree to ceasefire in Russian-held Ukraine city"
-    },
-    {
-      "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-      "description": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site.",
-      "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 00:41:58 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 A thousand slogans echoed here - but it could be the end for iconic Delhi protest site"
     },
     {
       "title": "Indonesia battles worst forest fires and toxic haze in 11 years",
@@ -1950,6 +1986,17 @@
       "is_ticker": false
     },
     {
+      "title": "Qatar to unveil regional defence partnership",
+      "description": "Qatar to unveil regional defence partnership",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/qatar-to-unveil-regional-defence-partnership?traffic_source=rss",
+      "published": "Mon, 19 Oct 2026 11:51:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -2063,17 +2110,6 @@
       "ticker_label": "💥 ChinaAid raises alarm over imprisoned Chinese pastor's health as family seeks answers"
     },
     {
-      "title": "In pro-Palestine hub of Athens, Israeli buyers increase local resentment",
-      "description": "In Exarchia, residents say short-term rentals are driving up rents and eroding its character.",
-      "url": "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 06:51:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -2081,17 +2117,6 @@
       "source": "CNN World",
       "type": "rss",
       "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
-      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 19 Oct 2026 09:11:42 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2118,10 +2143,10 @@
       "is_ticker": false
     },
     {
-      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 17 Oct 2026 22:09:50 GMT",
+      "title": "Possible wreckage of Amelia Earhart's plane likely to be trees, say researchers",
+      "description": "Researchers travelled to a remote Pacific Island to confirm whether an object first spotted on satellite imagery in 2020 solved the mystery of the pilot's disappearance.",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5n8x106jdo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 19 Oct 2026 09:11:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2129,10 +2154,10 @@
       "is_ticker": false
     },
     {
-      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-      "description": "The Australian government hopes to protect social media users from being served content they don't want to see.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 16 Oct 2026 18:11:29 GMT",
+      "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "description": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 17 Oct 2026 22:09:50 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2163,17 +2188,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week"
-    },
-    {
-      "title": "No ‘turmoil’ at the White House",
-      "description": "The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss",
-      "published": "Mon, 19 Oct 2026 06:50:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
