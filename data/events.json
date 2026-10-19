@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T18:47:16.008074Z",
+  "last_updated": "2026-10-19T19:12:43.277259Z",
   "event_count": 225,
   "events": [
     {
@@ -31,15 +31,18 @@
       "ticker_label": "🪖 Security Council LIVE: Sudan’s war spreads as drones and hunger take a deadly toll"
     },
     {
-      "title": "Gangs in Haiti target foreign troops in biggest attack since new force began operations",
-      "description": "Gangs in Haiti have opened fire on an armored vehicle, leaving four soldiers from El Salvador unaccounted for in the first major attack since an international gang suppression force began operations in the violence-wracked country",
-      "url": "https://abcnews.com/International/wireStory/gangs-haiti-target-foreign-troops-biggest-attack-new-137376267",
-      "published": "Mon, 19 Oct 2026 09:50:26 -0400",
-      "source": "ABC News International",
+      "title": "Zelensky says Starshield speed limits slowing down frontline response",
+      "description": "Speed limits on a US military grade satellite system are hindering Ukrainian forces' ability to coordinate drone strikes against Russian forces, President Volodymyr Zelensky said on Monday. Zelensky said frontline units had reported that the Starshield equipment \"stops functioning at speeds of 130-160 kilometres (80-100 miles) per hour in various sectors of the front\". Separately, a Ukrainian army brigade has announced the rescue of a wounded soldier from the front line using an aerial drone, describing the evacuation as the first of its kind. The brigade published a video showing the drone lowering itself to the ground, before a man in combat gear fastens himself to a winch onboard and is lifted upwards. FRANCE 24's Gulliver Cragg reports from Ukraine.",
+      "url": "https://www.france24.com/en/zelensky-says-starshield-speed-limits-slowing-down-frontline-response",
+      "published": "Mon, 19 Oct 2026 18:45:57 GMT",
+      "source": "France24",
       "type": "rss",
-      "severity_score": 37,
+      "severity_score": 35,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelensky says Starshield speed limits slowing down frontline response"
     },
     {
       "title": "French PM Lecornu says ready to declare state of emergency 'if needed'",
@@ -276,20 +279,6 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Inflation squeezes households as Lebanon's economic crisis persists",
-      "description": "Lebanon's economic crisis has dragged on since 2019. A re-igniting of Israel's war with Hezbollah derailed the weak recovery seen last year. The World Bank now forecasts that the Lebanese economy will shrink by 6.4 percent this year, with inflation expected to reach around 17.5 percent. A growing divide is visible everywhere: in households, in businesses and even in consumer habits. Our correspondents Serge Berberi and Renée Davis report.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261019-inflation-squeezes-households-as-lebanon-s-economic-crisis-persists",
-      "published": "Mon, 19 Oct 2026 12:18:17 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Inflation squeezes households as Lebanon's economic crisis persists"
     },
     {
       "title": "Bend school district honors slain teacher, praises staff member's courage during attack: ‘Forever grateful’",
@@ -678,6 +667,20 @@
       "is_ticker": false
     },
     {
+      "title": "Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria after bomb threat",
+      "description": "Bulgaria state television reports that a flight from Tel Aviv made an emergency landing in Sofia after a bomb threat",
+      "url": "https://abcnews.com/International/wireStory/flight-tel-aviv-vienna-makes-emergency-landing-bulgaria-137365438",
+      "published": "Sun, 18 Oct 2026 19:11:21 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Flight from Tel Aviv to Vienna makes emergency landing in Bulgaria after bomb threat"
+    },
+    {
       "title": "National Guard member shot in DC, police chief says",
       "description": "Three National Guard members returned fire after a suspect allegedly opened fire during a confrontation in Washington, D.C., police said. Two people were wounded.",
       "url": "https://www.foxnews.com/us/national-guard-member-shot-washington-dc",
@@ -773,7 +776,7 @@
     },
     {
       "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks.",
+      "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
       "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 19 Oct 2026 18:23:50 GMT",
       "source": "BBC News",
@@ -786,6 +789,17 @@
       "ticker_label": "🪖 Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC"
     },
     {
+      "title": "France: Curfews issued in Paris, Nice after unrest",
+      "description": "French authorities imposed curfews in parts of several cities on Monday night after cost-of-living and anti-government protests descended into rioting and looting over the weekend. DW has the latest.",
+      "url": "https://www.dw.com/en/france-curfews-issued-in-paris-nice-after-unrest/live-79707186?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 19 Oct 2026 19:02:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Arrests over Israeli settler attacks on US photojournalist and European diplomats in West Bank",
       "description": "Ten suspects have been arrested in connection with recent violence in the West Bank including attacks on an ​American ⁠photojournalist and European ⁠diplomats, Israeli police have said.",
       "url": "https://news.sky.com/story/arrests-over-israeli-settler-attacks-on-us-photojournalist-and-european-diplomats-in-west-bank-13600842",
@@ -795,6 +809,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news",
+      "description": "An airstrike has killed at least nine people in an area of Yemen controlled by Iran-backed Houthi rebels as fighting escalates with Saudi-backed forces",
+      "url": "https://abcnews.com/International/wireStory/us-ambassador-israel-condemns-settler-attack-us-journalist-137358198",
+      "published": "Sun, 18 Oct 2026 12:58:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Airstrike kills at least 9 in rebel-held Yemen, and other Mideast news"
     },
     {
       "title": "Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify",
@@ -994,10 +1022,10 @@
       "ticker_label": "✈️ Flight from Tel Aviv to Vienna makes emergency landing after bomb threat"
     },
     {
-      "title": "From France to Albania, social unrest is setting Europe's streets ablaze",
-      "description": "Rising food and fuel prices, a lack of funding for education, the state of public services, and access to housing have created the perfect breeding ground for a fall of protests across Europe",
-      "url": "https://abcnews.com/International/wireStory/france-albania-social-unrest-setting-europes-streets-ablaze-137383294",
-      "published": "Mon, 19 Oct 2026 12:44:11 -0400",
+      "title": "Photographer attacked by settlers in the West Bank feels insulted by Netanyahu",
+      "description": "Washington Post photographer Heidi Levine, attacked by Jewish settlers in the West Bank, says she's angry that Israel's military seems to protect settlers more than those under threat",
+      "url": "https://abcnews.com/International/wireStory/photographer-attacked-settlers-west-bank-feels-insulted-netanyahu-137363206",
+      "published": "Sun, 18 Oct 2026 15:22:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1014,20 +1042,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "South Africa and Mozambique to honor Samora Machel 40 years after his death in a plane crash",
-      "description": "South Africa and Mozambique will remember Samora Machel on Monday, 40 years since his death in a mysterious plane crash",
-      "url": "https://abcnews.com/International/wireStory/south-africa-mozambique-honor-samora-machel-40-years-137369782",
-      "published": "Mon, 19 Oct 2026 05:46:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ South Africa and Mozambique to honor Samora Machel 40 years after his death in a plane crash"
     },
     {
       "title": "WATCH: Virginia cops crawl through burning house to save man trapped in fire",
@@ -1128,6 +1142,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Political rivals implicated under Pakistan's anti-terror law"
+    },
+    {
+      "title": "Stampede at a popular Hindu festival in eastern India kills 19",
+      "description": "A stampede during a major Hindu festival in eastern India’s West Bengal state has killed at least 19 people",
+      "url": "https://abcnews.com/International/wireStory/stampede-popular-hindu-festival-eastern-india-kills-19-137356042",
+      "published": "Sat, 17 Oct 2026 23:45:34 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Afghanistan faces record hunger levels amid rampant rights violations",
@@ -1309,17 +1334,6 @@
       "url": "https://news.sky.com/story/un-cuts-food-aid-to-half-a-million-gazans-over-funding-shortages-13600991",
       "published": "Mon, 19 Oct 2026 14:34:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Philippines summons Chinese ambassador to protest remarks it says threatened force",
-      "description": "The Philippine government has summoned the Chinese ambassador to protest remarks it considered a threat to use force",
-      "url": "https://abcnews.com/International/wireStory/philippines-summons-chinese-ambassador-protest-remarks-threatened-force-137371744",
-      "published": "Mon, 19 Oct 2026 06:18:19 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1576,18 +1590,37 @@
       "ticker_label": "🪖 Trump endorses Netanyahu ahead of Israeli elections, calling him 'great warrior prime minister'"
     },
     {
-      "title": "Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8",
-      "description": "Ukrainian President Volodymyr Zelenskyy says Russia launched ballistic missiles and drones to attack Ukraine's energy infrastructure again",
-      "url": "https://abcnews.com/International/wireStory/russian-missiles-drones-hit-kyiv-overnight-killing-1-137371029",
-      "published": "Mon, 19 Oct 2026 09:46:20 -0400",
+      "title": "Egypt's top security body agrees to help Saudi Arabia defend itself against Houthi attacks",
+      "description": "Egypt's top security body says it has agreed to support Saudi Arabia in its fight against Iranian-backed Houthi rebels in Yemen",
+      "url": "https://abcnews.com/International/wireStory/egypts-top-security-body-agrees-saudi-arabia-defend-137364690",
+      "published": "Sun, 18 Oct 2026 15:22:19 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian missiles and drones hit Kyiv overnight, killing 1 and injuring 8"
+      "is_ticker": false
+    },
+    {
+      "title": "Congo’s fast-moving Ebola outbreak spreads to eighth province",
+      "description": "The Ebola outbreak in Congo has spread to an eighth province",
+      "url": "https://abcnews.com/International/wireStory/congos-fast-moving-ebola-outbreak-spreads-eighth-province-137363686",
+      "published": "Sun, 18 Oct 2026 18:48:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine launches more than 1,000 drones at Russia as spat between Trump and Zelenskyy continues",
+      "description": "Ukrainian attacks have set an oil export terminal ablaze in St. Petersburg",
+      "url": "https://abcnews.com/International/wireStory/blaze-st-petersburg-oil-sites-kyiv-launches-1000-137358485",
+      "published": "Mon, 19 Oct 2026 03:06:20 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Brazil's Lula and Flávio Bolsonaro trade barbs in 1st debate only days before presidential runoff",
@@ -1827,28 +1860,6 @@
       "url": "https://www.france24.com/en/americas/20261019-brazil-court-orders-meta-prove-gives-lula-bolsonaro-campaign-content-equal-treatment",
       "published": "Mon, 19 Oct 2026 14:16:05 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Former South African president denies impeding investigation and prosecution of apartheid-era cases",
-      "description": "Former South African President Thabo Mbeki denies ordering prosecutors to halt apartheid-era crime cases or making secret deals to protect former security officers",
-      "url": "https://abcnews.com/International/wireStory/former-south-african-president-denies-impeding-investigation-prosecution-137377328",
-      "published": "Mon, 19 Oct 2026 09:50:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Massachusetts GOP lieutenant governor candidate suspends campaign after arrest in car crash",
-      "description": "The Republican candidate for lieutenant governor in Massachusetts has dropped out of the race hours after he was arrested in a suspected drunk driving crash",
-      "url": "https://abcnews.com/International/wireStory/massachusetts-gop-lieutenant-governor-candidate-suspends-campaign-after-137366342",
-      "published": "Sun, 18 Oct 2026 21:57:01 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -2444,17 +2455,6 @@
       "is_ticker": false
     },
     {
-      "title": "What Earth's sixth mass extinction event means for humans",
-      "description": "Human activity is driving plants and animals to extinction at an unprecedented rate. As countries meet in Armenia to discuss ways to reverse nature loss, DW reveals how declining biodiversity is already harming people.",
-      "url": "https://www.dw.com/en/what-earth-s-sixth-mass-extinction-event-means-for-humans/a-79680410?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 19 Oct 2026 05:48:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Doomsday cult leader found guilty of murdering 190 children and one adult",
       "description": "Doomsday cult leader Paul Mackenzie, his wife Rhoda Maweu, and 29 other co-accused have been found guilty of the murder of 190 children and one adult.",
       "url": "https://news.sky.com/story/cult-leader-found-guilty-of-ordered-followers-to-starve-their-children-to-death-13600891",
@@ -2477,32 +2477,10 @@
       "is_ticker": false
     },
     {
-      "title": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
-      "description": "Myanmar’s military-backed government says it delivered two books from King Charles III to detained former leader Aung San Suu Kyi",
-      "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339",
-      "published": "Mon, 19 Oct 2026 11:38:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Barcelona 'grandmas' dish out cooking wisdom. And find nourishment themselves",
-      "description": "In Barcelona, a group called Grandmas Cooking Barcelona offers visitors a chance to cook and eat traditional Spanish food",
-      "url": "https://abcnews.com/International/wireStory/barcelona-grandmas-dish-cooking-wisdom-find-nourishment-137381338",
-      "published": "Mon, 19 Oct 2026 11:37:53 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "German police say 2 men turned themselves in after smashing car into an airport fence",
-      "description": "German police say that two men have turned themselves in after a security fence was damaged at Leipzig Airport",
-      "url": "https://abcnews.com/International/wireStory/german-police-2-men-turned-after-smashing-car-137374754",
-      "published": "Mon, 19 Oct 2026 08:58:31 -0400",
+      "title": "Alberta separatists say they'll keep fighting after independence vote",
+      "description": "One of Alberta’s leading separatists has vowed to continue the independence movement even if voters reject a proposal Monday to begin the process of leaving Canada",
+      "url": "https://abcnews.com/International/wireStory/alberta-separatists-fighting-after-independence-vote-137354542",
+      "published": "Sun, 18 Oct 2026 00:22:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2521,10 +2499,35 @@
       "is_ticker": false
     },
     {
+      "title": "Kenya’s Ebola cases hit 8, with no community transmission yet",
+      "description": "Ebola cases in Kenya rose to eight on Sunday after another person tested positive while in quarantine, having been identified as a contact of the first patient",
+      "url": "https://abcnews.com/International/wireStory/kenyas-ebola-cases-hit-8-community-transmission-137365855",
+      "published": "Sun, 18 Oct 2026 23:38:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Kenya’s Ebola cases hit 8, with no community transmission yet"
+    },
+    {
       "title": "China's economy accelerated in the July-September quarter on robust exports",
       "description": "China says its economy grew 4.5% for the July-September quarter from a year ago",
       "url": "https://abcnews.com/International/wireStory/chinas-economy-accelerates-robust-exports-domestic-weakness-persists-137369591",
       "published": "Mon, 19 Oct 2026 07:22:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Rare photos of Myanmar's ex-leader Aung San Suu Kyi show her receiving books sent by King Charles",
+      "description": "Myanmar’s military-backed government says it delivered two books from King Charles III to detained former leader Aung San Suu Kyi",
+      "url": "https://abcnews.com/International/wireStory/rare-photos-myanmars-leader-aung-san-suu-kyi-137382339",
+      "published": "Mon, 19 Oct 2026 11:38:25 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
