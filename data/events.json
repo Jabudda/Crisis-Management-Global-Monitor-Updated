@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T11:16:25.780662Z",
+  "last_updated": "2026-10-20T11:40:19.420510Z",
   "event_count": 223,
   "events": [
     {
@@ -135,20 +135,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Spain floods kill four as torrential rain inundates eastern regions"
-    },
-    {
-      "title": "Violence erupts at France protests as Macron warns unrest is being exploited",
-      "description": "French President Emmanuel Macron called for calm as tear gas, water cannons and over 8,000 arrests mark weeks of violent clashes across the country.",
-      "url": "https://www.foxnews.com/world/violence-erupts-france-protests-macron-warns-unrest-being-exploited",
-      "published": "Sat, 17 Oct 2026 12:03:16 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Violence erupts at France protests as Macron warns unrest is being exploited"
     },
     {
       "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
@@ -779,7 +765,7 @@
       "ticker_label": "💥 Ukraine: Civilian casualty rates among ‘deadliest’ in years, as energy attacks intensify"
     },
     {
-      "title": "Elderly Miss. man killed with own gun in random home invasion as sheriff questions possible religious motive",
+      "title": "Elderly Miss man killed with own gun in random home invasion as sheriff questions possible religious motive",
       "description": "A video captured the alleged burglar screaming what sounds like \"God is dead\" before the fatal home invasion that killed Bobby McGill in Mississippi.",
       "url": "https://www.foxnews.com/us/elderly-miss-man-killed-own-gun-random-home-invasion-sheriff-questions-possible-religious-motive",
       "published": "Tue, 20 Oct 2026 07:00:46 -0400",
@@ -790,7 +776,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Elderly Miss. man killed with own gun in random home invasion as sheriff questions possible religious motive"
+      "ticker_label": "🪖 Elderly Miss man killed with own gun in random home invasion as sheriff questions possible religious motive"
     },
     {
       "title": "Martha's Vineyard police barracks rocked after woman 'ran for her life,' found naked outside: prosecutor",
@@ -1016,6 +1002,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Masoud Pezeshkian: Peace, Not Surrender",
+      "description": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
+      "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+      "published": "Tue, 20 Oct 2026 11:02:31 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1275,17 +1272,6 @@
       "is_ticker": false
     },
     {
-      "title": "UN food program cuts aid to 500,000 Palestinians in Gaza",
-      "description": "Amid funding shortages, the World Food Program has said it is being forced to reduce necessary aid. Over two-thirds of Palestinians in Gaza are facing acute hunger, according to the agency.",
-      "url": "https://www.dw.com/en/un-food-program-cuts-aid-to-500-000-palestinians-in-gaza/a-79699408?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 19 Oct 2026 11:41:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Anger at rising fuel prices bolsters Europe's far right as unrest sweeps France",
       "description": "Rising fuel costs are piling pressure on households, businesses and governments across Europe, fuelling cost-of-living protests and bolstering the far right ahead of elections next year in countries including France, Italy and Poland. Some far-right parties are calling for a return to Russian energy.",
       "url": "https://www.france24.com/en/france/20261020-anger-at-rising-fuel-prices-bolsters-europe-s-far-right-as-unrest-sweeps-france",
@@ -1324,6 +1310,17 @@
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
       "published": "Mon, 19 Oct 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Global 'Chaos Inc' grows to 101 groups with plans for new rounds of demonstrations",
+      "description": "French leftist groups are planning a new round of mobilizations on Oct. 24 as the \"Chaos Inc.\" red-green alliance of far-left and Islamist groups sweeps across Europe.",
+      "url": "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
+      "published": "Tue, 20 Oct 2026 07:22:29 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1663,7 +1660,7 @@
       "title": "Driver charged with intentionally injuring Australian federal lawmaker",
       "description": "Police have charged a driver with intentionally causing serious injury to Australian lawmaker Helen Haines",
       "url": "https://abcnews.com/International/wireStory/australian-lawmaker-critical-stable-after-hit-car-prime-137403404",
-      "published": "Tue, 20 Oct 2026 06:22:11 -0400",
+      "published": "Tue, 20 Oct 2026 07:22:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1716,6 +1713,17 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Museum releases historical photos of island where Amelia Earhart may have crashed"
+    },
+    {
+      "title": "North Korean workers treated as 'slaves' at Russian drone factory, says new report",
+      "description": "A new report reveals the plight of North Korean workers at a drone factory in Russia. It also raised concerns that Pyongyang could gain hands-on knowledge of advanced weapons systems through the workers it sends there.",
+      "url": "https://www.dw.com/en/north-korean-workers-treated-as-slaves-at-russian-drone-factory-says-new-report/a-79710877?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 20 Oct 2026 11:30:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "The Louvre Museum blocked as France grapples with growing protests",
@@ -2071,6 +2079,17 @@
       "is_ticker": false
     },
     {
+      "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+      "description": "Military-backed government says it delivered two books and diplomatic correspondence to Aung San Suu Kyi.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+      "published": "Tue, 20 Oct 2026 11:07:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
       "description": "France's rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
       "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
@@ -2152,28 +2171,6 @@
       "description": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
       "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
       "published": "Tue, 20 Oct 2026 05:25:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Japan launches historic mission to bring back Mars moon samples",
-      "description": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
-      "published": "Tue, 20 Oct 2026 04:08:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Fourteen dead in illegal Colombian gold mine collapse",
-      "description": "Fourteen dead in illegal Colombian gold mine collapse",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/fourteen-dead-in-illegal-colombian-gold-mine-collapse?traffic_source=rss",
-      "published": "Tue, 20 Oct 2026 03:55:27 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
