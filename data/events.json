@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T12:25:37.511531Z",
+  "last_updated": "2026-10-21T12:51:00.420841Z",
   "event_count": 223,
   "events": [
     {
@@ -74,7 +74,7 @@
     },
     {
       "title": "Live: Leader of France's biggest trade union calls for strikes after talks with PM",
-      "description": "The leader of France's hardline CGT union on Wednesday called for strikes after talks with Prime Minister Sébastien Lecornu over fresh protests collapsed, as the country reeled from last weekend's riots. The government offered \"no measure or an acknowledgement of our demands\" Sophie Binet, secretary general of the CGT, told reporters after a meeting between Lecornu and union leaders. Follow our liveblog for the latest updates.",
+      "description": "The leader of France's hardline CGT union on Wednesday called for strikes after talks with Prime Minister Sébastien Lecornu over fresh protests collapsed, as the country reeled from last weekend's riots. The government offered \"no measure nor have they taken our demands into account\", Sophie Binet, secretary general of the CGT, told reporters after a meeting between Lecornu and union leaders. Follow our liveblog for the latest updates.",
       "url": "https://www.france24.com/en/europe/20261021-live-french-pm-lecornu-to-meet-with-unions-ahead-of-new-protests",
       "published": "Wed, 21 Oct 2026 00:45:06 GMT",
       "source": "France24",
@@ -243,6 +243,20 @@
       "is_ticker": false
     },
     {
+      "title": "Burkina Faso's parliament unanimously votes to reinstate the death penalty",
+      "description": "Burkina Faso's parliament has reinstated the death penalty for crimes like terrorism, espionage, and treason",
+      "url": "https://abcnews.com/International/wireStory/burkina-fasos-parliament-unanimously-votes-reinstate-death-penalty-137442050",
+      "published": "Wed, 21 Oct 2026 08:10:28 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Burkina Faso's parliament unanimously votes to reinstate the death penalty"
+    },
+    {
       "title": "French newspaper rips Macron after riots erupt across France: ‘Indelible stain’",
       "description": "The scathing critique in newspaper Le Figaro took aim at Macron, France’s justice system and immigration policies after nationwide protests erupted into violence.",
       "url": "https://www.foxnews.com/world/french-newspaper-rips-macron-riots-erupt-across-france-indelible-stain",
@@ -307,18 +321,18 @@
       "ticker_label": "🪖 Trump and Zelensky appear at loggerheads despite new optimism"
     },
     {
-      "title": "Attack by Islamic State-affiliated group in Mali kills 48 people, official says",
-      "description": "Militants affiliated with the Islamic State group have killed 48 people in Mali's Ménaka region",
-      "url": "https://abcnews.com/International/wireStory/attack-islamic-state-affiliated-group-mali-kills-48-137413904",
-      "published": "Tue, 20 Oct 2026 12:00:20 -0400",
-      "source": "ABC News International",
+      "title": "Iran’s enriched uranium re-emerges as point of contention in US talks",
+      "description": "Iran's nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.",
+      "url": "https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss",
+      "published": "Wed, 21 Oct 2026 12:18:10 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Attack by Islamic State-affiliated group in Mali kills 48 people, official says"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran’s enriched uranium re-emerges as point of contention in US talks"
     },
     {
       "title": "Some synagogues canceled prayers as French Jews faced warnings amid violent protests",
@@ -358,17 +372,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sudan drone strike kills around 150 in Abyei market"
-    },
-    {
-      "title": "Italy announces new security measures after Milan riots, deploying 500 soldiers",
-      "description": "Italy announced tougher security measures on Tuesday after weekend riots in Milan left more than 100 police officers injured and shops looted. The government will deploy 500 additional soldiers, impose harsher penalties for violent protesters and hold parents financially responsible for damage caused by minors.",
-      "url": "https://www.france24.com/en/europe/20261020-italy-announces-new-security-measures-after-milan-riots-deploying-500-soldiers",
-      "published": "Tue, 20 Oct 2026 23:33:16 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Swimmer killed in shark attack in South Africa",
@@ -972,6 +975,17 @@
       "ticker_label": "🪖 Elon Musk ordered a slowdown of Starlink in Ukraine — report"
     },
     {
+      "title": "Portugal police clear demonstrators from protest camps against cost of housing",
+      "description": "Portuguese demonstrators have been protesting against the cost of housing in the country. They are opposed to recent measures announced by the government and are calling for a new gathering in the coming days, despite police clearing protest camps.",
+      "url": "https://www.france24.com/en/video/20261021-portugal-police-clear-demonstrators-from-protest-camps-against-cost-of-housing",
+      "published": "Wed, 21 Oct 2026 12:31:04 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Musk talks up potential merger of SpaceX and Tesla",
       "description": "As SpaceX reports blockbuster quarterly earnings, CEO Elon Musk floats the possibility of merging the rocketry and AI firm with his electric car company Tesla. Also in this edition: OpenAI reveals more agent misbehaviour as market turmoil hits data centre companies, and France's political crisis exacerbates its bond market rout.",
       "url": "https://www.france24.com/en/tv-shows/business/20261021-musk-talks-up-potential-merger-of-spacex-and-tesla",
@@ -992,31 +1006,6 @@
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Colombia judge orders protection of historical artifacts amid protests",
-      "description": "A Colombian judge ordered the nation’s government to protect more than 30 historical artifacts that officials removed from exhibits in Bogota’s national museum last week",
-      "url": "https://abcnews.com/International/wireStory/colombia-judge-orders-protection-historical-artifacts-after-museum-137399569",
-      "published": "Mon, 19 Oct 2026 21:54:24 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens",
-      "description": "South Korea says it will withdraw some staff from its embassy in Kyiv, deepening a diplomatic row over Ukraine’s announcement last month of a transfer of two North Korean prisoners of war that Seoul says was meant to be secret",
-      "url": "https://abcnews.com/International/wireStory/south-korea-withdraw-kyiv-embassy-staff-row-pow-137404006",
-      "published": "Tue, 20 Oct 2026 05:22:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 South Korea to withdraw some Kyiv embassy staff as row over POW transfer deepens"
     },
     {
       "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
@@ -1056,6 +1045,17 @@
       "description": "French President Emmanuel Macron has criticised foreign leaders, including Donald Trump, for exploiting unrest in France for political gain",
       "url": "https://abcnews.com/International/wireStory/macron-blasts-stupid-claims-trump-blaming-muslims-migrants-137441867",
       "published": "Wed, 21 Oct 2026 08:10:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Albanian police clash with anti-government protesters for an 8th day",
+      "description": "Police have fired tear gas and used water cannons to disperse protesters in Tirana, Albania",
+      "url": "https://abcnews.com/International/wireStory/albanian-police-clash-anti-government-protesters-8th-day-137417515",
+      "published": "Wed, 21 Oct 2026 00:02:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1179,31 +1179,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks",
-      "description": "Witkoff tells Putin that he hoped to discuss the resumption of the trilateral talks between US, Ukraine and Russia.",
-      "url": "https://www.aljazeera.com/news/2026/10/21/witkoff-in-russia-for-putin-meeting-after-positive-talks-with-zelenskyy?traffic_source=rss",
-      "published": "Wed, 21 Oct 2026 07:37:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump envoy Witkoff meets Russia’s Putin for Ukraine war talks"
-    },
-    {
-      "title": "The right to enforce civil rights is under attack in the US",
-      "description": "The Trump administration and conservative courts are making it harder to challenge civil rights violations.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/21/the-right-to-enforce-civil-rights-is-under-attack-in-the-us?traffic_source=rss",
-      "published": "Wed, 21 Oct 2026 07:06:41 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1315,10 +1290,10 @@
       "ticker_label": "🪖 New EU plan for Arctic warily eyes influence of Russia, US"
     },
     {
-      "title": "UK government approves natural gas project despite environmental concerns",
-      "description": "The U.K. government has approved a natural gas project off the coast of Scotland over the objections of environmental groups, saying it would improve energy security as the country transitions to renewable sources of energy",
-      "url": "https://abcnews.com/International/wireStory/uk-government-approves-natural-gas-project-off-scotland-137438010",
-      "published": "Wed, 21 Oct 2026 03:29:44 -0400",
+      "title": "South Korean officials struggle to free a shark trapped in Busan canal",
+      "description": "South Korean officials are struggling to free a large gray shark trapped for over a month in a canal in Busan",
+      "url": "https://abcnews.com/International/wireStory/south-korean-officials-struggle-free-shark-trapped-busan-137439368",
+      "published": "Wed, 21 Oct 2026 06:29:39 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1326,10 +1301,10 @@
       "is_ticker": false
     },
     {
-      "title": "South Korean officials struggle to free a shark trapped in Busan canal",
-      "description": "South Korean officials are struggling to free a large gray shark trapped for over a month in a canal in Busan",
-      "url": "https://abcnews.com/International/wireStory/south-korean-officials-struggle-free-shark-trapped-busan-137439368",
-      "published": "Wed, 21 Oct 2026 06:29:39 -0400",
+      "title": "UK government approves natural gas project despite environmental concerns",
+      "description": "The U.K. government has approved a natural gas project off the coast of Scotland over the objections of environmental groups, saying it would improve energy security as the country transitions to renewable sources of energy",
+      "url": "https://abcnews.com/International/wireStory/uk-government-approves-natural-gas-project-off-scotland-137438010",
+      "published": "Wed, 21 Oct 2026 03:29:44 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1489,10 +1464,10 @@
       "is_ticker": false
     },
     {
-      "title": "Driver charged with intentionally injuring Australian federal lawmaker",
-      "description": "A driver accused of intentionally injuring Australian lawmaker Helen Haines by hitting her with his car appeared in court on Wednesday",
-      "url": "https://abcnews.com/International/wireStory/australian-lawmaker-critical-stable-after-hit-car-prime-137403404",
-      "published": "Tue, 20 Oct 2026 22:42:21 -0400",
+      "title": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
+      "description": "Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman arriving from Uganda tested positive",
+      "url": "https://abcnews.com/International/wireStory/nigeria-confirms-ebola-case-abuja-woman-arrived-uganda-137420211",
+      "published": "Tue, 20 Oct 2026 20:58:28 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1507,6 +1482,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Macron says Trump spread rumours about protests",
+      "description": "Macron says Trump spread rumours about protests",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/macron-says-trump-spread-rumours-about-protests?traffic_source=rss",
+      "published": "Wed, 21 Oct 2026 12:18:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1603,6 +1589,20 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Fighter jet crashes in eastern France, killing at least 1 person",
+      "description": "The French armed forces say that a fighter jet has crashed in eastern France, killing at least one person",
+      "url": "https://abcnews.com/International/wireStory/fighter-jet-crashes-eastern-france-killing-1-person-137438012",
+      "published": "Wed, 21 Oct 2026 03:30:38 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Fighter jet crashes in eastern France, killing at least 1 person"
     },
     {
       "title": "American Airlines jet suffers brake trouble, blown tire after landing at Chicago O'Hare: FAA",
@@ -1740,6 +1740,17 @@
       "is_ticker": false
     },
     {
+      "title": "Malaysia bans civil servants from using navigation app, citing data risks",
+      "description": "Malaysia has banned civil servants from using the navigation app Waze due to data security concerns linked to its Israeli origins",
+      "url": "https://abcnews.com/International/wireStory/malaysia-bans-civil-servants-navigation-app-waze-citing-137440691",
+      "published": "Wed, 21 Oct 2026 08:33:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1765,7 +1776,7 @@
       "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
       "description": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says.",
       "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 12:00:33 GMT",
+      "published": "Wed, 21 Oct 2026 12:32:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2151,7 +2162,7 @@
     },
     {
       "title": "Russia frees jailed American Stephen Hubbard during Witkoff talks",
-      "description": "Russian President Vladimir Putin met with US special envoy Steve Witkoff in St. Petersburg for talks about a Ukraine peace deal. During the talks, Putin announced that jailed American Stephen Hubbard had been freed.",
+      "description": "Russian President Vladimir Putin met with US special envoy Steve Witkoff in St. Petersburg for talks about a Ukraine peace deal. During the talks, Putin announced that jailed American Stephen Hubbard had been released.",
       "url": "https://www.dw.com/en/russia-frees-jailed-american-stephen-hubbard-during-witkoff-talks/a-79719452?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 21 Oct 2026 09:42:00 GMT",
       "source": "Deutsche Welle",
@@ -2348,51 +2359,15 @@
       "is_ticker": false
     },
     {
-      "title": "Alberta voters overwhelmingly reject separation process in a victory for Carney",
-      "description": "Voters in Alberta have overwhelmingly backed remaining in Canada, with four-fifths of votes counted showing 75% support for staying",
-      "url": "https://abcnews.com/International/wireStory/canadian-broadcasting-corp-projects-alberta-voters-rejected-move-137402888",
-      "published": "Tue, 20 Oct 2026 22:02:16 -0400",
+      "title": "North Korean leader's sister inspects fortifications as tensions rise with the South",
+      "description": "North Korean leader Kim Jong Un’s sister said her government will resume broadcasting propaganda across the heavily armed border with South Korea this month",
+      "url": "https://abcnews.com/International/wireStory/north-korean-leaders-sister-inspects-border-fortifications-tensions-137438558",
+      "published": "Wed, 21 Oct 2026 08:10:41 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Pakistani authorities arrest man accused in $126 million US postage fraud scheme",
-      "description": "Pakistan has arrested a man accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal Service",
-      "url": "https://abcnews.com/International/wireStory/pakistani-authorities-arrest-man-accused-126-million-us-137420213",
-      "published": "Wed, 21 Oct 2026 07:06:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope Leo's alma mater Villanova traveling to Rome for hoops doubleheader vs. Notre Dame",
-      "description": "Villanova and Notre Dame's men's and women's teams are set to play a doubleheader in Rome on November 1, marking the start of the college basketball season",
-      "url": "https://abcnews.com/International/wireStory/pope-leos-alma-mater-villanova-traveling-rome-hoops-137439910",
-      "published": "Wed, 21 Oct 2026 08:17:14 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A former South Africa deputy police chief facing sexual offense charges is denied bail",
-      "description": "A South African court has denied bail to former deputy police chief Shadrack Sibiya, who faces charges of sexual offenses",
-      "url": "https://abcnews.com/International/wireStory/former-south-africa-deputy-police-chief-facing-sexual-137404814",
-      "published": "Tue, 20 Oct 2026 05:54:22 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 A former South Africa deputy police chief facing sexual offense charges is denied bail"
     },
     {
       "title": "Hungary’s Magyar vows accountability for Orbán era while holding firm on migration",
@@ -2420,10 +2395,21 @@
       "ticker_label": "💥 Meta tells Brazil's electoral court it treats Lula and Flávio Bolsonaro equally ahead of Sunday vote"
     },
     {
-      "title": "Bosnian Serb authorities boost neighboring Serbia's populist leader ahead of a key election",
-      "description": "Serbia's populist leader Aleksandar Vucic faces a key parliamentary election this weekend",
-      "url": "https://abcnews.com/International/wireStory/bosnian-serb-authorities-boost-neighboring-serbias-populist-leader-137408112",
-      "published": "Tue, 20 Oct 2026 10:00:32 -0400",
+      "title": "Pompeii's grandest house gets a $1.6 million restoration funded by private sponsor",
+      "description": "A private home in Pompeii, believed to be the grandest, is being restored with 1.4 million euros ($1.6 million) from a private sponsor",
+      "url": "https://abcnews.com/International/wireStory/pompeiis-grandest-house-gets-16-million-restoration-funded-137422838",
+      "published": "Wed, 21 Oct 2026 02:02:27 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pakistani authorities arrest man accused in $126 million US postage fraud scheme",
+      "description": "Pakistan has arrested a man accused of running an online counterfeit postage operation that U.S. prosecutors say caused more than $126 million in losses to the U.S. Postal Service",
+      "url": "https://abcnews.com/International/wireStory/pakistani-authorities-arrest-man-accused-126-million-us-137420213",
+      "published": "Wed, 21 Oct 2026 07:06:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2435,6 +2421,17 @@
       "description": "British police have rearrested two men suspected of assisting Iran’s intelligence service in a plot at a U.S.-run air base",
       "url": "https://abcnews.com/International/wireStory/2-men-rearrested-uk-suspicion-assisting-iran-suspected-137418182",
       "published": "Tue, 20 Oct 2026 13:54:16 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo's alma mater Villanova traveling to Rome for hoops doubleheader vs. Notre Dame",
+      "description": "Villanova and Notre Dame's men's and women's teams are set to play a doubleheader in Rome on November 1, marking the start of the college basketball season",
+      "url": "https://abcnews.com/International/wireStory/pope-leos-alma-mater-villanova-traveling-rome-hoops-137439910",
+      "published": "Wed, 21 Oct 2026 08:17:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
