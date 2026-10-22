@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T15:41:38.124296Z",
+  "last_updated": "2026-10-22T16:20:53.783188Z",
   "event_count": 224,
   "events": [
     {
@@ -15,6 +15,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods"
+    },
+    {
+      "title": "‘Connect the dots’ between street protests and global turmoil, urges Guterres",
+      "description": "The international community must combat inequality and stop wars from expanding to ensure a safer world for all, the UN Secretary-General said on Thursday.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168646",
+      "published": "Thu, 22 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 41,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ‘Connect the dots’ between street protests and global turmoil, urges Guterres"
     },
     {
       "title": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
@@ -95,20 +109,6 @@
       "ticker_label": "🪖 Global warming will breach 1.5°C – but deep, fast cuts can still bring it back"
     },
     {
-      "title": "Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?",
-      "description": "US orders diplomatic staff out of Saudi Arabia amid escalating conflict and reports of potential US strikes on Iran.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 12:12:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran reveals ‘offensive’ doctrine, US issues alert: Is war imminent?"
-    },
-    {
       "title": "Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis",
       "description": "Talks to halt the fighting in Sudan and alleviate the humanitarian crisis there continued in Geneva on Wednesday, where nearly two dozen countries convened to discuss a pathway to a ceasefire and transition to peaceful governance that represents all Sudanese people.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168638",
@@ -135,20 +135,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UN condemns deadly wave of drone strikes in war-torn Sudan"
-    },
-    {
-      "title": "International Criminal Court wins EU's Sakharov human rights prize",
-      "description": "The International Criminal Court, which US President Donald Trump's administration has threatened to dismantle \"brick by brick\", has been awarded the European Union's Sakharov human rights prize.",
-      "url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
-      "published": "Thu, 22 Oct 2026 10:10:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 International Criminal Court wins EU's Sakharov human rights prize"
     },
     {
       "title": "Uganda reacts angrily as Nigeria confirms its first Ebola case",
@@ -363,6 +349,20 @@
       "ticker_label": "🪖 World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health"
     },
     {
+      "title": "Crowd of 50 beats foreigner to death in South Africa",
+      "description": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 16:15:25 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Crowd of 50 beats foreigner to death in South Africa"
+    },
+    {
       "title": "Fatal Custody",
       "description": "Two mothers warned family courts their children were in danger. Fault Lines investigates why warnings were ignored.",
       "url": "https://www.aljazeera.com/video/fault-lines/2026/10/22/fatal-custody?traffic_source=rss",
@@ -464,6 +464,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Ethiopia-Eritrea: Is there a risk of a wider conflict?",
+      "description": "Concerns are mounting as Ethiopia and Eritrea inch closer to war. With Ethiopia now having taken control of the border town of Zalambessa, the fear is that Prime Minister Abiy Ahmed will send his troops into Eritrea. In Perspective, we spoke to Martin Plaut, a senior research fellow at the Institute of Commonwealth Studies at the University of London.",
+      "url": "https://www.france24.com/en/tv-shows/perspective/20261022-ethiopia-eritrea-is-there-a-risk-of-a-wider-conflict",
+      "published": "Thu, 22 Oct 2026 15:40:42 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ethiopia-Eritrea: Is there a risk of a wider conflict?"
     },
     {
       "title": "Some synagogues canceled prayers as French Jews faced warnings amid violent protests",
@@ -572,6 +586,17 @@
       "ticker_label": "🪖 Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism"
     },
     {
+      "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
+      "description": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis.",
+      "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 15:56:36 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say",
       "description": "It is the latest in a series of attacks by the Houthi movement targeting airports and other sites in the kingdom.",
       "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
@@ -584,6 +609,17 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Two killed in Houthi attack on airport in eastern Saudi Arabia, authorities say"
+    },
+    {
+      "title": "Israeli attacks in Gaza kill four, including a young girl",
+      "description": "Four Palestinians killed as Israeli military expands control across Gaza, displacing millions and destroying homes.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/israeli-attacks-in-gaza-kill-four-including-a-young-girl?traffic_source=rss",
+      "published": "Thu, 22 Oct 2026 16:06:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Ilhan Omar home raid, Haines attack: Inside rise in violence on officials",
@@ -683,17 +719,6 @@
       "is_ticker": false
     },
     {
-      "title": "🔴 International Criminal Court wins EU's Sakharov human rights prize",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20261022-international-criminal-court-wins-eu-s-sakharov-human-rights-prize",
-      "published": "Thu, 22 Oct 2026 10:11:23 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "WHO supports Nigeria after first Ebola case confirmed",
       "description": "The World Health Organization (WHO) is assisting Nigeria following confirmation of the first case of Ebola Bundibugyo virus disease in the country.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168637",
@@ -739,20 +764,6 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Ukraine’s Pavlohrad refuses to yield to Putin despite unrelenting bombardment",
-      "description": "In Pavlohrad, a Ukrainian city less than 90km from the front line with Russia, there is no respite from war. Residents describe daily life under bombardment, caught between exhaustion and determination. Amid criticism of Trump, TikTok rumours and strikes against civilians, FRANCE 24 gathered accounts from those who “refuse to yield”.",
-      "url": "https://www.france24.com/en/europe/20261022-war-in-ukraine-under-bombardment-the-city-that-refuses-to-bow-to-putin",
-      "published": "Thu, 22 Oct 2026 05:54:29 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine’s Pavlohrad refuses to yield to Putin despite unrelenting bombardment"
     },
     {
       "title": "Iran regime under pressure as rebel groups escalate attacks in volatile southeast",
@@ -831,17 +842,6 @@
       "description": "French President ​Emmanuel Macron spoke to the press on Thursday after a meeting with security chiefs. He said that \"illegitimate\" protests would be banned in ​coming ‌days, ⁠while those from ‌organised groups such as unions ⁠would be offered alternative paths ​for the marches ‌to protect businesses.",
       "url": "https://www.france24.com/en/video/20261022-replay-french-president-vows-to-prevent-violence-ahead-of-protests",
       "published": "Thu, 22 Oct 2026 13:04:45 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Europe's wave of anger: How far will youth-led protests go?",
-      "description": "Youth-driven protests have been popping up all over Europe: in Belgium, Italy, Spain, Portugal, Albania, Serbia and Greece. The spark here in France was deteriorating conditions in high schools and universities, particularly for students from underprivileged backgrounds. Meanwhile, wages aren't keeping up with inflation. The housing crisis is front and centre in places like Spain and Portugal, while corruption and democratic backsliding have sparked uproar in Albania and Serbia.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261022-europe-s-wave-of-anger-how-far-will-youth-led-protests-go",
-      "published": "Thu, 22 Oct 2026 08:12:29 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -993,6 +993,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine and Russia exchange strikes after US envoy visit to the Kremlin",
+      "description": "Ukraine and Russia exchanged drone and missile strikes on Thursday, killing seven people in Ukraine, according to authorities. Moscow said it had intercepted 630 Ukrainian drones targeting the Russian capital. The strikes came hours after US envoy Steve Witkoff met Vladimir Putin in St. Petersburg. Witkoff said Moscow was ready to resume trilateral talks with Kyiv and Washington.",
+      "url": "https://www.france24.com/en/ukraine-and-russia-exchange-strikes-after-us-envoy-visit-to-the-kremlin",
+      "published": "Thu, 22 Oct 2026 15:50:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine and Russia exchange strikes after US envoy visit to the Kremlin"
+    },
+    {
       "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
       "description": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168645",
@@ -1128,17 +1142,6 @@
       "is_ticker": false
     },
     {
-      "title": "Gaza: Funding cuts leave half a million without food assistance",
-      "description": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
-      "published": "Mon, 19 Oct 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Global 'Chaos Inc' grows to 101 groups with plans for new rounds of demonstrations",
       "description": "French leftist groups are planning a new round of mobilizations on Oct. 24 as the \"Chaos Inc.\" red-green alliance of far-left and Islamist groups sweeps across Europe.",
       "url": "https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations",
@@ -1162,7 +1165,7 @@
     },
     {
       "title": "Carney, Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership",
-      "description": "On trade, investment and innovation, leaders will work toward conclusion of a Canada-Turkiye Free Trade Agreement.",
+      "description": "On trade, investment and innovation, leaders will work towards conclusion of a Canada-Turkiye Free Trade Agreement.",
       "url": "https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss",
       "published": "Thu, 22 Oct 2026 15:00:37 +0000",
       "source": "Al Jazeera",
@@ -1295,7 +1298,7 @@
     },
     {
       "title": "India news: Gandhi's nephew forced to pull protest photos",
-      "description": "The requested removal of \"objectionable\" photos from a cultural center took place in state run by Modi's BJP. DW has more.",
+      "description": "The requested removal of \"objectionable\" photos from a cultural center took place in state run by Modi's BJP.",
       "url": "https://www.dw.com/en/india-news-gandhi-s-nephew-forced-to-pull-protest-photos/live-79727462?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 22 Oct 2026 12:58:00 GMT",
       "source": "Deutsche Welle",
@@ -1324,17 +1327,6 @@
       "url": "https://www.dw.com/en/can-germany-overhaul-its-economy-before-afd-grows-stronger/a-79696102?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 22 Oct 2026 09:10:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "'Popular dissatisfaction' across Europe: 'Promises of more economic growth haven't come true'",
-      "description": "Oliver Farry is pleased to welcome Steven Erlanger, Chief Diplomatic Correspondent in Europe for The New York Times, based in Berlin. Europe's political centre is confronting a crisis that extends far beyond electoral volatility. From France and Germany to Italy and Spain, mounting economic frustration, generational inequality and declining confidence in established political leadership are reshaping the continent's democratic landscape. \"The promises of more economic growth haven't come true,\" explains Erlanger, describing a continent marked by \"a kind of general disgust\" and \"a sense of drift.\"",
-      "url": "https://www.france24.com/en/video/20261022-popular-dissatisfaction-across-europe-promises-of-more-economic-growth-haven-t-come-true-1",
-      "published": "Thu, 22 Oct 2026 09:01:59 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1466,6 +1458,31 @@
       "is_ticker": false
     },
     {
+      "title": "Georgia on Democrats’ minds: Powering up the Black vote to counter Trump's meddling",
+      "description": "President Donald Trump's push to redistrict congressional maps and a Georgia state election law disproportionately affecting African Americans are aimed at diluting the power of the Black vote. Six decades after Atlanta was at the heart of the civil rights movement that granted Blacks in the southern states the right to vote, the community is fighting back.",
+      "url": "https://www.france24.com/en/americas/20261022-georgia-on-democrats-minds-powering-up-black-vote-counter-trump-meddling",
+      "published": "Thu, 22 Oct 2026 15:43:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Reports show US and Israel are planning new strikes on Iran",
+      "description": "Reports claim that the US and Israel have ramped up military drills and planned new strikes in Iran, potentially targeting energy sites, drone facilities and missile arsenals. Details by FRANCE 24's correspondent in Jerusalem, Noga Tarnopolsky.",
+      "url": "https://www.france24.com/en/video/20261022-reports-show-us-and-israel-plan-new-strikes-on-iran",
+      "published": "Thu, 22 Oct 2026 15:34:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Reports show US and Israel are planning new strikes on Iran"
+    },
+    {
       "title": "Suspect arrested in France after fire at historic city hall",
       "description": "A man has been arrested after a fire at the town hall of Limoges, according to French media.",
       "url": "https://news.sky.com/story/suspect-arrested-in-france-after-fire-at-limoges-city-hall-13601372",
@@ -1510,17 +1527,6 @@
       "is_ticker": false
     },
     {
-      "title": "France bans protests in parts of Paris as Macron slams Trump",
-      "description": "French President Emmanuel Macron railed against \"stupid\" comments made by foreign leaders for their political purposes. Plus, Paris police are set to extend restrictions on gatherings in parts of the city on Thursday.",
-      "url": "https://www.dw.com/en/france-bans-protests-in-parts-of-paris-as-macron-slams-trump/a-79727141?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 21 Oct 2026 22:32:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Coastal construction threaten mangrove forest that protects Vietnam's biggest city",
       "description": "Construction projects are putting at risk a mangrove forest that stands between Vietnam's Ho Chi Minh City and rising seas",
       "url": "https://abcnews.com/International/wireStory/coastal-construction-projects-threaten-mangrove-forest-protects-vietnams-137466689",
@@ -1554,6 +1560,20 @@
       "is_ticker": false
     },
     {
+      "title": "South Africa crush Australia by an innings to level cricket Test series",
+      "description": "South Africa storm back to crush Australia by an innings in the second Test and level the series 1-1 with one to play.",
+      "url": "https://www.aljazeera.com/sports/2026/10/22/south-africa-crush-australia-by-an-innings-to-level-cricket-test-series?traffic_source=rss",
+      "published": "Thu, 22 Oct 2026 16:09:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ South Africa crush Australia by an innings to level cricket Test series"
+    },
+    {
       "title": "From the streets to the ballot box: Serbia’s students hope for election win",
       "description": "Young Serbians have built a system that poses a threat to President Aleksandar Vucic’s grip on power.",
       "url": "https://www.aljazeera.com/news/2026/10/22/from-the-streets-to-the-ballot-box-serbias-students-hope-for-election-win?traffic_source=rss",
@@ -1570,6 +1590,50 @@
       "url": "https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss",
       "published": "Thu, 22 Oct 2026 14:36:06 +0000",
       "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Are the French police the most violent in the EU?",
+      "description": "As protests continue in France, the French police are under scrutiny after new allegations of police brutality. The force has a bigger arsenal than most in Europe.",
+      "url": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 22 Oct 2026 16:01:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "🔴Live: Authorities in Lyon and Marseille ban all protests Saturday",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/europe/20261022-live-paris-bans-protests-after-violent-unrest-as-macron-takes-swipe-at-trump",
+      "published": "Thu, 22 Oct 2026 16:03:29 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "French shopkeepers fear new looting in upcoming protests",
+      "description": "In Paris, shopkeepers fear further losses ahead of a demonstration planned for next Saturday. After last weekend’s protests saw scenes of vandalism, some are considering closing their shops, while others plan to stay open.",
+      "url": "https://www.france24.com/en/french-shopkeepers-fear-new-looting-in-upcoming-protests",
+      "published": "Thu, 22 Oct 2026 15:51:39 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "French students demonstrate again, despite school holidays",
+      "description": "The French \"interfac\" student movement organised new protests on Thursday, even though it is currently the school holidays in France. Student representatives are set to meet soon with Education Minister Edouard Geffray. Details by FRANCE 24's Ellen Gainsford.",
+      "url": "https://www.france24.com/en/french-students-demonstrate-again-despite-school-holidays",
+      "published": "Thu, 22 Oct 2026 15:37:39 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1775,10 +1839,10 @@
       "ticker_label": "💥 Police investigate Married at First Sight Australia after 'inappropriate' allegations"
     },
     {
-      "title": "France reports first human Shamonda virus case, says no health risk",
-      "description": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 11:28:05 +0000",
+      "title": "Italy and Spain lift border controls after months of tension over Ceuta",
+      "description": "More than 70,000 people entered Ceuta irregularly from Morocco, triggering border security concerns in the EU bloc.",
+      "url": "https://www.aljazeera.com/news/2026/10/22/italy-and-spain-lift-border-controls-after-months-of-tension-over-ceuta?traffic_source=rss",
+      "published": "Thu, 22 Oct 2026 16:04:21 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
@@ -2012,29 +2076,15 @@
       "is_ticker": false
     },
     {
-      "title": "US embassy accuses Canada of election meddling ahead of midterms",
-      "description": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada.",
-      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 03:05:28 GMT",
-      "source": "BBC News",
+      "title": "Real Madrid’s complaint over La Liga chief’s Nazi slant sent to tribunal",
+      "description": "La Liga ⁠chief ⁠Javier Tebas compared Real Madrid's communication to Nazi propaganda and now faces a tribunal in Spain.",
+      "url": "https://www.aljazeera.com/sports/2026/10/22/real-madrids-complaint-over-la-liga-chiefs-nazi-slant-sent-to-tribunal?traffic_source=rss",
+      "published": "Thu, 22 Oct 2026 15:35:07 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes",
-      "description": "Both men have denied having any knowledge of Epstein's crimes and their attorney rejected the lawsuit as \"categorically false\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqx287g8714lo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 22:20:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 New Mexico sues Epstein lawyer and accountant, accusing them of hiding his sex crimes"
     },
     {
       "title": "Rising costs and tight budgets strain Americans ahead of midterm elections",
@@ -2085,28 +2135,6 @@
       "description": "Residents in Yemen’s Taiz are facing severe food and water shortages as a Houthi blockade cuts off a key supply route.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/yemenis-face-severe-shortages-in-taiz-amid-houthi-blockade?traffic_source=rss",
       "published": "Thu, 22 Oct 2026 13:42:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What’s the PHP coding flaw that could pull down 70 percent of the internet?",
-      "description": "The vulnerability allows a hacker to change a website or extract data, including personal information.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/whats-the-php-coding-flaw-that-could-pull-down-70-percent-of-the-internet?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 12:37:34 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
-      "description": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
-      "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
-      "published": "Thu, 22 Oct 2026 11:36:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2269,9 +2297,9 @@
     },
     {
       "title": "M 7.0 - 191 km ENE of Nagqu, China",
-      "description": "PAGER - ORANGE ShakeMap - VIII Time 2026-10-22 14:33:40 UTC 2026-10-22 14:33:40 UTC at epicenter Location 32.381°N 93.780°E Depth 18.00 km (11.18 mi)",
+      "description": "PAGER - PENDING ShakeMap - VIII Time 2026-10-22 14:33:40 UTC 2026-10-22 14:33:40 UTC at epicenter Location 32.381°N 93.780°E Depth 18.00 km (11.18 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
-      "published": "2026-10-22T15:28:59.040Z",
+      "published": "2026-10-22T16:18:34.318Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2404,28 +2432,6 @@
       "description": "One of the most recognisable and beloved musicals of all time has hit the stage in Paris. \"Singin' in the Rain\" is on at the Lido theatre until January 10. In this edition of Entre Nous we are pleased to welcome Ashley Day, the British actor bringing Don Lockwood to life. He tells us what it's like to step into Gene Kelly's shoes.",
       "url": "https://www.france24.com/en/tv-shows/entre-nous/20261022-from-screen-to-stage-singin-in-the-rain-comes-to-paris",
       "published": "Thu, 22 Oct 2026 13:02:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Meta's Zuckerberg pitches AI successes to investors with 26% rise in quarterly revenue",
-      "description": "Meta Platforms CEO Mark Zuckerberg touted the company's progress on artificial intelligence during an earnings call on Wednesday and called for more investment. The tech giant's Muse AI agent has garnered 10 million users since its launch six weeks ago, while third-quarter revenue rose to $64.6 billion. Meanwhile, the company is accused of political interference in Brazil's presidential election. Also in this edition, we check in on France's rising borrowing costs.",
-      "url": "https://www.france24.com/en/tv-shows/business/20261022-meta-s-zuckerberg-pitches-ai-successes-to-investors-with-26-rise-in-quarterly-revenue",
-      "published": "Thu, 22 Oct 2026 09:18:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Manchester United blown out of the water by Como in Champions League rout",
-      "description": "Michael Carrick's side saw their winless run extend to seven matches in all competitions as a Nico Paz double powered the Italian side to an emphatic 4-1 win on Wednesday night.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261022-manchester-united-blown-out-of-the-water-by-como-in-champions-league-rout",
-      "published": "Thu, 22 Oct 2026 06:13:33 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 1,
