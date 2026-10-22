@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T17:14:29.724417Z",
+  "last_updated": "2026-10-22T17:39:16.684681Z",
   "event_count": 224,
   "events": [
     {
@@ -282,17 +282,6 @@
       "is_ticker": false
     },
     {
-      "title": "France bans or curbs protests in bid to prevent new wave of unrest",
-      "description": "French authorities have banned or curbed protests across the country ahead of the weekend in a bid to prevent the violence and looting that plagued last week’s demonstrations. In Paris alone, hundreds of shops and other small businesses were destroyed on the sidelines of the protests.",
-      "url": "https://www.france24.com/en/france/20261022-france-bans-or-curbs-protests-in-bid-to-prevent-new-wave-of-unrest",
-      "published": "Thu, 22 Oct 2026 12:11:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
       "description": "The International Criminal Court and its embattled staff have won the European Union’s top human rights honor",
       "url": "https://abcnews.com/International/wireStory/international-criminal-court-wins-european-unions-top-human-137469883",
@@ -316,6 +305,20 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "A magnitude 7 earthquake shakes China's Tibet",
+      "description": "A magnitude 7 earthquake has struck China’s Tibet on Thursday evening, with no immediate reports of damage or casualties",
+      "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700",
+      "published": "Thu, 22 Oct 2026 12:26:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ A magnitude 7 earthquake shakes China's Tibet"
     },
     {
       "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
@@ -492,20 +495,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Macron has one more chance to save the country or ‘it’s lost for France,’ business owner warns"
-    },
-    {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 21 Oct 2026 21:27:41 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks"
     },
     {
       "title": "Controversial US-backed vaccine trial in African newborns halted",
@@ -710,17 +699,6 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
       "published": "Mon, 19 Oct 2026 22:34:43 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Students and teachers march through Greek capital to protest cost of living",
-      "description": "Students and teachers in Athens are marching for affordable student housing and more state investment in education",
-      "url": "https://abcnews.com/International/wireStory/thousands-students-teachers-march-greek-capital-protest-high-137441774",
-      "published": "Wed, 21 Oct 2026 08:05:58 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
@@ -1001,17 +979,6 @@
       "ticker_label": "🪖 Ukraine and Russia exchange strikes after US envoy visit to the Kremlin"
     },
     {
-      "title": "France has a proud tradition of protesting, and sometimes people lose their heads",
-      "description": "France is known for its vibrant protest culture, where activism is seen as a social duty and part of the national identity",
-      "url": "https://abcnews.com/International/wireStory/france-proud-tradition-protesting-people-lose-heads-137436446",
-      "published": "Wed, 21 Oct 2026 03:22:20 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
       "description": "Three years on from the reported resumption of large-scale forcible returns of nationals of the Democratic People’s Republic of Korea (DPRK) from China, serious concerns persist about their fate, according to a group of Human Rights Council-appointed independent experts.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168645",
@@ -1042,17 +1009,6 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "How do Israel's elections work and who are the main contenders?",
-      "description": "Many view it as one of the most pivotal elections in Israel's history, with global implications.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 09:27:10 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1114,10 +1070,10 @@
       "is_ticker": false
     },
     {
-      "title": "Macron blasts ‘stupid’ claims by Trump, others blaming Muslims migrants for riots",
-      "description": "French President Emmanuel Macron has criticized foreign leaders, including U.S. President Donald Trump, saying they exploit unrest in France for political gain",
-      "url": "https://abcnews.com/International/wireStory/macron-blasts-stupid-claims-trump-blaming-muslims-migrants-137441867",
-      "published": "Wed, 21 Oct 2026 08:42:30 -0400",
+      "title": "Venezuela claims to have 300Bn barrels of oil in the ground. Experts claim maybe",
+      "description": "One figure sets Venezuela apart from the rest of the world: 303 billion barrels of so-called proven oil reserves",
+      "url": "https://abcnews.com/International/wireStory/venezuela-claims-300-billion-barrels-oil-ground-experts-137470154",
+      "published": "Thu, 22 Oct 2026 07:38:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1158,6 +1114,17 @@
       "is_ticker": false
     },
     {
+      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
+      "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 16:40:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax",
       "description": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
       "url": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
@@ -1170,17 +1137,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Meta strikes deal to stop Mark Zuckerberg leaving California over billionaire tax"
-    },
-    {
-      "title": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-      "description": "Her Republican opponent Vivek Ramaswamy is airing the ad featuring her mother, whose husband was charged with sexual abuse in her childhood.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 16:40:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
@@ -1352,37 +1308,32 @@
       "is_ticker": false
     },
     {
-      "title": "UK government approves natural gas project despite environmental concerns",
-      "description": "The U.K. government has approved a natural gas project off the coast of Scotland over the objections of environmental groups, saying it would improve energy security as the country transitions to renewable sources of energy",
-      "url": "https://abcnews.com/International/wireStory/uk-government-approves-natural-gas-project-off-scotland-137438010",
-      "published": "Wed, 21 Oct 2026 03:29:44 -0400",
-      "source": "ABC News International",
+      "title": "Scientists turn art detectives to date van Gogh's 'Starry Night' to actual sky from 1889",
+      "description": "A team of South Korean researchers has put forward a new date for the night sky depicted in Dutch painter Vincent van Gogh's famed masterpiece \"The Starry Night\". Art historians have long assumed the stars were a product of the artist's fantasy or dated the scene to June 1889 based on the artist's location and other details, but astronomical details like the sliver crescent moon don't line up.",
+      "url": "https://www.france24.com/en/culture/20261022-scientists-turn-art-detectives-trace-van-gogh-starry-night-actual-night-sky-1889",
+      "published": "Thu, 22 Oct 2026 17:27:02 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Scientists turn art detectives to date van Gogh's 'Starry Night' to actual sky from 1889"
     },
     {
-      "title": "South Korean officials free a shark trapped for a month in Busan canal",
-      "description": "South Korean officials have freed a large gray shark trapped for over a month in a canal in Busan",
-      "url": "https://abcnews.com/International/wireStory/south-korean-officials-struggle-free-shark-trapped-busan-137439368",
-      "published": "Wed, 21 Oct 2026 11:11:39 -0400",
+      "title": "Coroner moved to tears by death of a child denied insulin on religious grounds",
+      "description": "An Australian coroner was moved to tears after hearing from the sister of an 8-year-old girl who died when her insulin was withheld by her parents on religious grounds",
+      "url": "https://abcnews.com/International/wireStory/australian-coroner-moved-tears-death-child-denied-insulin-137470519",
+      "published": "Thu, 22 Oct 2026 09:21:49 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Africa CDC calls an Ebola crisis summit as Nigeria records its first case",
-      "description": "Africa Centres for Disease Control and Prevention has invited health ministers to an “extraordinary virtual meeting” as Ebola spreads across the continent",
-      "url": "https://abcnews.com/International/wireStory/africa-cdc-calls-ebola-crisis-summit-nigeria-records-137440881",
-      "published": "Thu, 22 Oct 2026 00:42:34 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Coroner moved to tears by death of a child denied insulin on religious grounds"
     },
     {
       "title": "DR Congo: Ebola responders under pressure as outbreak expands",
@@ -1543,17 +1494,6 @@
       "is_ticker": false
     },
     {
-      "title": "Two European women held captive for more than a year in Niger freed in Libya",
-      "description": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
-      "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 13:22:39 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1576,10 +1516,10 @@
       "is_ticker": false
     },
     {
-      "title": "Australian politician who was hit by car has lost both legs",
-      "description": "Australian federal lawmaker Helen Haines had had both legs amputated after she was rammed repeatedly by a driver on Monday outside her electorate office, her husband says",
-      "url": "https://abcnews.com/International/wireStory/australian-politician-hit-car-lost-legs-137438270",
-      "published": "Wed, 21 Oct 2026 06:26:22 -0400",
+      "title": "Coastal construction threaten mangrove forest that protects Vietnam's biggest city",
+      "description": "Construction projects are putting at risk a mangrove forest that stands between Vietnam's Ho Chi Minh City and rising seas",
+      "url": "https://abcnews.com/International/wireStory/coastal-construction-projects-threaten-mangrove-forest-protects-vietnams-137466689",
+      "published": "Thu, 22 Oct 2026 00:44:13 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1725,6 +1665,20 @@
       "ticker_label": "🪖 Ukraine's strikes on Russian data centers disrupt key services and derail AI research"
     },
     {
+      "title": "Tropical Storm Vance has formed in the Pacific Ocean",
+      "description": "Tropical Storm Vance has formed in the Pacific Ocean",
+      "url": "https://abcnews.com/International/wireStory/tropical-storm-vance-formed-pacific-ocean-137458754",
+      "published": "Wed, 21 Oct 2026 17:53:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Tropical Storm Vance has formed in the Pacific Ocean"
+    },
+    {
       "title": "Building a Layered Homeland Defense",
       "description": "Paid Content: Modern homeland missile defense requires the ability to detect different threats, understand them quickly and choose the right response. Lockheed Martin experts explain how satellites, radars and interceptors can work together in a layered architecture designed to help operators make faster decisions and defend against evolving threats.",
       "url": "https://www.foxnews.com/us/building-layered-homeland-defense",
@@ -1805,10 +1759,10 @@
       "is_ticker": false
     },
     {
-      "title": "Tiny Caribbean island of Nevis to restore Alexander Hamilton museum with US funds",
-      "description": "St. Kitts and Nevis has received a financial boost in honor of one of its most famous sons, Alexander Hamilton, who went on to become a founding father of the United States and America’s first treasury secretary",
-      "url": "https://abcnews.com/International/wireStory/tiny-caribbean-island-nevis-restore-alexander-hamilton-museum-137459726",
-      "published": "Wed, 21 Oct 2026 17:51:18 -0400",
+      "title": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity",
+      "description": "Two women from Austria and Switzerland have been freed in Niger after spending more than a year and half in captivity, officials and local media reported Thursday",
+      "url": "https://abcnews.com/International/wireStory/austrian-swiss-woman-freed-niger-after-year-half-137472692",
+      "published": "Thu, 22 Oct 2026 08:50:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1816,10 +1770,10 @@
       "is_ticker": false
     },
     {
-      "title": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity",
-      "description": "Two women from Austria and Switzerland have been freed in Niger after spending more than a year and half in captivity, officials and local media reported Thursday",
-      "url": "https://abcnews.com/International/wireStory/austrian-swiss-woman-freed-niger-after-year-half-137472692",
-      "published": "Thu, 22 Oct 2026 08:50:16 -0400",
+      "title": "Tiny Caribbean island of Nevis to restore Alexander Hamilton museum with US funds",
+      "description": "St. Kitts and Nevis has received a financial boost in honor of one of its most famous sons, Alexander Hamilton, who went on to become a founding father of the United States and America’s first treasury secretary",
+      "url": "https://abcnews.com/International/wireStory/tiny-caribbean-island-nevis-restore-alexander-hamilton-museum-137459726",
+      "published": "Wed, 21 Oct 2026 17:51:18 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1921,17 +1875,6 @@
       "ticker_label": "💥 France reports first Shamonda virus case in human who later died"
     },
     {
-      "title": "Malaysia bans civil servants from using navigation app, citing data risks",
-      "description": "Malaysia has banned civil servants from using the navigation app Waze due to data security concerns linked to its Israeli origins",
-      "url": "https://abcnews.com/International/wireStory/malaysia-bans-civil-servants-navigation-app-waze-citing-137440691",
-      "published": "Wed, 21 Oct 2026 08:33:27 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Migrants paid up to $500 million in smuggling fees on European sea routes",
       "description": "The price tag for smuggling on European sea routes reached up to half a billion dollars last year, the UN Office on Drugs and Crime (UNODC) and the UN migration office, IOM, reported on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168642",
@@ -1998,6 +1941,17 @@
       "is_ticker": false
     },
     {
+      "title": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple",
+      "description": "Tourists and locals gathered at a temple in southern Egypt on Thursday to witness a rare solar phenomenon",
+      "url": "https://abcnews.com/International/wireStory/year-golden-sunbeam-illuminates-3000-year-egyptian-temple-137482176",
+      "published": "Thu, 22 Oct 2026 13:09:52 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "South Korea seeks new ways to free a huge gray shark after it slips back into canal",
       "description": "A city in South Korea is again trying to free a huge dusky shark from a narrow canal",
       "url": "https://abcnews.com/International/wireStory/city-south-korea-seeks-new-ways-free-huge-137467512",
@@ -2020,10 +1974,32 @@
       "is_ticker": false
     },
     {
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
       "description": "Trump is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave in 2021.",
       "url": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 17:02:33 GMT",
+      "published": "Thu, 22 Oct 2026 17:14:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Germany target of 'intensive' espionage, Merz says after suspected Russian spy arrest",
+      "description": "A Ukrainian man was arrested on suspicion of spying for Russia - one of several such cases in Germany this year.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx28y5e04ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:07:03 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2043,6 +2019,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote"
+    },
+    {
+      "title": "'Looksmaxxing' influencer Clavicular pleads not guilty to rape charge",
+      "description": "The influencer, whose real name is Braden Peters, is accused of sexually assaulting a 17-year-old girl in 2025.",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy71ldj3w9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 22 Oct 2026 17:21:42 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "YouTuber arrested after popular Indian finance influencer's suicide",
@@ -2081,10 +2068,10 @@
       "ticker_label": "💥 First human case of Shamonda virus detected in France, officials say"
     },
     {
-      "title": "Grandparent hugging consent ad pulled after criticism",
+      "title": "'Demeaning' and 'absurd': The backlash against a hugging grandparents consent ad",
       "description": "Jim O'Callaghan described the video as \"inappropriate and demeaning to grandparents\".",
       "url": "https://www.bbc.co.uk/news/articles/c83vqn6zwrx0o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 11:58:34 GMT",
+      "published": "Thu, 22 Oct 2026 17:18:17 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2315,7 +2302,7 @@
       "title": "M 7.0 - 191 km ENE of Nagqu, China",
       "description": "PAGER - ORANGE ShakeMap - VIII DYFI? - VII Time 2026-10-22 14:33:40 UTC 2026-10-22 14:33:40 UTC at epicenter Location 32.381°N 93.780°E Depth 18.00 km (11.18 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u43g",
-      "published": "2026-10-22T16:58:54.991Z",
+      "published": "2026-10-22T17:21:07.800Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2488,10 +2475,10 @@
       "is_ticker": false
     },
     {
-      "title": "Hungary’s Magyar vows accountability for Orbán era while holding firm on migration",
-      "description": "Hungarian Prime Minister Péter Magyar is actively pursuing former officials accused of corruption and power abuses",
-      "url": "https://abcnews.com/International/wireStory/hungarys-magyar-vows-accountability-orbn-era-holding-firm-137437319",
-      "published": "Wed, 21 Oct 2026 02:58:26 -0400",
+      "title": "Brazil's Congress's shift to the right could change Latin America's powerhouse. Here’s what to know",
+      "description": "Brazil’s elections have shifted Congress further right, regardless of who wins the presidential runoff between Flávio Bolsonaro and incumbent Luiz Inácio Lula da Silva",
+      "url": "https://abcnews.com/International/wireStory/brazils-congresss-shift-change-latin-americas-powerhouse-heres-137476484",
+      "published": "Thu, 22 Oct 2026 09:48:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2499,15 +2486,29 @@
       "is_ticker": false
     },
     {
-      "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference",
-      "description": "Canadian Prime Minister Mark Carney says that U.S. President Donald Trump’s tariffs have raised costs for American families and upended decades of trade as he unveiled a $6.2 billion plan to protect Canada’s manufacturing heartland",
-      "url": "https://abcnews.com/International/wireStory/carney-trumps-tariffs-hurt-americans-us-embassy-alleges-137460524",
-      "published": "Wed, 21 Oct 2026 23:43:10 -0400",
+      "title": "Serb voters abroad face long trips in tight election after officials move polling stations",
+      "description": "Serbian voters overseas are facing major hurdles in casting their ballots in a tight parliamentary election this weekend",
+      "url": "https://abcnews.com/International/wireStory/serb-voters-abroad-face-long-trips-tight-election-137470795",
+      "published": "Thu, 22 Oct 2026 08:26:21 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Russia pounds Ukraine with missiles and drones, hours after agreeing to peace talks",
+      "description": "Russia has launched a nighttime missile barrage on Kyiv while its military says it intercepted more than 800 Ukrainian drones targeting Moscow and other Russian cities",
+      "url": "https://abcnews.com/International/wireStory/russia-pounds-ukraines-capital-kyiv-missiles-drones-hours-137468007",
+      "published": "Thu, 22 Oct 2026 09:06:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia pounds Ukraine with missiles and drones, hours after agreeing to peace talks"
     },
     {
       "title": "What to know as 6 women testify in Russell Brand rape and sexual assault trial",
@@ -2521,10 +2522,21 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's Congress's shift to the right could change Latin America's powerhouse. Here’s what to know",
-      "description": "Brazil’s elections have shifted Congress further right, regardless of who wins the presidential runoff between Flávio Bolsonaro and incumbent Luiz Inácio Lula da Silva",
-      "url": "https://abcnews.com/International/wireStory/brazils-congresss-shift-change-latin-americas-powerhouse-heres-137476484",
-      "published": "Thu, 22 Oct 2026 09:48:55 -0400",
+      "title": "Brazil's Supreme Court suspends permit for major Amazon gold mine",
+      "description": "Brazil’s Supreme Court has suspended an environmental permit for a major gold mining project in the Amazon rainforest",
+      "url": "https://abcnews.com/International/wireStory/brazils-supreme-court-suspends-permit-major-amazon-gold-137461510",
+      "published": "Thu, 22 Oct 2026 03:02:07 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Carney says Trump’s tariffs hurt Americans as US Embassy alleges Canadian interference",
+      "description": "Canadian Prime Minister Mark Carney says that U.S. President Donald Trump’s tariffs have raised costs for American families and upended decades of trade as he unveiled a $6.2 billion plan to protect Canada’s manufacturing heartland",
+      "url": "https://abcnews.com/International/wireStory/carney-trumps-tariffs-hurt-americans-us-embassy-alleges-137460524",
+      "published": "Wed, 21 Oct 2026 23:43:10 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
