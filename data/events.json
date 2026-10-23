@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T11:16:22.072490Z",
+  "last_updated": "2026-10-23T11:41:36.084292Z",
   "event_count": 223,
   "events": [
     {
@@ -17,22 +17,8 @@
       "ticker_label": "💥 French prosecutors investigate Paris shooting as suspected terror attack"
     },
     {
-      "title": "South Africa gripped by anti-migrant protests as foreign national is killed",
-      "description": "Xenophobic unrest turns deadly in South Africa as a foreign national is beaten to death during a protest march in Durban, a city increasingly gripped by anti-migrant tensions. Meanwhile, as global efforts to raise awareness of lead poisoning intensify, teams in Ivory Coast go door-to-door testing homes for dangerous levels of the toxic metal. Finally, Ivorian authorities are cracking down on illegal mining over fears of pollution, but some young people say the activity remains one of their few sources of income.",
-      "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261023-south-africa-gripped-by-anti-migrant-protests-as-foreign-national-is-killed",
-      "published": "Fri, 23 Oct 2026 08:24:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 44,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 South Africa gripped by anti-migrant protests as foreign national is killed"
-    },
-    {
-      "title": "Terror probe after one killed and several wounded in shooting in Paris suburb",
-      "description": "A terror investigation is under way after one person was killed and four others injured in a drive-by shooting in a Paris suburb.",
+      "title": "Terror probe after one killed and several injured in Paris drive-by shooting",
+      "description": "A terror investigation is under way after an attacker with an automatic weapon shot dead one person and injured four others on the outskirts of Paris.",
       "url": "https://news.sky.com/story/one-dead-and-several-wounded-after-shooting-in-paris-suburb-13602320",
       "published": "Fri, 23 Oct 2026 00:01:00 +0100",
       "source": "Sky News World",
@@ -42,7 +28,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Terror probe after one killed and several wounded in shooting in Paris suburb"
+      "ticker_label": "💥 Terror probe after one killed and several injured in Paris drive-by shooting"
     },
     {
       "title": "Rescuers search for survivors after deadly earthquake in China’s Tibet region",
@@ -115,6 +101,20 @@
       "ticker_label": "🌪️ Nepal’s deadly glacier flood a ‘defining moment’ for the international community"
     },
     {
+      "title": "UN climate fund promises just $20 million for Nepal flood recovery",
+      "description": "Disaster-hit Nepal will receive $20 million from the United Nations to help the Himalayan country recover from the devastating floods that killed thousands and destroyed buildings, schools, roads and dams resulting in billions of dollars of damages",
+      "url": "https://abcnews.com/International/wireStory/climate-fund-promises-20-million-nepal-flood-recovery-137501279",
+      "published": "Fri, 23 Oct 2026 04:18:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 33,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ UN climate fund promises just $20 million for Nepal flood recovery"
+    },
+    {
       "title": "Israel orders army to prepare to fully close West Bank after 'thwarting terror attack'",
       "description": "The Israeli government has ordered its army to prepare for a full closure of the occupied West Bank following a shooting near Hebron.",
       "url": "https://news.sky.com/story/israel-orders-army-to-prepare-to-fully-close-west-bank-after-attack-13602577",
@@ -143,8 +143,22 @@
       "ticker_label": "🪖 Are global oil reserves sufficient to withstand renewed US-Iran war?"
     },
     {
+      "title": "France: 1 killed, 4 wounded after shooting near Paris",
+      "description": "French police have arrested a suspect after gunshots were fired in a town in the suburbs of Paris on Friday. One person was killed and four others were wounded in the shooting. The motive was not immediately clear.",
+      "url": "https://www.dw.com/en/france-1-killed-4-wounded-after-shooting-near-paris/a-79742256?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 23 Oct 2026 11:22:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 France: 1 killed, 4 wounded after shooting near Paris"
+    },
+    {
       "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "description": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.",
+      "description": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
       "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 10:26:06 GMT",
       "source": "BBC News",
@@ -152,9 +166,9 @@
       "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting"
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting"
     },
     {
       "title": "Summit in Samarkand, a boon for child wellbeing and health",
@@ -388,20 +402,6 @@
       "ticker_label": "🪖 Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight"
     },
     {
-      "title": "European Union awards top rights prize to International Criminal Court days after Trump sanctions",
-      "description": "The International Criminal Court and its embattled staff have won the European Union’s top human rights honor",
-      "url": "https://abcnews.com/International/wireStory/international-criminal-court-wins-european-unions-top-human-137469883",
-      "published": "Thu, 22 Oct 2026 09:06:21 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 European Union awards top rights prize to International Criminal Court days after Trump sanctions"
-    },
-    {
       "title": "Ex-cop sped away in hedge fund’s SUV after fatal George Washington Bridge road rage shooting: report",
       "description": "Victor Romero, a former NYPD detective, allegedly fired a fatal shot from his employer's SUV during a George Washington Bridge road rage encounter.",
       "url": "https://www.foxnews.com/us/ex-cop-sped-away-hedge-funds-suv-after-fatal-george-washington-bridge-road-rage-shooting-report",
@@ -455,6 +455,20 @@
       "is_ticker": false
     },
     {
+      "title": "A magnitude 7 earthquake shakes China's Tibet",
+      "description": "A magnitude 7 earthquake has struck China’s Tibet on Thursday evening, with no immediate reports of damage or casualties",
+      "url": "https://abcnews.com/International/wireStory/magnitude-7-earthquake-shakes-chinas-tibet-137480700",
+      "published": "Thu, 22 Oct 2026 12:26:26 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ A magnitude 7 earthquake shakes China's Tibet"
+    },
+    {
       "title": "World News in Brief: Aid for Ethiopia, Abyei drone strikes condemned, extreme heat and newborn health",
       "description": "The World Health Organization (WHO) is scaling up emergency health response operations across Afar, Amhara and Tigray in Ethiopia to address growing humanitarian and health needs resulting from ongoing hostilities.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168643",
@@ -506,28 +520,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 North Korea prepares to restart propaganda loudspeakers as ties sour with South"
-    },
-    {
-      "title": "Foreign citizen killed during march in South Africa as anti-immigrant tensions flare",
-      "description": "Police say a foreign citizen has been beaten to death by a group of around 50 people during a protest march in South Africa",
-      "url": "https://abcnews.com/International/wireStory/foreign-citizen-beaten-death-march-south-africa-anti-137471176",
-      "published": "Thu, 22 Oct 2026 07:46:25 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "A second female lawmaker in Australia is threatened days after alleged car attack",
-      "description": "A man has been charged with threatening an Australian lawmaker’s staff with nunchucks days after another legislator was critically injured when a man repeatedly hit her with a car",
-      "url": "https://abcnews.com/International/wireStory/female-lawmaker-australia-threatened-days-after-alleged-car-137467537",
-      "published": "Thu, 22 Oct 2026 09:30:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "‘One step away from famine’: Inside Afghanistan’s hunger crisis",
@@ -656,20 +648,6 @@
       "ticker_label": "🪖 Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism"
     },
     {
-      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
-      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:23:07 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds"
-    },
-    {
       "title": "At least one dead and four injured in Paris suburb shooting",
       "description": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes.",
       "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
@@ -682,6 +660,20 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 At least one dead and four injured in Paris suburb shooting"
+    },
+    {
+      "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
+      "description": "The UN human rights chief Volker Türk says the multiple attacks may amount to war crimes.",
+      "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 10:23:07 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds"
     },
     {
       "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
@@ -964,17 +956,6 @@
       "is_ticker": false
     },
     {
-      "title": "United-States : Backlash over controversial Ohio midterms campaign ad",
-      "description": "The backlash over an Ohio campaign advertisement attacking Amy Acton, the Democratic nominee for governor, spread beyond the state's borders Thursday, causing fresh headaches for Republicans with less than two weeks until the midterm elections.",
-      "url": "https://www.france24.com/en/united-states-backlash-over-controversial-ohio-midterms-campaign-ad",
-      "published": "Fri, 23 Oct 2026 08:04:07 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "How the death of two CIA agents in northern Mexico led to a treason case",
       "description": "The deaths of two CIA agents in April after a drug lab operation in northern Mexico have led to treason charges against a former Chihuahua state attorney general",
       "url": "https://abcnews.com/International/wireStory/death-cia-agents-northern-mexico-led-treason-case-137490117",
@@ -1023,17 +1004,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Damaging hail pelts Phoenix in rare storm"
-    },
-    {
-      "title": "Moment man rescued from sinking car by Australian TV reporter",
-      "description": "Journalist Will Murray describes how he and a bystander saved an SUV driver from his vehicle.",
-      "url": "https://www.bbc.co.uk/news/videos/cwdr8zm3r5gko?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 11:08:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Poland: Thousands protest for more abortion rights",
@@ -1094,6 +1064,17 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "France tightens security in anticipation of weekend protests",
+      "description": "Gatherings banned and curfews extended as cities lock down in an effort to avert further unrest.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/france-tightens-security-in-anticipation-of-weekend-protests?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 11:05:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1166,6 +1147,17 @@
       "is_ticker": false
     },
     {
+      "title": "French authorities ban some student protests after weekend looting and clashes",
+      "description": "Dozens of protesters took to the Paris streets on Thursday despite bans on demonstrations ordered in multiple French cities following a weekend of clashes and widespread looting that marked France’s most violent unrest in years.",
+      "url": "https://www.france24.com/en/french-authorities-ban-some-student-protests-after-weekend-looting-and-clashes",
+      "published": "Fri, 23 Oct 2026 11:21:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Pope Leo's doctors say tests show he needs no further treatment for lung cancer",
       "description": "Pope Leo's doctors say final tissue and molecular tests have confirmed his lung cancer was localised, and no further treatment is needed, the Vatican said in a statement.",
       "url": "https://news.sky.com/story/pope-leos-doctors-say-tests-show-he-needs-no-further-treatment-for-lung-cancer-13602031",
@@ -1217,6 +1209,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Blue Planet III: Moment octopus escapes death after hunt gone wrong",
+      "description": "The sequence is part of the latest Blue Planet series from Sir David Attenborough.",
+      "url": "https://www.bbc.co.uk/news/videos/ck240lmvqjyjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 05:05:03 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1296,6 +1299,17 @@
       "is_ticker": false
     },
     {
+      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
+      "description": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
+      "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
+      "published": "Fri, 23 Oct 2026 07:22:25 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Europe's heat claims 50,000 lives. Climate change blamed for two-thirds of deaths",
       "description": "Blistering record heat in Europe this summer helped kill more than 50,000 people, with nearly two-thirds of that death toll blamed on human-caused climate change, a new study found.",
       "url": "https://www.npr.org/2026/10/23/g-s1-149498/europe-heat-deaths",
@@ -1355,6 +1369,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "A Ukrainian soldier lost his sight in war. Now he hopes to see his children again",
+      "description": "Ukrainian soldier Mykola Kasiuk is hoping to regain some vision after a battlefield injury left him nearly blind",
+      "url": "https://abcnews.com/International/wireStory/ukrainian-soldier-lost-sight-war-now-hopes-children-137499911",
+      "published": "Fri, 23 Oct 2026 02:51:10 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A Ukrainian soldier lost his sight in war. Now he hopes to see his children again"
     },
     {
       "title": "DR Congo: Ebola responders under pressure as outbreak expands",
@@ -1493,6 +1521,17 @@
       "ticker_label": "🪖 NYT reports plans for fresh strikes on Iran after the US midterm elections"
     },
     {
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 11:30:32 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1548,6 +1587,17 @@
       "is_ticker": false
     },
     {
+      "title": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff",
+      "description": "A federal court in Brazil has ordered the government to ensure Indigenous people can vote in Sunday’s presidential runoff",
+      "url": "https://abcnews.com/International/wireStory/brazil-court-orders-government-provide-transportation-indigenous-voters-137489031",
+      "published": "Fri, 23 Oct 2026 02:54:13 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Federal authorities charge 15 in massive $1.8B Southern California medical fraud sweep",
       "description": "Federal raids across Southern California targeted 15 suspects, including a cardiothoracic surgeon, in nearly $2 billion in healthcare fraud schemes.",
       "url": "https://www.foxnews.com/us/federal-authorities-charge-15-massive-1-8b-southern-california-medical-fraud-sweep",
@@ -1563,17 +1613,6 @@
       "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
       "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 10:14:37 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Rubio turns to small Indian town as US faces high oil prices",
-      "description": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
-      "url": "https://www.bbc.co.uk/news/articles/c3x2wnk8ejq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 08:39:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1639,11 +1678,11 @@
       "is_ticker": false
     },
     {
-      "title": "Are the French police the most violent in the EU?",
-      "description": "As protests continue in France, the French police are under scrutiny after new allegations of police brutality. The force has a bigger arsenal than most in Europe.",
-      "url": "https://www.dw.com/en/are-the-french-police-the-most-violent-in-the-eu/a-79732855?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Oct 2026 16:01:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "French Interior Minister holds presser on security arrangements ahead of protests",
+      "description": "French Interior Minister Laurent Nunez held a press conference on security arrangements ahead of upcoming protests. He announced that 70,000 security forces would be mobilised on October 24 to keep order.",
+      "url": "https://www.france24.com/en/replay-french-interior-minister-holds-presser-on-security-arrangements-ahead-of-protests",
+      "published": "Fri, 23 Oct 2026 11:29:17 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1666,17 +1705,6 @@
       "url": "https://news.sky.com/story/garda-investigation-launched-as-two-bodies-found-in-ireland-13601860",
       "published": "Wed, 21 Oct 2026 11:19:00 +0100",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Women are protesting around Poland for free access to legal abortions",
-      "description": "Women are protesting in Poland for access to free and legal abortion services",
-      "url": "https://abcnews.com/International/wireStory/women-protesting-poland-free-access-legal-abortions-137467815",
-      "published": "Thu, 22 Oct 2026 04:26:19 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1708,6 +1736,17 @@
       "ticker_label": "💥 Utah man charged with attempted hate crime after alleged threat to 'blow up' synagogue"
     },
     {
+      "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
+      "description": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 09:23:53 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1724,17 +1763,6 @@
       "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
       "published": "Wed, 21 Oct 2026 13:40:08 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity",
-      "description": "Two women from Austria and Switzerland have been freed in Niger after spending more than a year and half in captivity, officials and local media reported Thursday",
-      "url": "https://abcnews.com/International/wireStory/austrian-swiss-woman-freed-niger-after-year-half-137472692",
-      "published": "Thu, 22 Oct 2026 08:50:16 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1890,7 +1918,7 @@
       "is_ticker": false
     },
     {
-      "title": "Watch: 'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
+      "title": "'It's part of the culture' - New York bans horse-drawn carriages after more than 160 years",
       "description": "The BBC's Madeline Halpert spoke to city tourists, residents and horse carriage workers about the industry and their opinion on the ban.",
       "url": "https://www.bbc.co.uk/news/videos/ck5yn9dqnqj7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 20:48:56 GMT",
@@ -1923,10 +1951,10 @@
       "is_ticker": false
     },
     {
-      "title": "South Korea seeks new ways to free a huge gray shark after it slips back into canal",
-      "description": "A city in South Korea is again trying to free a huge dusky shark from a narrow canal",
-      "url": "https://abcnews.com/International/wireStory/city-south-korea-seeks-new-ways-free-huge-137467512",
-      "published": "Thu, 22 Oct 2026 04:26:13 -0400",
+      "title": "Twice a year, a golden sunbeam illuminates a 3,000-year-old Egyptian temple",
+      "description": "Tourists and locals gathered at a temple in southern Egypt on Thursday to witness a rare solar phenomenon",
+      "url": "https://abcnews.com/International/wireStory/year-golden-sunbeam-illuminates-3000-year-egyptian-temple-137482176",
+      "published": "Thu, 22 Oct 2026 15:46:58 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 2,
@@ -2018,17 +2046,6 @@
       "description": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\".",
       "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 22:27:53 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "AI discovered a massive cyber-security flaw - here's what happened",
-      "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
-      "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 12:17:44 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2150,17 +2167,6 @@
       "description": "Support crucial from 47-nation AFC's president, who was critic of Gianni Infantino over failed private investment plan.",
       "url": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 06:11:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
-      "description": "Manchester United manager Michael Carrick is under growing pressure, but club legend Wayne Rooney takes aim at players.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 06:11:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2366,17 +2372,6 @@
       "is_ticker": false
     },
     {
-      "title": "Former U.S. Ambassador to Ukraine William Taylor on Trump's embrace of Russia",
-      "description": "NPR's Steve Inskeep asks former U.S. Ambassador to Ukraine William Taylor about President Trump's embrace of Russia as envoy Steve Witkoff visits Moscow after meeting Ukraine's Volodymyr Zelenskyy.",
-      "url": "https://www.npr.org/2026/10/22/nx-s1-6010509/former-u-s-ambassador-to-ukraine-william-taylor-on-trumps-embrace-of-russia",
-      "published": "Thu, 22 Oct 2026 05:59:02 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Greece joins countries putting age-limits on social media, banning access for kids under 15",
       "description": "Greece has passed legislation banning social media access for children under 15. New rules will come into effect on January 1, 2027, and are designed to protect children's mental health.",
       "url": "https://www.dw.com/en/greece-joins-countries-putting-age-limits-on-social-media-banning-access-for-kids-under-15/a-79739606?maca=en-rss-en-all-1573-xml-mrss",
@@ -2490,6 +2485,17 @@
       "is_ticker": false
     },
     {
+      "title": "European football giants to meet in London for NBA basketball talks",
+      "description": "A cluster of European football giants will convene in London next week for talks as they try to finalise a string of deals for European basketball teams worth billions of dollars.",
+      "url": "https://news.sky.com/story/european-football-giants-to-meet-in-london-for-nba-basketball-talks-13602607",
+      "published": "Fri, 23 Oct 2026 10:18:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "North Korea plans to resume propaganda broadcasts along border with South Korea",
       "description": "North Korea says it plans to resume propaganda broadcasts targeting South Korea within days along the heavily-armed border between the two countries.",
       "url": "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125",
@@ -2512,11 +2518,11 @@
       "is_ticker": false
     },
     {
-      "title": "Man arrested in Pakistan over $126m counterfeit postage scheme",
-      "description": "A man has been arrested in Pakistan and accused of running a counterfeit postage operation costing the US Postal Service $126m (£94m).",
-      "url": "https://news.sky.com/story/man-arrested-in-pakistan-over-126m-counterfeit-postage-scheme-13601790",
-      "published": "Wed, 21 Oct 2026 08:02:00 +0100",
-      "source": "Sky News World",
+      "title": "Prince Harry's wife Meghan 'deeply distressed' by allegations about her father",
+      "description": "Meghan, the Duchess of Sussex, said she was “deeply distressed” by allegations that a collection of child sexual abuse images had been found at her father’s former home",
+      "url": "https://abcnews.com/International/wireStory/prince-harrys-wife-meghan-deeply-distressed-allegations-father-137503822",
+      "published": "Fri, 23 Oct 2026 07:29:54 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2527,28 +2533,6 @@
       "description": "Pope Leo XIV will not travel to Assisi on Tuesday for a major interfaith peace gathering because he is continuing to recover from thoracic surgery he underwent last week, the Vatican said Friday",
       "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-cancels-assisi-trip-doctors-advice-137501009",
       "published": "Fri, 23 Oct 2026 04:16:48 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Egyptian editor faces trial after hours of questioning",
-      "description": "Egyptian prosecutors referred Lina Attalah, editor-in-chief of independent news outlet Mada Masr, to trial on a charge of operating a website without a license, after questioning her for more than six hours",
-      "url": "https://abcnews.com/International/wireStory/egyptian-editor-faces-trial-after-hours-questioning-137490027",
-      "published": "Thu, 22 Oct 2026 16:53:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What to know as 6 women testify in Russell Brand rape and sexual assault trial",
-      "description": "Actor and comedian Russell Brand is facing allegations of rape and sexual assault in a London trial",
-      "url": "https://abcnews.com/International/wireStory/6-women-testify-russell-brand-rape-sexual-assault-137467058",
-      "published": "Thu, 22 Oct 2026 02:32:22 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2568,6 +2552,28 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Taiwan shuts schools and grounds flights as Typhoon Champi brushes by"
+    },
+    {
+      "title": "New Zealand's military chief resigns after admitting to an inappropriate relationship",
+      "description": "New Zealand's military chief, Air Marshal Tony Davies, has resigned after admitting to an inappropriate relationship while in a position of command",
+      "url": "https://abcnews.com/International/wireStory/new-zealands-military-chief-resigns-after-admitting-inappropriate-137500280",
+      "published": "Fri, 23 Oct 2026 02:40:45 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Egyptian editor faces trial after hours of questioning",
+      "description": "Egyptian prosecutors referred Lina Attalah, editor-in-chief of independent news outlet Mada Masr, to trial on a charge of operating a website without a license, after questioning her for more than six hours",
+      "url": "https://abcnews.com/International/wireStory/egyptian-editor-faces-trial-after-hours-questioning-137490027",
+      "published": "Thu, 22 Oct 2026 16:53:06 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Brazil's Congress's shift to the right could change Latin America's powerhouse. Here’s what to know",
@@ -2593,6 +2599,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Bangladesh: UNICEF chief calls for an end to child marriage"
+    },
+    {
+      "title": "Ilhan Omar birth name questions could have far-reaching legal implications and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/ilhan-omar-birth-name-questions-could-have-far-reaching-legal-implications-more-top-headlines",
+      "published": "Fri, 23 Oct 2026 07:25:35 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Erika Kirk rips 'absurd' 2029 trial timeline for Charlie Kirk's alleged assassin",
@@ -2635,17 +2652,6 @@
       "description": "Dog the Bounty Hunter speaks out as convicted rapist and Max Factor heir Andrew Luster walks free after Prop 57 slashed his 124-year sentence.",
       "url": "https://www.foxnews.com/us/dog-bounty-hunter-hunted-max-factor-heir-andrew-luster-mexico-2003-serial-rapist-free",
       "published": "Thu, 22 Oct 2026 06:00:00 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "American woman masterminds $6 million marriage fraud scheme, Department of Justice says",
-      "description": "The Department of Justice accuses Jennifer Gonzalez of earning $6 million by arranging sham marriages for green cards over a decade in Massachusetts.",
-      "url": "https://www.foxnews.com/us/american-woman-masterminds-6-million-marriage-fraud-scheme-department-justice",
-      "published": "Wed, 21 Oct 2026 14:07:51 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
