@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-10-23T12:48:55.561334Z",
+  "last_updated": "2026-10-23T13:16:14.517157Z",
   "event_count": 223,
   "events": [
     {
-      "title": "One killed, four injured, including child, in drive-by shooting in Paris suburb",
-      "description": "One person was killed Friday and four were injured, including a 12-year-old child, when a man opened fire from a vehicle in the town of Trappes, west of Paris, police said. French prosecutors on Friday said that they were investigating the shooting as a suspected terrorist attack. At least two of the victims have immigrant backgrounds.",
+      "title": "One killed, four including child injured in drive-by shooting in Paris suburb",
+      "description": "One person was killed Friday and four were injured, including a 12-year-old child, when a man opened fire from a vehicle in the town of Trappes west of Paris, police said. French prosecutors said that they were investigating the shooting as a suspected terrorist attack. At least two of the victims have immigrant backgrounds.",
       "url": "https://www.france24.com/en/france/20261023-french-prosecutors-investigate-paris-shooting-as-suspected-terror-attack",
       "published": "Fri, 23 Oct 2026 11:08:26 GMT",
       "source": "France24",
@@ -14,7 +14,21 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 One killed, four injured, including child, in drive-by shooting in Paris suburb"
+      "ticker_label": "💥 One killed, four including child injured in drive-by shooting in Paris suburb"
+    },
+    {
+      "title": "War in the Middle East: Israel launches West Bank operations",
+      "description": "Palestinian militants wounded five Israelis in an attack on Friday before being killed in a shootout with soldiers, leading Prime Minister Benjamin Netanyahu to order a lockdown in the occupied West Bank days before Israeli elections. Details by Kethevane Gorjestani, FRANCE 24's International Affairs Editor.",
+      "url": "https://www.france24.com/en/war-in-the-middle-east-israel-launches-west-bank-operations",
+      "published": "Fri, 23 Oct 2026 12:57:54 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 42,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 War in the Middle East: Israel launches West Bank operations"
     },
     {
       "title": "Rescuers search for survivors after deadly earthquake in China’s Tibet region",
@@ -101,6 +115,20 @@
       "ticker_label": "🌪️ UN climate fund promises just $20 million for Nepal flood recovery"
     },
     {
+      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+      "description": "French Prime Minister Sébastien Lecornu describes the gun attack in Trappes as \"very serious\".",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:47:01 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Anti-terror police investigate as one person killed in shooting near Paris"
+    },
+    {
       "title": "43 years after Beirut terror attack killed 241 Americans, rabbi recalls chaplains’ extraordinary response",
       "description": "On the 43rd anniversary of the Beirut barracks terror attack that killed 241 Americans, a rabbi recalls how he and two Christian chaplains rushed to aid the wounded and comfort the survivors.",
       "url": "https://www.foxnews.com/world/43-years-after-beirut-terror-attack-killed-241-americans-rabbi-recalls-chaplains-extraordinary-response",
@@ -127,34 +155,6 @@
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
       "ticker_label": "🚨 France: 1 killed, 4 wounded after shooting near Paris"
-    },
-    {
-      "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
-      "description": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:26:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting"
-    },
-    {
-      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-      "description": "Anti-terrorism police have taken up the investigation into the incident in Trappes, to the west of Paris.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:47:01 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Anti-terror police investigate as one person killed in shooting near Paris"
     },
     {
       "title": "Summit in Samarkand, a boon for child wellbeing and health",
@@ -349,9 +349,9 @@
       "is_ticker": false
     },
     {
-      "title": "Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank",
+      "title": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
       "description": "Two suspected gunmen were killed by the IDF after a shooting near Judea Junction in the southern West Bank left five Israelis wounded on Friday.",
-      "url": "https://www.foxnews.com/world/two-suspected-gunmen-killed-shooting-wounds-5-israelis-west-bank",
+      "url": "https://www.foxnews.com/world/two-suspected-gunmen-dead-two-idf-soldiers-killed-west-bank-shooting",
       "published": "Fri, 23 Oct 2026 04:05:06 -0400",
       "source": "Fox News World",
       "type": "rss",
@@ -360,7 +360,7 @@
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Two suspected gunmen killed after shooting wounds 5 Israelis in West Bank"
+      "ticker_label": "🚨 Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting"
     },
     {
       "title": "Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says",
@@ -386,6 +386,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Jordon Steele-John’s position remains in limbo as Greens prepare for moment in spotlight"
+    },
+    {
+      "title": "At least seven dead after shooting at church in Jordan - reports",
+      "description": "At least seven people have been killed after gunmen opened fire during a funeral a church in Jordan, reports say.",
+      "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
+      "published": "Fri, 23 Oct 2026 13:57:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 At least seven dead after shooting at church in Jordan - reports"
     },
     {
       "title": "Ex-cop sped away in hedge fund’s SUV after fatal George Washington Bridge road rage shooting: report",
@@ -578,6 +592,20 @@
       "ticker_label": "🪖 Controversial US-backed vaccine trial in African newborns halted"
     },
     {
+      "title": "Jordan: Karak church shooting leaves 7 dead",
+      "description": "The shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to local authorities. Two unidentified men opened fire on the procession.",
+      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 23 Oct 2026 13:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Jordan: Karak church shooting leaves 7 dead"
+    },
+    {
       "title": "Tibet earthquake kills at least 16 people, injures dozens: state media",
       "description": "A powerful magnitude 7 earthquake has struck Tibet in southwestern China, official media reported. Chinese state TV said it's the strongest quake to hit the remote Himalayan region in five years.",
       "url": "https://www.dw.com/en/tibet-earthquake-kills-at-least-16-people-injures-dozens-state-media/a-79738117?maca=en-rss-en-all-1573-xml-mrss",
@@ -604,6 +632,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Beleaguered Macron cites US-Iran war as factor in protests amid Trump, Vance criticism"
+    },
+    {
+      "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+      "description": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 12:48:52 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
@@ -645,7 +684,7 @@
       "title": "Duchess of Sussex ‘deeply distressed’ over child sexual abuse image claims against father",
       "description": "Meghan reveals she was made aware of ‘disturbing allegations’ against him in 2018 by Met police The Duchess of Sussex has said she is “deeply distressed” over accusations involving child sexual abuse images against her estranged father, Thomas Markle Sr, and revealed she was made aware of “disturbing allegations” against him in 2018 by the Metropolitan police. Meghan issued a statement after the Sun newspaper published claims that her half-brother Thomas Markle Jr alleged he had found a stash of images belonging to their father at his former home in the Philippines. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/oct/23/meghan-duchess-of-sussex-distressed-child-sexual-abuse-image-claims-against-father",
-      "published": "Fri, 23 Oct 2026 11:28:44 GMT",
+      "published": "Fri, 23 Oct 2026 12:59:38 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -884,6 +923,17 @@
       "is_ticker": false
     },
     {
+      "title": "France awaits Moody's verdict: Downgrade widely expected as debt fears grow",
+      "description": "France's cost of living protests come as the country struggles with its increasing public debt. Concerns over these public finances have pushed the nation's 10-year government bond yield above 5% for the first time since 2002—making borrowing costs higher. Oliver Davis, Professor and Head of the French Department at University College Cork, is our guest.",
+      "url": "https://www.france24.com/en/france-awaits-moody-s-verdict-downgrade-widely-expected-as-debt-fears-grow",
+      "published": "Fri, 23 Oct 2026 13:10:24 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "At least 153 people killed in drone strike on disputed Sudan-South Sudan region",
       "description": "A drone strike on a fuel depot in a disputed region on the Sudan-South Sudan border has killed at least 153 people.",
       "url": "https://news.sky.com/story/at-least-153-people-killed-in-drone-strike-on-disputed-sudan-south-sudan-region-13601817",
@@ -916,6 +966,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+      "description": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 13:12:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -976,20 +1037,6 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Damaging hail pelts Phoenix in rare storm",
-      "description": "Videos from the Arizona capital show people sheltering inside a car as hail smashes the windscreen, while intense downpours covered neighbourhoods in ice.",
-      "url": "https://www.bbc.co.uk/news/videos/cm5ynpz5jj5do?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 22 Oct 2026 15:11:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Damaging hail pelts Phoenix in rare storm"
     },
     {
       "title": "Poland: Thousands protest for more abortion rights",
@@ -1073,20 +1120,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown",
-      "description": "Kane, who scored 73 goals last season, is among the favourites for award with Lamine Yamal and Kylian Mbappe.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/harry-kane-hopes-ballon-dor-produces-special-night-in-hometown?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 07:56:27 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Harry Kane hopes Ballon d’Or produces ‘special night’ in hometown"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1454,31 +1487,6 @@
       "is_ticker": false
     },
     {
-      "title": "NYT reports plans for fresh strikes on Iran after the US midterm elections",
-      "description": "Reza Sayah, our correspondent in Tehran Iran, has more.",
-      "url": "https://www.france24.com/en/nyt-reports-plans-for-fresh-strikes-on-iran-after-the-us-midterm-elections",
-      "published": "Fri, 23 Oct 2026 08:40:09 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 NYT reports plans for fresh strikes on Iran after the US midterm elections"
-    },
-    {
-      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
-      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system during their long siege and subsequent takeover of the city in Darfur a year ago. BBC Africa correspondent Barbara Plett Usher explains.",
-      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 11:30:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1501,9 +1509,9 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
+      "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
       "published": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1512,9 +1520,9 @@
       "is_ticker": false
     },
     {
-      "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
-      "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
       "published": "Fri, 23 Oct 2026 05:00:00 -0400",
       "source": "NPR World News",
       "type": "rss",
@@ -1560,6 +1568,17 @@
       "description": "Questions about the integrity of some of Abramovich's professional advisers, were raised earlier this month.",
       "url": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 10:14:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Doctors tell the BBC about the targeting of Sudanese hospitals by paramilitary fighters",
+      "description": "A BBC investigation has found evidence that Sudanese paramilitary fighters systematically destroyed el-Fasher's healthcare system.",
+      "url": "https://www.bbc.co.uk/news/videos/c8x23gegwz34o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 11:30:32 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1818,17 +1837,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lina Attalah: Mada Masr journalist sent for trial in Egypt",
-      "description": "Lina Attalah, who is accused of managing a website without a license, will go to court next week. Mada Masr has published reporting critical of Egyptian President Abdel-Fattah el-Sissi's government.",
-      "url": "https://www.dw.com/en/lina-attalah-mada-masr-journalist-sent-for-trial-in-egypt/a-79736647?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 22 Oct 2026 19:17:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Brazil's tense presidential run-off campaign feels like a psychological thriller",
       "description": "Insults traded on social media and a combative debate have intensified the pressure ahead of a fiercely contested presidential run-off on Sunday, with only a few points separating leftist pro-union President Luiz Inacio Lula da Silva and far-right challenger Flavio Bolsonaro, the son of former president and Trump ally Jair Bolsonaro.",
       "url": "https://www.france24.com/en/americas/20261023-brazil-s-tense-presidential-run-off-campaign-feels-like-a-psychological-thriller",
@@ -1841,17 +1849,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Brazil's tense presidential run-off campaign feels like a psychological thriller"
-    },
-    {
-      "title": "Ivory Coast: Children face serious health risks from lead in paint",
-      "description": "Report by Jean Barrère & Guillaume Gougeon.",
-      "url": "https://www.france24.com/en/ivory-coast-children-face-serious-health-risks-from-lead-in-paint",
-      "published": "Fri, 23 Oct 2026 08:37:33 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "France reports first Shamonda virus case in human who later died",
@@ -1992,6 +1989,17 @@
       "is_ticker": false
     },
     {
+      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 10:14:33 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
       "description": "One person has died after being swept away by waves in Taiwan's Liuqiu island, authorities say.",
       "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss",
@@ -2004,17 +2012,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Hundreds of flights cancelled as Typhoon Champi shuts Taiwan"
-    },
-    {
-      "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "description": "Her husband is currently in isolation but has not developed any symptoms, Swiss officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 10:14:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Trump ordered to answer questions under oath in BBC lawsuit",
@@ -2055,6 +2052,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 22 Oct 2026 22:27:53 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
+      "description": "Race walker Koki Ikeda returns to competition immediately; Ethiopia’s marathon runner Ruti Aga given 6-year doping ban.",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:34:10 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2508,17 +2516,6 @@
       "description": "North Korea says it plans to resume propaganda broadcasts targeting South Korea within days along the heavily-armed border between the two countries.",
       "url": "https://news.sky.com/story/north-korea-plans-to-resume-propaganda-broadcasts-along-border-with-south-korea-13602125",
       "published": "Thu, 22 Oct 2026 06:44:00 +0100",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hugging grandparents consent advert taken down after backlash",
-      "description": "An Irish advert promoting consent has been withdrawn after complaints about its depictions of grandparents hugging and kissing their grandkids.",
-      "url": "https://news.sky.com/story/advert-from-dublin-rape-crisis-centre-on-grandparents-hugging-and-kissing-children-withdrawn-13602472",
-      "published": "Thu, 22 Oct 2026 20:08:00 +0100",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
