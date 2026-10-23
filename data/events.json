@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23T13:16:14.517157Z",
+  "last_updated": "2026-10-23T13:42:47.644023Z",
   "event_count": 223,
   "events": [
     {
@@ -113,20 +113,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ UN climate fund promises just $20 million for Nepal flood recovery"
-    },
-    {
-      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
-      "description": "French Prime Minister Sébastien Lecornu describes the gun attack in Trappes as \"very serious\".",
-      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 12:47:01 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Anti-terror police investigate as one person killed in shooting near Paris"
     },
     {
       "title": "43 years after Beirut terror attack killed 241 Americans, rabbi recalls chaplains’ extraordinary response",
@@ -244,6 +230,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Sudan conflict: Peace efforts resume to end ‘drone war’ fuelling humanitarian crisis"
+    },
+    {
+      "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+      "description": "French Prime Minister Sébastien Lecornu says the suspected gunman has been apprehended.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 23 Oct 2026 13:26:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Anti-terror police investigate as one person killed in shooting near Paris"
     },
     {
       "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
@@ -389,7 +389,7 @@
     },
     {
       "title": "At least seven dead after shooting at church in Jordan - reports",
-      "description": "At least seven people have been killed after gunmen opened fire during a funeral a church in Jordan, reports say.",
+      "description": "At least seven people have been killed after gunmen opened fire on a funeral at a church in Jordan, reports say.",
       "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
       "published": "Fri, 23 Oct 2026 13:57:00 +0100",
       "source": "Sky News World",
@@ -865,17 +865,6 @@
       "ticker_label": "🪖 Nationals leader Matt Canavan eyes move to lower house as pollster warns of One Nation wipeout"
     },
     {
-      "title": "Major protests in France: French shop owners brace for more unrest",
-      "description": "French President Emmanuel Macron said on Thursday that \"illegitimate\" protests would be banned in the coming days and blamed \"seditious\" ultra-left groups and vandals for last weekend's riots and looting.",
-      "url": "https://www.france24.com/en/major-protests-in-france-french-shop-owners-brace-for-more-unrest",
-      "published": "Fri, 23 Oct 2026 08:46:04 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Iran regime under pressure as rebel groups escalate attacks in volatile southeast",
       "description": "A coalition of armed rebel groups is stepping up attacks against Iranian regime forces in the country's volatile southeast, raising questions about Tehran's grip on the region.",
       "url": "https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast",
@@ -948,6 +937,17 @@
       "ticker_label": "🪖 At least 153 people killed in drone strike on disputed Sudan-South Sudan region"
     },
     {
+      "title": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
+      "description": "Authorities in Jordan say that gunmen have opened fire inside a church in Jordan",
+      "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163",
+      "published": "Fri, 23 Oct 2026 09:15:32 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Texas mom charged with manslaughter after allegedly driving 82 mph in crash that killed 2 recent college grads",
       "description": "Aldrea Rogers was allegedly driving 82 mph in a 35 mph zone when she crashed into a car carrying two Southern Methodist University graduates.",
       "url": "https://www.foxnews.com/us/texas-mom-charged-manslaughter-allegedly-driving-82-mph-crash-killed-2-recent-college-grads",
@@ -973,8 +973,19 @@
       "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
       "description": "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way.",
       "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 23 Oct 2026 13:12:15 GMT",
+      "published": "Fri, 23 Oct 2026 13:37:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "The fight to protect India’s 600-year-old mosque in Ujjain",
+      "description": "The minaret of Shahi mosque collapsed during demolition work to widen a road for a Hindu pilgrimage.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/ujjain-shahi-imosque-demolition-original?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:43:09 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1105,6 +1116,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 12:17:45 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+      "description": "One of world football's biggest rivalries renews on Sunday when Barcelona host Real Madrid in La Liga's El Clasico.",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 13:12:36 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1254,18 +1276,32 @@
       "is_ticker": false
     },
     {
-      "title": "Israeli military kills two in gun battle in occupied West Bank",
-      "description": "Israel’s PM is preparing to order a shutdown in the occupied West Bank lockdown after a shooting near Hebron.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-military-kills-two-in-gun-battle-in-occupied-west-bank?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:12:38 +0000",
+      "title": "Dortmund to reward football supporters who don’t use phone during matches",
+      "description": "Borussia Dortmund's new scheme does not mean a ban on supporters using their phones and system is voluntary for fans.",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 13:00:51 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Israeli military kills two in gun battle in occupied West Bank"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Dortmund to reward football supporters who don’t use phone during matches"
+    },
+    {
+      "title": "Qatar Moto GP to go ahead despite regional tensions",
+      "description": "Qatar GP goes ahead despite Saudi Arabia scrapping events in region after deadly strike on Riyadh airport.",
+      "url": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 13:00:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Qatar Moto GP to go ahead despite regional tensions"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1542,6 +1578,17 @@
       "is_ticker": false
     },
     {
+      "title": "Austria expels 4 Russian diplomats linked to espionage, official says",
+      "description": "Austria has ordered four Russian diplomats to leave the country, accusing them of espionage",
+      "url": "https://abcnews.com/International/wireStory/austria-expels-4-russian-diplomats-linked-espionage-official-137506289",
+      "published": "Fri, 23 Oct 2026 09:18:57 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Brazil court orders government to provide transportation for Indigenous voters in Sunday’s runoff",
       "description": "A federal court in Brazil has ordered the government to ensure Indigenous people can vote in Sunday’s presidential runoff",
       "url": "https://abcnews.com/International/wireStory/brazil-court-orders-government-provide-transportation-indigenous-voters-137489031",
@@ -1636,29 +1683,7 @@
       "is_ticker": false
     },
     {
-      "title": "Macron to meet student groups: Where are France’s protests heading?",
-      "description": "President to meet for first time with student representatives on Friday before further protests.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/we-want-promises-backed-by-results?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 08:50:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Israeli forces accused of killing disabled man in Syria raid",
-      "description": "Israeli forces reportedly shot dead a Syrian man with an intellectual disability and hearing problems, during a raid.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israeli-forces-accused-of-killing-disabled-man-in-syria-raid?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 08:35:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Authorities investigating whether first Kenyan and Nigerian Ebola cases crossed paths",
+      "title": "Authorities investigating whether first Kenya and Nigeria Ebola cases crossed paths",
       "description": "Nigeria this week recorded its first case of Ebola in the current outbreak, which has spread from the epicenter in Congo to several other African countries.",
       "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak",
       "published": "Fri, 23 Oct 2026 08:41:39 -0400",
@@ -1685,6 +1710,17 @@
       "url": "https://www.dw.com/en/serbia-tens-of-thousands-rally-ahead-of-elections/a-79738420?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 23 Oct 2026 03:15:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Major protests in France: Macron convenes student representatives",
+      "description": "French President Emmanuel Macron is set to meet with high school pupils whose protests over school conditions have sparked a broader movement. Details by Philippe Moreau-Chevrolet, communication specialist and teacher at Sciences Po.",
+      "url": "https://www.france24.com/en/major-protests-in-france-macron-convenes-student-representatives",
+      "published": "Fri, 23 Oct 2026 13:20:48 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1771,17 +1807,6 @@
       "is_ticker": false
     },
     {
-      "title": "An Austrian and a Swiss woman freed in Niger after a year and half in captivity",
-      "description": "Two women from Austria and Switzerland have been freed in Niger after spending more than a year and half in captivity, officials and local media reported Thursday",
-      "url": "https://abcnews.com/International/wireStory/austrian-swiss-woman-freed-niger-after-year-half-137472692",
-      "published": "Thu, 22 Oct 2026 08:50:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Alleged sham marriage 'mastermind' caught on video saying sanctuary state is 'best place' for illegals",
       "description": "Video captures Jennifer Gonzalez explaining her alleged $6 million sham marriage scheme pairing U.S. citizens with illegal immigrants in Massachusetts.",
       "url": "https://www.foxnews.com/us/alleged-sham-marriage-mastermind-caught-video-saying-sanctuary-state-best-place-illegals",
@@ -1798,17 +1823,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 23 Oct 2026 11:01:08 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ultra-Orthodox conscription debate ignites Israel’s election battleground",
-      "description": "Israel's election heats up over ultra-Orthodox conscription debate, reflecting deep societal and political divides.",
-      "url": "https://www.aljazeera.com/news/2026/10/23/ultra-orthodox-conscription-debate-ignites-israels-election-battleground?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:03:39 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2058,6 +2072,64 @@
       "is_ticker": false
     },
     {
+      "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+      "description": "Trump could face sanctions, including dismissal of his lawsuit, if he fails to cooperate with questioning.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 13:17:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+      "description": "Russia’s territorial gains this year are effectively nil as it heads into trilateral talks with Ukraine, US.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 13:17:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Russia drops cluster bombs on Ukraine as Kyiv consolidates front line"
+    },
+    {
+      "title": "Greece joins push to ban social media for minors",
+      "description": "A growing number of countries are tightening rules governing children's online activity amid fears of addiction.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/greece-joins-push-to-ban-social-media-for-minors?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:55:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
+      "description": "The US-brokered talks are the first planned talks since negotiations stopped earlier this year.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:54:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
+      "description": "Cameroonians are wondering who Biya will appoint as vice president and possible successor.",
+      "url": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
+      "published": "Fri, 23 Oct 2026 12:52:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
       "description": "Race walker Koki Ikeda returns to competition immediately; Ethiopia’s marathon runner Ruti Aga given 6-year doping ban.",
       "url": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
@@ -2117,61 +2189,6 @@
       "description": "A snap parliamentary vote on October 25 will determine whether a student-led group can loosen Vucic’s grip on power.",
       "url": "https://www.aljazeera.com/news/2026/10/23/serbias-snap-election-whats-at-stake-and-can-students-unseat-vucic?traffic_source=rss",
       "published": "Fri, 23 Oct 2026 09:52:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
-      "description": "Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:40:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What role does the military play in Israeli schools?",
-      "description": "For Israeli teenagers, military life ordinarily kicks off in school.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:32:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pulaku: The two faces of Nigeria’s vigilantes",
-      "description": "Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.",
-      "url": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:30:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight",
-      "description": "Rwanda's controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 09:12:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "LeBron shrugs off Trump blast in home debut win for Philadelphia 76ers",
-      "description": "LeBron James enjoys 114-106 NBA victory over Cleveland Cavaliers, hours after US president calls him a 'disgrace'.",
-      "url": "https://www.aljazeera.com/sports/2026/10/23/lebron-shrugs-off-trump-blast-in-home-debut-win-for-philadelphia-76ers?traffic_source=rss",
-      "published": "Fri, 23 Oct 2026 08:42:10 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2563,17 +2580,6 @@
       "description": "Egyptian prosecutors referred Lina Attalah, editor-in-chief of independent news outlet Mada Masr, to trial on a charge of operating a website without a license, after questioning her for more than six hours",
       "url": "https://abcnews.com/International/wireStory/egyptian-editor-faces-trial-after-hours-questioning-137490027",
       "published": "Thu, 22 Oct 2026 16:53:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Brazil's Congress's shift to the right could change Latin America's powerhouse. Here’s what to know",
-      "description": "Brazil’s elections have shifted Congress further right, regardless of who wins the presidential runoff between Flávio Bolsonaro and incumbent Luiz Inácio Lula da Silva",
-      "url": "https://abcnews.com/International/wireStory/brazils-congresss-shift-change-latin-americas-powerhouse-heres-137476484",
-      "published": "Thu, 22 Oct 2026 09:48:55 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
