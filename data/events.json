@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T12:21:54.420823Z",
+  "last_updated": "2026-10-24T12:45:20.304575Z",
   "event_count": 221,
   "events": [
     {
@@ -43,6 +43,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Terrorist shooting in Paris suburb marks 'turning point for France', Macron says"
+    },
+    {
+      "title": "Rescuers search for survivors after deadly earthquake in China’s Tibet region",
+      "description": "Rescuers are combing through a remote Chinese region in Tibet after a magnitude 7 earthquake that killed at least 16 people, injured 54 and collapsed hundreds of homes",
+      "url": "https://abcnews.com/International/wireStory/rescuers-search-survivors-after-deadly-earthquake-chinas-tibet-137501379",
+      "published": "Fri, 23 Oct 2026 04:48:37 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 42,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Rescuers search for survivors after deadly earthquake in China’s Tibet region"
     },
     {
       "title": "Magnitude-7 earthquake hits Tibet, killing at least 16 and destroying hundreds of homes",
@@ -110,20 +124,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu"
-    },
-    {
-      "title": "Man killed in suspected racist attack near Paris identified as martial arts fighter",
-      "description": "An amateur mixed martial arts fighter was the man killed in Friday’s shooting rampage near Paris, his club said, identifying the victim of what French President Emmanuel Macron called a racist terror attack",
-      "url": "https://abcnews.com/International/wireStory/man-killed-suspected-racist-attack-paris-identified-martial-137533911",
-      "published": "Sat, 24 Oct 2026 05:39:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Man killed in suspected racist attack near Paris identified as martial arts fighter"
     },
     {
       "title": "43 years after Beirut terror attack killed 241 Americans, rabbi recalls chaplains’ extraordinary response",
@@ -514,20 +514,6 @@
       "ticker_label": "💥 Seven dead and 34 injured after shooting at church in Jordan"
     },
     {
-      "title": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens",
-      "description": "Typhoon Champi has killed one person and injured hundreds in Taiwan",
-      "url": "https://abcnews.com/International/wireStory/typhoon-champi-kills-1-injures-350-taiwan-overnight-137531069",
-      "published": "Sat, 24 Oct 2026 01:00:42 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens"
-    },
-    {
       "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
       "description": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
@@ -607,6 +593,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ After French Riots, Curfews & Calm .. is a new Storm Brewing ? Plus Ukraine & Israel"
+    },
+    {
+      "title": "Cornell rape accuser can remain 'Jane Doe' as judge warns threats could lead to federal charges",
+      "description": "A New York judge ruled the Cornell Jane Doe accuser can keep her pseudonym in the civil case against Chi Phi fraternity members she accused of rape.",
+      "url": "https://www.foxnews.com/us/cornell-rape-accuser-remain-jane-doe-judge-warns-threats-could-lead-federal-charges",
+      "published": "Sat, 24 Oct 2026 08:24:55 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Cornell rape accuser can remain 'Jane Doe' as judge warns threats could lead to federal charges"
     },
     {
       "title": "Alabama man allegedly decapitates family members with chainsaw hours after 911 warning",
@@ -776,6 +776,34 @@
       "ticker_label": "💥 Israel orders army to prepare to fully close West Bank after two soldiers killed in shooting"
     },
     {
+      "title": "Part of famous Brighton pier collapses as Atlantic storms sweep into England",
+      "description": "Part of the ruins of one of England’s most recognizable piers has collapsed into the sea",
+      "url": "https://abcnews.com/International/wireStory/part-famous-brighton-pier-collapses-atlantic-storms-sweep-137501820",
+      "published": "Fri, 23 Oct 2026 14:55:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Part of famous Brighton pier collapses as Atlantic storms sweep into England"
+    },
+    {
+      "title": "In India, police shootings of alleged cow smugglers raise alarm about impunity and bias",
+      "description": "An Associated Press investigation found that police in India's most populous state have repeatedly shot suspects in the leg, many of them Muslims accused of cow smuggling",
+      "url": "https://abcnews.com/International/wireStory/india-police-shootings-alleged-cow-smugglers-raise-alarm-137498001",
+      "published": "Fri, 23 Oct 2026 02:50:39 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 In India, police shootings of alleged cow smugglers raise alarm about impunity and bias"
+    },
+    {
       "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
       "description": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
@@ -841,6 +869,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia, Ukraine agree to US-brokered, 1 city ceasefire"
+    },
+    {
+      "title": "Philippines announce bounty on senator wanted by the ICC",
+      "description": "Philippine officials announce a bounty for the capture of Senator Ronald dela Rosa, who faces arrest by the International Criminal Court for alleged crimes against humanity",
+      "url": "https://abcnews.com/International/wireStory/philippines-announce-bounty-senator-wanted-icc-crime-humanity-137503455",
+      "published": "Fri, 23 Oct 2026 06:48:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Fifty Antifa groups in France join vast network to ensure chaos in weekend protests",
@@ -1015,17 +1054,6 @@
       "ticker_label": "🪖 Ukraine tries to shut Moscow's airports with drone strikes on Russia"
     },
     {
-      "title": "Gunmen open fire inside a church in Jordan, causing deaths and injuries",
-      "description": "Authorities in Jordan say that gunmen have opened fire inside a church in Jordan",
-      "url": "https://abcnews.com/International/wireStory/gunmen-open-fire-inside-church-jordan-causing-deaths-137507163",
-      "published": "Fri, 23 Oct 2026 09:15:32 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
       "description": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be 'stable' in hospital.",
       "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
@@ -1123,15 +1151,18 @@
       "ticker_label": "🌪️ Typhoon Champi batters Taiwan"
     },
     {
-      "title": "Hundreds of soldiers sent to Milan as protests planned across Europe",
-      "description": "Italy has deployed soldiers to Milan as the city braces for fresh protests following last week's riots",
-      "url": "https://abcnews.com/International/wireStory/hundreds-soldiers-milan-protests-planned-europe-137534380",
-      "published": "Sat, 24 Oct 2026 07:14:43 -0400",
+      "title": "Photos show festival on Myanmar's Inle Lake after the end of monsoon",
+      "description": "A few days after the monsoon rains subside, Inle Lake, nestled among picturesque mountains, becomes the setting for one of Myanmar’s most important Buddhist festivals as sacred golden images glide across the water. The 18-day Phaung Daw Oo Pagoda Festival is an annual celebration on the country’s second-largest freshwater lake in the southern part of Shan state, about 420 kilometers (260 miles) northeast of Yangon. During the festival, four revered Buddha images are carried aboard an ornate golden barge to 21 villages around the lake for people to pay homage to them. Adorned with a golden figure of the mythical Karaweik bird at its bow, the barge is pulled by scores of wooden boats crewed by members of the Intha ethnic minority, who practice a unique style of rowing while standing with one leg wrapped around a single oar. Since the festival began on Oct. 12, hundreds of worshippers have gathered along the procession route to venerate the sacred images and enjoy traditional dance...",
+      "url": "https://abcnews.com/International/wireStory/photos-show-festival-myanmars-inle-lake-after-end-137497433",
+      "published": "Fri, 23 Oct 2026 02:52:30 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Photos show festival on Myanmar's Inle Lake after the end of monsoon"
     },
     {
       "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
@@ -1153,6 +1184,17 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+      "description": "Matches between Barca and Real are among the biggest in world football, with their rivalry spanning more than a century.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 12:05:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1284,6 +1326,17 @@
       "description": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement",
       "url": "https://abcnews.com/International/wireStory/drinking-water-supplies-dwindle-yemeni-city-besieged-houthi-137532423",
       "published": "Sat, 24 Oct 2026 03:27:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "What to know about the weapons and tactics blamed for injuring French protesters",
+      "description": "French police are under pressure to maintain security during expected protests while facing scrutiny over riot-control tactics",
+      "url": "https://abcnews.com/International/wireStory/weapons-tactics-blamed-injuring-french-protesters-137499821",
+      "published": "Fri, 23 Oct 2026 02:51:14 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1559,17 +1612,6 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
-      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
-      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
-      "published": "Fri, 23 Oct 2026 05:00:00 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "After nearly 6 years, ex-Myanmar leader Aung San Suu Kyi's son hears her voice",
       "description": "Kim Aris tells NPR his mother sounds strong but is in pain. He says she is held at a residence in the capital.",
       "url": "https://www.npr.org/2026/10/23/nx-s1-6012784/aung-san-suu-kyi-son-phone-call-myanmar",
@@ -1581,11 +1623,11 @@
       "is_ticker": false
     },
     {
-      "title": "Ethiopia's Tigray rebels urged to disarm as commander vows to fight on",
-      "description": "An official in Tigray’s new federal-backed administration has urged rebel fighters to lay down their weapons",
-      "url": "https://abcnews.com/International/wireStory/ethiopias-tigray-rebels-urged-disarm-commander-vows-fight-137511160",
-      "published": "Fri, 23 Oct 2026 14:54:35 -0400",
-      "source": "ABC News International",
+      "title": "Brazil's runoff: Lula's legacy vs. Bolsonaro's dynasty",
+      "description": "Brazil's tight presidential runoff pits a political giant against a Bolsonaro heir in a battle over the country's political future.",
+      "url": "https://www.npr.org/2026/10/23/nx-s1-6004277/brazil-vote-runoff-lula-bolsonaro",
+      "published": "Fri, 23 Oct 2026 05:00:00 -0400",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1604,6 +1646,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Indonesia seizes over 2 tons of narcotics in one of the country’s largest drug busts"
+    },
+    {
+      "title": "Ethiopia's Tigray rebels urged to disarm as commander vows to fight on",
+      "description": "An official in Tigray’s new federal-backed administration has urged rebel fighters to lay down their weapons",
+      "url": "https://abcnews.com/International/wireStory/ethiopias-tigray-rebels-urged-disarm-commander-vows-fight-137511160",
+      "published": "Fri, 23 Oct 2026 14:54:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Austria expels 4 Russian diplomats linked to espionage, official says",
@@ -1706,17 +1759,6 @@
       "ticker_label": "🌪️ Chicago Bulls storm back from early deficit to beat Milwaukee Bucks in NBA"
     },
     {
-      "title": "Man arrested after fire breaks out at Hitler’s former Alpine retreat",
-      "description": "A man has been arrested after a fire broke out at Hitler’s former Alpine retreat, the Kehlsteinhaus, on Friday night.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/man-arrested-after-fire-breaks-out-at-hitlers-former-alpine-retreat?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 07:31:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Kim Jong-un crosses over newly opened bridge into China",
       "description": "Visit by train over New Yalu River Bridge marks North Korean leader’s first known trip abroad in more than a year Kim Jong-un has travelled to China over a newly opened bridge marking the North Korean leader’s first known trip abroad in more than a year. A South Korean government source told the Yonhap news agency that Kim had arrived in the Chinese border city of Dandong, in Liaoning province, after taking a train from Pyongyang to Sinuiju and crossing the New Yalu River Bridge. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
@@ -1805,10 +1847,21 @@
       "is_ticker": false
     },
     {
-      "title": "Fire breaks out at Eagle's Nest retreat built for Hitler in Germany; person detained",
-      "description": "Authorities say the retreat known as the Eagle’s Nest built for Adolf Hitler in the Bavarian Alps has burned down almost completely in a fire, and work to extinguish the blaze was still in progress Saturday",
-      "url": "https://abcnews.com/International/wireStory/fire-breaks-eagles-nest-retreat-built-hitler-germany-137533542",
-      "published": "Sat, 24 Oct 2026 06:42:26 -0400",
+      "title": "South Korea proposes military talks with North Korea to calm rising border tensions",
+      "description": "South Korea has proposed military talks with North Korea to resolve border disputes and prevent accidental clashes",
+      "url": "https://abcnews.com/International/wireStory/south-korea-proposes-military-talks-north-korea-calm-137500902",
+      "published": "Fri, 23 Oct 2026 03:18:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Southeast Asia's worst haze in over a decade sparks student protests",
+      "description": "Thousands of students have staged days of demonstrations across Indonesia protesting the government’s response to toxic haze that has blanketed multiple cities and several other nations in Southeast Asia",
+      "url": "https://abcnews.com/International/wireStory/southeast-asias-worst-haze-decade-sparks-student-protests-137504621",
+      "published": "Fri, 23 Oct 2026 10:19:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1896,17 +1949,6 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's Lula opens state toolbox to woo voters in runoff against Bolsonaro. Here's what is on offer",
-      "description": "After finishing behind Flávio Bolsonaro in the first round of Brazil’s presidential election, President Luiz Inácio Lula da Silva has pushed for popular — and costly — measures to bolster his chances in the runoff",
-      "url": "https://abcnews.com/International/wireStory/brazils-lula-opens-state-toolbox-woo-voters-runoff-137510328",
-      "published": "Fri, 23 Oct 2026 10:18:58 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Four fraternity pledges arrested on hazing allegations after teen forced into truck: cops",
       "description": "Four Phi Delta Theta pledges at Texas State University were arrested on misdemeanor hazing charges after an 18-year-old was allegedly forced into a truck.",
       "url": "https://www.foxnews.com/us/four-fraternity-pledges-arrested-hazing-allegations-teen-forced-truck-cops",
@@ -1933,17 +1975,6 @@
       "description": "Polls indicate Brazil's presidential candidates are neck and neck before Sunday's voting.",
       "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 09:41:56 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Dan Sullivan vs Dan Sullivan: Why is Trump’s DOJ suing in Alaska?",
-      "description": "US government seeks to delay Alaska Senate result over concerns about two candidates with the same name.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/dan-sullivan-vs-dan-sullivan-why-is-trumps-doj-suing-in-alaska?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 08:11:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
@@ -1978,39 +2009,6 @@
       "url": "https://www.france24.com/en/donald-trump-challenges-alaska-senate-trace",
       "published": "Sat, 24 Oct 2026 11:42:17 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
-      "description": "South Korean media reports that North Korean leader Kim Jong Un has visited China for the first time in a year",
-      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630",
-      "published": "Sat, 24 Oct 2026 03:27:16 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Lula, Bolsonaro reach out to undecided voters in last debate of Brazil's presidential race",
-      "description": "Brazil’s President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro faced off Friday in their second and final debate ahead of Sunday’s runoff election, but this time with cooler heads than a few days ago",
-      "url": "https://abcnews.com/International/wireStory/lula-bolsonaro-reach-undecided-voters-debate-brazils-presidential-137531704",
-      "published": "Sat, 24 Oct 2026 01:00:33 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Myanmar's detained leader Suu Kyi traded health concerns with her son in their first call in 5 years",
-      "description": "Aung San Suu Kyi's son said that they spoke about health concerns when he spoke with the detained former leader of Myanmar by phone for the first time in five years",
-      "url": "https://abcnews.com/International/wireStory/myanmars-detained-leader-suu-kyi-traded-health-concerns-137519897",
-      "published": "Fri, 23 Oct 2026 15:22:33 -0400",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2058,17 +2056,6 @@
       "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 05:31:01 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Aston Villa vs Manchester City LIVE: Premier League",
-      "description": "Follow updates with build-up and team news from our live text commentary stream as Erling Haaland headlines.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/10/24/aston-villa-vs-manchester-city-live-premier-league?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 08:03:52 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 2,
       "severity_level": "Low",
@@ -2185,6 +2172,39 @@
       "is_ticker": false
     },
     {
+      "title": "Malaysia considers complete ban on Israel-based navigation app Waze",
+      "description": "Malaysia has barred civil servants from using Waze for official duties over its links to Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/malaysia-waze-israel-ban?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 12:30:42 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Serbia elections test student movement demanding justice for 16 victims",
+      "description": "Serbia elections test student movement demanding justice for 16 victims",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 12:18:06 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Barcelona housing activists evicted by police from residential building",
+      "description": "Housing activists in Barcelona seized a mostly empty building to house vulnerable families and create a community hub.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/barcelona-housing-activists-evicted-by-police-from-residential-building?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 12:14:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Democracy by ZIP Code: Two Americas, one election",
       "description": "How can Americans living just miles apart experience completely different versions of the American dream?",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
@@ -2236,17 +2256,6 @@
       "description": "Washington has raised pressure on Havana after the capture of former Venezuelan President Nicolas Maduro.",
       "url": "https://www.aljazeera.com/news/2026/10/24/rubio-calls-on-cubans-to-partner-with-cia-to-create-positive-change?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 08:28:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
-      "description": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
-      "url": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 07:09:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2499,21 +2508,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-      "description": "Ukraine's military has regained full use of Starlink satellite links for its drones and fast-moving equipment, according to the defense minister",
-      "url": "https://abcnews.com/International/wireStory/ukraine-starlink-speed-limits-lifted-after-slowdown-hobbled-137534564",
-      "published": "Sat, 24 Oct 2026 07:14:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
-      "description": "Brazil is on the brink of choosing between left-leaning incumbent Luiz Inácio Lula da Silva and far-right candidate Flávio Bolsonaro",
-      "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196",
-      "published": "Sat, 24 Oct 2026 07:14:47 -0400",
+      "title": "Pope Leo XIV cancels Assisi trip on doctors' advice as he recovers from surgery",
+      "description": "Pope Leo XIV will not travel to Assisi on Tuesday for a major interfaith peace gathering because he is continuing to recover from thoracic surgery he underwent last week, the Vatican said Friday",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xiv-cancels-assisi-trip-doctors-advice-137501009",
+      "published": "Fri, 23 Oct 2026 04:16:48 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2530,6 +2528,31 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "A Bulgarian sports official and former member of European Parliament shot dead",
+      "description": "The head of the Bulgarian Taekwondo Federation, Slavi Binev, has been shot dead at his home in Sofia",
+      "url": "https://abcnews.com/International/wireStory/bulgarian-sports-official-former-member-european-parliament-shot-137534575",
+      "published": "Sat, 24 Oct 2026 08:29:59 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Taiwan shuts schools and grounds flights as Typhoon Champi brushes by",
+      "description": "Taiwan has shut down schools and offices and grounded hundreds of flights as Typhoon Champi brushes by the island",
+      "url": "https://abcnews.com/International/wireStory/taiwan-shuts-schools-grounds-flights-typhoon-champi-brushes-137500371",
+      "published": "Fri, 23 Oct 2026 20:54:31 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Taiwan shuts schools and grounds flights as Typhoon Champi brushes by"
     },
     {
       "title": "Soil mapping aims to boost agricultural production in Kenya",
@@ -2624,17 +2647,6 @@
       "description": "Erika Kirk is fighting a proposed 2029 trial date for her husband's alleged assassin, calling the defense timeline \"grossly out of line\" with comparable cases.",
       "url": "https://www.foxnews.com/us/erika-kirk-rips-absurd-2029-trial-timeline-charlie-kirks-alleged-assassin",
       "published": "Thu, 22 Oct 2026 19:24:52 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Looksmaxxing’ influencer ‘Clavicular’ brings barking dog to court as 'support mechanism': expert",
-      "description": "Braden Peters, the \"looksmaxxing\" influencer known as \"Clavicular,\" entered a not guilty plea to Cape Cod rape allegations involving a 17-year-old.",
-      "url": "https://www.foxnews.com/us/looksmaxxing-influencer-clavicular-brings-barking-dog-court-support-mechanism-expert",
-      "published": "Thu, 22 Oct 2026 13:40:45 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
