@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-24T19:36:55.308650Z",
-  "event_count": 221,
+  "last_updated": "2026-10-24T20:15:04.823457Z",
+  "event_count": 222,
   "events": [
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -204,8 +204,8 @@
       "is_ticker": false
     },
     {
-      "title": "Israeli forces displace 1,200 Palestinians in Hebron after deadly attack on soldiers",
-      "description": "The Palestinian Authority has called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. The head of Hebron's municipality said an additional 1,300 may also be forced to leave.",
+      "title": "Israeli forces displace 2,000 Palestinians in Hebron after deadly attack on soldiers",
+      "description": "The Palestinian Authority called for international pressure on Israel after a Palestinian official said around 1,200 Palestinians in Hebron in the West Bank were forced to leave their homes following an attack on Friday which killed two Israeli soldiers. Israeli defence minister Israel Katz later confirmed in an interview that the displacements had reached the 2,000 mark.",
       "url": "https://www.france24.com/en/middle-east/20261024-israeli-forces-displace-1-200-palestinians-in-hebron-after-deadly-attack-on-soldiers",
       "published": "Sat, 24 Oct 2026 13:50:12 GMT",
       "source": "France24",
@@ -555,6 +555,20 @@
       "is_ticker": false
     },
     {
+      "title": "Seven dead and 34 injured after shooting at church in Jordan",
+      "description": "Seven people have died and 34 have been injured after gunmen opened fire on a funeral at a church in Jordan.",
+      "url": "https://news.sky.com/story/at-least-seven-dead-after-shooting-at-church-in-jordan-reports-13602679",
+      "published": "Fri, 23 Oct 2026 13:57:00 +0100",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Seven dead and 34 injured after shooting at church in Jordan"
+    },
+    {
       "title": "Sudan: Drone strikes killed at least 306 people in three weeks",
       "description": "UN human rights chief Volker Türk on Friday strongly condemned an escalation in drone strikes across Sudan this month, which killed at least 306 people and injured hundreds more in the first three weeks of October alone.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168661",
@@ -753,20 +767,6 @@
       "is_ticker": false
     },
     {
-      "title": "Who was behind the deadly church shooting in Jordan?",
-      "description": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 13:39:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Who was behind the deadly church shooting in Jordan?"
-    },
-    {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
       "description": "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said. The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola. It is unclear when she arrived in Nigeria, Africa’s most populous country. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
@@ -898,8 +898,8 @@
       "ticker_label": "💥 Gunmen kill 7 at Christian church in Jordan in what king calls act of terrorism"
     },
     {
-      "title": "Hundreds of soldiers deploy as protesters rally in Italy’s Milan",
-      "description": "The Italian government has sent hundreds of soldiers to the country's financial hub ahead of anticipated unrest.",
+      "title": "Hundreds of soldiers deploy as thousands protest in Italy’s Milan",
+      "description": "The Italian government sent hundreds of soldiers to the country's fashion and financial hub ahead of anticipated unrest.",
       "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 15:05:58 +0000",
       "source": "Al Jazeera",
@@ -1559,18 +1559,15 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain",
-      "description": "Ukraine and Russia have signaled willingness to resume peace talks and back a humanitarian mission led by U.S. First Lady Melania Trump, but deep disagreements over territory and security guarantees underscore obstacles to ending the war",
-      "url": "https://abcnews.com/International/wireStory/ukraine-russia-eye-new-peace-talks-melania-trumps-137534005",
-      "published": "Sat, 24 Oct 2026 05:39:10 -0400",
+      "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
+      "description": "Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition",
+      "url": "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806",
+      "published": "Sat, 24 Oct 2026 15:51:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain"
+      "is_ticker": false
     },
     {
       "title": "DR Congo: Ebola responders under pressure as outbreak expands",
@@ -1638,6 +1635,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+      "description": "Gunners capitalise on City's first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+      "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 20:03:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
       "severity_level": "Medium",
       "is_ticker": false
     },
@@ -1759,6 +1767,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Argentina drops investigation into President Milei over crypto fraud"
+    },
+    {
+      "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "description": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "published": "Sat, 24 Oct 2026 19:11:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Thousands join Paris protests as authorities clamp down on disorder",
@@ -2009,17 +2028,6 @@
       "is_ticker": false
     },
     {
-      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
-      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 24 Oct 2026 17:21:42 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Minneapolis withdrawal was 'surrender', Trump's ex-border patrol chief tells BBC",
       "description": "Greg Bovino was the public face of the controversial immigration enforcement operation in the city earlier this year.",
       "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss",
@@ -2123,6 +2131,17 @@
       "description": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
       "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 24 Oct 2026 12:12:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 24 Oct 2026 17:21:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2247,17 +2266,6 @@
       "description": "Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?",
       "url": "https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 13:58:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Netanyahu floats Crypto to bypass sanctions",
-      "description": "Netanyahu floats Crypto to bypass sanctions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 13:27:11 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
