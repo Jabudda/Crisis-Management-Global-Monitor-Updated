@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T05:15:53.507294Z",
+  "last_updated": "2026-10-25T05:40:50.918386Z",
   "event_count": 224,
   "events": [
     {
@@ -99,17 +99,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Nepal’s deadly glacier flood a ‘defining moment’ for the international community"
-    },
-    {
-      "title": "1 person rescued from collapsed building in Kenya as others remain missing",
-      "description": "A person has been rescued from the rubble of a collapsed building in Nairobi more than 24 hours after the incident",
-      "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849",
-      "published": "Sat, 24 Oct 2026 13:02:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu",
@@ -310,20 +299,6 @@
       "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Jordan: Karak church shooting leaves 7 dead, dozens injured",
-      "description": "A shooting at a Greek Orthodox church in southern Jordan happened during a funeral, according to authorities. Two unidentified men opened fire on the procession, with Jordan's king vowing \"the harshest retaliation.\"",
-      "url": "https://www.dw.com/en/jordan-karak-church-shooting-leaves-7-dead-dozens-injured/a-79743535?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 23 Oct 2026 18:33:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Jordan: Karak church shooting leaves 7 dead, dozens injured"
     },
     {
       "title": "Two suspected gunmen dead, two IDF soldiers killed in West Bank shooting",
@@ -539,6 +514,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens",
+      "description": "Typhoon Champi has killed one person and injured hundreds in Taiwan",
+      "url": "https://abcnews.com/International/wireStory/typhoon-champi-kills-1-injures-350-taiwan-overnight-137531069",
+      "published": "Sat, 24 Oct 2026 01:00:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens"
     },
     {
       "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
@@ -1270,6 +1259,17 @@
       "ticker_label": "🪖 Houthis launch attacks on Saudi Arabia and Yemen’s Aden"
     },
     {
+      "title": "Serbia election: Student movement seeks to end Aleksandar Vucic's rule",
+      "description": "After two years of student-led, anti-corruption protests, Serbia is holding an early parliamentary election that could break long-time populist leader Aleksandar Vucic's grip on the Balkan country.",
+      "url": "https://www.dw.com/en/serbia-election-student-movement-seeks-to-end-aleksandar-vucic-s-rule/a-79753482?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 25 Oct 2026 05:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Paris: 70.000 police officers deployed nationwide",
       "description": "A coalition of the “Yellow Vests” movement, trade unions and students will march across France on Saturday with demands over studying conditions and purchasing power. Some 70,000 police are expected to be deployed as authorities fear looting and vandalism similar to last Saturday's unrest.",
       "url": "https://www.france24.com/en/paris-70-000-police-officers-deployed-nationwide",
@@ -1549,32 +1549,21 @@
       "ticker_label": "💥 Bahamas police investigate after British woman dies trying to rescue sons"
     },
     {
-      "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
-      "description": "Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition",
-      "url": "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806",
-      "published": "Sat, 24 Oct 2026 15:51:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives",
-      "description": "A survivor of the deadly attack on a church in Jordan has described a terrifying scene where people crawled for their lives",
-      "url": "https://abcnews.com/International/wireStory/survivor-deadly-attack-jordan-church-describes-people-crawling-137540100",
-      "published": "Sat, 24 Oct 2026 13:01:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
       "description": "Iran remains open to U.S. talks under a Pakistan-brokered interim deal reached in June to end the conflict, according to Tehran’s ambassador to Islamabad",
       "url": "https://abcnews.com/International/wireStory/iran-remains-open-talks-us-pakistan-brokered-deal-137539415",
       "published": "Sat, 24 Oct 2026 13:02:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
+      "description": "Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition",
+      "url": "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806",
+      "published": "Sat, 24 Oct 2026 15:51:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1594,6 +1583,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain"
+    },
+    {
+      "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives",
+      "description": "A survivor of the deadly attack on a church in Jordan has described a terrifying scene where people crawled for their lives",
+      "url": "https://abcnews.com/International/wireStory/survivor-deadly-attack-jordan-church-describes-people-crawling-137540100",
+      "published": "Sat, 24 Oct 2026 13:01:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "DR Congo: Ebola responders under pressure as outbreak expands",
@@ -1957,6 +1957,17 @@
       "url": "https://www.dw.com/en/ukraine-starlink-satellite-speeds-restored-to-normal/a-79752155?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 24 Oct 2026 19:33:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Lula, Bolsonaro reach out to undecided voters in last debate of Brazil's presidential race",
+      "description": "Brazil’s President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro faced off Friday in their second and final debate ahead of Sunday’s runoff election, but this time with cooler heads than a few days ago",
+      "url": "https://abcnews.com/International/wireStory/lula-bolsonaro-reach-undecided-voters-debate-brazils-presidential-137531704",
+      "published": "Sat, 24 Oct 2026 01:00:33 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2522,21 +2533,10 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
-      "description": "The last arguments to voters in Brazil’s presidential election are being made on the eve of the runoff between incumbent President Luiz Inácio Lula da Silva and Sen. Flávio Bolsonaro",
-      "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203",
-      "published": "Sat, 24 Oct 2026 19:36:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
-      "description": "Pakistan has urged Afghanistan’s Taliban government to take verifiable action against militants it says operate from Afghan territory, rejecting Kabul’s accusation that Islamabad was shifting blame for its own security failures",
-      "url": "https://abcnews.com/International/wireStory/pakistan-urges-afghanistan-act-militants-denies-recruiting-afghan-137541012",
-      "published": "Sat, 24 Oct 2026 15:52:06 -0400",
+      "title": "Japan's unpopular revision of Imperial law that reinforces male-only succession takes effect",
+      "description": "Japan’s unpopular revisions to the Imperial House Law that reinforce the male-only succession rules took effect Saturday",
+      "url": "https://abcnews.com/International/wireStory/japans-unpopular-revision-imperial-law-reinforces-male-succession-137532915",
+      "published": "Sat, 24 Oct 2026 05:39:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2555,17 +2555,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-      "description": "Ukraine's military has regained full use of Starlink satellite links for its drones and fast-moving equipment, according to the defense minister",
-      "url": "https://abcnews.com/International/wireStory/ukraine-starlink-speed-limits-lifted-after-slowdown-hobbled-137534564",
-      "published": "Sat, 24 Oct 2026 07:14:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
       "description": "Brazil is on the brink of choosing between left-leaning incumbent Luiz Inácio Lula da Silva and far-right candidate Flávio Bolsonaro",
       "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196",
@@ -2577,10 +2566,21 @@
       "is_ticker": false
     },
     {
-      "title": "Japan's unpopular revision of Imperial law that reinforces male-only succession takes effect",
-      "description": "Japan’s unpopular revisions to the Imperial House Law that reinforce the male-only succession rules took effect Saturday",
-      "url": "https://abcnews.com/International/wireStory/japans-unpopular-revision-imperial-law-reinforces-male-succession-137532915",
-      "published": "Sat, 24 Oct 2026 05:39:24 -0400",
+      "title": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
+      "description": "Ukraine's military has regained full use of Starlink satellite links for its drones and fast-moving equipment, according to the defense minister",
+      "url": "https://abcnews.com/International/wireStory/ukraine-starlink-speed-limits-lifted-after-slowdown-hobbled-137534564",
+      "published": "Sat, 24 Oct 2026 07:14:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
+      "description": "Pakistan has urged Afghanistan’s Taliban government to take verifiable action against militants it says operate from Afghan territory, rejecting Kabul’s accusation that Islamabad was shifting blame for its own security failures",
+      "url": "https://abcnews.com/International/wireStory/pakistan-urges-afghanistan-act-militants-denies-recruiting-afghan-137541012",
+      "published": "Sat, 24 Oct 2026 15:52:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
