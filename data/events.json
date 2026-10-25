@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-25T02:24:11.958300Z",
-  "event_count": 221,
+  "last_updated": "2026-10-25T02:46:22.979451Z",
+  "event_count": 224,
   "events": [
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -101,17 +101,6 @@
       "ticker_label": "🌪️ Nepal’s deadly glacier flood a ‘defining moment’ for the international community"
     },
     {
-      "title": "1 person rescued from collapsed building in Kenya as others remain missing",
-      "description": "A person has been rescued from the rubble of a collapsed building in Nairobi more than 24 hours after the incident",
-      "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849",
-      "published": "Sat, 24 Oct 2026 13:02:12 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 35,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu",
       "description": "A preliminary magnitude 6.9 earthquake has hit off the coast of Vanuatu Saturday, according to the U.S. Geological Survey, prompting a tsunami warning for the area that was later rescinded",
       "url": "https://abcnews.com/International/wireStory/preliminary-magnitude-69-earthquake-hits-off-coast-vanuatu-137531764",
@@ -124,6 +113,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu"
+    },
+    {
+      "title": "1 person rescued from collapsed building in Kenya as others remain missing",
+      "description": "A person has been rescued from the rubble of a collapsed building in Nairobi more than 24 hours after the incident",
+      "url": "https://abcnews.com/International/wireStory/1-person-rescued-collapsed-building-kenya-remain-missing-137539849",
+      "published": "Sat, 24 Oct 2026 13:02:12 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 35,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "NFL's Paris Premier: Saints RB Alvin Kamara on global reach, sport as catalyst for youth opportunity",
@@ -542,6 +542,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens",
+      "description": "Typhoon Champi has killed one person and injured hundreds in Taiwan",
+      "url": "https://abcnews.com/International/wireStory/typhoon-champi-kills-1-injures-350-taiwan-overnight-137531069",
+      "published": "Sat, 24 Oct 2026 01:00:42 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Typhoon Champi kills 1 and injures 350 in Taiwan overnight as storm weakens"
     },
     {
       "title": "Women ‘first to suffer’ under siege, first to step up as frontline responders in Sudan",
@@ -1557,32 +1571,21 @@
       "ticker_label": "💥 Bahamas police investigate after British woman dies trying to rescue sons"
     },
     {
-      "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
-      "description": "Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition",
-      "url": "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806",
-      "published": "Sat, 24 Oct 2026 15:51:54 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives",
-      "description": "A survivor of the deadly attack on a church in Jordan has described a terrifying scene where people crawled for their lives",
-      "url": "https://abcnews.com/International/wireStory/survivor-deadly-attack-jordan-church-describes-people-crawling-137540100",
-      "published": "Sat, 24 Oct 2026 13:01:44 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran remains open to talks with US under Pakistan-brokered deal, envoy says",
       "description": "Iran remains open to U.S. talks under a Pakistan-brokered interim deal reached in June to end the conflict, according to Tehran’s ambassador to Islamabad",
       "url": "https://abcnews.com/International/wireStory/iran-remains-open-talks-us-pakistan-brokered-deal-137539415",
       "published": "Sat, 24 Oct 2026 13:02:48 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Nigerian president launches reelection bid during a cost-of-living crisis and a fractured opposition",
+      "description": "Nigerian President Bola Tinubu has launched his reelection campaign during a cost-of-living crisis and a fractured opposition",
+      "url": "https://abcnews.com/International/wireStory/nigerian-president-launches-reelection-bid-cost-living-crisis-137541806",
+      "published": "Sat, 24 Oct 2026 15:51:54 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1602,6 +1605,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine and Russia eye new peace talks — and Melania Trump's mission — but steep obstacles remain"
+    },
+    {
+      "title": "Survivor of deadly attack on Jordan church describes people crawling for their lives",
+      "description": "A survivor of the deadly attack on a church in Jordan has described a terrifying scene where people crawled for their lives",
+      "url": "https://abcnews.com/International/wireStory/survivor-deadly-attack-jordan-church-describes-people-crawling-137540100",
+      "published": "Sat, 24 Oct 2026 13:01:44 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "DR Congo: Ebola responders under pressure as outbreak expands",
@@ -1971,10 +1985,10 @@
       "is_ticker": false
     },
     {
-      "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
-      "description": "South Korean media reports that North Korean leader Kim Jong Un has visited China for the first time in a year",
-      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630",
-      "published": "Sat, 24 Oct 2026 03:27:16 -0400",
+      "title": "Lula, Bolsonaro reach out to undecided voters in last debate of Brazil's presidential race",
+      "description": "Brazil’s President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro faced off Friday in their second and final debate ahead of Sunday’s runoff election, but this time with cooler heads than a few days ago",
+      "url": "https://abcnews.com/International/wireStory/lula-bolsonaro-reach-undecided-voters-debate-brazils-presidential-137531704",
+      "published": "Sat, 24 Oct 2026 01:00:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -1982,10 +1996,10 @@
       "is_ticker": false
     },
     {
-      "title": "Lula, Bolsonaro reach out to undecided voters in last debate of Brazil's presidential race",
-      "description": "Brazil’s President Luiz Inácio Lula da Silva and Senator Flávio Bolsonaro faced off Friday in their second and final debate ahead of Sunday’s runoff election, but this time with cooler heads than a few days ago",
-      "url": "https://abcnews.com/International/wireStory/lula-bolsonaro-reach-undecided-voters-debate-brazils-presidential-137531704",
-      "published": "Sat, 24 Oct 2026 01:00:33 -0400",
+      "title": "North Korean leader Kim Jong Un visits China, South Korean news agency reports",
+      "description": "South Korean media reports that North Korean leader Kim Jong Un has visited China for the first time in a year",
+      "url": "https://abcnews.com/International/wireStory/north-korean-leader-kim-jong-visits-china-south-137532630",
+      "published": "Sat, 24 Oct 2026 03:27:16 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
@@ -2172,6 +2186,20 @@
       "is_ticker": false
     },
     {
+      "title": "Mass rally against Netanyahu ahead of pivotal Israeli election",
+      "description": "Thousands of Israelis rallied against PM Benjamin Netanyahu ahead of elections on Tuesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/mass-rally-against-netanyahu-ahead-of-pivotal-israeli-election?traffic_source=rss",
+      "published": "Sun, 25 Oct 2026 02:07:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Mass rally against Netanyahu ahead of pivotal Israeli election"
+    },
+    {
       "title": "Brazil’s candidates hold final rallies before knife-edge run off",
       "description": "Brazil’s candidates hold final rallies before knife-edge run off",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
@@ -2212,17 +2240,6 @@
       "description": "Kim Jong Un crosses new bridge linking North Korea and China",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
       "published": "Sat, 24 Oct 2026 18:00:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says he may move White House press corps to new location",
-      "description": "Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.",
-      "url": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-      "published": "Sat, 24 Oct 2026 17:01:34 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2351,10 +2368,21 @@
       "is_ticker": false
     },
     {
+      "title": "M 6.5 - Bonin Islands, Japan region",
+      "description": "PAGER - GREEN ShakeMap - I Time 2026-10-25 02:09:23 UTC 2026-10-25 02:09:23 UTC at epicenter Location 27.795°N 139.618°E Depth 492.38 km (305.95 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4r9",
+      "published": "2026-10-25T02:29:48.190Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "M 6.3 - 170 km NW of Port-Olry, Vanuatu",
       "description": "PAGER - GREEN ShakeMap - IV Time 2026-10-24 02:35:57 UTC 2026-10-24 02:35:57 UTC at epicenter Location 14.042°S 165.867°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4jb",
-      "published": "2026-10-24T04:43:06.491Z",
+      "published": "2026-10-25T02:41:43.812Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2365,7 +2393,29 @@
       "title": "M 6.9 - 197 km WNW of Port-Olry, Vanuatu",
       "description": "PAGER - GREEN ShakeMap - V DYFI? - V Time 2026-10-24 02:31:28 UTC 2026-10-24 02:31:28 UTC at epicenter Location 14.056°S 165.546°E Depth 10.00 km (6.21 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u4j2",
-      "published": "2026-10-24T09:32:17.265Z",
+      "published": "2026-10-25T02:37:32.973Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "M 7.0 - Bonin Islands, Japan region",
+      "description": "Time 2026-10-24 02:09:00 UTC 2026-10-24 02:09:00 UTC at epicenter Location 28.000°N 139.900°E Depth 473.00 km (293.91 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26298050",
+      "published": "2026-10-25T02:25:22.235Z",
+      "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "M 7.0 - Bonin Islands, Japan region",
+      "description": "Time 2026-10-24 02:09:00 UTC 2026-10-24 02:09:00 UTC at epicenter Location 28.000°N 139.900°E Depth 473.00 km (293.91 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pt26297050",
+      "published": "2026-10-25T02:26:23.900Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2486,21 +2536,10 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil's Lula, Bolsonaro close arguments to voters ahead of nail-biting election runoff",
-      "description": "The last arguments to voters in Brazil’s presidential election are being made on the eve of the runoff between incumbent President Luiz Inácio Lula da Silva and Sen. Flávio Bolsonaro",
-      "url": "https://abcnews.com/International/wireStory/brazils-lula-bolsonaro-close-arguments-voters-ahead-nail-137544203",
-      "published": "Sat, 24 Oct 2026 19:36:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
-      "description": "Pakistan has urged Afghanistan’s Taliban government to take verifiable action against militants it says operate from Afghan territory, rejecting Kabul’s accusation that Islamabad was shifting blame for its own security failures",
-      "url": "https://abcnews.com/International/wireStory/pakistan-urges-afghanistan-act-militants-denies-recruiting-afghan-137541012",
-      "published": "Sat, 24 Oct 2026 15:52:06 -0400",
+      "title": "Japan's unpopular revision of Imperial law that reinforces male-only succession takes effect",
+      "description": "Japan’s unpopular revisions to the Imperial House Law that reinforce the male-only succession rules took effect Saturday",
+      "url": "https://abcnews.com/International/wireStory/japans-unpopular-revision-imperial-law-reinforces-male-succession-137532915",
+      "published": "Sat, 24 Oct 2026 05:39:24 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2519,17 +2558,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
-      "description": "Ukraine's military has regained full use of Starlink satellite links for its drones and fast-moving equipment, according to the defense minister",
-      "url": "https://abcnews.com/International/wireStory/ukraine-starlink-speed-limits-lifted-after-slowdown-hobbled-137534564",
-      "published": "Sat, 24 Oct 2026 07:14:40 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "What to know as Brazilians choose between Lula and Flávio Bolsonaro on Sunday",
       "description": "Brazil is on the brink of choosing between left-leaning incumbent Luiz Inácio Lula da Silva and far-right candidate Flávio Bolsonaro",
       "url": "https://abcnews.com/International/wireStory/brazilians-choose-lula-flvio-bolsonaro-sunday-137534196",
@@ -2541,10 +2569,21 @@
       "is_ticker": false
     },
     {
-      "title": "Japan's unpopular revision of Imperial law that reinforces male-only succession takes effect",
-      "description": "Japan’s unpopular revisions to the Imperial House Law that reinforce the male-only succession rules took effect Saturday",
-      "url": "https://abcnews.com/International/wireStory/japans-unpopular-revision-imperial-law-reinforces-male-succession-137532915",
-      "published": "Sat, 24 Oct 2026 05:39:24 -0400",
+      "title": "Ukraine says Starlink speed limits lifted after a slowdown that hobbled its drones",
+      "description": "Ukraine's military has regained full use of Starlink satellite links for its drones and fast-moving equipment, according to the defense minister",
+      "url": "https://abcnews.com/International/wireStory/ukraine-starlink-speed-limits-lifted-after-slowdown-hobbled-137534564",
+      "published": "Sat, 24 Oct 2026 07:14:40 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pakistan urges Afghanistan to act against militants and denies recruiting Afghan fighters",
+      "description": "Pakistan has urged Afghanistan’s Taliban government to take verifiable action against militants it says operate from Afghan territory, rejecting Kabul’s accusation that Islamabad was shifting blame for its own security failures",
+      "url": "https://abcnews.com/International/wireStory/pakistan-urges-afghanistan-act-militants-denies-recruiting-afghan-137541012",
+      "published": "Sat, 24 Oct 2026 15:52:06 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
