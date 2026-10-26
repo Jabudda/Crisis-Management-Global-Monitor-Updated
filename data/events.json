@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T03:50:17.496010Z",
+  "last_updated": "2026-10-26T04:21:52.536052Z",
   "event_count": 226,
   "events": [
     {
@@ -199,6 +199,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "World reacts to Lula’s victory in Brazil’s election",
+      "description": "International leaders and politicians congratulate the Brazilian president on his re-election win.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/world-reacts-to-lulas-victory-in-brazilian-presidential-race?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 03:50:12 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -517,7 +528,7 @@
       "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
       "description": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday. Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "published": "Mon, 26 Oct 2026 03:44:59 GMT",
+      "published": "Mon, 26 Oct 2026 04:14:28 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 15,
@@ -790,20 +801,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
-      "description": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
-      "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
-      "published": "Sun, 25 Oct 2026 21:00:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Kenya bus crash kills at least 24 as government vows road safety crackdown"
     },
     {
       "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -1385,7 +1382,7 @@
       "title": "Australia politics live: Haines’s first words after waking were of concern for staff and bystanders; restrained start to question time",
       "description": "Follow live updates Get our daily political email , free app or daily news podcast Steggall calls for civility and respect Independent MP Zali Steggall has called for more respect in times of disagreement, telling ABC that leadership and words matter. We absolutely need to make sure there is more civility and respect. Social media is a platform where they can send abuse and threats through direct messages, call my electorate office, or send pretty revolting stuff It’s just quite shocking how disconnected from manners and reality sometimes people get when they launch into their diatribes and make threats. There’s been a lot of money and a lot of effort and a lot of thought going into security here at Parliament House. I think the vulnerability is actually when we’re out doing our job in the community, and that’s probably where we need to put the focus. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/oct/26/australia-politics-live-helen-haines-tribute-anthony-albanese-labor-liberal-one-nation-pauline-hanson-angus-taylor-question-time-senate-estimates-ntwnfb",
-      "published": "Mon, 26 Oct 2026 03:43:59 GMT",
+      "published": "Mon, 26 Oct 2026 04:14:38 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 7,
@@ -1553,20 +1550,6 @@
       "is_ticker": false
     },
     {
-      "title": "Thousands protest in Prague as government advances public media funding overhaul",
-      "description": "Czechs have rallied in Prague to protest a government plan to overhaul funding for public broadcasters",
-      "url": "https://abcnews.com/International/wireStory/thousands-protest-prague-government-advances-public-media-funding-137556493",
-      "published": "Sun, 25 Oct 2026 14:18:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Thousands protest in Prague as government advances public media funding overhaul"
-    },
-    {
       "title": "UK endures second big storm of the weekend, with the north bearing the brunt this time",
       "description": "The second storm to hit the U.K. this weekend has caused widespread travel disruption and power outages in Scotland, Northern Ireland, and northern England",
       "url": "https://abcnews.com/International/wireStory/uk-endures-big-storm-weekend-north-bearing-brunt-137549903",
@@ -1579,6 +1562,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ UK endures second big storm of the weekend, with the north bearing the brunt this time"
+    },
+    {
+      "title": "Thousands protest in Prague as government advances public media funding overhaul",
+      "description": "Czechs have rallied in Prague to protest a government plan to overhaul funding for public broadcasters",
+      "url": "https://abcnews.com/International/wireStory/thousands-protest-prague-government-advances-public-media-funding-137556493",
+      "published": "Sun, 25 Oct 2026 14:18:19 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Thousands protest in Prague as government advances public media funding overhaul"
     },
     {
       "title": "Ukraine disputes Musk's claim that its military violated Starlink's terms of service",
@@ -1639,10 +1636,10 @@
       "is_ticker": false
     },
     {
-      "title": "Trump VS California",
-      "description": "The Democrats have redrawn district lines in a bid to flip five Republican-held seats in California.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-vs-california?traffic_source=rss",
-      "published": "Sun, 25 Oct 2026 21:29:23 +0000",
+      "title": "US military says it helped Gulf states export 1.5 billion barrels of oil",
+      "description": "US Central Command says more than 3,000 commercial vessels have transited the Strait of Hormuz with its support.",
+      "url": "https://www.aljazeera.com/economy/2026/10/26/us-military-says-it-helped-gulf-states-export-1-5-billion-barrels-of-oil?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 04:05:44 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 4,
@@ -1895,6 +1892,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump dials up Islamophobia at Michigan Senate rally against Abdul El-Sayed",
+      "description": "Al Jazeera looks at the key takeaways from the US president's campaign event in Michigan ahead of the midterm vote.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/trump-dials-up-islamophobia-at-michigan-senate-rally-against-abdul-el-sayed?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 04:03:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Ballon d’Or 2026 predictions: Yamal, Mbappe and Kane – who will win?",
       "description": "The winner of the 2026 Ballon d'Or will be crowned at Monday's gala in London, the first time it has been held in Britain.",
       "url": "https://www.aljazeera.com/sports/2026/10/26/ballon-dor-2026-predictions-yamal-mbappe-kane-who-will-win?traffic_source=rss",
@@ -2020,17 +2028,6 @@
       "description": "The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.",
       "url": "https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss",
       "published": "Sun, 25 Oct 2026 21:41:10 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Marine Le Pen launches French presidential campaign",
-      "description": "Marine Le Pen launches French presidential campaign",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss",
-      "published": "Sun, 25 Oct 2026 21:39:13 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
