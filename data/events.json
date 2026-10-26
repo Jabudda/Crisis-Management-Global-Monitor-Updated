@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-26T11:45:21.377394Z",
-  "event_count": 223,
+  "last_updated": "2026-10-26T13:50:55.691190Z",
+  "event_count": 226,
   "events": [
     {
       "title": "Brazil keeps left: what Lula’s victory means for his country and beyond",
@@ -54,6 +54,20 @@
       "severity_score": 37,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+      "description": "The death toll in Israel's genocidal war on Gaza climbs to 74,555, including 1,559 killed since 'ceasefire' last year.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 12:17:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 36,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli forces kill at least five people in Gaza, including 7-year-old girl"
     },
     {
       "title": "Nepal’s deadly glacier flood a ‘defining moment’ for the international community",
@@ -151,10 +165,21 @@
       "is_ticker": false
     },
     {
+      "title": "Live: France will maintain order without state of emergency, but it’s not off the table, Macron says",
+      "description": "President Emmanuel Macron on Monday said public order will be maintained in France without the need for a state of emergency, while noting that it was not “off-limits or taboo” if “things were to deteriorate\". During a visit to Marseille, Macron promised \"concrete\" measures to address the demands by high school students after their protests triggered weeks of nationwide unrest. Follow our live blog for all the latest updates.",
+      "url": "https://www.france24.com/en/france/20261026-live-france-will-maintain-order-without-state-of-emergency-but-it-s-not-off-the-table-macron-says",
+      "published": "Mon, 26 Oct 2026 12:47:12 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
       "description": "Leftist president Luiz Inácio Lula da Silva defeated the far-right senator and was elected president of Brazil for a fourth non-consecutive term Full report: Lula wins fourth term as Brazil’s president over Flávio Bolsonaro Live second round results The local electoral court ordered the immediate restoration of 100% of the bus fleet and ordered the arrest of the municipal transport secretary, Pablo Souza, on suspicion of an electoral offence and disobeying court orders. The arrest warrant could not be carried out, however, because he is in Paris on what the city government described as an “official mission”, and is not expected to return to Brazil until Monday. Late in the afternoon, Flávio Bolsonaro also filed requests for voting to be extended by two hours in cities in the states of São Paulo, Paraná and Santa Catarina, but because of heavy rain that he said had prevented voters from turning out. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-      "published": "Mon, 26 Oct 2026 11:20:12 GMT",
+      "published": "Mon, 26 Oct 2026 13:39:38 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 23,
@@ -190,6 +215,17 @@
       "is_ticker": false
     },
     {
+      "title": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "description": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 12:57:58 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Russia to host first Olympic federation world event since Ukraine invasion",
       "description": "The International Weightlifting Federation becomes the first Olympic federation to choose Russia to host a world championships since its invasion of Ukraine.",
       "url": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
@@ -209,6 +245,31 @@
       "url": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
       "published": "Mon, 26 Oct 2026 06:59:36 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "A look at the main issues in Israeli elections seen as a referendum on Netanyahu",
+      "description": "Israelis will vote Tuesday (October 27) in the first national elections since Hamas' Oct. 7, 2023, attack in what is widely seen as a referendum on Prime Minister Benjamin Netanyahu's leadership. He rejected ICC war crimes claims and denied corruption as national elections approach. Details by FRANCE 24's correspondent in Jerusalem, Noga Tarnopolsky.",
+      "url": "https://www.france24.com/en/video/20261026-a-look-at-the-main-issues-in-israeli-elections-seen-as-a-referendum-on-netanyahu",
+      "published": "Mon, 26 Oct 2026 11:59:34 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A look at the main issues in Israeli elections seen as a referendum on Netanyahu"
+    },
+    {
+      "title": "Israeli election seen as a referendum: For or against Netanyahu?",
+      "description": "Israeli Prime Minister Benjamin Netanyahu has led his country almost continuously for nearly 17 years. But will he manage to retain power following Tuesday's election? Netanyahu's latest term has divided Israeli society more than ever and will be marked by the October 7 attacks, his handling of the conflicts in Gaza, Iran and Lebanon, as well as his controversial judicial reform. FRANCE 24's David Gilberg reports, with Lauren Bain.",
+      "url": "https://www.france24.com/en/tv-shows/focus/20261026-israeli-election-seen-as-a-referendum-for-or-against-netanyahu",
+      "published": "Mon, 26 Oct 2026 11:40:25 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
@@ -244,6 +305,17 @@
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel braces for national elections seen as a referendum on Netanyahu",
+      "description": "Israelis are preparing to head to the polls on Tuesday (October 27) in the first elections since the October 7th attacks in 2023. Unable to vote abroad, expatriate citizens have been flying in from around the world to participate in a vote widely seen as being a referendum on Prime Minister Benjamin Netanyahu's leadership.",
+      "url": "https://www.france24.com/en/israel-braces-for-national-elections-seen-as-a-referendum-on-netanyahu",
+      "published": "Mon, 26 Oct 2026 12:35:55 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -323,21 +395,24 @@
       "is_ticker": false
     },
     {
+      "title": "Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns",
+      "description": "Australian Signals Directorate chief says advanced AI tools are needed to defend against ‘AI-enabled attackers’ Get our daily political email , free app or daily news podcast Australians should prepare for more basic and important online services to go offline unexpectedly, the nation’s signals intelligence agency has warned, urging that “system security must be prioritised over system availability”. The Australian Signals Directorate (ASD) also says businesses and critical infrastructure must use cutting-edge AI models to defend against digital threats, raising alarm that artificial intelligence is enabling more dangerous threats than ever. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/oct/26/australians-should-prepare-for-online-services-to-go-down-unexpectedly-as-threats-rise-cyber-agency-warns",
+      "published": "Mon, 26 Oct 2026 11:30:40 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Australians should prepare for online services to go down unexpectedly as threats rise, cyber agency warns"
+    },
+    {
       "title": "Serbia's student movement ousts longtime leader Vucic in parliament poll",
       "description": "Serbia's Aleksandar Vucic conceded defeat in an historic election on Sunday (October 25) following a near to 70% turnout at polling stations. The snap election followed nearly two years of student-led demonstrations against perceived corruption and authoritarianism triggered by the deaths of 16 people when a train station canopy collapsed in the ‌city of Novi Sad in 2024. FRANCE 24's Laurent Rouy tells us more.",
       "url": "https://www.france24.com/en/serbia-s-student-movement-ousts-longtime-leader-vucic-in-parliament-poll",
       "published": "Mon, 26 Oct 2026 09:41:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Serbia's Vucic concedes defeat in historic snap election with record turnout",
-      "description": "Serbia's Aleksandar Vucic conceded defeat in an historic election on Sunday following a near to 70% turnout at polling stations – the highest since the break-up of Yugoslavia in 1992. The snap election followed nearly two years of student-led demonstrations against perceived corruption and authoritarianism triggered by the deaths of 16 people when a train station canopy collapsed in the ‌city of Novi Sad in 2024.",
-      "url": "https://www.france24.com/en/europe/20261025-serbia-s-vucic-concedes-defeat-in-historic-snap-election-with-record-turnout",
-      "published": "Sun, 25 Oct 2026 21:24:42 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 19,
@@ -420,20 +495,6 @@
       "is_ticker": false
     },
     {
-      "title": "Report: IDF chief pushes back on Netanyahu's order",
-      "description": "An extraordinary confrontation at the top of Israel's leadership, just two days before the election. Israeli media report Prime Minister Benjamin Netanyahu and military chief Eyal Zamir are at odds over Iran. Zamir reportedly fears government instructions could trigger an immediate military escalation and has demanded written authorisation. Netanyahu denies any confrontation. The reports come as he warns Iran could attack Israel to disrupt Tuesday's vote.",
-      "url": "https://www.france24.com/en/video/20261025-report-idf-pushes-back-on-netanyahu-s-order",
-      "published": "Sun, 25 Oct 2026 23:24:14 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Report: IDF chief pushes back on Netanyahu's order"
-    },
-    {
       "title": "UN marks 81 years of global cooperation",
       "description": "The United Nations celebrates its 81st anniversary on Saturday, highlighting more than eight decades of work to advance peace, human rights and development around the world.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168665",
@@ -473,6 +534,28 @@
       "ticker_label": "🪖 Alabama man allegedly decapitates family members with chainsaw, hours after 911 warning"
     },
     {
+      "title": "Japanese prosecutors charge US marine suspected of robbing and killing woman",
+      "description": "Devin Jacob Ballard, 20, denies charges that he fatally strangled Anna Yagi, 39, in a hotel on the island of Okinawa Prosecutors in Japan have filed formal charges against a US marine suspected of murdering and robbing a woman while stationed on the country’s island of Okinawa, according to Japanese media. Devin Jacob Ballard, a 20-year-old lance corporal assigned to Marine Corps Air Station Futenma in Okinawa, is charged with fatally strangling Anna Yagi, 39, at a hotel in the city and stealing from her a backpack containing a wallet, the public broadcaster NHK reported . Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/26/japanese-prosecuters-charge-marine-killing",
+      "published": "Mon, 26 Oct 2026 13:41:41 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Lula wins Brazil election but faces uphill battle to govern",
+      "description": "Luiz Inacio Lula da Silva's narrow election victory on Sunday has dealt a blow to Brazil's far right, but deep political divisions remain. The newly re-elected president must tackle economic and security concerns at home while navigating international tensions with US President Donald Trump.",
+      "url": "https://www.france24.com/en/americas/20261026-lula-wins-brazil-election-but-faces-uphill-battle-to-govern",
+      "published": "Mon, 26 Oct 2026 13:38:09 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
       "description": "Emmanuel Macron vows rioters will pay as 70,000 police deploy across France, while Italy, Belgium and Albania face escalating protest violence.",
       "url": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent",
@@ -507,6 +590,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israelis have changed. Will they change their leadership?"
+    },
+    {
+      "title": "Germany's Merz heads to Asia as security issues loom large",
+      "description": "Chancellor Friedrich Merz will be meeting the leaders of Singapore, Japan and South Korea as Germany seeks to adjust its foreign policy to rising uncertainty and threats to global supply chains.",
+      "url": "https://www.dw.com/en/germany-s-merz-heads-to-asia-as-security-issues-loom-large/a-79764065?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 26 Oct 2026 13:32:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Germany's Merz heads to Asia as security issues loom large"
     },
     {
       "title": "Jordan: 3 arrested over deadly church attack",
@@ -557,17 +654,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Algeria to send troops to Niger in first foreign deployment in over 50 years"
-    },
-    {
-      "title": "Lula's 'extraordinary victory' faces growing middle class, deeply-entrenched bolsonarismo & Big Tech",
-      "description": "Oliver Farry is pleased to welcome Dr Felipe Krause, Political Scientist, former Diplomat and Departmental Lecturer in Latin American Studies at the Oxford School of Global and Area Studies. Beneath Lula's electoral triumph lies a more complex political reality: the Brazilian hard right has consolidated its influence across state governments and legislative institutions, raising fundamental questions about the balance of power and the future of progressive governance. Lula will be focusing more on \"working to keep things from eroding\" rather than advancing his progressive agenda, explains Dr. Krause. 'There is more need for economic measures that support the growing middle class.\"",
-      "url": "https://www.france24.com/en/lula-s-extraordinary-victory-faces-growing-middle-class-deeply-entrenched-bolsonarismo-big-tech",
-      "published": "Mon, 26 Oct 2026 08:41:47 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "British and French paratroopers take part in major wargame in Germany",
@@ -676,22 +762,33 @@
       "ticker_label": "💥 Gunmen kill 7 at Christian church in Jordan in what king calls act of terrorism"
     },
     {
-      "title": "Officials from Mecca pact states to hold talks in Iran amid regional tensions",
-      "description": "Talks to be first high-level contact between Iran and the bloc since Houthi rebels escalated attacks on Saudi Arabia.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/officials-from-mecca-pact-states-to-hold-talks-in-iran-amid-regional-tensions?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 07:33:47 +0000",
-      "source": "Al Jazeera",
+      "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
+      "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
+      "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
+      "published": "Mon, 10 Apr 2023 12:22:59 GMT",
+      "source": "CNN World",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
     },
     {
-      "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
-      "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
-      "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
-      "published": "Mon, 10 Apr 2023 12:22:59 GMT",
-      "source": "CNN World",
+      "title": "Macron vows ‘concrete’ measures to address student demands after unrest",
+      "description": "French President Emmanuel Macron on Monday said the government will announce \"concrete and strong\" measures to address the demands by high school students after their protests demanding better education conditions triggered weeks of nationwide unrest. Prime Minister Sébastien Lecornu is set to hold a news conference after meeting with high school student unions.",
+      "url": "https://www.france24.com/en/france/20261026-macron-vows-concrete-measures-to-address-student-demands-after-unrest",
+      "published": "Mon, 26 Oct 2026 12:25:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Lula beats Bolsonaro in Brazil runoff: What does it mean for Donald Trump?",
+      "description": "Lula defeated on Sunday (October 25) Flavio Bolsonaro in Brazil’s presidential election. But rather than conceding, Bolsonaro called for the result to be annulled. As the US midterms approach, the result raises questions about Trump’s influence and how his political allies respond when voters reject them. FRANCE 24's International Affairs Editor, Douglas Herbert, gives us his analysis.",
+      "url": "https://www.france24.com/en/video/20261026-lula-beats-bolsonaro-in-brazil-runoff-what-does-it-mean-for-donald-trump",
+      "published": "Mon, 26 Oct 2026 11:50:55 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -748,11 +845,11 @@
       "is_ticker": false
     },
     {
-      "title": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-      "description": "Data centres are the lifeblood of our digital world, but there are growing concerns about their environmental impact. The BBC explores their rise in charts.",
-      "url": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 23:44:34 GMT",
-      "source": "BBC News",
+      "title": "Manchester United crisis: What are the top five problems facing the club?",
+      "description": "Manchester United hit a new low on Sunday with a home loss to Bournemouth. So, how can they solve their issues?",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 12:18:12 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -781,36 +878,11 @@
       "is_ticker": false
     },
     {
-      "title": "Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China",
-      "description": "Super typhoon weakening but large parts of Taiwan, including Taipei, still mostly closed and flights cancelled Typhoon Champi swept past Taiwan on Saturday killing one person, injuring more than 500, and uprooting trees and severing power as it weakened and ⁠headed north toward ⁠the ​Chinese coast. Earlier classified as a super typhoon and one of the strongest storms in the ⁠Pacific this year, Champi was still packing gusts of about 126km per hour (78 miles per hour) near its ⁠centre, according to Taiwan’s Central Weather Administration (CWA). Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china",
-      "published": "Sat, 24 Oct 2026 02:22:32 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Typhoon Champi kills one and injures more than 500 in Taiwan as it heads to China"
-    },
-    {
       "title": "Former RAAF pilot who allegedly murdered wife was ‘love rat’ and ‘master manipulator’, jury hears",
       "description": "Robert John Crawford on trial after wife found near ride-on lawnmower on their Toowoomba property Get our breaking news email , free app or daily news podcast A former RAAF pilot was a “love rat” and “master manipulator” who staged his wife’s death to make it appear like an accident, a jury has heard. Robert John Crawford, 49, pleaded not guilty on Monday to murdering his wife, Frances Elizabeth Crawford, at Upper Lockyer on 29 July 2024. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/26/raaf-pilot-robert-john-crawford-murder-trial-wife-ntwnfb",
       "published": "Mon, 26 Oct 2026 05:28:02 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Protests roil France once again as police seek to quell violence",
-      "description": "Hundreds of thousands turned out across France to protest everything from the lack of school funding to economic inequality. Police also were out in force to prevent a repeat of last week's violence.",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6014520/protests-roil-france-once-again-as-police-seek-to-quell-violence",
-      "published": "Sat, 24 Oct 2026 17:21:00 -0400",
-      "source": "NPR World News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -843,20 +915,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Deeply divided Israel braces for pivotal election"
-    },
-    {
-      "title": "Photos: Lula supporters flood streets in celebration of historic win",
-      "description": "Avenues and squares in Rio de Janeiro and Sao Paulo filled with crowds dressed in red, celebrating democracy.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-lula-supporters-flood-streets-in-celebration-of-historic-win?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 07:24:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Photos: Lula supporters flood streets in celebration of historic win"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -912,7 +970,7 @@
       "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
       "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 11:02:20 GMT",
+      "published": "Mon, 26 Oct 2026 12:52:16 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 10,
@@ -920,15 +978,29 @@
       "is_ticker": false
     },
     {
-      "title": "Le Pen’s ‘Renaissance’: 4th time lucky?",
-      "description": "Just before half past four, Marine Le Pen took to the stage under the stadium strobe lights at the Zénith Arena in Orléans. The radical-right leader, whom analysts say is on the doorstep of the presidency, is polarising, yet deeply and increasingly popular with her base, and has topped the popularity polls for months in France. This came 24 hours after the latest protests across the country, which included over ten thousand anti-Le Pen demonstrators outside the venue yesterday.",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20261025-le-pen-s-renaissance-4th-time-lucky",
-      "published": "Sun, 25 Oct 2026 19:05:19 GMT",
+      "title": "French PM meets student representatives after weeks of protests",
+      "description": "French Prime Minister Sebastien Lecornu is set to meet with high school students on Monday afternoon (October 26) to ease tensions in the country after nearly a month of protests. This follows another meeting in which French president Emmanuel Macron promised a concrete response to demands for better education standards and funding.",
+      "url": "https://www.france24.com/en/french-pm-meets-student-representatives-after-weeks-of-protests",
+      "published": "Mon, 26 Oct 2026 12:20:14 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "US midterms: Trump's gains among Latino voters in Texas at risk",
+      "description": "Latino voters shifted toward Trump two years ago, helping him return to the White House with a Republican-controlled Congress. Now, many are souring on the US president and his party. FRANCE 24's team reports from the Rio Grande Valley.",
+      "url": "https://www.france24.com/en/video/20261026-us-midterms-trump-s-gains-among-latino-voters-in-texas-at-risk",
+      "published": "Mon, 26 Oct 2026 11:42:21 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US midterms: Trump's gains among Latino voters in Texas at risk"
     },
     {
       "title": "Fate unknown of many returned to DPR Korea from China: UN independent experts",
@@ -983,6 +1055,17 @@
       "url": "https://www.npr.org/2026/10/25/g-s1-149089/magic-magicians-south-africa-school-students",
       "published": "Sun, 25 Oct 2026 07:24:58 -0400",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Will Harry Kane win tonight's Ballon d'Or?",
+      "description": "Tonight's Ballon d'Or is one of the most anticipated in years, with Harry Kane the favourite to be named the world's best men's footballer.",
+      "url": "https://news.sky.com/story/ballon-dor-harry-kane-favourite-to-win-prestigious-award-after-goal-filled-season-13603925",
+      "published": "Mon, 26 Oct 2026 10:07:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1058,20 +1141,6 @@
       "ticker_label": "🚨 Suspect in deadly Paris suburb shooting sent for psychiatric observation"
     },
     {
-      "title": "Gabon says access to social media restored after eight-month ban",
-      "description": "The authorities had justified the ban by saying online content was fuelling conflict, while the opposition had condemned it as an abuse of power.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 14:39:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Gabon says access to social media restored after eight-month ban"
-    },
-    {
       "title": "Fire engulfs Hitler's mountaintop Eagle's Nest retreat",
       "description": "Police in the southern German state of Bavaria have detained a 33-year-old German man following the fire.",
       "url": "https://www.bbc.co.uk/news/videos/cq98z9xxy2n2o?at_medium=RSS&at_campaign=rss",
@@ -1094,20 +1163,6 @@
       "is_ticker": false
     },
     {
-      "title": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-      "description": "After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 08:43:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Do Palestinians in Gaza expect anything to change after Israel’s election?"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1117,34 +1172,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges",
-      "description": "Victorian coroner hears Emily Lal told Stacey Warnecke that her ‘condition and mindset’ needed to be ‘solid’ to avoid a hospital birth Follow our Australia politics live blog for latest updates Get our breaking news email , free app or daily news podcast A birthkeeper who allegedly “groomed” pregnant women to fear hospital could be referred to prosecutors to face potential criminal charges, a Victorian coroner has heard. Stacey Warnecke died in September 2025 at Frankston hospital in Melbourne after giving birth at home and suffering a postpartum haemorrhage with birthkeeper Emily Lal by her side, having paid her $6,000 to support her throughout pregnancy. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/26/birthkeeper-groomed-pregnant-women-melbourne-ntwnfb",
-      "published": "Mon, 26 Oct 2026 04:29:01 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Birthkeeper who allegedly ‘groomed’ pregnant women to fear hospital could face criminal charges"
-    },
-    {
-      "title": "Why a far-right cabinet minister in Israel has Netanyahu's ear",
-      "description": "Israel's most far-right cabinet minister helped dictate hardline policies toward Palestinians in recent years. Benjamin Netanyahu vows to give him a senior position if Netanyahu is reelected next week.",
-      "url": "https://www.npr.org/2026/10/24/nx-s1-6010464/why-a-far-right-cabinet-minister-in-israel-has-netanyahus-ear",
-      "published": "Sat, 24 Oct 2026 17:20:52 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Why a far-right cabinet minister in Israel has Netanyahu's ear"
     },
     {
       "title": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
@@ -1172,24 +1199,10 @@
       "ticker_label": "🪖 Brazil votes in tight runoff between leftist Lula and right-wing Flavio Bolsonaro"
     },
     {
-      "title": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
-      "description": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
-      "url": "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 25 Oct 2026 07:19:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war"
-    },
-    {
-      "title": "Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race",
-      "description": "French forward Kylian Mbappé, England captain Harry Kane and Spain's Lamine Yamal are among the favourites to be crowned the 2026 Ballon d'Or winner at a ceremony to be hosted Monday for the first time in England in recognition of the first winner Stanley Matthews.",
-      "url": "https://www.france24.com/en/sport/20261026-kane-primed-to-pip-yamal-mbappe-to-ballon-d-or-glory",
-      "published": "Mon, 26 Oct 2026 04:38:55 GMT",
+      "title": "Israel: Arab Israeli voters could prove decisive in the upcoming elections",
+      "description": "In Israel’s election the vote of Arab Israeli citizens could be crucial for the outcome and fate of Prime Minister Benjamin Netanyahu who is standing for re-election. Traditionally voting turnout is lower among Arab Israelis than among the rest of the population. But this time some feel it’s their duty more than ever to cast their ballot given the policies and wars undertaken by Netanyahu.",
+      "url": "https://www.france24.com/en/israel-arab-israeli-voters-could-prove-decisive-in-the-upcoming-elections",
+      "published": "Mon, 26 Oct 2026 12:13:13 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1197,7 +1210,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Mbappé, Kane and Yamal top favourites list in wide open 2026 Ballon d’Or race"
+      "ticker_label": "🪖 Israel: Arab Israeli voters could prove decisive in the upcoming elections"
     },
     {
       "title": "Three men arrested in shootout after deadly attack on church in Jordan",
@@ -1267,6 +1280,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 ‘Ominous start’ to West Bank olive harvest amid settler attacks"
+    },
+    {
+      "title": "Tallahassee police arrest 15-year-old suspect after shooting near Florida A&M football stadium",
+      "description": "No description available.",
+      "url": "https://www.foxnews.com/us/tallahassee-police-arrest-15-year-old-suspect-shooting-florida-am-football-stadium",
+      "published": "Mon, 26 Oct 2026 08:23:06 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Tallahassee police arrest 15-year-old suspect after shooting near Florida A&M football stadium"
     },
     {
       "title": "Trump escalates attacks on El-Sayed as Michigan Senate race tightens and more top headlines",
@@ -1352,17 +1379,6 @@
       "is_ticker": false
     },
     {
-      "title": "Paris welcomes first NFL game with a party a day after protests",
-      "description": "The Stade de France near Paris made history Sunday when it hosted the first regular-season NFL game between the Pittsburgh Steelers and New Orleans Saints in a festive atmosphere a day after police clashed with demonstrators across France. While security issues dominated the headlines in the leadup to the game, the mood at the stadium was joyous with half-time shows including a rap performance.",
-      "url": "https://www.france24.com/en/sport/20261026-paris-welcomes-first-nfl-game-with-a-party-a-day-after-protests",
-      "published": "Mon, 26 Oct 2026 07:41:40 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Delegations meet in Iran with Mideast on edge over potential for renewed fighting",
       "description": "Regional officials say high-level delegations from Saudi Arabia, Pakistan and Turkey are in Tehran for talks aimed at preventing renewed fighting between Iran and Israel and the United States",
       "url": "https://abcnews.com/International/wireStory/delegations-meet-iran-mideast-region-edge-potential-renewed-137563622",
@@ -1385,17 +1401,6 @@
       "is_ticker": false
     },
     {
-      "title": "Uganda imposes 21-day quarantine on citizens returning from DR Congo",
-      "description": "Uganda will also not allow most travellers who have been in DR Congo to transit through the country.",
-      "url": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 08:18:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Crowds welcome Venezuela's María Machado after months in exile",
       "description": "The Venezuelan opposition leader spent more than 10 months in exile after escaping the country on a speedboat.",
       "url": "https://www.bbc.co.uk/news/videos/cwgkv8kmly4zo?at_medium=RSS&at_campaign=rss",
@@ -1405,6 +1410,20 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Intercepted Houthi missiles cause damage in Saudi Arabian city",
+      "description": "Debris fell on the Saudi city of Khamis Mushait after Houthi-fired missiles were intercepted.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/intercepted-houthi-missiles-cause-damage-in-saudi-arabian-city?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 12:54:05 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Intercepted Houthi missiles cause damage in Saudi Arabian city"
     },
     {
       "title": "Algeria’s military deployment to Niger: What’s behind the move?",
@@ -1451,11 +1470,11 @@
       "is_ticker": false
     },
     {
-      "title": "Trump announces Audi will build $4 billion factory in US",
-      "description": "After Donald Trump made the announcement at an election rally in Georgia, the German carmaker confirmed plans for a factory in the US state, but noted car production would only start early next decade.",
-      "url": "https://www.dw.com/en/trump-announces-audi-will-build-4-billion-factory-in-us/a-79753479?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 25 Oct 2026 04:44:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Belgrade in rapture as Serbian students topple Vucic in historic election",
+      "description": "Serbia's student-led movement declared victory in parliamentary elections Sunday ending 14 years in power for Aleksandar Vucic's right-wing populist party. Vucic conceded defeat less than two hours after polls closed, triggering raucous scenes in the capital as supporters of the movement celebrated the defeat of a government they blamed for deep-rooted corruption.",
+      "url": "https://www.france24.com/en/video/20261026-belgrade-in-rapture-as-serbian-students-topple-vucic-in-historic-election",
+      "published": "Mon, 26 Oct 2026 13:19:40 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1509,11 +1528,11 @@
       "is_ticker": false
     },
     {
-      "title": "Photos: Serbia celebrates as ruling party loses grip on power",
-      "description": "Two years of student-led protests against corruption and mismanagement culminate in election victory.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/26/photos-serbia-celebrates-as-ruling-party-loses-grip-on-power?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 08:18:39 +0000",
-      "source": "Al Jazeera",
+      "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
+      "description": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president.",
+      "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 11:39:16 GMT",
+      "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1556,7 +1575,7 @@
       "title": "London’s Oxford Street bans traffic as city tries to revitalize shopping district",
       "description": "London's Oxford Street is closing to cars, buses, and bicycles starting Monday",
       "url": "https://abcnews.com/International/wireStory/londons-oxford-street-bans-traffic-city-revitalize-grand-137565863",
-      "published": "Mon, 26 Oct 2026 07:26:22 -0400",
+      "published": "Mon, 26 Oct 2026 08:26:23 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1636,10 +1655,21 @@
       "is_ticker": false
     },
     {
+      "title": "Steinmeier in China: A major state visit in uncertain times",
+      "description": "President Frank-Walter Steinmeier is traveling to China on a state visit in a period of political and economic uncertainty. Germany is seeking alternative partners in the region, but also wants good ties with Beijing.",
+      "url": "https://www.dw.com/en/steinmeier-in-china-a-major-state-visit-in-uncertain-times/a-79764205?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 26 Oct 2026 13:09:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Australian judge rejects prisoner’s human rights challenge to Vegemite ban",
       "description": "A prisoner has lost his challenge to an Australian state’s ban on inmates eating Vegemite after he argued in court that withholding the polarizing yeast-based spread breached his human right to “enjoy his culture as an Australian.”",
       "url": "https://abcnews.com/International/wireStory/australian-judge-rejects-prisoners-human-rights-challenge-vegemite-137566154",
-      "published": "Mon, 26 Oct 2026 07:40:28 -0400",
+      "published": "Mon, 26 Oct 2026 08:02:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1654,17 +1684,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel’s election: The main issues in the words of the leading candidates",
-      "description": "From judicial reform to conscription, here's where candidates stand on the key issues dominating the campaign.",
-      "url": "https://www.aljazeera.com/news/2026/10/26/israels-election-the-main-issues-in-the-words-of-the-leading-candidates?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 07:03:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1782,6 +1801,17 @@
       "is_ticker": false
     },
     {
+      "title": "AI giant Anthropic unveils plans for blockbuster share listing",
+      "description": "The company will be the first true artificial intelligence company to go public as tech firms continue to invest heavily in AI.",
+      "url": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 13:46:14 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Australian murderer loses bid to eat Vegemite in prison",
       "description": "Andre McKechnie, who murdered a property developer, argued it was his right to enjoy Australian culture.",
       "url": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
@@ -1815,6 +1845,17 @@
       "is_ticker": false
     },
     {
+      "title": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "description": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real Madrid leave Camp Nou with a victory.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 00:07:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
       "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
       "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
@@ -1837,17 +1878,6 @@
       "is_ticker": false
     },
     {
-      "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-      "description": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week.",
-      "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 25 Oct 2026 10:55:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Watch: How President Lula turned it around to beat Flávio Bolsonaro",
       "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
       "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
@@ -1859,11 +1889,91 @@
       "is_ticker": false
     },
     {
-      "title": "China's big political meeting could see Xi 'tighten discipline' in party",
-      "description": "The highly secretive four-day Plenum starts Monday in Beijing.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8djd1078ro?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 26 Oct 2026 07:40:57 GMT",
+      "title": "Five ways Trump has changed immigration in the US",
+      "description": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations.",
+      "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 26 Oct 2026 11:29:02 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US foreign aid to Israel highlighted in campaign ad in support of El-Sayed",
+      "description": "A new political campaign ad in support of US Senate candidate Abdul El-Sayed is generating conversation online.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/us-foreign-aid-to-israel-highlighted-in-campaign-ad-in-support-of-el-sayed?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 13:20:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel expands expulsions in occupied West Bank to cement control",
+      "description": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing 'new reality', analysts say.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 13:11:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Israel expands expulsions in occupied West Bank to cement control"
+    },
+    {
+      "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
+      "description": "Who are the Israeli candidates trying to unseat Netanyahu?",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 13:02:29 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+      "description": "Brazil's president secured a historic fourth term after overturning a first-round defeat.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 13:02:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Has Pakistan reopened its border with Iran for trade?",
+      "description": "Traders say some exports are crossing border after a weeklong halt, but Tehran says its cargo is not getting through.",
+      "url": "https://www.aljazeera.com/news/2026/10/26/has-pakistan-reopened-its-border-with-iran-for-trade?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 13:01:16 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+      "description": "Real won their fifth straight game across all competitions and are finding their footing under veteran Jose Mourinho.",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 12:23:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
+      "description": "Pakistan came back from 154-9 to beat England by one wicket, thanks to a historic innings by all-rounder Shadab Khan.",
+      "url": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
+      "published": "Mon, 26 Oct 2026 12:11:59 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -1932,61 +2042,6 @@
       "description": "Thousands lined the streets of Caracas to welcome opposition leader Maria Corina Machado back to Venezuela after exile.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/thousands-greet-opposition-leader-maria-machado-upon-return-to-caracas?traffic_source=rss",
       "published": "Mon, 26 Oct 2026 10:14:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Flavio Bolsonaro ‘will not give up’ after Brazil election results",
-      "description": "Flavio Bolsonaro is refusing to concede to Lula da Silva who won a historic 4th term in Sunday's election.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/flavio-bolsonaro-will-not-give-up-after-brazil-election-results?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 09:15:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "California’s billionaire tax faces a precarious road from rich opposition",
-      "description": "Tech billionaires have raised more than $300m to oppose the billionaire tax proposal.",
-      "url": "https://www.aljazeera.com/economy/2026/10/26/californias-billionaire-tax-faces-a-precarious-road-from-rich-opposition?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 09:08:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Lula’s victory may be a turning point for Latin America",
-      "description": "The outcome of Brazil's presidential election demonstrates that the far-right tide in Latin America is not inevitable.",
-      "url": "https://www.aljazeera.com/opinions/2026/10/26/lulas-victory-may-be-a-turning-point-for-latin-america?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 08:41:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Kimi Antonelli wins US Grand Prix, closes in on F1 championship",
-      "description": "Mercedes's 20-year-old driver can win the championship in Mexico next week if his teammate Russell doesn't win the race.",
-      "url": "https://www.aljazeera.com/sports/2026/10/26/kimi-antonelli-wins-us-grand-prix-closes-in-on-f1-championship?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 08:26:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump makes explicit remarks about Nicki Minaj at Michigan midterm rally",
-      "description": "Donald Trump made sexually explicit remarks about musician Nicki Minaj who was speaking at a rally in Michigan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/trump-makes-explicit-remarks-about-nicki-minaj-at-michigan-midterm-rally?traffic_source=rss",
-      "published": "Mon, 26 Oct 2026 08:23:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2225,6 +2280,28 @@
       "is_ticker": false
     },
     {
+      "title": "Australian judge rejects prisoner's human rights challenge to Vegemite ban",
+      "description": "Andre McKechnie, 55, is serving a life sentence for murder. He took his battle for the salty, sticky, black-brown byproduct of brewing beer to the court last year. He argued being refused Vegemite breached the Charter of Human Rights and Responsibilities Act.",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149923/australian-judge-rejects-prisoners-human-rights-challenge-to-vegemite-ban",
+      "published": "Mon, 26 Oct 2026 09:25:33 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What to know about China's plenum as Xi seeks stronger party discipline",
+      "description": "This closed-door gathering that started Monday comes about a year before Xi is expected to secure a fourth term and personnel changes to key leadership bodies.",
+      "url": "https://www.npr.org/2026/10/26/g-s1-149918/what-to-know-about-chinas-plenum-as-xi-seeks-stronger-party-discipline",
+      "published": "Mon, 26 Oct 2026 09:20:38 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Brazil's left-wing President Lula elected for fourth term",
       "description": "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.",
       "url": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
@@ -2335,6 +2412,17 @@
       "is_ticker": false
     },
     {
+      "title": "Football: Who will win the 2026 Ballon d'Or?",
+      "description": "The competition for this year's Ballon d'Or is tougher than ever. Who will succeed Ousmane Dembélé? Kylian Mbappé, Lamine Yamal and Harry Kane lead a star-studded field. FRANCE 24's Emily Boyle has more.",
+      "url": "https://www.france24.com/en/video/20261026-football-who-will-win-the-2026-ballon-d-or",
+      "published": "Mon, 26 Oct 2026 12:33:28 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "'Serbia is free': Belgrade erupts in celebration after Vucic's defeat",
       "description": "Celebrations erupted across several Serbian cities late Sunday (October 25) as people hailed the student-backed movement deposing veteran leader Aleksandar Vucic's party in a snap election.",
       "url": "https://www.france24.com/en/serbia-is-free-belgrade-erupts-in-celebration-after-vucic-s-defeat",
@@ -2379,66 +2467,11 @@
       "is_ticker": false
     },
     {
-      "title": "Real Madrid win Clasico against Barcelona thanks to Mbappé",
-      "description": "Real Madrid defeated FC Barcelona in La Liga (2-1) thanks to a brace by Kylian Mbappé, as the title race gets tighter.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261026-real-madrid-win-clasico-against-fc-barcelona-thanks-to-kylian-mbapp%C3%A9",
-      "published": "Mon, 26 Oct 2026 06:10:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "🔴 Live: Bolsonaro refuses to recognise Brazil election results",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "published": "Mon, 26 Oct 2026 02:01:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What challenges await Brazil's Lula in his fourth term as president?",
-      "description": "President Luiz Inacio Lula da Silva will have to wrestle with a divided Brazil, an unfriendly Congress, feeble public finances and a Donald Trump-shaped menace during his unprecedented fourth term.",
-      "url": "https://www.france24.com/en/americas/20261026-what-challenges-await-brazil-s-lula-in-his-fourth-term-as-president",
-      "published": "Mon, 26 Oct 2026 00:52:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Brazil's Lula beats odds and seals re-election, rival Bolsonaro demands annulment",
-      "description": "Brazilian President Luiz Inacio Lula da Silva, nearly 81 years old, clinched a fourth term in a tight runoff against Flavio Bolsonaro on Sunday. The leftist leader won 51.7% of the vote, compared to 48.2% for the son of former president Jair Bolsonaro, official results showed. Bolsonaro has refused to accept the loss and said he would seek to annul the vote.",
-      "url": "https://www.france24.com/en/americas/20261026-brazil-s-president-lula-da-silva-beats-flavio-bolsonaro-to-win-re-election",
-      "published": "Mon, 26 Oct 2026 00:23:59 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "🔴 Live: Brazil's President Lula da Silva beats Flavio Bolsonaro in run-off to win re-election",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/americas/20261025-live-voting-under-way-across-brazil-in-tight-presidential-run-off-between-lula-and-bolsonaro",
-      "published": "Mon, 26 Oct 2026 00:12:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Marine Le Pen launches presidential campaign in Orléans",
-      "description": "RN candidate Marine Le Pen officially launched her campaign for the French presidential election on Sunday, October 25, at a rally in Orléans.",
-      "url": "https://www.france24.com/en/video/20261025-marine-le-pen-launches-presidential-campaign-in-orl%C3%A9ans",
-      "published": "Sun, 25 Oct 2026 19:45:40 GMT",
-      "source": "France24",
+      "title": "Anthropic reveals loss as it plans to sell public shares for first time",
+      "description": "Artificial intelligence giant Anthropic, the company behind the popular Claude chatbot, has filed papers to sell shares to the public for the first time.",
+      "url": "https://news.sky.com/story/anthropic-reveals-loss-as-it-plans-to-sell-public-shares-for-first-time-13604009",
+      "published": "Mon, 26 Oct 2026 13:09:00 +0000",
+      "source": "Sky News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2457,6 +2490,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Mariupol veteran who flew in classified mission on what every Ukrainian should know"
+    },
+    {
+      "title": "North Korean howitzer guns spotted close to border with South Korea",
+      "description": "North Korean howitzer guns have been seen close to the border with South Korea - at a time when tensions between the two nations are high.",
+      "url": "https://news.sky.com/story/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea-as-tensions-remain-high-13603924",
+      "published": "Mon, 26 Oct 2026 10:05:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Talks between Ukraine, Russia and US to be held next month",
@@ -2576,17 +2620,6 @@
       "description": "Patricia Krentcil claims ICE agents nearly handcuffed her over her deep tan, questioning her citizenship as she left a restaurant with friends.",
       "url": "https://www.foxnews.com/us/notorious-tan-mom-claims-ice-agents-mistook-her-illegal-immigrant-extreme-tan",
       "published": "Sat, 24 Oct 2026 01:58:42 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Tyler Robinson hearing ends without trial date set, prompting fiery plea from Erika Kirk's lawyer",
-      "description": "Tyler Robinson's Utah trial for the assassination of Charlie Kirk still has no start date as prosecutors and defense attorneys clash over timing.",
-      "url": "https://www.foxnews.com/us/tyler-robinson-hearing-ends-without-trial-date-set-prompting-fiery-plea-erika-kirks-lawyer",
-      "published": "Fri, 23 Oct 2026 20:03:53 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
