@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-28T11:12:13.904873Z",
-  "event_count": 221,
+  "last_updated": "2026-10-28T11:36:37.203869Z",
+  "event_count": 220,
   "events": [
     {
       "title": "World News in Brief: Iran nuclear inspections, deadly church attack in Jordan, El Fasher – one year on",
@@ -182,7 +182,7 @@
       "title": "Death toll in Spain train crash rises to at least 30, with rescue and recovery operations ongoing",
       "description": "Two high speed trains carrying hundreds of passengers collided in central Spain south of Madrid. Officials warn that the death toll is likely to increase. Follow DW.",
       "url": "https://www.dw.com/en/death-toll-in-spain-train-crash-rises-to-at-least-30-with-rescue-and-recovery-operations-ongoing/live-79785087?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 28 Oct 2026 10:47:00 GMT",
+      "published": "Wed, 28 Oct 2026 11:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 26,
@@ -202,6 +202,20 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Flooding in Haiti and the Dominican Republic causes deaths and destroys homes, officials say",
+      "description": "Officials say heavy rains in Haiti and the Dominican Republic have killed several people and cut off access to dozens of communities",
+      "url": "https://abcnews.com/International/wireStory/flooding-haiti-dominican-republic-causes-deaths-destroys-homes-137615008",
+      "published": "Tue, 27 Oct 2026 16:15:33 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Flooding in Haiti and the Dominican Republic causes deaths and destroys homes, officials say"
     },
     {
       "title": "Record carbon dioxide levels will impact us for centuries, says UN weather agency",
@@ -432,6 +446,20 @@
       "is_ticker": false
     },
     {
+      "title": "Pope says 'there is no such thing as a holy war' in message to religious leaders",
+      "description": "Pope Leo XIV has denounced the religious justification for wars raging around the world, saying “there is no such thing as a holy war.”",
+      "url": "https://abcnews.com/International/wireStory/pope-thing-holy-war-message-religious-leaders-137610698",
+      "published": "Tue, 27 Oct 2026 14:31:47 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Pope says 'there is no such thing as a holy war' in message to religious leaders"
+    },
+    {
       "title": "World News in Brief: Ethiopians flee to Kenya amidst renewed conflict, new head of UN’s food programme, UN mission in Somalia concludes",
       "description": "Around 36,600 people have fled into northern Kenya following an uptick in fighting on the Ethiopian side of the border.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168674",
@@ -532,17 +560,6 @@
       "ticker_label": "💥 Bomb blast near Colombia’s border with Venezuela injures at least 4 police officers"
     },
     {
-      "title": "At least 62 people killed in attack on a community in northeastern Nigeria",
-      "description": "Gunmen killed at least 62 people in an attack on a community in northeastern Nigeria",
-      "url": "https://abcnews.com/International/wireStory/62-people-killed-attack-community-northeastern-nigeria-137597495",
-      "published": "Tue, 27 Oct 2026 09:38:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
       "description": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
@@ -597,17 +614,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Former IDF chief Gadi Eisenkot emerges as Netanyahu’s leading election challenger"
-    },
-    {
-      "title": "Nearly 1,000 arrested across France as police find potential weapons on protesters: officials",
-      "description": "French Interior Minister Laurent Nuñez says nearly 1,000 people were arrested as 70,000 police officers deployed across the country amid nationwide protests.",
-      "url": "https://www.foxnews.com/world/nearly-1000-arrested-across-france-police-find-potential-weapons-protestors",
-      "published": "Sat, 24 Oct 2026 13:51:56 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
@@ -812,6 +818,17 @@
       "is_ticker": false
     },
     {
+      "title": "At least 30 dead in crash between two trains in central Spain, media say",
+      "description": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 30 people on Wednesday in central Spain, according to local media.",
+      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
+      "published": "Wed, 28 Oct 2026 06:09:46 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "French Senate debates new 'rioters pay' bill",
       "description": "As thousands of French businesses grapple with the fallout from recent riots, French senators are debating a new bill aimed at making not only the perpetrators but also those belonging to the same group pay for damages. The idea of \"collective civil liability\" divides lawmakers, with opponents saying it could potentially violate people's democratic rights to protest as some might stay clear of demonstrations for fear of being in the wrong place at the wrong time.",
       "url": "https://www.france24.com/en/tv-shows/business/20261028-french-senate-debates-new-rioters-pay-bill",
@@ -821,20 +838,6 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "A tornado rips through a construction site in Turkey, killing 4 workers",
-      "description": "A tornado has hit a construction site in Antalya, Turkey, killing four workers and injuring another",
-      "url": "https://abcnews.com/International/wireStory/tornado-rips-construction-site-turkey-killing-4-workers-137597877",
-      "published": "Tue, 27 Oct 2026 08:27:43 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ A tornado rips through a construction site in Turkey, killing 4 workers"
     },
     {
       "title": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
@@ -924,17 +927,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ India news: Cyclone Arnab turns deadly after landfall"
-    },
-    {
-      "title": "Hundreds of troops sent to deal with anti-immigration protests",
-      "description": "More than 500 soldiers have been sent to deal with anti-migrant protests in South Africa, the country's government has said.",
-      "url": "https://news.sky.com/story/south-africa-more-than-500-troops-sent-to-deal-with-anti-immigration-protests-in-kwazulu-natal-13604332",
-      "published": "Tue, 27 Oct 2026 11:09:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
@@ -1094,17 +1086,6 @@
       "is_ticker": false
     },
     {
-      "title": "At least 10 dead in crash between 2 trains in Spain",
-      "description": "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 10 people on Wednesday in central Spain, authorities said.",
-      "url": "https://www.npr.org/2026/10/28/nx-s1-6020217/spain-train-disaster",
-      "published": "Wed, 28 Oct 2026 06:09:46 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine",
       "description": "Finland and Norway have called Putin about ending the Ukraine war, drawing Danish criticism. The dispute highlights divisions over European engagement with Moscow ahead of planned US-led peace talks.",
       "url": "https://www.dw.com/en/denmark-s-frederiksen-criticizes-finland-and-norway-for-calling-putin-without-coordinating-with-allies-despite-consultation-with-ukraine/a-79776208?maca=en-rss-en-all-1573-xml-mrss",
@@ -1119,17 +1100,6 @@
       "ticker_label": "🪖 Denmark's Frederiksen criticizes Finland and Norway for calling Putin without coordinating with allies, despite consultation with Ukraine"
     },
     {
-      "title": "Israel election: Netanyahu and Eisenkot battle to form government after deadlock",
-      "description": "Israeli Prime Minister Benjamin Netanyahu and rival Gadi Eisenkot on Wednesday both pledged to form a government after an election left neither bloc with a parliamentary majority. Record voter turnout followed a divisive campaign dominated by the October 7, 2023 attack, while Arab Israeli parties made significant gains.",
-      "url": "https://www.france24.com/en/middle-east/20261027-israel-election-record-turnout-netanyahu-eisenkot-deadlock",
-      "published": "Tue, 27 Oct 2026 22:58:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Zookeeper dies after leopard attack",
       "description": "A woman has died after being attacked by a leopard at the safari park where she spent almost her entire 40-year career.",
       "url": "https://news.sky.com/story/zookeeper-dies-after-being-attacked-by-leopard-13604687",
@@ -1142,6 +1112,28 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Zookeeper dies after leopard attack"
+    },
+    {
+      "title": "Islamic militants kill at least 20 Somali soldiers in ambush, officer says",
+      "description": "A Somali military officer says Islamic extremist militants killed more than 20 soldiers in an ambush, with others still unaccounted for",
+      "url": "https://abcnews.com/International/wireStory/islamic-militants-kill-20-somali-soldiers-ambush-officer-137631631",
+      "published": "Wed, 28 Oct 2026 04:09:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "South Africa's Ramaphosa orders 510 soldiers to KwaZulu-Natal after asylum ruling violence",
+      "description": "South African President Cyril Ramaphosa has authorized the deployment of 510 soldiers to KwaZulu-Natal following recent violence in Durban over a court ruling on asylum seekers",
+      "url": "https://abcnews.com/International/wireStory/south-africas-ramaphosa-orders-510-soldiers-kwazulu-natal-137604272",
+      "published": "Tue, 27 Oct 2026 10:51:29 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Road rage victim’s utility worker ‘brothers’ face off with hedge fund driver indicted in murder case",
@@ -1170,6 +1162,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Multi-state manhunt underway as murder victim's close friend fears escaped killer could strike again"
+    },
+    {
+      "title": "Spain high-speed train crash kills at least 10",
+      "description": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 10 people on Wednesday.",
+      "url": "https://www.foxnews.com/world/spain-high-speed-train-crash-deaths",
+      "published": "Wed, 28 Oct 2026 07:08:48 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Netanyahu gains overnight as Israel election heads toward political deadlock",
@@ -1429,6 +1432,17 @@
       "is_ticker": false
     },
     {
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "description": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
+      "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "published": "Wed, 28 Oct 2026 07:28:55 -0400",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
       "description": "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.",
       "url": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
@@ -1479,11 +1493,36 @@
       "is_ticker": false
     },
     {
+      "title": "Real Madrid apologise to China over Mbappé's Mao Zedong comments",
+      "description": "Real Madrid apologised to the Chinese people on Wednesday after star striker Kylian Mbappé sparked a furious backlash over comments referring to the founding leader of Communist China as a dictator. The club's apology came a day after Mbappé and Spain's La Liga football championship expressed regret over the comments.",
+      "url": "https://www.france24.com/en/asia-pacific/20261028-real-madrid-apologise-to-china-over-mbapp%C3%A9-s-mao-zedong-comments",
+      "published": "Wed, 28 Oct 2026 06:00:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Real Madrid apologise to China over Mbappé's Mao Zedong comments"
+    },
+    {
       "title": "King Charles confronts calls for slavery apology during Caribbean tour",
       "description": "King Charles III began a Caribbean tour in the Bahamas on Tuesday, acknowledging “the great suffering of the past” amid calls for an apology over slavery. The 77-year-old monarch, who is undergoing cancer treatment, will also visit Guyana and Antigua and Barbuda, highlighting climate threats and attending a Commonwealth summit with Queen Camilla.",
       "url": "https://www.france24.com/en/americas/20261027-king-charles-slavery-apology-caribbean-tour",
       "published": "Tue, 27 Oct 2026 23:14:34 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Panel finds that 37 suspected illegal miners suffocated in overcrowded cell in Nigeria",
+      "description": "A Nigerian government investigation panel has found that 37 suspected illegal miners suffocated in an overcrowded cell last month",
+      "url": "https://abcnews.com/International/wireStory/panel-finds-37-suspected-illegal-miners-suffocated-overcrowded-137611329",
+      "published": "Tue, 27 Oct 2026 14:55:08 -0400",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1502,17 +1541,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Tanzania’s jailed opposition leader ends hunger strike after meeting with his brother"
-    },
-    {
-      "title": "Panel finds that 37 suspected illegal miners suffocated in overcrowded cell in Nigeria",
-      "description": "A Nigerian government investigation panel has found that 37 suspected illegal miners suffocated in an overcrowded cell last month",
-      "url": "https://abcnews.com/International/wireStory/panel-finds-37-suspected-illegal-miners-suffocated-overcrowded-137611329",
-      "published": "Tue, 27 Oct 2026 14:55:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Netanyahu fights for political future as Israel heads to polls with Iran threat looming",
@@ -1684,6 +1712,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Israel election: There's no clear winner"
+    },
+    {
+      "title": "Burnham reignites Britain's divisive Brexit debate with his push for closer EU ties",
+      "description": "Prime Minister Andy Burnham has reignited the Brexit debate by suggesting the U.K. should seek closer ties with the European Union, and even consider rejoining",
+      "url": "https://abcnews.com/International/wireStory/burnham-reignites-britains-divisive-brexit-debate-push-closer-137606694",
+      "published": "Tue, 27 Oct 2026 12:13:50 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Brazil becomes next test for Latin America’s surging conservative movement",
@@ -1862,6 +1901,17 @@
       "is_ticker": false
     },
     {
+      "title": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
+      "description": "Pro-Palestinian activist Mahmoud Khalil returned to Columbia University for the first time since his US detention.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 11:00:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Burnham’s government unveils its first UK budget: What to expect",
       "description": "UK chancellor to present an autumn budget amid rising living costs and energy bills.",
       "url": "https://www.aljazeera.com/news/2026/10/28/burnhams-government-unveils-its-first-uk-budget-what-to-expect?traffic_source=rss",
@@ -1932,17 +1982,6 @@
       "description": "Pro-Israel lobby, AIPAC, is changing its strategy, ending candidate endorsements and direct campaign contributions.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/is-aipac-losing-its-grip-on-us-politics?traffic_source=rss",
       "published": "Wed, 28 Oct 2026 08:29:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Why the US midterms matter even if you don’t live in America",
-      "description": "From military aid and sanctions to trade and tariffs, the US midterms could shape decisions that affect millions.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/why-the-us-midterms-matter-even-if-you-dont-live-in-america?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 08:15:19 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2148,17 +2187,6 @@
       "is_ticker": false
     },
     {
-      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-      "description": "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll. And, Israelis are casting their votes in an election that could change leadership.",
-      "url": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
-      "published": "Tue, 27 Oct 2026 07:39:52 -0400",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Can we regrow damaged seagrass meadows?",
       "description": "Seagrass protects coasts, shelters thousands of species and stores CO2. But some 30% of this valuable ecosystem has disappeared since the late 19th century. Can we bring it back?",
       "url": "https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss-en-all-1573-xml-mrss",
@@ -2316,10 +2344,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope will meet with survivors of clergy abuse during upcoming trip to Latin America, Vatican says",
-      "description": "The Vatican says Pope Leo XIV will meet with survivors of clergy sexual abuse during his upcoming trip to Latin America",
-      "url": "https://abcnews.com/International/wireStory/pope-meet-survivors-clergy-abuse-upcoming-trip-latin-137609377",
-      "published": "Tue, 27 Oct 2026 12:34:29 -0400",
+      "title": "Top Vatican official says pope's cancer diagnosis a 'game-changer' for the papacy",
+      "description": "A top Vatican official says that Pope Leo XIV's lung cancer diagnosis is “a bit of a gamechanger” for the Vatican",
+      "url": "https://abcnews.com/International/wireStory/top-vatican-official-popes-cancer-diagnosis-game-changer-137615717",
+      "published": "Tue, 27 Oct 2026 16:15:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2338,54 +2366,10 @@
       "is_ticker": false
     },
     {
-      "title": "Top Vatican official says pope's cancer diagnosis a 'game-changer' for the papacy",
-      "description": "A top Vatican official says that Pope Leo XIV's lung cancer diagnosis is “a bit of a gamechanger” for the Vatican",
-      "url": "https://abcnews.com/International/wireStory/top-vatican-official-popes-cancer-diagnosis-game-changer-137615717",
-      "published": "Tue, 27 Oct 2026 16:15:50 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "German court rejects bid to end Ukrainian ex-officer's trial over Nord Stream pipeline blasts",
-      "description": "A German court has rejected a defense request to end the trial of a former Ukrainian army officer who is accused of damaging the Nord Stream gas pipelines built to carry Russian gas to Western Europe in blasts four years ago",
-      "url": "https://abcnews.com/International/wireStory/german-court-rejects-bid-end-ukrainian-officers-trial-137598323",
-      "published": "Tue, 27 Oct 2026 08:24:50 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Environmentalists celebrate Lula's reelection in Brazil",
-      "description": "Environmentalists, Indigenous groups and climate scientists are relieved after President Luiz Inácio Lula da Silva's reelection in Brazil",
-      "url": "https://abcnews.com/International/wireStory/environmentalists-celebrate-lulas-reelection-brazil-amazon-breathe-sigh-137594353",
-      "published": "Tue, 27 Oct 2026 02:44:06 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "It could be weeks or months before the winner of Israel's election is known",
-      "description": "It could be weeks or even months before we know who will be Israel’s next prime minister",
-      "url": "https://abcnews.com/International/wireStory/weeks-months-winner-israels-election-137595921",
-      "published": "Tue, 27 Oct 2026 06:24:36 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Turkish parliamentary committee approves defense pact with Saudi Arabia and Pakistan",
-      "description": "A Turkish parliamentary committee has approved a defense agreement with Saudi Arabia and Pakistan",
-      "url": "https://abcnews.com/International/wireStory/turkish-parliamentary-committee-approves-defense-pact-saudi-arabia-137602891",
-      "published": "Tue, 27 Oct 2026 10:15:07 -0400",
+      "title": "Pope will meet with survivors of clergy abuse during upcoming trip to Latin America, Vatican says",
+      "description": "The Vatican says Pope Leo XIV will meet with survivors of clergy sexual abuse during his upcoming trip to Latin America",
+      "url": "https://abcnews.com/International/wireStory/pope-meet-survivors-clergy-abuse-upcoming-trip-latin-137609377",
+      "published": "Tue, 27 Oct 2026 12:34:29 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2397,6 +2381,17 @@
       "description": "Indonesia and Singapore have agreed to work together to tackle illegal land burning, which has caused a toxic haze across Southeast Asia",
       "url": "https://abcnews.com/International/wireStory/singapore-indonesia-set-task-force-combat-haze-illegal-137603935",
       "published": "Tue, 27 Oct 2026 10:12:01 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Turkish parliamentary committee approves defense pact with Saudi Arabia and Pakistan",
+      "description": "A Turkish parliamentary committee has approved a defense agreement with Saudi Arabia and Pakistan",
+      "url": "https://abcnews.com/International/wireStory/turkish-parliamentary-committee-approves-defense-pact-saudi-arabia-137602891",
+      "published": "Tue, 27 Oct 2026 10:15:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
