@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-28T16:36:32.698632Z",
+  "last_updated": "2026-10-28T17:11:34.083172Z",
   "event_count": 222,
   "events": [
     {
@@ -80,6 +80,17 @@
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 34,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 16:45:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 32,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -563,17 +574,6 @@
       "is_ticker": false
     },
     {
-      "title": "From arrests to crackdowns, how Europe’s leaders are responding as protests rock the continent",
-      "description": "Emmanuel Macron vows rioters will pay as 70,000 police deploy across France, while Italy, Belgium and Albania face escalating protest violence.",
-      "url": "https://www.foxnews.com/world/arrests-crackdowns-how-europes-leaders-responding-protests-rock-continent",
-      "published": "Sun, 25 Oct 2026 11:24:14 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Jim Chalmers is blaming Australia’s accelerating inflation on Trump – but voters aren’t buying it",
       "description": "As next week’s all but certain rate rise looms, there is one thing we can all agree on: the end of war in the Middle East can’t come soon enough Get our daily political email , free app or daily news podcast Jim Chalmers is blaming the latest shocking inflation figures on the worsening Middle East conflict, and he has a point. The trouble is, voters aren’t buying what the treasurer is selling. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/28/jim-chalmers-is-blaming-australias-accelerating-inflation-on-trump-but-voters-arent-buying-it",
@@ -685,15 +685,18 @@
       "is_ticker": false
     },
     {
-      "title": "Photos: Spain high-speed train crash kills 30",
-      "description": "Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.",
-      "url": "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 12:46:09 +0000",
-      "source": "Al Jazeera",
+      "title": "Evacuation from Oleshky: How are preparations going?",
+      "description": "A lawyer with the Save Ukraine Foundation, Myroslava Kharchenko, told DW about what has been happening in Russian-occupied Oleshky since a temporary ceasefire brokered by Melania Trump took effect.",
+      "url": "https://www.dw.com/en/evacuation-from-oleshky-how-are-preparations-going/a-79790001?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 28 Oct 2026 17:04:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Evacuation from Oleshky: How are preparations going?"
     },
     {
       "title": "Spain: High-speed train crash kills dozens, rescue operations ongoing",
@@ -758,17 +761,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Beloved’ daredevils who scaled Empire State Building inching toward deal after proposal stunt: attorney"
-    },
-    {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "description": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 10:17:36 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
@@ -1449,17 +1441,6 @@
       "is_ticker": false
     },
     {
-      "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
-      "description": "Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 12:51:39 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
       "description": "Israeli voters turned out in record numbers, and the results remain too close to call. And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.",
       "url": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
@@ -1554,6 +1535,17 @@
       "is_ticker": false
     },
     {
+      "title": "GOP lawmakers urge Rubio to weigh visa restrictions on corrupt officials as Albania rocked by protests",
+      "description": "Two Republican Congressmen urge Marco Rubio to impose visa restrictions on corrupt Albanian officials as violent protests demand Edi Rama's resignation.",
+      "url": "https://www.foxnews.com/world/gop-lawmakers-urge-rubio-weigh-visa-restrictions-corrupt-officials-albania-rocked-protests",
+      "published": "Wed, 28 Oct 2026 12:54:42 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Netanyahu fights for political future as Israel heads to polls with Iran threat looming",
       "description": "Israel heads into a high-stakes election with Benjamin Netanyahu's political future and legacy on the line as voters weigh his security record and the continuing Iran threat.",
       "url": "https://www.foxnews.com/world/netanyahu-fights-political-future-israel-heads-polls-iran-threat-looming",
@@ -1628,6 +1620,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 27 Oct 2026 01:46:38 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ethiopia receives 12 Russian Su-35 jets, plans S-400 acquisition",
+      "description": "PM Abiy Ahmed makes announcement during a Moscow summit as Ethiopia battles armed groups in Tigray and Amhara.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/ethiopia-receives-12-russian-su-35-jets-plans-s-400-acquisition?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 16:35:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1821,6 +1824,28 @@
       "is_ticker": false
     },
     {
+      "title": "Canada-EU summit: What do both sides want, and what’s at stake?",
+      "description": "The EU has proposed to make Canada its first associate member amid tensions over US tariffs.",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/canada-eu-summit-what-do-both-sides-want-and-whats-at-stake?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 16:54:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bank of Canada raises interest rates for the first time in three years",
+      "description": "The central bank increased the key rate by a quarter point as soaring energy prices pushed up inflation.",
+      "url": "https://www.aljazeera.com/economy/2026/10/28/bank-of-canada-raises-interest-rates-for-the-first-time-in-three-years?traffic_source=rss",
+      "published": "Wed, 28 Oct 2026 16:44:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Kremlin says European countries not included in next Ukraine talks",
       "description": "The comment comes as UK and Netherlands pledge extra military support for Kyiv.",
       "url": "https://www.aljazeera.com/news/2026/10/28/kremlin-says-european-countries-not-included-in-next-ukraine-talks?traffic_source=rss",
@@ -1877,7 +1902,7 @@
     },
     {
       "title": "Flavio Bolsonaro lands in Miami after losing Brazil’s presidential election",
-      "description": "Bolsonaro and his family fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
+      "description": "Bolsonaro and his family have fled to the US amid a Brazilian Supreme Court order to surrender his passports.",
       "url": "https://www.aljazeera.com/news/2026/10/28/flavio-bolsonaro-lands-in-miami-after-losing-brazils-presidential-election?traffic_source=rss",
       "published": "Wed, 28 Oct 2026 14:32:16 +0000",
       "source": "Al Jazeera",
@@ -1913,17 +1938,6 @@
       "description": "Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe's Real.",
       "url": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
       "published": "Wed, 28 Oct 2026 12:56:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
-      "description": "One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England.",
-      "url": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss",
-      "published": "Wed, 28 Oct 2026 12:44:18 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2220,17 +2234,6 @@
       "is_ticker": false
     },
     {
-      "title": "EU proposes giving Frontex border agency new major powers",
-      "description": "The European Commission has unveiled a new plan to give Frontex more resources to ensure the return of irregular migrants, including by supporting non-EU countries. The move comes after the tragedy in Ceuta.",
-      "url": "https://www.dw.com/en/eu-proposes-giving-frontex-border-agency-new-major-powers/a-79779690?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 27 Oct 2026 17:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Arab parties ‘have woken up’: Israel's uncertain election may deliver surprise kingmakers",
       "description": "Uncertainty hung over Israel’s election Wednesday as neither Prime Minister Benjamin Netanyahu’s right-wing, religious bloc nor that of his centrist rival, Gadi Eisenkot, appeared to be heading for a majority in the Knesset. But there was a surprise: an unusually strong showing by Arab parties could make them unexpected kingmakers.",
       "url": "https://www.france24.com/en/middle-east/20261028-arab-parties-have-woken-up-israel-uncertain-election-may-deliver-surprise-kingmakers",
@@ -2355,10 +2358,10 @@
       "is_ticker": false
     },
     {
-      "title": "Court orders closure of one of Egypt's last independent media outlets, detains and fines editor",
-      "description": "A court has ordered the closure of one of Egypt’s last independent news outlets, Mada Masr, after convicting its editor-in-chief on charges of operating a website without a license",
-      "url": "https://abcnews.com/International/wireStory/court-orders-closure-egypts-independent-media-outlets-detains-137610989",
-      "published": "Tue, 27 Oct 2026 14:54:57 -0400",
+      "title": "Top Vatican official says pope's cancer diagnosis a 'game-changer' for the papacy",
+      "description": "A top Vatican official says that Pope Leo XIV's lung cancer diagnosis is “a bit of a gamechanger” for the Vatican",
+      "url": "https://abcnews.com/International/wireStory/top-vatican-official-popes-cancer-diagnosis-game-changer-137615717",
+      "published": "Tue, 27 Oct 2026 16:15:50 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2366,10 +2369,10 @@
       "is_ticker": false
     },
     {
-      "title": "Top Vatican official says pope's cancer diagnosis a 'game-changer' for the papacy",
-      "description": "A top Vatican official says that Pope Leo XIV's lung cancer diagnosis is “a bit of a gamechanger” for the Vatican",
-      "url": "https://abcnews.com/International/wireStory/top-vatican-official-popes-cancer-diagnosis-game-changer-137615717",
-      "published": "Tue, 27 Oct 2026 16:15:50 -0400",
+      "title": "Court orders closure of one of Egypt's last independent media outlets, detains and fines editor",
+      "description": "A court has ordered the closure of one of Egypt’s last independent news outlets, Mada Masr, after convicting its editor-in-chief on charges of operating a website without a license",
+      "url": "https://abcnews.com/International/wireStory/court-orders-closure-egypts-independent-media-outlets-detains-137610989",
+      "published": "Tue, 27 Oct 2026 14:54:57 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2421,10 +2424,10 @@
       "is_ticker": false
     },
     {
-      "title": "Turkish parliamentary committee approves defense pact with Saudi Arabia and Pakistan",
-      "description": "A Turkish parliamentary committee has approved a defense agreement with Saudi Arabia and Pakistan",
-      "url": "https://abcnews.com/International/wireStory/turkish-parliamentary-committee-approves-defense-pact-saudi-arabia-137602891",
-      "published": "Tue, 27 Oct 2026 10:15:07 -0400",
+      "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
+      "description": "Indonesia and Singapore have agreed to work together to tackle illegal land burning, which has caused a toxic haze across Southeast Asia",
+      "url": "https://abcnews.com/International/wireStory/singapore-indonesia-set-task-force-combat-haze-illegal-137603935",
+      "published": "Tue, 27 Oct 2026 10:12:01 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2432,10 +2435,10 @@
       "is_ticker": false
     },
     {
-      "title": "Singapore and Indonesia set up a task force to combat haze from illegal burning",
-      "description": "Indonesia and Singapore have agreed to work together to tackle illegal land burning, which has caused a toxic haze across Southeast Asia",
-      "url": "https://abcnews.com/International/wireStory/singapore-indonesia-set-task-force-combat-haze-illegal-137603935",
-      "published": "Tue, 27 Oct 2026 10:12:01 -0400",
+      "title": "Turkish parliamentary committee approves defense pact with Saudi Arabia and Pakistan",
+      "description": "A Turkish parliamentary committee has approved a defense agreement with Saudi Arabia and Pakistan",
+      "url": "https://abcnews.com/International/wireStory/turkish-parliamentary-committee-approves-defense-pact-saudi-arabia-137602891",
+      "published": "Tue, 27 Oct 2026 10:15:07 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
