@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T08:17:32.516785Z",
+  "last_updated": "2026-10-29T08:38:20.037668Z",
   "event_count": 223,
   "events": [
     {
@@ -82,6 +82,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Record heat-related deaths in 2023, WHO-partnered report finds"
+    },
+    {
+      "title": "Watch: At the scene of Spain's deadly train crash",
+      "description": "People have been killed after a Spanish high-speed train collided with another train south of the capital Madrid, making this the country's worst disaster since 2013.",
+      "url": "https://www.bbc.co.uk/news/videos/cw5ynjgy3vvgo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 16:45:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -196,6 +207,20 @@
       "severity_score": 28,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Police investigate gang links as woman, 19, dies after drive-by shooting at Brisbane pub",
+      "description": "Vana-Reese Schuster-Togiatau was injured during the shooting outside Fitzy’s Loganholme in the city’s south on Saturday Get our breaking news email , free app or daily news podcast Potential gang involvement in the fatal drive-by shooting of a 19-year-old woman is being investigated by police. Vana-Reese Schuster-Togiatau, from Jimboomba, was hit in the head and neck when masked gunmen opened fire into a crowd outside Fitzy’s Loganholme, a pub in Brisbane’s south, on Saturday night. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb",
+      "published": "Thu, 29 Oct 2026 08:14:40 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Police investigate gang links as woman, 19, dies after drive-by shooting at Brisbane pub"
     },
     {
       "title": "Spain reckons with 2nd deadly train crash of the year ahead of national election",
@@ -359,20 +384,6 @@
       "ticker_label": "🪖 Sudan paramilitary drone strikes cause mass power cuts in eastern states"
     },
     {
-      "title": "Woman, 19, dies after masked gunmen opened fire outside Brisbane pub",
-      "description": "Vana-Reese Schuster-Togiatau was injured during a drive-by shooting outside Fitzy’s Loganholme in the city’s south on Saturday Get our breaking news email , free app or daily news podcast A 19-year-old woman who was on a night out with friends has died after a drive-by shooting that left three other people injured. Vana-Reese Schuster-Togiatau, from Jimboomba, was hit in the head and neck when masked gunmen opened fire into a crowd outside Fitzy’s Loganholme, a pub in Brisbane’s south, on Saturday night. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/29/woman-19-dies-after-masked-gunmen-opened-fire-outside-brisbane-pub-ntwnfb",
-      "published": "Thu, 29 Oct 2026 07:11:36 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Woman, 19, dies after masked gunmen opened fire outside Brisbane pub"
-    },
-    {
       "title": "Spain’s 4 deadly train crashes this year, at a glance",
       "description": "Wednesday’s collision between two high-speed trains in central Spain was the second fatal crash in nine months on a network long held up as a national success story",
       "url": "https://abcnews.com/International/wireStory/spains-4-deadly-train-crashes-year-glance-137642086",
@@ -406,17 +417,6 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "US man gets 30-year sentence for Minnesota fraud that drew Trump backlash",
-      "description": "Government says Salim Said hit the jackpot in a scheme claiming to feed needy children during the COVID-19 pandemic.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/30-year-sentence-in-minnesota-fraud-that-drew-trump-backlash?traffic_source=rss",
-      "published": "Thu, 29 Oct 2026 03:00:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
       "is_ticker": false
     },
     {
@@ -1081,17 +1081,6 @@
       "is_ticker": false
     },
     {
-      "title": "Norway and Finland leaders hold rare call with Putin",
-      "description": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 18:28:23 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "El Salvador pledges more than 2,000 soldiers as Haiti delays elections",
       "description": "El Salvador troops to support rescue mission to find four UN-backed soldiers who disappeared after ambush.",
       "url": "https://www.aljazeera.com/news/2026/10/29/el-salvador-pledges-more-than-2000-soldiers-as-haiti-delays-elections?traffic_source=rss",
@@ -1143,7 +1132,7 @@
     },
     {
       "title": "EU backs away from offer to Canada to start ‘associate member’ talks",
-      "description": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between members states just as an EU-Canada summit was set to begin in Montreal. A draft of a joint statement to be issued after the end of the summit, which runs Thursday and Friday, showed a watered-down version offering “an ever closer association of Canada to the EU, short of full membership itself”. Continue reading...",
+      "description": "Watered-down version of statement to be issued at end of Montreal summit instead offers ‘ever closer association’ The EU has backed away from its offer to Canada to start talks on becoming an “associate member” after disagreements between member states just as an EU-Canada summit was set to begin in Montreal. A draft of a joint statement to be issued after the end of the summit, which runs Thursday and Friday, showed a watered-down version offering “an ever closer association of Canada to the EU, short of full membership itself”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/oct/28/european-union-canada",
       "published": "Wed, 28 Oct 2026 21:27:33 GMT",
       "source": "The Guardian World",
@@ -1186,8 +1175,8 @@
       "is_ticker": false
     },
     {
-      "title": "League Cup: Liverpool edges Chelsea in penalty shoot-out",
-      "description": "Liverpool reached the League Cup quarter-finals after eliminating Chelsea on penalties (6-5), following a 1-1 draw. Wesley Fofana sealed the Blues’ exit by sending his spot-kick well over the bar. Another French defender at Chelsea, Maxence Lacroix, went off injured before half-time, a week before the France squad is announced.",
+      "title": "League Cup: Liverpool edge Chelsea in penalty shoot-out",
+      "description": "Liverpool reached the League Cup quarter-finals after eliminating Chelsea on penalties (6-5), following a 1-1 draw. Wesley Fofana sealed the Blues' exit by sending his spot-kick well over the bar. Another French defender at Chelsea, Maxence Lacroix, went off injured before half-time, a week before the France squad is announced.",
       "url": "https://www.france24.com/en/tv-shows/sports/20261029-league-cup-liverpool-edges-chelsea-in-penalty-shoot-out",
       "published": "Thu, 29 Oct 2026 06:08:31 GMT",
       "source": "France24",
@@ -1198,7 +1187,7 @@
     },
     {
       "title": "EU natural gas prices top €100 for first time since 2022",
-      "description": "As winter approaches, the price of European natural gas topped €100 / megawatt hour, its highest level since 2022. The EU says it's not worried about supplies, although its storage facilities are only 72% full, but warns households of a 'difficult' season to come. Also in the show - the UK government tries to cushion the impact of high energy bills, and 200 passengers are stranded in Cambodia after their multi-year cruise was cancelled because of high fuel costs.",
+      "description": "As winter approaches, the price of European natural gas topped €100 per megawatt hour, its highest level since 2022. The EU says it's not worried about supplies, although its storage facilities are only 72 percent full, but warns households of a \"difficult\" season to come. Also in the show: the UK government tries to cushion the impact of high energy bills, and 200 passengers are stranded in Cambodia after their multi-year cruise was cancelled because of high fuel costs.",
       "url": "https://www.france24.com/en/tv-shows/business/20261028-eu-natural-gas-prices-top-%E2%82%AC100-for-first-time-since-2022",
       "published": "Wed, 28 Oct 2026 22:02:12 GMT",
       "source": "France24",
@@ -1375,6 +1364,28 @@
       "is_ticker": false
     },
     {
+      "title": "Watch: King dances in the streets of the Bahamas capital",
+      "description": "The monarch is in the Bahamas as part of a tour of the Caribbean during which he addressed the \"great suffering of the past\".",
+      "url": "https://www.bbc.co.uk/news/videos/cm87zwe3ydp1o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 20:44:10 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel's election result is messy - here's why",
+      "description": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell.",
+      "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 28 Oct 2026 14:26:24 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Judge rejects Trump effort to block California ‘noncitizen’ ballots",
       "description": "More than 100 subpoenas issued across 13 states as government ramps up search for alleged noncitizen voters.",
       "url": "https://www.aljazeera.com/news/2026/10/29/judge-rejects-trump-effort-to-block-california-noncitizen-ballots?traffic_source=rss",
@@ -1525,6 +1536,20 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "‘I held this woman in my arms. She died’: Spain mourns train crash victims",
+      "description": "Second tragedy on line in about nine months raises questions about levels of investment in railway maintenance.",
+      "url": "https://www.aljazeera.com/news/2026/10/29/i-held-this-woman-in-my-arms-she-died-spain-mourns-train-crash-victims?traffic_source=rss",
+      "published": "Thu, 29 Oct 2026 08:20:34 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 ‘I held this woman in my arms. She died’: Spain mourns train crash victims"
     },
     {
       "title": "Europe’s wealth gap: Older households eight times richer than young ones",
@@ -1929,22 +1954,22 @@
       "is_ticker": false
     },
     {
-      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
-      "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
-      "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 28 Oct 2026 04:32:36 GMT",
-      "source": "BBC News",
+      "title": "Bayern celebrate Kane’s Ballon d’Or, Kompany’s discharge with Magdeburg win",
+      "description": "Harry Kane gets a guard of honour before the match in Munich; Vincent Kompany out of hospital after collapsing on pitch.",
+      "url": "https://www.aljazeera.com/sports/2026/10/29/bayern-celebrate-kanes-ballon-dor-kompany-discharge-with-magdeburg-win?traffic_source=rss",
+      "published": "Thu, 29 Oct 2026 08:25:40 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
     },
     {
-      "title": "Dutch zookeeper dies after being mauled by leopard",
-      "description": "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.",
-      "url": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 27 Oct 2026 19:30:37 GMT",
-      "source": "BBC News",
+      "title": "‘Economic incentives are limited’: What does Russia really offer Africa?",
+      "description": "African nations weigh political incentives as Moscow offers limited economic benefits compared with China and the West.",
+      "url": "https://www.aljazeera.com/features/2026/10/29/wagners-shadow-looms-as-russia-reshapes-african-military-alliances?traffic_source=rss",
+      "published": "Thu, 29 Oct 2026 08:14:34 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2037,31 +2062,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Incredible celebrations as last patient leaves a DRC Ebola centre",
-      "description": "Footage shows healthcare workers celebrating at an Ebola treatment centre in DR Congo after the last patient left.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/incredible-celebrations-as-last-patient-leaves-a-drc-ebola-centre?traffic_source=rss",
-      "published": "Thu, 29 Oct 2026 03:39:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Activists accuse Israeli settlers of assault in occupied West Bank",
-      "description": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
-      "published": "Thu, 29 Oct 2026 03:12:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Activists accuse Israeli settlers of assault in occupied West Bank"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
