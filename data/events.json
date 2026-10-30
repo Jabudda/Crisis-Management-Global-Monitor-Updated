@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T01:40:17.779174Z",
+  "last_updated": "2026-10-30T02:17:50.247967Z",
   "event_count": 223,
   "events": [
     {
@@ -313,7 +313,7 @@
     },
     {
       "title": "Antisemitism envoy proposes ‘external ombudsman’ to monitor ABC and SBS coverage of Israel and Middle East",
-      "description": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ Get our breaking news email , free app or daily news podcast The federal government’s anti-semitism envoy has proposed an “external independent ombudsman” to monitor ABC and SBS coverage of the war in Gaza and a requirement that all visa applicants be screened for “the risk of holding antisemitic views”. In an updated plan released on Friday , Jillian Segal said Australia’s two public broadcasters should be subjected to greater oversight. Continue reading...",
+      "description": "Jillian Segal says perception of link between coverage of conflicts and hostility towards Jewish Australians ‘is itself a matter of public importance’ Get our breaking news email , free app or daily news podcast The federal government’s antisemitism envoy has proposed an “external independent ombudsman” to monitor ABC and SBS coverage of the war in Gaza, and a requirement that all visa applicants be screened for “the risk of holding antisemitic views”. In an updated plan released on Friday , Jillian Segal said Australia’s two public broadcasters should be subjected to greater oversight. Continue reading...",
       "url": "https://www.theguardian.com/media/2026/oct/30/jillian-segal-antisemitism-envoy-plan-report-priorities-ntwnfb",
       "published": "Fri, 30 Oct 2026 00:37:36 GMT",
       "source": "The Guardian World",
@@ -360,6 +360,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Spain reckons with second deadly train crash of the year ahead of national election",
+      "description": "Spain faces fresh concerns about rail safety after a second high-speed train crash this year killed 69 people",
+      "url": "https://abcnews.com/International/wireStory/spain-reckons-deadly-train-crash-year-ahead-national-137663716",
+      "published": "Thu, 29 Oct 2026 07:41:54 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Spain reckons with second deadly train crash of the year ahead of national election"
     },
     {
       "title": "Four in five domestic workers lack formal job protections, UN finds",
@@ -423,6 +437,17 @@
       "is_ticker": false
     },
     {
+      "title": "El Niño-driven drought in Papua New Guinea a ‘national crisis’ as rivers dry up and local farms fail",
+      "description": "As many as 8 million people have been affected by food shortages, electricity blackouts and health clinic closures Extreme drought driven by an historic El Niño is affecting as many as 8 million people in Papua New Guinea, causing a cascade of issues from shortages of food and water, to electricity scarcity and schooling disruption. An influential coalition that includes churches, trade unions and business groups has said the Pacific nation is in the midst of a “national crisis”, but there appears to be “no coordinated plan to protect vulnerable communities from the worsening impacts of El Niño.” Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/oct/30/png-el-nino-drought-papua-new-guinea",
+      "published": "Fri, 30 Oct 2026 01:45:56 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Security Council LIVE: Women and girls face greater dangers in war",
       "description": "From Gaza to Yemen, women and girls are facing ever greater dangers this year simply surviving in war zones. The Security Council meets Tuesday to debate the best way to improve security for women caught up in conflict.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168684",
@@ -479,20 +504,6 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game",
-      "description": "Bereaved families have urged the publisher of Call of Duty: Modern Warfare 4 to remove a clip from the game that shows a figure performing CPR and bodies lying in the street Bereaved families in South Korea have demanded that the makers of Call of Duty remove harrowing footage of the deadly 2022 Seoul crowd crush from the latest instalment of the video game. The clips , which are seconds-long, appear in the opening moments of Call of Duty: Modern Warfare 4 , and are used to represent a scenario of civilian casualties during a fictional North Korean invasion. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/oct/29/call-of-duty-seoul-crowd-crush-video-footage",
-      "published": "Thu, 29 Oct 2026 04:41:41 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Outcry after Call of Duty maker uses real footage of deadly Seoul crowd crush in new video game"
     },
     {
       "title": "French shooting suspect deliberately targeted Muslims, Africans",
@@ -659,15 +670,18 @@
       "is_ticker": false
     },
     {
-      "title": "A helicopter with the EU force in Bosnia crashes, reportedly killing 3 and injuring 12",
-      "description": "A Italian helicopter of the European Union peacekeeping force in Bosnia has crashed in the country’s north",
-      "url": "https://abcnews.com/International/wireStory/helicopter-eu-force-bosnia-crashes-reportedly-killing-3-137682187",
-      "published": "Thu, 29 Oct 2026 14:55:59 -0400",
+      "title": "North Korea fires missile barrage toward the sea as tensions with South rise",
+      "description": "South Korea says North Korea has launched a barrage of ballistic missiles toward the sea",
+      "url": "https://abcnews.com/International/wireStory/north-korea-fires-missile-barrage-sea-tensions-south-137662901",
+      "published": "Thu, 29 Oct 2026 02:44:36 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 North Korea fires missile barrage toward the sea as tensions with South rise"
     },
     {
       "title": "Families hold out hope for loved ones missing after deadly Spain train crash",
@@ -1139,28 +1153,6 @@
       "ticker_label": "🪖 India increases growth forecast for fiscal year"
     },
     {
-      "title": "An 8-year-old girl was attacked by a wolf in a German zoo",
-      "description": "An 8-year-old girl was attacked by at least one wolf inside a German zoo’s enclosure and suffered serious injuries",
-      "url": "https://abcnews.com/International/wireStory/8-year-girl-attacked-wolf-german-zoo-137666439",
-      "published": "Thu, 29 Oct 2026 05:45:15 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "South Korean prosecutor seeks death penalty for ex-President Yoon",
-      "description": "A South Korean special prosecutor has demanded the death penalty for ousted President Yoon Suk Yeol",
-      "url": "https://abcnews.com/International/wireStory/south-korean-prosecutor-seeks-death-penalty-president-yoon-137665535",
-      "published": "Thu, 29 Oct 2026 11:10:38 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance",
       "description": "Canadian Prime Minister Mark Carney has called Canada “the most European of non-European countries” early in President Donald Trump’s trade war",
       "url": "https://abcnews.com/International/wireStory/carney-hosts-eu-leaders-trump-pushes-canada-europe-137664172",
@@ -1173,6 +1165,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Carney hosts EU leaders as Trump pushes Canada toward Europe, but membership label faces resistance"
+    },
+    {
+      "title": "An 8-year-old girl was attacked by a wolf in a German zoo",
+      "description": "An 8-year-old girl was attacked by at least one wolf inside a German zoo’s enclosure and suffered serious injuries",
+      "url": "https://abcnews.com/International/wireStory/8-year-girl-attacked-wolf-german-zoo-137666439",
+      "published": "Thu, 29 Oct 2026 05:45:15 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Woman shot outside Virginia GOP headquarters in Richmond, party confirms",
@@ -1330,10 +1333,10 @@
       "is_ticker": false
     },
     {
-      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
-      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
-      "url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812",
-      "published": "Thu, 29 Oct 2026 16:23:33 -0400",
+      "title": "Polish opposition leader floats EU exit talks to force reforms",
+      "description": "Poland's main opposition leader, Jarosław Kaczyński, suggests that countries led by nationalist parties could negotiate leaving the European Union",
+      "url": "https://abcnews.com/International/wireStory/polish-opposition-leader-floats-eu-exit-talks-force-137678181",
+      "published": "Thu, 29 Oct 2026 11:45:15 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1341,10 +1344,10 @@
       "is_ticker": false
     },
     {
-      "title": "Polish opposition leader floats EU exit talks to force reforms",
-      "description": "Poland's main opposition leader, Jarosław Kaczyński, suggests that countries led by nationalist parties could negotiate leaving the European Union",
-      "url": "https://abcnews.com/International/wireStory/polish-opposition-leader-floats-eu-exit-talks-force-137678181",
-      "published": "Thu, 29 Oct 2026 11:45:15 -0400",
+      "title": "King Charles III arrives in Guyana as part of official nine-day Caribbean trip",
+      "description": "King Charles III has landed in the South American country of Guyana, a former British colony that was the site of one of the biggest slave revolts in the Caribbean during the colonial era",
+      "url": "https://abcnews.com/International/wireStory/king-charles-iii-arrives-guyana-part-official-day-137684812",
+      "published": "Thu, 29 Oct 2026 16:23:33 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1361,20 +1364,6 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Aid mission set to enter Oleshky as a localized Russia-Ukraine truce holds for a third day",
-      "description": "Humanitarian aid is set to arrive in Oleshky, Ukraine, on Friday as a localized ceasefire between Russia and Ukraine continues for a third day",
-      "url": "https://abcnews.com/International/wireStory/aid-mission-set-enter-oleshky-localized-russia-ukraine-137667797",
-      "published": "Thu, 29 Oct 2026 07:41:11 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Aid mission set to enter Oleshky as a localized Russia-Ukraine truce holds for a third day"
     },
     {
       "title": "General Assembly weighs US embargo against Cuba ahead of 34th vote",
@@ -1580,6 +1569,20 @@
       "severity_score": 4,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "US and Japan agree to establish missile-production facility",
+      "description": "The United States and Japan have agreed to establish a Japanese facility for the joint production of advanced medium-range air-to-air missiles, the Japanese defense chief said",
+      "url": "https://abcnews.com/International/wireStory/us-japan-long-alarmed-chinas-aggression-agree-establish-137659559",
+      "published": "Wed, 28 Oct 2026 20:10:51 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US and Japan agree to establish missile-production facility"
     },
     {
       "title": "Trump administration renews bid to block Alaska election results",
@@ -2122,10 +2125,10 @@
       "is_ticker": false
     },
     {
-      "title": "Study of 100,000 Australians seeks causes of mental health disorders and early onset cancer",
-      "description": "Sax Institute is recruiting for 18 and Up, an intergenerational study of wellbeing and ageing that follows its landmark 45 and Up study Get our breaking news email , free app or daily news podcast Researchers hope to better understand the drivers of major health challenges facing younger people, such as mental illness and rising cancer rates, through the recruitment of 100,000 people for Australia’s largest intergenerational study of wellbeing and ageing. The independent and not-for-profit research institute the Sax Institute on Thursday launched the 18 and Up study, which will follow the health of those aged 18 to 45 throughout their lives. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/30/study-of-100000-australians-seeks-causes-of-mental-health-disorders-and-early-onset-cancer",
-      "published": "Thu, 29 Oct 2026 14:00:48 GMT",
+      "title": "Former Sydney childcare worker Ashley Paul Griffith hit with 202 more abuse charges",
+      "description": "NSW police say charges include child rape and relate to 23 alleged victims aged between one and five at an inner Sydney childcare centre One of Australia’s most notorious paedophiles is facing hundreds more child abuse charges, including for the alleged rape of children as young as one. Days after being extradited from Queensland to NSW, Ashley Paul Griffith, 48, was hit with 202 charges dating from between 2014 and 2017, with police labelling the allegations “deeply disturbing”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/oct/30/ashley-paul-griffith-queensland-paedophile-childcare-worker-additional-charges-ntwnfb",
+      "published": "Fri, 30 Oct 2026 02:01:55 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2392,6 +2395,17 @@
       "is_ticker": false
     },
     {
+      "title": "Oxygen cylinder explodes inside ambulance, killing at least 10 in Pakistan",
+      "description": "Officials say an oxygen cylinder exploded inside a parked ambulance at a government-run medical facility in southern Pakistan, killing at least 10 people, including a patient of the facility",
+      "url": "https://abcnews.com/International/wireStory/oxygen-cylinder-explodes-inside-ambulance-killing-10-pakistan-137665540",
+      "published": "Thu, 29 Oct 2026 07:42:35 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs",
       "description": "Haiti’s government has announced new election dates as police and soldiers, backed by over 2,000 troops from El Salvador, fight gangs",
       "url": "https://abcnews.com/International/wireStory/haiti-announces-new-election-dates-2000-salvadoran-troops-137674662",
@@ -2414,32 +2428,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo XIV's Argentina visit brings renewed scrutiny of clergy abuse scandals",
-      "description": "Pope Leo XIV’s visit to Argentina comes amid allegations of sexual abuse and other crimes involving Catholic clergy and lay members",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xivs-argentina-visit-brings-renewed-scrutiny-137667871",
-      "published": "Thu, 29 Oct 2026 07:41:08 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Volkswagen posts $6.5 billion quarterly loss as China slump, Porsche writedown weigh on bottom line",
       "description": "Volkswagen has posted a $6.5 billion after-tax loss for the July-September quarter",
       "url": "https://abcnews.com/International/wireStory/volkswagen-posts-65-billion-quarterly-loss-china-slump-137666348",
       "published": "Thu, 29 Oct 2026 07:42:30 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Oxygen cylinder explodes inside ambulance, killing at least 10 in Pakistan",
-      "description": "Officials say an oxygen cylinder exploded inside a parked ambulance at a government-run medical facility in southern Pakistan, killing at least 10 people, including a patient of the facility",
-      "url": "https://abcnews.com/International/wireStory/oxygen-cylinder-explodes-inside-ambulance-killing-10-pakistan-137665540",
-      "published": "Thu, 29 Oct 2026 07:42:35 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2459,6 +2451,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Cuauhtémoc Cárdenas, historic Mexican politician and former presidential candidate, dies at 92"
+    },
+    {
+      "title": "Pope Leo XIV's Argentina visit brings renewed scrutiny of clergy abuse scandals",
+      "description": "Pope Leo XIV’s visit to Argentina comes amid allegations of sexual abuse and other crimes involving Catholic clergy and lay members",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-xivs-argentina-visit-brings-renewed-scrutiny-137667871",
+      "published": "Thu, 29 Oct 2026 07:41:08 -0400",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Afghanistan opium production jumps fivefold as farmers find ways round Taliban ban",
