@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-30T03:15:35.660106Z",
+  "last_updated": "2026-10-30T03:37:17.953551Z",
   "event_count": 222,
   "events": [
     {
@@ -281,6 +281,17 @@
       "url": "https://www.bbc.co.uk/news/articles/ck0e075n79j5o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 29 Oct 2026 06:24:56 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Binance says $6.3bn stolen in biggest crypto heist in history",
+      "description": "World's largest crypto exchange says initial investigation suggests attacker exploited compromised laptop.",
+      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 00:29:24 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical",
@@ -695,15 +706,18 @@
       "ticker_label": "🌪️ WATCH: Phoenix bank employees rescue food vendor during severe Arizona storm in viral video"
     },
     {
-      "title": "Binance says $3bn in crypto funds frozen amid ‘potential security issue’",
-      "description": "Binance founder says world's largest crypto exchange appears to have been hacked.",
-      "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss",
-      "published": "Fri, 30 Oct 2026 00:29:24 +0000",
+      "title": "Flash floods kill five in Syria",
+      "description": "Four children drowned while a man died after his car was caught in floodwaters.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/flash-floods-kills-five-in-syria?traffic_source=rss",
+      "published": "Fri, 30 Oct 2026 03:11:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Flash floods kill five in Syria"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -782,7 +796,7 @@
     },
     {
       "title": "Sam Wood makes fresh bail bid over domestic violence charges as court hears of ‘party lifestyle’ and alleged anger issues",
-      "description": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has heard claims that former Bachelor star Sam Wood used drugs and alcohol, engaged in a “party lifestyle” and that he “struggles with anger”, as Wood makes a second bid for bail on domestic violence charges Wood, 46, from Melbourne, has been held in custody since his arrest on 4 October at Noosa. He was initially denied bail over allegations he choked and assaulted his wife, Snezana, while the family was holidaying on the Sunshine Coast. He is charged with two domestic violence offences: assault occasioning bodily harm and strangulation in a domestic setting. Continue reading...",
+      "description": "Former Bachelor star and wellness influencer stands accused of choking and assaulting wife at Noosa in Queensland Get our breaking news email , free app or daily news podcast A Queensland court has heard claims that former Bachelor star Sam Wood used drugs and alcohol, engaged in a “party lifestyle” and that he “struggles with anger”, as Wood makes a second bid for bail on domestic violence charges Wood, 46, from Melbourne, has been held in custody since his arrest on 4 October at Noosa. He was initially denied bail over allegations he choked and assaulted his wife, Snezana Wood, while the family was holidaying on the Sunshine Coast. He is charged with two domestic violence offences: assault occasioning bodily harm and strangulation in a domestic setting. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/oct/30/sam-wood-bail-bid-court-wife-szezana-ntwnfb",
       "published": "Fri, 30 Oct 2026 02:47:58 GMT",
       "source": "The Guardian World",
@@ -1073,20 +1087,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Palestinians face growing bans from Al-Aqsa as Israel tightens control"
-    },
-    {
-      "title": "Palestinians injured, arrested in Israeli raids across West Bank",
-      "description": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel's military offensive continues.",
-      "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
-      "published": "Thu, 29 Oct 2026 20:40:03 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Palestinians injured, arrested in Israeli raids across West Bank"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1845,7 +1845,7 @@
       "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
       "description": "Xi's anti-corruption campaign has become \"an effort to consolidate and maintain authority\", observers say.",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 29 Oct 2026 12:49:17 GMT",
+      "published": "Fri, 30 Oct 2026 03:24:12 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
