@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-31T14:09:25.505405Z",
+  "last_updated": "2026-10-31T14:35:00.400457Z",
   "event_count": 219,
   "events": [
     {
@@ -720,11 +720,22 @@
       "ticker_label": "🪖 Ukraine: Oleshky residents evacuate war-ravaged city"
     },
     {
-      "title": "Live: 150 demonstrations planned across France in ‘high risk’ weekend of protests",
-      "description": "France on Saturday braced for a third weekend of protests with around 150 demonstrations planned across the country coinciding with Halloween which Interior Minister Laurent Nuñez deemed as “high risk”. Some 70,000 security personnel were deployed, as authorities sought to avert a repeat of the unrest that swept the country two weeks ago. Follow our live blog for all the latest updates.",
+      "title": "Live: Some 15,000 demonstrators taking part in protests across France",
+      "description": "Around 15,000 protesters were taking part in demonstrations across France on Saturday, according to the interior ministry, as the country braced for a third weekend of protests which Interior Minister Laurent Nuñez deemed as “high risk”. Around 70,000 security personnel were deployed, as authorities sought to avert a repeat of the unrest that swept the country two weeks ago. Follow our live blog for all the latest updates.",
       "url": "https://www.france24.com/en/france/20261031-live-france-braces-for-halloween-protests-government-vows-tough-response",
       "published": "Sat, 31 Oct 2026 05:53:27 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "DPR Korea: Isolation deepens even as the country changes, says UN rights official",
+      "description": "The Democratic People’s Republic of Korea (DPRK) is building factories and hospitals, rolling out smartphones and mobile banking, and passing new laws at an unprecedented rate. But its people are more cut off from the outside world than at any point in the country’s history.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168690",
+      "published": "Sat, 31 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -1028,8 +1039,8 @@
       "ticker_label": "🪖 Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine"
     },
     {
-      "title": "Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine",
-      "description": "Four planes transporting evacuees from the war-ravaged city have arrived in Belarus's Gomel.",
+      "title": "Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus",
+      "description": "Four planes transporting evacuees from the war-ravaged city arrived in Belarus's Gomel earlier on Saturday.",
       "url": "https://www.aljazeera.com/news/2026/10/31/hundreds-from-russian-occupied-oleshky-land-in-belarus-en-route-to-ukraine?traffic_source=rss",
       "published": "Sat, 31 Oct 2026 10:53:55 +0000",
       "source": "Al Jazeera",
@@ -1039,7 +1050,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hundreds from Russian-occupied Oleshky land in Belarus en route to Ukraine"
+      "ticker_label": "🪖 Evacuees from Russian-occupied Oleshky arrive in Ukraine via Belarus"
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1064,17 +1075,6 @@
       "is_ticker": false
     },
     {
-      "title": "'Five churches set on fire by Muslims?' Fake news by Islamophobic social media accounts",
-      "description": "Several social media accounts associated with sharing anti-immigrant views claim French Muslims were responsible for burning five churches on October 17 – the day the nation was rocked by en masse protests. But both this number and story are fictitious. The French government agency that monitors religious heritage sites confirmed only one fire in a church occured in recent days; its cause unknown.",
-      "url": "https://www.france24.com/en/france/20261030-five-churches-set-on-fire-by-muslims-fake-news-from-islamophobic-social-media-accounts",
-      "published": "Fri, 30 Oct 2026 18:37:58 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Brief truce agreed by Russia and Ukraine allows aid operation in Oleshky",
       "description": "Russian and Ukrainian officials have entered the devastated city of Oleshky following a rare ceasefire brokered by U.S. first lady Melania Trump",
       "url": "https://abcnews.com/International/wireStory/brief-truce-agreed-russia-ukraine-allows-aid-operation-137698142",
@@ -1093,17 +1093,6 @@
       "description": "From salmon spawning grounds in Canada to coral reefs in Indonesia, ecosystems around the world are being restored at an unprecedented rate.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168700",
       "published": "Thu, 29 Oct 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "DR Congo: WHO urges sustained efforts as Ebola cases top 10,000",
-      "description": "As Ebola cases in the Democratic Republic of the Congo (DRC) surpass the 10,000 mark, the World Health Organization (WHO) has underlined the need for continued efforts to contain spread of the disease.",
-      "url": "https://news.un.org/feed/view/en/story/2026/10/1168689",
-      "published": "Wed, 28 Oct 2026 12:00:00 +0000",
       "source": "UN News",
       "type": "rss",
       "severity_score": 9,
@@ -1388,6 +1377,17 @@
       "is_ticker": false
     },
     {
+      "title": "Turkey nominates former foreign minister Sinirlioglu as UN chief",
+      "description": "Turkey has nominated its former foreign minister and UN ambassador Feridun Hadi Sinirlioglu for the position of UN secretary-general, state-media reported on Saturday. The submission was officially backed by Turkish President Recep Tayyip Erdogan who has been particularly vocal in calling for reform of the UN Security Council.",
+      "url": "https://www.france24.com/en/asia-pacific/20261031-turkey-nominates-former-foreign-minister-sinirlioglu-as-un-chief",
+      "published": "Sat, 31 Oct 2026 14:28:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Flavio Bolsonaro posts video, says he fled Brazil due to ‘persecution’",
       "description": "Brazil's defeated right-wing presidential candidate Flavio Bolsonaro posted a video message on social media late Friday to declare he had fled to the US because he was a victim of 'persecution'. Bolsonaro, who lost Sunday's election runoff to President Luiz Inacio Lula da Silva, gave no details of how he left the country.",
       "url": "https://www.france24.com/en/americas/20261031-flavio-bolsonaro-posts-video-says-he-fled-brazil-due-to-persecution",
@@ -1638,6 +1638,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Man dressed as zombie allegedly stabs two in coffee shop, flees and hits robotaxi"
+    },
+    {
+      "title": "France deploys 70,000 police officers to prepare for new wave of protests on Halloween",
+      "description": "Emmanuel Macron's government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.",
+      "url": "https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween",
+      "published": "Sat, 31 Oct 2026 10:27:09 -0400",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "GOP lawmakers urge Rubio to weigh visa restrictions on corrupt officials as Albania rocked by protests",
@@ -1907,6 +1918,17 @@
       "is_ticker": false
     },
     {
+      "title": "Syria considering entry into Mecca defence pact, says foreign minister",
+      "description": "Damascus 'evaluating' whether to join the alliance that binds Turkiye, Saudi Arabia and Pakistan.",
+      "url": "https://www.aljazeera.com/news/2026/10/31/syria-considering-entry-into-mecca-defence-pact-says-foreign-minister?traffic_source=rss",
+      "published": "Sat, 31 Oct 2026 14:20:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Burnham opens door to formal apology for Britain’s slave trade",
       "description": "UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.",
       "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
@@ -1966,17 +1988,6 @@
       "description": "Criticism of Israel's captain Adam Edelman at Winter Olympics breached discrimination rules, Swiss complaints body says.",
       "url": "https://www.aljazeera.com/sports/2026/10/31/swiss-commentary-on-israeli-olympic-bobsleigh-team-termed-discriminatory?traffic_source=rss",
       "published": "Sat, 31 Oct 2026 10:49:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How Ambani’s Jio became India’s second-largest company",
-      "description": "Jio makes India’s largest-ever stock market debut, raising $3.2bn in IPO.",
-      "url": "https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company?traffic_source=rss",
-      "published": "Sat, 31 Oct 2026 10:39:15 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2585,17 +2596,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Serbia’s student movement topples Vucic’s party after 14 years, but political agenda remains unclear"
-    },
-    {
-      "title": "Israel heads into deeply divided election as Oct 7 reckoning looms: What to know",
-      "description": "Will Prime Minister Benjamin Netanyahu hold power? Israel's election becomes a referendum on Oct. 7 failures as no bloc secures a clear majority.",
-      "url": "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know",
-      "published": "Tue, 27 Oct 2026 04:00:35 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     }
   ],
   "ticker_config": {
