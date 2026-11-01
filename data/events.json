@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T19:34:52.887971Z",
+  "last_updated": "2026-11-01T20:10:02.071598Z",
   "event_count": 219,
   "events": [
     {
@@ -165,8 +165,8 @@
       "ticker_label": "🪖 Russia drone strike on Ukrainian railway station kills 13"
     },
     {
-      "title": "Shootings near 3 college communities leave 1 dead, at least 21 injured",
-      "description": "A violent Halloween across the U.S. leaves police investigating three shootings near college campuses in Indiana, Alabama and Delaware, while Dallas shootings leave four dead.",
+      "title": "Shootings near 5 college communities leave 3 dead, at least 29 injured",
+      "description": "A violent Halloween across the U.S. leaves police investigating five shootings near college campuses in Indiana, Delaware, Alabama, Illinois and Colorado, while Dallas shootings leave four dead.",
       "url": "https://www.foxnews.com/us/shootings-near-3-college-communities-leave-1-dead-least-21-injured",
       "published": "Sun, 01 Nov 2026 12:55:22 -0400",
       "source": "Fox News US",
@@ -176,7 +176,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Shootings near 3 college communities leave 1 dead, at least 21 injured"
+      "ticker_label": "🪖 Shootings near 5 college communities leave 3 dead, at least 29 injured"
     },
     {
       "title": "How crypto hacking funds isolated North Korea’s nuclear programme",
@@ -221,6 +221,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Video captures house collapsing due to Ecuador floods",
+      "description": "Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss",
+      "published": "Sun, 01 Nov 2026 19:56:47 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Video captures house collapsing due to Ecuador floods"
     },
     {
       "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
@@ -701,6 +715,17 @@
       "ticker_label": "🪖 Civilians in Ukraine's Kherson prepare for the return of war as localized ceasefire ends"
     },
     {
+      "title": "Bulgarians vote in a presidential runoff marked by regional security threats",
+      "description": "Exit polls in Bulgaria suggest that Iliana Yotova is the apparent winner in the country’s presidential runoff",
+      "url": "https://abcnews.com/International/wireStory/bulgarians-vote-presidential-runoff-marked-regional-security-threats-137744157",
+      "published": "Sun, 01 Nov 2026 13:50:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
       "description": "Each day the ceasefire in Oleshky holds means hope for civilians in the city, the UN’s top humanitarian official said, stressing that those wishing to leave must be able to do so safely and voluntarily.",
       "url": "https://news.un.org/feed/view/en/story/2026/10/1168712",
@@ -798,17 +823,6 @@
       "is_ticker": false
     },
     {
-      "title": "How social media are central to protests",
-      "description": "As we saw in that report, protesters were frustrated at being kept on the outskirts of the French capital. There are also reports of social media posts about the demonstrations being suppressed. Daniel Quinlan has more.",
-      "url": "https://www.france24.com/en/how-social-media-are-central-to-protests",
-      "published": "Sun, 01 Nov 2026 09:36:20 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "UN demands investigation into death of staff member in Houthi custody",
       "description": "A Yemeni staff member of the UN Human Rights Office has died in Houthi custody after being arbitrarily held for more ​than two years, the UN human rights chief has said.",
       "url": "https://news.sky.com/story/un-demands-investigation-into-death-of-staff-member-in-houthi-custody-13606554",
@@ -835,17 +849,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Israeli strike kills boy in Gaza as Qataris say vessel struck in Gulf, and other Mideast news"
-    },
-    {
-      "title": "Iranian leader threatens immediate response to potential attack, and other Mideast news",
-      "description": "Iran's supreme leader has threatened an immediate response to any potential attack from the U.S. or Israel",
-      "url": "https://abcnews.com/International/wireStory/iranian-leader-threatens-immediate-response-potential-attack-mideast-137731097",
-      "published": "Sat, 31 Oct 2026 12:11:41 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "‘They deserve to know the truth’: UN rights chief demands probe into staffer’s death in Houthi custody",
@@ -940,6 +943,20 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+      "description": "A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 19:48:17 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours"
     },
     {
       "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
@@ -1252,17 +1269,6 @@
       "is_ticker": false
     },
     {
-      "title": "Bulgarians vote in a presidential runoff marked by regional security threats",
-      "description": "Bulgarians are voting in a presidential runoff amid regional security threats and economic worries",
-      "url": "https://abcnews.com/International/wireStory/bulgarians-vote-presidential-runoff-marked-regional-security-threats-137744157",
-      "published": "Sun, 01 Nov 2026 01:54:19 -0400",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Netherlands coast guard rescues 38 people adrift in a rubber boat",
       "description": "Dozens of people adrift at sea in a rubber boat have been rescued off the coast of the southern Netherlands",
       "url": "https://abcnews.com/International/wireStory/netherlands-coast-guard-rescues-38-people-adrift-rubber-137734449",
@@ -1448,17 +1454,6 @@
       "ticker_label": "💥 Polish president turns plane around after 'coup' at nation’s top court"
     },
     {
-      "title": "Shops looted as German cost-of-living protests turn violent",
-      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
-      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 11:57:48 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "University of Cambridge scientist among those who died in Spanish train crash",
       "description": "Marta Shahbazi was an \"inspiring, talented and passionate scientist\", says the laboratory where she worked.",
       "url": "https://www.bbc.co.uk/news/articles/cq5ynzvkn1d8o?at_medium=RSS&at_campaign=rss",
@@ -1471,6 +1466,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 University of Cambridge scientist among those who died in Spanish train crash"
+    },
+    {
+      "title": "Shops looted as German cost-of-living protests turn violent",
+      "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+      "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Judge orders Trump administration to stop threatening US election officials",
@@ -1499,17 +1505,6 @@
       "description": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 30 Oct 2026 22:11:52 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Thousands demonstrate in Paris as protests spread across Europe",
-      "description": "More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.",
-      "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 31 Oct 2026 21:29:01 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1702,6 +1697,17 @@
       "is_ticker": false
     },
     {
+      "title": "Michigan ‘Betrayal’ & Mid Term Manouvres",
+      "description": "France 24’s Spotlight Presenter Gavin Lee assesses the last minute campaign dramas and takes an US election overview on the ‘must watch states’ alongside Professor Donald Green, Professor of Political Science at Columbia University and co-author of the definitive book ‘Get Out the Vote’, and foreign affairs analyst Laurie Dundon, who previously served in the U.S. State Department during the Clinton administration.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
+      "published": "Sun, 01 Nov 2026 19:37:52 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1793,6 +1799,17 @@
       "is_ticker": false
     },
     {
+      "title": "Arsenal go top after narrow win at Liverpool",
+      "description": "Arsenal pick up their first win at Anfield since 2012 to go three points clear of Man City",
+      "url": "https://www.aljazeera.com/sports/2026/11/1/arsenal-go-top-after-narrow-win-at-liverpool?traffic_source=rss",
+      "published": "Sun, 01 Nov 2026 19:09:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1826,6 +1843,17 @@
       "is_ticker": false
     },
     {
+      "title": "Thousands of volunteers build 108 stupas in a day in Bhutan's Gelephu Mindfulness City",
+      "description": "Buddhist masters have gathered in Gelephu, Bhutan, to witness the construction of 108 stupas in a single day",
+      "url": "https://abcnews.com/International/wireStory/thousands-volunteers-build-108-stupas-day-bhutans-gelephu-137752348",
+      "published": "Sun, 01 Nov 2026 15:03:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Holocaust educator says Mamdani could learn from UK's targeted approach to antisemitism in schools",
       "description": "Britain accepted all 27 school antisemitism recommendations, drawing a sharp contrast with New York City Mayor Zohran Mamdani's broader plan.",
       "url": "https://www.foxnews.com/world/holocaust-educator-says-mamdani-could-learn-from-uks-targeted-approach-antisemitism-schools",
@@ -1840,7 +1868,7 @@
       "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
       "description": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote.",
       "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-      "published": "Sun, 01 Nov 2026 19:17:34 GMT",
+      "published": "Sun, 01 Nov 2026 19:58:26 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1984,28 +2012,6 @@
       "description": "Belgrade's chief prosecutor says arrest of Marko Kricak 'has no link' to elections that saw Aleksandar Vucic step down.",
       "url": "https://www.aljazeera.com/news/2026/11/1/serbia-arrests-police-chief-over-abuse-of-office-allegations?traffic_source=rss",
       "published": "Sun, 01 Nov 2026 15:36:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
-      "description": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
-      "published": "Sun, 01 Nov 2026 14:26:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israel election: When will government be formed, who will lead it?",
-      "description": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.",
-      "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
-      "published": "Sun, 01 Nov 2026 14:16:14 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2380,6 +2386,17 @@
       "is_ticker": false
     },
     {
+      "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff",
+      "description": "The U.N.'s peacekeeping mission in Western Sahara has ended after 35 years due to a U.S.-Russia standoff",
+      "url": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-ends-after-35-137752621",
+      "published": "Sun, 01 Nov 2026 15:03:44 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "The UK's stance on its role in the slave trade is shifting, but reparations remain off the table",
       "description": "U.K. Prime Minister Andy Burnham has expressed openness to formally apologizing for Britain's role in the trans-Atlantic slave trade",
       "url": "https://abcnews.com/International/wireStory/uks-stance-role-slave-trade-shifting-reparations-remain-137749095",
@@ -2428,17 +2445,6 @@
       "description": "Bright orange marigolds, glowing candles, and painted faces fill Mexico's streets during the Day of the Dead celebrations",
       "url": "https://abcnews.com/International/wireStory/mexico-alive-annual-day-dead-celebrations-137733002",
       "published": "Sun, 01 Nov 2026 02:38:15 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UK PM signals the government will consider an apology for its role in the slave trade",
-      "description": "U.K. Prime Minister Andy Burnham says his government will consider apologizing for the first time for its role in the trans-Atlantic slave trade as it seeks to strengthen relations with nations in Africa and the Caribbean",
-      "url": "https://abcnews.com/International/wireStory/uk-prime-minister-signals-government-apology-role-slave-137730910",
-      "published": "Sat, 31 Oct 2026 06:24:08 -0400",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
