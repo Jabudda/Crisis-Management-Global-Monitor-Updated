@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T00:47:01.585683Z",
+  "last_updated": "2026-11-03T01:11:40.953323Z",
   "event_count": 221,
   "events": [
     {
@@ -282,20 +282,6 @@
       "is_ticker": false
     },
     {
-      "title": "Multiple people killed, others injured in shooting near California beach",
-      "description": "The Monterey County Sheriff's Office said multiple people were killed in a shooting along Jetty Road in Moss Landing shortly after midnight.",
-      "url": "https://www.foxnews.com/us/multiple-people-killed-injured-shooting-near-california-beach",
-      "published": "Mon, 02 Nov 2026 15:53:59 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Multiple people killed, others injured in shooting near California beach"
-    },
-    {
       "title": "Attacker shouting 'Allahu Akbar' killed outside Israeli Embassy in Serbia, police say",
       "description": "An assailant shouting Allahu Akbar attacked a Gendarmerie officer outside the Israeli Embassy in Belgrade before being fatally shot by the officer.",
       "url": "https://www.foxnews.com/world/attacker-shouting-allahu-akbar-killed-outside-israeli-embassy-serbia-police-say",
@@ -330,6 +316,20 @@
       "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Deadly shooting rocks California coastal community, leaving 2 dead, 2 injured",
+      "description": "Authorities are investigating what led to the deadly early-morning shooting near Moss Landing State Beach that left two people dead and two others injured.",
+      "url": "https://www.foxnews.com/us/deadly-shooting-rocks-california-coastal-community-leaving-2-dead-2-injured",
+      "published": "Mon, 02 Nov 2026 15:53:59 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 21,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Deadly shooting rocks California coastal community, leaving 2 dead, 2 injured"
     },
     {
       "title": "North Korea rejects US allegations over $6 billion Binance crypto heist",
@@ -608,20 +608,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Canada and EU announce new alliance open to like-minded countries"
-    },
-    {
-      "title": "Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material",
-      "description": "Jasper Jones writer sent multiple messages about his sexual desire for young boys, Western Australian district court hears Warning: This article contains graphic content Get our breaking news email , free app or daily news podcast The award‑winning author Craig Silvey sent multiple messages about his sexual desire for young boys and was caught with explicit images of children and adults. The young adult novelist was jailed on Monday for seven months after pleading guilty to distributing and possessing child exploitation material earlier this year. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/02/australian-author-craig-silvey-jailed-child-exploitation-material-ntwnfb",
-      "published": "Mon, 02 Nov 2026 08:01:34 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Award‑winning Australian children’s author Craig Silvey jailed over child exploitation material"
     },
     {
       "title": "How Iliana Yotova won the presidential election in Bulgaria",
@@ -1160,6 +1146,20 @@
       "ticker_label": "🪖 MAGA: Why Trump's most loyal supporters are turning against him?"
     },
     {
+      "title": "North Korea denies involvement in Binance hack, criticizes FBI probe",
+      "description": "North Korea has denied its involvement in the recent cryptocurrency heist at Binance, dismissing as “a trite provocation” a U.S. announcement that North Korean hackers were behind the incident",
+      "url": "https://abcnews.com/International/wireStory/north-korea-denies-involvement-binance-hack-criticizes-fbi-137788208",
+      "published": "Mon, 02 Nov 2026 19:56:43 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 North Korea denies involvement in Binance hack, criticizes FBI probe"
+    },
+    {
       "title": "Wyoming mom reported missing after not picking up kids; sister, police search for answers",
       "description": "Kandice Gunter's phone last pinged near Highway 387 in Natrona County after the 30-year-old mother failed to pick up her kids from Boys & Girls Club.",
       "url": "https://www.foxnews.com/us/wyoming-mom-reported-missing-not-picking-kids-sister-police-search-answers",
@@ -1393,6 +1393,17 @@
       "is_ticker": false
     },
     {
+      "title": "Man and boy arrested after One Nation volunteer allegedly attacked with baseball bat in Victoria",
+      "description": "Police confirm arrest of 37-year-old and 14-year-old boy over alleged assault outside Torquay home on Sunday night A man and boy have been arrested after a One Nation volunteer was allegedly attacked with a baseball bat outside his home on Victoria’s Surf Coast. Police on Tuesday confirmed they arrested a 37-year-old Hampton park man and a 14-year-old boy over the incident, which occurred at a Torquay home on Sunday night. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/03/one-nation-volunteer-alleged-attack-assault-torquay-victoria-ntwnfb",
+      "published": "Tue, 03 Nov 2026 00:45:06 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
       "description": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf region on edge.",
       "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
@@ -1454,6 +1465,17 @@
       "is_ticker": false
     },
     {
+      "title": "UK cyber chief says UK will face AI cyberattacks on critical infrastructure by 2028",
+      "description": "Britain’s cyber chief says the U.K. is likely to face artificial intelligence cyberattacks on its critical infrastructure by 2028",
+      "url": "https://abcnews.com/International/wireStory/uk-cyber-chief-uk-face-ai-cyberattacks-critical-137788396",
+      "published": "Mon, 02 Nov 2026 19:57:09 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Freezers at supermarkets in several European countries hit by apparent cyberattacks",
       "description": "Supermarkets in Sweden, Belgium, Luxembourg and Estonia are dealing with cyberattacks affecting their refrigeration systems",
       "url": "https://abcnews.com/International/wireStory/freezers-supermarkets-european-countries-hit-apparent-cyberattacks-137765494",
@@ -1488,17 +1510,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Photos show elaborate preparations for Thailand’s Royal Barges Procession"
-    },
-    {
-      "title": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran",
-      "description": "The United Arab Emirates hopes for a diplomatic breakthrough in Qatar-led mediations to prevent a new confrontation between the U.S. and Iran",
-      "url": "https://abcnews.com/International/wireStory/united-arab-emirates-military-solutions-offer-quick-off-137752713",
-      "published": "Sun, 01 Nov 2026 18:47:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Yemen war makes reaching assistance too dangerous for many",
@@ -1552,17 +1563,6 @@
       "description": "Sali Berisha's microphone was cut after he declared ruling lawmakers \"deserve tear gas\" as Democratic Party members lit flares inside parliament.",
       "url": "https://www.foxnews.com/world/albanian-opposition-lawmakers-disrupt-parliament-smoke-flares-furious-attacks-socialist-pm",
       "published": "Thu, 29 Oct 2026 16:04:33 -0400",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Spain high-speed railway crash kills at least 68 after train stopped on tracks",
-      "description": "A high-speed RENFE train slammed into a stopped IRYO train in Toledo province, derailing two cars and killing at least 68 people on Wednesday.",
-      "url": "https://www.foxnews.com/world/spain-high-speed-railway-crash-kills-train-stopped-tracks",
-      "published": "Wed, 28 Oct 2026 07:08:48 -0400",
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 8,
@@ -2541,17 +2541,6 @@
       "is_ticker": false
     },
     {
-      "title": "UN’s peacekeeping mission in Western Sahara ends after 35 years following US-Russia standoff",
-      "description": "The U.N.'s peacekeeping mission in Western Sahara has ended after 35 years due to a U.S.-Russia standoff",
-      "url": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-ends-after-35-137752621",
-      "published": "Sun, 01 Nov 2026 19:26:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Breaking the silence in Mexico’s barracks",
       "description": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
@@ -2612,6 +2601,17 @@
       "url": "https://www.foxnews.com/us/cult-mom-lori-vallow-wanted-him-dead-7-years-later-he-gets-last-word-surviving-doomsday-killers-plot",
       "published": "Sun, 01 Nov 2026 08:00:35 -0400",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says",
+      "description": "U.S. Special Envoy Steve Witkoff announced U.S.-mediated peace talks between Ukraine and Russia on Nov. 10 and 11, focusing on security arrangements and de-escalation.",
+      "url": "https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says",
+      "published": "Mon, 02 Nov 2026 19:47:08 -0400",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
