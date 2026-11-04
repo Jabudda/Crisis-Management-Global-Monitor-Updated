@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T04:12:32.024399Z",
+  "last_updated": "2026-11-04T04:36:01.455260Z",
   "event_count": 219,
   "events": [
     {
@@ -127,20 +127,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing"
-    },
-    {
-      "title": "‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan",
-      "description": "Intensifying drone attacks on civilian infrastructure across Sudan are disrupting electricity, water and fuel supplies, putting lives at risk and hampering the delivery of humanitarian aid, the UN’s top official in the country has warned.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168731",
-      "published": "Tue, 03 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 ‘This is not about politics. This is about people’: UN warns of impact of deadly drone strikes in Sudan"
     },
     {
       "title": "Spanish transport minister resigns days after deadly train crash",
@@ -285,6 +271,20 @@
       "is_ticker": false
     },
     {
+      "title": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+      "description": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.",
+      "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
+      "published": "Fri, 30 Oct 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UN rights office warns of deepening displacement ‘nightmare’ in Gaza"
+    },
+    {
       "title": "Russian bombing kills 31 people at Ukraine aid centre, Kyiv says",
       "description": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an \"utterly horrific\" attack.",
       "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
@@ -299,18 +299,18 @@
       "ticker_label": "💥 Russian bombing kills 31 people at Ukraine aid centre, Kyiv says"
     },
     {
-      "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
-      "description": "Iran says a 'maximum deterrence' plan is ready against any new US attack, warning of an immediate response.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
-      "published": "Wed, 04 Nov 2026 00:00:00 +0000",
-      "source": "Al Jazeera",
+      "title": "Spain's transport minister steps down 6 days after fatal high-speed rail crash",
+      "description": "Spain’s transport minister announced his resignation following a deadly train collision south of Madrid that killed 69 people",
+      "url": "https://abcnews.com/International/wireStory/spains-transport-minister-steps-6-days-after-fatal-137823144",
+      "published": "Tue, 03 Nov 2026 17:10:29 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack"
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Spain's transport minister steps down 6 days after fatal high-speed rail crash"
     },
     {
       "title": "Man, 86, and his dog rescued hundreds of miles off California coast after going silent for 2 months",
@@ -899,20 +899,6 @@
       "is_ticker": false
     },
     {
-      "title": "Heavy rain falls in eastern India after second cyclone in a week",
-      "description": "Heavy rains is falling in eastern India after the second cyclone to hit the area in a week prompted evacuations of thousands of people",
-      "url": "https://abcnews.com/International/wireStory/heavy-rain-falls-eastern-india-after-cyclone-week-137792512",
-      "published": "Tue, 03 Nov 2026 01:43:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Heavy rain falls in eastern India after second cyclone in a week"
-    },
-    {
       "title": "MICHAEL RUIZ: Idaho college massacre survivor says family moved 9 times as strangers followed them",
       "description": "University of Idaho massacre survivor Dylan Mortensen reveals she moved nine times and uses an alias to fight for privacy in the Bryan Kohberger case.",
       "url": "https://www.foxnews.com/us/michael-ruiz-idaho-college-massacre-survivor-says-family-moved-9-times-strangers-followed-them",
@@ -998,6 +984,17 @@
       "url": "https://news.sky.com/story/fifa-to-partially-release-documents-relating-to-world-cup-sell-off-plan-13605768",
       "published": "Mon, 02 Nov 2026 15:11:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "King Charles speaks to world leaders in Antigua, expresses 'sorrow' over slave trade",
+      "description": "King Charles III has called the transatlantic slave trade a “shameful chapter of history” during a speech at the official opening of the Commonwealth Heads of Government Meeting in Antigua",
+      "url": "https://abcnews.com/International/wireStory/king-charles-iii-speaks-world-leaders-antigua-expresses-137811246",
+      "published": "Tue, 03 Nov 2026 11:16:36 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1179,6 +1176,20 @@
       "is_ticker": false
     },
     {
+      "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+      "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
+      "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
+      "published": "Tue, 03 Nov 2026 20:52:44 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 North Korea launches unidentified projectile toward the sea, South Korea says"
+    },
+    {
       "title": "What to know about the crisis around Poland's Constitutional Tribunal",
       "description": "Judges at Poland’s Constitutional Tribunal are meeting to decide its future after the court president was suspended in a dispute with the government",
       "url": "https://abcnews.com/International/wireStory/crisis-polands-constitutional-tribunal-137807738",
@@ -1204,60 +1215,32 @@
       "ticker_label": "🪖 Tusk says Poland thwarted possible provocation on Kaliningrad border overnight"
     },
     {
-      "title": "European troops prepare for a postwar Ukraine mission that's fraught with challenges",
-      "description": "Thousands of European troops are set to participate in a military exercise in Poland later this month",
-      "url": "https://abcnews.com/International/wireStory/european-troops-prepare-postwar-ukraine-mission-fraught-challenges-137797096",
-      "published": "Tue, 03 Nov 2026 03:16:28 -0500",
+      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+      "description": "Indian naval forces have freed an Iranian fishing boat and its crew of 20 hijacked off Somalia",
+      "url": "https://abcnews.com/International/wireStory/indian-navy-rescues-20-crew-iranian-fishing-boat-137803504",
+      "published": "Tue, 03 Nov 2026 08:20:08 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 European troops prepare for a postwar Ukraine mission that's fraught with challenges"
+      "is_ticker": false
+    },
+    {
+      "title": "Suspected militants kill 2 police officers guarding polio workers in Pakistan",
+      "description": "Suspected militants have shot and killed two police officers protecting polio workers during a vaccination campaign in northwestern Pakistan",
+      "url": "https://abcnews.com/International/wireStory/suspected-militants-open-fire-kill-2-police-officers-137798218",
+      "published": "Tue, 03 Nov 2026 03:42:34 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
       "description": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff",
       "url": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
       "published": "Tue, 03 Nov 2026 05:50:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
-      "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
-      "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
-      "published": "Tue, 03 Nov 2026 20:52:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 North Korea launches unidentified projectile toward the sea, South Korea says"
-    },
-    {
-      "title": "UK cyber chief says UK will face AI cyberattacks on critical infrastructure by 2028",
-      "description": "Britain’s cyber chief says the U.K. is likely to face artificial intelligence cyberattacks on its critical infrastructure by 2028",
-      "url": "https://abcnews.com/International/wireStory/uk-cyber-chief-uk-face-ai-cyberattacks-critical-137788396",
-      "published": "Mon, 02 Nov 2026 19:57:09 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-      "description": "Indian naval forces have freed an Iranian fishing boat and its crew of 20 hijacked off Somalia",
-      "url": "https://abcnews.com/International/wireStory/indian-navy-rescues-20-crew-iranian-fishing-boat-137803504",
-      "published": "Tue, 03 Nov 2026 08:20:08 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1711,17 +1694,6 @@
       "is_ticker": false
     },
     {
-      "title": "Where have there been technical issues so far during US midterm elections?",
-      "description": "Some polling stations have experienced vote-delaying issues that officials describe as being minor.",
-      "url": "https://www.aljazeera.com/news/2026/11/3/where-have-there-been-technical-issues-so-far-during-us-midterm-elections?traffic_source=rss",
-      "published": "Tue, 03 Nov 2026 23:42:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1928,6 +1900,28 @@
       "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 03 Nov 2026 13:28:30 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Sherrod Brown, an Ohio Democrat, wins return to US Senate",
+      "description": "More than $450m was spent on the contest, making it one of the most expensive elections this cycle.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/sherrod-brown-an-ohio-democrat-wins-return-to-us-senate?traffic_source=rss",
+      "published": "Wed, 04 Nov 2026 04:19:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Talarico wins Texas Senate race, ending decades of Republican dominance",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/talarico-wins-texas-senate-race-ending-decades-of-republican-dominance?traffic_source=rss",
+      "published": "Wed, 04 Nov 2026 04:03:41 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2234,10 +2228,10 @@
       "is_ticker": false
     },
     {
-      "title": "US midterms: Democrats on course to flip House, Senate",
-      "description": "The Democratic Party is on course for major gains in both the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
-      "url": "https://www.dw.com/en/us-midterms-democrats-on-course-to-flip-house-senate/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 04:06:00 GMT",
+      "title": "US midterm election results: How Americans voted and what the data tells us",
+      "description": "In significant races, Americans have voted for a change in the Senate and House of Representatives. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
+      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 4 Nov 2026 04:17:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2245,10 +2239,10 @@
       "is_ticker": false
     },
     {
-      "title": "US midterm election results: How Americans voted and what the data tells us",
-      "description": "Results are starting to come in from across the US, where people voted on their next Congress. DW takes a look at who voted Republican, who voted Democrat and what it all means.",
-      "url": "https://www.dw.com/en/us-midterm-election-results-how-americans-voted-and-what-the-data-tells-us/a-79841886?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 03:51:00 GMT",
+      "title": "US midterms: Democrat Talarico wins Texas Senate seat",
+      "description": "The Democratic Party is on course for major gains in both the House and Senate, delivering a stinging rebuke to US President Donald Trump and his Republican Party. Follow DW's live updates.",
+      "url": "https://www.dw.com/en/us-midterms-democrat-talarico-wins-texas-senate-seat/live-79829440?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 4 Nov 2026 04:12:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2300,8 +2294,19 @@
       "is_ticker": false
     },
     {
+      "title": "🔴 Midterms live: Texas, Ohio, North and South Carolina... Democrats have already flipped 4 Senate seats",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/americas/20261103-live-americans-head-to-the-polls-to-vote-in-us-midterm-elections",
+      "published": "Wed, 04 Nov 2026 04:18:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Key US Senate results: Democrats wrest North and South Carolina from the Republicans",
-      "description": "Democrats need a net gain of four seats to win control of the Senate in the US midterm elections Tuesday. Initial results show the party holding onto Georgia and New Hampshire even as they win surprise victories in North and South Carolina.",
+      "description": "Democrats need a net gain of four seats to win control of the Senate in the US midterm elections Tuesday. Initial results show the party holding onto Georgia and New Hampshire even as they win surprise victories in North and South Carolina as well as Texas.",
       "url": "https://www.france24.com/en/americas/20261104-key-us-senate-results-democrats-wrest-north-and-south-carolina-from-the-republicans",
       "published": "Wed, 04 Nov 2026 03:52:19 GMT",
       "source": "France24",
@@ -2369,17 +2374,6 @@
       "is_ticker": false
     },
     {
-      "title": "US Midterms: Texas Democrat Talarico holds last rally ahead of vote",
-      "description": "Texas Democratic nominee James Talarico held a final rally Monday ahead of US midterm elections on November 3. His race against Republican Ken Paxton could determine which party holds a majority in the Senate. If Talarico wins, it will be the first time a Texas Senate seat's turned blue since 1988.",
-      "url": "https://www.france24.com/en/video/20261103-us-midterms-texas-democrat-talarico-holds-last-rally-ahead-of-vote",
-      "published": "Tue, 03 Nov 2026 16:50:55 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Spanish footballer dies after on-field collision",
       "description": "Tenerife football player Jesus de Miguel has died after suffering a cardiac arrest following an on-field collision in a match on Monday.",
       "url": "https://news.sky.com/story/tenerife-footballer-jesus-de-miguel-30-dies-after-on-field-collision-13607419",
@@ -2392,6 +2386,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Spanish footballer dies after on-field collision"
+    },
+    {
+      "title": "Indonesia detains 3 police generals suspected of wiretapping president",
+      "description": "Indonesian police have detained three senior police generals for allegedly wiretapping President Prabowo Subianto and other prominent figures",
+      "url": "https://abcnews.com/International/wireStory/indonesia-detains-3-police-generals-suspected-wiretapping-president-137815036",
+      "published": "Tue, 03 Nov 2026 12:38:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Paraguay seizes major digital bank tied to president, leaving millions in limbo",
@@ -2408,17 +2413,6 @@
       "ticker_label": "💥 Paraguay seizes major digital bank tied to president, leaving millions in limbo"
     },
     {
-      "title": "Australia's highest court hears challenges to social media ban for children",
-      "description": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media",
-      "url": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
-      "published": "Tue, 03 Nov 2026 06:46:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Collins Dictionary chooses 'mogging' as its 2026 word of the year",
       "description": "Collins Dictionary has named \"mogging\" as its word of the year",
       "url": "https://abcnews.com/International/wireStory/collins-dictionary-chooses-mogging-2026-word-year-137804839",
@@ -2430,10 +2424,10 @@
       "is_ticker": false
     },
     {
-      "title": "Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2",
-      "description": "Two helicopters have collided while trying to land just below Mount Everest’s base camp",
-      "url": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
-      "published": "Tue, 03 Nov 2026 03:19:15 -0500",
+      "title": "Afghanistan's Taliban officials will attend UN climate summit for second time",
+      "description": "Afghanistan's Taliban officials have been invited and will attend the upcoming U.N. climate summit as observers",
+      "url": "https://abcnews.com/International/wireStory/afghanistans-taliban-officials-attend-climate-summit-time-observers-137804124",
+      "published": "Tue, 03 Nov 2026 09:02:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2463,10 +2457,10 @@
       "is_ticker": false
     },
     {
-      "title": "Afghanistan's Taliban officials will attend UN climate summit for second time",
-      "description": "Afghanistan's Taliban officials have been invited and will attend the upcoming U.N. climate summit as observers",
-      "url": "https://abcnews.com/International/wireStory/afghanistans-taliban-officials-attend-climate-summit-time-observers-137804124",
-      "published": "Tue, 03 Nov 2026 09:02:23 -0500",
+      "title": "Australia's highest court hears challenges to social media ban for children",
+      "description": "Australia's highest court is hearing challenges to a law banning children younger than 16 from social media",
+      "url": "https://abcnews.com/International/wireStory/australias-highest-court-hears-challenges-social-media-ban-137798339",
+      "published": "Tue, 03 Nov 2026 06:46:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
