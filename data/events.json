@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T13:10:34.509240Z",
+  "last_updated": "2026-11-04T13:36:15.952322Z",
   "event_count": 219,
   "events": [
     {
@@ -216,6 +216,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
+      "description": "Russian attacks on critical infrastructure have caused power and water outages in Kyiv and surrounding areas that lasted hours",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
+      "published": "Wed, 04 Nov 2026 08:09:25 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south"
     },
     {
       "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
@@ -507,20 +521,6 @@
       "ticker_label": "🪖 Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia"
     },
     {
-      "title": "Why the Democrats routed the Republicans in the US midterm elections",
-      "description": "US voters on Tuesday handed the Democratic Party control over Congress in a biting rebuke to President Donald Trump and his MAGA movement. Polls suggest that rising anger about the cost-of-living crisis partly set off by the president’s decision to launch the US-Israeli war on Iran played a crucial part in the Democrats’ historic victory.",
-      "url": "https://www.france24.com/en/americas/20261104-why-the-democrats-routed-republicans-us-midterm-elections",
-      "published": "Wed, 04 Nov 2026 09:41:10 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Why the Democrats routed the Republicans in the US midterm elections"
-    },
-    {
       "title": "Haiti's prime minister Fils-Aimé speaks out as concerns over El Salvador's troops deepen",
       "description": "Haiti’s leader has spoken publicly for the first time since four Salvadoran aviation technicians went missing, prompting El Salvador to deploy more than 2,000 troops to the troubled Caribbean country as scrutiny over their operations intensifies",
       "url": "https://abcnews.com/International/wireStory/haitis-prime-minister-fils-aim-speaks-concerns-el-137821853",
@@ -611,6 +611,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 BMW warns on profits as it counts cost of plan for 8,000 job cuts"
+    },
+    {
+      "title": "Opposition growing to CAS-ordered Russia ice hockey reinstatement",
+      "description": "Ice hockey's world governing body says the impact of a court decision forcing it to reinstate Russia has been \"significantly underestimated.\" Several leading nations say they won't play against Russian teams.",
+      "url": "https://www.dw.com/en/opposition-growing-to-cas-ordered-russia-ice-hockey-reinstatement/a-79853742?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Wed, 4 Nov 2026 13:27:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "DR Congo residents sue Chinese mining giant for widespread pollution",
@@ -1252,17 +1263,6 @@
       "ticker_label": "🪖 European troops prepare for a postwar Ukraine mission that's fraught with challenges"
     },
     {
-      "title": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
-      "description": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff",
-      "url": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
-      "published": "Tue, 03 Nov 2026 05:50:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
       "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
       "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
@@ -1275,6 +1275,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 North Korea launches unidentified projectile toward the sea, South Korea says"
+    },
+    {
+      "title": "After months lost at sea on a small boat, 5 people are rescued in the island nation of Kiribati",
+      "description": "Authorities say five people, including two children, have been rescued in the South Pacific island nation of Kiribati after three months drifting at sea in a 20-foot skiff",
+      "url": "https://abcnews.com/International/wireStory/authorities-5-people-rescued-kiribati-after-3-months-137797186",
+      "published": "Tue, 03 Nov 2026 05:50:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "UK cyber chief says UK will face AI cyberattacks on critical infrastructure by 2028",
@@ -1358,9 +1369,9 @@
     },
     {
       "title": "South Africans vote in local elections that could continue decline of ANC",
-      "description": "South Africans have begun voting in local elections that are seen as an evaluation of the party that led the country out of white minority rule",
+      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
       "url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
-      "published": "Wed, 04 Nov 2026 00:29:00 -0500",
+      "published": "Wed, 04 Nov 2026 07:02:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 7,
@@ -2200,7 +2211,7 @@
     },
     {
       "title": "‘Not been this excited in a long time’: US expats ride the blue wave at Australian midterms watch parties",
-      "description": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in US midterm elections – live updates Democrats’ blue wave and a bad night for Trump: key US midterms takeaways On the second floor of a Sydney pub, the mood shifts from nervous, browser-refreshing anxiety to champagne-popping within a matter of hours. More than 100 US expats and election enthusiasts have packed into the function space at the Keg and Brew in the inner-east suburb of Surry Hills to watch the midterm results roll in. Continue reading...",
+      "description": "US voters, their Australian partners and British spectators crowd around pub TVs to watch the historic election results roll in US midterm elections – live updates Democrats’ blue wave and a bad night for Trump: key US midterms takeaways On the second floor of a Sydney pub, the mood shifts from nervous, browser-refreshing anxiety to champagne-popping within a matter of hours. More than 100 US expats and election enthusiasts have packed into the function space at the Keg and Brew in the inner-east suburb of Surry Hills to watch the midterms results roll in. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/04/not-been-this-excited-in-a-long-time-us-expats-ride-the-blue-wave-at-australian-midterms-watch-parties",
       "published": "Wed, 04 Nov 2026 09:09:31 GMT",
       "source": "The Guardian World",
@@ -2331,11 +2342,11 @@
       "is_ticker": false
     },
     {
-      "title": "How Berlin's Arab queers are building their community",
-      "description": "As the co-founder of the ADIRA Drag Festival, Lebanese performance artist, drag performer, DJ and cultural organizer Hassandra has become an essential part of Berlin's queer artistic landscape.",
-      "url": "https://www.dw.com/en/how-berlin-s-arab-queers-are-building-their-community/a-79833143?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Tue, 3 Nov 2026 14:37:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "A look back at how Trump's political decisions saw his approval rating plummet",
+      "description": "Donald Trump's unpopularity has been cited as a major factor in the Democrats' sweeping victory in the midterms. The latest polls show Trump's approval rating has plummeted to 37.3%, down from 42% in his first midterm election. What were the political decisions that led to such a dramatic decline?",
+      "url": "https://www.france24.com/en/video/20261104-a-look-back-at-how-trump-s-political-decisions-saw-his-approval-rating-plummet",
+      "published": "Wed, 04 Nov 2026 13:17:49 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2417,7 +2428,7 @@
       "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
       "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
       "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-      "published": "Wed, 04 Nov 2026 06:49:41 -0500",
+      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2443,17 +2454,6 @@
       "description": "Two helicopters have collided while trying to land just below Mount Everest’s base camp",
       "url": "https://abcnews.com/International/wireStory/helicopters-collide-below-mount-everest-base-camp-killing-137796728",
       "published": "Tue, 03 Nov 2026 03:19:15 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Detentions, resignations, probes shake Serbia after students toppled Vucic",
-      "description": "Detentions, resignations, switching of sides, attempts to destroy evidence of wrongdoing",
-      "url": "https://abcnews.com/International/wireStory/detentions-resignations-probes-shake-serbia-after-students-toppled-137800721",
-      "published": "Tue, 03 Nov 2026 09:26:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
