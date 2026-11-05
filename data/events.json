@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T19:35:19.965962Z",
+  "last_updated": "2026-11-05T20:10:48.487748Z",
   "event_count": 217,
   "events": [
     {
@@ -191,6 +191,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
+      "description": "Santiago Peña’s rightwing administration had authorised Ueno Bank to drastically expand operations before collapse Paraguay’s rightwing president, Santiago Peña, resigned on Thursday after a political and financial crisis collapsed the South American country’s banking system in recent days. At the centre of the crisis is Ueno Bank, which in just a few years under Peña went from an obscure digital bank to one of the country’s largest lenders, claiming to have about 60% of Paraguay’s adult population as customers. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns",
+      "published": "Thu, 05 Nov 2026 18:48:07 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -543,6 +554,17 @@
       "is_ticker": false
     },
     {
+      "title": "'Inhumane punishment': California governor Gavin Newsom to commute 548 death sentences",
+      "description": "California Governor Gavin Newsom on Thursday said he would commute all 548 death sentences in the state to life in prison without parole, marking a major step away from capital punishment as he prepares to leave office after eight years.",
+      "url": "https://www.france24.com/en/americas/20261105-inhumane-punishment-california-governor-gavin-newsom-to-commute-548-death-sentences",
+      "published": "Thu, 05 Nov 2026 19:59:48 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Air raid alerts and attacks on schools: the devastating face of education in Ukraine",
       "description": "Ukraine has sustained almost 2,000 attacks on education since the full-scale Russian invasion in 2022, with some 270 this year alone, the UN Children’s Fund (UNICEF) said on Tuesday, a day after a strike at a school being used to distribute aid.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168724",
@@ -776,20 +798,6 @@
       "is_ticker": false
     },
     {
-      "title": "Teen previously convicted in shooting accused of killing pregnant mom of 4 inside Spirit Halloween",
-      "description": "Monte Smith, 17, allegedly opened fire inside a Spirit Halloween store at Solano Town Center, killing pregnant mother Constance Hages and wounding six.",
-      "url": "https://www.foxnews.com/us/teen-previously-convicted-shooting-accused-killing-pregnant-mom-4-spirit-halloween",
-      "published": "Tue, 03 Nov 2026 21:24:46 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Teen previously convicted in shooting accused of killing pregnant mom of 4 inside Spirit Halloween"
-    },
-    {
       "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
       "description": "Iranian forces say five oil tankers and a tugboat have caught fire in several incidents in the Strait of Hormuz.",
       "url": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
@@ -865,20 +873,6 @@
       "is_ticker": false
     },
     {
-      "title": "Multiple flights in Europe diverted because of bomb threats after earlier hoaxes",
-      "description": "Multiple flights in Europe made emergency landings on Thursday after being diverted because of bomb threats. The incidents followed hoax bomb threats earlier this week that prompted searches, diversions and in one case a military escort.",
-      "url": "https://www.france24.com/en/video/20261105-multiple-flights-in-europe-diverted-because-of-bomb-threats-after-earlier-hoaxes",
-      "published": "Thu, 05 Nov 2026 12:52:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Multiple flights in Europe diverted because of bomb threats after earlier hoaxes"
-    },
-    {
       "title": "Spain's transport minister to resign after train crash killed 69 people",
       "description": "Spain's transport minister has said he will step down after two deadly train crashes in less than a year.",
       "url": "https://news.sky.com/story/spains-transport-minister-oscar-puente-to-resign-after-train-crash-killed-69-people-13607610",
@@ -916,6 +910,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia and Ukraine trade airstrikes as reconstruction and security talks resume"
+    },
+    {
+      "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
+      "description": "Authorities say that bomb threats have targeted more than a dozen flights in Europe, leading to a slew of emergency landings and military escorts in some cases",
+      "url": "https://abcnews.com/International/wireStory/dozen-flights-europe-receive-bomb-threats-official-calls-137869253",
+      "published": "Thu, 05 Nov 2026 14:57:53 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes"
     },
     {
       "title": "Multiple flights in Europe diverted because of bomb threats",
@@ -1109,6 +1117,17 @@
       "is_ticker": false
     },
     {
+      "title": "California governor commutes death sentences for all 548 people on death row",
+      "description": "California has historically had the largest population of death row inmates in the US.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 20:09:38 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
       "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
       "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
@@ -1217,6 +1236,17 @@
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
       "published": "Fri, 14 Apr 2023 14:29:52 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Gavin Newsom commutes sentences of all death row inmates in California",
+      "description": "Governor Gavin Newsom, a Democrat and a rumored presidential candidate, moved to commute the death sentences of 548 inmates in California for one of his last acts as governor.",
+      "url": "https://www.dw.com/en/gavin-newsom-commutes-sentences-of-all-death-row-inmates-in-california/a-79870988?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 20:04:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1403,20 +1433,6 @@
       "ticker_label": "💥 Bomb threats disrupt several flights across Europe"
     },
     {
-      "title": "Bomb threats reported on multiple flights, including two from UK airports",
-      "description": "At least seven flights, including two from the UK, have been affected by bomb threats, which caused unplanned landings and temporary airport closures.",
-      "url": "https://news.sky.com/story/bomb-threats-reported-on-multiple-flights-13607460",
-      "published": "Tue, 03 Nov 2026 12:37:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Bomb threats reported on multiple flights, including two from UK airports"
-    },
-    {
       "title": "South Africans vote in local elections that could continue decline of ANC",
       "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
       "url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
@@ -1573,6 +1589,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Hoax bomb threats target European airlines and airports for second time in a week"
+    },
+    {
+      "title": "Who could be behind hoax bomb threats to European air travel?",
+      "description": "There is no hard evidence so far linking airline bomb threats to Russia, Iran or any proxy groups.",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 19:58:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Who could be behind hoax bomb threats to European air travel?"
     },
     {
       "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
@@ -1857,6 +1887,17 @@
       "is_ticker": false
     },
     {
+      "title": "Melania Trump calls for peace at meeting with Russia, Ukraine officials",
+      "description": "US first lady hosts Russian, Ukrainian officials at the White House, urges two sides to build on recent local truce.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/melania-trump-calls-for-peace-at-meeting-with-russia-ukraine-officials?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 19:31:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1890,17 +1931,6 @@
       "is_ticker": false
     },
     {
-      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
-      "description": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:21:35 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Russell Brand is being investigated over two new rape complaints, police say",
       "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
       "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
@@ -1912,24 +1942,10 @@
       "is_ticker": false
     },
     {
-      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
-      "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
-      "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 23:12:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'"
-    },
-    {
-      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
-      "description": "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.",
-      "url": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 09:04:42 GMT",
+      "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+      "description": "The widow of ER creator Michael Crichton argues The Pitt is effectively a reboot of the 1990s series.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1r42jx00o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 11:21:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1986,6 +2002,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cm0rlxq08ejko?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 05 Nov 2026 00:30:37 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Top US civil rights official resigns",
+      "description": "New Democratic Congress expected to probe Trump Justice Department office's handling of Epstein files and ICE killings.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/top-us-civil-rights-official-resigns?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 19:48:00 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2056,31 +2083,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Russell Brand found guilty of rape and sexual assault by UK court",
-      "description": "British comedian was convicted by jury at London court of one count of rape and three counts of sexual assault.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/russell-brand-found-guilty-of-rape-and-sexual-assault-by-uk-court?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 14:43:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
-      "description": "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 14:30:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 ‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2215,20 +2217,6 @@
       "is_ticker": false
     },
     {
-      "title": "Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists",
-      "description": "Chemical tests on Aratasaurus bone identify presence of heme, the organic compound that allows haemoglobin in blood to carry oxygen around body It could be the opening of a Jurassic Park rip-off: scientists examining ancient dinosaur bones find what appear to be fossilised red blood cells, and traces of the molecule that gives the beast’s blood its distinctive crimson hue. But that is what researchers are claiming to have discovered after analysing the hind leg bones of a small, meat-eating dinosaur called an Aratasaurus that lived and died in what is now north-eastern Brazil 115m years ago. Continue reading...",
-      "url": "https://www.theguardian.com/science/2026/nov/02/fossilised-red-blood-cells-aratasaurus-dinosaurs-bone",
-      "published": "Mon, 02 Nov 2026 20:00:27 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Fossilised red blood cells found in 115m-year-old dinosaur’s bone, say scientists"
-    },
-    {
       "title": "Accused double murderer gives evidence in high-profile case – as it happened",
       "description": "This blog is now closed Beau Lamarre-Condon tells double murder trial he went through Jesse Baird’s phone and poured water into his fuel tank Get our breaking news email , free app or daily news podcast The court has adjourned for lunch. Lamarre-Condon will continue giving evidence at 2pm. Public pile in to watch Lamarre-Condon give evidence Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/05/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
@@ -2359,17 +2347,6 @@
       "is_ticker": false
     },
     {
-      "title": "Germany news: Deportations on the decline",
-      "description": "Despite a decrease in overall deportations, more people were sent back to Turkey. Meanwhile, Volkswagen is facing a fresh \"Dieselgate\" trial. And Germany's leading DAX stock index hit a new high. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Nov 2026 09:31:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Israel's Arab list backs Eisenkot as Netanyahu loses ultra-Orthodox support",
       "description": "Israel's largest Arab party grouping said Thursday it would recommend opposition leader Gadi Eisenkot to form the next government, potentially bolstering his bid after Arab-majority lists won a record 19 seats in last week's election and Prime Minister Benjamin Netanyahu lost the support of an allied religious party.",
       "url": "https://www.france24.com/en/middle-east/20261105-israel-main-arab-list-backs-eisenkot-to-form-government-after-election",
@@ -2404,6 +2381,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Hundreds gather for funeral of Spanish footballer who died after on-pitch collision",
+      "description": "Family, friends and teammates gathered for the funeral of the Spanish footballer who died following an on-field collision with another player.",
+      "url": "https://news.sky.com/story/jesus-de-miguel-hundreds-gather-for-funeral-of-tenerife-striker-13608553",
+      "published": "Thu, 05 Nov 2026 18:50:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Hundreds gather for funeral of Spanish footballer who died after on-pitch collision"
     },
     {
       "title": "Spanish footballer dies after on-field collision",
@@ -2489,17 +2480,6 @@
       "is_ticker": false
     },
     {
-      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-      "description": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
-      "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
-      "published": "Wed, 04 Nov 2026 15:34:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Breaking the silence in Mexico’s barracks",
       "description": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
@@ -2509,6 +2489,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Marine veteran working security hailed as hero after stopping active shooter at Florida Citibank campus",
+      "description": "Florida Marine veteran John Fraley took a tactical position in a restroom and shot the Citibank Center campus gunman five times, the sheriff said.",
+      "url": "https://www.foxnews.com/us/marine-veteran-working-security-hailed-hero-after-stopping-active-shooter-florida-citibank-campus",
+      "published": "Thu, 05 Nov 2026 15:03:00 -0400",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Marine veteran working security hailed as hero after stopping active shooter at Florida Citibank campus"
     },
     {
       "title": "Cops return to New Jersey mother's home months after she was found stabbed and husband called 911",
