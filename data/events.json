@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T12:16:37.638812Z",
+  "last_updated": "2026-11-05T12:37:04.808177Z",
   "event_count": 218,
   "events": [
     {
@@ -29,6 +29,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 The US-China trade war seems to have subsided – but the sense of calm is misleading"
+    },
+    {
+      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
+      "description": "An assailant has attacked and killed a security officer near the Sri Lankan Embassy in Amman, Jordan, in what authorities describe as a terrorist act",
+      "url": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+      "published": "Thu, 05 Nov 2026 07:27:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital"
     },
     {
       "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
@@ -374,6 +388,17 @@
       "ticker_label": "🪖 Sudanese diaspora and human rights groups denounce UAE nominee for UN top job"
     },
     {
+      "title": "Security ⁠officer killed in stabbing attack in Jordan’s capital",
+      "description": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/security-%e2%81%a0officer-killed-in-stabbing-attack-in-jordans-capital?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 12:04:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
       "description": "As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades. Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.",
       "url": "https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors",
@@ -386,17 +411,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors"
-    },
-    {
-      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
-      "description": "Authorities say an assailant has attacked and killed a security officer near the Sri Lankan Embassy in the Jordanian capital Amman",
-      "url": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
-      "published": "Thu, 05 Nov 2026 06:46:06 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Armed security guard hailed as hero after fatally shooting gunman at massive Tampa Citibank site",
@@ -461,20 +475,6 @@
       "severity_score": 18,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Live: France braces for nationwide strikes in fresh test for Macron’s policies",
-      "description": "Strikes and demonstrations are planned across France on Thursday, with trade unions urging the government to support households struggling with rising living costs. The nationwide protests follow weeks of social unrest. Follow our liveblog for the latest updates.",
-      "url": "https://www.france24.com/en/france/20261105-live-france-nationwide-strikes-living-costs",
-      "published": "Thu, 05 Nov 2026 07:10:32 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Live: France braces for nationwide strikes in fresh test for Macron’s policies"
     },
     {
       "title": "Fuel price shock: Why developing economies are paying the most at the pump",
@@ -588,20 +588,6 @@
       "is_ticker": false
     },
     {
-      "title": "Ten years of the Paris Agreement: Has the world kept its climate promises?",
-      "description": "Nearly 200 countries pledged to limit warming to 1.5C. We look at who has delivered and who has fallen short.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/ten-years-of-the-paris-agreement-has-the-world-kept-its-climate-promises?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 07:41:25 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ten years of the Paris Agreement: Has the world kept its climate promises?"
-    },
-    {
       "title": "Cristiano Ronaldo announces retirement from international football",
       "description": "The announcement by the footballing legend comes just weeks after a public spat with Portugal coach Jorge Jesus over playing time.",
       "url": "https://www.dw.com/en/cristiano-ronaldo-announces-retirement-from-international-football/a-79864361?maca=en-rss-en-all-1573-xml-mrss",
@@ -646,6 +632,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cqvgry8k5d01o?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 04 Nov 2026 23:50:40 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "New Yorkers rally against gun violence after Ghanaian teen’s killing",
+      "description": "New Yorkers marched to demand justice for Ghanaian boy Javits Frimpong, who was shot and killed in the Bronx last month.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/new-yorkers-rally-against-gun-violence-after-ghanaian-teens-killing?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 12:25:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
@@ -772,17 +769,6 @@
       "ticker_label": "🪖 France gears up for strikes and protests as unions promise national mobilisation"
     },
     {
-      "title": "Ronaldo retires from Portugal duty",
-      "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 11:56:02 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Cristiano Ronaldo announces retirement from international football",
       "description": "The 41-year-old Portuguese legend says he will 'hand back the number 7 shirt' in social media post.",
       "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
@@ -817,6 +803,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 France braces for fresh protests as unions strike over higher wages"
+    },
+    {
+      "title": "Farewell Botox, heels and big hair: Is this the end of MAGA women?",
+      "description": "PRESS REVIEW – Thursday, November 5: \"Loser\" and \"Reborn in the USA\" are just some of the headlines dominating the international press after the Democrats stomped to victory in the US midterm elections. What impact will their success have on the rest of Donald Trump's presidency? How will he govern with a Democratic-controlled Congress? These are just some of the burning questions after that vote. Also, do the midterm results signal the end of the MAGA woman and the \"Mar-a-Lago face\"?",
+      "url": "https://www.france24.com/en/tv-shows/press-review/20261105-farewell-botox-heels-and-big-hair-is-this-the-end-of-maga-women",
+      "published": "Thu, 05 Nov 2026 12:15:19 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Football legend Cristiano Ronaldo announces international retirement",
@@ -1011,7 +1008,7 @@
       "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
       "description": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's post-war reconstruction and security guarantees",
       "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
-      "published": "Thu, 05 Nov 2026 06:38:25 -0500",
+      "published": "Thu, 05 Nov 2026 07:26:30 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
@@ -1119,6 +1116,20 @@
       "is_ticker": false
     },
     {
+      "title": "Workers strike across France, hundreds of thousands expected to protest",
+      "description": "Demonstrators are demanding an increase in the minimum wage and higher salaries for all workers, among other reforms.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/workers-strike-across-france-hundreds-of-thousands-expected-to-protest?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 12:21:13 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Workers strike across France, hundreds of thousands expected to protest"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1213,7 +1224,7 @@
       "is_ticker": false
     },
     {
-      "title": "Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?",
+      "title": "Palantir harvests battlefield data that Ukraine pays for ‘with blood’",
       "description": "The US company is using Kyiv’s unique war data to train its controversial technologies.",
       "url": "https://www.aljazeera.com/news/2026/11/5/palantir-mines-battlefield-intelligence-but-is-ukraine-paying-with-blood?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 11:34:29 +0000",
@@ -1224,7 +1235,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Palantir mines battlefield intelligence but is Ukraine ‘paying with blood’?"
+      "ticker_label": "🪖 Palantir harvests battlefield data that Ukraine pays for ‘with blood’"
     },
     {
       "title": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
@@ -1264,20 +1275,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 A month after Yemen government offensive began, war of attrition takes hold"
-    },
-    {
-      "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
-      "description": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 07:44:47 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 South Korea plans to expand anti-piracy operations closer to Hormuz Strait"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1324,10 +1321,21 @@
       "is_ticker": false
     },
     {
-      "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war",
-      "description": "The Bank of England is expected to raise interest rates for the first time in over three years in order to tackle the inflation shock caused by the Iran war",
+      "title": "Mugabe's son faces assault charges in Zimbabwe linked to luxury car smuggling case",
+      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
+      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
+      "published": "Thu, 05 Nov 2026 07:29:04 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation",
+      "description": "The Bank of England is raising interest rates for the first time in more than three years in an effort to tackle an inflation shock stoked by the Iran war",
       "url": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
-      "published": "Thu, 05 Nov 2026 00:38:20 -0500",
+      "published": "Thu, 05 Nov 2026 07:26:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1335,7 +1343,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Bank of England set to hike interest rates to tackle higher inflation caused by Iran war"
+      "ticker_label": "🪖 Bank of England raises main interest rate a quarter point to 4% as Iran war stokes inflation"
     },
     {
       "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
@@ -1507,17 +1515,6 @@
       "is_ticker": false
     },
     {
-      "title": "Hong Kong democracy activist Joshua Wong sentenced to 10 years in jail",
-      "description": "Wong, in prison since 2020, was found guilty of colluding with foreign entities in violation of national security law.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/hong-kong-democracy-activist-joshua-wong-sentenced-to-10-years-in-jail?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 07:50:44 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1615,7 +1612,7 @@
       "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
       "description": "A Hong Kong court has sentenced activist Joshua Wong to 10 more years in prison under a national security law imposed by Beijing",
       "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
-      "published": "Thu, 05 Nov 2026 06:38:20 -0500",
+      "published": "Thu, 05 Nov 2026 07:26:43 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1682,20 +1679,6 @@
       "ticker_category": "airline_disaster",
       "ticker_emoji": "✈️",
       "ticker_label": "✈️ Pilots' push to level jet may have torn off key piece found miles from Florida crash, former NTSB expert says"
-    },
-    {
-      "title": "NTSB finds 'no evidence' of Mar-a-Lago connection after Florida jet crash kills nine people",
-      "description": "The Learjet 60's left elevator was found miles from the Palm Beach County crash site, adding to evidence the jet broke apart before killing all nine aboard.",
-      "url": "https://www.foxnews.com/us/ntsb-finds-no-evidence-mar-a-lago-connection-florida-jet-crash-kills-nine-people",
-      "published": "Tue, 03 Nov 2026 16:13:21 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ NTSB finds 'no evidence' of Mar-a-Lago connection after Florida jet crash kills nine people"
     },
     {
       "title": "US Marine dies in training incident at Japan military base, officials say",
@@ -1921,6 +1904,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ronaldo retires from Portugal duty",
+      "description": "Portugal legend Cristiano Ronaldo says \"the day has come for me to hand back the number seven shirt\".",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 12:28:01 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
       "description": "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.",
       "url": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
@@ -1982,7 +1976,7 @@
       "title": "How America voted in maps and charts",
       "description": "See the maps and charts that show how America voted in the US midterm elections.",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 04 Nov 2026 09:53:18 GMT",
+      "published": "Thu, 05 Nov 2026 12:32:52 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2456,6 +2450,17 @@
       "ticker_label": "💥 Spanish footballer dies after on-field collision"
     },
     {
+      "title": "Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables",
+      "description": "A Finnish court has convicted the captain and another crew member of a cargo ship of damaging undersea telecommunications cables in the Baltic Sea last year",
+      "url": "https://abcnews.com/International/wireStory/russian-captain-2-crew-found-guilty-finnish-court-137871830",
+      "published": "Thu, 05 Nov 2026 07:29:11 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "The leader of a German conservative party is found dead at a Berlin hotel",
       "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
       "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
@@ -2500,33 +2505,22 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
-      "description": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons",
-      "url": "https://abcnews.com/International/wireStory/prince-andrew-called-testify-civil-case-1st-royal-137846587",
-      "published": "Wed, 04 Nov 2026 14:01:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
-      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
-      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
-      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Breaking the silence in Mexico’s barracks",
       "description": "In Mexico’s armed forces, an order from a superior is meant to be obeyed without question. For many women in uniform, investigative journalist Zorayda Gallegos found, that can include an order to step into an officer’s bedroom.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168715",
       "published": "Sun, 01 Nov 2026 12:00:00 +0000",
       "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ted Cruz delivers scathing assessment after far-left Dems sweep midterms and more top headlines",
+      "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
+      "url": "https://www.foxnews.com/us/ted-cruz-delivers-scathing-assessment-after-far-left-dems-sweep-midterms-more-top-headlines",
+      "published": "Thu, 05 Nov 2026 07:14:41 -0400",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
