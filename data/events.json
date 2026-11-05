@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T09:35:46.488704Z",
+  "last_updated": "2026-11-05T10:11:09.700864Z",
   "event_count": 220,
   "events": [
     {
@@ -266,6 +266,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south",
+      "description": "Russian attacks on critical infrastructure have caused power and water outages in Kyiv and surrounding areas that lasted hours",
+      "url": "https://abcnews.com/International/wireStory/russian-strikes-disrupt-water-power-kyiv-rescuers-search-137839563",
+      "published": "Wed, 04 Nov 2026 08:09:25 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian strikes disrupt water and power in Kyiv as rescuers still search for survivors in the south"
     },
     {
       "title": "Married off at 14: In Yemen’s war, women and girls suffer ‘devastating consequences’",
@@ -697,20 +711,6 @@
       "ticker_label": "🪖 Live: France braces for nationwide strikes in fresh test for Macron’s policies"
     },
     {
-      "title": "French unions unite for nationwide strikes, piling pressure on Macron's government",
-      "description": "French trade unions are joining forces for more nationwide strikes and demonstrations for higher wages and in support of the high school protest movement",
-      "url": "https://abcnews.com/International/wireStory/french-unions-unite-nationwide-strikes-piling-pressure-macrons-137868915",
-      "published": "Thu, 05 Nov 2026 03:50:18 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 French unions unite for nationwide strikes, piling pressure on Macron's government"
-    },
-    {
       "title": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
       "description": "Gunfire hit and damaged multiple tents at a displacement site in Gaza’s northern Rafah region on Tuesday, reportedly causing injuries and forcing a humanitarian partner to leave the area, the UN aid coordination office (OCHA) has said.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
@@ -817,15 +817,18 @@
       "is_ticker": false
     },
     {
-      "title": "Paraguay bank collapses with half of population’s savings",
-      "description": "Protests have erupted across Paraguay after Ueno Bank was shut down in the middle of the night over a solvency crisis.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/paraguay-bank-collapses-with-half-of-populations-savings?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 04:11:45 +0000",
+      "title": "It’s Gaza, stupid",
+      "description": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:44:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 It’s Gaza, stupid"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -839,22 +842,8 @@
       "is_ticker": false
     },
     {
-      "title": "Dublin-Rome flight lands in France amid bomb threat",
-      "description": "An Airbus A320 bound for Rome has made an emergency landing in Evreux, France. The prime minister's office said it was diverted after receiving a bomb threat. It's the latest of several similar cases in recent days.",
-      "url": "https://www.dw.com/en/dublin-rome-flight-lands-in-france-amid-bomb-threat/a-79861216?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Nov 2026 09:10:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Dublin-Rome flight lands in France amid bomb threat"
-    },
-    {
       "title": "South Africans vote in key municipal elections",
-      "description": "In tonight's edition, a crucial test for South Africa's ruling ANC as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territory. And a deepening humanitarian crisis in Ethiopia, where renewed fighting has displaced thousands.",
+      "description": "In tonight's edition: South Africa's ruling ANC party faces a crucial test as millions vote to elect municipal governments. Also, Ethiopia has expelled six Sudanese diplomats amid accusations it's allowing the paramilitary RSF to launch drone strikes from its territory. Plus an ongoing humanitarian crisis deepens in Ethiopia, where renewed fighting has displaced thousands.",
       "url": "https://www.france24.com/en/south-africans-vote-in-key-municipal-elections",
       "published": "Wed, 04 Nov 2026 21:26:13 GMT",
       "source": "France24",
@@ -979,28 +968,6 @@
       "description": "Mass brawl at Uberlandia vs Mamore results in 43 cards for players, eight for coaching staff and two for board members.",
       "url": "https://www.aljazeera.com/sports/2026/11/5/guinness-world-record-broken-as-53-red-cards-shown-in-brazil-under-20-match?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 07:20:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Hong Kong activist Joshua Wong sentenced to ten years in jail",
-      "description": "Hong Kong activist Joshua Wong, who became the global face of Hong Kong’s pro-democracy movement has been sentenced.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/hong-kong-activist-joshua-wong-sentenced-to-ten-years-in-jail?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 04:04:57 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "World record 53 red cards shown in Brazil football match",
-      "description": "Referees have red-carded 53 players and staff after a massive brawl in an under-20s football match in Brazil.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/world-record-53-red-cards-shown-in-brazil-football-match?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 03:48:19 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1141,6 +1108,20 @@
       "is_ticker": false
     },
     {
+      "title": "A month after Yemen government offensive began, war of attrition takes hold",
+      "description": "The Houthis suffer losses but also inflict pain on government forces and Saudi Arabia.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/a-month-after-yemen-government-offensive-began-war-of-attrition-takes-hold?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:58:18 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A month after Yemen government offensive began, war of attrition takes hold"
+    },
+    {
       "title": "South Korea plans to expand anti-piracy operations closer to Hormuz Strait",
       "description": "Seoul proposes extending its Cheonghae unit’s patrols to waters near Oman’s Duqm amid US pressure over Iran war.",
       "url": "https://www.aljazeera.com/news/2026/11/5/south-korea-plans-to-expand-anti-piracy-operations-closer-to-hormuz-strait?traffic_source=rss",
@@ -1263,10 +1244,10 @@
       "ticker_label": "🪖 🔴 Live: Trump says going to war in Iran was worth it, despite midterm rout"
     },
     {
-      "title": "Bank of England set to hike interest rates to tackle higher inflation caused by Iran war",
-      "description": "The Bank of England is expected to raise interest rates for the first time in over three years in order to tackle the inflation shock caused by the Iran war",
-      "url": "https://abcnews.com/International/wireStory/bank-england-set-hike-interest-rates-tackle-higher-137867519",
-      "published": "Thu, 05 Nov 2026 00:38:20 -0500",
+      "title": "North Korea launches unidentified projectile toward the sea, South Korea says",
+      "description": "South Korea says North Korea has launched an unidentified projectile toward the sea",
+      "url": "https://abcnews.com/International/wireStory/north-korea-launches-unidentified-projectile-sea-south-korea-137828695",
+      "published": "Tue, 03 Nov 2026 20:52:44 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1274,7 +1255,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Bank of England set to hike interest rates to tackle higher inflation caused by Iran war"
+      "ticker_label": "🪖 North Korea launches unidentified projectile toward the sea, South Korea says"
     },
     {
       "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
@@ -1360,6 +1341,34 @@
       "is_ticker": false
     },
     {
+      "title": "Bomb threat diverts Dublin-Rome flight to France",
+      "description": "A separate incident has been reported in Bulgaria, amid a string of bomb threats disrupting air travel across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/bomb-threat-diverts-dublin-rome-flight-to-france?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:50:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Bomb threat diverts Dublin-Rome flight to France"
+    },
+    {
+      "title": "Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan",
+      "description": "Injuries reported on both sides as Russia and Ukraine trade overnight drone strikes on energy and logistics sites.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/russia-says-it-hit-ukrainian-postal-hub-and-ship-as-ukraine-strikes-ryazan?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:13:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia says it hit Ukrainian postal hub and ship as Ukraine strikes Ryazan"
+    },
+    {
       "title": "ANC faces anger over poor services as South Africans vote in local elections",
       "description": "Party expected to get less than a third of the vote amid frustration over water outages and power cuts The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure. The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party. However, polls showed it getting less than a third of the vote, down from 45.6% at the last municipal elections in 2021 and 40.2% in 2024’s national elections . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
@@ -1393,6 +1402,20 @@
       "is_ticker": false
     },
     {
+      "title": "Several European flights receive bomb threats, some divert",
+      "description": "Several flights across Europe have either diverted or landed with a military escort after bomb or security threats. The first reported case involved a flight from Dublin to Rome landing outside Paris; more soon followed.",
+      "url": "https://www.dw.com/en/several-european-flights-receive-bomb-threats-some-divert/a-79861216?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 09:10:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Several European flights receive bomb threats, some divert"
+    },
+    {
       "title": "Bomb threats reported on multiple flights, including two from UK airports",
       "description": "At least seven flights, including two from the UK, have been affected by bomb threats, which caused unplanned landings and temporary airport closures.",
       "url": "https://news.sky.com/story/bomb-threats-reported-on-multiple-flights-13607460",
@@ -1405,6 +1428,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Bomb threats reported on multiple flights, including two from UK airports"
+    },
+    {
+      "title": "South Africans vote in local elections that could continue decline of ANC",
+      "description": "South Africans are voting in local elections that test the African National Congress party, or ANC, which has seen declining support over the last decade",
+      "url": "https://abcnews.com/International/wireStory/south-africans-vote-local-elections-continue-decline-mighty-137836623",
+      "published": "Wed, 04 Nov 2026 07:02:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
@@ -1512,10 +1546,21 @@
       "ticker_label": "💥 Goalkeeper involved in collision with Spanish footballer who died releases statement"
     },
     {
+      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
+      "description": "Prominent Hong Kong activist Joshua Wong has been sentenced to 10 more years in prison under a Beijing-imposed national security law",
+      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
+      "published": "Thu, 05 Nov 2026 02:22:14 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
       "description": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers",
       "url": "https://abcnews.com/International/wireStory/thousands-troops-tasked-secure-jakarta-trial-tensions-remain-137867986",
-      "published": "Thu, 05 Nov 2026 03:10:14 -0500",
+      "published": "Thu, 05 Nov 2026 04:38:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1527,17 +1572,6 @@
       "description": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law",
       "url": "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786",
       "published": "Wed, 04 Nov 2026 23:26:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Hong Kong pro-democracy activist faces sentencing in 2nd national security case",
-      "description": "Prominent Hong Kong activist Joshua Wong has been sentenced to 10 more years in prison under a Beijing-imposed national security law",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-pro-democracy-activist-joshua-wong-faces-137861278",
-      "published": "Thu, 05 Nov 2026 02:22:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1585,7 +1619,7 @@
     },
     {
       "title": "Dublin-Rome flight diverted to French military base over bomb threat",
-      "description": "An Airbus A320 ​flying from Dublin to Rome was diverted to France's Evreux airbase ​following a ‌bomb threat, ⁠the French prime minister's office said Thursday, in the latest in a series ‌of threats targeting flights in Europe.",
+      "description": "An Airbus A320 ​flying from Dublin to Rome was diverted to France's Evreux airbase ​following a ‌bomb threat, ⁠the French prime minister's office said Thursday, in the latest in a series ‌of threats targeting flights across Europe.",
       "url": "https://www.france24.com/en/europe/20261105-dublin-rome-flight-diverted-to-france-over-bomb-threat",
       "published": "Thu, 05 Nov 2026 09:08:19 GMT",
       "source": "France24",
@@ -1756,19 +1790,8 @@
       "is_ticker": false
     },
     {
-      "title": "Leading ice hockey nations, sponsors oppose Russia's return",
-      "description": "Ice hockey's governing body says the impact of a court decision forcing it to reinstate Russia presents \"significant practical and sporting challenges.\" Several leading nations say they won't play against Russian teams.",
-      "url": "https://www.dw.com/en/leading-ice-hockey-nations-sponsors-oppose-russia-s-return/a-79853742?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 4 Nov 2026 13:27:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Blue wave across America: do US midterms signal beginning of the end for Trump?",
-      "description": "He asked voters to pretend he was on the ballot and they did. Voters across the United States chasing Donald Trump's Republican majorities from both houses of Congress. How big a landslide for the Democrats?",
+      "title": "Blue wave across America: Do US midterms signal beginning of the end for Trump?",
+      "description": "He asked people to pretend he was on the ballot and they did. Voters across the United States have chased US President Donald Trump's Republican majorities from both houses of Congress. How big a landslide is this for the Democrats?",
       "url": "https://www.france24.com/en/tv-shows/the-debate/20261104-blue-wave-across-america-do-us-midterms-signal-beginning-of-the-end-for-trump",
       "published": "Wed, 04 Nov 2026 19:49:21 GMT",
       "source": "France24",
@@ -1778,7 +1801,7 @@
       "is_ticker": true,
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Blue wave across America: do US midterms signal beginning of the end for Trump?"
+      "ticker_label": "🌪️ Blue wave across America: Do US midterms signal beginning of the end for Trump?"
     },
     {
       "title": "European leaders welcome Democrats' US midterms election win",
@@ -1891,17 +1914,6 @@
       "is_ticker": false
     },
     {
-      "title": "Toyota raises profit projection for the year as sales hold up",
-      "description": "Japan’s top automaker Toyota is reporting that its fiscal second quarter profit fell 19% from a year ago but raised its full year profit forecast",
-      "url": "https://abcnews.com/International/wireStory/toyota-raises-profit-projection-year-sales-hold-137868815",
-      "published": "Thu, 05 Nov 2026 03:50:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Afghan children face narrowing path to education, UN agencies report",
       "description": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
@@ -1920,6 +1932,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "England’s Harry Kane extends Bayern Munich contract until 2029",
+      "description": "'I love the club, the fans and the city,' says the Ballon d'Or ‌winner after extending his stay with German champions.",
+      "url": "https://www.aljazeera.com/sports/2026/11/5/englands-harry-kane-extends-bayern-munich-contract-until-2029?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 10:04:26 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 2,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -2048,6 +2071,28 @@
       "is_ticker": false
     },
     {
+      "title": "US sanctions Indian and Turkish firms accused of helping Iran",
+      "description": "US Treasury says Indian couple faked ship registries for countries including Guyana and Laos to help Iranian tankers.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/us-sanctions-indian-and-turkish-firms-accused-of-helping-iran?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:57:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
+      "description": "Rights group says the journalist's arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
+      "url": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
+      "published": "Thu, 05 Nov 2026 09:52:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Wembanyama pours in career-high 52 points as Spurs edge Mavericks 112-111",
       "description": "Victor Wembanyama had 24 rebounds and 52 points as the San Antonio Spurs recorded their sixth straight win in the NBA.",
       "url": "https://www.aljazeera.com/sports/2026/11/5/wembanyama-pours-in-career-high-52-points-as-spurs-edge-mavericks-112-111?traffic_source=rss",
@@ -2088,53 +2133,6 @@
       "description": "Netanyahu's rivals say US midterm results show Israel 'cannot afford' to have the prime minister remain in office.",
       "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
       "published": "Thu, 05 Nov 2026 05:39:31 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Syria, Saudi Arabia sign defence cooperation deal, agree $403m in loans",
-      "description": "Defence cooperation deal signed as Syria's President al-Sharaa visits Riyadh for the second time in less than a month.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 03:46:13 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What’s delaying the US Senate election results in Mississippi and Alaska?",
-      "description": "Ranked-choice voting may decide Alaska's Senate outcome, while Mississippi's race hangs on a knife's edge.",
-      "url": "https://www.aljazeera.com/news/2026/11/5/whats-delaying-us-midterm-election-calls-in-mississippi-and-alaska?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 03:13:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Former Israeli generals help Palestinian olive farmers",
-      "description": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 02:52:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Former Israeli generals help Palestinian olive farmers"
-    },
-    {
-      "title": "Vote counting underway in critical South Africa elections",
-      "description": "Votes are being counted across South Africa after a record 29.2 million people registered to vote.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/vote-counting-underway-in-critical-south-africa-elections?traffic_source=rss",
-      "published": "Thu, 05 Nov 2026 02:43:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2332,6 +2330,17 @@
       "is_ticker": false
     },
     {
+      "title": "South Korea tests Arctic shipping route amid Russia-West row",
+      "description": "For South Korean ships, navigating off north coast of Russia dramatically reduces travel time to Europe, but the pro-Ukraine coalition might see it as undermining their efforts to isolate Moscow.",
+      "url": "https://www.dw.com/en/south-korea-tests-arctic-shipping-route-amid-russia-west-row/a-79853907?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 5 Nov 2026 09:45:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Germany news: Deportations on the decline",
       "description": "Despite a decrease in overall deportations, more people were sent back to Turkey. Volkswagen is facing a fresh 'Dieselgate' trial. And Germany's leading DAX stock index hit a new high. DW has more.",
       "url": "https://www.dw.com/en/germany-news-deportations-on-the-decline/live-79860126?maca=en-rss-en-all-1573-xml-mrss",
@@ -2376,7 +2385,7 @@
       "is_ticker": false
     },
     {
-      "title": "Champions League : Lens suffer historic 9-1 defeat against Como",
+      "title": "Champions League: Lens suffer historic 9-1 defeat against Como",
       "description": "RC Lens suffered the heaviest defeat in the history of French football in European competition, losing 9-1 at home to Como in the Champions League. Having already been beaten by Club Brugge (3-0) and Sporting CP (2-0), Lens have now suffered three consecutive defeats in Europe.",
       "url": "https://www.france24.com/en/tv-shows/sports/20261105-champions-league-lens-suffer-historic-9-1-defeat-against-como",
       "published": "Thu, 05 Nov 2026 08:45:02 GMT",
@@ -2388,7 +2397,7 @@
     },
     {
       "title": "Musk-backed candidates lose US midterms despite financial backing",
-      "description": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican candidates and causes, the single biggest campaign donor in the election cycle. But his investment fell flat, as his preferred candidates lost races in Texas, where he has put down roots.",
+      "description": "Shares of Tesla and SpaceX dropped after the Democratic party swept to power in America's midterm elections. Their founder, tech titan Elon Musk, poured over $440 million into Republican candidates and causes, the single biggest campaign donor in the election cycle. But his investment fell flat, as his preferred candidates lost races in Texas, where he has put down roots. We take a closer look.",
       "url": "https://www.france24.com/en/musk-backed-candidates-lose-midterms-despite-financial-backing",
       "published": "Wed, 04 Nov 2026 21:06:09 GMT",
       "source": "France24",
@@ -2437,39 +2446,6 @@
       "ticker_label": "💥 Spanish footballer dies after on-field collision"
     },
     {
-      "title": "The leader of a German conservative party is found dead at a Berlin hotel",
-      "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
-      "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
-      "published": "Thu, 05 Nov 2026 03:50:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A still-recovering pope will head home to Latin America and his beloved Peru for a 12-day trip",
-      "description": "Pope Leo XIV is embarking on the longest and farthest trip of his pontificate three weeks after lung cancer surgery",
-      "url": "https://abcnews.com/International/wireStory/recovering-pope-head-home-latin-america-beloved-peru-137867521",
-      "published": "Thu, 05 Nov 2026 03:18:17 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
-      "description": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
-      "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
-      "published": "Wed, 04 Nov 2026 15:34:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Iranians celebrate setback for Trump in US election, and other Mideast news",
       "description": "Iran’s leaders say President Donald Trump shouldn’t ignore the stinging setback in the U.S. election",
       "url": "https://abcnews.com/International/wireStory/iranians-celebrate-setback-trump-us-election-mideast-news-137854076",
@@ -2481,10 +2457,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
-      "description": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons",
-      "url": "https://abcnews.com/International/wireStory/prince-andrew-called-testify-civil-case-1st-royal-137846587",
-      "published": "Wed, 04 Nov 2026 14:01:27 -0500",
+      "title": "The leader of a German conservative party is found dead at a Berlin hotel",
+      "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
+      "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
+      "published": "Thu, 05 Nov 2026 03:50:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2492,10 +2468,10 @@
       "is_ticker": false
     },
     {
-      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
-      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
-      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
-      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
+      "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
+      "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
+      "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
+      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2517,10 +2493,43 @@
       "ticker_label": "💥 US contractor admits passing US top-secret information to Ethiopia"
     },
     {
-      "title": "Stranded cruise ship Odyssey leaves Cambodia with no passengers",
-      "description": "A U.S. cruise ship that suspended its operations in Cambodia has left with only crew aboard, according to Cambodian officials",
-      "url": "https://abcnews.com/International/wireStory/stranded-cruise-ship-odyssey-leaves-cambodia-passengers-137840393",
-      "published": "Wed, 04 Nov 2026 07:10:25 -0500",
+      "title": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
+      "description": "The European Union has offered Serbia fresh hope for membership talks if a new student-led government strengthens democracy",
+      "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
+      "published": "Wed, 04 Nov 2026 09:23:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ex-Prince Andrew called to testify in civil case, 1st royal in 156 years to get witness summons",
+      "description": "The former Prince Andrew has been called to testify as a witness in a civil fraud trial, marking what is believed to be the first time in more than 150 years that a member of the royal family has received a witness summons",
+      "url": "https://abcnews.com/International/wireStory/prince-andrew-called-testify-civil-case-1st-royal-137846587",
+      "published": "Wed, 04 Nov 2026 14:01:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican",
+      "description": "Bob Dylan has come knockin’ on Pope Leo XIV’s door",
+      "url": "https://abcnews.com/International/wireStory/bob-dylan-knockin-popes-door-leo-welcomes-legend-137857488",
+      "published": "Wed, 04 Nov 2026 15:34:30 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Indonesia deploys troops to boost Jakarta's security after generals' arrest",
+      "description": "Indonesia's military is deploying over 20,000 troops to Jakarta amid a wiretapping scandal suspected of targeting President Prabowo Subianto",
+      "url": "https://abcnews.com/International/wireStory/indonesias-military-deploys-thousands-troops-boost-jakartas-security-137838412",
+      "published": "Wed, 04 Nov 2026 07:26:22 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
