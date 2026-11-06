@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T12:16:29.867105Z",
+  "last_updated": "2026-11-06T12:36:14.069900Z",
   "event_count": 215,
   "events": [
     {
@@ -15,6 +15,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Low pressure in US midwest brings unseasonable heat to New York and Boston"
+    },
+    {
+      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
+      "description": "An assailant has attacked and killed a security officer near the Sri Lankan Embassy in Amman, Jordan, in what authorities describe as a terrorist act",
+      "url": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
+      "published": "Thu, 05 Nov 2026 07:50:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 40,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital"
     },
     {
       "title": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
@@ -99,20 +113,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr"
-    },
-    {
-      "title": "Cristiano Ronaldo brings his international football career to an end",
-      "description": "Cristiano Ronaldo announced his retirement from international football on Thursday, ending his 23-year career with Portugal. At 41, the Al-Nassr forward leaves the national team with 234 caps and 146 goals, both world records. As captain, he helped Portugal win Euro 2016 and two Nations League titles in 2019 and 2025. The decision comes after several weeks of tensions with head coach Jorge Jesus, following Ronaldo's departure from the Portugal squad in September.",
-      "url": "https://www.france24.com/en/tv-shows/sports/20261106-cristiano-ronaldo-brings-his-international-football-career-to-an-end",
-      "published": "Fri, 06 Nov 2026 07:32:03 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Cristiano Ronaldo brings his international football career to an end"
     },
     {
       "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
@@ -349,7 +349,7 @@
       "title": "Two dead after bus crashes in France, officials say",
       "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 11:21:20 GMT",
+      "published": "Fri, 06 Nov 2026 12:27:33 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 20,
@@ -605,17 +605,6 @@
       "ticker_label": "🪖 Trump raises prospect of 'big, beautiful' Russia-Ukraine deal"
     },
     {
-      "title": "Shotgun attacker kills 8 across 3 sites in western Turkey before capture",
-      "description": "An attacker armed with a shotgun has killed eight people in three locations in western Turkey",
-      "url": "https://abcnews.com/International/wireStory/shotgun-attacker-kills-8-3-sites-western-turkey-137894224",
-      "published": "Thu, 05 Nov 2026 19:35:49 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Four dead, including Washington deputy, following domestic call shooting; another deputy on life support",
       "description": "A Spokane County sheriff's deputy died and another is on life support after a SWAT team was ambushed responding to a domestic violence call.",
       "url": "https://www.foxnews.com/us/four-dead-including-washington-deputy-following-domestic-call-shooting-another-deputy-life-support",
@@ -741,6 +730,17 @@
       "is_ticker": false
     },
     {
+      "title": "Tanzania court jails opposition leader for incitement, lifts treason charge",
+      "description": "Dismissal of treason charge means Tundu Lissu avoids threat of death penalty.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/tanzania-court-jails-opposition-leader-for-incitement-lifts-treason-charge?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 11:56:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
       "description": "There is no end in sight for the drivers of illegal mining, while police action appears ineffective Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991. But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area. In late September, dozens of zama zamas – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare). Continue reading...",
       "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
@@ -764,20 +764,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Pete Hegseth under fire as Republicans trade blame for midterm debacle"
-    },
-    {
-      "title": "Arrests and investigations as Serbia begins post-election clean-up",
-      "description": "The landslide victory of the Students' List in Serbia's general election seems to have removed a blockage in the justice system: Cases that were long stalled are now suddenly moving forward.",
-      "url": "https://www.dw.com/en/arrests-and-investigations-as-serbia-begins-post-election-clean-up/a-79868652?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Nov 2026 17:00:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Arrests and investigations as Serbia begins post-election clean-up"
     },
     {
       "title": "Europe's crisis of discontent: Student and cost-of-living protests spread across EU",
@@ -811,6 +797,34 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
+      "description": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's postwar reconstruction and security guarantees",
+      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
+      "published": "Thu, 05 Nov 2026 10:06:22 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia and Ukraine trade airstrikes as reconstruction and security talks resume"
+    },
+    {
+      "title": "More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes",
+      "description": "Authorities say that bomb threats have targeted more than a dozen flights in Europe, leading to a slew of emergency landings and military escorts in some cases",
+      "url": "https://abcnews.com/International/wireStory/dozen-flights-europe-receive-bomb-threats-official-calls-137869253",
+      "published": "Thu, 05 Nov 2026 14:57:53 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ More than a dozen flights in Europe receive bomb threats that an official calls 'malicious' hoaxes"
     },
     {
       "title": "Multiple flights in Europe diverted because of bomb threats",
@@ -971,17 +985,6 @@
       "is_ticker": false
     },
     {
-      "title": "Australia appoint Mike Hussey as consultant for Ashes and Cricket World Cup",
-      "description": "Hussey, known as 'Mr Cricket' for his technical expertise, will also work with Australia during the LA 2028 Olympics.",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/mike-hussey-australia-cricket-batting-consultant-ashes-world-cup?traffic_source=rss",
-      "published": "Fri, 06 Nov 2026 06:52:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1037,17 +1040,6 @@
       "is_ticker": false
     },
     {
-      "title": "Former pro-democracy lawmaker sentenced to 12 1/2 years in Macao’s 1st national security case",
-      "description": "Macao pro-democracy former lawmaker Au Kam San was sentenced to 12 1/2 years in prison Friday in the Chinese city’s first national security case following a closed-door trial that raised concerns about fairness",
-      "url": "https://abcnews.com/International/wireStory/former-pro-democracy-lawmaker-sentenced-12-12-years-137899620",
-      "published": "Fri, 06 Nov 2026 02:47:33 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "COP31 explained: What’s at stake at this year’s UN climate summit?",
       "description": "The world has more tools than ever to tackle climate change, yet millions remain unable to benefit from them. As clean energy technologies advance faster than ever, the challenge facing countries at COP31 is no longer just finding solutions – but making sure everyone can afford them.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168735",
@@ -1084,7 +1076,7 @@
       "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
       "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
       "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 11:54:08 GMT",
+      "published": "Fri, 06 Nov 2026 12:19:41 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1117,6 +1109,17 @@
       "ticker_label": "💥 Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened"
     },
     {
+      "title": "Judge halts construction of Trump's arch. And, Labor Department to release jobs report",
+      "description": "A judge has blocked construction of Trump's arch moments after it won federal approval to proceed. And, the Labor Department is set to release the latest jobs report today, a day after stocks plunged.",
+      "url": "https://www.npr.org/2026/11/06/g-s1-152213/up-first-newsletter-job-market-trump-arch-school-enrollment-harmeet-dhillon",
+      "published": "Fri, 06 Nov 2026 07:24:52 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Kenya cult leader Paul Mackenzie sentenced to 200 years",
       "description": "A court in Kenya has sentenced Paul Mackenzie to 200 years in prison for the murders of 190 children and an adult. He told them to starve themselves to death as part of his apocalyptic religious cult.",
       "url": "https://www.dw.com/en/kenya-cult-leader-paul-mackenzie-sentenced-to-200-years/a-79875112?maca=en-rss-en-all-1573-xml-mrss",
@@ -1140,6 +1143,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Germany news: Trial of alleged 'Reichsbürger' group ringleaders begins"
+    },
+    {
+      "title": "The human cost of recycling: Kenyan waste pickers put their health at risk",
+      "description": "Two thousand tonnes of waste are dumped every day at the Dandora landfill site in the Kenyan capital Nairobi. An army of workers then rush in to recover recyclable materials, putting their own health at risk in the process. But however hard these unsung environmental heroes work, only 7 percent of the plastic can be recycled. Our correspondents report.",
+      "url": "https://www.france24.com/en/tv-shows/reporters/20261106-the-human-cost-of-recycling-kenyan-waste-pickers-put-their-health-at-risk",
+      "published": "Fri, 06 Nov 2026 12:34:50 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "US Republicans face reckoning after major midterm election defeat",
@@ -1167,6 +1181,28 @@
       "is_ticker": false
     },
     {
+      "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
+      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
+      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
+      "published": "Thu, 05 Nov 2026 08:30:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Leader of Kenyan doomsday cult sentenced to 200 years in prison",
+      "description": "The leader of a Kenyan doomsday cult linked to the deaths of hundreds of people has been sentenced to 200 years in prison for the murders of 191 people",
+      "url": "https://abcnews.com/International/wireStory/leader-kenyan-doomsday-cult-sentenced-200-years-prison-137905380",
+      "published": "Fri, 06 Nov 2026 07:11:18 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
       "description": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support",
       "url": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
@@ -1181,17 +1217,6 @@
       "ticker_label": "🪖 Ukrainian President Zelenskyy presses Western allies for postwar security guarantees"
     },
     {
-      "title": "Officials search for the bear that killed a mother and daughter in British Columbia",
-      "description": "Conservation officers are searching for a grizzly bear that killed a woman and her daughter in British Columbia, Canada, over the weekend",
-      "url": "https://abcnews.com/International/wireStory/officials-search-bear-killed-mother-daughter-british-columbia-137902473",
-      "published": "Fri, 06 Nov 2026 00:38:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war",
       "description": "A Roman Catholic priest, who has opposed Russia’s invasion of Ukraine and helped Ukrainian refugees, has been sentenced to three years in prison in Belarus",
       "url": "https://abcnews.com/International/wireStory/belarus-sentences-catholic-priest-3-years-after-opposed-137885551",
@@ -1204,17 +1229,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Belarus sentences Catholic priest to 3 years after he opposed the Ukraine war"
-    },
-    {
-      "title": "Mugabe's son faces assault charges linked to luxury car smuggling case",
-      "description": "The son of the late Zimbabwean President Robert Mugabe faces assault charges after allegedly attacking an anti-corruption official",
-      "url": "https://abcnews.com/International/wireStory/mugabes-son-faces-assault-charges-zimbabwe-linked-luxury-137872322",
-      "published": "Thu, 05 Nov 2026 08:30:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara",
@@ -1355,15 +1369,18 @@
       "is_ticker": false
     },
     {
-      "title": "South Africa's ruling ANC faces huge decline in support, early election results show",
-      "description": "South Africa's African National Congress faces a significant decline in voter support, according to interim results from local elections held this week",
-      "url": "https://abcnews.com/International/wireStory/south-africas-ruling-anc-faces-huge-decline-voter-137904438",
-      "published": "Fri, 06 Nov 2026 06:01:48 -0500",
+      "title": "European air traffic targeted by new threats in at least 3 incidents",
+      "description": "Officials across Europe report more bomb threats against flights, following a series of hoaxes causing diversions this week",
+      "url": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
+      "published": "Fri, 06 Nov 2026 07:31:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 European air traffic targeted by new threats in at least 3 incidents"
     },
     {
       "title": "US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash",
@@ -1482,10 +1499,21 @@
       "is_ticker": false
     },
     {
-      "title": "American national sentenced to life in prison for murders of partner and infant daughter in Rome",
-      "description": "An Italian court has sentenced an American citizen to life in prison for the murder of his partner and their infant daughter",
-      "url": "https://abcnews.com/International/wireStory/american-national-sentenced-life-prison-murders-partner-infant-137884494",
-      "published": "Thu, 05 Nov 2026 13:05:30 -0500",
+      "title": "Troops deployed to secure Jakarta trial as tensions remain high over wiretap scandal",
+      "description": "Indonesian authorities have tasked thousands of police and military personnel to secure a court appearance of former President Joko Widodo, as tensions remain high in the capital over a wiretapping scandal involving senior police officers",
+      "url": "https://abcnews.com/International/wireStory/thousands-troops-tasked-secure-jakarta-trial-tensions-remain-137867986",
+      "published": "Thu, 05 Nov 2026 04:38:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Hong Kong's Joshua Wong is spending years of his adult life in prison",
+      "description": "Joshua Wong, once a rising political star in Hong Kong's pro-democracy movement, has been sentenced again under Beijing's national security law",
+      "url": "https://abcnews.com/International/wireStory/teen-activist-hong-kongs-joshua-wong-spending-years-137865786",
+      "published": "Wed, 04 Nov 2026 23:26:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1497,6 +1525,17 @@
       "description": "Cyprus's president says natural gas deposits off the country's coast offer the European Union a chance to boost energy security by diversifying supply",
       "url": "https://abcnews.com/International/wireStory/gas-deposits-off-cyprus-opportunity-eu-president-137871831",
       "published": "Thu, 05 Nov 2026 08:09:00 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "American national sentenced to life in prison for murders of partner and infant daughter in Rome",
+      "description": "An Italian court has sentenced an American citizen to life in prison for the murder of his partner and their infant daughter",
+      "url": "https://abcnews.com/International/wireStory/american-national-sentenced-life-prison-murders-partner-infant-137884494",
+      "published": "Thu, 05 Nov 2026 13:05:30 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1643,17 +1682,6 @@
       "is_ticker": false
     },
     {
-      "title": "European air traffic targeted by new threats in at least 3 incidents",
-      "description": "European air traffic targeted by new threats in at least 3 incidents",
-      "url": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
-      "published": "Fri, 06 Nov 2026 06:13:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US Marine dies in training incident at Japan military base, officials say",
       "description": "A U.S. Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.",
       "url": "https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base",
@@ -1690,17 +1718,6 @@
       "is_ticker": false
     },
     {
-      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-      "description": "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023. And history was made in several states. Here's what happened last night.",
-      "url": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
-      "published": "Wed, 04 Nov 2026 07:18:39 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Austrian tycoon Rene Benko sentenced to 2 years in prison for fraud",
       "description": "Austrian businessman Rene Benko, who suffered a major fall from grace after his real estate empire, Signa Holding, went bust, was handed two more years in prison.",
       "url": "https://www.dw.com/en/austrian-tycoon-rene-benko-sentenced-to-2-years-in-prison-for-fraud/a-79870056?maca=en-rss-en-all-1573-xml-mrss",
@@ -1712,10 +1729,10 @@
       "is_ticker": false
     },
     {
-      "title": "Myanmar to hold by-elections in April, including in areas where fighting persists",
-      "description": "Myanmar will hold special elections next April in its first vote since this year's general election that critics said was designed to cement military rule",
-      "url": "https://abcnews.com/International/wireStory/myanmar-hold-elections-april-including-areas-fighting-persists-137903196",
-      "published": "Fri, 06 Nov 2026 02:48:10 -0500",
+      "title": "Former Chinese Politburo member Ma Xingrui charged with taking bribes",
+      "description": "China's state media say a former member of one of China’s top decision-making bodies has been formally charged with accepting bribes a week after Communist Party leaders confirmed his expulsion from the party",
+      "url": "https://abcnews.com/International/wireStory/former-chinese-politburo-member-ma-xingrui-charged-taking-137866646",
+      "published": "Thu, 05 Nov 2026 01:58:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1833,6 +1850,17 @@
       "is_ticker": false
     },
     {
+      "title": "Japan's Sony reports a hefty profit on the back of its blockbuster 'Spider-Man' movie",
+      "description": "Japanese electronics and entertainment company Sony has reported a 44% surge in its profit in July-September, largely on the box office success of its movie, “Spider-Man: Brand New Day.”",
+      "url": "https://abcnews.com/International/wireStory/japans-sony-reports-hefty-profit-back-blockbuster-spider-137869766",
+      "published": "Thu, 05 Nov 2026 05:44:16 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Afghan children face narrowing path to education, UN agencies report",
       "description": "More than half of Afghanistan’s children who should be in primary school remain outside formal learning and millions of girls can only dream of going to university.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168732",
@@ -1924,6 +1952,39 @@
       "is_ticker": false
     },
     {
+      "title": "Born to be torn: A generation raised under Houthi rule in Yemen",
+      "description": "As children are recruited to fight, the cost of failing to confront the Houthis is being felt far beyond Yemen.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/6/born-to-be-torn-a-generation-raised-under-houthi-rule-in-yemen?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 12:16:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Olympic champion Imane Khelif to make professional boxing debut in December",
+      "description": "The Algerian has not fought since winning gold at Paris 2024, where she was embroiled in a gender row.",
+      "url": "https://www.aljazeera.com/sports/2026/11/6/olympic-champion-imane-khelif-to-make-professional-boxing-debut-in-december?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 12:04:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "‘We are here’: Kurdish club Amedspor shakes up Turkish football",
+      "description": "The Diyarbakir-based club have risen from the third tier to a top-of-the-table clash in the Turkish Super Lig.",
+      "url": "https://www.aljazeera.com/sports/2026/11/6/we-are-here-kurdish-club-amedspor-shakes-up-turkish-football?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 11:59:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Tanzania’s smallholder farmers struggle to benefit from digital agriculture",
       "description": "Poor training and delayed responses leave farmers struggling to access useful market information.",
       "url": "https://www.aljazeera.com/economy/2026/11/6/tanzanias-smallholder-farmers-struggle-to-benefit-from-digital-agriculture?traffic_source=rss",
@@ -2005,39 +2066,6 @@
       "description": "Scandal is driving divisions between President Prabowo Subianto and predecessor Joko Widodo.",
       "url": "https://www.aljazeera.com/news/2026/11/6/indonesia-names-fourth-wiretapping-suspect-as-political-intrigue-deepens?traffic_source=rss",
       "published": "Fri, 06 Nov 2026 07:24:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
-      "description": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
-      "url": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
-      "published": "Fri, 06 Nov 2026 06:43:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
-      "description": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
-      "published": "Fri, 06 Nov 2026 06:06:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-      "description": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
-      "published": "Fri, 06 Nov 2026 05:59:54 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2249,6 +2277,17 @@
       "is_ticker": false
     },
     {
+      "title": "Tanzania: Opposition leader Tundu Lissu jailed for four years",
+      "description": "Tanzanian opposition leader Tundu Lissu has been sentenced to four years in prison after being cleared of treason. Lissu condemned his conviction for incitement, which had not been among the charges he faced.",
+      "url": "https://www.dw.com/en/tanzania-opposition-leader-tundu-lissu-jailed-for-four-years/a-79875248?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 6 Nov 2026 12:19:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Exercise and cancer: What \"living longer\" really means",
       "description": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
       "url": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-xml-mrss",
@@ -2343,57 +2382,10 @@
       "is_ticker": false
     },
     {
-      "title": "What to know about Pope Leo XIV's trip to Uruguay, Argentina and Peru",
-      "description": "Pope Leo XIV is returning home to the continent where he spent two decades as a missionary priest and learned to be a pastor, visiting Uruguay, Argentina and his second homeland of Peru",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-xivs-trip-uruguay-argentina-peru-137902288",
-      "published": "Fri, 06 Nov 2026 00:40:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Bus collides with truck in eastern Pakistan, killing at least 11 people",
-      "description": "Officials say a passenger bus has collided with a truck in eastern Pakistan, killing at least 11 people and injuring 33 others",
-      "url": "https://abcnews.com/International/wireStory/bus-collides-truck-eastern-pakistan-killing-11-people-137885693",
-      "published": "Thu, 05 Nov 2026 13:19:07 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Nigerian court nullifies presidential contender’s candidacy 2 months before election",
-      "description": "A Nigerian court has disqualified a leading presidential candidate, complicating the electoral process two months before the election",
-      "url": "https://abcnews.com/International/wireStory/nigerian-court-nullifies-presidential-contenders-candidacy-2-months-137880665",
-      "published": "Thu, 05 Nov 2026 10:48:40 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Nigerian court nullifies presidential contender’s candidacy 2 months before election"
-    },
-    {
-      "title": "Small eastern Caribbean archipelago seeking slavery reparations holds general election",
-      "description": "Grenada and other eastern Caribbean islands are voting in general elections",
-      "url": "https://abcnews.com/International/wireStory/small-eastern-caribbean-archipelago-seeking-slavery-reparations-holds-137879620",
-      "published": "Thu, 05 Nov 2026 10:16:31 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "UN's peacekeeping mission in Western Sahara enters liquidation phase after mandate expires",
-      "description": "The U.N. peacekeeping mission in Western Sahara has entered a “liquidation phase” and is beginning to vacate positions and dispose of equipment following a U.S.-Russia standoff at the Security Council last week",
-      "url": "https://abcnews.com/International/wireStory/uns-peacekeeping-mission-western-sahara-enters-liquidation-phase-137876785",
-      "published": "Thu, 05 Nov 2026 09:10:29 -0500",
+      "title": "The leader of a German conservative party is found dead at a Berlin hotel",
+      "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
+      "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
+      "published": "Thu, 05 Nov 2026 03:50:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2405,6 +2397,17 @@
       "description": "A British man being treated for Ebola in Congo is being evacuated to the U.K., the government said Thursday",
       "url": "https://abcnews.com/International/wireStory/british-man-treated-ebola-congo-evacuated-uk-137872417",
       "published": "Thu, 05 Nov 2026 07:52:42 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Small eastern Caribbean archipelago seeking slavery reparations holds general election",
+      "description": "Grenada and other eastern Caribbean islands are voting in general elections",
+      "url": "https://abcnews.com/International/wireStory/small-eastern-caribbean-archipelago-seeking-slavery-reparations-holds-137879620",
+      "published": "Thu, 05 Nov 2026 10:16:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
