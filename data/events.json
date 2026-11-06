@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T11:10:12.299725Z",
+  "last_updated": "2026-11-06T11:35:07.165721Z",
   "event_count": 215,
   "events": [
     {
@@ -15,20 +15,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Low pressure in US midwest brings unseasonable heat to New York and Boston"
-    },
-    {
-      "title": "Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital",
-      "description": "An assailant has attacked and killed a security officer near the Sri Lankan Embassy in Amman, Jordan, in what authorities describe as a terrorist act",
-      "url": "https://abcnews.com/International/wireStory/security-officer-attacked-killed-sri-lankan-embassy-jordans-137871485",
-      "published": "Thu, 05 Nov 2026 07:50:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 40,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Security officer attacked and killed near Sri Lankan Embassy in Jordan's capital"
     },
     {
       "title": "Death toll rises to 50 in Russian attack on aid distribution ‌point in Ukraine",
@@ -363,7 +349,7 @@
       "title": "Two dead after bus crashes in France, officials say",
       "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
       "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 10:57:14 GMT",
+      "published": "Fri, 06 Nov 2026 11:21:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 20,
@@ -489,6 +475,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Paraguay: President Pena resigns amid bank crisis"
+    },
+    {
+      "title": "90-year-old Holocaust survivor dies almost a year after being shot in Sydney massacre",
+      "description": "A 90-year-old Holocaust survivor has died almost a year after she was wounded during the massacre of 15 people at a Sydney Hanukkah celebration",
+      "url": "https://abcnews.com/International/wireStory/90-year-holocaust-survivor-dies-year-after-shot-137903635",
+      "published": "Fri, 06 Nov 2026 06:07:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 90-year-old Holocaust survivor dies almost a year after being shot in Sydney massacre"
     },
     {
       "title": "Fuel price shock: Why developing economies are paying the most at the pump",
@@ -844,29 +844,15 @@
       "is_ticker": false
     },
     {
-      "title": "Two dead after bus carrying school children crashes in France, officials say",
+      "title": "Two dead after bus carrying schoolchildren crashes in France, officials say",
       "description": "One child and a young adult have been killed after a bus crashed in eastern France, French authorities said.",
-      "url": "https://news.sky.com/story/two-dead-after-bus-carrying-school-children-crashes-in-france-officials-say-13608677",
+      "url": "https://news.sky.com/story/two-dead-after-bus-carrying-schoolchildren-crashes-in-france-officials-say-13608677",
       "published": "Fri, 06 Nov 2026 06:12:00 +0000",
       "source": "Sky News World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Russia and Ukraine trade airstrikes as reconstruction and security talks resume",
-      "description": "Russia and Ukraine have traded damaging airstrikes as talks resume in Brussels to discuss Ukraine's postwar reconstruction and security guarantees",
-      "url": "https://abcnews.com/International/wireStory/russia-ukraine-trade-airstrikes-reconstruction-security-talks-resume-137871457",
-      "published": "Thu, 05 Nov 2026 10:06:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia and Ukraine trade airstrikes as reconstruction and security talks resume"
     },
     {
       "title": "Multiple flights in Europe diverted because of bomb threats",
@@ -1140,17 +1126,6 @@
       "ticker_label": "🪖 Was an Italian chef really fired over refusal to put pineapple on pizza?"
     },
     {
-      "title": "Trump issues proclamation declaring Oval Office national monument",
-      "description": "Following election losses, the signing marks Trump's third event of the week focused on signature renovation projects.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/trump-issues-proclamation-declaring-oval-office-national-monument?traffic_source=rss",
-      "published": "Fri, 06 Nov 2026 04:48:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1213,6 +1188,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Ukrainian President Zelenskyy presses Western allies for postwar security guarantees",
+      "description": "Ukrainian President Volodymyr Zelenskyy says his government is seeking specific security guarantees from Western allies for post-war support",
+      "url": "https://abcnews.com/International/wireStory/ukrainian-president-zelenskyy-presses-western-allies-clear-postwar-137904910",
+      "published": "Fri, 06 Nov 2026 06:15:19 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukrainian President Zelenskyy presses Western allies for postwar security guarantees"
     },
     {
       "title": "Officials search for the bear that killed a mother and daughter in British Columbia",
@@ -1627,6 +1616,17 @@
       "ticker_label": "💥 Bomb hoaxes: Messages reveal how threat was passed on by air traffic control"
     },
     {
+      "title": "‘Nobody can stop them’: Who are Europe’s Black Bloc protesters?",
+      "description": "Anarchistic activists who dress in black and clash with police are a regular feature of protests from France to Albania.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/nobody-can-stop-them-who-are-europes-black-bloc-protesters?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 11:09:04 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
       "description": "Delivering net zero also at risk, say MPs as they call for centralised policy and funding for mines and diversification The UK is “dangerously” dependent on China for critical raw materials needed for the military, renewable energy infrastructure and AI, a parliamentary investigation has found. MPs on the business select committee called for an urgent centralised policy and the creation of a “critical minerals finance facility” to help fund rare earth and other critical mineral mines, and deploy grants, equity and debt to accelerate a diversification programme. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
@@ -1668,6 +1668,17 @@
       "url": "https://news.sky.com/story/meghans-brother-a-person-of-interest-in-fathers-child-sex-abuse-image-claims-13608538",
       "published": "Thu, 05 Nov 2026 18:12:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "European air traffic targeted by new threats in at least 3 incidents",
+      "description": "European air traffic targeted by new threats in at least 3 incidents",
+      "url": "https://abcnews.com/International/wireStory/european-air-traffic-targeted-new-threats-3-incidents-137904728",
+      "published": "Fri, 06 Nov 2026 06:13:21 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1791,17 +1802,6 @@
       "description": "Announcement comes after majority of Israeli lawmakers endorse Eisenkot over Netanyahu.",
       "url": "https://www.aljazeera.com/news/2026/11/6/israels-herzog-to-name-a-candidate-to-form-government-on-sunday?traffic_source=rss",
       "published": "Fri, 06 Nov 2026 07:09:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
-      "description": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
-      "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
-      "published": "Fri, 06 Nov 2026 04:30:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
@@ -1949,6 +1949,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 01:28:03 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Macao court sentences pro-democracy ex-politician to 12.5 years in jail",
+      "description": "Court finds Au Kam-san guilty of spreading false information and subversion in bid to disrupt Macao’s 2024 elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/6/macao-sentences-pro-democracy-ex-politician-to-12-5-years-in-jail?traffic_source=rss",
+      "published": "Fri, 06 Nov 2026 11:08:02 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2258,6 +2269,17 @@
       "is_ticker": false
     },
     {
+      "title": "Exercise and cancer: What \"living longer\" really means",
+      "description": "A major trial found more colon cancer patients were alive eight years after treatment with long-term exercise coaching. But what does \"living longer\" mean, and who does it apply to?",
+      "url": "https://www.dw.com/en/exercise-and-cancer-what-living-longer-really-means/a-79856133?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 6 Nov 2026 11:11:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Turkey: Ex-minister arrested in a major fund manipulation scandal",
       "description": "Fatma Betul Sayan Kaya, a former deputy chair of President Erdogan's party, was arrested in a major funds scandal. The opposition claims Sayan Kaya and her husband cashed in shares worth millions in the illegal scheme.",
       "url": "https://www.dw.com/en/turkey-ex-minister-arrested-in-a-major-fund-manipulation-scandal/a-79872732?maca=en-rss-en-all-1573-xml-mrss",
@@ -2303,17 +2325,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 India: Umar Khalid, Sharjeel Imam go back to Supreme Court for bail"
-    },
-    {
-      "title": "British comedian and actor Russell Brand found guilty of rape",
-      "description": "Prosecutors labeled Brand a sexual predator. He was charged in sexual assault cases spanning from 1999 to 2009.",
-      "url": "https://www.dw.com/en/british-comedian-and-actor-russell-brand-found-guilty-of-rape/a-79867216?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 5 Nov 2026 15:17:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Israel president to announce Sunday who will form new government",
@@ -2414,17 +2425,6 @@
       "description": "A British man being treated for Ebola in Congo is being evacuated to the U.K., the government said Thursday",
       "url": "https://abcnews.com/International/wireStory/british-man-treated-ebola-congo-evacuated-uk-137872417",
       "published": "Thu, 05 Nov 2026 07:52:42 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Russian captain among 2 crew found guilty by Finnish court of damaging Baltic cables",
-      "description": "A Finnish court has convicted the captain and another crew member of a cargo ship of damaging undersea telecommunications cables in the Baltic Sea last year",
-      "url": "https://abcnews.com/International/wireStory/russian-captain-2-crew-found-guilty-finnish-court-137871830",
-      "published": "Thu, 05 Nov 2026 08:54:28 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
