@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T16:35:02.241589Z",
+  "last_updated": "2026-11-07T17:08:28.250983Z",
   "event_count": 216,
   "events": [
     {
@@ -70,18 +70,32 @@
       "is_ticker": false
     },
     {
-      "title": "Poland: At least 5 killed in shooting in Krakow, police say",
-      "description": "At least five people were killed and about a dozen injured after a shooter opened fire from his car in Krakow's main market square.",
-      "url": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "At least 5 killed in shooting in Polish city of Krakow, police say",
+      "description": "At least five people were killed and about a dozen injured after a shooter opened fire from a car in Krakow's main market square.",
+      "url": "https://www.dw.com/en/at-least-5-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Nov 2026 15:38:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 At least 5 killed in shooting in Polish city of Krakow, police say"
+    },
+    {
+      "title": "At least five killed in shooting in Polish city of Krakow, police say",
+      "description": "A shooting in the main market square of Krakow in Poland killed at least five people and wounded more than a dozen on Saturday, local police said, adding that the gunman was a Polish citizen and that they had shot and wounded him. Mass shootings are uncommon in the country.",
+      "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
+      "published": "Sat, 07 Nov 2026 15:23:48 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 29,
       "severity_level": "Critical",
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Poland: At least 5 killed in shooting in Krakow, police say"
+      "ticker_label": "🚨 At least five killed in shooting in Polish city of Krakow, police say"
     },
     {
       "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
@@ -402,17 +416,6 @@
       "ticker_label": "🪖 Sudan’s suffering is plain for all to see say aid teams, as brutal war continues"
     },
     {
-      "title": "Two dead after bus crashes in France, officials say",
-      "description": "One child and one young adult were killed in the crash, local authorities say, with more injured.",
-      "url": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:33:52 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Guatemalan lawmaker and three police officers killed in armed attack",
       "description": "It happened in a region of the country known to have drug trafficking activity.",
       "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
@@ -528,20 +531,6 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "At least five killed in shooting in Polish city of Krakow, police say",
-      "description": "A shooting in the main market square of Krakow in Poland killed at least five people on Saturday, local police said.",
-      "url": "https://www.france24.com/en/europe/20261107-at-least-three-people-killed-shooting-in-polish-city-of-krakow-police-say",
-      "published": "Sat, 07 Nov 2026 15:23:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 At least five killed in shooting in Polish city of Krakow, police say"
     },
     {
       "title": "Russia launches massive strike on Kyiv",
@@ -712,20 +701,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian strikes wound nine and damage Ukraine's power network ahead of talks"
-    },
-    {
-      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "description": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 12:22:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation"
     },
     {
       "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -900,6 +875,17 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "The young Somali woman changing how the world sees Mogadishu",
+      "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:19:49 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1218,6 +1204,20 @@
       "is_ticker": false
     },
     {
+      "title": "Spate of bomb threats poses serious challenge to airline industry",
+      "description": "After a week of disruption, airlines are facing both safety and financial concerns.",
+      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 06 Nov 2026 16:18:44 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Spate of bomb threats poses serious challenge to airline industry"
+    },
+    {
       "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
       "description": "Former liberation movement’s share of national vote almost 14 percentage points below 2021 result The African National Congress is on course to suffer a bruising defeat in South Africa’s local elections, with the once dominant party of Nelson Mandela falling to under a third of the vote nationally with more than 80% of ballots counted. Wednesday’s fragmented vote marks another stage in the decline of the ANC, which has led national governments since the end of white minority apartheid rule in 1994. High unemployment, crime, corruption and poor local service delivery have all contributed to voters turning away from the party . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
@@ -1280,17 +1280,6 @@
       "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 15:56:28 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-      "description": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week.",
-      "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 15:30:42 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1455,20 +1444,6 @@
       "ticker_label": "💥 New wave of bomb threats hit European airlines"
     },
     {
-      "title": "Russian extremist group denies sending hoax bomb threats",
-      "description": "Scores of flights across Europe have received bomb threats this week, but no explosives have been found so far.",
-      "url": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 12:51:38 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Russian extremist group denies sending hoax bomb threats"
-    },
-    {
       "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
       "description": "BBC Verify has been analysing messages after flights across Europe were targeted by fake bomb threats - the second such incident this week.",
       "url": "https://www.bbc.co.uk/news/videos/cq398m8w41lyo?at_medium=RSS&at_campaign=rss",
@@ -1553,17 +1528,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks"
-    },
-    {
-      "title": "Germany news: Frankfurt braces for Iran protests",
-      "description": "An appearance by Iranian opposition figure Reza Pahlavi is expected to trigger demonstrations in Frankfurt. Meanwhile, Germany's defense minister says he believes military conscription will not be needed. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-frankfurt-braces-for-iran-protests/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 7 Nov 2026 09:08:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Italy's Meloni blames pro-Russian hackers for leak of foreign minister's data on the dark web",
@@ -1822,6 +1786,17 @@
       "is_ticker": false
     },
     {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+      "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Pope in 'pretty good health' as he starts Latin America tour",
       "description": "Pope Leo travels to Uruguay just three weeks after having surgery for lung cancer.",
       "url": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
@@ -1833,10 +1808,10 @@
       "is_ticker": false
     },
     {
-      "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-      "description": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university.",
-      "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 23:46:08 GMT",
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "description": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online.",
+      "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 16:50:06 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1871,6 +1846,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 07 Nov 2026 12:23:28 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Israel builds 90km network of military roads across southern Lebanon",
+      "description": "Israel is building roads and military outposts across southern Lebanon.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/israel-builds-90km-network-of-military-roads-across-southern-lebanon?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 16:30:33 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2205,6 +2191,17 @@
       "is_ticker": false
     },
     {
+      "title": "Germany news: Son of Iran's last shah takes center stage in Frankfurt",
+      "description": "An appearance by Iranian opposition figure Reza Pahlavi is expected to trigger demonstrations in Frankfurt. Meanwhile, Germany's defense minister says he believes military conscription will not be needed. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-son-of-iran-s-last-shah-takes-center-stage-in-frankfurt/live-79883533?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 7 Nov 2026 09:08:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "US: Giant pandas from China make public debut at Atlanta zoo",
       "description": "Ping Ping and Fu Shuang are the first giant pandas to be housed in Zoo Atlanta after a gap of two years.",
       "url": "https://www.dw.com/en/us-giant-pandas-from-china-make-public-debut-at-atlanta-zoo/a-79883388?maca=en-rss-en-all-1573-xml-mrss",
@@ -2318,7 +2315,7 @@
       "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
       "description": "Paraguay's former President Santiago Peña has been taken to the attorney general’s office for questioning",
       "url": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
-      "published": "Sat, 07 Nov 2026 10:59:01 -0500",
+      "published": "Sat, 07 Nov 2026 11:51:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2329,7 +2326,7 @@
       "title": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
       "description": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith",
       "url": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
-      "published": "Sat, 07 Nov 2026 10:54:14 -0500",
+      "published": "Sat, 07 Nov 2026 11:26:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
