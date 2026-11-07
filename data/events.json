@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T15:34:59.546206Z",
+  "last_updated": "2026-11-07T16:10:16.783855Z",
   "event_count": 216,
   "events": [
     {
@@ -68,6 +68,20 @@
       "severity_score": 31,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Poland: At least 5 killed in shooting in Krakow, police say",
+      "description": "At least five people were killed and around a dozen injured after a shooter opened fire in a market square in Krakow.",
+      "url": "https://www.dw.com/en/poland-at-least-5-killed-in-shooting-in-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 7 Nov 2026 15:38:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 29,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Poland: At least 5 killed in shooting in Krakow, police say"
     },
     {
       "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
@@ -453,6 +467,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Health intel-sharing group warns industry in wake of cyberattack on French blood bank"
+    },
+    {
+      "title": "Casualties reported after shooting in Poland’s Krakow",
+      "description": "Polish Prime Minister Donald Tusk says police are investigating after 'tragic shooting' in second-largest city.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 15:22:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Casualties reported after shooting in Poland’s Krakow"
     },
     {
       "title": "Live: Calm prevails as new mass cost-of-living demonstrations take off across France",
@@ -994,6 +1022,20 @@
       "is_ticker": false
     },
     {
+      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
+      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
+      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 05 Nov 2026 10:33:21 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Was an Italian chef really fired over refusal to put pineapple on pizza?"
+    },
+    {
       "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
       "description": "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on the Gulf launched from its territory.",
       "url": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
@@ -1003,31 +1045,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "India beat New Zealand by four runs via DLS in rain-hit second ODI",
-      "description": "Put in to bat, New Zealand struggled to gain any momentum as ⁠India's pace attack dismantled their batting lineup.",
-      "url": "https://www.aljazeera.com/sports/2026/11/7/india-new-zealand-second-odi-rain-dls-method-win-four-runs?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 10:50:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Sudan war and climate change see parents struggle to feed their children",
-      "description": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
-      "url": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 10:36:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sudan war and climate change see parents struggle to feed their children"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1114,17 +1131,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Paraguay: President Santiago Pena under house arrest over bank crisis"
-    },
-    {
-      "title": "Ueno Bank scandal plunges Paraguay into political crisis",
-      "description": "Suspected financial fraud, public money at risk and millions of customers affected: Paraguay is in serious crisis following the sudden collapse of Ueno Bank. President Santiago Pena is facing impeachment.",
-      "url": "https://www.dw.com/en/ueno-bank-scandal-plunges-paraguay-into-political-crisis/a-79881388?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 6 Nov 2026 20:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Pope urges healthcare for all in Uruguay",
@@ -1318,7 +1324,7 @@
       "title": "No clear winner after tight New Zealand general election",
       "description": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament.",
       "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 15:00:10 GMT",
+      "published": "Sat, 07 Nov 2026 15:56:28 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 6,
@@ -1331,17 +1337,6 @@
       "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 15:30:42 GMT",
       "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Pakistani astronaut to join China’s next space station mission",
-      "description": "The unnamed individual will be the first foreign national to visit China's space station as part of Shenzhou-24 mission.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pakistani-astronaut-to-join-chinas-next-space-station-mission?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 10:17:53 +0000",
-      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1414,8 +1409,8 @@
       "is_ticker": false
     },
     {
-      "title": "French presidential hopeful Mélenchon set to launch campaign by vowing to lower retirement age",
-      "description": "Veteran leftist Jean-Luc Mélenchon is set to formally announce his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
+      "title": "🔴 Watch live: France's far-left presidential candidate Jean-Luc Mélenchon launches campaign",
+      "description": "Veteran leftist Jean-Luc Mélenchon formally announced his plan to raise France's minimum wage, cap prices for essential foods and restore the country's retirement age to 60 in a speech launching his 2027 presidential election programme on Saturday. Polls currently indicate that he is the left wing's strongest contender against far-right candidate Marine Le Pen.",
       "url": "https://www.france24.com/en/france/20261107-french-presidential-hopeful-m%C3%A9lenchon-launches-campaign-by-vowing-lower-retirement-age",
       "published": "Sat, 07 Nov 2026 14:44:24 GMT",
       "source": "France24",
@@ -1517,17 +1512,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Russian extremist group denies sending hoax bomb threats"
-    },
-    {
-      "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
-      "description": "The 58-year-old, who has been detained since April last year, says the charges are politically motivated.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:57:08 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Bomb hoaxes: Messages reveal how threat was passed on by air traffic control",
@@ -1916,33 +1900,58 @@
       "is_ticker": false
     },
     {
-      "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
-      "description": "Jim Messina tells the BBC that after Democrats' midterm victories he's talked to \"over two dozen campaigns\", with some already hiring staff.",
-      "url": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:51:01 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Elon Musk appears to signal the end of the road for Cybertruck",
-      "description": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 21:49:50 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
       "description": "The car company's CEO Elon Musk has said production will halt in Texas, to focus on the firm's self-driving Cybercabs.",
       "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 15:02:03 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+      "description": "Jehovah's Witness leaders relaxed strict rules on blood transfusions, but the change came 23 days too late for Isaac Valdez.",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 01:27:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Four things we learned this week about 2028 White House race",
+      "description": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?",
+      "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 12:23:28 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+      "description": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+      "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 15:34:58 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran’s IRGC says building underground sites for weapons production, storage"
+    },
+    {
+      "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+      "description": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 15:29:11 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2351,6 +2360,17 @@
       "is_ticker": false
     },
     {
+      "title": "Paraguay's former president faces prosecutors after his removal over bank collapse",
+      "description": "Paraguay's former President Santiago Peña has been taken to the attorney general’s office for questioning",
+      "url": "https://abcnews.com/International/wireStory/paraguays-former-president-faces-prosecutors-after-removal-bank-137941605",
+      "published": "Sat, 07 Nov 2026 10:59:01 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "What is Diwali, the Festival of Lights, and how is it celebrated?",
       "description": "Diwali, India’s most important festival, is celebrated by more than a billion people, including Hindus, Sikhs, Jains and Buddhists",
       "url": "https://abcnews.com/International/wireStory/diwali-festival-lights-celebrated-137916244",
@@ -2377,17 +2397,6 @@
       "description": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way",
       "url": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
       "published": "Sat, 07 Nov 2026 00:03:46 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
-      "description": "Pope Leo XIV says that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies",
-      "url": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797",
-      "published": "Fri, 06 Nov 2026 14:48:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
