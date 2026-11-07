@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T17:35:10.313400Z",
+  "last_updated": "2026-11-07T18:11:26.880221Z",
   "event_count": 216,
   "events": [
     {
@@ -70,9 +70,9 @@
       "is_ticker": false
     },
     {
-      "title": "At least 5 killed in shooting in Polish city of Krakow, police say",
-      "description": "At least five people were killed and about a dozen injured after a shooter opened fire from a car in Krakow's main market square.",
-      "url": "https://www.dw.com/en/at-least-5-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "At least 6 killed in shooting in Polish city of Krakow, police say",
+      "description": "At least six people were killed and fifteen injured after a shooter opened fire from a car in Krakow's main market square.",
+      "url": "https://www.dw.com/en/at-least-6-killed-in-shooting-in-polish-city-of-krakow-police-say/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Nov 2026 15:38:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -81,7 +81,7 @@
       "is_ticker": true,
       "ticker_category": "active_shooter",
       "ticker_emoji": "🚨",
-      "ticker_label": "🚨 At least 5 killed in shooting in Polish city of Krakow, police say"
+      "ticker_label": "🚨 At least 6 killed in shooting in Polish city of Krakow, police say"
     },
     {
       "title": "At least six people killed in shooting in Polish city of Krakow, police say",
@@ -174,6 +174,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin"
+    },
+    {
+      "title": "Houthis report 25 killed in Yemen strikes",
+      "description": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 17:39:23 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 26,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Houthis report 25 killed in Yemen strikes"
     },
     {
       "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
@@ -402,6 +416,20 @@
       "ticker_label": "🪖 Sudan’s suffering is plain for all to see say aid teams, as brutal war continues"
     },
     {
+      "title": "What we know about Krakow mass shooting so far",
+      "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:48:29 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 What we know about Krakow mass shooting so far"
+    },
+    {
       "title": "Guatemalan lawmaker and three police officers killed in armed attack",
       "description": "It happened in a region of the country known to have drug trafficking activity.",
       "url": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
@@ -497,15 +525,18 @@
       "ticker_label": "🪖 Fuel price shock: Why developing economies are paying the most at the pump"
     },
     {
-      "title": "EXCLUSIVE: State Department accuses politicians of endangering Afrikaner lives after gruesome farm attacks",
-      "description": "The State Department accused South African politicians of endangering Afrikaners' lives after a farmer was allegedly tortured and a woman beaten to death.",
-      "url": "https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks",
-      "published": "Sat, 31 Oct 2026 09:00:43 -0400",
-      "source": "Fox News World",
+      "title": "Houthis say at least 25 killed in Saudi air strike",
+      "description": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented.",
+      "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:09:24 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 18,
+      "severity_score": 17,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Houthis say at least 25 killed in Saudi air strike"
     },
     {
       "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
@@ -542,6 +573,20 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded",
+      "description": "A gunman, reportedly wearing military-style fatigues, allegedly opened fire from a moving vehicle on Kraków, Poland's Main Square, killing five and injuring at least 12.",
+      "url": "https://www.foxnews.com/world/gunman-opens-fire-moving-car-european-tourist-hotspot-leaving-5-dead-12-wounded",
+      "published": "Sat, 07 Nov 2026 12:37:33 -0500",
+      "source": "Fox News World",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Gunman opens fire from moving car in European tourist hotspot, leaving 6 dead and at least 11 wounded"
     },
     {
       "title": "At least five people killed in shooting in Poland’s Krakow",
@@ -675,6 +720,17 @@
       "ticker_label": "🪖 Protests erupt across France after left-wing groups call for mobilization"
     },
     {
+      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
+      "description": "The Supreme Court implored responsible Diwali celebrations as the Indian government sets out to tackle the country's severe air pollution crisis. DW has more.",
+      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 7 Nov 2026 07:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
@@ -712,20 +768,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Italy's Meloni blames pro-Russian hackers for cyberattack on minister"
-    },
-    {
-      "title": "Russia hits Kyiv and surrounding region in massive overnight strike",
-      "description": "Moscow ⁠carried out missile ​and drone attacks on Kyiv and the surrounding region overnight Friday to Saturday, targeting energy infrastructure and killing at least one person while wounding eight, authorities said. Russia recently stepped up air strikes on ​Ukraine, worsening living conditions for residents who have limited access to power and water.",
-      "url": "https://www.france24.com/en/europe/20261107-moscow-strikes-kyiv-as-ukraine-prepares-for-talks-with-russia-and-the-us",
-      "published": "Sat, 07 Nov 2026 08:08:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russia hits Kyiv and surrounding region in massive overnight strike"
     },
     {
       "title": "Boy, 6, dies in hospital after house fire that killed four members of his family",
@@ -820,20 +862,6 @@
       "ticker_label": "🌪️ Jerusalem Daily: Heavy rains flood Gaza"
     },
     {
-      "title": "Heavy rains flood displacement camps across Gaza",
-      "description": "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 13:04:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Heavy rains flood displacement camps across Gaza"
-    },
-    {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
       "description": "Air pollution spiked to unhealthy levels around the world in 2021, according to a new report.",
       "url": "https://www.cnn.com/2022/03/22/world/air-pollution-2021-iqair-report-climate/index.html",
@@ -886,17 +914,6 @@
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "The young Somali woman changing how the world sees Mogadishu",
-      "description": "For some tourists, the contrast between Somalia's reputation and what they experience on the ground can be striking.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 07 Nov 2026 01:19:49 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
       "is_ticker": false
     },
     {
@@ -1000,20 +1017,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Was an Italian chef really fired over refusal to put pineapple on pizza?",
-      "description": "The chef had stated that putting pineapple on pizza was \"offensive to his culture\".",
-      "url": "https://www.bbc.co.uk/news/videos/cmvg9yy8wpweo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 05 Nov 2026 10:33:21 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Was an Italian chef really fired over refusal to put pineapple on pizza?"
     },
     {
       "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
@@ -1202,20 +1205,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Spate of bomb threats poses serious challenge to airline industry",
-      "description": "After a week of disruption, airlines are facing both safety and financial concerns.",
-      "url": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 16:18:44 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Spate of bomb threats poses serious challenge to airline industry"
     },
     {
       "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
@@ -1558,6 +1547,20 @@
       "ticker_label": "🪖 Ukraine: Russia hits Kyiv with airstrikes ahead of trilateral talks"
     },
     {
+      "title": "France investigating if bogus bomb threats against airlines linked to 'foreign powers'",
+      "description": "French prosecutors are investigating a series of fake bomb threats that targeted commercial flights in Europe this week, including trying to establish whether foreign powers may be involved. Those responsible for the bogus threats have not been identified.",
+      "url": "https://www.france24.com/en/france/20261107-france-investigating-if-bogus-bomb-threats-against-airlines-linked-to-foreign-powers",
+      "published": "Sat, 07 Nov 2026 16:33:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 France investigating if bogus bomb threats against airlines linked to 'foreign powers'"
+    },
+    {
       "title": "Protesters break into Microsoft data center in Amsterdam as Europe backlash spreads",
       "description": "Protesters have broken into a Microsoft data center construction site in Amsterdam",
       "url": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
@@ -1650,7 +1653,7 @@
     },
     {
       "title": "Ousted Paraguayan president appears before prosecutors",
-      "description": "Paraguayan President Santiago Peña was removed from office and placed on House arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
+      "description": "Paraguayan President Santiago Peña was removed from office and placed under house arrest Friday. The Senate voted on his impeachment after the collapse of a state-affiliated bank.",
       "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
       "published": "Sat, 07 Nov 2026 12:14:36 -0500",
       "source": "NPR World News",
@@ -1726,6 +1729,17 @@
       "is_ticker": false
     },
     {
+      "title": "South Africa's ANC facing worst-ever performance in local elections",
+      "description": "Near-final results show South Africa's once dominant ANC will see its lowest-ever vote percentage. The party is taking the blame for shoddy municipal services, including water and electricity shortages.",
+      "url": "https://www.dw.com/en/south-africa-s-anc-facing-worst-ever-performance-in-local-elections/a-79887482?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sat, 7 Nov 2026 18:07:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Journalism and AI: Who owns the news?",
       "description": "Publishers say AI chatbots are using their reporting to answer readers' questions while sending back less traffic and less money. Should the companies that build these tools pay for the journalism they rely on?",
       "url": "https://www.dw.com/en/journalism-and-ai-who-owns-the-news/a-79884854?maca=en-rss-en-all-1573-xml-mrss",
@@ -1737,32 +1751,10 @@
       "is_ticker": false
     },
     {
-      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-      "description": "India's Supreme Court called for responsible celebrations during festivals, particularly Diwali, as it addressed the issue of air pollution in Delhi. DW has more.",
-      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 7 Nov 2026 07:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "US asks China to uphold Busan trade deal commitments",
       "description": "The US urged Beijing to meet commitments from a 2025 accord — particularly on agricultural purchases and rare earths supply. China, meanwhile, expressed concern over the US' \"economic, trade restrictive\" measures.",
       "url": "https://www.dw.com/en/us-asks-china-to-uphold-busan-trade-deal-commitments/a-79882939?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Nov 2026 04:44:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Tankers carrying Russian diesel to the US change course",
-      "description": "Despite an ostensible deal between Donald Trump and Vladimir Putin to bring diesel to the US, tankers are reportedly unable to dock due to existing sanctions.",
-      "url": "https://www.dw.com/en/tankers-carrying-russian-diesel-to-the-us-change-course/a-79870807?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 6 Nov 2026 20:55:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
@@ -1867,6 +1859,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Gaza wedding festival sees 250 couples married at the same time",
+      "description": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+      "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 07 Nov 2026 17:58:41 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Gaza wedding festival sees 250 couples married at the same time"
     },
     {
       "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
