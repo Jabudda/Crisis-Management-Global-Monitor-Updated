@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T23:35:07.494058Z",
+  "last_updated": "2026-11-08T00:32:09.374760Z",
   "event_count": 218,
   "events": [
     {
@@ -92,6 +92,20 @@
       "is_ticker": false
     },
     {
+      "title": "Sri Lanka unions protest bills expanding police powers and warn of abuses",
+      "description": "Trade unions and political activists in Sri Lanka's capital have rallied against proposed anti-terrorism and anti-crime bills",
+      "url": "https://abcnews.com/International/wireStory/sri-lanka-unions-protest-bills-expanding-police-powers-137909130",
+      "published": "Fri, 06 Nov 2026 09:15:08 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 27,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Sri Lanka unions protest bills expanding police powers and warn of abuses"
+    },
+    {
       "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
       "description": "One in four adolescents worldwide reported not getting at least 60 minutes of physical activity on any day in the previous week, according to new global estimates released by the World Health Organization (WHO) on Wednesday.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168736",
@@ -115,20 +129,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia plotting 'massive strike' during midterms, Zelenskyy warns, urges US to stop Putin"
-    },
-    {
-      "title": "Houthis report 25 killed in Yemen strikes",
-      "description": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 17:39:23 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Houthis report 25 killed in Yemen strikes"
     },
     {
       "title": "‘The world is not ready’: Climate adaptation cash falls far short as warming heads past 1.5°C",
@@ -314,6 +314,17 @@
       "description": "A drone attack on a military base in northern Colombia killed three soldiers and injured at least 8, Colombia’s army said",
       "url": "https://abcnews.com/International/wireStory/drone-attack-colombian-military-base-leaves-3-soldiers-137945487",
       "published": "Sat, 07 Nov 2026 16:41:43 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Japan announces emergency cybersecurity package following a wave of attacks",
+      "description": "Japan has announced an emergency cybersecurity package that includes AI and cyber rescue teams",
+      "url": "https://abcnews.com/International/wireStory/japan-announces-emergency-cybersecurity-package-wave-attacks-137911772",
+      "published": "Fri, 06 Nov 2026 10:06:28 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
@@ -589,6 +600,20 @@
       "ticker_label": "🚨 🔴 At least five people killed in shooting in Krakow, Polish police say ⤵️"
     },
     {
+      "title": "Earthquake with preliminary magnitude of 5.7 strikes Japan",
+      "description": "A strong earthquake with a preliminary reading of magnitude 5.7 has struck central Japan",
+      "url": "https://abcnews.com/International/wireStory/strong-earthquake-preliminary-magnitude-57-strikes-japan-meteorological-137946690",
+      "published": "Sat, 07 Nov 2026 19:00:54 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Earthquake with preliminary magnitude of 5.7 strikes Japan"
+    },
+    {
       "title": "Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail",
       "description": "Jennifer Balcarras and Selah Reed went missing on a hiking trail minutes from their Bella Coola home before a suspected grizzly bear attack.",
       "url": "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
@@ -698,6 +723,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Protests erupt across France after left-wing groups call for mobilization"
+    },
+    {
+      "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+      "description": "Iranian state media report blasts in Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 00:00:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war live: Blasts heard in Qeshm; US moves to block land supply routes"
     },
     {
       "title": "India news: Vehicles major cause of Delhi pollution, top court says",
@@ -895,15 +934,18 @@
       "is_ticker": false
     },
     {
-      "title": "Peña skips Senate impeachment trial as Paraguay reels from Ueno bank collapse",
-      "description": "Paraguayan President Santiago Peña failed to appear at his impeachment trial following a scandal surrounding a collapsed bank",
-      "url": "https://abcnews.com/International/wireStory/paraguays-pea-loses-top-aides-impeachment-trial-resumes-137913219",
-      "published": "Fri, 06 Nov 2026 12:38:24 -0500",
-      "source": "ABC News International",
+      "title": "Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff",
+      "description": "Four heritage-listed defence properties to be preserved for community use after backlash from veterans and former PMs Get our daily political email , free app or daily news podcast Four heritage-listed defence sites, including Sydney’s Victoria Barracks, will remain in public hands after the Albanese government yielded to public backlash against their sale. The sites, along with 63 others around the country, were identified in an independent audit as being underutilised by defence, not fit for purpose and costly to maintain, and were earmarked for sale to recoup $3bn in the federal budget. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/08/victoria-barracks-sydney-and-melbourne-remain-in-public-hands-backtrack-defence-property-sale-albanese-marles",
+      "published": "Sun, 08 Nov 2026 00:17:28 GMT",
+      "source": "The Guardian World",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Victoria Barracks in Sydney and Melbourne to remain in public hands after partial backtrack on defence property selloff"
     },
     {
       "title": "MICHAEL RUIZ: California prosecutors revolt after Newsom orders state's worst killers off death row",
@@ -950,10 +992,10 @@
       "is_ticker": false
     },
     {
-      "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
-      "description": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carré and written by his son, Nick Harkaway",
-      "url": "https://abcnews.com/International/wireStory/writer-nick-harkaway-expands-father-john-le-carrs-137936279",
-      "published": "Sat, 07 Nov 2026 01:00:45 -0500",
+      "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
+      "description": "One of Haiti’s most powerful gangs says it has reached out to a state agency responsible for dismantling armed gangs in a push for “peace, stability and national reconciliation.”",
+      "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
+      "published": "Fri, 06 Nov 2026 21:18:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -961,10 +1003,10 @@
       "is_ticker": false
     },
     {
-      "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
-      "description": "One of Haiti’s most powerful gangs says it has reached out to a state agency responsible for dismantling armed gangs in a push for “peace, stability and national reconciliation.”",
-      "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
-      "published": "Fri, 06 Nov 2026 21:18:31 -0500",
+      "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
+      "description": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carré and written by his son, Nick Harkaway",
+      "url": "https://abcnews.com/International/wireStory/writer-nick-harkaway-expands-father-john-le-carrs-137936279",
+      "published": "Sat, 07 Nov 2026 01:00:45 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1175,6 +1217,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 UN peacekeeping chief warns of ‘security vacuum’ as Blue Helmets leave Lebanon and Western Sahara"
+    },
+    {
+      "title": "Ex-police officer accused of stabbing NYC jogger to death appears emotionless in new photos",
+      "description": "Sayed Mohassib was seen led away in handcuffs after being charged with second-degree murder in the stabbing death of Brooklyn jogger Katie Suarez.",
+      "url": "https://www.foxnews.com/us/ex-police-officer-accused-stabbing-nyc-jogger-death-appears-emotionless-new-photos",
+      "published": "Sat, 07 Nov 2026 19:00:18 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Navy veteran blindsided as attacker could land parole hearing months after sentencing: ‘Where is my justice?’",
@@ -1400,17 +1453,6 @@
       "is_ticker": false
     },
     {
-      "title": "Malaysian palace says house arrest order for imprisoned ex-leader Najib must be respected",
-      "description": "Malaysia's national palace says the royal decision allowing former Prime Minister Najib Razak to serve his prison sentence under house arrest is clear",
-      "url": "https://abcnews.com/International/wireStory/malaysian-palace-house-arrest-order-imprisoned-leader-najib-137936646",
-      "published": "Sat, 07 Nov 2026 01:00:31 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
       "description": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station",
       "url": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
@@ -1422,10 +1464,10 @@
       "is_ticker": false
     },
     {
-      "title": "Students in Belgrade join Serbia's post-election cleanup wave",
-      "description": "Serbia’s capital Belgrade has been getting a makeover after a youth-led movement’s victory over a long-ruling strongman and his government in Oct. 25 elections",
-      "url": "https://abcnews.com/International/wireStory/students-belgrade-join-serbias-post-election-cleanup-wave-137917643",
-      "published": "Fri, 06 Nov 2026 12:42:17 -0500",
+      "title": "Malaysian palace says house arrest order for imprisoned ex-leader Najib must be respected",
+      "description": "Malaysia's national palace says the royal decision allowing former Prime Minister Najib Razak to serve his prison sentence under house arrest is clear",
+      "url": "https://abcnews.com/International/wireStory/malaysian-palace-house-arrest-order-imprisoned-leader-najib-137936646",
+      "published": "Sat, 07 Nov 2026 01:00:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1569,17 +1611,6 @@
       "is_ticker": false
     },
     {
-      "title": "Protesters break into Microsoft data center in Amsterdam as Europe backlash spreads",
-      "description": "Protesters have broken into a Microsoft data center construction site in Amsterdam",
-      "url": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
-      "published": "Fri, 06 Nov 2026 12:43:05 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Secret Service arrests armed Venezuelan migrant near White House over alleged Trump assassination threat",
       "description": "Secret Service officers arrested a Venezuelan migrant in Washington, D.C., after finding guns in a stolen vehicle and hearing an alleged threat against President Donald Trump.",
       "url": "https://www.foxnews.com/us/secret-service-arrests-armed-venezuelan-migrant-near-white-house-alleged-trump-assassination-threat",
@@ -1643,6 +1674,17 @@
       "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
       "published": "Sat, 07 Nov 2026 12:14:36 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Former Chinese Politburo member Ma Xingrui charged with taking bribes",
+      "description": "China's state media say a former member of one of China’s top decision-making bodies has been formally charged with accepting bribes a week after Communist Party leaders confirmed his expulsion from the party",
+      "url": "https://abcnews.com/International/wireStory/former-chinese-politburo-member-ma-xingrui-charged-taking-137866646",
+      "published": "Thu, 05 Nov 2026 01:58:21 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1781,17 +1823,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
-      "description": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 18:00:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1866,6 +1897,17 @@
       "url": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 06 Nov 2026 15:02:03 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
+      "description": "Israel's president asked opposition leader Gadi Eisenkot to form the next gov't over Prime Minister Benjamin Netanyahu.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
+      "published": "Sat, 07 Nov 2026 23:45:45 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2088,17 +2130,6 @@
       "description": "Far-right politician addresses Conservative Political Action Conference and makes unsubstantiated claims about election fraud Flávio Bolsonaro, the far-right politician who lost Brazil’s presidential election last month, has insisted his defeat is not “the end for Brazil” as he battles to maintain political relevance after fleeing to the US. Bolsonaro absconded early last week shortly after losing the 25 October election to the leftwing incumbent Luiz Inácio Lula da Silva by more than 4m votes. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
       "published": "Fri, 06 Nov 2026 13:03:38 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
-      "description": "Primary school students bested 200,000 competitors across New South Wales to reach the Premier’s Spelling Bee finals in Sydney Get our breaking news email , free app or daily news podcast Competing in a spelling bee is not for the faint of heart. Sometimes, the difference between victory and loss is one incorrect vowel and you’re undone, months of training reduced to nought. At a small theatre hall in Sydney’s west on Friday afternoon, 34 primary school students sit stony-faced on a brightly lit stage, knowing this pressure only too well. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
-      "published": "Fri, 06 Nov 2026 23:06:10 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 1,
@@ -2337,10 +2368,10 @@
       "is_ticker": false
     },
     {
-      "title": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
-      "description": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith",
-      "url": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
-      "published": "Sat, 07 Nov 2026 11:26:18 -0500",
+      "title": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
+      "description": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way",
+      "url": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
+      "published": "Sat, 07 Nov 2026 00:03:46 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2362,10 +2393,10 @@
       "ticker_label": "🪖 Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news"
     },
     {
-      "title": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
-      "description": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way",
-      "url": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
-      "published": "Sat, 07 Nov 2026 00:03:46 -0500",
+      "title": "Thousands pour into a park in Uruguay for Pope Leo's first Mass in South America",
+      "description": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith",
+      "url": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+      "published": "Sat, 07 Nov 2026 11:26:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2373,21 +2404,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
-      "description": "Pope Leo XIV says that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies",
-      "url": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797",
-      "published": "Fri, 06 Nov 2026 14:48:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory",
-      "description": "Canadian Prime Minister Mark Carney welcomes a Democratic push to repeal U.S. President Donald Trump’s tariffs on Canada after their sweeping midterm victory",
-      "url": "https://abcnews.com/International/wireStory/carney-welcomes-democrats-push-end-trumps-tariffs-canada-137923648",
-      "published": "Fri, 06 Nov 2026 14:46:02 -0500",
+      "title": "The leader of a German conservative party is found dead at a Berlin hotel",
+      "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
+      "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
+      "published": "Thu, 05 Nov 2026 03:50:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2515,17 +2535,6 @@
       "description": "Police returned with at least 15 vehicles to Brooke Hanlon's Chester, New Jersey, home weeks after her autopsy ruled the stabbing a homicide.",
       "url": "https://www.foxnews.com/us/cops-return-new-jersey-mothers-home-months-after-found-stabbed-husband-called-911",
       "published": "Thu, 05 Nov 2026 11:23:29 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "MICHAEL RUIZ: 'Today' segment may explain key Apple Watch detail in Nancy Guthrie ransom note, expert says",
-      "description": "A retired detective says Savannah Guthrie's \"Today\" show Tucson segment may have sparked her abductor's interest in Nancy Guthrie before her kidnapping.",
-      "url": "https://www.foxnews.com/us/michael-ruiz-today-segment-may-explain-key-apple-watch-detail-nancy-guthrie-ransom-note-expert-says",
-      "published": "Thu, 05 Nov 2026 11:16:45 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
