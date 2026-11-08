@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-08T05:35:39.272458Z",
+  "last_updated": "2026-11-08T06:16:39.070718Z",
   "event_count": 218,
   "events": [
     {
@@ -104,20 +104,6 @@
       "severity_score": 27,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Sri Lanka unions protest bills expanding police powers and warn of abuses",
-      "description": "Trade unions and political activists in Sri Lanka's capital have rallied against proposed anti-terrorism and anti-crime bills",
-      "url": "https://abcnews.com/International/wireStory/sri-lanka-unions-protest-bills-expanding-police-powers-137909130",
-      "published": "Fri, 06 Nov 2026 09:15:08 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 27,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Sri Lanka unions protest bills expanding police powers and warn of abuses"
     },
     {
       "title": "15 years of ‘almost no progress’ in getting young people moving: WHO",
@@ -349,17 +335,6 @@
       "is_ticker": false
     },
     {
-      "title": "Japan announces emergency cybersecurity package following a wave of attacks",
-      "description": "Japan has announced an emergency cybersecurity package that includes AI and cyber rescue teams",
-      "url": "https://abcnews.com/International/wireStory/japan-announces-emergency-cybersecurity-package-wave-attacks-137911772",
-      "published": "Fri, 06 Nov 2026 10:06:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "World News in Brief: Korea tensions mount, UN demands answers over staff death in Yemen, Guterres in Spain, Nepal alert ahead of COP31",
       "description": "UN Secretary-General António Guterres remains concerned over the situation on the Korean Peninsula, including the potential escalation of tensions across the Demilitarized Zone (DMZ), his Spokesperson said on Thursday.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168750",
@@ -522,6 +497,20 @@
       "ticker_label": "🪖 Health intel-sharing group warns industry in wake of cyberattack on French blood bank"
     },
     {
+      "title": "As COP31 Antalya kicks off, can world move beyond big promises?",
+      "description": "Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?",
+      "url": "https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 8 Nov 2026 05:55:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ As COP31 Antalya kicks off, can world move beyond big promises?"
+    },
+    {
       "title": "Earthquake hits central Japan, injuring more than 20 people",
       "description": "The magnitude 5.7 quake hit Shizuoka prefecture, and authorities warn of possible strong aftershocks in coming days.",
       "url": "https://www.aljazeera.com/news/2026/11/8/earthquake-hits-central-japan-injuring-more-than-20-people?traffic_source=rss",
@@ -681,17 +670,6 @@
       "ticker_label": "🪖 Bukele warns Haitian gang leaders that his forces will 'finish' them as he did in El Salvador"
     },
     {
-      "title": "Masked protesters set off firecrackers and block roads in Albania",
-      "description": "Police used water cannons to disperse masked protesters in Albania’s capital, Tirana.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 19:49:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -767,15 +745,18 @@
       "ticker_label": "🪖 Protests erupt across France after left-wing groups call for mobilization"
     },
     {
-      "title": "India news: Vehicles major cause of Delhi pollution, top court says",
-      "description": "The Supreme Court implored responsible Diwali celebrations as the Indian government sets out to tackle the country's severe air pollution crisis. DW has more.",
-      "url": "https://www.dw.com/en/india-news-vehicles-major-cause-of-delhi-pollution-top-court-says/live-79883248?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 7 Nov 2026 07:07:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+      "description": "Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 05:09:39 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Haitians cheer El Salvador’s Bukele amid gang war"
     },
     {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -818,7 +799,7 @@
     },
     {
       "title": "Poland: Gunman kills 6 in Krakow main square",
-      "description": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far right' ideologies.",
+      "description": "A gunman who fired from a car killed at least six people, including a British tourist, in Krakow's main market square. Officials said the shooter was fascinated with \"radical\" and \"far-right\" ideologies.",
       "url": "https://www.dw.com/en/poland-gunman-kills-6-in-krakow-main-square/a-79886489?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Sat, 7 Nov 2026 21:34:00 GMT",
       "source": "Deutsche Welle",
@@ -981,10 +962,10 @@
       "is_ticker": false
     },
     {
-      "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
-      "description": "One of Haiti’s most powerful gangs says it has reached out to a state agency responsible for dismantling armed gangs in a push for “peace, stability and national reconciliation.”",
-      "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
-      "published": "Fri, 06 Nov 2026 21:18:31 -0500",
+      "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
+      "description": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carré and written by his son, Nick Harkaway",
+      "url": "https://abcnews.com/International/wireStory/writer-nick-harkaway-expands-father-john-le-carrs-137936279",
+      "published": "Sat, 07 Nov 2026 01:00:45 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -992,10 +973,10 @@
       "is_ticker": false
     },
     {
-      "title": "Writer Nick Harkaway expands his father John le Carré's spyverse in new thriller 'The Taper Man'",
-      "description": "Fictional spymaster George Smiley is back in \"The Taper Man,\" a new thriller set in the world of John le Carré and written by his son, Nick Harkaway",
-      "url": "https://abcnews.com/International/wireStory/writer-nick-harkaway-expands-father-john-le-carrs-137936279",
-      "published": "Sat, 07 Nov 2026 01:00:45 -0500",
+      "title": "Haitian gang reaches out to state disarmament group as gunfights persist",
+      "description": "One of Haiti’s most powerful gangs says it has reached out to a state agency responsible for dismantling armed gangs in a push for “peace, stability and national reconciliation.”",
+      "url": "https://abcnews.com/International/wireStory/powerful-haitian-gang-reaches-state-disarmament-group-gunfights-137932356",
+      "published": "Fri, 06 Nov 2026 21:18:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1056,6 +1037,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Plane clips truck during emergency landing on busy Florida road",
+      "description": "A small plane has made an emergency landing on a busy Florida road, much to the shock of drivers.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+      "published": "Sun, 08 Nov 2026 04:59:02 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Plane clips truck during emergency landing on busy Florida road"
     },
     {
       "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
@@ -1447,6 +1442,17 @@
       "is_ticker": false
     },
     {
+      "title": "Malaysian palace says house arrest order for imprisoned ex-leader Najib must be respected",
+      "description": "Malaysia's national palace says the royal decision allowing former Prime Minister Najib Razak to serve his prison sentence under house arrest is clear",
+      "url": "https://abcnews.com/International/wireStory/malaysian-palace-house-arrest-order-imprisoned-leader-najib-137936646",
+      "published": "Sat, 07 Nov 2026 01:00:31 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Pakistani astronaut to board Shenzhou 24 and become the first foreigner on China's space station",
       "description": "A Pakistani astronaut will board China’s Shenzhou 24 spacecraft as the first foreign national on Beijing’s space station",
       "url": "https://abcnews.com/International/wireStory/pakistani-astronaut-board-shenzhou-24-become-foreigner-chinas-137935456",
@@ -1458,10 +1464,10 @@
       "is_ticker": false
     },
     {
-      "title": "Malaysian palace says house arrest order for imprisoned ex-leader Najib must be respected",
-      "description": "Malaysia's national palace says the royal decision allowing former Prime Minister Najib Razak to serve his prison sentence under house arrest is clear",
-      "url": "https://abcnews.com/International/wireStory/malaysian-palace-house-arrest-order-imprisoned-leader-najib-137936646",
-      "published": "Sat, 07 Nov 2026 01:00:31 -0500",
+      "title": "Students in Belgrade join Serbia's post-election cleanup wave",
+      "description": "Serbia’s capital Belgrade has been getting a makeover after a youth-led movement’s victory over a long-ruling strongman and his government in Oct. 25 elections",
+      "url": "https://abcnews.com/International/wireStory/students-belgrade-join-serbias-post-election-cleanup-wave-137917643",
+      "published": "Fri, 06 Nov 2026 12:42:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1533,17 +1539,6 @@
       "ticker_label": "💥 Police clash with protesters as anti-government rallies sweep France"
     },
     {
-      "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
-      "description": "Trump lashed out at Democrats on Truth Social days after the party won control of Congress.",
-      "url": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
-      "published": "Sat, 07 Nov 2026 19:42:46 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Ebola: Why is there still no vaccine?",
       "description": "Ebola has been known about for decades, but there is still no vaccine against the Bundibugyo strain of the virus causing the current outbreak. New research raises hopes of protection against the various types of Ebola.",
       "url": "https://www.dw.com/en/ebola-why-is-there-still-no-vaccine/a-79888134?maca=en-rss-en-all-1573-xml-mrss",
@@ -1594,10 +1589,32 @@
       "ticker_label": "💥 France investigating if bogus bomb threats against airlines linked to 'foreign powers'"
     },
     {
+      "title": "Paraguay’s impeached president charged over bank collapse",
+      "description": "Paraguay’s impeached president Santiago Pena was on Saturday charged over his business links to a major online bank whose sudden collapse has locked millions of people out of their money and sparked angry protests.",
+      "url": "https://www.france24.com/en/americas/20261107-paraguay-s-impeached-president-charged-over-bank-collapse",
+      "published": "Sat, 07 Nov 2026 15:49:53 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Italy's Meloni blames pro-Russian hackers for leak of foreign minister's data on the dark web",
       "description": "Italian Foreign Minister Antonio Tajani says his personal data has been leaked on the dark web, exposing him to threats and intimidation",
       "url": "https://abcnews.com/International/wireStory/italys-meloni-blames-pro-russian-hackers-leak-foreign-137937793",
       "published": "Sat, 07 Nov 2026 06:45:05 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Protesters break into Microsoft data center in Amsterdam as Europe backlash spreads",
+      "description": "Protesters have broken into a Microsoft data center construction site in Amsterdam",
+      "url": "https://abcnews.com/International/wireStory/protesters-break-microsoft-data-center-site-amsterdam-europes-137915154",
+      "published": "Fri, 06 Nov 2026 12:43:05 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1668,17 +1685,6 @@
       "url": "https://www.npr.org/2026/11/07/nx-s1-6033373/paraguay-president-ousted-bank-collapse",
       "published": "Sat, 07 Nov 2026 12:14:36 -0500",
       "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Former Chinese Politburo member Ma Xingrui charged with taking bribes",
-      "description": "China's state media say a former member of one of China’s top decision-making bodies has been formally charged with accepting bribes a week after Communist Party leaders confirmed his expulsion from the party",
-      "url": "https://abcnews.com/International/wireStory/former-chinese-politburo-member-ma-xingrui-charged-taking-137866646",
-      "published": "Thu, 05 Nov 2026 01:58:21 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -2277,17 +2283,6 @@
       "is_ticker": false
     },
     {
-      "title": "French presidential election: How far-left Mélenchon became a Gen Z favourite",
-      "description": "Far-left presidential candidate Jean-Luc Mélenchon presents his policy platform at a key rally near Paris on Saturday. A polarising figure for the general electorate, he is nonetheless beloved among France's youth, who are drawn to his progressive policy proposals and say he empowers them to get more involved in politics.",
-      "url": "https://www.france24.com/en/france/20261107-french-2027-presidential-elections-how-m%C3%A9lenchon-became-a-gen-z-favourite",
-      "published": "Sat, 07 Nov 2026 10:44:34 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Blow for Netanyahu as opposition rival asked to form government by Israel's president",
       "description": "Israel's president has asked Benjamin Netanyahu's strongest rival, Gadi Eisenkot, to try to form a government following a deadlocked election.",
       "url": "https://news.sky.com/story/blow-for-netanyahu-as-opposition-rival-asked-to-form-government-by-israels-president-13609540",
@@ -2354,10 +2349,10 @@
       "is_ticker": false
     },
     {
-      "title": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
-      "description": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way",
-      "url": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
-      "published": "Sat, 07 Nov 2026 00:03:46 -0500",
+      "title": "Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
+      "description": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith",
+      "url": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
+      "published": "Sat, 07 Nov 2026 21:34:04 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2379,10 +2374,10 @@
       "ticker_label": "🪖 Iran says it has lifted its self-imposed limit on missile ranges, and other Mideast news"
     },
     {
-      "title": "Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
-      "description": "Pope Leo XIV has urged an estimated 40,000 people in Uruguay to build bridges of fraternity and faith",
-      "url": "https://abcnews.com/International/wireStory/thousands-pour-park-uruguay-pope-leos-mass-south-137938096",
-      "published": "Sat, 07 Nov 2026 21:34:04 -0500",
+      "title": "Russell Brand's convictions renew spotlight on media — and a culture — that may have looked away",
+      "description": "Russell Brand's convictions this week for rape and sexual assault have renewed scrutiny on the BBC and other media employers that may have looked the other way",
+      "url": "https://abcnews.com/International/wireStory/russell-brands-convictions-renew-spotlight-media-culture-looked-137935637",
+      "published": "Sat, 07 Nov 2026 00:03:46 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2390,10 +2385,21 @@
       "is_ticker": false
     },
     {
-      "title": "The leader of a German conservative party is found dead at a Berlin hotel",
-      "description": "Hubert Aiwanger, leader of a conservative party influential in Bavarian politics, has been found dead in a Berlin hotel",
-      "url": "https://abcnews.com/International/wireStory/leader-german-conservative-party-found-dead-berlin-hotel-137868810",
-      "published": "Thu, 05 Nov 2026 03:50:23 -0500",
+      "title": "Pope 'proud to be an American' after US elections, credits God, doctors with rebound",
+      "description": "Pope Leo XIV says that he was “proud to be an American and to exercise the right” to vote in U.S. midterm elections that gave control of Congress to the Democrats in a repudiation of U.S. President Donald Trump and his policies",
+      "url": "https://abcnews.com/International/wireStory/pope-proud-american-after-us-elections-credits-god-137923797",
+      "published": "Fri, 06 Nov 2026 14:48:16 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Carney welcomes Democrats' push to end Trump's tariffs on Canada after midterm victory",
+      "description": "Canadian Prime Minister Mark Carney welcomes a Democratic push to repeal U.S. President Donald Trump’s tariffs on Canada after their sweeping midterm victory",
+      "url": "https://abcnews.com/International/wireStory/carney-welcomes-democrats-push-end-trumps-tariffs-canada-137923648",
+      "published": "Fri, 06 Nov 2026 14:46:02 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
