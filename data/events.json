@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T19:08:57.201363Z",
+  "last_updated": "2026-11-09T19:35:24.929081Z",
   "event_count": 221,
   "events": [
     {
@@ -54,20 +54,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ COP31 climate summit: Can we electrify the world?"
-    },
-    {
-      "title": "COP31: Betting on electricity to break the climate deadlock",
-      "description": "From November 9 to 20, the international community is gathering in Antalya, Turkey, for the UN COP31 conference. At a time when the energy crisis linked to the war in the Middle East has forced countries to confront their dependence on fossil fuels, this new round of climate negotiations is starting off with a new goal: to push for a massive shift toward electricity.",
-      "url": "https://www.france24.com/en/environment/20261109-cop31-betting-on-electricity-to-break-the-climate-deadlock",
-      "published": "Mon, 09 Nov 2026 14:33:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 COP31: Betting on electricity to break the climate deadlock"
     },
     {
       "title": "Abyei: Deadly drone strikes mark ‘new and concerning’ threat, UN peacekeeping chief warns",
@@ -174,6 +160,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 French PM brings forward hike in minimum wage to calm protesters"
+    },
+    {
+      "title": "Tourists and locals recount fatal Krakow mass shooting that left Poland reeling",
+      "description": "Tourists and locals alike witnessed a mass shooting in Krakow, Poland, that left six people dead and 15 wounded",
+      "url": "https://abcnews.com/International/wireStory/tourists-locals-recount-fatal-krakow-mass-shooting-left-137952616",
+      "published": "Mon, 09 Nov 2026 04:38:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Tourists and locals recount fatal Krakow mass shooting that left Poland reeling"
     },
     {
       "title": "Krakow shooting suspect dies as Poland mourns six victims",
@@ -402,32 +402,18 @@
       "ticker_label": "🪖 Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war"
     },
     {
-      "title": "France brings forward minimum wage increase in bid to quell unrest",
-      "description": "French Prime Minister Sebastien Lecornu said ​on Monday he was bringing forward a planned 1.6 percent hike in the minimum wage to December from January, as he sought to defuse a cost-of-living crisis that has sparked some of France's worst civil unrest in years. It comes as Lecornu meets labour groups on Monday in a bid to find solutions to the cost-of-living crisis. France 24's Rochelle Ferguson has more.",
-      "url": "https://www.france24.com/en/video/20261109-france-brings-forward-minimum-wage-increase-in-bid-to-quell-unrest",
-      "published": "Mon, 09 Nov 2026 14:43:27 GMT",
-      "source": "France24",
+      "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+      "description": "A Russian drone has struck emergency workers on rescue missions in southern Ukraine",
+      "url": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+      "published": "Sun, 08 Nov 2026 12:14:15 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 France brings forward minimum wage increase in bid to quell unrest"
-    },
-    {
-      "title": "Remembering Kristallnacht: Witness says night of terror risks being a lesson not learned",
-      "description": "Germany is marking the 88th anniversary of the “Night of Broken Glass,” the Nazi-led attacks on Jewish communities on Nov. 9, 1938, when synagogues, homes and thousands of Jewish businesses were destroyed",
-      "url": "https://abcnews.com/International/wireStory/remembering-kristallnacht-witness-night-terror-risks-lesson-learned-137966717",
-      "published": "Mon, 09 Nov 2026 02:42:55 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Remembering Kristallnacht: Witness says night of terror risks being a lesson not learned"
+      "ticker_label": "🪖 Russia targets emergency crews at the site of a deadly strike in southern Ukraine"
     },
     {
       "title": "Fuel price shock: Why developing economies are paying the most at the pump",
@@ -644,6 +630,28 @@
       "is_ticker": false
     },
     {
+      "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
+      "description": "Egypt's railway system has a history of mismanagement and poor maintenance.",
+      "url": "https://abcnews.com/International/wireStory/collision-2-trains-egypt-kills-7-injures-100-137955543",
+      "published": "Mon, 09 Nov 2026 03:49:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Bus overturns on a highway in Croatia, killing at least 2 people and injuring scores",
+      "description": "Croatian police say that at least two people were killed and several were injured when a bus overturned on a highway",
+      "url": "https://abcnews.com/International/wireStory/bus-overturns-highway-croatia-killing-2-people-injuring-137951051",
+      "published": "Sun, 08 Nov 2026 04:45:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict",
       "description": "Trump met Qatar's prime minister at the White House as Marco Rubio warns Iran negotiations are far from a breakthrough amid Strait of Hormuz chaos.",
       "url": "https://www.foxnews.com/world/trump-meets-key-iran-war-mediator-uae-reveals-major-oil-export-surge-despite-conflict",
@@ -766,18 +774,15 @@
       "is_ticker": false
     },
     {
-      "title": "South African police arrest 9 foreigners for trying to join Russia-Ukraine war",
-      "description": "South African police have arrested nine foreign nationals suspected of trying to travel to Russia to fight in the war between Russia and Ukraine",
-      "url": "https://abcnews.com/International/wireStory/south-african-police-arrest-9-foreign-nationals-suspected-137970412",
-      "published": "Mon, 09 Nov 2026 11:02:18 -0500",
-      "source": "ABC News International",
+      "title": "France opens probe into Iranian cyber unit over fridge attacks",
+      "description": "France on Monday said Iran's Revolutionary Guards were behind \"unprecedented\" cyberattacks on supermarket fridges in the country last month, vowing sanctions on a European level against Tehran. Swathes of French supermarkets were hit in the October 11 and 12 cyberattacks, which raised the temperatures in their refrigerators, in some cases forcing them to throw away entire inventories of perishable food.",
+      "url": "https://www.france24.com/en/france-opens-probe-into-iranian-cyber-unit-over-fridge-attacks",
+      "published": "Mon, 09 Nov 2026 19:24:54 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 13,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 South African police arrest 9 foreigners for trying to join Russia-Ukraine war"
+      "is_ticker": false
     },
     {
       "title": "Police say the 24-year-old who fatally shot 6 people in a Krakow square has died in the hospital",
@@ -808,20 +813,6 @@
       "ticker_label": "💥 Gunman with far-right views who killed 6 in Polish city square dies in hospital, police say"
     },
     {
-      "title": "Archaeological treasures uncovered beneath Kabul's crumbling ancient fortress",
-      "description": "The imposing fortress of Bala Hissar in the Afghan capital Kabul has endured centuries of upheaval and war",
-      "url": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
-      "published": "Mon, 09 Nov 2026 09:42:33 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Archaeological treasures uncovered beneath Kabul's crumbling ancient fortress"
-    },
-    {
       "title": "Footage shows derailed carriages after fatal train crash in Egypt",
       "description": "At least seven people died when two trains collided, causing several carriages to derail and fall down an embankment.",
       "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
@@ -837,7 +828,7 @@
     },
     {
       "title": "Pope Leo draws 2.5 million in Buenos Aires, renews warning over Milei's austerity",
-      "description": "An estimated 2.5 million people have attended Pope Leo's mass in Buenos Aires, his largest gathering yet. The pontiff once called for protecting the vulnerable as President Milei cuts disability care and social services.",
+      "description": "Some 2.5 million people have attended Pope Leo's mass in Buenos Aires, his largest gathering yet. The pontiff once again called for protecting the vulnerable as President Milei cuts disability care and social services.",
       "url": "https://www.dw.com/en/pope-leo-draws-2-5-million-in-buenos-aires-renews-warning-over-milei-s-austerity/a-79904137?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 9 Nov 2026 18:38:00 GMT",
       "source": "Deutsche Welle",
@@ -939,6 +930,17 @@
       "ticker_label": "🪖 Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims"
     },
     {
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "description": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 19:07:56 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
       "description": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester. See My World , a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November. Continue reading...",
       "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
@@ -1008,20 +1010,6 @@
       "is_ticker": false
     },
     {
-      "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
-      "description": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 15:10:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 IRGC strikes three tankers near Hormuz over ‘US links’"
-    },
-    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1080,18 +1068,15 @@
       "is_ticker": false
     },
     {
-      "title": "Germany set to get 1st female president as governing parties unite around ex-minister",
-      "description": "Germany is set to get its first female president after Chancellor Friedrich Merz’s party nominated Ilse Aigner, a center-right politician with appeal to liberals, to become the country’s head of state next year",
-      "url": "https://abcnews.com/International/wireStory/germany-set-1st-female-president-governing-parties-unite-137970711",
-      "published": "Mon, 09 Nov 2026 09:58:45 -0500",
+      "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+      "description": "Mourners have laid candles and flowers alongside bullet holes in Krakow, Poland, after the city’s central square turned into a site of bloodshed and grief",
+      "url": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
+      "published": "Mon, 09 Nov 2026 06:06:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Germany set to get 1st female president as governing parties unite around ex-minister"
+      "is_ticker": false
     },
     {
       "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
@@ -1318,29 +1303,18 @@
       "is_ticker": false
     },
     {
-      "title": "France blames Iran for the last month's cyberattack on supermarket fridges",
-      "description": "France has blamed Iran for a cyberattack on supermarket fridges last month",
-      "url": "https://abcnews.com/International/wireStory/france-blames-iran-months-cyberattack-supermarket-fridges-137980107",
-      "published": "Mon, 09 Nov 2026 12:30:19 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Death toll from migrant boat found with bodies on board south of Greece rises to 14",
-      "description": "Greek authorities have recovered 13 bodies from a migrant boat found south of Crete",
-      "url": "https://abcnews.com/International/wireStory/greek-authorities-find-12-bodies-boat-carrying-migrants-137966627",
-      "published": "Mon, 09 Nov 2026 08:30:22 -0500",
+      "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
+      "description": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing its five-year mark",
+      "url": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
+      "published": "Mon, 09 Nov 2026 09:42:33 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Death toll from migrant boat found with bodies on board south of Greece rises to 14"
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US-led peace talks for Russia and Ukraine will look at security guarantees for both sides"
     },
     {
       "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
@@ -1456,6 +1430,17 @@
       "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
       "published": "Mon, 09 Nov 2026 00:25:28 GMT",
       "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 7,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Broken system? French protesters rage against austerity",
+      "description": "How can the nation of haute couture and high speed rail have an affordability issue? On paper, France boasts the planet’s seventh largest economy. Its top diplomat started the week hosting a Group of Seven Industrialized Nations foreign ministers meeting inside the regal setting of its landmark Left Bank ministry.",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261109-broken-system-french-protesters-rage-against-austerity",
+      "published": "Mon, 09 Nov 2026 19:19:18 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 7,
       "severity_level": "Medium",
@@ -1589,10 +1574,10 @@
       "ticker_label": "💥 At least 14 dead after boat carrying migrants found near Crete"
     },
     {
-      "title": "How Mandela's ANC lost its way in South Africa and voters deserted it",
-      "description": "The African National Congress party in South Africa faces growing dissatisfaction and an exodus of supporters",
-      "url": "https://abcnews.com/International/wireStory/mandelas-anc-lost-south-africa-voters-deserted-137977700",
-      "published": "Mon, 09 Nov 2026 12:30:19 -0500",
+      "title": "South Africa's ANC is humbled by its worst election results as it continues its decline",
+      "description": "South Africa’s African National Congress party has experienced its worst election results ever",
+      "url": "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
+      "published": "Sun, 08 Nov 2026 20:14:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1677,32 +1662,15 @@
       "is_ticker": false
     },
     {
-      "title": "Teachers strike in Paraguay to demand pension fund protections following bank's collapse",
-      "description": "Thousands of public schoolteachers went on strike in Paraguay and took to the streets of several cities following the collapse of a major bank that resulted in the removal of the nation’s president last week",
-      "url": "https://abcnews.com/International/wireStory/teachers-strike-paraguay-demand-pension-fund-protections-banks-137982428",
-      "published": "Mon, 09 Nov 2026 13:29:46 -0500",
+      "title": "Kidnapped Mexican border town mayor found alive",
+      "description": "He was kidnapped for several hours while traveling in the state of Zacatecas.",
+      "url": "https://abcnews.com/International/wireStory/mexican-border-town-mayor-found-alive-after-hourslong-137959695",
+      "published": "Sun, 08 Nov 2026 20:06:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Teachers strike in Paraguay to demand pension fund protections following bank's collapse"
-    },
-    {
-      "title": "A day before US-brokered talks, Russia and Ukraine batter each other with strikes",
-      "description": "Russia has hit Ukraine's power grid again while Ukrainian forces targeted a major Russian oil refinery",
-      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
-      "published": "Mon, 09 Nov 2026 09:42:43 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A day before US-brokered talks, Russia and Ukraine batter each other with strikes"
+      "is_ticker": false
     },
     {
       "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
@@ -1840,17 +1808,6 @@
       "is_ticker": false
     },
     {
-      "title": "Los Angeles mayoral race points to growing sway of democratic socialists",
-      "description": "Nithya Raman taps into frustration with economic and political status quo to become mayor of the second-largest US city.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/los-angeles-mayoral-race-points-to-growing-sway-of-democratic-socialists?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 15:05:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
       "description": "As the US attempts to wean itself off its heavy reliance on fossil fuels and shift to cleaner energy sources, many experts are eyeing a promising solution: your neighborhood big-box stores and shopping malls.",
       "url": "https://www.cnn.com/2022/03/20/us/solar-power-on-big-box-store-rooftops-climate/index.html",
@@ -1950,6 +1907,28 @@
       "is_ticker": false
     },
     {
+      "title": "Trump reverses stance, alleges fraud in recent US midterm elections",
+      "description": "Democratic Senate leader Schumer criticises Trump's poll denialism, calling it an avoidable return to baseless claims.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-reverses-stance-alleges-fraud-in-recent-us-midterm-elections?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 19:07:42 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What’s next for US Republicans and Trumpism?",
+      "description": "Republican politician Tom Garrett argues his party lost US midterm elections because it made promises it couldn’t keep.",
+      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/9/whats-next-for-us-republicans-and-trumpism?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 19:02:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
       "description": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
@@ -1992,20 +1971,6 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
-    },
-    {
-      "title": "Senegal human rights group demands government action after deadly sinking",
-      "description": "Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 15:30:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Senegal human rights group demands government action after deadly sinking"
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2165,7 +2130,7 @@
       "title": "M 6.4 - 30 km WSW of Lata, Solomon Islands",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-11-09 03:34:59 UTC 2026-11-09 03:34:59 UTC at epicenter Location 10.867°S 165.562°E Depth 17.00 km (10.56 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
-      "published": "2026-11-09T06:53:42.451Z",
+      "published": "2026-11-09T19:21:09.146Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2404,10 +2369,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ethnically split Cyprus' rival leaders agree to 2 more crossings across island's dividing line",
-      "description": "The rival leaders of ethnically split Cyprus have agreed to open two new crossing points for vehicular traffic along a U.N.-controlled buffer zone in the first such development in nearly a decade",
-      "url": "https://abcnews.com/International/wireStory/ethnically-split-cyprus-rival-leaders-agree-2-crossings-137976803",
-      "published": "Mon, 09 Nov 2026 12:30:56 -0500",
+      "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
+      "description": "Jean-Luc Mélenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren",
+      "url": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
+      "published": "Mon, 09 Nov 2026 06:30:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2426,10 +2391,10 @@
       "is_ticker": false
     },
     {
-      "title": "Russia's top independent newspaper closes after three decades, citing pressure",
-      "description": "Russia’s most celebrated independent newspaper, Novaya Gazeta, has closed its Moscow offices, citing relentless pressure from the government",
-      "url": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
-      "published": "Mon, 09 Nov 2026 09:34:26 -0500",
+      "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
+      "description": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza",
+      "url": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
+      "published": "Mon, 09 Nov 2026 03:10:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2448,6 +2413,17 @@
       "is_ticker": false
     },
     {
+      "title": "Turkey and Azerbaijan deny speculation of fraying relationship",
+      "description": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations",
+      "url": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
+      "published": "Sun, 08 Nov 2026 13:57:19 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
       "description": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century",
       "url": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
@@ -2459,10 +2435,10 @@
       "is_ticker": false
     },
     {
-      "title": "A pastor at a Beijing underground church has been arrested, his wife says",
-      "description": "Chinese authorities have arrested a pastor from a house church in Beijing, according to his wife",
-      "url": "https://abcnews.com/International/wireStory/pastor-beijing-underground-church-arrested-wife-137966622",
-      "published": "Mon, 09 Nov 2026 02:45:42 -0500",
+      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+      "description": "Pope Leo XIV has delivered a diplomatic but subtly strong critique of Argentine President Javier Milei’s austerity measures and libertarian agenda",
+      "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+      "published": "Sun, 08 Nov 2026 19:42:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2470,10 +2446,10 @@
       "is_ticker": false
     },
     {
-      "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
-      "description": "Jean-Luc Mélenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren",
-      "url": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
-      "published": "Mon, 09 Nov 2026 06:30:15 -0500",
+      "title": "Russia's top independent newspaper closes after three decades, citing pressure",
+      "description": "Russia’s most celebrated independent newspaper, Novaya Gazeta, has closed its Moscow offices, citing relentless pressure from the government",
+      "url": "https://abcnews.com/International/wireStory/russias-top-independent-newspaper-closes-office-after-decades-137972997",
+      "published": "Mon, 09 Nov 2026 09:34:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
