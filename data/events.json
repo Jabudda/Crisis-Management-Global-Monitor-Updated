@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09T01:12:34.871885Z",
+  "last_updated": "2026-11-09T01:39:13.310181Z",
   "event_count": 216,
   "events": [
     {
@@ -43,20 +43,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Mourning in Poland after mass shooting"
-    },
-    {
-      "title": "World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone",
-      "description": "A school in Myanmar has been hit in an airstrike, with three children reported killed and five others injured, according to UN Children’s Fund UNICEF.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168729",
-      "published": "Tue, 03 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 36,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 World News in Brief: Children killed in Myanmar strike, new violence flares in Mozambique, an Internet affordability milestone"
     },
     {
       "title": "Collision of two trains in Egypt kills at least seven",
@@ -783,17 +769,6 @@
       "ticker_label": "🪖 Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes"
     },
     {
-      "title": "Diwali: Over one billion people mark victory of light over darkness",
-      "description": "Diwali celebrations began on Sunday, with people across India and the global diaspora gathering to mark one of the most important festivals in the Hindu tradition. In Ayodhya, believed to be the birthplace of Lord Rama, the deity celebrated during the festival, festivities included performances based on the Hindu epic Ramayana, laser and light shows, live music, fireworks and drone displays.",
-      "url": "https://www.france24.com/en/diwali-over-one-billion-people-mark-victory-of-light-over-darkness",
-      "published": "Sun, 08 Nov 2026 10:46:37 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
@@ -820,6 +795,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Footage shows derailed carriages after fatal train crash in Egypt"
+    },
+    {
+      "title": "Drone attack suspends production at Iraq’s Khor Mor gasfield",
+      "description": "The strike leaves more than 70 percent of northern Iraq's Kurdish region without power.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/drone-attack-suspends-production-at-iraqs-khor-mor-gasfield?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 01:19:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Drone attack suspends production at Iraq’s Khor Mor gasfield"
     },
     {
       "title": "Cold blast brings springtime snow to alpine regions as temperatures plummet across Australia’s south-east",
@@ -1113,17 +1102,6 @@
       "is_ticker": false
     },
     {
-      "title": "Fox News ‘Antisemitism Exposed’ Newsletter: Radical Democrats rally behind Piker after election",
-      "description": "Fox News' \"Antisemitism Exposed\" newsletter brings you stories on the rising anti-Jewish prejudice across the U.S. and the world.",
-      "url": "https://www.foxnews.com/us/fox-news-antisemitism-exposed-newsletter-radical-democrats-rally-behind-piker-after-election",
-      "published": "Fri, 06 Nov 2026 06:59:35 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Iran vows ‘astonishing’ strikes and lifts missile-range limit as US targets land routes",
       "description": "Iran's IRGC lifted its 2,000-kilometer ballistic missile-range limit and threatened new weapons hours after U.S. Central Command launched a new task force.",
       "url": "https://www.foxnews.com/world/iran-vows-astonishing-strikes-lifts-missile-range-limit-us-targets-land-routes",
@@ -1174,15 +1152,18 @@
       "is_ticker": false
     },
     {
-      "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
-      "description": "Paul Mackenzie ordered his followers to starve their children to death in a forest so they could \"meet Jesus\".",
-      "url": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 06 Nov 2026 14:46:03 GMT",
+      "title": "How the deadly shooting in Krakow unfolded",
+      "description": "Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.",
+      "url": "https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 08 Nov 2026 09:29:24 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 How the deadly shooting in Krakow unfolded"
     },
     {
       "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gasfield",
@@ -1387,7 +1368,7 @@
       "is_ticker": false
     },
     {
-      "title": "Nvidia launches 'foreign intelligence' investigation after CEO admits affair",
+      "title": "AI giant Nvidia launches investigation into CEO's affair with 'Chinese spy'",
       "description": "Tech giant Nvidia says it is investigating reports that chief executive Jensen ⁠Huang was targeted by a foreign intelligence effort.",
       "url": "https://news.sky.com/story/tech-giant-nvidia-launches-investigation-after-reports-ceo-was-targeted-by-chinese-intelligence-13609986",
       "published": "Sun, 08 Nov 2026 20:41:00 +0000",
@@ -1456,17 +1437,6 @@
       "ticker_label": "💥 Germany news: Merz to nominate Aigner for president"
     },
     {
-      "title": "More than 40,000 gather as Pope Leo XIV celebrates Mass in Uruguay",
-      "description": "Leo celebrated the first Mass of his South America tour less than a month after undergoing cancer surgery. He is seeking to raise interest in the Catholic Church in Uruguay, South America's most secular country.",
-      "url": "https://www.dw.com/en/more-than-40-000-gather-as-pope-leo-xiv-celebrates-mass-in-uruguay/a-79886543?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 7 Nov 2026 16:26:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Israeli opposition leader Eisenkot begins the hard work of forging a coalition government",
       "description": "Israel's ex-military chief Gadi Eisenkot was tapped by President Isaac Herzog to try to form a government Sunday evening. But his lack of a clear majority in parliament will make trying to forge a coalition alongside the country's divided minor parties an uphill struggle.",
       "url": "https://www.france24.com/en/middle-east/20261108-israeli-opposition-leader-eisenkot-begins-the-hard-work-of-forging-a-coalition-government",
@@ -1515,6 +1485,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina"
+    },
+    {
+      "title": "Dallas public defender’s chief investigator charged with wife’s murder after bloody apartment discovery",
+      "description": "Jimmy Spurger Jr., a Dallas County capital murder investigator, is accused of stabbing his wife Maria just days after filing divorce papers.",
+      "url": "https://www.foxnews.com/us/dallas-public-defenders-chief-investigator-charged-wifes-murder-after-bloody-apartment-discovery",
+      "published": "Sun, 08 Nov 2026 20:19:50 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Denver man found dead at bottom of national park canyon beneath steep drop-offs",
@@ -1611,6 +1592,17 @@
       "is_ticker": false
     },
     {
+      "title": "Trump vows comeback as parties clash over Democrat prosecution threats",
+      "description": "President Donald Trump vowed a political comeback on Sunday after Republicans lost control of Congress in last Tuesday’s midterms, as incoming Democratic leaders pledged to hold his administration to account, and the attorney general promised to defend officials against threatened prosecutions.",
+      "url": "https://www.france24.com/en/americas/20261109-trump-comeback-democrats-prosecution-threats",
+      "published": "Mon, 09 Nov 2026 01:13:10 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "The week in pictures: US midterms 'Blue Wave', French protests and Dakar Youth Olympics",
       "description": "From the Democratic Party's big wins in the US midterm elections to France's ongoing student-led protests and the first Olympic sports event held on African soil, FRANCE 24 looks back at some of the week's most striking images.",
       "url": "https://www.france24.com/en/europe/20261108-the-week-in-pictures-trump-midterms-debacle-french-protests-dakar-youth-olympics",
@@ -1638,6 +1630,28 @@
       "url": "https://abcnews.com/International/wireStory/mexican-border-town-mayor-found-alive-after-hourslong-137959695",
       "published": "Sun, 08 Nov 2026 18:42:57 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Beyond the broken glass: The human cost of the 1938 November Pogrom",
+      "description": "On his way to school in Vienna on the morning of 10 November 1938, eight-year-old Arthur Schneier watched his synagogue burn while firefighters and police officers stood by “rejoicing”.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168756",
+      "published": "Sun, 08 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Tensions flare as demonstrators target Jewish restaurants, drawing massive counterprotest",
+      "description": "The demonstration targeted six restaurants in Philadelphia’s Rittenhouse Square as Jewish and pro-Israel groups organized a counterprotest.",
+      "url": "https://www.foxnews.com/us/tensions-flare-demonstrators-target-jewish-restaurants-drawing-massive-counterprotest",
+      "published": "Sun, 08 Nov 2026 20:13:35 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1988,17 +2002,6 @@
       "is_ticker": false
     },
     {
-      "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
-      "description": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
-      "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
-      "published": "Sun, 08 Nov 2026 18:22:58 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2216,6 +2219,17 @@
       "url": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
       "published": "Sat, 07 Nov 2026 15:18:18 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo urges Argentina's Milei to put people before the economy",
+      "description": "Pope Leo XIV has urged Argentina to protect democracy and ensure economic growth benefits the poor, delivering a message to President Javier Milei over austerity, social welfare and political divisions.",
+      "url": "https://www.dw.com/en/pope-leo-urges-argentina-s-milei-to-put-people-before-the-economy/a-79894779?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 9 Nov 2026 01:35:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2507,17 +2521,6 @@
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/gop-battle-lines-emerge-vance-cruz-desantis-clash-over-midterm-losses-more-top-headlines",
       "published": "Fri, 06 Nov 2026 07:37:51 -0400",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ex-MIT professor wins $6M after sex claims wrecked career, accuser joked about ‘#hetoo’",
-      "description": "David Sabatini's $6 million defamation win over Kristin Knouse now faces cross-appeals as both sides prepare to battle in Massachusetts courts.",
-      "url": "https://www.foxnews.com/us/ex-mit-professor-wins-6m-after-sex-claims-wrecked-career-accuser-joked-about-hetoo",
-      "published": "Fri, 06 Nov 2026 07:00:19 -0400",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 1,
