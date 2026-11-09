@@ -1,21 +1,7 @@
 {
-  "last_updated": "2026-11-09T13:12:14.244069Z",
+  "last_updated": "2026-11-09T13:35:53.005468Z",
   "event_count": 219,
   "events": [
-    {
-      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
-      "description": "International Maritime Organization records at least 25 deaths since the conflict started on February 28.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 07:07:26 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 40,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Who are the seafarers caught in the US-Israeli war on Iran?"
-    },
     {
       "title": "Collision of two trains in Egypt kills at least seven",
       "description": "President orders prompt investigation after one train derails in collision in al-Ayyat about 50km from Cairo Seven people were killed and at least 125 injured when two trains collided on Sunday south of the Egyptian capital, Cairo, officials said. The crash occurred in al-Ayyat district in Giza province, about 50km (30 miles) south of Cairo, when a train travelling to Fayoum province crashed into the rear of a train heading to the southern province of Aswan, according to the transport ministry. Continue reading...",
@@ -185,6 +171,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Deadly floods hit Iraq as thunderstorms sweep across region"
+    },
+    {
+      "title": "Tourists and locals recount fatal Krakow mass shooting that left Poland reeling",
+      "description": "Tourists and locals alike witnessed a mass shooting in Krakow, Poland, that left six people dead and 15 wounded",
+      "url": "https://abcnews.com/International/wireStory/tourists-locals-recount-fatal-krakow-mass-shooting-left-137952616",
+      "published": "Mon, 09 Nov 2026 04:38:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 Tourists and locals recount fatal Krakow mass shooting that left Poland reeling"
     },
     {
       "title": "Ukraine says air alert system hacked after false radiation warning in Kyiv",
@@ -388,6 +388,20 @@
       "is_ticker": false
     },
     {
+      "title": "Russia targets emergency crews at the site of a deadly strike in southern Ukraine",
+      "description": "A Russian drone has struck emergency workers on rescue missions in southern Ukraine",
+      "url": "https://abcnews.com/International/wireStory/russia-targets-emergency-crews-site-deadly-strike-southern-137951536",
+      "published": "Sun, 08 Nov 2026 12:14:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia targets emergency crews at the site of a deadly strike in southern Ukraine"
+    },
+    {
       "title": "Gaza: Rains add misery to humanitarian catastrophe",
       "description": "With most homes damaged or destroyed by the war, Gazans are facing worsening humanitarian conditions due to heavy rain.",
       "url": "https://www.dw.com/en/gaza-rains-add-misery-to-humanitarian-catastrophe/a-79889580?maca=en-rss-en-all-1573-xml-mrss",
@@ -400,20 +414,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Gaza: Rains add misery to humanitarian catastrophe"
-    },
-    {
-      "title": "Remembering Kristallnacht: Witness says night of terror risks being a lesson not learned",
-      "description": "Germany is marking the 88th anniversary of the “Night of Broken Glass,” the Nazi-led attacks on Jewish communities on Nov. 9, 1938, when synagogues, homes and thousands of Jewish businesses were destroyed",
-      "url": "https://abcnews.com/International/wireStory/remembering-kristallnacht-witness-night-terror-risks-lesson-learned-137966717",
-      "published": "Mon, 09 Nov 2026 02:42:55 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Remembering Kristallnacht: Witness says night of terror risks being a lesson not learned"
     },
     {
       "title": "Fuel price shock: Why developing economies are paying the most at the pump",
@@ -630,6 +630,28 @@
       "ticker_label": "🪖 Tents 'entirely submerged' as heavy rains hit Gaza"
     },
     {
+      "title": "2 trains crash in Egypt; 2 dead, more than 100 injured",
+      "description": "Egypt's railway system has a history of mismanagement and poor maintenance.",
+      "url": "https://abcnews.com/International/wireStory/collision-2-trains-egypt-kills-7-injures-100-137955543",
+      "published": "Mon, 09 Nov 2026 03:49:12 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Bus overturns on a highway in Croatia, killing at least 2 people and injuring scores",
+      "description": "Croatian police say that at least two people were killed and several were injured when a bus overturned on a highway",
+      "url": "https://abcnews.com/International/wireStory/bus-overturns-highway-croatia-killing-2-people-injuring-137951051",
+      "published": "Sun, 08 Nov 2026 04:45:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Canadian mother and daughter dead after suspected grizzly bear attack on hiking trail",
       "description": "Jennifer Balcarras and Selah Reed went missing on a hiking trail minutes from their Bella Coola home before a suspected grizzly bear attack.",
       "url": "https://www.foxnews.com/world/canadian-mother-daughter-dead-suspected-grizzly-bear-attack-hiking-trail",
@@ -685,17 +707,6 @@
       "url": "https://www.france24.com/en/video/20261109-the-white-truffles-sparking-bidding-frenzies-in-northern-italy",
       "published": "Mon, 09 Nov 2026 11:01:12 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Sudan’s military again detains International Criminal Court fugitive Haroun, lawyers say",
-      "description": "Sudan’s military authorities have once again detained Ahmed Haroun, a former senior Islamist official wanted by the International Criminal Court for atrocities in Darfur",
-      "url": "https://abcnews.com/International/wireStory/sudans-military-detains-international-criminal-court-fugitive-haroun-137956175",
-      "published": "Sun, 08 Nov 2026 15:10:19 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -805,20 +816,6 @@
       "ticker_label": "💥 Gunman with far-right views who killed 6 in Polish city square dies in hospital, police say"
     },
     {
-      "title": "Work to save the Afghan capital’s crumbling ancient fortress uncovers archaeological treasures",
-      "description": "The imposing fortress of Bala Hissar in the Afghan capital Kabul has endured centuries of upheaval and war",
-      "url": "https://abcnews.com/International/wireStory/work-save-afghan-capitals-crumbling-ancient-fortress-uncovers-137966473",
-      "published": "Mon, 09 Nov 2026 07:34:17 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Work to save the Afghan capital’s crumbling ancient fortress uncovers archaeological treasures"
-    },
-    {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
       "description": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
       "url": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
@@ -831,20 +828,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian strikes wound nine and damage Ukraine's power network ahead of talks"
-    },
-    {
-      "title": "Poland mass shooting assailant dies in hospital, police say",
-      "description": "Suspect shot by police and arrested minutes ‌after gunfire opened on people in central Krakow.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/poland-mass-shooting-assailant-dies-in-hospital-police-say?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 07:03:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Poland mass shooting assailant dies in hospital, police say"
     },
     {
       "title": "'A tricky day' ahead for French PM as he meets with unions amid social unrest",
@@ -964,22 +947,25 @@
       "ticker_label": "🪖 Killer’s chewing gum blows open 40-year-old murders, detective warns there may be more victims"
     },
     {
+      "title": "Sudan teachers go on strike over meagre salaries and dilapidated schools",
+      "description": "Teachers across the country say their pay no longer covers basic living costs.",
+      "url": "https://www.aljazeera.com/economy/2026/11/9/sudan-teachers-go-on-strike-over-meagre-salaries-and-dilapidated-schools?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 13:08:35 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Sudan teachers go on strike over meagre salaries and dilapidated schools"
+    },
+    {
       "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
       "description": "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives African philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester. See My World , a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November. Continue reading...",
       "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
       "published": "Sun, 08 Nov 2026 12:00:39 GMT",
       "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "New Delhi wakes to toxic smog after Diwali firecrackers",
-      "description": "A thick blanket of smog has shrouded India’s capital after firecrackers lit up the skies over New Delhi during Diwali celebrations",
-      "url": "https://abcnews.com/International/wireStory/new-delhi-wakes-toxic-smog-after-diwali-firecrackers-137964538",
-      "published": "Mon, 09 Nov 2026 04:38:17 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 10,
       "severity_level": "High",
@@ -1102,10 +1088,10 @@
       "ticker_label": "🪖 G7 ministers meet as Europe seeks greater say in Ukraine peace talks"
     },
     {
-      "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
-      "description": "Foreign ministers from the Group of Seven industrialized democracies have begun two days of talks in Paris as they struggle with multiple unresolved world crises amid questions how U.S. President Donald Trump will approach foreign policy after his Repu...",
-      "url": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
-      "published": "Mon, 09 Nov 2026 07:34:13 -0500",
+      "title": "Poles mourn rare mass killing as authorities say attacker had far-right views",
+      "description": "Mourners have laid candles and flowers alongside bullet holes in Krakow, Poland, after the city’s central square turned into a site of bloodshed and grief",
+      "url": "https://abcnews.com/International/wireStory/poles-mourn-rare-mass-killing-authorities-attacker-views-137951140",
+      "published": "Mon, 09 Nov 2026 06:06:16 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1113,10 +1099,10 @@
       "is_ticker": false
     },
     {
-      "title": "UN climate summit kicks off in Turkey after a disastrous year of extreme weather",
-      "description": "World leaders, delegates and climate activists are in Antalya, Turkey, for a U.N. climate summit",
-      "url": "https://abcnews.com/International/wireStory/leaders-gather-turkey-climate-summit-after-disastrous-year-137963921",
-      "published": "Mon, 09 Nov 2026 06:38:15 -0500",
+      "title": "Rubio will discuss Iran, Ukraine, AI and more with G7 allies in France",
+      "description": "Foreign ministers from the Group of Seven industrialized democracies have begun two days of talks in Paris as they struggle with multiple unresolved world crises amid questions how U.S. President Donald Trump will approach foreign policy after his Repu...",
+      "url": "https://abcnews.com/International/wireStory/rubio-discuss-iran-ukraine-ai-g7-allies-france-137965744",
+      "published": "Mon, 09 Nov 2026 07:34:13 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1224,20 +1210,6 @@
       "ticker_label": "🪖 Qatar PM to meet Trump: What’s the latest on US-Iran negotiations?"
     },
     {
-      "title": "Why we disrupted Annalena Baerbock’s award speech",
-      "description": "The former German foreign minister is no proponent of peace and justice. No award can wipe out her disastrous record.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 06:49:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Why we disrupted Annalena Baerbock’s award speech"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1310,21 +1282,10 @@
       "ticker_label": "🪖 Dems set to go after Hegseth, Musk following midterms rout"
     },
     {
-      "title": "Greek authorities find 12 bodies in a boat carrying migrants; 18 people are rescued",
-      "description": "Greek authorities have recovered 13 bodies from a migrant boat found south of Crete",
-      "url": "https://abcnews.com/International/wireStory/greek-authorities-find-12-bodies-boat-carrying-migrants-137966627",
-      "published": "Mon, 09 Nov 2026 07:26:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "US-led peace talks for Russia and Ukraine will look at security guarantees for both sides",
       "description": "For the first time since February, Russian, Ukrainian and U.S. negotiators are scheduled to hold talks on ending the full-scale war that is nearing its five-year mark",
       "url": "https://abcnews.com/International/wireStory/us-led-peace-talks-russia-ukraine-security-guarantees-137966016",
-      "published": "Mon, 09 Nov 2026 07:50:22 -0500",
+      "published": "Mon, 09 Nov 2026 08:06:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1333,17 +1294,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 US-led peace talks for Russia and Ukraine will look at security guarantees for both sides"
-    },
-    {
-      "title": "Saudi Arabia turns to Syria for help as fighting with Houthis escalates",
-      "description": "Syria is preparing to send fighters to Saudi Arabia to support its escalating conflict with rebels in neighboring Yemen",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-turns-syria-fighting-houthis-escalates-137956922",
-      "published": "Sun, 08 Nov 2026 14:22:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Afghanistan faces deepening humanitarian crisis amid sweeping rights restrictions",
@@ -1639,6 +1589,31 @@
       "ticker_label": "💥 At least 14 dead after boat carrying migrants found near Crete"
     },
     {
+      "title": "South Africa's ANC is humbled by its worst election results as it continues its decline",
+      "description": "South Africa’s African National Congress party has experienced its worst election results ever",
+      "url": "https://abcnews.com/International/wireStory/south-africas-anc-humbled-worst-election-results-continues-137955443",
+      "published": "Sun, 08 Nov 2026 20:14:16 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news",
+      "description": "Saudi Arabia has intercepted missiles targeting its capital and other regions",
+      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-missiles-aramco-building-riyadh-damaged-137951443",
+      "published": "Sun, 08 Nov 2026 21:42:11 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Saudi Arabia intercepts missiles as Aramco building in Riyadh is damaged, and other Mideast news"
+    },
+    {
       "title": "Fake federal agents push seniors to turn savings into gold bars for couriers to collect",
       "description": "Scammers posing as FTC agents convinced retirees to buy gold bars and hand them to couriers using secret passwords like \"tulip\" at restaurants.",
       "url": "https://www.foxnews.com/us/fake-federal-agents-push-seniors-turn-savings-gold-bars-couriers-collect",
@@ -1717,20 +1692,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran: Trump says strikes unlikely if peace talks keep moving"
-    },
-    {
-      "title": "A day before US-brokered talks, Russia and Ukraine batter each other with strikes",
-      "description": "Russia has hit Ukraine's power grid again, while Ukrainian forces targeted a major Russian oil refinery",
-      "url": "https://abcnews.com/International/wireStory/day-us-brokered-talks-russia-ukraine-batter-long-137968428",
-      "published": "Mon, 09 Nov 2026 06:48:39 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A day before US-brokered talks, Russia and Ukraine batter each other with strikes"
     },
     {
       "title": "Kidnapped Mexican border town mayor found alive",
@@ -1820,6 +1781,17 @@
       "source": "CNN World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Syria confirms sending troops to Saudi Arabia amid battle against Houthis",
+      "description": "Syrian officials deny reports Damascus is sending troops to Yemen, but Syrian security integration appears under way",
+      "url": "https://www.aljazeera.com/features/2026/11/9/syria-confirms-sending-troops-to-saudi-arabia-amid-battle-against-houthis?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 13:15:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1967,6 +1939,31 @@
       "is_ticker": false
     },
     {
+      "title": "Which Republicans are running for minority leadership roles in Congress?",
+      "description": "Republicans in US House and Senate will hold elections on Tuesday to select leadership after losing their majorities.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/which-republicans-are-running-for-minority-leadership-roles-in-congress?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 13:14:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "China rejects ‘baseless’ claims it spied on Nvidia boss",
+      "description": "China denies spying on Nvidia boss Jensen Huang as the company probes his affair with an alleged intelligence agent.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/china-rejects-baseless-claims-it-spied-on-nvidia-boss?traffic_source=rss",
+      "published": "Mon, 09 Nov 2026 13:02:46 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 China rejects ‘baseless’ claims it spied on Nvidia boss"
+    },
+    {
       "title": "Why is Nvidia’s Jensen Huang at the centre of a US-China spy scandal?",
       "description": "Allegations linking CEO to Chinese intelligence shake markets with chipmaker's shares falling more than 4 percent.",
       "url": "https://www.aljazeera.com/news/2026/11/9/why-is-nvidias-jensen-huang-at-the-centre-of-a-us-china-spy-scandal?traffic_source=rss",
@@ -2004,17 +2001,6 @@
       "description": "Donald Trump says he was ‘only kidding’ about appointing UFC CEO Dana White as the White House press secretary.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-only-kidding-about-dana-white-press-secretary-role?traffic_source=rss",
       "published": "Mon, 09 Nov 2026 08:18:00 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
-      "description": "Hasina, who has been living in India for two years, has promised to return to Bangladesh in December.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
-      "published": "Mon, 09 Nov 2026 07:12:09 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2410,39 +2396,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pope visits struggling Argentine home for people with disabilities to press message",
-      "description": "Pope Leo XIV is doubling down on his call for Argentina to look out for the weakest",
-      "url": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
-      "published": "Mon, 09 Nov 2026 07:50:31 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
-      "description": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century",
-      "url": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
-      "published": "Mon, 09 Nov 2026 06:14:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "A pastor at a Beijing underground church has been arrested, his wife says",
-      "description": "Chinese authorities have arrested a pastor from a house church in Beijing, according to his wife",
-      "url": "https://abcnews.com/International/wireStory/pastor-beijing-underground-church-arrested-wife-137966622",
-      "published": "Mon, 09 Nov 2026 02:45:42 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "He fought France's far right for half a century. Now Mélenchon's presidential bid may hand it power",
       "description": "Jean-Luc Mélenchon is 75 and he's betting his last shot at France’s presidency on a generation young enough to be his grandchildren",
       "url": "https://abcnews.com/International/wireStory/fought-frances-half-century-now-mlenchons-presidential-bid-137966011",
@@ -2454,10 +2407,21 @@
       "is_ticker": false
     },
     {
-      "title": "Bangladesh's ousted leader Sheikh Hasina appeals for a new passport to return from exile",
-      "description": "Former Bangladeshi Prime Minister Sheikh Hasina has requested a new passport to facilitate her return from exile two years after she was ousted in a mass uprising",
-      "url": "https://abcnews.com/International/wireStory/bangladeshs-ousted-leader-sheikh-hasina-appeals-new-passport-137965192",
-      "published": "Mon, 09 Nov 2026 04:07:25 -0500",
+      "title": "Tens of thousands march in Amsterdam, pressing the Dutch government on Gaza and Israel",
+      "description": "Tens of thousands of people, many dressed in red, have marched through Amsterdam, demanding the Dutch government take stronger action against Israel over Gaza",
+      "url": "https://abcnews.com/International/wireStory/tens-thousands-march-amsterdam-pressing-dutch-government-gaza-137954786",
+      "published": "Mon, 09 Nov 2026 03:10:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope visits struggling Argentine home for people with disabilities to press message",
+      "description": "Pope Leo XIV is doubling down on his call for Argentina to look out for the weakest",
+      "url": "https://abcnews.com/International/wireStory/pope-visits-struggling-argentine-home-people-disabilities-press-137970019",
+      "published": "Mon, 09 Nov 2026 08:06:38 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2469,6 +2433,39 @@
       "description": "The Turkish and Azerbaijani presidents have reaffirmed the countries’ close ties following speculation of souring relations",
       "url": "https://abcnews.com/International/wireStory/turkey-azerbaijan-deny-speculation-fraying-relationship-137956081",
       "published": "Sun, 08 Nov 2026 13:57:19 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "In Senegal, Black surfers want to reclaim the waves despite lack of resources",
+      "description": "The origins of surfing can be traced back to the native populations of Peru, Polynesia and Hawaii, and European travelers documented children surfing along the coast of what is now Ghana as early as the 17th century",
+      "url": "https://abcnews.com/International/wireStory/senegal-black-surfers-reclaim-waves-despite-lack-resources-137967918",
+      "published": "Mon, 09 Nov 2026 08:14:17 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope wraps up Uruguay visit and heads to most fraught stop of his tour in Argentina",
+      "description": "Pope Leo XIV has delivered a diplomatic but subtly strong critique of Argentine President Javier Milei’s austerity measures and libertarian agenda",
+      "url": "https://abcnews.com/International/wireStory/pope-wraps-uruguay-visit-heads-fraught-stop-tour-137951348",
+      "published": "Sun, 08 Nov 2026 19:42:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Taiwan detains Communist Party leader over alleged Chinese sponsorship in election",
+      "description": "He's accused of running under the direction of China’s Communist Party.",
+      "url": "https://abcnews.com/International/wireStory/taiwan-detains-communist-party-leader-alleged-chinese-sponsorship-137951046",
+      "published": "Sun, 08 Nov 2026 10:44:57 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
