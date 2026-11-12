@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T08:35:27.395912Z",
+  "last_updated": "2026-11-12T09:12:20.171861Z",
   "event_count": 219,
   "events": [
     {
@@ -56,7 +56,7 @@
       "is_ticker": false
     },
     {
-      "title": "Trappes racist attack suspect says he acted 'on behalf of France'",
+      "title": "Suspect in Trappes racist attack says he acted 'on behalf of France'",
       "description": "In police custody, Kévin Tessier, the main suspect of the October 23 racist terror attack in Trappes, said he was acting \"on behalf of France\" when he went on a deadly rampage that killed one and left five injured. Investigators also found a sticky note at his home where he had listed names and phone numbers of left-wing figures.",
       "url": "https://www.france24.com/en/france/20261112-trappes-racist-attack-suspect-says-he-acted-behalf-france",
       "published": "Thu, 12 Nov 2026 07:08:48 GMT",
@@ -67,7 +67,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Trappes racist attack suspect says he acted 'on behalf of France'"
+      "ticker_label": "💥 Suspect in Trappes racist attack says he acted 'on behalf of France'"
     },
     {
       "title": "General strike over housing brings out hundreds of thousands in Spain",
@@ -248,6 +248,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 11 Nov 2026 13:24:29 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+      "description": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 08:35:20 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 22,
       "severity_level": "Critical",
@@ -546,8 +557,8 @@
       "ticker_label": "💥 European leaders gather in Dublin under the shadow of hybrid threats"
     },
     {
-      "title": "Tshisekedi paves way for constitutional change",
-      "description": "In tonight's edition, A new law expanding the conditions for a constitutional referendum has ignited political tensions in the DRC. Also, Kenya has officially declared the end of its latest Ebola outbreak. And at COP31, environmental advocates are warning against waste incineration, arguing that it risks locking African cities into expensive and polluting infrastructure.",
+      "title": "DR Congo's Tshisekedi paves way for constitutional change",
+      "description": "In tonight's edition: A new law expanding the conditions for a constitutional referendum has ignited political tensions in DR Congo. Also, Kenya has officially declared the end of its latest Ebola outbreak. And at the COP31 climate summit, environmental advocates are warning against waste incineration, arguing that it risks locking African cities into expensive and polluting infrastructure.",
       "url": "https://www.france24.com/en/tshisekedi-paves-way-for-constitutional-change",
       "published": "Wed, 11 Nov 2026 21:39:46 GMT",
       "source": "France24",
@@ -557,7 +568,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Tshisekedi paves way for constitutional change"
+      "ticker_label": "🪖 DR Congo's Tshisekedi paves way for constitutional change"
     },
     {
       "title": "General strike over housing brings out tens of thousands in Spain",
@@ -611,17 +622,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina"
-    },
-    {
-      "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
-      "description": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 03:31:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "Spain's workers hold a general strike over housing costs before national election",
@@ -907,6 +907,20 @@
       "is_ticker": false
     },
     {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 09:00:15 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strike on Gaza hospital kills six Palestinians, health ministry says"
+    },
+    {
       "title": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
       "description": "The head teacher of the school has been arrested to assist police investigations.",
       "url": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
@@ -955,17 +969,6 @@
       "description": "Paraguay's Central Bank said Wednesday it had partially returned savings to all eligible Ueno Bank depositors, following the lender's collapse last week. The crisis triggered mass protests and the impeachment and arrest of former president Santiago Peña, who is accused of directing government funds to the bank.",
       "url": "https://www.france24.com/en/americas/20261112-paraguay-partially-refunds-ueno-bank-depositors-after-collapse",
       "published": "Thu, 12 Nov 2026 03:11:52 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal",
-      "description": "Turns out that the new masters of the universe are human, all too human. China accused of exploiting a vulnerability at the heart of the Silicon Valley giant that reigns supreme over two-thirds of the planet’s AI computing power production, the Nvidia co-founder tempted by the flesh. Jensen Huang admitting to an extramarital affair with Singapore-based Chinese tech CEO Alice Huang - no relation. She’s under scrutiny over the purchase of Nvidia state-of-the-art chips that may have been smuggled back to the mainland illegally. We’ll ask about the rise and possible fall of the Taiwan-born leather-clad AI world icon.",
-      "url": "https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
-      "published": "Wed, 11 Nov 2026 19:32:29 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -1071,7 +1074,7 @@
     },
     {
       "title": "Who is Nvidia CEO Jensen Huang?",
-      "description": "Nvidia's board is meeting late Wednesday to decide whether to oust CEO ​Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips grapples with fallout from reports of two extramarital affairs involving its longtime leader. Report by Jack Pownall and Eliza Herbert",
+      "description": "Nvidia's board met late Wednesday to decide whether to oust CEO ​Jensen Huang, a source familiar with the matter told Reuters, as the world's dominant supplier of AI chips grapples with fallout from reports of two extramarital affairs involving its longtime leader. Report by Jack Pownall and Eliza Herbert",
       "url": "https://www.france24.com/en/who-is-nvidia-ceo-jensen-huang",
       "published": "Thu, 12 Nov 2026 07:54:59 GMT",
       "source": "France24",
@@ -1154,17 +1157,6 @@
       "description": "William, 17, was reported missing after straying from his camp near Walhalla in Victoria’s Gippsland region Get our breaking news email , free app or daily news podcast A teenager has shared an emotional reunion with his mother after being found alive following almost a week lost in dense bushland. Police AirWing found William, 17, whose surname has not been shared, laying down in a creek near Walhalla, 185km east of Melbourne, in Victoria’s east on Thursday morning. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/12/missing-teenager-walhalla-found-alive-australian-bush",
       "published": "Thu, 12 Nov 2026 02:30:28 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 10,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
-      "description": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have entered their second day searching for human remains after a human torso was found in bushland on Sydney’s lower north shore. Police were called to Lane Cove North about 2.30pm on Wednesday after receiving “a number of reports from members of the public” regarding a strong odour in the area, Supt Paul Devaney told media on Thursday morning. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
-      "published": "Thu, 12 Nov 2026 01:27:01 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 10,
@@ -1417,7 +1409,7 @@
     },
     {
       "title": "Gadi Eisenkot unveils agenda to reverse Netanyahu’s policies",
-      "description": "The bloc of Israeli prime ministerial hopeful Gadi Eisenkot introduced a series of bills at the start of the legislative session that target Benjamin Netanyahu and his policies. They include launching an official government-led inquiry into the Hamas-led Oct. 7, 2023, attacks, setting term limits on the position of prime minister and overturning changes the outgoing Netanyahu-led government made to limit the powers of the judiciary. FRANCE 24's Sharon Gaffney speaks with Rina Bassist, Editor at Al-Monitor.",
+      "description": "The bloc of Israeli prime ministerial hopeful Gadi Eisenkot introduced a series of bills at the start of the legislative session that target Prime Minister Benjamin Netanyahu and his policies. They include launching an official government-led inquiry into the Hamas-led October 7, 2023, attacks, setting term limits on the position of prime minister and overturning changes the outgoing Netanyahu-led government made to limit the powers of the judiciary. FRANCE 24's Sharon Gaffney speaks with Rina Bassist, Editor at Al-Monitor.",
       "url": "https://www.france24.com/en/tv-shows/a-propos/20261111-gadi-eisenkot-unveils-agenda-to-reverse-netanyahu-s-policies",
       "published": "Wed, 11 Nov 2026 22:13:05 GMT",
       "source": "France24",
@@ -1681,20 +1673,6 @@
       "ticker_label": "🪖 Ukraine's power supply close to critical as Russian strikes bring darkness and cold"
     },
     {
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "description": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 06:12:05 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says"
-    },
-    {
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
       "description": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public.",
       "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
@@ -1725,6 +1703,17 @@
       "url": "https://www.dw.com/en/kenya-s-last-ebola-patient-leaves-hospital/a-79921240?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Wed, 11 Nov 2026 16:16:00 GMT",
       "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Mongolia protests Malaysia’s handling of a 20-year-old murder case",
+      "description": "Mongolia has lodged a diplomatic protest with Malaysia over the handling of a murder case involving a Mongolian woman",
+      "url": "https://abcnews.com/International/wireStory/mongolia-protests-malaysias-handling-20-year-murder-case-138071482",
+      "published": "Thu, 12 Nov 2026 04:06:41 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1847,6 +1836,17 @@
       "is_ticker": false
     },
     {
+      "title": "‘Tourists hate themselves’ – which is why Tasmania is telling them to stay away",
+      "description": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology? Get our breaking news email , free app or daily news podcast Research shows “tourists hate themselves” – which is exactly why the marketing flacks at Tourism Tasmania are telling them to stay away from the island state. Its new campaign declares the island state is “not really for tourists”, enlisting former SBS newsreader Lee Lin Chin to help sell the tongue-in-cheek campaign, based on the idea that Australians prefer identifying as a “traveller” rather than a “tourist”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+      "published": "Thu, 12 Nov 2026 08:30:57 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Mississippi Senate race: Democrat Scott Colom defeats Republican Cindy Hyde-Smith",
       "description": "The southern US state of Mississippi has elected its first Black senator in more than 140 years. Democrat Scott Colom has won the seat in a historic upset, according to projections.",
       "url": "https://www.dw.com/en/mississippi-senate-race-democrat-scott-colom-defeats-republican-cindy-hyde-smith/a-79924938?maca=en-rss-en-all-1573-xml-mrss",
@@ -1858,24 +1858,21 @@
       "is_ticker": false
     },
     {
-      "title": "Germany news: Only 1/3 of Germans satisfied with state of democracy",
-      "description": "A new authoritarianism study has revealed a new low in satisfaction levels with the functioning of German democracy. Meanwhile, the Bundeswehr has banned Chinese-made drones. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-only-1-3-of-germans-satisfied-with-state-of-democracy/live-79915066?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Wed, 11 Nov 2026 11:31:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Germany news: Only 1/3 of Germans satisfied with state of democracy"
-    },
-    {
       "title": "Democrat Scott Colom wins historic Senate race in Mississippi",
       "description": "Democrat Scott Colom defeated Republican Senator Cindy Hyde-Smith in Mississippi after a final count on Wednesday, becoming the state's first Black US senator since Reconstruction. His narrow victory adds to the Democrats' midterm gains as President Donald Trump's party suffers a series of defeats.",
       "url": "https://www.france24.com/en/americas/20261111-democrat-scott-colom-wins-historic-senate-race-in-mississippi",
       "published": "Wed, 11 Nov 2026 23:47:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Undone by a honey trap? Nvidia's Jensen Huang at heart of China spy scandal",
+      "description": "It turns out that the new masters of the universe are human – all too human. Nvidia co-founder Jensen Huang has admitted to an extramarital affair with Singapore-based Chinese tech CEO Alice Huang, who is no relation. She's under scrutiny over the purchase of Nvidia state-of-the-art chips that may have been smuggled back to the mainland illegally.",
+      "url": "https://www.france24.com/en/tv-shows/the-debate/20261111-undone-by-a-honey-trap-nvidia-s-jensen-huang-at-heart-of-china-spy-scandal",
+      "published": "Wed, 11 Nov 2026 19:32:29 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
@@ -1973,7 +1970,7 @@
     {
       "title": "Nvidia board weighs ouster of CEO Jensen Huang amid spy scandal",
       "description": "Nvidia's board met late Wednesday to consider removing chief executive Jensen Huang, after reports of two extramarital affairs, including one with an alleged Chinese spy, fuelled a market sell-off and raised questions about the AI chipmaker's leadership.",
-      "url": "https://www.france24.com/en/technology/20261112-nvidia-board-to-decide-whether-to-oust-longtime-ceo-jensen-huang",
+      "url": "https://www.france24.com/en/americas/20261112-nvidia-board-weighs-ouster-of-ceo-jensen-huang-amid-spy-scandal",
       "published": "Thu, 12 Nov 2026 04:05:14 GMT",
       "source": "France24",
       "type": "rss",
@@ -2029,8 +2026,41 @@
       "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
       "description": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
       "url": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 08:26:50 GMT",
+      "published": "Thu, 12 Nov 2026 08:46:57 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "description": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 09:01:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+      "description": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+      "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 08:40:08 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+      "description": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 08:34:45 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2118,39 +2148,6 @@
       "description": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
       "published": "Thu, 12 Nov 2026 04:19:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
-      "description": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 03:13:32 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Indonesian VP resigns over education qualification row",
-      "description": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 02:22:48 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Argentina’s Milei cries as he bids farewell to the Pope",
-      "description": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 02:03:30 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2295,6 +2292,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
       "published": "2026-11-10T03:42:27.855Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Bundeswehr study exposes widespread sexual harassment in German military",
+      "description": "Sexual misconduct in the Bundeswehr is far more widespread than previously known, with younger women disproportionately affected. Defence Minister Boris Pistorius has called for a policy of \"zero tolerance.\"",
+      "url": "https://www.dw.com/en/bundeswehr-study-exposes-widespread-sexual-harassment-in-german-military/a-79926359?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 12 Nov 2026 08:45:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2458,6 +2466,17 @@
       "is_ticker": false
     },
     {
+      "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
+      "description": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse",
+      "url": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
+      "published": "Thu, 12 Nov 2026 03:58:19 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
       "description": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security",
       "url": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
@@ -2506,28 +2525,6 @@
       "description": "Brazil’s top electoral court fines Meta’s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
       "url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841",
       "published": "Wed, 11 Nov 2026 13:19:17 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Germany's military will stop using Chinese-made drones for training purposes",
-      "description": "The German government says its military will stop using Chinese-made drones for training purposes and replace them with German or other European models",
-      "url": "https://abcnews.com/International/wireStory/germanys-military-stop-chinese-made-drones-training-purposes-138038908",
-      "published": "Wed, 11 Nov 2026 06:14:34 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope Leo XIV wrapping up Argentina visit before an emotional trip back to Peru, his adopted homeland",
-      "description": "Pope Leo XIV is wrapping up his visit to Argentina with two poignant moments",
-      "url": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
-      "published": "Wed, 11 Nov 2026 08:06:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
