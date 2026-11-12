@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-12T15:35:37.371863Z",
-  "event_count": 217,
+  "last_updated": "2026-11-12T16:13:03.060245Z",
+  "event_count": 216,
   "events": [
     {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -68,20 +68,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Children among the dead as heavy rains flood tents and shelters in Gaza"
-    },
-    {
-      "title": "At least five injured in Washington, DC, shooting near Logan Circle",
-      "description": "Authorities have issued a shelter-in-place order near scene of attack in US capital.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 14:19:37 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 29,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 At least five injured in Washington, DC, shooting near Logan Circle"
     },
     {
       "title": "Aid groups call on Israel to allow shelters in Gaza amid a humanitarian emergency",
@@ -157,20 +143,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment"
-    },
-    {
-      "title": "Police officer dies and another seriously injured after explosion in northern Spain",
-      "description": "One police officer has died and another has lost a leg after an explosive device detonated at the scene of a shooting in northern Spain.",
-      "url": "https://news.sky.com/story/police-officer-dies-and-another-seriously-injured-after-explosion-in-northern-spain-13610563",
-      "published": "Tue, 10 Nov 2026 11:17:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Police officer dies and another seriously injured after explosion in northern Spain"
     },
     {
       "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
@@ -251,6 +223,17 @@
       "is_ticker": false
     },
     {
+      "title": "At least five people shot, one killed, in central Washington, DC",
+      "description": "Authorities have issued a shelter-in-place order near scene of attack in US capital.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/police-say-at-least-five-people-shot-at-busy-thoroughfare-in-washington-dc?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 14:19:37 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
       "title": "More than 1,800 Italian schools targeted by new hoax bomb alerts",
       "description": "The latest warnings come amid rising concerns ⁠⁠⁠⁠⁠⁠⁠⁠in Europe about hybrid warfare threats.",
       "url": "https://www.aljazeera.com/news/2026/11/12/more-than-1800-italian-schools-targeted-by-new-hoax-bomb-alerts?traffic_source=rss",
@@ -274,6 +257,20 @@
       "severity_score": 22,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "2 dead, including suspect, 4 injured after shooting near Washington, DC gym: Sources",
+      "description": "An armed assailant opened fire outside a Vida Fitness location near 15th and P Street Northwest in Washington, D.C., injuring at least five people. Law enforcement contained the suspect in a barricade, D.C. police confirmed.",
+      "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
+      "published": "Thu, 12 Nov 2026 08:58:06 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 22,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 2 dead, including suspect, 4 injured after shooting near Washington, DC gym: Sources"
     },
     {
       "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
@@ -393,18 +390,15 @@
       "ticker_label": "🪖 Israeli strike on Gaza hospital kills six, health ministry says"
     },
     {
-      "title": "Suspect ‘barricaded’ after multiple injured in shooting near DC fitness center, police say",
-      "description": "An armed assailant opened fire outside a Vida Fitness location near 15th and P Street Northwest in Washington, D.C., injuring at least five people. Law enforcement contained the suspect in a barricade, D.C. police confirmed.",
-      "url": "https://www.foxnews.com/us/shooting-near-dc-fitness-center-leaves-multiple-people-injured-officials-say",
-      "published": "Thu, 12 Nov 2026 08:58:06 -0500",
+      "title": "NYC building collapse: Timeline of deadly disaster as rescuers race to pull survivors from rubble",
+      "description": "A timeline reveals how the deadly New York City building collapse at 1321 Flatbush Ave. unfolded, from the first 911 call to a frantic rescue.",
+      "url": "https://www.foxnews.com/us/nyc-building-collapse-timeline-deadly-disaster-rescuers-race-pull-survivors-rubble",
+      "published": "Thu, 12 Nov 2026 10:31:02 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 19,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Suspect ‘barricaded’ after multiple injured in shooting near DC fitness center, police say"
+      "is_ticker": false
     },
     {
       "title": "Suspected DUI driver arrested on 3 murder counts after deadly North Hollywood crash, police say",
@@ -508,20 +502,6 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "War photographer Patrick Chauvel: 'People have lost faith in the press'",
-      "description": "One of France's top war photographers, who has a 50-year CV of taking pictures in and around conflicts across the planet, has spoken to FRANCE 24 about his concerns that people have lost faith in the press. He notes that journalists are only looking for the truth. Patrick Chauvel has produced nearly 380,000 photographs, from Vietnam to Cambodia, from Afghanistan to Palestine, from Lebanon to Ukraine. He says he wants to take people by the hand to show them how the press works and why.",
-      "url": "https://www.france24.com/en/tv-shows/perspective/20261112-war-photographer-patrick-chauvel-people-have-lost-faith-in-the-press",
-      "published": "Thu, 12 Nov 2026 13:33:46 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 War photographer Patrick Chauvel: 'People have lost faith in the press'"
     },
     {
       "title": "World News in Brief: El Niño’s $11 trillion price tag, Mozambique and Yemen updates",
@@ -655,6 +635,20 @@
       "ticker_label": "💥 Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina"
     },
     {
+      "title": "UK court finds two Iranian men guilty of spying for Iran",
+      "description": "The pair were promised rewards to send intelligence back to Iran, while one was prepared to commit a 'violent attack'.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/uk-court-finds-two-iranian-men-guilty-of-spying-for-iran?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 15:15:48 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 UK court finds two Iranian men guilty of spying for Iran"
+    },
+    {
       "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
       "description": "Israel's military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank.",
       "url": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
@@ -667,17 +661,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 ‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare"
-    },
-    {
-      "title": "Paraguayans get some savings back after banking collapse disrupted economy",
-      "description": "Paraguay's Central Bank said Wednesday, November 11, it had partially returned savings to all eligible Ueno Bank depositors locked out of their accounts when it collapsed last week. The digital bank's takeover on November 3 triggered massive protests across Paraguay and led to the impeachment and arrest of ex-president Santiago Pena, who is linked to Ueno.",
-      "url": "https://www.france24.com/en/video/20261112-paraguayans-get-some-savings-back-after-banking-collapse-disrupted-economy",
-      "published": "Thu, 12 Nov 2026 11:24:53 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
@@ -805,6 +788,17 @@
       "is_ticker": false
     },
     {
+      "title": "Nvidia CEO Jensen Huang resigns after revelations on extramarital affairs",
+      "description": "Jensen Huang resigned as chief executive of AI giant Nvidia on Thursday, November 12, after revelations he had two extramarital affairs, including one with a woman accused of spying for China. FRANCE 24's correspondent in Washington Fraser Jackson and FRANCE 24's International Affairs Commentator Douglas Herbert have more.",
+      "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-resigns-after-revelations-on-extramarital-affairs",
+      "published": "Thu, 12 Nov 2026 15:46:08 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Fiery clashes erupt in Spain as millions join general strike",
       "description": "Unrest broke out in cities across Spain on Wednesday after millions of workers joined the country's first general strike in 14 years.",
       "url": "https://news.sky.com/story/fiery-clashes-erupt-in-spain-as-millions-join-general-strike-13611270",
@@ -817,28 +811,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Fiery clashes erupt in Spain as millions join general strike"
-    },
-    {
-      "title": "Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region",
-      "description": "A rebel group affiliated with the Islamic State group has killed at least 22 people in Congo's eastern Ituri province",
-      "url": "https://abcnews.com/International/wireStory/islamic-state-group-affiliated-rebels-kill-22-congos-138049699",
-      "published": "Wed, 11 Nov 2026 12:01:01 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Austria tightens laws against spying to protect the international organizations it hosts",
-      "description": "Austria has launched plans to tighten its espionage laws, which currently only ban spying against Austria itself",
-      "url": "https://abcnews.com/International/wireStory/austria-tightens-laws-spying-protect-international-organizations-hosts-138042201",
-      "published": "Wed, 11 Nov 2026 08:30:27 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
@@ -922,6 +894,20 @@
       "severity_score": 13,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "US Defence Secretary Pete Hegseth reprimanded at war memorial",
+      "description": "US Defence Secretary Pete Hegseth, along with his wife and aides, was silenced by a guard on Wednesday at the Tomb of the Unknown Soldier. Hegseth's group was at Arlington National Cemetery for a Veterans Day ceremony when they were reprimanded for laughing and taking pictures in front of the sombre memorial.",
+      "url": "https://www.france24.com/en/us-defense-secretary-pete-hegseth-reprimanded-at-war-memorial",
+      "published": "Thu, 12 Nov 2026 15:51:49 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 13,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US Defence Secretary Pete Hegseth reprimanded at war memorial"
     },
     {
       "title": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
@@ -1024,10 +1010,10 @@
       "is_ticker": false
     },
     {
-      "title": "Israeli occupation in southern Lebanon: Displaced families struggle to cope",
-      "description": "In Lebanon, more than 360,000 people are still displaced after months of war between Israel and Hezbollah, according to the UN. Along the border, the Israeli army claims to be fighting the Iran-backed militant group but now occupies 6 percent of Lebanese territory and is wiping entire villages off the map. In the border area, we meet families living in makeshift housing. Many fear they may never go home.",
-      "url": "https://www.france24.com/en/tv-shows/focus/20261112-israeli-occupation-in-southern-lebanon-displaced-families-struggle-to-cope",
-      "published": "Thu, 12 Nov 2026 11:51:05 GMT",
+      "title": "European security and Ukraine talks top agenda at Dublin summit",
+      "description": "Leaders from more than 50 European countries and institutions are gathering in Dublin for the European Political Community summit, hosted by Ireland under the theme “Europe – strong, secure and connected”. The summit highlighted the need for Europe to have a seat at the table in any discussions shaping its future, amid an ongoing debate over how the continent should respond to US-led efforts to negotiate an end to the war in Ukraine with Russia. FRANCE 24's Europe Editor Armen Georgian tells us more.",
+      "url": "https://www.france24.com/en/video/20261112-european-security-and-ukraine-talks-top-agenda-at-dublin-summit",
+      "published": "Thu, 12 Nov 2026 15:44:56 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 12,
@@ -1035,21 +1021,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israeli occupation in southern Lebanon: Displaced families struggle to cope"
-    },
-    {
-      "title": "Throwing cow dung: Diwali celebrations take an unusual turn in southern India",
-      "description": "The third day of Diwali was marked in a memorable way on Wednesday in Gummatapura, a hamlet located in India's Tamil Nadu state. Local men and boys threw cow dung at each other to celebrate the festival of Gorehabba which honours Lord Beereshwara, a God worshipped by locals. Believed to be around 300 years old, the festival attracts tourists from across India and further afield.",
-      "url": "https://www.france24.com/en/video/20261112-throwing-cow-dung-diwali-celebrations-take-an-unusual-turn-in-southern-india",
-      "published": "Thu, 12 Nov 2026 11:45:08 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Throwing cow dung: Diwali celebrations take an unusual turn in southern India"
+      "ticker_label": "🪖 European security and Ukraine talks top agenda at Dublin summit"
     },
     {
       "title": "Egypt: Fact-checking site’s entire newsroom jailed as assault on press freedom widens",
@@ -1116,6 +1088,20 @@
       "ticker_label": "🪖 NSW’s latest news Instagram account has an unlikely group behind it: the Labor party"
     },
     {
+      "title": "Sri Lanka: Rights groups sound alarm over proposed anti-terror law",
+      "description": "The Sri Lankan government is looking to replace a controversial anti-terror law but critics say the new one is just as bad.",
+      "url": "https://www.dw.com/en/sri-lanka-rights-groups-sound-alarm-over-proposed-anti-terror-law/a-79932227?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 12 Nov 2026 15:40:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Sri Lanka: Rights groups sound alarm over proposed anti-terror law"
+    },
+    {
       "title": "Nvidia board reportedly weighs ousting Huang amid alleged affairs with exec and suspected Chinese spy",
       "description": "Nvidia's board is reportedly preparing to oust Jensen Huang amid reports of an affair with a suspected Chinese spy. The shake-up would leave the world's leading AI chip supplier without the co-founder who built it.",
       "url": "https://www.dw.com/en/nvidia-board-reportedly-weighs-ousting-huang-amid-alleged-affairs-with-exec-and-suspected-chinese-spy/a-79925002?maca=en-rss-en-all-1573-xml-mrss",
@@ -1136,31 +1122,6 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Two French guards collapse as Macron welcomes Slovak president",
-      "description": "Two members of France's elite Republican Guard collapsed almost simultaneously outside the Elysee Palace as President Emmanuel Macron welcomed his Slovak counterpart, according to televised images and a presidential source.",
-      "url": "https://www.france24.com/en/live-news/20261112-two-french-guards-collapse-as-macron-welcomes-slovak-president",
-      "published": "Thu, 12 Nov 2026 11:39:22 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "European leaders gather in Dublin to discuss Ukraine's security, and their own",
-      "description": "Leaders from more than 40 European countries gathered in Dublin on Thursday, November 12, for a summit focused on the continent’s fragile security, amid a new US-backed effort to revive talks on ending the Russia-Ukraine war. The meeting of the European Political Community brought together heads of state and government from European countries and the UK, as well as Ukrainian President Volodymyr Zelensky, Canadian Prime Minister Mark Carney and NATO Secretary-General Mark Rutte.",
-      "url": "https://www.france24.com/en/video/20261112-european-leaders-gather-in-dublin-to-discuss-ukraine-s-security-and-their-own",
-      "published": "Thu, 12 Nov 2026 11:19:28 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 European leaders gather in Dublin to discuss Ukraine's security, and their own"
     },
     {
       "title": "US evacuates 13 military aircraft from second UK base as new Iran threat raises alarm",
@@ -1225,7 +1186,7 @@
     },
     {
       "title": "UK court convicts 2 Iranian men of spying on journalists",
-      "description": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's goverment. One was also convicted of planning a violent attack against them.",
+      "description": "A London court has found two Iranian citizens guilty of surveilling reporters for a Persian-language television station critical of Iran's government. One was also convicted of planning a violent attack against them.",
       "url": "https://www.dw.com/en/uk-court-convicts-2-iranian-men-of-spying-on-journalists/a-79931583?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 12 Nov 2026 15:23:00 GMT",
       "source": "Deutsche Welle",
@@ -1321,20 +1282,6 @@
       "severity_score": 9,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS",
-      "description": "Rony Alexander Gomez-Alberto, accused of a bomb threat on a United Airlines flight to New Orleans, had been deported twice before, DHS confirms.",
-      "url": "https://www.foxnews.com/us/twice-deported-illegal-immigrant-accused-trying-storm-united-cockpit-threatening-bomb-dhs",
-      "published": "Tue, 10 Nov 2026 21:01:53 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Twice-deported illegal immigrant accused of trying to storm United cockpit, threatening bomb: DHS"
     },
     {
       "title": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
@@ -1462,10 +1409,38 @@
       "ticker_label": "🪖 Germany news: Police raid chapters of Gremium MC biker gang"
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
-      "description": "Nvidia announced on Thursday that CEO Jensen Huang was stepping down following revelations that he had an affair with a woman accused of spying for China. The company's chief financial officer Colette Kress will serve as interim CEO while the board searches for Huang's successor.",
-      "url": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair",
-      "published": "Thu, 12 Nov 2026 14:06:37 GMT",
+      "title": "At least five people shot in DC neighbourhood near the White House",
+      "description": "At least one person died after five people were shot early Thursday in a Washington, DC neighbourhood near the White House, police said. A swarm of officers responded to a nearby apartment building where a suspect was barricaded and later shot himself.",
+      "url": "https://www.france24.com/en/americas/20261112-at-least-five-people-shot-in-dc-neighbourhood-near-the-white-house",
+      "published": "Thu, 12 Nov 2026 16:01:57 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 At least five people shot in DC neighbourhood near the White House"
+    },
+    {
+      "title": "Life through a lens: Celebrating 200 years of photography",
+      "description": "A passport photo, a selfie, an award-winning film and even the evening news: all of them were made possible thanks to a \"fantastic machine\", the camera. As France celebrates the bicentenary of the first fixed photographic image, we discuss the image-obsessed society we live in with filmmaker Maximilien Van Aertryck and artist Alina Frieske.",
+      "url": "https://www.france24.com/en/tv-shows/arts24/20261112-life-through-a-lens-celebrating-200-years-of-photography",
+      "published": "Thu, 12 Nov 2026 15:56:15 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Life through a lens: Celebrating 200 years of photography"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang steps down",
+      "description": "Nvidia CEO Jensen Huang resigned Thursday after his extramarital affair raised national security concerns, in a spectacular downfall for the longtime head of the chipmaker, a vital player in the artificial intelligence boom. The scandal has sent shares of the multi-trillion-dollar company plunging, and the exit of Huang, who has been a key promoter of the artificial intelligence boom, leaves Nvidia without its leather-jacket-clad leader at a crucial time for the sector.",
+      "url": "https://www.france24.com/en/video/20261112-nvidia-ceo-jensen-huang-steps-down",
+      "published": "Thu, 12 Nov 2026 15:45:53 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1473,10 +1448,21 @@
       "is_ticker": false
     },
     {
-      "title": "Rare pictures from Marilyn Monroe's final shoot on auction in Paris",
-      "description": "Prints from the personal collection of photographer Bert Stern are going under the hammer in Paris on December 2, marking the first time his private archive has been offered for sale. Among the highlights of the auction are iconic photographs of Marilyn Monroe, taken just weeks before her death.",
-      "url": "https://www.france24.com/en/video/20261112-rare-pictures-from-marilyn-monroe-s-final-shoot-on-auction-in-paris",
-      "published": "Thu, 12 Nov 2026 11:43:39 GMT",
+      "title": "Australia: Teen found alive after six days missing in bush",
+      "description": "A 17-year-old Australian has been found alive and well after spending six days missing in bushland east of Melbourne. After being spotted by helicopter, the teen was winched to safety before an emotional reunion with his mother who joked that “he’s never leaving the house again”.",
+      "url": "https://www.france24.com/en/video/20261112-australia-teen-found-alive-after-six-days-missing-in-bush",
+      "published": "Thu, 12 Nov 2026 15:17:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang resigns after affair raises national security concerns",
+      "description": "Nvidia announced on Thursday that CEO Jensen Huang was stepping down following revelations that he had an affair with a woman accused of spying for China. The company's chief financial officer Colette Kress will serve as interim CEO while the board searches for Huang's successor.",
+      "url": "https://www.france24.com/en/asia-pacific/20261112-nvidia-ceo-jensen-huang-to-step-down-after-affair",
+      "published": "Thu, 12 Nov 2026 14:06:37 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 8,
@@ -1495,15 +1481,43 @@
       "is_ticker": false
     },
     {
-      "title": "Militants ambush police vehicles in northwestern Pakistan, killing at least 10 officers",
-      "description": "Police say militants have ambushed vehicles carrying police officers in northwestern Pakistan, triggering a gunbattle that killed at least 10 officers",
-      "url": "https://abcnews.com/International/wireStory/militants-ambush-police-vehicles-northwestern-pakistan-killing-10-138040033",
-      "published": "Wed, 11 Nov 2026 06:50:42 -0500",
+      "title": "Spain approves housing measures after huge protests. Duration may depend on election",
+      "description": "Spain’s interim lower house of parliament has ratified housing measures designed to limit evictions and real estate speculation",
+      "url": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
+      "published": "Thu, 12 Nov 2026 07:58:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Spain approves housing measures after huge protests. Duration may depend on election"
+    },
+    {
+      "title": "Far-right UK activist pleads guilty to slashing migrant dinghy in the English Channel",
+      "description": "A British anti-immigration activist has pleaded guilty to slashing a migrant dinghy in the English Channel while a rescuer was aboard",
+      "url": "https://abcnews.com/International/wireStory/uk-activist-pleads-guilty-slashing-migrant-dinghy-english-138073480",
+      "published": "Thu, 12 Nov 2026 06:30:33 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
+      "description": "Authorities have arrested a 10th person for violating South African mercenary laws by attempting to travel to Russia to fight in the war between Russia and Ukraine",
+      "url": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
+      "published": "Thu, 12 Nov 2026 05:59:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war"
     },
     {
       "title": "For Ethiopian mothers sheltering in Kenya, safety brings a struggle to feed children",
@@ -1531,10 +1545,10 @@
       "ticker_label": "🪖 Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine"
     },
     {
-      "title": "El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election",
-      "description": "Salvadoran President Nayib Bukele has sought to present himself as the savior to Haiti’s gang crisis",
-      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-makes-political-gamble-haiti-gang-138040031",
-      "published": "Wed, 11 Nov 2026 07:02:23 -0500",
+      "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter",
+      "description": "Ukrainians are preparing for a challenging winter as the war continues",
+      "url": "https://abcnews.com/International/wireStory/stay-leave-ukrainians-face-hard-choice-ahead-wars-138069659",
+      "published": "Thu, 12 Nov 2026 05:58:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1542,7 +1556,18 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election"
+      "ticker_label": "🪖 Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter"
+    },
+    {
+      "title": "A missing teen is found alive after 6 days in the Australian woodlands",
+      "description": "A 17-year-old boy with autism has been found alive after six days lost in eastern Australian woodlands",
+      "url": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
+      "published": "Thu, 12 Nov 2026 06:49:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Illegal immigrant’s alleged plane hijack scare fuels tense security scramble after door was ‘breached’: audio",
@@ -1625,17 +1650,6 @@
       "is_ticker": false
     },
     {
-      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
-      "description": "Chinese president says the tide of history 'cannot be stopped' as Taiwan rejects 'one country, two systems'.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 11:59:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1680,6 +1694,17 @@
       "is_ticker": false
     },
     {
+      "title": "Pope tells Peru's bishops to accompany their flocks and respond to abuse victims with truth, justice",
+      "description": "Pope Leo XIV is opening his first day in Peru by giving marching orders to the country’s Catholic bishops",
+      "url": "https://abcnews.com/International/wireStory/pope-tells-perus-bishops-accompany-flocks-respond-abuse-138081099",
+      "published": "Thu, 12 Nov 2026 11:04:34 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
       "description": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
@@ -1706,7 +1731,7 @@
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-      "description": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...",
+      "description": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation. Kundizeza’s story The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October. Continue reading...",
       "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
       "published": "Thu, 12 Nov 2026 13:14:38 GMT",
       "source": "The Guardian World",
@@ -1736,20 +1761,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Some 300 Italian schools evacuated due to bomb threats",
-      "description": "Italian authorities evacuated more than schools after an emailed bomb threat",
-      "url": "https://abcnews.com/International/wireStory/300-italian-schools-evacuated-due-bomb-threats-138040834",
-      "published": "Wed, 11 Nov 2026 08:38:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Some 300 Italian schools evacuated due to bomb threats"
     },
     {
       "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
@@ -1854,10 +1865,10 @@
       "is_ticker": false
     },
     {
-      "title": "China and ASEAN make progress on South China Sea pact but can't finish talks this year",
-      "description": "Regional diplomats say China and Southeast Asian countries have made progress on a South China Sea pact but won’t be able to conclude negotiations this year as agreed",
-      "url": "https://abcnews.com/International/wireStory/china-asean-make-progress-south-china-sea-pact-138034044",
-      "published": "Wed, 11 Nov 2026 04:06:23 -0500",
+      "title": "Armed robbers flee Paris jewelry store on motorcycles",
+      "description": "Paris police report that armed robbers have held up a jewelry store in the city before fleeing on motorcycles",
+      "url": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
+      "published": "Thu, 12 Nov 2026 07:42:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1894,6 +1905,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Four people shot in Washington DC",
+      "description": "A major police operation is underway in Washington DC where four people have reportedly been shot",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 15:42:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1953,22 +1975,11 @@
       "is_ticker": false
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns as scandal mounts over alleged affair with suspected Chinese spy",
-      "description": "Jensen Huang has resigned from his role as the head of the AI chipmaker over his reported affair with a suspected Chinese spy. Nvidia shares plummeted 13% at the opening of trading on Thursday.",
-      "url": "https://www.dw.com/en/nvidia-ceo-jensen-huang-resigns-as-scandal-mounts-over-alleged-affair-with-suspected-chinese-spy/a-79931658?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 12 Nov 2026 14:02:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Nigerian court orders journalist kept in custody, renewing concerns over freedom",
-      "description": "A decision by a court in Nigeria to keep investigative journalist Daniel Ojukwu in custody has sparked renewed concerns about media freedom",
-      "url": "https://abcnews.com/International/wireStory/nigerian-court-orders-journalist-custody-report-renewing-concerns-138043178",
-      "published": "Wed, 11 Nov 2026 09:18:33 -0500",
-      "source": "ABC News International",
+      "title": "How FRANCE 24 traced Tehran-backed Afghan fighters from Syria to southeastern Iran",
+      "description": "Members of the Tehran-backed Afghan Shia militia known as the Fatemiyoun division have resurfaced in Iran after largely disappearing from public view following the fall of Bashar al-Assad’s government in Syria in 2024. FRANCE 24 used \"martyrdom” announcements and the geolocation of videos shared on social media to trace their presence.",
+      "url": "https://www.france24.com/en/middle-east/20261112-iran-afghan-fatemiyoun-fighters-syria-baluchistan",
+      "published": "Thu, 12 Nov 2026 16:03:26 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2030,6 +2041,17 @@
       "is_ticker": false
     },
     {
+      "title": "Manchester United sacked manager Michael Carrick",
+      "description": "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 15:21:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
       "description": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
       "url": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
@@ -2052,8 +2074,8 @@
       "is_ticker": false
     },
     {
-      "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
-      "description": "Nvidia loses over $600bn in market value as CEO Jensen Huang steps down amid espionage and affair allegations.",
+      "title": "Nvidia CEO Jensen Huang resigns amid spy scandal and market loss",
+      "description": "Tech giant's market value drops below $4 trillion after Huang steps down following espionage and affair allegations.",
       "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
       "published": "Thu, 12 Nov 2026 13:55:07 +0000",
       "source": "Al Jazeera",
@@ -2085,32 +2107,10 @@
       "is_ticker": false
     },
     {
-      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+      "title": "‘Greater Israel’: Christian Zionism’s role in US policy",
       "description": "Israel, the US, Christian Zionism and the search for Armageddon.",
       "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
       "published": "Thu, 12 Nov 2026 12:39:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "England vs Croatia: UEFA Nations League – preview, team news, predictions",
-      "description": "Harry Kane set to become England’s most capped player while Jude Bellingham could be joined by younger brother, Jobe.",
-      "url": "https://www.aljazeera.com/sports/2026/11/12/england-vs-croatia-uefa-nations-league-preview-team-news?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 12:12:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pakistan releases two sisters of ex-PM Imran Khan from jail",
-      "description": "Uzma and Noreen released from a Lahore jail but Aleema Khan still detained nearly two months after their arrest.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/pakistan-releases-two-sisters-of-ex-pm-imran-khan-from-jail?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 12:12:17 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2375,7 +2375,7 @@
     },
     {
       "title": "Ukraine peace talks: US envoys meet with Putin at Kremlin",
-      "description": "The US president's son-in-law Jared Kushner and envoy Steve Witkoff are in Russia to meet Vladimir Putin. The meeting comes after two days of trilateral talks in Abu Dhabi. Follow DW for more.",
+      "description": "The US president's son-in-law Jared Kushner and envoy Steve Witkoff were in Russia to meet Vladimir Putin. The meeting comes after two days of trilateral talks in Abu Dhabi. Follow DW for more.",
       "url": "https://www.dw.com/en/ukraine-peace-talks-us-envoys-meet-with-putin-at-kremlin/live-79925580?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 12 Nov 2026 06:35:00 GMT",
       "source": "Deutsche Welle",
@@ -2421,17 +2421,6 @@
       "is_ticker": false
     },
     {
-      "title": "🔴Live: Putin offers to evacuate civilians from eastern Ukraine's Kostiantynivka",
-      "description": "No description available.",
-      "url": "https://www.france24.com/en/europe/20261112-live-us-envoys-to-meet-putin-and-zelensky-after-abu-dhabi-talks",
-      "published": "Thu, 12 Nov 2026 13:02:30 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Pope ends Argentina visit with unity plea after pushing back against Milei's agenda",
       "description": "Pope Leo closed an emotional visit to Argentina with an appeal for unity and reconciliation, offering a message of hope to his predecessor's polarised homeland.",
       "url": "https://news.sky.com/story/pope-ends-argentina-visit-with-unity-plea-after-subtly-pushing-back-against-javier-mileis-austerity-agenda-13611182",
@@ -2443,32 +2432,10 @@
       "is_ticker": false
     },
     {
-      "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
-      "description": "Brazil’s top electoral court fines Meta’s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
-      "url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841",
-      "published": "Wed, 11 Nov 2026 13:19:17 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Yacht captain on reality show 'Below Deck' arrested in Turkey after teenager dies",
       "description": "A participant from the U.S. reality TV show “Below Deck” has been arrested in Turkey following a fight in Bodrum that left a 17-year-old dead",
       "url": "https://abcnews.com/International/wireStory/yacht-captain-reality-show-below-deck-arrested-turkey-138075373",
       "published": "Thu, 12 Nov 2026 08:52:05 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
-      "description": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse",
-      "url": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
-      "published": "Thu, 12 Nov 2026 07:58:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2487,10 +2454,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo XIV wrapping up Argentina visit before an emotional trip back to Peru, his adopted homeland",
-      "description": "Pope Leo XIV is wrapping up his visit to Argentina with two poignant moments",
-      "url": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
-      "published": "Wed, 11 Nov 2026 08:06:20 -0500",
+      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
+      "description": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent",
+      "url": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
+      "published": "Thu, 12 Nov 2026 07:26:22 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2498,10 +2465,10 @@
       "is_ticker": false
     },
     {
-      "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
-      "description": "Analysts are examining how recent Democratic wins in the U.S. midterm elections might impact Latin America during President Donald Trump's final two years",
-      "url": "https://abcnews.com/International/wireStory/analysts-weigh-democrats-midterm-wins-shift-trumps-latin-138037365",
-      "published": "Wed, 11 Nov 2026 03:35:54 -0500",
+      "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
+      "description": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse",
+      "url": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
+      "published": "Thu, 12 Nov 2026 07:58:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2509,10 +2476,32 @@
       "is_ticker": false
     },
     {
-      "title": "After 40 years, Chilean mother reunites with two children stolen during dictatorship",
-      "description": "Teresita de Jesús Padilla has reunited with her two sons after they were taken from her in Chile four decades ago",
-      "url": "https://abcnews.com/International/wireStory/after-40-years-apart-chilean-mother-reunites-children-138062026",
-      "published": "Wed, 11 Nov 2026 18:43:07 -0500",
+      "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
+      "description": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security",
+      "url": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
+      "published": "Thu, 12 Nov 2026 06:14:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
+      "description": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials",
+      "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
+      "published": "Thu, 12 Nov 2026 06:30:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
+      "description": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
+      "published": "Thu, 12 Nov 2026 04:13:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
