@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12T12:37:38.132314Z",
+  "last_updated": "2026-11-12T13:10:43.705475Z",
   "event_count": 218,
   "events": [
     {
@@ -131,7 +131,7 @@
       "ticker_label": "🪖 Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair"
     },
     {
-      "title": "NYC building collapse: Sixth body recovered as first responders search for survivors",
+      "title": "NYC building collapse: Eight bodies recovered as first responders search for survivors",
       "description": "FDNY crews are continuing rescue operations in Brooklyn's Flatbush neighborhood after a three-story building collapsed Wednesday, leaving an unknown number of people trapped.",
       "url": "https://www.foxnews.com/us/nyc-building-collapse-third-body-recovered-first-responders-search-survivors",
       "published": "Thu, 12 Nov 2026 06:13:31 -0500",
@@ -184,6 +184,20 @@
       "ticker_label": "💥 Police officer dies and another seriously injured after explosion in northern Spain"
     },
     {
+      "title": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+      "description": "More than 1,000 people were killed in Haiti during the third quarter of this year, as armed gangs continue to terrorize the population in the capital Port-au-Prince and beyond, the UN team in the island nation, said in its latest human rights report.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168789",
+      "published": "Thu, 12 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Haiti: More than 1,000 killed between July and September, UN report reveals"
+    },
+    {
       "title": "‘Make or bake time’: Guterres urges climate justice pact as leaders gather at COP31",
       "description": "UN chief António Guterres called for a new global climate justice agreement at COP31 on Wednesday, urging governments to tax fossil fuel companies to help countries bearing the brunt of a crisis they did little to cause. His appeal came as world leaders gathered in Antalya amid unresolved questions over climate finance and the future of fossil fuels.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168783",
@@ -221,20 +235,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Climate crisis could push 141 million more women into extreme poverty"
-    },
-    {
-      "title": "Poland's president joins a nationalist march as the country reels from the Krakow shooting",
-      "description": "Polish President Karol Nawrocki joins thousands of right-wing demonstractors at an annual march in the capital to mark Independence Day",
-      "url": "https://abcnews.com/International/wireStory/polands-president-joins-nationalist-march-country-reels-krakow-138059994",
-      "published": "Wed, 11 Nov 2026 17:30:06 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Poland's president joins a nationalist march as the country reels from the Krakow shooting"
     },
     {
       "title": "Teen charged with murder in fatal shooting of 15-year-old NYC student Javits Frimpong",
@@ -276,7 +276,7 @@
       "title": "Van crashes on mountain road in Nepal, 10 killed and 5 injured",
       "description": "A passenger van veered off a mountain road in Nepal on Thursday, killing at least 10 people",
       "url": "https://abcnews.com/International/wireStory/van-crashes-mountain-road-nepal-10-killed-5-138069991",
-      "published": "Thu, 12 Nov 2026 03:58:21 -0500",
+      "published": "Thu, 12 Nov 2026 07:26:19 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 22,
@@ -362,6 +362,20 @@
       "is_ticker": false
     },
     {
+      "title": "Greta Thunberg: The planet is being killed",
+      "description": "Climate activist Greta Thunberg delivers a stark warning at COP31.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/greta-thunberg-the-planet-is-being-killed?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 12:53:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Greta Thunberg: The planet is being killed"
+    },
+    {
       "title": "New York: Deadly building collapse in Brooklyn",
       "description": "A three-storey building collapsed in New York’s Brooklyn on Wednesday, killing at least two and injuring 17 others. The building, in the Flatbush area, collapsed at around 4pm local time, and tumbled into a neighbouring construction site, with the cause of the collapse still under investigation.",
       "url": "https://www.france24.com/en/video/20261112-new-york-deadly-building-collapse-in-brooklyn",
@@ -384,9 +398,9 @@
       "is_ticker": false
     },
     {
-      "title": "Israel targets senior Hamas member in Gaza hospital strike",
+      "title": "Israel strikes Gaza hospital, says Hamas senior figure inside",
       "description": "Israel says Hamas was using the hospital as a military command center, while Palestinian officials report at least six people killed, including a surgeon. The strike comes amid an increasingly fragile ceasefire.",
-      "url": "https://www.dw.com/en/israel-targets-senior-hamas-member-in-gaza-hospital-strike/a-79927645?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/israel-strikes-gaza-hospital-says-hamas-senior-figure-inside/a-79927645?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 12 Nov 2026 11:27:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -395,7 +409,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel targets senior Hamas member in Gaza hospital strike"
+      "ticker_label": "🪖 Israel strikes Gaza hospital, says Hamas senior figure inside"
     },
     {
       "title": "Thousands of schools evacuated in Italy as bomb threats spread across Europe",
@@ -568,6 +582,20 @@
       "ticker_label": "🪖 Security Council LIVE: Strikes on Ukraine’s power grid, as peace talks loom"
     },
     {
+      "title": "Millions of Ebola dollars going missing as virus spreads, medical charity warns",
+      "description": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
+      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 13:02:37 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Millions of Ebola dollars going missing as virus spreads, medical charity warns"
+    },
+    {
       "title": "British woman missing from cruise ship in Atlantic",
       "description": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
       "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
@@ -696,6 +724,20 @@
       "ticker_label": "🪖 Trump meets key Iran war mediator as UAE reveals major oil export surge despite conflict"
     },
     {
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "description": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 12 Nov 2026 13:02:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'We've got to run': Inside ruined Ukraine power plant under constant drone threat"
+    },
+    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -741,6 +783,28 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Fiery clashes erupt in Spain as millions join general strike"
+    },
+    {
+      "title": "Islamic State group-affiliated rebels kill at least 22 in Congo's eastern region",
+      "description": "A rebel group affiliated with the Islamic State group has killed at least 22 people in Congo's eastern Ituri province",
+      "url": "https://abcnews.com/International/wireStory/islamic-state-group-affiliated-rebels-kill-22-congos-138049699",
+      "published": "Wed, 11 Nov 2026 12:01:01 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Austria tightens laws against spying to protect the international organizations it hosts",
+      "description": "Austria has launched plans to tighten its espionage laws, which currently only ban spying against Austria itself",
+      "url": "https://abcnews.com/International/wireStory/austria-tightens-laws-spying-protect-international-organizations-hosts-138042201",
+      "published": "Wed, 11 Nov 2026 08:30:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "When deaths go uncounted: WHO flags dangerous blind spots in Africa’s health data",
@@ -855,17 +919,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "New York City building collapse kills several people",
-      "description": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 12:17:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1131,18 +1184,15 @@
       "is_ticker": false
     },
     {
-      "title": "Photos: Protesters clash with police after housing cost rallies in Spain",
-      "description": "Anger over housing affordability and purchasing power leads to clashes amid Spain's first general strike in 14 years.",
-      "url": "https://www.aljazeera.com/gallery/2026/11/12/photos-protesters-clash-with-police-after-housing-cost-rallies-in-spain?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 08:01:29 +0000",
+      "title": "FIFA Under-17 World Cup to kick off in Qatar despite US withdrawal",
+      "description": "FIFA says its 'security assessments' for the 48-team tournament remain unchanged after US Soccer pulled out.",
+      "url": "https://www.aljazeera.com/sports/2026/11/12/fifa-under-17-world-cup-to-kick-off-in-qatar-despite-us-withdrawal?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 12:57:12 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Photos: Protesters clash with police after housing cost rallies in Spain"
+      "is_ticker": false
     },
     {
       "title": "The surreal facades of America's strip clubs",
@@ -1281,6 +1331,20 @@
       "ticker_label": "🪖 From the UK to the Gulf, are US overseas bases becoming liabilities?"
     },
     {
+      "title": "US envoys meet Putin in Moscow to discuss Russia-Ukraine war",
+      "description": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 09:01:24 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 US envoys meet Putin in Moscow to discuss Russia-Ukraine war"
+    },
+    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1315,20 +1379,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Fewer hours and higher wages – or more burnout and surveillance: employers told to prepare for AI"
-    },
-    {
-      "title": "Ukraine's ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war",
-      "description": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
-      "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraines-ex-foreign-minister-kuleba-on-prospects-for-peace-in-russia-ukraine-war",
-      "published": "Thu, 12 Nov 2026 04:40:31 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine's ex foreign minister Kuleba on prospects for peace in Russia-Ukraine war"
     },
     {
       "title": "Russia and Ukraine agree to a prisoner exchange as talks end with no big breakthrough",
@@ -1392,43 +1442,15 @@
       "is_ticker": false
     },
     {
-      "title": "Spain approves housing measures after huge protests. Duration may depend on election",
-      "description": "Spain’s interim lower house of parliament has ratified housing measures designed to limit evictions and real estate speculation",
-      "url": "https://abcnews.com/International/wireStory/spain-approves-housing-measures-after-huge-protests-duration-138074427",
-      "published": "Thu, 12 Nov 2026 07:26:55 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Spain approves housing measures after huge protests. Duration may depend on election"
-    },
-    {
-      "title": "Far-right UK activist pleads guilty to slashing migrant dinghy in the English Channel",
-      "description": "A British anti-immigration activist has pleaded guilty to slashing a migrant dinghy in the English Channel while a rescuer was aboard",
-      "url": "https://abcnews.com/International/wireStory/uk-activist-pleads-guilty-slashing-migrant-dinghy-english-138073480",
-      "published": "Thu, 12 Nov 2026 06:30:33 -0500",
+      "title": "Militants ambush police vehicles in northwestern Pakistan, killing at least 10 officers",
+      "description": "Police say militants have ambushed vehicles carrying police officers in northwestern Pakistan, triggering a gunbattle that killed at least 10 officers",
+      "url": "https://abcnews.com/International/wireStory/militants-ambush-police-vehicles-northwestern-pakistan-killing-10-138040033",
+      "published": "Wed, 11 Nov 2026 06:50:42 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war",
-      "description": "Authorities have arrested a 10th person for violating South African mercenary laws by attempting to travel to Russia to fight in the war between Russia and Ukraine",
-      "url": "https://abcnews.com/International/wireStory/10th-suspect-arrested-south-africa-alleged-bid-fight-138072640",
-      "published": "Thu, 12 Nov 2026 05:59:15 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 10th suspect arrested in South Africa over alleged bid to fight in Russia-Ukraine war"
     },
     {
       "title": "For Ethiopian mothers sheltering in Kenya, safety brings a struggle to feed children",
@@ -1456,10 +1478,10 @@
       "ticker_label": "🪖 Ireland faces pressure to stop sending Russia an ingredient vital to its war on Ukraine"
     },
     {
-      "title": "Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter",
-      "description": "Ukrainians are preparing for a challenging winter as the war continues",
-      "url": "https://abcnews.com/International/wireStory/stay-leave-ukrainians-face-hard-choice-ahead-wars-138069659",
-      "published": "Thu, 12 Nov 2026 05:58:19 -0500",
+      "title": "El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election",
+      "description": "Salvadoran President Nayib Bukele has sought to present himself as the savior to Haiti’s gang crisis",
+      "url": "https://abcnews.com/International/wireStory/el-salvadors-bukele-makes-political-gamble-haiti-gang-138040031",
+      "published": "Wed, 11 Nov 2026 07:02:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1467,18 +1489,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Stay or leave? Ukrainians face a hard choice ahead of what could be the war’s toughest winter"
-    },
-    {
-      "title": "A missing teen is found alive after 6 days in the Australian woodlands",
-      "description": "A 17-year-old boy with autism has been found alive after six days lost in eastern Australian woodlands",
-      "url": "https://abcnews.com/International/wireStory/missing-teen-found-alive-after-6-days-australian-138068466",
-      "published": "Thu, 12 Nov 2026 06:49:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
+      "ticker_label": "🪖 El Salvador's Bukele makes a political gamble with a Haiti gang offensive ahead of an election"
     },
     {
       "title": "Illegal immigrant’s alleged plane hijack scare fuels tense security scramble after door was ‘breached’: audio",
@@ -1688,12 +1699,26 @@
       "title": "UK appoints climate security envoy as Thunberg criticizes COP31 leaders",
       "description": "The United Kingdom has appointed a special envoy to address climate change security threats",
       "url": "https://abcnews.com/International/wireStory/uk-names-climate-security-envoy-island-leaders-warn-138066951",
-      "published": "Thu, 12 Nov 2026 06:30:21 -0500",
+      "published": "Thu, 12 Nov 2026 07:18:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Some 300 Italian schools evacuated due to bomb threats",
+      "description": "Italian authorities evacuated more than schools after an emailed bomb threat",
+      "url": "https://abcnews.com/International/wireStory/300-italian-schools-evacuated-due-bomb-threats-138040834",
+      "published": "Wed, 11 Nov 2026 08:38:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Some 300 Italian schools evacuated due to bomb threats"
     },
     {
       "title": "COP31 opens in Antalya: Can climate promises finally deliver results?",
@@ -1757,7 +1782,7 @@
       "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
       "description": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
       "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 12 Nov 2026 10:02:32 GMT",
+      "published": "Thu, 12 Nov 2026 12:56:55 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 4,
@@ -1809,10 +1834,10 @@
       "is_ticker": false
     },
     {
-      "title": "Armed robbers flee Paris jewelry store on motorcycles",
-      "description": "Paris police report that armed robbers have held up a jewelry store in the city before fleeing on motorcycles",
-      "url": "https://abcnews.com/International/wireStory/armed-robbers-flee-paris-jewelry-store-motorcycles-138074429",
-      "published": "Thu, 12 Nov 2026 07:25:23 -0500",
+      "title": "China and ASEAN make progress on South China Sea pact but can't finish talks this year",
+      "description": "Regional diplomats say China and Southeast Asian countries have made progress on a South China Sea pact but won’t be able to conclude negotiations this year as agreed",
+      "url": "https://abcnews.com/International/wireStory/china-asean-make-progress-south-china-sea-pact-138034044",
+      "published": "Wed, 11 Nov 2026 04:06:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
@@ -1908,11 +1933,11 @@
       "is_ticker": false
     },
     {
-      "title": "‘Exceptional’ extreme temperatures to continue into next year, UN reports",
-      "description": "In April this year, roughly 146.5 million Indians were exposed to an extreme heatwave with temperatures hitting a sweltering 47℃.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168760",
-      "published": "Mon, 09 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
+      "title": "Nigerian court orders journalist kept in custody, renewing concerns over freedom",
+      "description": "A decision by a court in Nigeria to keep investigative journalist Daniel Ojukwu in custody has sparked renewed concerns about media freedom",
+      "url": "https://abcnews.com/International/wireStory/nigerian-court-orders-journalist-custody-report-renewing-concerns-138043178",
+      "published": "Wed, 11 Nov 2026 09:18:33 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1985,11 +2010,33 @@
       "is_ticker": false
     },
     {
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
-      "source": "BBC News",
+      "title": "Canada won’t let Russian players enter for ice hockey junior championship",
+      "description": "Russian, Belarusian athletes and officials will be prevented from entering Canada regardless of their visa status.",
+      "url": "https://www.aljazeera.com/sports/2026/11/12/canada-wont-let-russian-players-enter-for-ice-hockey-junior-championship?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 12:56:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Europe views US with ‘much less horror’ after Trump’s midterms defeat",
+      "description": "But experts say Washington’s shift away from Europe runs deeper than Trump and is unlikely to be reversed.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/europe-views-us-with-much-less-horror-after-trumps-midterms-defeat?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 12:51:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "‘Greater Israel’: How Christian Zionism infiltrated US policy",
+      "description": "Israel, the US, Christian Zionism and the search for Armageddon.",
+      "url": "https://www.aljazeera.com/features/2026/11/12/greater-israel-how-christian-zionism-infiltrated-us-policy?traffic_source=rss",
+      "published": "Thu, 12 Nov 2026 12:39:21 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2051,17 +2098,6 @@
       "is_ticker": false
     },
     {
-      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-      "description": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 09:01:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "India bypasses own rules to buy Israeli phone-hacking tech",
       "description": "India's expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
       "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
@@ -2077,50 +2113,6 @@
       "description": "Xi Jinping, President of China, has called for the peaceful ‘reunification’ of Taiwan with China.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
       "published": "Thu, 12 Nov 2026 08:34:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Iran open to deal if US ‘refrains from excessive demands’, says Ghalibaf",
-      "description": "Iran’s chief negotiator says Iran is open to a deal if the US refrains from creating distrust and excessive demands.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/iran-open-to-deal-if-us-refrains-from-excessive-demands-says-ghalibaf?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 07:38:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope Leo welcomed by millions in his second ‘homeland’ of Peru",
-      "description": "On his Latin America tour, the pontiff is expected to spend 3 days in Chiclayo, where ​he was bishop from 2015-2023.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/pope-leo-welcomed-by-millions-in-his-second-homeland-of-peru?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 07:37:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
-      "description": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 06:49:45 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Indonesia vice president resigns amid dispute over eligibility",
-      "description": "Gibran Rakabuming Raka, son of former President Joko Widodo, resigns as court questions his overseas education.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/indonesia-vice-president-resigns-amid-dispute-over-eligibility?traffic_source=rss",
-      "published": "Thu, 12 Nov 2026 06:38:01 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2265,6 +2257,17 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tx16",
       "published": "2026-11-10T03:42:27.855Z",
       "source": "USGS Earthquakes",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UKRAINE EX-FOREIGN MINISTER",
+      "description": "NPR's A Martinez asks Ukraine's former Foreign Minister Dmytro Kuleba for his proposals to close gaps in talks between Russia, Ukraine and Europe.",
+      "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister",
+      "published": "Thu, 12 Nov 2026 04:40:31 -0500",
+      "source": "NPR World News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2439,10 +2442,10 @@
       "is_ticker": false
     },
     {
-      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
-      "description": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent",
-      "url": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
-      "published": "Thu, 12 Nov 2026 06:53:14 -0500",
+      "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
+      "description": "Brazil’s top electoral court fines Meta’s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
+      "url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841",
+      "published": "Wed, 11 Nov 2026 13:19:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2453,7 +2456,7 @@
       "title": "Dutch coalition near collapse as 1 party is upset over tax deal with opposition",
       "description": "Prime Minister Rob Jetten's Dutch coalition appears close to collapse",
       "url": "https://abcnews.com/International/wireStory/dutch-coalition-collapse-1-party-upset-tax-deal-138071590",
-      "published": "Thu, 12 Nov 2026 04:38:34 -0500",
+      "published": "Thu, 12 Nov 2026 07:58:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2461,10 +2464,10 @@
       "is_ticker": false
     },
     {
-      "title": "What to know as European leaders meet to discuss Ukraine's security, and their own",
-      "description": "Leaders from over 40 European countries are gathering in Dublin for a summit focused on the continent’s fragile security",
-      "url": "https://abcnews.com/International/wireStory/european-leaders-meet-dublin-discuss-ukraines-security-138070889",
-      "published": "Thu, 12 Nov 2026 06:14:21 -0500",
+      "title": "London court finds 2 Iranian men guilty of spying for Tehran",
+      "description": "Two Iranian men have been found guilty of spying on journalists in London for Tehran",
+      "url": "https://abcnews.com/International/wireStory/london-court-finds-2-iranian-men-guilty-spying-138075096",
+      "published": "Thu, 12 Nov 2026 07:58:15 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2472,10 +2475,10 @@
       "is_ticker": false
     },
     {
-      "title": "Indonesia's vice president resigns as his eligibility and academic credentials are questioned",
-      "description": "Indonesia’s vice president has resigned as questions grew over his eligibility for the office after recent court rulings disputed his educational credentials",
-      "url": "https://abcnews.com/International/wireStory/indonesias-vice-president-resigns-eligibility-academic-credentials-questioned-138069107",
-      "published": "Thu, 12 Nov 2026 06:30:27 -0500",
+      "title": "Pope Leo XIV wrapping up Argentina visit before an emotional trip back to Peru, his adopted homeland",
+      "description": "Pope Leo XIV is wrapping up his visit to Argentina with two poignant moments",
+      "url": "https://abcnews.com/International/wireStory/pope-wrap-argentina-tour-visit-prison-shrine-heading-138038537",
+      "published": "Wed, 11 Nov 2026 08:06:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2483,21 +2486,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
-      "description": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
-      "published": "Thu, 12 Nov 2026 04:13:18 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Lawmakers question police chief about wiretaps alleged to target President Prabowo",
-      "description": "Indonesia’s police chief is set to appear before a parliamentary panel as lawmakers investigate allegations that President Prabowo Subianto was targeted in an illegal wiretapping operation",
-      "url": "https://abcnews.com/International/wireStory/indonesian-lawmakers-question-police-chief-wiretaps-alleged-target-138065101",
-      "published": "Wed, 11 Nov 2026 21:01:56 -0500",
+      "title": "Analysts weigh how Democrats’ midterm wins could shift Trump’s Latin America policy",
+      "description": "Analysts are examining how recent Democratic wins in the U.S. midterm elections might impact Latin America during President Donald Trump's final two years",
+      "url": "https://abcnews.com/International/wireStory/analysts-weigh-democrats-midterm-wins-shift-trumps-latin-138037365",
+      "published": "Wed, 11 Nov 2026 03:35:54 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2509,6 +2501,17 @@
       "description": "Teresita de Jesús Padilla has reunited with her two sons after they were taken from her in Chile four decades ago",
       "url": "https://abcnews.com/International/wireStory/after-40-years-apart-chilean-mother-reunites-children-138062026",
       "published": "Wed, 11 Nov 2026 18:43:07 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
+      "description": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
+      "published": "Thu, 12 Nov 2026 04:13:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
