@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-13T11:09:55.059502Z",
+  "last_updated": "2026-11-13T11:35:30.447320Z",
   "event_count": 217,
   "events": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "title": "Microsoft rules out 'malicious activity' as cause for global outage",
-      "description": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that efforts to repair the major Outlook outage are ongoing but not as expected.",
+      "description": "A Microsoft outage disrupted Outlook and Teams worldwide, with reports from scores of countries and territories. The software giant said that it was \"not aware\" of malicious activity that could have caused the outage.",
       "url": "https://www.dw.com/en/microsoft-rules-out-malicious-activity-as-cause-for-global-outage/a-79935611?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 13 Nov 2026 07:46:00 GMT",
       "source": "Deutsche Welle",
@@ -193,6 +193,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Watch: How Microsoft services went down around the world"
+    },
+    {
+      "title": "Live: Microsoft struggles to restore services as outage hits global users",
+      "description": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
+      "published": "Fri, 13 Nov 2026 11:18:01 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 25,
+      "severity_level": "Critical",
+      "is_ticker": false
     },
     {
       "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
@@ -658,7 +669,7 @@
     },
     {
       "title": "With every rainfall, Gaza risks losing access to power and healthcare",
-      "description": "Heavy rains flood shelters, damage solar power systems and threat essential healthcare services.",
+      "description": "Heavy rains flood shelters, damage solar power systems and threaten essential healthcare services.",
       "url": "https://www.aljazeera.com/news/2026/11/13/with-every-rainfall-gaza-risks-losing-access-to-power-and-healthcare?traffic_source=rss",
       "published": "Fri, 13 Nov 2026 09:43:30 +0000",
       "source": "Al Jazeera",
@@ -1126,17 +1137,6 @@
       "description": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
       "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
       "published": "Fri, 13 Nov 2026 09:30:55 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Burkina Faso’s rival armed groups turn on each other as state loses ground",
-      "description": "JNIM and ISIL intensify their fight for control as Burkina Faso struggles to contain the wider armed conflict.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/burkina-fasos-rival-armed-groups-turn-on-each-other-as-state-loses-ground?traffic_source=rss",
-      "published": "Fri, 13 Nov 2026 05:23:31 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
@@ -2051,6 +2051,17 @@
       "is_ticker": false
     },
     {
+      "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+      "description": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
+      "published": "Fri, 13 Nov 2026 10:57:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Henry and Young shine as New Zealand thrash India by 244 runs",
       "description": "New Zealand trail India 2-1 and can no ​longer win the five-match series, but they can level it in Sunday's final game.",
       "url": "https://www.aljazeera.com/sports/2026/11/13/matt-henry-will-young-new-zealand-india-fourth-odi?traffic_source=rss",
@@ -2110,17 +2121,6 @@
       "description": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
       "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
       "published": "Fri, 13 Nov 2026 05:38:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope Leo meets clergy abuse survivors in Peru amid calls for justice",
-      "description": "Pope Leo met six clergy abuse survivors in Peru, while hundreds more say they remain excluded as they seek justice.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_pope-leo-meets-clergy-abuse-survivors-in-peru-121126?traffic_source=rss",
-      "published": "Fri, 13 Nov 2026 05:05:50 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2469,10 +2469,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
-      "description": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
-      "published": "Thu, 12 Nov 2026 04:13:18 -0500",
+      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
+      "description": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent",
+      "url": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
+      "published": "Thu, 12 Nov 2026 07:26:22 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2480,10 +2480,10 @@
       "is_ticker": false
     },
     {
-      "title": "Scandal-hit Jensen Huang loses his shine in his birthplace Taiwan",
-      "description": "Nvidia CEO Jensen Huang's image in his birthplace, Taiwan, has been tainted after the FBI began investigating his affair with an alleged Chinese agent",
-      "url": "https://abcnews.com/International/wireStory/scandal-hit-jensen-huang-loses-shine-birthplace-taiwan-138073575",
-      "published": "Thu, 12 Nov 2026 07:26:22 -0500",
+      "title": "Pope Leo returns to beloved former home of Chiclayo, Peru",
+      "description": "Pope Leo XIV is celebrated in Chiclayo, Peru, where his image is ubiquitous",
+      "url": "https://abcnews.com/International/wireStory/pope-leo-returns-beloved-former-home-chiclayo-peruvian-138068194",
+      "published": "Thu, 12 Nov 2026 04:13:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
