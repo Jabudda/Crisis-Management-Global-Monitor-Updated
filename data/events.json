@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-14T03:35:51.075916Z",
+  "last_updated": "2026-11-14T04:12:09.734581Z",
   "event_count": 216,
   "events": [
     {
@@ -410,6 +410,17 @@
       "ticker_label": "💥 Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing"
     },
     {
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "description": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "published": "Sat, 14 Nov 2026 01:47:36 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Microsoft outage: company scrambles to fix global issue that took down Outlook and Teams",
       "description": "Tech firm says it is ‘deeply sorry’ for disruption that took services down and has now addressed the underlying issue What caused the outage and when will it be fixed? Microsoft outage hits UK hospitals, GPs, schools and police Tell us: have you been affected by the outage? Microsoft has said it is “deeply sorry” for a widespread outage that caused disruption to millions of users, organisations and businesses across the globe – and that it has “addressed the underlying issue”. The company said the outage was a “technical issue” not related to cyber-attacks or AI agents, and that it continued to gradually restore services. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
@@ -670,6 +681,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop",
+      "description": "The Tabbara family has been making falafel in Lebanon for over a century",
+      "url": "https://abcnews.com/International/wireStory/beirut-family-sold-falafel-100-years-war-crisis-138070081",
+      "published": "Thu, 12 Nov 2026 01:45:24 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 This Beirut family has sold falafel for 100 years, through war and crisis. It has no plan to stop"
     },
     {
       "title": "New platform aims to get money moving before disaster strikes",
@@ -1210,17 +1235,6 @@
       "is_ticker": false
     },
     {
-      "title": "COP31: Energy transition takes centre stage as countries map path beyond fossil fuels",
-      "description": "The global energy transition took centre stage on the second day of COP31, as countries explored how to move away from fossil fuels, accelerate clean energy and overcome financial and infrastructure barriers standing in the way.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168775",
-      "published": "Tue, 10 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "New York City building collapse probe raises questions about neighboring property owner’s violation history",
       "description": "N Tech Design of America defied a New York City stop-work order months before the deadly Brooklyn building collapse that killed eight people.",
       "url": "https://www.foxnews.com/us/new-york-city-building-collapse-probe-raises-questions-about-neighboring-property-owners-violation-history",
@@ -1424,28 +1438,6 @@
       "ticker_label": "🪖 Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine"
     },
     {
-      "title": "Charity-run kitchens in Havana feed a growing number of Cubans as crisis deepens",
-      "description": "Hundreds of people line up each night outside a charity-run food pantry in Havana, hoping for their only meal of the day",
-      "url": "https://abcnews.com/International/wireStory/charity-run-kitchens-havana-feed-growing-number-cubans-138103260",
-      "published": "Fri, 13 Nov 2026 08:08:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Dutch prime minister holds hours of crisis talks as coalition acrimony erupts over tax package",
-      "description": "Dutch Prime Minister Rob Jetten is trying to prevent his coalition government from collapsing",
-      "url": "https://abcnews.com/International/wireStory/dutch-prime-minister-holds-hours-crisis-talks-coalition-138119022",
-      "published": "Fri, 13 Nov 2026 14:41:43 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Pakistan's army says it killed 74 militants in raids on their hideouts",
       "description": "Pakistani security forces have killed 74 militants in raids on hideouts in regions bordering Afghanistan over the past 10 days, according to the military",
       "url": "https://abcnews.com/International/wireStory/pakistans-army-killed-74-militants-raids-hideouts-138102279",
@@ -1472,6 +1464,28 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Europe pushes for seat at Ukraine peace talks but lacks unified voice"
+    },
+    {
+      "title": "Charity-run kitchens in Havana feed a growing number of Cubans as crisis deepens",
+      "description": "Hundreds of people line up each night outside a charity-run food pantry in Havana, hoping for their only meal of the day",
+      "url": "https://abcnews.com/International/wireStory/charity-run-kitchens-havana-feed-growing-number-cubans-138103260",
+      "published": "Fri, 13 Nov 2026 08:08:30 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Dutch prime minister holds hours of crisis talks as coalition acrimony erupts over tax package",
+      "description": "Dutch Prime Minister Rob Jetten is trying to prevent his coalition government from collapsing",
+      "url": "https://abcnews.com/International/wireStory/dutch-prime-minister-holds-hours-crisis-talks-coalition-138119022",
+      "published": "Fri, 13 Nov 2026 14:41:43 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Animal rights activist attacks NYC horse carriage driver with skateboard during tirade, union says",
@@ -1543,6 +1557,17 @@
       "is_ticker": false
     },
     {
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "description": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+      "published": "Sat, 14 Nov 2026 03:32:07 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "LIVE: FAA reopens airspace after ground stop blamed on ‘outdated equipment’",
       "description": "US air regulators have reopened airspace hours after a ground stop halted flights nationwide.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
@@ -1576,17 +1601,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pope tells Peru's bishops to accompany their flocks and respond to abuse victims with truth, justice",
-      "description": "Pope Leo XIV is opening his first day in Peru by giving marching orders to the country’s Catholic bishops",
-      "url": "https://abcnews.com/International/wireStory/pope-tells-perus-bishops-accompany-flocks-respond-abuse-138081099",
-      "published": "Thu, 12 Nov 2026 11:04:34 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Lebanon: Devastation awaits returnees as UN peacekeepers prepare exit",
       "description": "The situation in southern Lebanon remains volatile and extremely difficult for communities trying to rebuild their lives, UN peacekeepers based there report, despite a significant decrease in hostilities following an agreement in June between the United States, Lebanon and Israel.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168784",
@@ -1596,20 +1610,6 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
-      "description": "A liquefied gas carrier caught fire in the Strait of Hormuz after hitting naval mines, according to the IRGC.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
-      "published": "Fri, 13 Nov 2026 19:23:05 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 IRGC says tanker caught fire after hitting mines in Strait of Hormuz"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
@@ -1645,10 +1645,10 @@
       "is_ticker": false
     },
     {
-      "title": "Military helicopter crashes in southern Turkey, killing 4",
-      "description": "The Turkish Defense Ministry says a military helicopter has crashed in southern Turkey, killing four personnel",
-      "url": "https://abcnews.com/International/wireStory/military-helicopter-crashes-southern-turkey-killing-4-138085371",
-      "published": "Thu, 12 Nov 2026 12:42:19 -0500",
+      "title": "Mongolia protests Malaysia’s handling of a 20-year-old murder case",
+      "description": "Mongolia has lodged a diplomatic protest with Malaysia over the handling of a murder case involving a Mongolian woman",
+      "url": "https://abcnews.com/International/wireStory/mongolia-protests-malaysias-handling-20-year-murder-case-138071482",
+      "published": "Thu, 12 Nov 2026 04:38:28 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1941,17 +1941,6 @@
       "description": "All passengers have been accounted for after a cargo ship collided with a docked cruise ship.",
       "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 13 Nov 2026 21:15:24 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "description": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 11 Nov 2026 21:43:35 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2289,9 +2278,9 @@
       "is_ticker": false
     },
     {
-      "title": "Ukraine updates: EU to send united front to potential peace talks",
-      "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow. DW has more.",
-      "url": "https://www.dw.com/en/ukraine-updates-eu-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Ukraine updates: Europe to send united front to potential peace talks",
+      "description": "Germany, France, the UK, Italy and Poland — as well as the EU itself — will jointly represent Europe in possible peace talks. Meanwhile, a second car bomb in two days has exploded in Moscow.",
+      "url": "https://www.dw.com/en/ukraine-updates-europe-to-send-united-front-to-potential-peace-talks/live-79937459?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Fri, 13 Nov 2026 19:39:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2300,7 +2289,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Ukraine updates: EU to send united front to potential peace talks"
+      "ticker_label": "💥 Ukraine updates: Europe to send united front to potential peace talks"
     },
     {
       "title": "Pope Leo celebrates Mass in his former diocese of Chiclayo, Peru",
@@ -2424,10 +2413,10 @@
       "is_ticker": false
     },
     {
-      "title": "Wife of jailed ex-leader of Northern Ireland's largest pro-UK party put on sex offenders register",
-      "description": "Eleanor Donaldson, the wife of former Northern Ireland unionist leader Jeffrey Donaldson, has been placed on the sex offenders register for five years",
-      "url": "https://abcnews.com/International/wireStory/wife-jailed-leader-northern-irelands-largest-pro-uk-138107487",
-      "published": "Fri, 13 Nov 2026 08:39:14 -0500",
+      "title": "Passenger van plunges into river in northern Pakistan, killing 11 people",
+      "description": "Officials say a passenger van veered off a mountainous road and plunged into a river in northern Pakistan, killing 11 people and injuring three others",
+      "url": "https://abcnews.com/International/wireStory/passenger-van-plunges-river-northern-pakistan-killing-11-138100825",
+      "published": "Fri, 13 Nov 2026 03:16:00 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2446,10 +2435,10 @@
       "is_ticker": false
     },
     {
-      "title": "Passenger van plunges into river in northern Pakistan, killing 11 people",
-      "description": "Officials say a passenger van veered off a mountainous road and plunged into a river in northern Pakistan, killing 11 people and injuring three others",
-      "url": "https://abcnews.com/International/wireStory/passenger-van-plunges-river-northern-pakistan-killing-11-138100825",
-      "published": "Fri, 13 Nov 2026 03:16:00 -0500",
+      "title": "Wife of jailed ex-leader of Northern Ireland's largest pro-UK party put on sex offenders register",
+      "description": "Eleanor Donaldson, the wife of former Northern Ireland unionist leader Jeffrey Donaldson, has been placed on the sex offenders register for five years",
+      "url": "https://abcnews.com/International/wireStory/wife-jailed-leader-northern-irelands-largest-pro-uk-138107487",
+      "published": "Fri, 13 Nov 2026 08:39:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2457,15 +2446,29 @@
       "is_ticker": false
     },
     {
-      "title": "Sheinbaum rebuts Trump, says no migrant caravans have reached US border since January 2025",
-      "description": "Mexican President Claudia Sheinbaum says no migrant caravans have reached the U.S. border since U.S. President Donald Trump returned to office in 2025",
-      "url": "https://abcnews.com/International/wireStory/sheinbaum-rebuts-trump-migrant-caravans-reached-us-border-138083469",
-      "published": "Thu, 12 Nov 2026 11:26:59 -0500",
+      "title": "Brazil fines Facebook $1.3M for failing to comply with court orders during election",
+      "description": "Brazil’s top electoral court fines Meta’s Facebook $1.3 million for not fully complying with judicial orders during the recent presidential election runoff campaign",
+      "url": "https://abcnews.com/International/wireStory/brazil-fines-facebook-13-million-failing-comply-court-138050841",
+      "published": "Wed, 11 Nov 2026 13:19:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years",
+      "description": "In a quiet hospital corridor in Kyiv, staff and volunteers push carts carrying steaming pots of chicken soup, bread and buckwheat porridge to patients recently evacuated from Russian-occupied Oleshky, in Ukraine’s southern Kherson region.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168803",
+      "published": "Fri, 13 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 ‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years"
     },
     {
       "title": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
