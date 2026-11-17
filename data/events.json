@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-17T23:09:44.736777Z",
-  "event_count": 215,
+  "last_updated": "2026-11-17T23:35:46.473017Z",
+  "event_count": 216,
   "events": [
     {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -24,6 +24,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 37,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Injured Australian lawmaker Helen Haines leaves hospital after alleged SUV attack",
+      "description": "An Australian federal lawmaker who was almost killed by a car in an allegedly deliberate attack has thanked well-wishers around the world",
+      "url": "https://abcnews.com/International/wireStory/injured-australian-lawmaker-helen-haines-leaves-hospital-after-138170480",
+      "published": "Mon, 16 Nov 2026 07:26:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 35,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -435,20 +446,6 @@
       "is_ticker": false
     },
     {
-      "title": "Mozambique's Mondlane is the latest opposition leader to go on trial in Africa",
-      "description": "Mozambique’s opposition leader will go on trial charged with instigating terrorism and inciting civil disobedience in relation to monthslong anti-government protests that broke out following a disputed 2024 election",
-      "url": "https://abcnews.com/International/wireStory/mozambiques-venancio-mondlane-latest-opposition-leader-trial-africa-138196123",
-      "published": "Mon, 16 Nov 2026 20:49:37 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Mozambique's Mondlane is the latest opposition leader to go on trial in Africa"
-    },
-    {
       "title": "Lebanon leading the way in mental health support",
       "description": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
@@ -560,17 +557,6 @@
       "ticker_label": "🪖 Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate"
     },
     {
-      "title": "Some Afghan women quietly defy Taliban bans",
-      "description": "In the shadows of the Afghan capital’s bustling streets, many women live in a hidden world, secretly defying the laws imposed on them when the Taliban seized power in August 2021",
-      "url": "https://abcnews.com/International/wireStory/afghan-women-quietly-defy-taliban-bans-opening-secret-138200702",
-      "published": "Tue, 17 Nov 2026 04:38:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
       "description": "Children from across the world sent a message of peace from the Omani capital Muscat on Monday, calling for an end to hatred, respect for diversity and the protection of human rights.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168820",
@@ -668,6 +654,17 @@
       "is_ticker": false
     },
     {
+      "title": "Haitians protest in support of El Salvador’s anti-gang troop deployment",
+      "description": "El Salvador's security minister has confirmed the troops will leave once kidnapped technicians are rescued.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/haitians-protest-in-support-of-el-salvadors-anti-gang-troop-deployment?traffic_source=rss",
+      "published": "Tue, 17 Nov 2026 23:09:00 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
       "description": "St Kitts and Nevis to wind down citizenship-by-investment program after EU warns of end to visa-free access The decision by St Kitts and Nevis to end a lucrative programme offering citizenship to wealthy foreigners in exchange for investment threatens its economy and ability to support people in need, the premier of the island of Nevis has warned. On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) programme, after the European Union threatened to end visa-free access for St Kitts and Nevis. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment",
@@ -693,18 +690,32 @@
       "is_ticker": false
     },
     {
-      "title": "Military jet crashes in Serbia and the pilot is killed, authorities say",
-      "description": "Serbia's defense ministry says that a military jet crashed northwest of Belgrade, killing the pilot",
-      "url": "https://abcnews.com/International/wireStory/military-jet-crashes-serbia-pilot-killed-authorities-138203005",
-      "published": "Tue, 17 Nov 2026 05:17:36 -0500",
+      "title": "A fire in a building in southern Thailand kills 11 people",
+      "description": "A fire has burned through a building in southern Thailand and killed 11 people",
+      "url": "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386",
+      "published": "Mon, 16 Nov 2026 02:06:40 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": true,
-      "ticker_category": "airline_disaster",
-      "ticker_emoji": "✈️",
-      "ticker_label": "✈️ Military jet crashes in Serbia and the pilot is killed, authorities say"
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 A fire in a building in southern Thailand kills 11 people"
+    },
+    {
+      "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
+      "description": "A rights group says an army airstrike killed at least 13 people",
+      "url": "https://abcnews.com/International/wireStory/army-airstrike-kills-13-west-kordofan-rights-group-138185316",
+      "published": "Mon, 16 Nov 2026 14:10:24 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Army airstrike kills at least 13 in West Kordofan, says rights group"
     },
     {
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
@@ -730,20 +741,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Person of interest being questioned by FBI in Illinois ethanol plant bomb investigation",
-      "description": "FBI Springfield, Illinois, is leading the manhunt after a credible explosive device was found at BioUrja Renewables in Peoria, sparking evacuations.",
-      "url": "https://www.foxnews.com/us/fbi-investigates-who-placed-bomb-near-illinois-ethanol-plant",
-      "published": "Mon, 16 Nov 2026 08:31:08 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Person of interest being questioned by FBI in Illinois ethanol plant bomb investigation"
     },
     {
       "title": "Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes",
@@ -808,17 +805,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Fresh clashes at the Eritrean border — is Ethiopia sliding into a regional war?"
-    },
-    {
-      "title": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs",
-      "description": "Thousands of people in Haiti's capital and beyond are praising El Salvador’s president, Nayib Bukele, and his troops for fighting gangs in the country",
-      "url": "https://abcnews.com/International/wireStory/thousands-demonstrate-haitis-capital-praise-bukele-salvadoran-troops-138217031",
-      "published": "Tue, 17 Nov 2026 12:32:41 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
     },
     {
       "title": "New Orleans cruise ship disaster timeline reveals tanker's troubled past and frantic final minutes",
@@ -1051,20 +1037,6 @@
       "is_ticker": false
     },
     {
-      "title": "Iran-backed group warns Iraqi forces against entering its stronghold near Baghdad",
-      "description": "Kataib Hezbollah, a powerful Iran-backed armed group, has vowed to confront Iraqi government forces if they enter its stronghold near Baghdad",
-      "url": "https://abcnews.com/International/wireStory/iran-backed-group-warns-iraqi-forces-entering-stronghold-138213451",
-      "published": "Tue, 17 Nov 2026 10:20:52 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Iran-backed group warns Iraqi forces against entering its stronghold near Baghdad"
-    },
-    {
       "title": "Japan urges creation of an Asian energy framework to counter oil crises",
       "description": "Japanese Prime Minister Sanae Takaichi has proposed the creation of an Asian energy agency to help countries in the region cope with oil crises, such as the shocks from the Iran war",
       "url": "https://abcnews.com/International/wireStory/japan-urges-creation-asian-energy-framework-counter-oil-138202916",
@@ -1253,6 +1225,17 @@
       "url": "https://www.france24.com/en/technology/20261117-nvidia-board-rules-that-co-founder-jensen-huang-will-not-return-as-ceo",
       "published": "Tue, 17 Nov 2026 22:50:32 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Cape Verde’s president is reelected for a second 5-year term, provisional results show",
+      "description": "Cape Verde’s president, José Maria Neves, has been reelected for a second term, defeating five challengers, including the country’s first female presidential candidate",
+      "url": "https://abcnews.com/International/wireStory/cape-verdes-president-reelected-5-year-term-provisional-138170967",
+      "published": "Mon, 16 Nov 2026 04:58:25 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
@@ -1478,17 +1461,6 @@
       "is_ticker": false
     },
     {
-      "title": "Guatemala ramps up security operations following declaration of state of siege",
-      "description": "Guatemala's interior and defense ministers have inspected security operations in two departments bordering Honduras",
-      "url": "https://abcnews.com/International/wireStory/guatemala-ramps-security-operations-declaration-state-siege-138191556",
-      "published": "Mon, 16 Nov 2026 18:32:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Illegal alien accused of attempted murder at large after Rikers release despite ICE detainer: DHS",
       "description": "Delon Raymond Jaundoo, a Guyanese citizen in the United States illegally, was freed from Rikers Island despite an ICE detainer, according to DHS.",
       "url": "https://www.foxnews.com/us/illegal-alien-accused-attempted-murder-large-after-rikers-release-despite-ice-detainer-dhs",
@@ -1496,6 +1468,17 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
+      "description": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 23:03:39 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1621,6 +1604,17 @@
       "is_ticker": false
     },
     {
+      "title": "Paraguay’s ousted president moved to military prison after reports of gym and suite in custody",
+      "description": "Former Paraguayan President Santiago Peña is being moved to a military prison as he awaits trial over the collapse of Ueno Bank",
+      "url": "https://abcnews.com/International/wireStory/paraguays-ousted-president-moved-military-prison-after-reports-138186878",
+      "published": "Mon, 16 Nov 2026 14:22:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "AI gets climate science right – until users push back",
       "description": "The best AI models answer most climate science questions correctly, but they often abandon established facts as soon as a user disagrees, according to a new report co-authored by the UN.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168817",
@@ -1720,15 +1714,18 @@
       "is_ticker": false
     },
     {
-      "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-      "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
-      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 18:24:21 GMT",
+      "title": "Thomas Markle charged over child sex abuse material in Philippines",
+      "description": "Markle is being held in prison in the US on a separate charge and has previously denied all of the allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+      "published": "Tue, 17 Nov 2026 22:44:15 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Thomas Markle charged over child sex abuse material in Philippines"
     },
     {
       "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
@@ -1790,17 +1787,6 @@
       "description": "President Trump says he would be keen to meet the North Korea leader in China.",
       "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 17 Nov 2026 10:13:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "description": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 16 Nov 2026 15:08:59 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1878,17 +1864,6 @@
       "description": "Companies get billions in tariff refunds. Consumers are left with the bill.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/companies-get-billions-in-tariff-refunds-consumers-are-left-with-the-bill?traffic_source=rss",
       "published": "Tue, 17 Nov 2026 19:31:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "NSA attributes US network outage to routine ‘maintenance’ activities",
-      "description": "Recent outage at NSA follows a series of unexplained disruptions across US communication and transportation services.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
-      "published": "Tue, 17 Nov 2026 19:03:14 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2237,6 +2212,28 @@
       "is_ticker": false
     },
     {
+      "title": "UK sanctions eight firms building Israeli settlements in the West Bank",
+      "description": "The UK has sanctioned eight firms building Israeli settlements in the West Bank.",
+      "url": "https://news.sky.com/story/uk-sanctions-eight-firms-building-israeli-settlements-in-the-west-bank-13612666",
+      "published": "Tue, 17 Nov 2026 06:12:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "William and Kate host glittering Earthshot Prize ceremony in Mumbai",
+      "description": "The Prince and Princess of Wales have hosted a star-studded event in Mumbai to celebrate the winners of the Earthshot Prize.",
+      "url": "https://news.sky.com/story/william-and-kate-host-glittering-earthshot-prize-ceremony-in-mumbai-13613397",
+      "published": "Tue, 17 Nov 2026 21:08:00 +0000",
+      "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Three Melbourne Cup trophies worth £500k each stolen",
       "description": "Police are searching for three Melbourne Cup trophies collectively worth more than £1.5m after they were stolen from a display cabinet at a racecourse in Melbourne.",
       "url": "https://news.sky.com/story/police-searching-for-three-stolen-melbourne-cup-trophies-worth-500k-each-13613066",
@@ -2248,21 +2245,10 @@
       "is_ticker": false
     },
     {
-      "title": "US to further curb China's access to Nvidia chips",
-      "description": "The US government is set to further restrict China's access to the most powerful AI chips, such as the ones provided by tech giant Nvidia.",
-      "url": "https://news.sky.com/story/us-to-further-curb-chinas-access-to-ai-chips-from-companies-like-nvidia-13612884",
-      "published": "Mon, 16 Nov 2026 14:59:00 +0000",
-      "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
-      "description": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians",
-      "url": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-      "published": "Tue, 17 Nov 2026 14:05:12 -0500",
+      "title": "Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip",
+      "description": "Pope Leo XIV has bid farewell to his beloved homeland of Peru",
+      "url": "https://abcnews.com/International/wireStory/pope-bids-hasta-luego-homeland-peru-wraps-marathon-138178866",
+      "published": "Mon, 16 Nov 2026 11:58:41 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2270,10 +2256,10 @@
       "is_ticker": false
     },
     {
-      "title": "4 detained in North Macedonia for alleged Iran-backed assassination plot in Greece",
-      "description": "Authorities in North Macedonia say four people have been detained for questioning over an alleged Iran-linked assassination plot in neighboring Greece",
-      "url": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
-      "published": "Tue, 17 Nov 2026 11:01:02 -0500",
+      "title": "Macron leaves summit of French-speaking nations with leadership dispute on hold",
+      "description": "French President Emmanuel Macron left a summit of French-speaking nations on Monday with uncertainty still hanging over the organization’s leadership after a dispute between Rwanda and Congo",
+      "url": "https://abcnews.com/International/wireStory/macron-leaves-summit-french-speaking-nations-leadership-dispute-138172198",
+      "published": "Mon, 16 Nov 2026 12:11:43 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2281,10 +2267,10 @@
       "is_ticker": false
     },
     {
-      "title": "David Beckham sues after his fragrance is sold in gas stations and discount stores",
-      "description": "David Beckham’s company is suing beauty group Coty for at least $41 million, alleging that sales of his perfumes in discount stores breached their licensing agreement and damaged his luxury brand",
-      "url": "https://abcnews.com/International/wireStory/david-beckham-sues-after-fragrance-sold-gas-stations-138208042",
-      "published": "Tue, 17 Nov 2026 08:42:06 -0500",
+      "title": "Britain's Prince William and Princess Catherine arrive in India for 3-day visit",
+      "description": "Prince William and Princess Catherine have arrived in India for a three-day visit",
+      "url": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
+      "published": "Mon, 16 Nov 2026 07:10:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2292,43 +2278,10 @@
       "is_ticker": false
     },
     {
-      "title": "How Europe decided on 'return hubs' for migrants",
-      "description": "A group of European countries has announced plans to establish a \"migrant hub\" in Rwanda for rejected asylum-seekers",
-      "url": "https://abcnews.com/International/wireStory/europe-decided-return-hubs-migrants-138205386",
-      "published": "Tue, 17 Nov 2026 07:34:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Another commercial vessel sinks off Bulgaria's Black Sea coast",
-      "description": "The Bulgarian Defense Ministry says that a Liberia-flagged gas tanker sank in Bulgaria’s exclusive economic zone in the Black Sea",
-      "url": "https://abcnews.com/International/wireStory/commercial-vessel-sinks-off-bulgarias-black-sea-coast-138204792",
-      "published": "Tue, 17 Nov 2026 07:02:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "EU-backed court convicts Kosovo ex-President of attempting to obstruct justice",
-      "description": "A European Union-backed court has convicted Kosovo's former president, Hashim Thaci, of trying to obstruct justice and contempt of court",
-      "url": "https://abcnews.com/International/wireStory/eu-backed-court-convicts-kosovo-president-hashim-thaci-138204660",
-      "published": "Tue, 17 Nov 2026 07:50:16 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "More than 200 people jailed over crackdown on illegal gold mining",
-      "description": "A court in Guinea has sentenced 22 former officials and 202 miners to prison over illegal gold mining in the northeast",
-      "url": "https://abcnews.com/International/wireStory/guinea-sentences-200-people-prison-crackdown-illegal-gold-138202919",
-      "published": "Tue, 17 Nov 2026 05:18:36 -0500",
+      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+      "description": "The bloc imposed sanctions on nearly 50 Russian banks, financial institutions.",
+      "url": "https://abcnews.com/International/wireStory/eu-accuses-russia-stalling-ukraine-peace-talks-target-138172402",
+      "published": "Mon, 16 Nov 2026 12:02:04 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2347,10 +2300,10 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo says there is no change to agenda or priorities after his lung cancer surgery",
-      "description": "Pope Leo XIV says his recent lung cancer surgery hasn't changed his agenda or outlook",
-      "url": "https://abcnews.com/International/wireStory/pope-leo-change-agenda-priorities-after-lung-cancer-138202271",
-      "published": "Tue, 17 Nov 2026 05:14:10 -0500",
+      "title": "4 detained in North Macedonia for alleged Iran-backed assassination plot in Greece",
+      "description": "Authorities in North Macedonia say four people have been detained for questioning over an alleged Iran-linked assassination plot in neighboring Greece",
+      "url": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
+      "published": "Tue, 17 Nov 2026 11:01:02 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2358,10 +2311,10 @@
       "is_ticker": false
     },
     {
-      "title": "Malaysia-France rare earths project to begin operations in early 2027, Macron says",
-      "description": "A joint rare earths mining and processing venture between Malaysia and France is expected to begin operations in early 2027",
-      "url": "https://abcnews.com/International/wireStory/malaysia-france-rare-earths-project-begin-operations-early-138201779",
-      "published": "Tue, 17 Nov 2026 05:14:11 -0500",
+      "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
+      "description": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians",
+      "url": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
+      "published": "Tue, 17 Nov 2026 14:05:12 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2369,10 +2322,57 @@
       "is_ticker": false
     },
     {
-      "title": "Mongolia’s president says he will step down after facing accusations of corruption",
-      "description": "Mongolia’s President Khurelsukh Ukhnaa says he will resign after a member of a faction of his own party accused him of benefiting financially from a government railway project",
-      "url": "https://abcnews.com/International/wireStory/mongolias-president-step-after-facing-accusations-corruption-138199346",
-      "published": "Tue, 17 Nov 2026 08:14:34 -0500",
+      "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
+      "description": "Canadian Prime Minister Mark Carney says Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry",
+      "url": "https://abcnews.com/International/wireStory/carney-canada-turn-chinese-automakers-trump-trade-talks-138168098",
+      "published": "Mon, 16 Nov 2026 06:46:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pakistan's imprisoned ex-leader Imran Khan appeals for urgent medical care",
+      "description": "Imprisoned former Prime Minister Imran Khan has appealed to Pakistan's top judges for urgent medical treatment for himself and his wife",
+      "url": "https://abcnews.com/International/wireStory/pakistans-imprisoned-leader-imran-khan-appeals-urgent-medical-138177955",
+      "published": "Mon, 16 Nov 2026 12:33:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "David Beckham sues after his fragrance is sold in gas stations and discount stores",
+      "description": "David Beckham’s company is suing beauty group Coty for at least $41 million, alleging that sales of his perfumes in discount stores breached their licensing agreement and damaged his luxury brand",
+      "url": "https://abcnews.com/International/wireStory/david-beckham-sues-after-fragrance-sold-gas-stations-138208042",
+      "published": "Tue, 17 Nov 2026 08:42:06 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80",
+      "description": "Gallardo, nicknamed the “Boss of Bosses,” died of multiple organ failure.",
+      "url": "https://abcnews.com/International/wireStory/mexican-drug-kingpin-flix-gallardo-founder-guadalajara-cartel-138183861",
+      "published": "Mon, 16 Nov 2026 12:14:36 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80"
+    },
+    {
+      "title": "How Europe decided on 'return hubs' for migrants",
+      "description": "A group of European countries has announced plans to establish a \"migrant hub\" in Rwanda for rejected asylum-seekers",
+      "url": "https://abcnews.com/International/wireStory/europe-decided-return-hubs-migrants-138205386",
+      "published": "Tue, 17 Nov 2026 07:34:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2425,6 +2425,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 ‘Here, you can eat until you’re full’: Oleshky evacuees savour first proper meals in years"
+    },
+    {
+      "title": "Man legally named Captain America charged with murder after allegedly giving victim’s girlfriend chilling note",
+      "description": "A man legally named Captain America allegedly gave a woman a note saying her boyfriend was dead and demanding her money. Police later found the boyfriend dead inside a home.",
+      "url": "https://www.foxnews.com/us/man-legally-named-captain-america-charged-murder-after-allegedly-giving-victims-girlfriend-chilling-note",
+      "published": "Tue, 17 Nov 2026 18:23:35 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Florida substitute teacher arrested for allegedly sending explicit photos to teen student",
