@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-17T03:13:33.275049Z",
+  "last_updated": "2026-11-17T03:35:40.053146Z",
   "event_count": 220,
   "events": [
     {
@@ -243,20 +243,6 @@
       "ticker_label": "🪖 Czech mass protests: Media is the first casualty 'when you want to attack democracy'"
     },
     {
-      "title": "South Africa: 17 killed in separate mass shooting incidents",
-      "description": "Police are investigating two mass shooting incidents in Gauteng and KwaZulu-Natal provinces. There has been a growing trend of mass shooting incidents making headlines in recent years.",
-      "url": "https://www.dw.com/en/south-africa-17-killed-in-separate-mass-shooting-incidents/a-79956966?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Mon, 16 Nov 2026 10:57:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 South Africa: 17 killed in separate mass shooting incidents"
-    },
-    {
       "title": "Sudanese army air attack kills 13 in western Sudan: Rights group",
       "description": "'Preliminary monitoring' shows women and children killed, homes destroyed in West Kordofan, says Emergency Lawyers.",
       "url": "https://www.aljazeera.com/news/2026/11/16/sudanese-army-air-attack-kills-13-in-western-sudan-rights-group?traffic_source=rss",
@@ -364,6 +350,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Trump heads to Asia for historic nuclear talks with China and Russia"
+    },
+    {
+      "title": "Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow",
+      "description": "Tensions between Sudan and Ethiopia have escalated, with each country accusing the other of supporting armed groups that wage war within its borders",
+      "url": "https://abcnews.com/International/wireStory/ethiopia-sudan-accuse-backing-armed-fighters-fears-wider-138170200",
+      "published": "Mon, 16 Nov 2026 01:58:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 20,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ethiopia and Sudan accusations of backing armed fighters as fears of conflict grow"
     },
     {
       "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
@@ -587,6 +587,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Mozambique's Mondlane is the latest opposition leader to go on trial in Africa"
+    },
+    {
+      "title": "At least 17 people were killed in separate shootings in South Africa",
+      "description": "Police in South Africa say at least 17 people were killed in two mass shootings on the same day",
+      "url": "https://abcnews.com/International/wireStory/17-people-killed-separate-shootings-south-africa-138171068",
+      "published": "Mon, 16 Nov 2026 07:26:25 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 At least 17 people were killed in separate shootings in South Africa"
     },
     {
       "title": "Lebanon leading the way in mental health support",
@@ -847,20 +861,6 @@
       "ticker_label": "🪖 Ukraine: Russian strikes hit bridges in Kyiv, mayor says"
     },
     {
-      "title": "A fire in a building in southern Thailand kills 11 people",
-      "description": "A fire has burned through a building in southern Thailand and killed 11 people",
-      "url": "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386",
-      "published": "Mon, 16 Nov 2026 02:06:40 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 A fire in a building in southern Thailand kills 11 people"
-    },
-    {
       "title": "Army airstrike kills at least 13 in West Kordofan, says rights group",
       "description": "A rights group says an army airstrike killed at least 13 people",
       "url": "https://abcnews.com/International/wireStory/army-airstrike-kills-13-west-kordofan-rights-group-138185316",
@@ -873,6 +873,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Army airstrike kills at least 13 in West Kordofan, says rights group"
+    },
+    {
+      "title": "A fire in a building in southern Thailand kills 11 people",
+      "description": "A fire has burned through a building in southern Thailand and killed 11 people",
+      "url": "https://abcnews.com/International/wireStory/fire-building-southern-thailand-kills-11-people-138170386",
+      "published": "Mon, 16 Nov 2026 02:06:40 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 A fire in a building in southern Thailand kills 11 people"
     },
     {
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
@@ -915,6 +929,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East"
+    },
+    {
+      "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+      "description": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+      "published": "Tue, 17 Nov 2026 03:12:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1470,6 +1498,17 @@
       "is_ticker": false
     },
     {
+      "title": "Japan scrambles jets to counter suspected Russian aircraft",
+      "description": "Japan said it lodged a \"very stern protest\" with Moscow after two suspected Russian aircraft violated Japanese airspace.",
+      "url": "https://www.dw.com/en/japan-scrambles-jets-to-counter-suspected-russian-aircraft/a-79964537?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Tue, 17 Nov 2026 03:29:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "EU nations unveil Rwanda deal for migrant return hub",
       "description": "Five EU countries including Germany and Denmark on Monday unveiled a deal to establish a migrant deportation centre in Rwanda -- the first such facility outside the bloc. The group, also comprising Austria, Greece and the Netherlands, has been gunning to open a \"return-hub\" despite rights groups' concerns, after the European Union cleared the way with a recent toughening of migration rules. FRANCE 24's Dave Keating reports from Brussels.",
       "url": "https://www.france24.com/en/eu-nations-unveil-rwanda-deal-for-migrant-return-hub",
@@ -1971,17 +2010,6 @@
       "is_ticker": false
     },
     {
-      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
-      "description": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
-      "published": "Mon, 16 Nov 2026 20:20:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Markets digest bank earnings after recent turmoil",
       "description": "No description available.",
       "url": "https://www.cnn.com/business/live-news/stock-market-bank-earnings/index.html",
@@ -2367,54 +2395,24 @@
       "is_ticker": false
     },
     {
+      "title": "Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80",
+      "description": "Gallardo, nicknamed the “Boss of Bosses,” died of multiple organ failure.",
+      "url": "https://abcnews.com/International/wireStory/mexican-drug-kingpin-flix-gallardo-founder-guadalajara-cartel-138183861",
+      "published": "Mon, 16 Nov 2026 12:14:36 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80"
+    },
+    {
       "title": "Pope bids 'hasta luego' to his second homeland of Peru as he wraps up marathon South American trip",
       "description": "Pope Leo XIV has bid farewell to his beloved homeland of Peru",
       "url": "https://abcnews.com/International/wireStory/pope-bids-hasta-luego-homeland-peru-wraps-marathon-138178866",
       "published": "Mon, 16 Nov 2026 11:58:41 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Macron leaves summit of French-speaking nations with leadership dispute on hold",
-      "description": "French President Emmanuel Macron left a summit of French-speaking nations on Monday with uncertainty still hanging over the organization’s leadership after a dispute between Rwanda and Congo",
-      "url": "https://abcnews.com/International/wireStory/macron-leaves-summit-french-speaking-nations-leadership-dispute-138172198",
-      "published": "Mon, 16 Nov 2026 12:11:43 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Britain's Prince William and Princess Catherine arrive in India for 3-day visit",
-      "description": "Prince William and Princess Catherine have arrived in India for a three-day visit",
-      "url": "https://abcnews.com/International/wireStory/britains-prince-william-princess-catherine-arrive-india-3-138169197",
-      "published": "Mon, 16 Nov 2026 07:10:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
-      "description": "The bloc imposed sanctions on nearly 50 Russian banks, financial institutions.",
-      "url": "https://abcnews.com/International/wireStory/eu-accuses-russia-stalling-ukraine-peace-talks-target-138172402",
-      "published": "Mon, 16 Nov 2026 12:02:04 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Carney says Canada could turn to Chinese automakers if Trump trade talks fail",
-      "description": "Canadian Prime Minister Mark Carney says Canada could turn to Chinese automakers if trade negotiations with U.S. President Donald Trump fail to preserve an integrated North American auto industry",
-      "url": "https://abcnews.com/International/wireStory/carney-canada-turn-chinese-automakers-trump-trade-talks-138168098",
-      "published": "Mon, 16 Nov 2026 06:46:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2433,46 +2431,54 @@
       "is_ticker": false
     },
     {
-      "title": "Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80",
-      "description": "Gallardo, nicknamed the “Boss of Bosses,” died of multiple organ failure.",
-      "url": "https://abcnews.com/International/wireStory/mexican-drug-kingpin-flix-gallardo-founder-guadalajara-cartel-138183861",
-      "published": "Mon, 16 Nov 2026 12:14:36 -0500",
+      "title": "Cargo ship sinks off Bulgaria's Black Sea coast",
+      "description": "A Somali-flagged cargo ship has sunk in Bulgaria’s exclusive economic zone in the Black Sea, according to the transport ministry",
+      "url": "https://abcnews.com/International/wireStory/cargo-ship-sinks-off-bulgarias-black-sea-coast-138174286",
+      "published": "Mon, 16 Nov 2026 07:53:01 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Mexican drug kingpin Félix Gallardo, founder of Guadalajara cartel, dies at 80"
+      "is_ticker": false
+    },
+    {
+      "title": "Gérard Depardieu drops appeal and accepts sexual assault conviction",
+      "description": "French actor Gérard Depardieu says he is dropping his appeal against a conviction for sexually assaulting two women on a film set",
+      "url": "https://abcnews.com/International/wireStory/grard-depardieu-drops-appeal-accepts-sexual-assault-conviction-138173474",
+      "published": "Mon, 16 Nov 2026 07:26:22 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "EU accuses Russia of stalling Ukraine peace talks to target power plants as winter nears",
+      "description": "The bloc imposed sanctions on nearly 50 Russian banks, financial institutions.",
+      "url": "https://abcnews.com/International/wireStory/eu-accuses-russia-stalling-ukraine-peace-talks-target-138172402",
+      "published": "Mon, 16 Nov 2026 12:02:04 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Macron leaves summit of French-speaking nations with leadership dispute on hold",
+      "description": "French President Emmanuel Macron left a summit of French-speaking nations on Monday with uncertainty still hanging over the organization’s leadership after a dispute between Rwanda and Congo",
+      "url": "https://abcnews.com/International/wireStory/macron-leaves-summit-french-speaking-nations-leadership-dispute-138172198",
+      "published": "Mon, 16 Nov 2026 12:11:43 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Lula to govern Brazil for fourth term but faces challenges. Here’s what to know",
       "description": "Brazilian President Luiz Inácio Lula da Silva has won a surprise reelection victory but faces significant challenges",
       "url": "https://abcnews.com/International/wireStory/lula-govern-brazil-fourth-term-faces-range-challenges-138170781",
       "published": "Mon, 16 Nov 2026 02:55:24 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Haiti revs up for elections as enrollment closes for candidates",
-      "description": "For the first time in Haiti’s history, three women have registered as presidential candidates",
-      "url": "https://abcnews.com/International/wireStory/haiti-revs-elections-enrollment-closes-presidential-parliamentary-candidates-138169668",
-      "published": "Mon, 16 Nov 2026 01:44:56 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "British women to receive automatic pardons for past abortion convictions",
-      "description": "The British government is pardoning women convicted of illegally terminating pregnancies",
-      "url": "https://abcnews.com/International/wireStory/british-women-receive-automatic-pardons-past-abortion-convictions-138170290",
-      "published": "Mon, 16 Nov 2026 01:58:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2491,10 +2497,10 @@
       "is_ticker": false
     },
     {
-      "title": "Gérard Depardieu drops appeal and accepts sexual assault conviction",
-      "description": "French actor Gérard Depardieu says he is dropping his appeal against a conviction for sexually assaulting two women on a film set",
-      "url": "https://abcnews.com/International/wireStory/grard-depardieu-drops-appeal-accepts-sexual-assault-conviction-138173474",
-      "published": "Mon, 16 Nov 2026 07:26:22 -0500",
+      "title": "British women to receive automatic pardons for past abortion convictions",
+      "description": "The British government is pardoning women convicted of illegally terminating pregnancies",
+      "url": "https://abcnews.com/International/wireStory/british-women-receive-automatic-pardons-past-abortion-convictions-138170290",
+      "published": "Mon, 16 Nov 2026 01:58:31 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
