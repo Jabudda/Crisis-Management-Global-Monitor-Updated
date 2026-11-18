@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T16:36:39.071448Z",
+  "last_updated": "2026-11-18T17:09:57.303276Z",
   "event_count": 219,
   "events": [
     {
@@ -220,17 +220,6 @@
       "is_ticker": false
     },
     {
-      "title": "French police hold Paris rally after weeks of protests",
-      "description": "French police staged a surprise demonstration in front of the French interior ministry in Paris on Wednesday, including members of the specialist riot control unit the CRS. It comes after weeks of huge protest marches around the country that have often descended into violence and led to criticism of police over heavy-handed tactics.",
-      "url": "https://www.france24.com/en/video/20261118-french-police-hold-paris-rally-after-weeks-of-protests",
-      "published": "Wed, 18 Nov 2026 13:15:28 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Ex-hostage recounts captivity in Iran-backed militia stronghold now targeted by Iraqi prime minister",
       "description": "Israeli-Russian researcher Elizabeth Tsurkov describes where Iran-backed Iraqi terrorists held her captive for months as Iraq's Trump-backed prime minister orders a crackdown on the militia.",
       "url": "https://www.foxnews.com/world/ex-hostage-recounts-captivity-iran-backed-militia-stronghold-now-targeted-iraqi-prime-minister",
@@ -305,6 +294,17 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "World Bank official says Lebanon reconstruction making slow progress",
+      "description": "Beirut blames Israel's occupation and attacks on southern Lebanon for reconstruction delays.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/world-bank-official-says-lebanon-reconstruction-making-slow-progress?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 16:44:59 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -626,19 +626,22 @@
       "ticker_label": "🪖 Irishman charged with destroying US military aircraft with axe"
     },
     {
-      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-      "description": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 20:30:20 GMT",
-      "source": "BBC News",
+      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
+      "description": "Iranian attacks on the Gulf countries draw condemnation from across the region.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 16:47:26 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island"
     },
     {
       "title": "Palestinians flee refugee camp as Israel begins operation in central Gaza",
-      "description": "At least three Palestinians killed as Israeli forces launch strikes near refugee camp.",
+      "description": "At least three Palestinians were killed as Israeli forces launched strikes near a refugee camp.",
       "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
       "published": "Wed, 18 Nov 2026 14:39:09 +0000",
       "source": "Al Jazeera",
@@ -792,6 +795,17 @@
       "url": "https://www.france24.com/en/video/20261118-who-sounds-alarm-over-antibiotic-resistance",
       "published": "Wed, 18 Nov 2026 14:55:46 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Thousands demonstrate in Haiti’s capital to praise Bukele and Salvadoran troops fighting gangs",
+      "description": "Thousands of people in Haiti's capital and beyond are praising El Salvador’s president, Nayib Bukele, and his troops for fighting gangs in the country",
+      "url": "https://abcnews.com/International/wireStory/thousands-demonstrate-haitis-capital-praise-bukele-salvadoran-troops-138217031",
+      "published": "Tue, 17 Nov 2026 12:32:41 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1006,7 +1020,21 @@
       "is_ticker": false
     },
     {
-      "title": "Parents jailed for torture and death of four-year-old girl in France in 1987",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces who have taken the battle below ground and out of sight of Russian drones.",
+      "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Inside the old gas pipeline where Ukraine is fighting an underground war with Russia"
+    },
+    {
+      "title": "Parents jailed for torture and death of four-year-old girl found along French motorway in 1987",
       "description": "Inass Touloub's body was found along the A10 road in 1987, bearing marks of abuse, and was not identified until 2018.",
       "url": "https://www.bbc.co.uk/news/articles/c6lyw490z14jo?at_medium=RSS&at_campaign=rss",
       "published": "Wed, 18 Nov 2026 15:39:57 GMT",
@@ -1017,7 +1045,7 @@
       "is_ticker": true,
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
-      "ticker_label": "💥 Parents jailed for torture and death of four-year-old girl in France in 1987"
+      "ticker_label": "💥 Parents jailed for torture and death of four-year-old girl found along French motorway in 1987"
     },
     {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -1032,6 +1060,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine"
+    },
+    {
+      "title": "Jerusalem Daily: Chaos in the Knesset as new speaker elected",
+      "description": "Israel’s army beat a journalist covering a settler attack near Jericho.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/jerusalem-daily-chaos-in-the-knesset-as-new-speaker-elected?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 16:28:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Can the US and Iran sustain a ‘frozen war’?",
@@ -1184,6 +1223,17 @@
       "is_ticker": false
     },
     {
+      "title": "Charlotte wants Iryna Zarutska murder lawsuit tossed, says it can’t be held responsible",
+      "description": "Charlotte argues governmental immunity shields its transit policing decisions as it asks a judge to toss Iryna Zarutska's family's wrongful-death lawsuit.",
+      "url": "https://www.foxnews.com/us/charlotte-wants-iryna-zarutska-murder-lawsuit-tossed-says-cant-held-responsible",
+      "published": "Wed, 18 Nov 2026 11:41:39 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Veteran pilot: Congress must act to update 'archaic' FAA tech that is 'putting Americans in danger'",
       "description": "Retired Air Force pilot Buzz Patterson warns the FAA ground stop will happen again, blaming \"tribal\" politics for delaying a $50 billion modernization.",
       "url": "https://www.foxnews.com/us/veteran-pilot-congress-must-act-upate-archaic-faa-tech-putting-americans-danger",
@@ -1284,17 +1334,6 @@
       "is_ticker": false
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 22:46:30 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1386,18 +1425,15 @@
       "is_ticker": false
     },
     {
-      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
-      "description": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
-      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
-      "published": "Tue, 17 Nov 2026 17:19:57 GMT",
+      "title": "Julio Iglesias facing court investigation over alleged sexual offences",
+      "description": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 16:33:16 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge"
+      "is_ticker": false
     },
     {
       "title": "‘Crimea is turning into an island’: How Ukraine hit Putin’s prized bridge",
@@ -1452,17 +1488,6 @@
       "url": "https://abcnews.com/International/wireStory/angry-crowds-rally-slovakias-pro-russian-leader-velvet-138221924",
       "published": "Tue, 17 Nov 2026 14:04:53 -0500",
       "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Democratic judge under fire for releasing violent offenders calls bail law a ‘direct assault’ on rights",
-      "description": "Judge David Carpenter called Alabama’s Aniah’s Law a ‘direct assault’ on constitutional rights, citing defendants’ presumption of innocence.",
-      "url": "https://www.foxnews.com/us/democratic-judge-fire-releasing-violent-offenders-calls-bail-law-direct-assault-rights",
-      "published": "Mon, 16 Nov 2026 19:15:12 -0500",
-      "source": "Fox News US",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
@@ -1534,6 +1559,17 @@
       "source": "France24",
       "type": "rss",
       "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1659,10 +1695,21 @@
       "is_ticker": false
     },
     {
-      "title": "William and Kate meet Indian Prime Minister Modi in New Delhi",
+      "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
       "description": "The meeting in New Delhi was a late addition to the royal couple's India visit, which has also included their appearance at the annual Earthshot Prize",
       "url": "https://www.bbc.co.uk/news/articles/cq62ped2ypy4o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 14:30:33 GMT",
+      "published": "Wed, 18 Nov 2026 16:44:23 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "published": "Wed, 18 Nov 2026 14:57:56 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1684,18 +1731,7 @@
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "description": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 16:05:32 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
-      "description": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "published": "Wed, 18 Nov 2026 14:57:56 GMT",
+      "published": "Wed, 18 Nov 2026 17:09:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1747,6 +1783,17 @@
       "is_ticker": false
     },
     {
+      "title": "Crowds gather as Trump arrives in China ahead of talks with Xi and Putin",
+      "description": "Crowds gathered in Shenzhen, China, to welcome US President Donald Trump as he arrived for the APEC summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/crowds-gather-as-trump-arrives-in-china-ahead-of-talks-with-xi-and-putin?traffic_source=rss",
+      "published": "Wed, 18 Nov 2026 16:40:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Canada’s PM calls out ‘lying’ Putin for downplaying sanctions",
       "description": "Carney accuses Putin of ‘lying’ after the Russian leader dismissed Western sanctions as a ‘thing of the past’.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/canadas-pm-calls-out-lying-putin-for-downplaying-sanctions?traffic_source=rss",
@@ -1781,7 +1828,7 @@
     },
     {
       "title": "Hakeem Jeffries formally nominated as first Black US House speaker",
-      "description": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+      "description": "The New York congressman is nominated after Democrats gained control of Congress in this month's midterm elections.",
       "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
       "published": "Wed, 18 Nov 2026 15:37:52 +0000",
       "source": "Al Jazeera",
@@ -1828,50 +1875,6 @@
       "description": "Mada Masr Editor-in-Chief Lina Attalah is set to face a retrial before an Egyptian criminal court.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_lina-attalah-of-mada-masr-on-trial-181126?traffic_source=rss",
       "published": "Wed, 18 Nov 2026 14:11:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "What is the ‘endgame’ in Syria, as Israeli rivals look for new government?",
-      "description": "As Israel intensifies its incursions into southern Syria, analysts say there will be little change in the future.",
-      "url": "https://www.aljazeera.com/features/2026/11/18/what-is-the-end-game-in-syria-as-israeli-rivals-look-for-new-government?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 14:08:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How the US House of Representatives chooses its leaders: A visual guide",
-      "description": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 13:24:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "GTA 6: Everything you need to know about the highly anticipated game",
-      "description": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
-      "url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 13:02:33 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "How data centres are turning AI-generated heat into energy",
-      "description": "How data centres are turning AI-generated heat into energy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
-      "published": "Wed, 18 Nov 2026 12:41:02 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2179,6 +2182,17 @@
       "is_ticker": false
     },
     {
+      "title": "Senate leadership challenge exposes divisions among Democrat",
+      "description": "As Democrats prepare to take control of the Senate, incumbent minority leader Chuck Schumer is facing an insurgent leadership bid from Senator Chris Van Hollen and disputes over party leadership are exposing divisions over what direction to take the Democratic party after their midterms sweep.",
+      "url": "https://www.france24.com/en/video/20261118-senate-leadership-challenge-exposes-divisions-among-democrat",
+      "published": "Wed, 18 Nov 2026 16:39:14 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "🔴 US Democrats nominate Hakeem Jeffries to be first Black speaker of the House",
       "description": "No description available.",
       "url": "https://www.france24.com/en/americas/20261118-us-democrats-nominate-hakeem-jeffries-to-be-first-black-speaker-of-the-house",
@@ -2278,17 +2292,6 @@
       "is_ticker": false
     },
     {
-      "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
-      "description": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians",
-      "url": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
-      "published": "Tue, 17 Nov 2026 14:05:12 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Pope forgives person who nailed him in the eye with a rosary in Peru",
       "description": "Pope Leo XIV has forgiven the person who threw a rosary at him before his final Mass in Peru and nailed him in the eye",
       "url": "https://abcnews.com/International/wireStory/pope-forgives-person-nailed-eye-rosary-peru-138202302",
@@ -2304,6 +2307,17 @@
       "description": "Authorities in North Macedonia say four people have been detained for questioning over an alleged Iran-linked assassination plot in neighboring Greece",
       "url": "https://abcnews.com/International/wireStory/4-detained-north-macedonia-alleged-iran-backed-assassination-138214034",
       "published": "Tue, 17 Nov 2026 11:01:02 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Pope Leo’s envoy brings message of comfort and unity to Holy Land Christians",
+      "description": "The Catholic cardinal who oversees care of the faithful in the Holy Land visited Jerusalem to convey Pope Leo XIV's presence during troubled times for Christians",
+      "url": "https://abcnews.com/International/wireStory/pope-leos-envoy-brings-message-comfort-unity-holy-138220614",
+      "published": "Tue, 17 Nov 2026 14:05:12 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2348,17 +2362,6 @@
       "description": "Pope Leo XIV says his recent lung cancer surgery hasn't changed his agenda or outlook",
       "url": "https://abcnews.com/International/wireStory/pope-leo-change-agenda-priorities-after-lung-cancer-138202271",
       "published": "Tue, 17 Nov 2026 05:14:10 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "More than 200 people jailed over crackdown on illegal gold mining",
-      "description": "A court in Guinea has sentenced 22 former officials and 202 miners to prison over illegal gold mining in the northeast",
-      "url": "https://abcnews.com/International/wireStory/guinea-sentences-200-people-prison-crackdown-illegal-gold-138202919",
-      "published": "Tue, 17 Nov 2026 05:18:36 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
