@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T20:35:56.132455Z",
+  "last_updated": "2026-11-19T21:09:52.530778Z",
   "event_count": 218,
   "events": [
     {
@@ -77,6 +77,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
+      "description": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts",
+      "url": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
+      "published": "Thu, 19 Nov 2026 09:02:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -398,20 +409,6 @@
       "is_ticker": false
     },
     {
-      "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
-      "description": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast",
-      "url": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
-      "published": "Thu, 19 Nov 2026 08:38:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Wreck of Australia's first warship built at home found 128 years after sinking"
-    },
-    {
       "title": "Photos: Genocide ruling spotlights human toll of 2017 Rohingya crisis",
       "description": "Nearly a million Rohingya fled to Bangladesh in 2017, forming one of the world's largest refugee camps near Cox's Bazar.",
       "url": "https://www.aljazeera.com/gallery/2026/11/19/photos-genocide-ruling-spotlights-2017-rohingya-crisis-human-toll?traffic_source=rss",
@@ -437,15 +434,18 @@
       "ticker_label": "🪖 Greetings from a Berlin square, where an artist's statue watches over children at play"
     },
     {
-      "title": "Migrant boat capsizes off Senegal's coast, leaving 1 person dead and several missing",
-      "description": "A migrant boat capsized off Senegal's coast, resulting in one death and several missing people, according to local officials",
-      "url": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-      "published": "Thu, 19 Nov 2026 09:03:39 -0500",
-      "source": "ABC News International",
+      "title": "'Humanitarian mission' for Kostiantynivka: Is it a trap?",
+      "description": "Russian President Putin has proposed an evacuation of the Ukrainian city of Kostiantynivka, like the recent operation in Oleshky. Experts warn this could serve military, not humanitarian, aims. What should Kyiv do?",
+      "url": "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Thu, 19 Nov 2026 20:53:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 'Humanitarian mission' for Kostiantynivka: Is it a trap?"
     },
     {
       "title": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
@@ -546,6 +546,20 @@
       "ticker_label": "🪖 A cyberattack using artificial intelligence targeted the EU in October, official says"
     },
     {
+      "title": "Iran war dents Middle East sports as events are canceled. F1 bucks the trend",
+      "description": "The season-ending Formula 1 races in the Middle East are going ahead despite the war in Iran and retaliatory attacks across the region that have canceled or postponed other large sports events",
+      "url": "https://abcnews.com/International/wireStory/iran-war-dents-middle-east-sports-model-events-138239007",
+      "published": "Wed, 18 Nov 2026 01:41:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Iran war dents Middle East sports as events are canceled. F1 bucks the trend"
+    },
+    {
       "title": "Lebanon leading the way in mental health support",
       "description": "Mental health support must be a core part of the humanitarian response, said the UN Deputy Secretary-General during a visit to Lebanon over the weekend, where efforts to address the psychological toll of years of conflict and instability offer valuable lessons for other crisis-affected countries.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168818",
@@ -553,6 +567,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "What does the Myanmar genocide ruling mean for the Rohingya?",
+      "description": "Rohingya refugees in Bangladesh cheered an International Court of Justice finding that Myanmar committed genocide.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/what-does-the-myanmar-genocide-ruling-mean-for-the-rohingya?traffic_source=rss",
+      "published": "Thu, 19 Nov 2026 20:26:09 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -573,6 +598,17 @@
       "url": "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261119-us-has-unbalanced-approach-on-dr-congo-deal-rwanda-s-foreign-minister-says",
       "published": "Thu, 19 Nov 2026 17:07:09 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Ukraine criticizes IAEA plan to appoint sanctioned Russian official to senior post",
+      "description": "Ukraine has criticized the proposal by the International Atomic Energy Agency to appoint a Russian official, sanctioned by Kyiv, to a senior position",
+      "url": "https://abcnews.com/International/wireStory/ukraine-criticizes-iaea-plan-appoint-sanctioned-russian-official-138252932",
+      "published": "Wed, 18 Nov 2026 11:25:50 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 14,
       "severity_level": "High",
@@ -732,20 +768,6 @@
       "is_ticker": false
     },
     {
-      "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
-      "description": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge, a crucial link between Russia and Crimea",
-      "url": "https://abcnews.com/International/wireStory/ukrainian-strike-4-days-halts-rail-traffic-russias-138280630",
-      "published": "Thu, 19 Nov 2026 09:02:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea"
-    },
-    {
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
       "description": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
@@ -796,18 +818,15 @@
       "is_ticker": false
     },
     {
-      "title": "Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape",
-      "description": "Argentine authorities have arrested the wife of an Italian fugitive convicted of terrorism-related crimes",
-      "url": "https://abcnews.com/International/wireStory/wife-italian-fugitive-convicted-terrorism-arrested-argentina-escape-138294446",
-      "published": "Thu, 19 Nov 2026 12:46:24 -0500",
-      "source": "ABC News International",
+      "title": "Chilling bus video shows Brooklyn apartment building crumble in seconds",
+      "description": "Newly released Metropolitan Transportation Authority bus video captures the moment a Flatbush building collapsed into a construction pit, killing eight.",
+      "url": "https://www.foxnews.com/us/chilling-bus-video-shows-brooklyn-apartment-building-crumble-seconds",
+      "published": "Thu, 19 Nov 2026 15:40:34 -0500",
+      "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape"
+      "is_ticker": false
     },
     {
       "title": "Irish activist indicted in US over alleged destruction of $60M military plane",
@@ -868,6 +887,20 @@
       "is_ticker": false
     },
     {
+      "title": "Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country",
+      "description": "Ukraine says it has carried out new strikes on two oil refineries in southern Russia",
+      "url": "https://abcnews.com/International/wireStory/ukraine-hit-2-russian-oil-refineries-zelenskyy-hails-138250394",
+      "published": "Wed, 18 Nov 2026 11:26:07 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Ukraine says it hit 2 Russian oil refineries as Zelenskyy hails weapons produced in the country"
+    },
+    {
       "title": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
       "description": "A cat named Ambition went missing again at COP31 on Thursday. While activists delivered the message with humour, it reflected a serious concern: explicit references to moving away from fossil fuels had disappeared from the latest draft climate agreement. On the eve of the summit's scheduled close, ministers and the Presidency were still trying to bridge sharp differences as civil society groups pressed for stronger action.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168839",
@@ -883,28 +916,6 @@
       "description": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
       "published": "Thu, 19 Nov 2026 17:50:21 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
-      "description": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
-      "published": "Thu, 19 Nov 2026 16:59:38 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Putin pitches Arctic route, calls for investment: Will it work?",
-      "description": "Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss",
-      "published": "Thu, 19 Nov 2026 15:16:43 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
@@ -1078,6 +1089,20 @@
       "ticker_label": "💥 Parents jailed for torture and death of four-year-old girl found along French motorway in 1987"
     },
     {
+      "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+      "description": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+      "published": "Thu, 19 Nov 2026 20:30:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Senate Republicans in US reject measure to limit Trump’s war powers in Iran"
+    },
+    {
       "title": "European leaders unite in Berlin to reaffirm support for Ukraine",
       "description": "German chancellor warns peace talks without Europe's involvement are doomed to fail, urging unity with Ukraine.",
       "url": "https://www.aljazeera.com/news/2026/11/19/european-leaders-unite-in-berlin-to-reaffirm-support-for-ukraine?traffic_source=rss",
@@ -1090,20 +1115,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 European leaders unite in Berlin to reaffirm support for Ukraine"
-    },
-    {
-      "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-      "description": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
-      "published": "Thu, 19 Nov 2026 15:24:51 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 As Burnham heads to Brussels, are new Brexit wars about to begin?"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1146,7 +1157,7 @@
     },
     {
       "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
-      "description": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Get our daily political email , free app or daily news podcast Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career advocating that people should have autonomy over their bodies. Stone died aged 75 on Wednesday surrounded by family after a long fight against glioblastoma, an aggressive form of brain cancer. Continue reading...",
+      "description": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Get our daily political email , free app or daily news podcast Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career advocating that people should have autonomy over their bodies. Stone died aged 75 on Wednesday surrounded by family after a long fight against glioblastoma, an aggressive form of brain cancer. She was minister for workforce participation from 2006-07. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
       "published": "Thu, 19 Nov 2026 19:44:24 GMT",
       "source": "The Guardian World",
@@ -1171,17 +1182,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Wadephul: 'Coalition of the Willing' talks in Berlin send strong signal to Moscow"
-    },
-    {
-      "title": "Crimean Bridge has been attacked again, Russian official says",
-      "description": "The Crimean Bridge has been attacked again, Crimea's Russian-installed governor said. The attack comes as Vladimir Putin prepares to sit down with Donald Trump and Xi Jinping for joint talks in China.",
-      "url": "https://www.dw.com/en/crimean-bridge-has-been-attacked-again-russian-official-says/a-79986700?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 19 Nov 2026 03:43:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Three of a kind? Xi hosts Trump and Putin as Ukraine war grinds on",
@@ -1290,10 +1290,10 @@
       "ticker_label": "🪖 Israeli troops launch ground operation in central Gaza"
     },
     {
-      "title": "A van Gogh with a complex past sells for a record $190 million at auction",
-      "description": "A vibrant landscape painted by Vincent van Gogh weeks before his death has sold for $190.4 million at auction",
-      "url": "https://abcnews.com/International/wireStory/van-gogh-complex-past-sells-record-190-million-138284157",
-      "published": "Thu, 19 Nov 2026 08:54:40 -0500",
+      "title": "El Salvador's president confirms and celebrates attack on home of key Haitian gang leader",
+      "description": "El Salvador’s president says that his troops have demolished the lavish home of a prominent gang leader in Haiti known as Jeff",
+      "url": "https://abcnews.com/International/wireStory/el-salvadors-president-confirms-celebrates-attack-home-key-138251283",
+      "published": "Wed, 18 Nov 2026 11:26:03 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1372,17 +1372,6 @@
       "description": "Mary Fitzmaurice allegedly kept collecting her father's Social Security and pension benefits after his death, telling relatives he was still alive.",
       "url": "https://www.foxnews.com/us/wife-daughter-arrested-after-dna-ids-man-whose-severed-head-found-trash-bag",
       "published": "Wed, 18 Nov 2026 19:37:58 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Mother and son use video game to help feds find missing girl allegedly held captive by older man",
-      "description": "A Colorado mom and son playing \"Among Us\" helped the FBI find Utah teen Kylie Arellano in Oregon 18 months later, leading to Adam Hunter Harmel's arrest.",
-      "url": "https://www.foxnews.com/us/mother-son-video-game-help-feds-find-missing-girl-allegedly-held-captive-older-man",
-      "published": "Wed, 18 Nov 2026 12:30:45 -0500",
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 8,
@@ -1548,17 +1537,6 @@
       "is_ticker": false
     },
     {
-      "title": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates",
-      "description": "Somalia’s government has ordered the United Arab Emirates ambassador to leave the country within 72 hours",
-      "url": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436",
-      "published": "Thu, 19 Nov 2026 09:51:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "For the first time, UN's highest court finds a country responsible for genocide: Myanmar",
       "description": "The United Nations' top court has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military operation",
       "url": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
@@ -1711,17 +1689,6 @@
       "is_ticker": false
     },
     {
-      "title": "Myanmar is the first state found responsible for genocide. How did the UN court rule in other cases?",
-      "description": "The United Nations’ top court has for the first time ruled that a nation committed what legal scholars call the crime of crimes, finding that Myanmar committed genocide in a brutal 2017 military crackdown against the Rohingya minority",
-      "url": "https://abcnews.com/International/wireStory/myanmar-state-found-responsible-genocide-court-rule-cases-138292621",
-      "published": "Thu, 19 Nov 2026 11:50:29 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump",
       "description": "Denmark’s parliament has approved an agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic",
       "url": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209",
@@ -1738,6 +1705,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 17:38:22 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
+      "description": "The lawsuit cited a book about Trump by two NYT reporters and what it said were 'false, malicious, defamatory' articles.",
+      "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+      "published": "Thu, 19 Nov 2026 20:32:46 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1767,7 +1745,7 @@
     },
     {
       "title": "Australian music industry rejects ‘divide and conquer’ proposal to give musicians exemption from AI scraping",
-      "description": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria CEO says, vowing to stand with other creatives Get our daily political email , free app or daily news podcast The music industry will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”. The trade union representing writers and creatives is “alarmed” at a proposal to let AI companies train on Australian data if they buy a permit, an idea also strongly rebuffed by the Coalition and Greens. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "description": "Reported proposal to give musicians special treatment is ‘unworkable’, Aria chief executive says Get our daily political email , free app or daily news podcast The music industry has declared it will not accept an AI carveout deal that leaves other creative sectors behind, rejecting a reported proposal to give musicians special treatment while allowing big tech to train on other copyrighted material – described by David Pocock as a “divide and conquer strategy”. The trade union representing writers and creatives is “alarmed” at a proposal to let AI companies train on Australian data if they buy a permit, an idea also strongly rebuffed by the Coalition and Greens. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/20/australian-music-industry-rejects-proposal-to-give-musicians-exemption-ai-scraping",
       "published": "Thu, 19 Nov 2026 14:00:52 GMT",
       "source": "The Guardian World",
@@ -1781,6 +1759,17 @@
       "description": "Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering. And, Hakeem Jeffries could become the first Black Speaker of the House.",
       "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic",
       "published": "Thu, 19 Nov 2026 07:26:01 -0500",
+      "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+      "description": "Rep. Gregory Meeks raises concerns about U.S. alliances after Trump's summit with Xi and Putin. He also discusses Chinese espionage amid the Nvidia scandal.",
+      "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit",
+      "published": "Thu, 19 Nov 2026 06:20:37 -0500",
       "source": "NPR World News",
       "type": "rss",
       "severity_score": 3,
@@ -1973,6 +1962,17 @@
       "is_ticker": false
     },
     {
+      "title": "How vaccine fears fuelled a major measles comeback in the US",
+      "description": "Measles is making a comeback in the US as vaccination rates fall.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+      "published": "Thu, 19 Nov 2026 20:35:14 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
       "description": "Runaway success of popular franchise comes as video game industry has struggled with mass layoffs in recent years.",
       "url": "https://www.aljazeera.com/news/2026/11/19/blockbuster-gta-vi-release-shows-cultural-economic-heft-of-video-games?traffic_source=rss",
@@ -2034,8 +2034,8 @@
       "ticker_label": "🪖 Palestinians in Gaza face new displacement after Israeli army operation"
     },
     {
-      "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
-      "description": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+      "title": "Iraq reaches compromise with Kataib Hezbollah over armed group’s stronghold",
+      "description": "The compromise reached will unite forces that include brigades from the Popular Mobilisation Forces.",
       "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
       "published": "Thu, 19 Nov 2026 18:16:09 +0000",
       "source": "Al Jazeera",
@@ -2060,17 +2060,6 @@
       "description": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
       "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
       "published": "Thu, 19 Nov 2026 17:15:30 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Anthropic starts trading in the US after blockbuster IPO",
-      "description": "Anthropic’s IPO surpasses SpaceX, marking the largest initial public offering in US history at $81bn.",
-      "url": "https://www.aljazeera.com/economy/2026/11/19/anthropic-starts-trading-in-the-us-after-blockbuster-ipo?traffic_source=rss",
-      "published": "Thu, 19 Nov 2026 16:57:26 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2287,17 +2276,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump lands in China with key meetings with Xi and Putin on the agenda",
-      "description": "Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S. president during Xi's visit to Washington in September.",
-      "url": "https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin",
-      "published": "Wed, 18 Nov 2026 05:32:03 -0500",
-      "source": "NPR World News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Germany news: Pistorius visits Auschwitz memorial in Poland trip",
       "description": "Germany's defense minister's first stop in Poland was the memorial site of the former Nazi extermination camp Auschwitz-Birkenau. Follow DW for more.",
       "url": "https://www.dw.com/en/germany-news-pistorius-visits-auschwitz-memorial-in-poland-trip/live-79987991?maca=en-rss-en-all-1573-xml-mrss",
@@ -2455,24 +2433,32 @@
       "is_ticker": false
     },
     {
-      "title": "Newborn dies after suspected female genital mutilation in Senegal; relatives arrested",
-      "description": "Three people have been arrested in eastern Senegal after a newborn baby girl died following alleged female genital mutilation",
-      "url": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
-      "published": "Thu, 19 Nov 2026 11:42:21 -0500",
+      "title": "A Chinese executive is convicted in a case linked to a Bangkok building collapse",
+      "description": "A Thai court has found a Chinese executive and Thai shareholders guilty of illegally operating a business in Thailand",
+      "url": "https://abcnews.com/International/wireStory/chinese-executive-convicted-case-linked-bangkok-building-collapse-138252346",
+      "published": "Wed, 18 Nov 2026 11:25:58 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Newborn dies after suspected female genital mutilation in Senegal; relatives arrested"
+      "is_ticker": false
     },
     {
-      "title": "4 men found guilty of sex crimes against British woman in a case that recalls Gisèle Pelicot's",
-      "description": "Four British men have been found guilty of multiple sexual crimes against a woman whose ex-husband drugged and advertised her for sex online",
-      "url": "https://abcnews.com/International/wireStory/4-men-found-guilty-crimes-british-woman-husband-138292217",
-      "published": "Thu, 19 Nov 2026 12:54:16 -0500",
+      "title": "Brazil's Senate approves Lula's $10 billion fiscal package after costly election spending",
+      "description": "Brazil’s Senate approved on Wednesday a plan by President Luiz Inácio Lula da Silva to control his government’s spending and increase revenues after his reelection late October",
+      "url": "https://abcnews.com/International/wireStory/brazils-senate-approves-lulas-10-billion-fiscal-package-138265187",
+      "published": "Wed, 18 Nov 2026 18:04:44 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "St. Peter's Basilica marks 400 years at the heart of Roman Catholicism",
+      "description": "St. Peter’s Basilica, the spiritual heart of Roman Catholicism, marks the 400th anniversary of its dedication",
+      "url": "https://abcnews.com/International/wireStory/st-peters-basilica-marks-400-years-heart-roman-138252856",
+      "published": "Wed, 18 Nov 2026 11:31:35 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2491,10 +2477,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mongolia's lawmakers accept president's resignation following corruption accusations",
-      "description": "Mongolia’s parliament has accepted President Khurelsukh Ukhnaa's resignation after he was accused of benefiting from a government railway project seven years ago, when he served as prime minister",
-      "url": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020",
-      "published": "Thu, 19 Nov 2026 06:22:18 -0500",
+      "title": "The UK and EU are holding a summit to patch up ties after their bitter Brexit divorce",
+      "description": "Prime Minister Andy Burnham is meeting EU officials in Brussels on Friday to discuss closer ties between the UK and the bloc that it left in 2020",
+      "url": "https://abcnews.com/International/wireStory/uk-eu-holding-summit-patch-ties-after-bitter-138278421",
+      "published": "Thu, 19 Nov 2026 02:54:28 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2502,10 +2488,21 @@
       "is_ticker": false
     },
     {
-      "title": "South Korea’s top court overturns charges against ex-PM for his role in martial law",
-      "description": "South Korea’s Supreme Court has overturned the conviction of former Prime Minister Han Duck-soo",
-      "url": "https://abcnews.com/International/wireStory/south-koreas-top-court-overturns-charges-prime-minister-138280095",
-      "published": "Thu, 19 Nov 2026 07:58:32 -0500",
+      "title": "4 men found guilty of sex crimes against British woman in a case that recalls Gisèle Pelicot's",
+      "description": "Four British men have been found guilty of multiple sexual crimes against a woman whose ex-husband drugged and advertised her for sex online",
+      "url": "https://abcnews.com/International/wireStory/4-men-found-guilty-crimes-british-woman-husband-138292217",
+      "published": "Thu, 19 Nov 2026 12:54:16 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Mexico's Catholic street DJs turn annual pilgrimage into a party",
+      "description": "A mix of street DJs and Catholic devotees are taking to the streets in one of Mexico's most important pilgrimages",
+      "url": "https://abcnews.com/International/wireStory/mexicos-catholic-street-djs-turn-annual-pilgrimage-party-138262111",
+      "published": "Wed, 18 Nov 2026 22:30:14 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
