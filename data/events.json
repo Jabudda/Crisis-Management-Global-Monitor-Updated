@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-20T07:12:04.349693Z",
+  "last_updated": "2026-11-20T07:35:58.820526Z",
   "event_count": 220,
   "events": [
     {
@@ -77,6 +77,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 30,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
+      "description": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts",
+      "url": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
+      "published": "Thu, 19 Nov 2026 09:02:15 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 26,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -401,6 +412,20 @@
       "ticker_label": "💥 Kushner says Trump 'open' to extend NATO mutual defense-type clause to Ukraine"
     },
     {
+      "title": "Wreck of Australia's first warship built at home found 128 years after sinking",
+      "description": "The wreck of Australia’s first Australian-built warship, HMCS Spitfire, has been found 128 years to the day after it sank off the country’s north coast",
+      "url": "https://abcnews.com/International/wireStory/wreck-australias-warship-built-home-found-128-years-138278608",
+      "published": "Thu, 19 Nov 2026 08:38:20 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Wreck of Australia's first warship built at home found 128 years after sinking"
+    },
+    {
       "title": "Greetings from a Berlin square, where an artist's statue watches over children at play",
       "description": "Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.",
       "url": "https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue",
@@ -434,17 +459,6 @@
       "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261119-kenyan-marathon-champion-banned-for-doping",
       "published": "Thu, 19 Nov 2026 21:38:55 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 16,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Migrant boat capsizes off Senegal's coast, leaving 1 person dead and several missing",
-      "description": "A migrant boat capsized off Senegal's coast, resulting in one death and several missing people, according to local officials",
-      "url": "https://abcnews.com/International/wireStory/migrant-boat-capsizes-off-senegals-coast-leaving-1-138286309",
-      "published": "Thu, 19 Nov 2026 09:03:39 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 16,
       "severity_level": "High",
@@ -599,17 +613,6 @@
       "is_ticker": false
     },
     {
-      "title": "Haiti police say 34 gang members killed in capital raid",
-      "description": "Haitian police say at least 34 gang members were killed in an operation in the capital city of Port-au-Prince.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/haiti-police-say-34-gang-members-killed-in-capital-raid?traffic_source=rss",
-      "published": "Fri, 20 Nov 2026 00:31:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "They bought an abandoned 'ghost house' in the Japanese countryside",
       "description": "He'd spent years backpacking around the world, and Japanese traveler Daisuke Kajiyama was finally ready to return home to pursue his long-held dream of opening up a guesthouse.",
       "url": "https://www.cnn.com/travel/article/couple-turned-abandoned-japanese-home-into-guest-house/index.html",
@@ -619,6 +622,20 @@
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+      "description": "NSW health issues public warning about vape liquids containing etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas Three people who lost consciousness and were hospitalised in New South Wales after using certain vapes have tested positive for the unregulated anaesthetic agent etomidate, health officials have said. NSW health on Friday issued a public warning about vape liquids containing etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+      "published": "Fri, 20 Nov 2026 07:17:01 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales"
     },
     {
       "title": "‘Peace begins in our hearts’: Children close Muscat forum with a message to the world",
@@ -741,20 +758,6 @@
       "ticker_label": "🪖 Iran's attacks on ships in the Strait of Hormuz escalate"
     },
     {
-      "title": "A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea",
-      "description": "Ukraine has launched a third aerial attack in four days on the Kerch Bridge, a crucial link between Russia and Crimea",
-      "url": "https://abcnews.com/International/wireStory/ukrainian-strike-4-days-halts-rail-traffic-russias-138280630",
-      "published": "Thu, 19 Nov 2026 09:02:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A third Ukrainian strike in 4 days halts rail traffic on Russia's Kerch Bridge to Crimea"
-    },
-    {
       "title": "Syria: Progress ‘real’ but fragile, as remnants of war wreck young lives",
       "description": "Syria is showing “undeniable signs of progress” nearly two years after the fall of the Assad regime, but explosive ordnance, the approaching winter and severe funding shortfalls threaten those fragile gains, senior UN officials told the Security Council on Monday.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168814",
@@ -833,18 +836,15 @@
       "is_ticker": false
     },
     {
-      "title": "Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape",
-      "description": "Argentine authorities have arrested the wife of an Italian fugitive convicted of terrorism-related crimes",
-      "url": "https://abcnews.com/International/wireStory/wife-italian-fugitive-convicted-terrorism-arrested-argentina-escape-138294446",
-      "published": "Thu, 19 Nov 2026 12:46:24 -0500",
+      "title": "North Korea is expanding its original uranium enrichment facility, UN nuclear watchdog says",
+      "description": "The U.N. nuclear watchdog says that North Korea has been expanding its original uranium enrichment facility at its Yongbyon nuclear complex",
+      "url": "https://abcnews.com/International/wireStory/north-korea-expanding-original-uranium-enrichment-facility-nuclear-138276975",
+      "published": "Thu, 19 Nov 2026 02:29:33 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape"
+      "is_ticker": false
     },
     {
       "title": "Chilling bus video shows Brooklyn apartment building crumble in seconds",
@@ -954,6 +954,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 19 Nov 2026 23:04:30 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "The Gambia stood up for the Rohingya, now the world must act",
+      "description": "The ICJ has delivered a historic judgement, but justice will depend on what happens next.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/20/the-gambia-stood-up-for-the-rohingya-now-the-world-must-act?traffic_source=rss",
+      "published": "Fri, 20 Nov 2026 07:20:53 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 9,
       "severity_level": "Medium",
@@ -1134,6 +1145,20 @@
       "is_ticker": false
     },
     {
+      "title": "EU and Britain to agree steps towards relations reset",
+      "description": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+      "published": "Fri, 20 Nov 2026 07:12:43 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 EU and Britain to agree steps towards relations reset"
+    },
+    {
       "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
       "description": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
@@ -1273,17 +1298,6 @@
       "ticker_label": "🪖 Israeli troops launch ground operation in central Gaza"
     },
     {
-      "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
-      "description": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
-      "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
-      "published": "Thu, 19 Nov 2026 22:39:07 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "European troops from 11 countries drill in Poland for a potential postwar Ukraine mission",
       "description": "Thousands of European troops are taking part in a major military exercise in southeastern Poland",
       "url": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096",
@@ -1298,10 +1312,35 @@
       "ticker_label": "🪖 European troops from 11 countries drill in Poland for a potential postwar Ukraine mission"
     },
     {
+      "title": "Pakistan military says it killed 22 militants in raids on hideouts in northwest",
+      "description": "Pakistan's military says security forces have raided militant hideouts in the northwest near the Afghan border, setting off gunbattles that killed 22 militants",
+      "url": "https://abcnews.com/International/wireStory/pakistan-military-killed-22-militants-raids-hideouts-northwest-138279716",
+      "published": "Thu, 19 Nov 2026 04:47:04 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Pakistan military says it killed 22 militants in raids on hideouts in northwest"
+    },
+    {
       "title": "A van Gogh with a complex past sells for a record $190 million at auction",
       "description": "A vibrant landscape painted by Vincent van Gogh weeks before his death has sold for $190.4 million at auction",
       "url": "https://abcnews.com/International/wireStory/van-gogh-complex-past-sells-record-190-million-138284157",
       "published": "Thu, 19 Nov 2026 08:54:40 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+      "description": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
+      "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+      "published": "Thu, 19 Nov 2026 22:39:07 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1534,10 +1573,10 @@
       "is_ticker": false
     },
     {
-      "title": "Somalia orders the UAE ambassador to leave as a diplomatic dispute escalates",
-      "description": "Somalia’s government has ordered the United Arab Emirates ambassador to leave the country within 72 hours",
-      "url": "https://abcnews.com/International/wireStory/somalia-orders-uae-ambassador-leave-diplomatic-dispute-escalates-138288436",
-      "published": "Thu, 19 Nov 2026 09:51:20 -0500",
+      "title": "For the first time, UN's highest court finds a country responsible for genocide: Myanmar",
+      "description": "The United Nations' top court has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military operation",
+      "url": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
+      "published": "Thu, 19 Nov 2026 09:02:22 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1611,17 +1650,6 @@
       "is_ticker": false
     },
     {
-      "title": "Denmark ratifies security deal with US and Greenland",
-      "description": "The deal provides the US with expanded military access, on top of what it already had based on a previous agreement. It comes after threats by US President Trump to take Greenland with force.",
-      "url": "https://www.dw.com/en/denmark-ratifies-security-deal-with-us-and-greenland/a-79988989?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 19 Nov 2026 10:56:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Japan, India agree to enhance military and defense industry cooperation",
       "description": "Japan and India have agreed to enhance their military and arms industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges in future joint drills",
       "url": "https://abcnews.com/International/wireStory/japan-india-agree-enhance-military-defense-industry-cooperation-138288577",
@@ -1634,6 +1662,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Japan, India agree to enhance military and defense industry cooperation"
+    },
+    {
+      "title": "Fire set at home of former Bangladesh interim leader as political tensions rise",
+      "description": "Authorities in Bangladesh say a fire at the ancestral home of a former Bangladesh interim leader and Nobel Peace Prize laureate appears to have been intentionally set",
+      "url": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
+      "published": "Thu, 19 Nov 2026 09:02:26 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Beloved hippo Fiona dies at Cincinnati Zoo after swallowing visitor's hat",
@@ -1689,17 +1728,6 @@
       "is_ticker": false
     },
     {
-      "title": "El Salvador’s Bukele expected to formalise bid for third presidential term",
-      "description": "The Salvadoran president has won popularity through a crime crackdown that has granted the state enormous power.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/el-salvadors-bukele-expected-to-formalise-bid-for-third-presidential-term?traffic_source=rss",
-      "published": "Fri, 20 Nov 2026 00:22:02 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1727,17 +1755,6 @@
       "url": "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us",
       "published": "Thu, 19 Nov 2026 19:33:56 GMT",
       "source": "France24",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Myanmar is the first state found responsible for genocide. How did the UN court rule in other cases?",
-      "description": "The United Nations’ top court has for the first time ruled that a nation committed what legal scholars call the crime of crimes, finding that Myanmar committed genocide in a brutal 2017 military crackdown against the Rohingya minority",
-      "url": "https://abcnews.com/International/wireStory/myanmar-state-found-responsible-genocide-court-rule-cases-138292621",
-      "published": "Thu, 19 Nov 2026 11:50:29 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 4,
       "severity_level": "Low",
@@ -1918,7 +1935,7 @@
       "title": "UK and EU to agree youth mobility scheme, BBC understands",
       "description": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
       "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 04:35:51 GMT",
+      "published": "Fri, 20 Nov 2026 07:14:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2012,6 +2029,17 @@
       "is_ticker": false
     },
     {
+      "title": "Sandpapergate: Australian gov’t demands CA to ensure transparency in forum",
+      "description": "Cricket Australia's Sandpapergate forum for players to give their accounts has been ridiculed by former cricketers.",
+      "url": "https://www.aljazeera.com/sports/2026/11/20/sandpapergate-australia-ball-tampering-2018-scandal-cricket-government-bancroft-cummins?traffic_source=rss",
+      "published": "Fri, 20 Nov 2026 07:04:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Tears of joy, prayers for return home: Rohingya react to genocide ruling",
       "description": "For refugees, the ICJ ruling that Myanmar committed genocide is a vindication. But will they be able to return home?",
       "url": "https://www.aljazeera.com/news/2026/11/20/tears-of-joy-prayers-for-return-home-rohingya-react-to-genocide-ruling?traffic_source=rss",
@@ -2060,17 +2088,6 @@
       "description": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
       "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
       "published": "Fri, 20 Nov 2026 01:29:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Four bodies recovered after Senegal boat capsizes amid migration surge",
-      "description": "Search for survivors continues near Yenne as migrant arrivals in Spain's Canary Islands surge by nearly two-thirds.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/four-bodies-recovered-after-senegal-boat-capsizes-amid-migration-surge?traffic_source=rss",
-      "published": "Fri, 20 Nov 2026 00:10:04 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2221,17 +2238,6 @@
       "is_ticker": false
     },
     {
-      "title": "‘Perfect weapon’: diabetic woman found guilty of murdering her 94-year-old parents with insulin",
-      "description": "Jury convicts Raelene Polymiadis after four-month trial in South Australian supreme court Get our breaking news email , free app or daily news podcast A jury has convicted a diabetic woman of murdering both her elderly parents with insulin after a marathon criminal trial. Raelene Polymiadis, 66, will face two mandatory life sentences after jurors on Friday delivered unanimous verdicts after a four-month South Australian supreme court trial. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/diabetic-woman-found-guilty-murdering-94-year-old-parents-with-insulin-ntwnfb",
-      "published": "Fri, 20 Nov 2026 04:15:16 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "M 5.3 - 17 km ESE of Comandău, Romania",
       "description": "DYFI? - IV Time 2026-11-18 00:48:56 UTC 2026-11-18 00:48:56 UTC at epicenter Location 45.682°N 26.452°E Depth 132.36 km (82.25 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tyw8",
@@ -2281,6 +2287,17 @@
       "url": "https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia",
       "published": "Wed, 18 Nov 2026 06:57:06 -0500",
       "source": "NPR World News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "China's Xi praises 'turnaround' in relationship with Australia",
+      "description": "The leaders of Australia and China have held talks on sidelines of APEC summit. Australian PM Anthony Albanese is also slated to meet Chinese Premier Li Qiang.",
+      "url": "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 20 Nov 2026 07:33:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2483,18 +2500,15 @@
       "is_ticker": false
     },
     {
-      "title": "Newborn dies after suspected female genital mutilation in Senegal; relatives arrested",
-      "description": "Three people have been arrested in eastern Senegal after a newborn baby girl died following alleged female genital mutilation",
-      "url": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
-      "published": "Thu, 19 Nov 2026 11:42:21 -0500",
+      "title": "University lecturer from Serbia's student-led movement is elected Parliament speaker",
+      "description": "A university lecturer from Serbia's student-led movement has become Parliament speaker",
+      "url": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
+      "published": "Thu, 19 Nov 2026 09:51:38 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Newborn dies after suspected female genital mutilation in Senegal; relatives arrested"
+      "is_ticker": false
     },
     {
       "title": "4 men found guilty of sex crimes against British woman in a case that recalls Gisèle Pelicot's",
@@ -2508,26 +2522,18 @@
       "is_ticker": false
     },
     {
-      "title": "University lecturer from Serbia's student-led movement is elected Parliament speaker",
-      "description": "A university lecturer from Serbia's student-led movement has become Parliament speaker",
-      "url": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
-      "published": "Thu, 19 Nov 2026 09:51:38 -0500",
+      "title": "Newborn dies after suspected female genital mutilation in Senegal; relatives arrested",
+      "description": "Three people have been arrested in eastern Senegal after a newborn baby girl died following alleged female genital mutilation",
+      "url": "https://abcnews.com/International/wireStory/newborn-dies-after-suspected-female-genital-mutilation-senegal-138292570",
+      "published": "Thu, 19 Nov 2026 11:42:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mongolia's lawmakers accept president's resignation following corruption accusations",
-      "description": "Mongolia’s parliament has accepted President Khurelsukh Ukhnaa's resignation after he was accused of benefiting from a government railway project seven years ago, when he served as prime minister",
-      "url": "https://abcnews.com/International/wireStory/mongolias-lawmakers-accept-presidents-resignation-corruption-accusations-138282020",
-      "published": "Thu, 19 Nov 2026 06:22:18 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Newborn dies after suspected female genital mutilation in Senegal; relatives arrested"
     },
     {
       "title": "Funding cuts raise risks of trafficking and exploitation for refugee children",
