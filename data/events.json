@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-20T23:09:31.508678Z",
-  "event_count": 221,
+  "last_updated": "2026-11-20T23:35:45.816576Z",
+  "event_count": 220,
   "events": [
     {
       "title": "California’s coastal communities on alert as biggest waves in years hit state",
@@ -120,15 +120,18 @@
       "is_ticker": false
     },
     {
-      "title": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but emerge with no major breakthroughs",
-      "description": "Three leaders who view their nations as the world’s superpowers have sat around a table together for the first time to talk about reducing nuclear risks and resolving conflicts",
-      "url": "https://abcnews.com/International/wireStory/china-russia-us-agree-reforms-boosting-fuel-supplies-138269362",
-      "published": "Thu, 19 Nov 2026 09:02:15 -0500",
-      "source": "ABC News International",
+      "title": "Verdict reached in Los Angeles retrial over 2025 Pacific Palisades wildfire that killed 12 people",
+      "description": "Jonathan Rinderknecht was convicted of federal arson in the Pacific Palisades fire that killed 12 and destroyed nearly 7,000 homes after a mistrial.",
+      "url": "https://www.foxnews.com/us/verdict-reached-los-angeles-retrial-2025-pacific-palisades-wildfire-killed-12-people",
+      "published": "Fri, 20 Nov 2026 18:10:38 -0500",
+      "source": "Fox News US",
       "type": "rss",
-      "severity_score": 26,
+      "severity_score": 27,
       "severity_level": "Critical",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Verdict reached in Los Angeles retrial over 2025 Pacific Palisades wildfire that killed 12 people"
     },
     {
       "title": "Cincinnati Zoo's famed Fiona the hippo dies days after eating a visitor’s hat",
@@ -154,20 +157,6 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Bus crashes into fuel truck in Pakistan and at least 10 people are killed",
-      "description": "A bus has rammed into a fuel truck carrying liquefied petroleum gas in southwestern Pakistan, igniting a fire that killed at least 10 people and left several injured",
-      "url": "https://abcnews.com/International/wireStory/bus-crashes-fuel-truck-southwestern-pakistan-10-people-138282967",
-      "published": "Thu, 19 Nov 2026 07:39:10 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Bus crashes into fuel truck in Pakistan and at least 10 people are killed"
     },
     {
       "title": "‘Hunger should not be a concern’: WFP steps in for families in Kenya who fled Ethiopia violence",
@@ -429,6 +418,20 @@
       "ticker_label": "🪖 Africa at COP31: Will climate cash finally flow?"
     },
     {
+      "title": "Workers and students protest across Europe as a strike in Italy disrupts services",
+      "description": "Workers and students are protesting across Europe on Friday as a nationwide strike disrupted transport and school services in Italy and demonstrators gathered in several countries to press demands on issues ranging from wages and living costs to educat...",
+      "url": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660",
+      "published": "Fri, 20 Nov 2026 10:43:51 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Workers and students protest across Europe as a strike in Italy disrupts services"
+    },
+    {
       "title": "Israeli shepherds report suspected 'agricultural terror' targeting livestock",
       "description": "An official source says dozens of animal poisoning cases have emerged in the West Bank, with contaminated cisterns and food bait found across grazing areas.",
       "url": "https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock",
@@ -494,34 +497,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 European Commission accused of sugarcoating figures to release funds to Egypt"
-    },
-    {
-      "title": "Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears",
-      "description": "Former police officer has pleaded not guilty to murdering Jesse Baird and Luke Davies in Paddington in February 2024 Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon knew he had murdered two men and his attempts to explain the disposal of their bodies “ring completely hollow”, a court has heard. Lamarre-Condon is accused of fatally shooting Jesse Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/beau-lamarre-condons-attempts-to-explain-disposal-alleged-victims-bodies-ring-hollow-court-hears-ntwnfb",
-      "published": "Fri, 20 Nov 2026 04:58:21 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "active_shooter",
-      "ticker_emoji": "🚨",
-      "ticker_label": "🚨 Beau Lamarre-Condon’s explanations of body disposal ‘ring hollow’, court hears"
-    },
-    {
-      "title": "A cyberattack using artificial intelligence targeted the EU in October, official says",
-      "description": "An official in Brussels says a cyberattack using software powered by artificial intelligence targeted the European Union in October",
-      "url": "https://abcnews.com/International/wireStory/cyberattack-artificial-intelligence-targeted-eu-october-official-138284407",
-      "published": "Thu, 19 Nov 2026 08:30:35 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 A cyberattack using artificial intelligence targeted the EU in October, official says"
     },
     {
       "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate",
@@ -800,15 +775,18 @@
       "is_ticker": false
     },
     {
-      "title": "Chilling bus video shows Brooklyn apartment building crumble in seconds",
-      "description": "Newly released Metropolitan Transportation Authority bus video captures the moment a Flatbush building collapsed into a construction pit, killing eight.",
-      "url": "https://www.foxnews.com/us/chilling-bus-video-shows-brooklyn-apartment-building-crumble-seconds",
-      "published": "Thu, 19 Nov 2026 15:40:34 -0500",
-      "source": "Fox News US",
+      "title": "Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape",
+      "description": "Argentine authorities have arrested the wife of an Italian fugitive convicted of terrorism-related crimes",
+      "url": "https://abcnews.com/International/wireStory/wife-italian-fugitive-convicted-terrorism-arrested-argentina-escape-138294446",
+      "published": "Thu, 19 Nov 2026 12:46:24 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Wife of Italian fugitive convicted of terrorism arrested in Argentina over his escape"
     },
     {
       "title": "Irish activist indicted in US over alleged destruction of $60M military plane",
@@ -1076,6 +1054,34 @@
       "ticker_label": "🪖 Catherine Zeta-Jones' daughter says parents warned her about 'nepo baby' label"
     },
     {
+      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "description": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
+      "published": "Fri, 20 Nov 2026 23:20:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Rahul Gandhi backs strong India-Israel ties despite Gaza war"
+    },
+    {
+      "title": "Fossil fuel talks deadlock pushes COP31 climate summit into overtime",
+      "description": "EU warns COP31 risks turning into a 'fossil summit' as critical climate commitments are omitted from the draft deal.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/fossil-fuel-talks-deadlock-pushes-cop31-climate-summit-into-overtime?traffic_source=rss",
+      "published": "Fri, 20 Nov 2026 23:06:41 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Fossil fuel talks deadlock pushes COP31 climate summit into overtime"
+    },
+    {
       "title": "Trump defends Putin relationship, warns AI data centres must stay in US",
       "description": "The US president also spoke about the war in Iran and praised trip to China during a wide-ranging news conference.",
       "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss",
@@ -1235,11 +1241,39 @@
       "ticker_label": "🪖 Burnham says Europe 'ready to enter negotiations' to help end Russia's war in Ukraine"
     },
     {
-      "title": "EU reveals it suffered 'AI-powered' cyber attack",
-      "description": "The EU has revealed it suffered a cyber attack powered by AI last month and some of its digital tools are still offline as a result.",
-      "url": "https://news.sky.com/story/eu-reveals-it-suffered-ai-powered-cyber-attack-13613970",
-      "published": "Thu, 19 Nov 2026 15:38:00 +0000",
-      "source": "Sky News World",
+      "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
+      "description": "Authorities thwarted the attempted killing of an American Ukrainian citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services",
+      "url": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497",
+      "published": "Fri, 20 Nov 2026 12:59:38 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil"
+    },
+    {
+      "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
+      "description": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine",
+      "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
+      "published": "Fri, 20 Nov 2026 03:51:45 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian attacks on Kyiv kill 3, cripple bridges and cut power"
+    },
+    {
+      "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+      "description": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
+      "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+      "published": "Fri, 20 Nov 2026 02:38:27 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1258,20 +1292,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Troops from 11 countries drill in Poland for potential postwar Ukraine mission"
-    },
-    {
-      "title": "Pakistan military says it killed 22 militants in raids on hideouts in northwest",
-      "description": "Pakistan's military says security forces have raided militant hideouts in the northwest near the Afghan border, setting off gunbattles that killed 22 militants",
-      "url": "https://abcnews.com/International/wireStory/pakistan-military-killed-22-militants-raids-hideouts-northwest-138279716",
-      "published": "Thu, 19 Nov 2026 04:47:04 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Pakistan military says it killed 22 militants in raids on hideouts in northwest"
     },
     {
       "title": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
@@ -1549,10 +1569,10 @@
       "is_ticker": false
     },
     {
-      "title": "Dozens of inmates in Romania step onto the stage for the 15th edition of a prison theater festival",
-      "description": "A drama festival in Romania gives dozens of prison inmates a brief respite from life behind bars as they perform on stage at a renowned theater in the capital",
-      "url": "https://abcnews.com/International/wireStory/dozens-inmates-romania-step-stage-15th-edition-prison-138312303",
-      "published": "Fri, 20 Nov 2026 00:52:21 -0500",
+      "title": "France probes suspected leaks of confidential information to Le Pen’s far-right party",
+      "description": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally",
+      "url": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
+      "published": "Fri, 20 Nov 2026 08:45:29 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1560,10 +1580,21 @@
       "is_ticker": false
     },
     {
-      "title": "For the first time, UN's highest court finds a country responsible for genocide: Myanmar",
-      "description": "The United Nations' top court has ruled that Myanmar committed genocide against the Rohingya minority during a 2017 military operation",
-      "url": "https://abcnews.com/International/wireStory/top-court-set-rule-case-alleging-myanmar-committed-138279244",
-      "published": "Thu, 19 Nov 2026 09:02:22 -0500",
+      "title": "Myanmar dismisses the UN court's ruling on its responsibility for Rohingya genocide as 'unfair'",
+      "description": "Myanmar’s government has dismissed a landmark judgment by the United Nations’ top court finding the country guilty of genocide against its Rohingya minority as “unfair.”",
+      "url": "https://abcnews.com/International/wireStory/myanmar-dismisses-courts-ruling-responsibility-rohingya-genocide-unfair-138313854",
+      "published": "Fri, 20 Nov 2026 08:46:32 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Dozens of inmates in Romania step onto the stage for the 15th edition of a prison theater festival",
+      "description": "A drama festival in Romania gives dozens of prison inmates a brief respite from life behind bars as they perform on stage at a renowned theater in the capital",
+      "url": "https://abcnews.com/International/wireStory/dozens-inmates-romania-step-stage-15th-edition-prison-138312303",
+      "published": "Fri, 20 Nov 2026 00:52:21 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
@@ -1651,20 +1682,6 @@
       "ticker_label": "💥 From premature baby to social media star - Famed hippo Fiona dies"
     },
     {
-      "title": "Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’",
-      "description": "Russia-Europe tensions rise as Ukraine uses its own weapons and communications tech to hit the Kerch Bridge.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/ukraine-strikes-kerch-bridge-as-putin-ally-declares-no-one-needs?traffic_source=rss",
-      "published": "Fri, 20 Nov 2026 18:37:35 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine strikes Kerch Bridge as Putin ally declares ‘no one needs Europe’"
-    },
-    {
       "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
       "description": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cuban asylum seeker, Luis Alejandro Cora Pérez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too painful. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
@@ -1718,10 +1735,10 @@
       "ticker_label": "🪖 UK and EU strike ‘landmark’ deal to rebuild ties after Brexit"
     },
     {
-      "title": "Japan, India agree to enhance military and defense industry cooperation",
-      "description": "Japan and India have agreed to enhance their military and arms industry cooperation, including allowing Japanese troops to conduct live-fire missile training at Indian firing ranges in future joint drills",
-      "url": "https://abcnews.com/International/wireStory/japan-india-agree-enhance-military-defense-industry-cooperation-138288577",
-      "published": "Thu, 19 Nov 2026 09:51:10 -0500",
+      "title": "Russian missile crash in Poland likely an intentional provocation, Polish leader says",
+      "description": "Russian missile crash in Poland likely an intentional provocation as European militaries hold drills, Polish leader says",
+      "url": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
+      "published": "Fri, 20 Nov 2026 07:16:46 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1729,18 +1746,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Japan, India agree to enhance military and defense industry cooperation"
-    },
-    {
-      "title": "Fire set at home of former Bangladesh interim leader as political tensions rise",
-      "description": "Authorities in Bangladesh say a fire at the ancestral home of a former Bangladesh interim leader and Nobel Peace Prize laureate appears to have been intentionally set",
-      "url": "https://abcnews.com/International/wireStory/fire-set-home-former-bangladesh-interim-leader-political-138280092",
-      "published": "Thu, 19 Nov 2026 09:02:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
+      "ticker_label": "🪖 Russian missile crash in Poland likely an intentional provocation, Polish leader says"
     },
     {
       "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
@@ -1821,6 +1827,17 @@
       "is_ticker": false
     },
     {
+      "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
+      "description": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast The New South Wales government has passed special legislation to allow a coalmine in the Hunter Valley to increase production by 32% in its final act of parliament before the March state election, in which the region will be a key battleground for One Nation. After a marathon session in the legislative council on Friday, the Minns government and the Coalition voted at 1.36am on Saturday morning to allow the Mount Pleasant mine to increase its annual extraction rate from 12.5MT to 16.5MT until 2032. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+      "published": "Fri, 20 Nov 2026 23:09:57 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Turkey takes control of opposition broadcaster Sozcu TV",
       "description": "In the latest in a series of raids and arrests, another major pro-opposition Turkish broadcaster has been brought under state control. This is the third in a year.",
       "url": "https://www.dw.com/en/turkey-takes-control-of-opposition-broadcaster-sozcu-tv/a-80001984?maca=en-rss-en-all-1573-xml-mrss",
@@ -1843,13 +1860,13 @@
       "is_ticker": false
     },
     {
-      "title": "Denmark approves security deal with US and Greenland, seeking to finally ease tensions with Trump",
-      "description": "Denmark’s parliament has approved an agreement with Greenland and the United States to strengthen security in the Arctic and North Atlantic",
-      "url": "https://abcnews.com/International/wireStory/danish-lawmakers-approve-security-deal-greenland-us-hoping-138281209",
-      "published": "Thu, 19 Nov 2026 09:02:18 -0500",
-      "source": "ABC News International",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "description": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 23:08:57 GMT",
+      "source": "BBC News",
       "type": "rss",
-      "severity_score": 4,
+      "severity_score": 3,
       "severity_level": "Low",
       "is_ticker": false
     },
@@ -1992,10 +2009,32 @@
       "ticker_label": "💥 Army delays controlled detonation of unstable bomb-making chemical in Iowa"
     },
     {
+      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
       "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
       "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 22:37:09 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2015,28 +2054,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper"
-    },
-    {
-      "title": "French police officers sentenced for beating of music producer Michel Zecler",
-      "description": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:37:09 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "description": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 22:42:47 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
@@ -2061,21 +2078,10 @@
       "is_ticker": false
     },
     {
-      "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-      "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
-      "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 00:08:22 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Nigeria moves to end jail terms for attempted suicide",
-      "description": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 06:32:17 GMT",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "description": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 20 Nov 2026 23:15:20 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2142,17 +2148,6 @@
       "description": "Verdict against Myanmar may have implications for Israel's genocide in Gaza.",
       "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
       "published": "Fri, 20 Nov 2026 19:12:14 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
-      "description": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
-      "published": "Fri, 20 Nov 2026 17:54:55 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2295,7 +2290,7 @@
       "title": "M 3.9 - 1 km NW of Commerce, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-20 11:25:35 UTC 2026-11-20 11:25:35 UTC at epicenter Location 34.006°N 118.167°W Depth 15.45 km (9.60 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
-      "published": "2026-11-20T23:07:28.126Z",
+      "published": "2026-11-20T23:26:42.033Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2306,7 +2301,7 @@
       "title": "M 5.0 - 10 km NW of Pinnacles, CA",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-11-20 06:49:16 UTC 2026-11-20 06:49:16 UTC at epicenter Location 36.593°N 121.221°W Depth 6.70 km (4.16 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75468702",
-      "published": "2026-11-20T22:26:00.647Z",
+      "published": "2026-11-20T23:30:41.974Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2540,24 +2535,10 @@
       "is_ticker": false
     },
     {
-      "title": "A long-buried ancient library in Rome opens to the public after restoration",
-      "description": "The ancient Ulpia Library in Rome has been restored and is reopening to the public this week",
-      "url": "https://abcnews.com/International/wireStory/long-buried-ancient-library-rome-opens-public-after-138307336",
-      "published": "Fri, 20 Nov 2026 02:41:51 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 A long-buried ancient library in Rome opens to the public after restoration"
-    },
-    {
-      "title": "University lecturer from Serbia's student-led movement is elected Parliament speaker",
-      "description": "A university lecturer from Serbia's student-led movement has become Parliament speaker",
-      "url": "https://abcnews.com/International/wireStory/university-lecturer-serbias-student-led-movement-elected-parliament-138286308",
-      "published": "Thu, 19 Nov 2026 09:51:38 -0500",
+      "title": "Rohingya in Bangladesh welcome UN court's genocide verdict but say they want to go home to Myanmar",
+      "description": "Rohingya refugees in Bangladesh have welcomed the ruling by the United Nations' top court in the Netherlands that held Myanmar responsible for genocide",
+      "url": "https://abcnews.com/International/wireStory/rohingya-bangladesh-courts-genocide-verdict-home-myanmar-138313372",
+      "published": "Fri, 20 Nov 2026 02:37:05 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2576,10 +2557,24 @@
       "is_ticker": false
     },
     {
-      "title": "4 men found guilty of sex crimes against British woman in a case that recalls Gisèle Pelicot's",
-      "description": "Four British men have been found guilty of multiple sexual crimes against a woman whose ex-husband drugged and advertised her for sex online",
-      "url": "https://abcnews.com/International/wireStory/4-men-found-guilty-crimes-british-woman-husband-138292217",
-      "published": "Thu, 19 Nov 2026 12:54:16 -0500",
+      "title": "A long-buried ancient library in Rome opens to the public after restoration",
+      "description": "The ancient Ulpia Library in Rome has been restored and is reopening to the public this week",
+      "url": "https://abcnews.com/International/wireStory/long-buried-ancient-library-rome-opens-public-after-138307336",
+      "published": "Fri, 20 Nov 2026 02:41:51 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 A long-buried ancient library in Rome opens to the public after restoration"
+    },
+    {
+      "title": "US deportees in South Sudan went hungry as guards pocketed money from relatives, families say",
+      "description": "Migrants deported by the Trump administration to countries other than their own have endured hunger, thirst and other deprivations",
+      "url": "https://abcnews.com/International/wireStory/us-deportees-south-sudan-hungry-guards-pocketed-money-138312302",
+      "published": "Fri, 20 Nov 2026 02:38:23 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
