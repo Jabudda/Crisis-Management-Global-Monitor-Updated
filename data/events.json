@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21T17:35:13.084614Z",
+  "last_updated": "2026-11-21T18:11:28.341262Z",
   "event_count": 223,
   "events": [
     {
@@ -135,20 +135,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Endurance athlete swims in Hormuz Strait"
-    },
-    {
-      "title": "Houthis launch strikes on Saudi Arabia",
-      "description": "Iran-backed Houthi rebels in Yemen continue to exchange strikes with the Saudi-led coalition. The coalition said it intercepted and destroyed three ballistic missiles fired towards Riyadh early on Saturday. It marks the second Houthi attack on the Saudi capital in recent days, following Saudi-led strikes on Houthi targets in Yemen. Yuka Royer has the latest.",
-      "url": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
-      "published": "Sat, 21 Nov 2026 09:49:44 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 28,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Houthis launch strikes on Saudi Arabia"
     },
     {
       "title": "Missile attack on Zelenskyy's hometown in central Ukraine kills 2 and wounds scores",
@@ -383,6 +369,20 @@
       "severity_score": 20,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Israeli strike hits food aid vehicle in Gaza, killing three",
+      "description": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
+      "published": "Sat, 21 Nov 2026 17:54:19 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strike hits food aid vehicle in Gaza, killing three"
     },
     {
       "title": "Israeli strike on vehicle distributing food aid in Gaza kills three",
@@ -703,6 +703,17 @@
       "ticker_label": "🪖 Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales"
     },
     {
+      "title": "Drone attack sets Russian cargo ship ablaze in Gulf of Finland",
+      "description": "A Russian cargo ship caught fire after ​being hit by drones in the Baltic Sea on Saturday and drifted into Finnish waters. Reporting from Kyiv, FRANCE 24's Gulliver Cragg notes that the ship is affiliated with a major Russian military logistics company. While Ukrainian authorities typically neither confirm nor deny responsibility, analysts cite a clear motive for the targeting, Cragg explains.",
+      "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+      "published": "Sat, 21 Nov 2026 18:02:23 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Russian strike kills two, wounds 60, in Zelenskyy’s hometown",
       "description": "Attack on Kryvyi Rih comes as Russian missiles land in NATO member Poland and US-led peace efforts face uncertainty.",
       "url": "https://www.aljazeera.com/news/2026/11/21/russian-strike-kills-two-wounds-60-in-zelenskyys-hometown?traffic_source=rss",
@@ -835,20 +846,6 @@
       "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Florida residents turn to kayaks and rafts as floods swamp streets",
-      "description": "Days of heavy rain have flooded streets across Florida, forcing residents to find creative ways to get around.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/florida-residents-turn-to-kayaks-and-rafts-as-floods-swamp-streets?traffic_source=rss",
-      "published": "Sat, 21 Nov 2026 12:22:24 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Florida residents turn to kayaks and rafts as floods swamp streets"
     },
     {
       "title": "These were the best and worst places for air quality in 2021, new report shows",
@@ -1294,17 +1291,6 @@
       "ticker_label": "🪖 Denmark says it thwarted 'Russian plot' to kill US-Ukrainian rapper"
     },
     {
-      "title": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
-      "description": "A French court has acknowledged the racist nature of a violent incident involving police officers and sentenced them to prison",
-      "url": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
-      "published": "Sat, 21 Nov 2026 07:45:56 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks",
       "description": "After nearly five years of fighting in Ukraine, the Kremlin is eagerly embracing a U.S. offer to discuss postwar European security",
       "url": "https://abcnews.com/International/wireStory/russia-dusts-off-prewar-demands-us-raises-discussing-138338870",
@@ -1317,6 +1303,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russia dusts off its prewar demands as the US raises discussing European security at Ukraine talks"
+    },
+    {
+      "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
+      "description": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine",
+      "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
+      "published": "Fri, 20 Nov 2026 03:51:45 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russian attacks on Kyiv kill 3, cripple bridges and cut power"
     },
     {
       "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil",
@@ -1333,18 +1333,26 @@
       "ticker_label": "🪖 Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil"
     },
     {
-      "title": "Russian attacks on Kyiv kill 3, cripple bridges and cut power",
-      "description": "Russia has launched missiles and drones across Kyiv, killing three people and injuring nine",
-      "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948",
-      "published": "Fri, 20 Nov 2026 03:51:45 -0500",
+      "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+      "description": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
+      "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+      "published": "Fri, 20 Nov 2026 02:38:27 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Russian attacks on Kyiv kill 3, cripple bridges and cut power"
+      "is_ticker": false
+    },
+    {
+      "title": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+      "description": "A French court has acknowledged the racist nature of a violent incident involving police officers and sentenced them to prison",
+      "url": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
+      "published": "Sat, 21 Nov 2026 07:45:56 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Homes abandoned, harvests failing: Haiti’s farmers rebuild amid violence, hunger and El Niño",
@@ -1627,6 +1635,28 @@
       "is_ticker": false
     },
     {
+      "title": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "description": "UK police drag man from protest over ‘Pallet Sign Acton’ shirt",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/uk-police-drag-man-from-protest-over-pallet-sign-acton-shirt?traffic_source=rss",
+      "published": "Sat, 21 Nov 2026 17:57:27 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "description": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that sparked widespread panic in the city of Guasave. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "published": "Sat, 21 Nov 2026 17:46:55 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
       "description": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cuban asylum seeker, Luis Alejandro Cora Pérez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too painful. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
@@ -1677,10 +1707,10 @@
       "is_ticker": false
     },
     {
-      "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
-      "description": "Haiti announces an agreement with El Salvador for the construction of a new prison",
-      "url": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
-      "published": "Fri, 20 Nov 2026 19:17:44 -0500",
+      "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
+      "description": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom",
+      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
+      "published": "Fri, 20 Nov 2026 08:46:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1688,7 +1718,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Haiti strikes deal with El Salvador to build new prisons after minister visit"
+      "ticker_label": "🪖 Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news"
     },
     {
       "title": "Russian missile crash in Poland likely an intentional provocation, Polish leader says",
@@ -1705,10 +1735,10 @@
       "ticker_label": "🪖 Russian missile crash in Poland likely an intentional provocation, Polish leader says"
     },
     {
-      "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
-      "description": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
-      "published": "Fri, 20 Nov 2026 08:46:20 -0500",
+      "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
+      "description": "Haiti announces an agreement with El Salvador for the construction of a new prison",
+      "url": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
+      "published": "Fri, 20 Nov 2026 19:17:44 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1716,7 +1746,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news"
+      "ticker_label": "🪖 Haiti strikes deal with El Salvador to build new prisons after minister visit"
     },
     {
       "title": "Son of prominent California chef loses leg after suspected drunken driver plows into pedestrians",
@@ -2080,7 +2110,7 @@
       "is_ticker": false
     },
     {
-      "title": "Chelsea beaten 4-1 by Leeds United in shock home Premier League defeat",
+      "title": "Chelsea beaten 4-1 by Leeds to suffer third loss in four in Premier League",
       "description": "Leeds come from a goal down at Stamford Bridge to shock Chelsea and climb above their hosts to sixth in Premier League.",
       "url": "https://www.aljazeera.com/sports/2026/11/21/chelsea-beaten-4-1-by-leeds-united-at-home-in-the-premier-league?traffic_source=rss",
       "published": "Sat, 21 Nov 2026 17:21:37 +0000",
@@ -2150,17 +2180,6 @@
       "description": "Sudan's displaced elderly often have to support grandchildren or fend for themselves.",
       "url": "https://www.aljazeera.com/news/2026/11/21/sudans-elderly-face-hardship-and-heartbreak-in-a-life-of-displacement?traffic_source=rss",
       "published": "Sat, 21 Nov 2026 12:30:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Mexico captures FBI-wanted cartel boss in military raid",
-      "description": "Mexico’s military captured FBI-wanted cartel leader ‘El Chapo Isidro’ in Guasave, Sinaloa.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/mexico-captures-fbi-wanted-cartel-boss-in-military-raid?traffic_source=rss",
-      "published": "Sat, 21 Nov 2026 11:53:56 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2289,17 +2308,6 @@
       "is_ticker": false
     },
     {
-      "title": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
-      "description": "Defense secretary asserts US dominance on trip that would have seemed ‘impossible, almost unbelievable’ a year ago Pete Hegseth has used his first visit to Venezuela since US special forces abducted its former president, Nicolás Maduro, to boast of the dictator’s capture during what he called “the single most sophisticated military operation in the history of Latin America”. Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military",
-      "published": "Wed, 18 Nov 2026 20:24:19 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Victorian Greens seek urgent injunction over how-to-vote cards mimicking party’s branding but preferencing it last",
       "description": "Exclusive: Independent candidate Tosh-Jake Finnigan’s cards instruct people to vote in a way that would benefit Liberal party Get our daily political email , free app or daily news podcast The Victorian Greens are seeking an urgent injunction from the supreme court to stop an independent candidate distributing how-to-vote cards that allegedly mimic the party’s branding and urge people to preference it last. As prepoll opened on Wednesday morning, Tosh-Jake Finnigan’s campaign team handed out how-to-vote cards that used the minor party’s colour scheme, font and triangle logo with the banner “Vote 1 Green Values”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
@@ -2347,7 +2355,7 @@
       "title": "M 3.9 - 1 km NW of Commerce, CA",
       "description": "PAGER - GREEN ShakeMap - IV DYFI? - IV Time 2026-11-20 11:25:35 UTC 2026-11-20 11:25:35 UTC at epicenter Location 34.006°N 118.167°W Depth 15.45 km (9.60 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci41364111",
-      "published": "2026-11-21T17:32:36.975Z",
+      "published": "2026-11-21T18:00:00.497Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
@@ -2523,31 +2531,6 @@
       "is_ticker": false
     },
     {
-      "title": "Mexico detains top cartel boss 'El Chapo Isidro,' one of FBI's 10 most wanted fugitives",
-      "description": "Mexican authorities have captured top cartel boss Fausto Isidro Meza Flores, known as “El Chapo Isidro.\"",
-      "url": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
-      "published": "Sat, 21 Nov 2026 09:29:09 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71",
-      "description": "Former South African Deputy President Phumzile Mlambo-Ngcuka has died at 71",
-      "url": "https://abcnews.com/International/wireStory/phumzile-mlambo-ngcuka-former-south-africa-deputy-president-138337313",
-      "published": "Fri, 20 Nov 2026 22:43:29 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71"
-    },
-    {
       "title": "Bolivian festival seeks to return guinea pig to nations' rituals",
       "description": "Guinea pigs, known as cuy in the Andes region, have enjoyed a day in their honor in Bolivia with races, and beauty and weight contests, organized by students promoting the rodent’s nutritional and economic value to Bolivian households",
       "url": "https://abcnews.com/International/wireStory/bolivian-festival-seeks-return-guinea-pig-nations-rituals-138333056",
@@ -2568,6 +2551,20 @@
       "severity_score": 1,
       "severity_level": "Low",
       "is_ticker": false
+    },
+    {
+      "title": "Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71",
+      "description": "Former South African Deputy President Phumzile Mlambo-Ngcuka has died at 71",
+      "url": "https://abcnews.com/International/wireStory/phumzile-mlambo-ngcuka-former-south-africa-deputy-president-138337313",
+      "published": "Fri, 20 Nov 2026 22:43:29 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Phumzile Mlambo-Ngcuka, former South Africa deputy president and UN Women chief, dies at 71"
     },
     {
       "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
