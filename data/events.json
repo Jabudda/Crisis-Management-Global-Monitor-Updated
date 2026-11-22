@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T13:09:15.759500Z",
+  "last_updated": "2026-11-22T13:35:16.179621Z",
   "event_count": 222,
   "events": [
     {
@@ -174,17 +174,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Verdict reached in Los Angeles retrial over 2025 Pacific Palisades wildfire that killed 12 people"
-    },
-    {
-      "title": "Three El Salvador soldiers die in explosives accident in Haiti",
-      "description": "The soldiers were part of a Salvadoran military contingent deployed to the violence-ridden Caribbean nation last month to rescue four missing airmen. The deployment has widened into an operation against Haiti's gangs.",
-      "url": "https://www.dw.com/en/three-el-salvador-soldiers-die-in-explosives-accident-in-haiti/a-80008005?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sat, 21 Nov 2026 06:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 26,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Indonesia factory hit by deadly blaze: Three killed and 36 missing",
@@ -551,6 +540,20 @@
       "is_ticker": false
     },
     {
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "description": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
+      "published": "Sun, 22 Nov 2026 13:16:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 17,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa"
+    },
+    {
       "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
       "description": "A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s Nobel peace prize winner, Navi Pillay , if the court rules on Thursday that the Myanmar government committed genocide against the Rohingya. The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, ethnical, racial or religious group. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court",
@@ -915,8 +918,19 @@
       "title": "Air alert sounds hours after attack on Russia-bound ship in the Gulf of Finland",
       "description": "The governor of Kaliningrad says a rare air alert sounded in the Russian exclave near Poland and Lithuania",
       "url": "https://abcnews.com/International/wireStory/air-alert-sounds-kaliningrad-hours-after-attack-russia-138356879",
-      "published": "Sun, 22 Nov 2026 07:50:47 -0500",
+      "published": "Sun, 22 Nov 2026 08:14:26 -0500",
       "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Indonesia candy factory fire leaves multiple dead, dozens missing",
+      "description": "A massive fire tore through PT Fonusa Agung Mulia's candy factory in Indonesia's Banten, killing at least three with about 50 workers missing.",
+      "url": "https://www.foxnews.com/world/indonesia-candy-factory-fire-leaves-multiple-dead-dozens-missing",
+      "published": "Sun, 22 Nov 2026 08:18:44 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
@@ -948,8 +962,8 @@
       "is_ticker": false
     },
     {
-      "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
-      "description": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountancy exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam, known as the suneung . Continue reading...",
+      "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+      "description": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams following last-minute scramble to tighten measures South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountancy exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam, known as the suneung . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
       "published": "Sun, 22 Nov 2026 12:12:08 GMT",
       "source": "The Guardian World",
@@ -1089,6 +1103,17 @@
       "is_ticker": false
     },
     {
+      "title": "COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use",
+      "description": "After two weeks of tough talks, the COP31 climate summit has closed without a consensus on how to quit fossil fuels or fund countries struggling to adapt to a hotter world.",
+      "url": "https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Sun, 22 Nov 2026 13:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 9,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "EU and Indonesia sign trade deal",
       "description": "A deal covering 730 million people promises lower tariffs and new investment opportunities as the European Union seeks to diversify trade ties amid growing global economic tensions.",
       "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-all-1573-xml-mrss",
@@ -1125,7 +1150,7 @@
       "title": "What to know about tear gas and reproductive health, as concerns are raised in France",
       "description": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues",
       "url": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
-      "published": "Sun, 22 Nov 2026 07:33:10 -0500",
+      "published": "Sun, 22 Nov 2026 08:22:32 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1164,6 +1189,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
+      "description": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
+      "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
+      "published": "Sun, 22 Nov 2026 13:15:40 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Children in besieged Gaza struggle to find life-saving insulin for diabetes"
     },
     {
       "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
@@ -1511,20 +1550,6 @@
       "ticker_label": "🪖 Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet"
     },
     {
-      "title": "Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions",
-      "description": "Suspected Russian aircraft entered Japanese airspace near Okinoshima, and Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.",
-      "url": "https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions",
-      "published": "Wed, 18 Nov 2026 17:52:36 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions"
-    },
-    {
       "title": "Europe sees new protests over rising costs, inequality and public services",
       "description": "Sunday marks the third consecutive day of protests across Europe, following large demonstrations on Friday and smaller rallies on Saturday, from Portugal to France. The protests have largely focused on the rising cost of living and access to affordable housing. In France, demonstrations have now taken place for six weekends in a row. Ophelie Jacobson reports.",
       "url": "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
@@ -1722,7 +1747,7 @@
       "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
       "description": "Officials and residents in Okinawa have celebrated the restoration of Shuri Castle's main hall, marking a significant return of the island's cultural symbol",
       "url": "https://abcnews.com/International/wireStory/okinawa-celebrates-restored-shuri-castle-hall-7-years-138356880",
-      "published": "Sun, 22 Nov 2026 07:33:55 -0500",
+      "published": "Sun, 22 Nov 2026 08:14:52 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -1784,17 +1809,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace"
-    },
-    {
-      "title": "Why Somalia’s president turned against his former ally, the UAE",
-      "description": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-      "published": "Sun, 22 Nov 2026 06:59:59 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 4,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
@@ -1988,17 +2002,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Restored wells bring life back to Hebron’s occupied Old City"
-    },
-    {
-      "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
-      "description": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
-      "published": "Sun, 22 Nov 2026 06:40:18 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 2,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Big-box stores could help slash emissions and save millions by putting solar panels on roofs. Why aren't more of them doing it?",
@@ -2365,7 +2368,7 @@
       "title": "M 6.7 - 9 km NE of Carhuamayo, Peru",
       "description": "PAGER - GREEN ShakeMap - VI DYFI? - VI Time 2026-11-21 00:09:19 UTC 2026-11-21 00:09:19 UTC at epicenter Location 10.855°S 75.978°W Depth 107.99 km (67.10 mi)",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ucfm",
-      "published": "2026-11-22T07:12:27.470Z",
+      "published": "2026-11-22T13:29:59.335Z",
       "source": "USGS Earthquakes",
       "type": "rss",
       "severity_score": 1,
