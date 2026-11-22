@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22T15:35:22.752401Z",
+  "last_updated": "2026-11-22T16:10:54.428459Z",
   "event_count": 222,
   "events": [
     {
@@ -43,17 +43,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ California’s coastal communities on alert as biggest waves in years hit state"
-    },
-    {
-      "title": "World News in Brief: Ebola cases double in DR Congo, chemical exposure starts before birth, Türk concern over EU-Rwanda transfer plan",
-      "description": "The Ebola outbreak in the Democratic Republic of the Congo (DRC) has more than doubled in three months, with more than 11,000 cases and 5,400 deaths now reported in 67 health zones across eight provinces, the head of the World Health Organization (WHO) said on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168827",
-      "published": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 37,
-      "severity_level": "Critical",
-      "is_ticker": false
     },
     {
       "title": "Fire at confectionery factory in Indonesia leaves at least three dead and dozens missing",
@@ -493,6 +482,20 @@
       "is_ticker": false
     },
     {
+      "title": "A suspected drone strike hits a Russian vessel in Libya",
+      "description": "The sea drone strike triggered an explosion and fire in Benghazi.",
+      "url": "https://abcnews.com/International/wireStory/suspected-drone-strike-hits-russian-vessel-libya-138359178",
+      "published": "Sun, 22 Nov 2026 10:36:31 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 A suspected drone strike hits a Russian vessel in Libya"
+    },
+    {
       "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
       "description": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict",
       "url": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
@@ -505,6 +508,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife"
+    },
+    {
+      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
+      "description": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "published": "Sun, 22 Nov 2026 16:05:25 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": false
     },
     {
       "title": "Race to be next UN secretary general exposes divisions among world powers",
@@ -732,20 +746,6 @@
       "ticker_label": "🪖 A cyberattack using artificial intelligence targeted the EU in October, official says"
     },
     {
-      "title": "At an Italian hedgehog hospital, tiny patients face the strain of a warming climate",
-      "description": "Italy's only hedgehog rescue center is overwhelmed with underweight hoglets due to climate change",
-      "url": "https://abcnews.com/International/wireStory/italian-hedgehog-hospital-tiny-patients-face-strain-warming-138312300",
-      "published": "Fri, 20 Nov 2026 02:38:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 At an Italian hedgehog hospital, tiny patients face the strain of a warming climate"
-    },
-    {
       "title": "West Bank: Record settler attacks mar olive harvest as UN urges Israel to protect farmers",
       "description": "Israeli settlers have carried out more than 400 attacks causing casualties or property damage during this year’s olive harvest in the occupied West Bank – more than in any previous season, UN agencies and humanitarian NGOs said on Friday.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
@@ -796,17 +796,6 @@
       "ticker_label": "🪖 Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad"
     },
     {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "description": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "published": "Sun, 22 Nov 2026 11:46:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Russia strikes Zelenskyy's hometown, killing 2",
       "description": "The attacks follow Russian President Vladimir Putin's vow of a \"painful\" response to Ukraine's attacks this week on the Kerch Bridge, linking Russian-occupied Crimea.",
       "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458?maca=en-rss-en-all-1573-xml-mrss",
@@ -855,20 +844,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 At least 24 dead after boat taking passengers to funeral capsizes in Nigeria"
-    },
-    {
-      "title": "Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls",
-      "description": "This year has seen dramatically higher civilian casualties in Ukraine than any other year since the full-scale invasion of the eastern European country by Russia in February 2022, the UN Human Rights Monitoring Mission in Ukraine (HRMMU) said on Tuesday.",
-      "url": "https://news.un.org/feed/view/en/story/2026/11/1168828",
-      "published": "Tue, 17 Nov 2026 12:00:00 +0000",
-      "source": "UN News",
-      "type": "rss",
-      "severity_score": 13,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine: Civilian casualties in 2026 already far exceed previous years’ tolls"
     },
     {
       "title": "USDA releases decades of Bigfoot files, including 1982 Forest Service investigation in Washington state",
@@ -930,20 +905,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
-      "description": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
-      "published": "Sun, 22 Nov 2026 12:19:42 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Israeli settlers attack several Palestinian villages in occupied West Bank"
     },
     {
       "title": "Air alert sounds hours after attack on Russia-bound ship in the Gulf of Finland",
@@ -1047,28 +1008,6 @@
       "source": "Fox News US",
       "type": "rss",
       "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Irish activist indicted in US over alleged destruction of $60M military plane",
-      "description": "United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair",
-      "url": "https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane",
-      "published": "Wed, 18 Nov 2026 18:29:34 -0500",
-      "source": "Fox News World",
-      "type": "rss",
-      "severity_score": 11,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Miami or Vice City? Tour the real-world inspiration for GTA 6",
-      "description": "BBC News Mundo’s Rafael Rojas visits the real-life Miami locations that inspired Vice City, GTA 6’s fictionalised setting.",
-      "url": "https://www.bbc.co.uk/news/videos/c8wy5d43zp9qo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 20 Nov 2026 18:48:48 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 10,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1261,6 +1200,17 @@
       "is_ticker": false
     },
     {
+      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+      "description": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
+      "published": "Sun, 22 Nov 2026 15:24:20 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Children in besieged Gaza struggle to find life-saving insulin for diabetes",
       "description": "Insulin and blood glucose testing supplies become increasingly difficult to obtain in war-torn Gaza.",
       "url": "https://www.aljazeera.com/features/2026/11/22/children-in-besieged-gaza-struggle-to-find-life-saving-insulin-for-diabetes?traffic_source=rss",
@@ -1401,6 +1351,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+      "description": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
+      "published": "Sun, 22 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’"
     },
     {
       "title": "‘We escaped with only our lives’: Fighting to give birth in war-torn Yemen",
@@ -1725,7 +1689,7 @@
       "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
       "description": "Officials and residents in Okinawa have celebrated the restoration of Shuri Castle's main hall, marking a significant return of the island's cultural symbol",
       "url": "https://abcnews.com/International/wireStory/okinawa-celebrates-restored-shuri-castle-hall-7-years-138356880",
-      "published": "Sun, 22 Nov 2026 08:14:52 -0500",
+      "published": "Sun, 22 Nov 2026 10:30:40 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 5,
@@ -2091,6 +2055,17 @@
       "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 20 Nov 2026 23:15:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Can we build a more ethical AI future?",
+      "description": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+      "published": "Sun, 22 Nov 2026 15:30:09 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2524,6 +2499,17 @@
       "ticker_label": "💥 A long-buried ancient library in Rome opens to the public after restoration"
     },
     {
+      "title": "‘I had a better life in Iran’: Afghan women forced home struggle to rebuild",
+      "description": "For five years, Zahra cared for an elderly woman in Iran and earned enough to get by. Now back in Herat, western Afghanistan, the 28-year-old trained midwife is unemployed. She lives with her parents and siblings, apart from her six-year-old son, who lives with her ex-husband.",
+      "url": "https://news.un.org/feed/view/en/story/2026/11/1168852",
+      "published": "Sun, 22 Nov 2026 12:00:00 +0000",
+      "source": "UN News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Shattered playgrounds and freezing classrooms: Inside Ukraine’s deadliest year for children",
       "description": "Amid the ruins of a twice-bombed Kyiv kindergarten as a day-long power cut continued, the UN Children’s Fund (UNICEF) on Friday highlighted the dangers to youngsters enduring another brutal winter in Ukraine, as child casualty numbers rise to record levels.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168847",
@@ -2634,6 +2620,17 @@
       "url": "https://www.foxnews.com/us/michael-ruiz-resurfaced-video-appears-show-nyc-mayor-arrested-nypd-group-disbanding",
       "published": "Fri, 20 Nov 2026 11:43:39 -0500",
       "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Flavio Bolsonaro claims judge ordered passports seized just 7 minutes after Brazil election loss",
+      "description": "Former presidential candidate Flávio Bolsonaro alleges election interference by Brazil’s Supreme Court and discusses political persecution and the future of his family’s political movement.",
+      "url": "https://www.foxnews.com/world/flavio-bolsonaro-claims-judge-ordered-passports-seized-just-7-minutes-after-brazil-election-loss",
+      "published": "Sun, 22 Nov 2026 10:54:36 -0500",
+      "source": "Fox News World",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
