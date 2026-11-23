@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T03:15:14.194046Z",
+  "last_updated": "2026-11-23T03:37:42.468296Z",
   "event_count": 223,
   "events": [
     {
@@ -716,10 +716,10 @@
       "ticker_label": "🪖 Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad"
     },
     {
-      "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
+      "title": "Australian politics live: Crossbenchers urge protection for political cartoons from AI; Singapore PM flying in via Western Sydney airport",
       "description": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "published": "Mon, 23 Nov 2026 03:06:21 GMT",
+      "published": "Mon, 23 Nov 2026 03:24:48 GMT",
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 14,
@@ -1321,6 +1321,17 @@
       "ticker_label": "🪖 Denmark accuses Russian intelligence of plotting to kill American Ukrainian on its soil"
     },
     {
+      "title": "El Salvador President Nayib Bukele seeks third term while attacking gangs in Haiti",
+      "description": "El Salvador’s President Nayib Bukele has officially launched his bid for reelection in the February elections",
+      "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430",
+      "published": "Fri, 20 Nov 2026 02:38:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
       "description": "COP31 ended on Sunday without a climate pact after negotiators failed to overcome divisions over fossil fuels, bringing two weeks of talks and two days of overtime to a close that UN Secretary-General António Guterres described as a “deeply disappointing” setback.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168855",
@@ -1568,17 +1579,6 @@
       "is_ticker": false
     },
     {
-      "title": "France probes suspected leaks of confidential information to Le Pen’s far-right party",
-      "description": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally",
-      "url": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239",
-      "published": "Fri, 20 Nov 2026 08:45:29 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Trump, Putin, Xi issue 4-point declaration after historic summit",
       "description": "Donald Trump, Vladimir Putin and Xi Jinping signed a joint peace declaration at APEC in China, a historic first for the three nations' heads of state.",
       "url": "https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit",
@@ -1751,20 +1751,6 @@
       "ticker_label": "🪖 Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news"
     },
     {
-      "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
-      "description": "Haiti announces an agreement with El Salvador for the construction of a new prison",
-      "url": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
-      "published": "Fri, 20 Nov 2026 19:17:44 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Haiti strikes deal with El Salvador to build new prisons after minister visit"
-    },
-    {
       "title": "Russian missile crash in Poland likely an intentional provocation, Polish leader says",
       "description": "Russian missile crash in Poland likely an intentional provocation as European militaries hold drills, Polish leader says",
       "url": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055",
@@ -1777,6 +1763,20 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Russian missile crash in Poland likely an intentional provocation, Polish leader says"
+    },
+    {
+      "title": "Haiti strikes deal with El Salvador to build new prisons after minister visit",
+      "description": "Haiti announces an agreement with El Salvador for the construction of a new prison",
+      "url": "https://abcnews.com/International/wireStory/haiti-strikes-deal-el-salvador-build-new-prisons-138332512",
+      "published": "Fri, 20 Nov 2026 19:17:44 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Haiti strikes deal with El Salvador to build new prisons after minister visit"
     },
     {
       "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
@@ -2119,7 +2119,7 @@
     },
     {
       "title": "Asian stock markets tumble as AI bubble fears mount",
-      "description": "Stocks fall in South Korea, Taiwan and Hong Kong amid tech-led sell-off.",
+      "description": "Stocks fall in South Korea, Taiwan, mainland China and Hong Kong as tech sell-off deepens.",
       "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
       "published": "Mon, 23 Nov 2026 00:18:03 +0000",
       "source": "Al Jazeera",
