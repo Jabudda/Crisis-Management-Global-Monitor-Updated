@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T13:12:23.979639Z",
+  "last_updated": "2026-11-23T13:35:57.869991Z",
   "event_count": 222,
   "events": [
     {
@@ -197,6 +197,17 @@
       "source": "The Guardian World",
       "type": "rss",
       "severity_score": 24,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
+      "description": "At least 11 people have been killed in a burst of violence in Mexico’s Sinaloa state",
+      "url": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
+      "published": "Sat, 21 Nov 2026 15:50:13 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 23,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -410,6 +421,20 @@
       "severity_score": 19,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+      "description": "British endurance swimmer Lewis Pugh has swum the Strait of Hormuz to highlight environmental threats during ongoing conflict",
+      "url": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972",
+      "published": "Sat, 21 Nov 2026 14:22:13 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife"
     },
     {
       "title": "NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community – as it happened",
@@ -814,7 +839,7 @@
     },
     {
       "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-      "description": "A series of drone strikes on Russian vessels in Libyan and Finnish territories fuels fears of Ukraine war's spread.",
+      "description": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
       "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
       "published": "Mon, 23 Nov 2026 11:10:12 +0000",
       "source": "Al Jazeera",
@@ -1124,9 +1149,9 @@
       "is_ticker": false
     },
     {
-      "title": "What is crawling on Rembrandt's 'The Night Watch'?",
+      "title": "Rembrandt's 'The Night Watch' is more alive than you'd expect",
       "description": "A new project and exhibition, \"The Night Watch Lives,\" lifts the veil on the hidden world of microbes covering one of the most famous paintings of the Dutch Golden Age.",
-      "url": "https://www.dw.com/en/what-is-crawling-on-rembrandt-s-the-night-watch/a-79972540?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/rembrandt-s-the-night-watch-is-more-alive-than-you-d-expect/a-79972540?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Nov 2026 10:33:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -1161,17 +1186,6 @@
       "description": "French activists and lawmakers are demanding after recent protests that police stop using tear gas because of rising concerns about menstrual changes and reproductive health issues",
       "url": "https://abcnews.com/International/wireStory/tear-gas-reproductive-health-people-raise-concerns-france-138356698",
       "published": "Sun, 22 Nov 2026 14:38:14 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Xi projects China’s global influence after hosting Trump and Putin at APEC",
-      "description": "China’s President Xi Jinping has emerged from the Asia-Pacific Economic Cooperation summit with a diplomatic win, reinforcing his global standing despite limited substantive progress",
-      "url": "https://abcnews.com/International/wireStory/xi-projects-chinas-global-influence-after-hosting-trump-138313749",
-      "published": "Fri, 20 Nov 2026 02:45:48 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 9,
@@ -1298,17 +1312,6 @@
       "is_ticker": false
     },
     {
-      "title": "In Ukraine, the fight to keep winter outside begins with a broken window",
-      "description": "As the winter cold sets in, Kyiv and other Ukrainian cities face a growing shortage of window installers as Russian attacks leave homes shattered and families exposed to the cold",
-      "url": "https://abcnews.com/International/wireStory/ukraine-fight-winter-begins-broken-window-138354669",
-      "published": "Sun, 22 Nov 2026 00:46:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Poland says Russia twice tried to kill a Ukrainian American rapper",
       "description": "Denmark expelled a Russian official after it said it thwarted an alleged plot.",
       "url": "https://abcnews.com/International/wireStory/poland-russia-allegedly-kill-ukrainian-american-rapper-138362108",
@@ -1323,6 +1326,17 @@
       "ticker_label": "🪖 Poland says Russia twice tried to kill a Ukrainian American rapper"
     },
     {
+      "title": "In Ukraine, the fight to keep winter outside begins with a broken window",
+      "description": "As the winter cold sets in, Kyiv and other Ukrainian cities face a growing shortage of window installers as Russian attacks leave homes shattered and families exposed to the cold",
+      "url": "https://abcnews.com/International/wireStory/ukraine-fight-winter-begins-broken-window-138354669",
+      "published": "Sun, 22 Nov 2026 00:46:25 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
       "description": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
       "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
@@ -1335,6 +1349,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Taiwan warns Canada’s Carney that deeper ties with China come with risks"
+    },
+    {
+      "title": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
+      "description": "A French court has acknowledged the racist nature of a violent incident involving police officers and sentenced them to prison",
+      "url": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
+      "published": "Sat, 21 Nov 2026 07:45:56 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
@@ -1543,20 +1568,6 @@
       "ticker_label": "💥 German police respond to multiple school bomb threats"
     },
     {
-      "title": "Sydney man charged with car bomb plot and downloading Islamic State group material",
-      "description": "Australian police have arrested a man in the greater Sydney area on charges of researching how to build a car bomb and downloading violent material inspired by the Islamic State group",
-      "url": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769",
-      "published": "Fri, 20 Nov 2026 02:49:52 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Sydney man charged with car bomb plot and downloading Islamic State group material"
-    },
-    {
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
       "description": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
       "url": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
@@ -1591,6 +1602,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Trump administration deported US citizen to Mexico, DoJ admits in court"
+    },
+    {
+      "title": "Uganda minister at COP31: 'We need a just transition'",
+      "description": "Funding from wealthy countries to help deal with the impacts of climate change hasn't materialized, says Uganda's environment minister. The East African country is hoping oil and carbon credits will help boost finances.",
+      "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 23 Nov 2026 13:18:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Germany's Early Start Pension: Can child investment accounts help?",
@@ -1651,7 +1673,7 @@
       "title": "Flights and train services cancelled in Belgium due to strike",
       "description": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
       "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 12:27:34 GMT",
+      "published": "Mon, 23 Nov 2026 13:34:02 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 5,
@@ -1666,17 +1688,6 @@
       "description": "Al Jazeera interviews two French student leaders who have met with top government officials as protests continue.",
       "url": "https://www.aljazeera.com/news/2026/11/23/they-smile-but-do-nothing-students-on-meeting-macron-and-other-leaders?traffic_source=rss",
       "published": "Mon, 23 Nov 2026 11:58:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
-      "description": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
-      "published": "Mon, 23 Nov 2026 08:08:00 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 5,
@@ -1745,20 +1756,6 @@
       "ticker_label": "💥 Bayern Munich bosses under fire over Jamal Musiala comments"
     },
     {
-      "title": "Germany news: IG Metall union calls for new 24-hour strike",
-      "description": "Germany's biggest single union, IG Metall, is calling on car and shipyard workers to strike amid a pay row. Meanwhile, Germany's president is setting off on an Africa trip. DW has more.",
-      "url": "https://www.dw.com/en/germany-news-ig-metall-union-calls-for-new-24-hour-strike/live-80008430?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 22 Nov 2026 08:07:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Germany news: IG Metall union calls for new 24-hour strike"
-    },
-    {
       "title": "Thousands protest Turkey media crackdown in Istanbul",
       "description": "Several thousand people marched through Istanbul on Sunday to protest a growing crackdown on opposition and independent media outlets days after police raided pro-opposition broadcaster Sozcu TV, installing a government-appointed trustee and arresting senior staff members.",
       "url": "https://www.france24.com/en/video/20261123-thousands-protest-turkey-media-crackdown-in-istanbul",
@@ -1804,20 +1801,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news",
-      "description": "Saudi Arabia says Iran-backed Houthi rebels have fired more missiles and drones at the kingdom",
-      "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659",
-      "published": "Fri, 20 Nov 2026 08:46:20 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Saudi Arabia intercepts more Yemen Houthi missiles and drones, and other Mideast news"
     },
     {
       "title": "Ukraine deals major blow to Putin’s Crimea lifeline, European intel assessment claims",
@@ -1930,6 +1913,17 @@
       "url": "https://www.cnn.com/style/article/playboy-the-conversation/index.html",
       "published": "Tue, 11 Apr 2023 07:10:28 GMT",
       "source": "CNN World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "After Japan's APEC snub, what's ahead for China ties?",
+      "description": "Japan has long-running concerns over Chinese military expansionism, and Beijing has bristled over Sanae Takaichi's comments on Taiwan. The frosty ties were on full display at last week's APEC summit.",
+      "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-ahead-for-china-ties/a-80020823?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Mon, 23 Nov 2026 13:33:00 GMT",
+      "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -2128,6 +2122,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
       "published": "Sat, 21 Nov 2026 09:40:55 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Iran says it will use ‘all available means’ to counter US blockade",
+      "description": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+      "published": "Mon, 23 Nov 2026 13:04:11 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2426,7 +2431,7 @@
       "is_ticker": false
     },
     {
-      "title": "'I've Lost Her Forever' — Why German voice actors are refusing to sign Netflix's AI contract",
+      "title": "'I've lost her forever' — Why German voice actors are refusing to sign Netflix's AI contract",
       "description": "For decades, Germans have known Hollywood's biggest stars through the same familiar voices. Now an AI clause in Netflix contracts is splitting the industry over whether it protects performers or exposes them.",
       "url": "https://www.dw.com/en/i-ve-lost-her-forever-why-german-voice-actors-are-refusing-to-sign-netflix-s-ai-contract/a-80004381?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Nov 2026 10:58:00 GMT",
@@ -2459,17 +2464,6 @@
       "is_ticker": false
     },
     {
-      "title": "Inspired by Bernie Sanders: A German agency is using US-Style campaigning to boost the left in 2029",
-      "description": "\"The Goodforces\" wants to see a swing to the left in the 2029 German elections. The agency counts New York Mayor Zohran Mamdani and Bernie Sanders among its inspirations. Could it transform the political landscape?",
-      "url": "https://www.dw.com/en/inspired-by-bernie-sanders-a-german-agency-is-using-us-style-campaigning-to-boost-the-left-in-2029/a-80001443?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Sun, 22 Nov 2026 08:39:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "‘Fighting for love’: Thousands turn out for Rio Pride parade",
       "description": "Thousands of people flocked to Copacabana Beach in Rio Sunday for the 31st annual Pride Parade. The event marked 15 years since Brazil's Supreme Court unanimously recognized same sex unions. Ophelie Jacobson explains what the celebration means for the LGBT community this year.",
       "url": "https://www.france24.com/en/video/20261123-fighting-for-love-thousands-turn-out-for-rio-pride-parade",
@@ -2492,21 +2486,10 @@
       "is_ticker": false
     },
     {
-      "title": "Audience evacuated from Don Toliver concert after substance released in the crowd",
+      "title": "Police evacuate 12,000 from rapper Don Toliver concert after substance release",
       "description": "British police have evacuated over 12,000 fans from a Don Toliver concert after an unknown substance was released in the crowd",
       "url": "https://abcnews.com/International/wireStory/audience-evacuated-don-toliver-concert-after-unknown-substance-138369818",
-      "published": "Mon, 23 Nov 2026 07:50:32 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Carney enlists fake Trump for laughs at Canada's annual press gallery dinner",
-      "description": "Canadian Prime Minister Mark Carney shared the stage with a fake Donald Trump and two versions of himself Saturday, enlisting comedians to help roast the U.S. president and Canadian politicians at an annual dinner with journalists",
-      "url": "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618",
-      "published": "Mon, 23 Nov 2026 03:26:20 -0500",
+      "published": "Mon, 23 Nov 2026 08:28:05 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2518,6 +2501,17 @@
       "description": "An appeals court has upheld the conviction of an opposition lawmaker for defaming Thailand’s monarchy in social media posts but reduced her prison sentence from six years to three",
       "url": "https://abcnews.com/International/wireStory/thai-court-upholds-royal-defamation-conviction-opposition-lawmaker-138369625",
       "published": "Mon, 23 Nov 2026 04:46:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Carney enlists fake Trump for laughs at Canada's annual press gallery dinner",
+      "description": "Canadian Prime Minister Mark Carney shared the stage with a fake Donald Trump and two versions of himself Saturday, enlisting comedians to help roast the U.S. president and Canadian politicians at an annual dinner with journalists",
+      "url": "https://abcnews.com/International/wireStory/carney-enlists-fake-trump-laughs-canadas-annual-press-138366618",
+      "published": "Mon, 23 Nov 2026 03:26:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
