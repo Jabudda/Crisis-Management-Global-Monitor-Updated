@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T16:36:27.897597Z",
+  "last_updated": "2026-11-23T17:10:24.813401Z",
   "event_count": 222,
   "events": [
     {
@@ -173,17 +173,6 @@
       "is_ticker": false
     },
     {
-      "title": "11 killed in burst of violence in northern Mexico after capture of cartel leader",
-      "description": "At least 11 people have been killed in a burst of violence in Mexico’s Sinaloa state",
-      "url": "https://abcnews.com/International/wireStory/mexico-detains-top-cartel-boss-el-chapo-isidro-138341584",
-      "published": "Sat, 21 Nov 2026 15:50:13 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 23,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
       "title": "Zelenskyy says Russia strikes hometown, criticizes Putin-Trump meeting",
       "description": "Zelenskyy says a Russian strike on his hometown of Kryvyi Rih killed two people, including 7-year-old Tykhon, and wounded 58 others in a civilian area.",
       "url": "https://www.foxnews.com/world/zelenskyy-says-russia-strikes-hometown-criticizes-putin-trump-meeting",
@@ -196,20 +185,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Zelenskyy says Russia strikes hometown, criticizes Putin-Trump meeting"
-    },
-    {
-      "title": "Man convicted of starting Palisades fire in Los Angeles",
-      "description": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
-      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 04:34:00 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Man convicted of starting Palisades fire in Los Angeles"
     },
     {
       "title": "One in four women globally unable to refuse sex within marriage, says UN",
@@ -270,6 +245,17 @@
       "type": "rss",
       "severity_score": 20,
       "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "Search and rescue teams race against time to find survivors after Nigeria boat tragedy",
+      "description": "The government blames overcrowding, poor maintenance, and missing life jackets for boat accidents.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7820xjm49po?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 12:43:40 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
       "is_ticker": false
     },
     {
@@ -362,17 +348,6 @@
       "is_ticker": false
     },
     {
-      "title": "More remains recovered in the search for 34 workers missing after an Indonesian candy factory fire",
-      "description": "Rescue teams searching for 34 missing workers after a candy factory fire in Indonesia have recovered remains in 24 body bags",
-      "url": "https://abcnews.com/International/wireStory/fire-indonesian-candy-factory-leaves-3-dead-dozens-138354030",
-      "published": "Mon, 23 Nov 2026 06:54:14 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Taylor Swift ISIS concert plot foiled with Israel’s help, ex-Mossad chief says",
       "description": "Ex-Mossad chief David Barnea says Israeli intelligence helped thwart an ISIS-inspired terror plot targeting Taylor Swift concerts in Vienna.",
       "url": "https://www.foxnews.com/world/taylor-swift-isis-concert-plot-foiled-israels-help-ex-mossad-chief-says",
@@ -410,6 +385,20 @@
       "severity_score": 17,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+      "description": "Israel continues to launch attacks across the enclave, despite an October 2025 'ceasefire' deal.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+      "published": "Mon, 23 Nov 2026 16:36:22 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Israeli strikes kill at least three, including UNRWA worker, in Gaza"
     },
     {
       "title": "Climate change talks fall apart in final hours over fossil fuels",
@@ -465,6 +454,17 @@
       "ticker_label": "🪖 Ukraine claims strikes on Russian ships off Libyan coast"
     },
     {
+      "title": "WHO director-general visits Cuba as healthcare system breaks down",
+      "description": "The World Health Organization's top official is visiting Cuba as the island’s healthcare system crumbles under a spiraling economic crisis and worsening power outages",
+      "url": "https://abcnews.com/International/wireStory/director-general-visits-cuba-healthcare-system-breaks-138379754",
+      "published": "Mon, 23 Nov 2026 12:01:42 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 16,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
       "title": "Illegal immigrant avoids charges after Florida grandmother killed outside grocery store, enraging family",
       "description": "Prosecutors dropped all charges against Carlos Suarez-Contreras in Deborah Murphy's death at a Panama City Beach Publix, citing hurdles under Florida law.",
       "url": "https://www.foxnews.com/us/illegal-immigrant-avoids-charges-florida-grandmother-killed-outside-grocery-store-enraging-family",
@@ -515,15 +515,18 @@
       "ticker_label": "🪖 Russian warship hit by Ukrainian drones in Libya, Zelensky says"
     },
     {
-      "title": "Why is Bangladesh’s Grameen Bank under attack?",
-      "description": "Leading financial institution has found itself at centre of tensions amid violence by Sheikh Hasina supporters.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/why-is-bangladeshs-grameen-bank-under-attack?traffic_source=rss",
-      "published": "Mon, 23 Nov 2026 10:22:34 +0000",
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "description": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+      "published": "Mon, 23 Nov 2026 16:23:33 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 15,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks"
     },
     {
       "title": "Ukrainian drones hit a Russian warship at a naval base in Libya, Zelenskyy says",
@@ -610,7 +613,7 @@
       "title": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
       "description": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
       "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 11:57:33 GMT",
+      "published": "Mon, 23 Nov 2026 17:07:25 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 14,
@@ -638,6 +641,20 @@
       "severity_score": 14,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Lucy Powell to visit China to promote UK education weeks after MI5 warning",
+      "description": "Delegation of 50 to accompany minister, with trip criticised after universities were warned about Chinese interference The education secretary, Lucy Powell, is travelling to Beijing this week to promote UK education, weeks after MI5 issued a rare public warning to universities about Chinese interference in UK academia. A 50-strong UK delegation, including 18 university leaders, will accompany the minister when she attends the first UK-China education summit in nine years, aimed at opening up new opportunities for universities, colleges and education businesses. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+      "published": "Mon, 23 Nov 2026 16:42:09 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 14,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Lucy Powell to visit China to promote UK education weeks after MI5 warning"
     },
     {
       "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
@@ -721,18 +738,18 @@
       "ticker_label": "🪖 Russia-bound ship towed away after it was attacked in Gulf of Finland"
     },
     {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "published": "Sat, 21 Nov 2026 13:17:38 GMT",
-      "source": "BBC News",
+      "title": "Gaza mourns UNRWA worker killed in Israeli strike",
+      "description": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+      "published": "Mon, 23 Nov 2026 16:35:28 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting"
+      "ticker_label": "🪖 Gaza mourns UNRWA worker killed in Israeli strike"
     },
     {
       "title": "Iran threatens response to any attack amid naval blockade",
@@ -744,20 +761,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "Ukraine claims drone strikes on Russian ships off Libya: What do we know?",
-      "description": "Drone strikes on two Russian vessels near Libyan coast fuels fears of Ukraine war's spread.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/russian-ships-hit-by-drones-off-libya-coast-what-do-we-know?traffic_source=rss",
-      "published": "Mon, 23 Nov 2026 11:10:12 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Ukraine claims drone strikes on Russian ships off Libya: What do we know?"
     },
     {
       "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
@@ -789,7 +792,7 @@
     },
     {
       "title": "US and UK to host Women's World Cups in 2031 and 2035",
-      "description": "FIFA has confirmed the United States, alongside Mexico, Costa Rica and Jamaica, will host the 2031 Women's World Cup — the first to feature 48 teams. The UK will stage the 2035 edition, its first World Cup since 1966.",
+      "description": "FIFA has confirmed the United States, Mexico, Costa Rica and Jamaica will host the 2031 Women's World Cup — the first to feature 48 teams. The UK will stage the 2035 edition, its first World Cup since 1966.",
       "url": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Nov 2026 16:19:00 GMT",
       "source": "Deutsche Welle",
@@ -868,6 +871,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro?at_medium=RSS&at_campaign=rss",
       "published": "Mon, 23 Nov 2026 08:53:01 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 11,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Why did COP31 climate talks collapse without a deal?",
+      "description": "The longest UN climate summit in history collapsed without a final deal in Turkiye, the first such failure in 17 years.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/why-did-cop31-climate-talks-collapse-without-a-deal?traffic_source=rss",
+      "published": "Mon, 23 Nov 2026 16:38:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 11,
       "severity_level": "High",
@@ -1040,17 +1054,6 @@
       "ticker_label": "🪖 China commits to low-carbon electrification and help for others to improve"
     },
     {
-      "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day of trading",
-      "description": "The Nasdaq lost trillions in value, with the AI startup’s IPO failing to buoy it as investors question huge sums being poured into AI buildout Who are Anthropic’s seven co-founders, now worth $180bn? As Anthropic’s stock dropped during its second day of trading, the wider stock market dipped with it. On Friday, the Nasdaq Composite erased all its gains for 2026 and closed down 5% from its value on 1 January. The Dow Jones Industrial Average and S&P 500 closed in correction territory. Anthropic’s record-breaking IPO failed to stem a global sell-off in AI-linked companies, and the tech-heavy Nasdaq erased some $4tn in market value this week, according to the Wall Street Journal. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-      "published": "Fri, 20 Nov 2026 21:38:17 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 9,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Gukesh to defend chess crown against rising star Sindarov",
       "description": "As the World Chess championship gets underway, it's no coincidence that the titleholder, Gukesh Dommaraju, and his challenger, Jakhovir Sindarov, are both from Asia.",
       "url": "https://www.dw.com/en/gukesh-to-defend-chess-crown-against-rising-star-sindarov/a-80021806?maca=en-rss-en-all-1573-xml-mrss",
@@ -1150,17 +1153,6 @@
       "is_ticker": false
     },
     {
-      "title": "Lebanese families return to ruins after Israeli attacks in south",
-      "description": "In southern Lebanon’s Nabatieh, displaced families have been returning to ruins and widespread destruction.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/lebanese-families-return-to-ruins-after-israeli-attacks-in-south?traffic_source=rss",
-      "published": "Mon, 23 Nov 2026 10:57:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1229,31 +1221,6 @@
       "description": "As the winter cold sets in, Kyiv and other Ukrainian cities face a growing shortage of window installers as Russian attacks leave homes shattered and families exposed to the cold",
       "url": "https://abcnews.com/International/wireStory/ukraine-fight-winter-begins-broken-window-138354669",
       "published": "Sun, 22 Nov 2026 00:46:25 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Taiwan warns Canada’s Carney that deeper ties with China come with risks",
-      "description": "Canadian Prime Minister Mark Carney has tried to deepen trade ties with China.",
-      "url": "https://abcnews.com/International/wireStory/taiwan-warns-canada-faces-china-risks-carney-cautioned-138346706",
-      "published": "Sat, 21 Nov 2026 15:50:14 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Taiwan warns Canada’s Carney that deeper ties with China come with risks"
-    },
-    {
-      "title": "Black music producer's lawyer hails landmark ruling as French court finds racist police violence",
-      "description": "A French court has acknowledged the racist nature of a violent incident involving police officers and sentenced them to prison",
-      "url": "https://abcnews.com/International/wireStory/black-music-producers-lawyer-hails-landmark-ruling-french-138340923",
-      "published": "Sat, 21 Nov 2026 07:45:56 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1342,6 +1309,20 @@
       "ticker_label": "🪖 ‘Losing the battle’: AI hands predators new ways to target children"
     },
     {
+      "title": "MICHAEL RUIZ: 911 call reveals chase before disputed 'stand your ground' shooting, ‘He's trying to run’",
+      "description": "An eight-minute 911 call captured the Highway 9 road rage clash that left Scott Spivey dead, and two South Carolina men now face murder charges.",
+      "url": "https://www.foxnews.com/us/michael-ruiz-911-call-reveals-chase-before-disputed-stand-your-ground-shooting-hes-trying-run",
+      "published": "Mon, 23 Nov 2026 12:01:02 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "active_shooter",
+      "ticker_emoji": "🚨",
+      "ticker_label": "🚨 MICHAEL RUIZ: 911 call reveals chase before disputed 'stand your ground' shooting, ‘He's trying to run’"
+    },
+    {
       "title": "Trump to confront Newsom over plan to spare 548 death row inmates and more top headlines",
       "description": "Get all the stories you need-to-know from the most powerful name in news delivered first thing every morning to your inbox.",
       "url": "https://www.foxnews.com/us/trump-confront-newsom-plan-spare-548-death-row-inmates-more-top-headlines",
@@ -1390,17 +1371,6 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Alabama woman pleads guilty after reportedly using smart glasses to target drug trial witnesses"
-    },
-    {
-      "title": "Zoo shares autopsy findings following Fiona the hippo’s heartbreaking death",
-      "description": "Cincinnati Zoo’s director of animal health, Dr. Mike Wenninger, said a postmortem examination has revealed where the hat was lodged inside Fiona’s digestive tract.",
-      "url": "https://www.foxnews.com/us/zoo-shares-autopsy-findings-fiona-hippos-heartbreaking-death",
-      "published": "Fri, 20 Nov 2026 18:54:13 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Zelenskyy hails ‘exemplary Ukrainian operation’ sinking Russian warship off Libya",
@@ -1454,6 +1424,17 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 German police respond to multiple school bomb threats"
+    },
+    {
+      "title": "Nigeria's president says he is also hit by water and power cuts plaguing country",
+      "description": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
+      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 14:26:33 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
@@ -1547,15 +1528,40 @@
       "is_ticker": false
     },
     {
-      "title": "At least 24 dead in Nigeria when boat going to funeral capsizes",
-      "description": "Authorities haven't said how many passengers were believed to be on board.",
-      "url": "https://abcnews.com/International/wireStory/24-dead-nigeria-boat-capsizes-carrying-people-funeral-138348287",
-      "published": "Sat, 21 Nov 2026 18:06:21 -0500",
+      "title": "Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
+      "description": "Nvidia on ⁠Monday said it ​was immediately reinstating disgraced tech titan Jensen Huang as its chief executive, marking an extraordinary reversal ​under pressure from US President Donald Trump, who said he had intervened with Nvidia's board. Huang resigned less than two weeks ago amid revelations of extramarital affairs, including with an alleged Chinese spy. Democratic Senate leader Chuck Schumer vowed to investigate potential wrongdoing by \"anybody selling out our national security for financial gain\".",
+      "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
+      "published": "Mon, 23 Nov 2026 14:06:17 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Indonesia names 6 current and former police officials as suspects in an alleged treason plot",
+      "description": "Indonesian authorities have named former National Police chief Gen. Listyo Sigit Prabowo and five other current and former senior officers as suspects in an alleged treason plot against President Prabowo Subianto’s government",
+      "url": "https://abcnews.com/International/wireStory/indonesia-names-6-current-former-police-officials-suspects-138378719",
+      "published": "Mon, 23 Nov 2026 12:02:04 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Bukele reveals circumstances in which 3 Salvadoran soldiers died fighting gangs in Haiti",
+      "description": "El Salvador’s president has identified the soldiers from the Central American country who recently died in Haiti as they fight violent gangs",
+      "url": "https://abcnews.com/International/wireStory/bukele-reveals-circumstances-3-salvadoran-soldiers-died-fighting-138378203",
+      "published": "Mon, 23 Nov 2026 12:02:13 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Bukele reveals circumstances in which 3 Salvadoran soldiers died fighting gangs in Haiti"
     },
     {
       "title": "EXCLUSIVE: NIH funded foreign labs with troubling safety lapses, including deadly bat virus experiment",
@@ -1630,20 +1636,6 @@
       "is_ticker": false
     },
     {
-      "title": "‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike",
-      "description": "Exclusive: Luis Alejandro Cora Pérez says in messages to Guardian from inside Texas facility pain of force-feeding caused him to break strike The text message that came from inside the Immigration and Customs Enforcement (ICE) detention center was stark: “I have spent five days eating regular food. If I don’t eat it, they put the tube in me to feed me.” A Cuban asylum seeker, Luis Alejandro Cora Pérez, 32, said in messages to the Guardian this month that he was still weak and dizzy after three months without eating, but that he had broken his hunger strike because being force-fed was just too painful. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
-      "published": "Fri, 20 Nov 2026 11:00:31 GMT",
-      "source": "The Guardian World",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 ‘Weak and dizzy’: the secretive ICE force-feeding tactics that ended a Cuban father’s hunger strike"
-    },
-    {
       "title": "Budget cuts threaten Germany's fight against antisemitism and racism",
       "description": "Numerous grassroots initiatives in Germany are facing funding cuts. Affected organizations are sounding the alarm, pointing to growing challenges posed by far-right extremism.",
       "url": "https://www.dw.com/en/budget-cuts-threaten-germany-s-fight-against-antisemitism-and-racism/a-80018644?maca=en-rss-en-all-1573-xml-mrss",
@@ -1666,26 +1658,18 @@
       "is_ticker": false
     },
     {
-      "title": "Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
-      "description": "Nvidia on ⁠Monday said it ​was immediately reinstating disgraced tech titan Jensen Huang as its chief executive, marking an extraordinary reversal ​under pressure from US President Donald Trump. Huang resigned less than two weeks ago amid revelations of extramarital affairs, including with an alleged Chinese spy. Trump said he had directly intervened with Nvidia's board to bring Huang back, causing Democratic Senate leader Chuck Schumer to call for a full investigation into potential wrongdoing.",
-      "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
-      "published": "Mon, 23 Nov 2026 14:06:17 GMT",
+      "title": "Finland summons Russian ambassador after suspected airspace violation",
+      "description": "Finland on Monday said it had summoned Russia's ambassador over a suspected violation of Finnish airspace by a Russian helicopter and after a Ukrainian drone strike on a Russian cargo ship located in the Gulf of Finland in recent days. Helsinki also condemned Moscow's escalating strikes on civilian targets in Ukraine.",
+      "url": "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
+      "published": "Mon, 23 Nov 2026 16:50:41 GMT",
       "source": "France24",
       "type": "rss",
       "severity_score": 5,
       "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Thousands protest Turkey media crackdown in Istanbul",
-      "description": "Several thousand people marched through Istanbul on Sunday to protest a growing crackdown on opposition and independent media outlets days after police raided pro-opposition broadcaster Sozcu TV, installing a government-appointed trustee and arresting senior staff members.",
-      "url": "https://www.france24.com/en/video/20261123-thousands-protest-turkey-media-crackdown-in-istanbul",
-      "published": "Mon, 23 Nov 2026 11:48:48 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Finland summons Russian ambassador after suspected airspace violation"
     },
     {
       "title": "Okinawa celebrates restored Shuri Castle hall 7 years after fire",
@@ -1725,6 +1709,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin launches Ukraine barrage hours after Trump meeting amid alleged Russian missile breach of NATO airspace"
+    },
+    {
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "description": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "published": "Mon, 23 Nov 2026 16:49:51 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
     },
     {
       "title": "Nvidia board reinstates Jensen Huang as CEO",
@@ -1840,6 +1835,17 @@
       "is_ticker": false
     },
     {
+      "title": "Barbados town’s three-year deal with Bristol ‘part of the reparative process’",
+      "description": "Island’s labour minister, Tony Dyer, says agreement acknowledges links between Speightstown and UK city are rooted in slave trade A town in Barbados known as “Little Bristol” has signed a “twinning’” agreement with the UK city, marking a new chapter in a centuries-long relationship rooted in the transatlantic slave trade. Barbados says the new partnership between Speightstown and Bristol is part of its wider push for reparatory justice, built in small steps rather than around a multi-trillion-pound claim. Continue reading...",
+      "url": "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
+      "published": "Mon, 23 Nov 2026 16:53:13 GMT",
+      "source": "The Guardian World",
+      "type": "rss",
+      "severity_score": 3,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "After Japan's APEC snub, what's next for its China ties?",
       "description": "Japan has long-running concerns over Chinese military expansionism, and Beijing has bristled at Sanae Takaichi's comments on Taiwan. The frosty ties were on full display at the APEC summit.",
       "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-all-1573-xml-mrss",
@@ -1856,17 +1862,6 @@
       "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Nov 2026 14:49:00 GMT",
       "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Papers discuss James Bond's soft power and the next Bond girl",
-      "description": "PRESS REVIEW – Monday, November 23: Papers react to the breakdown of the COP31 climate talks. Israeli paper Haaretz reports on the struggles of crossing the Qalandiyah checkpoint. The New York Times talks about the mathematical \"formula to stop the apocalypse\". Finally, the Bond universe keeps making headlines.",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20261123-papers-discuss-james-bond-s-soft-power-and-the-next-bond-girl",
-      "published": "Mon, 23 Nov 2026 10:54:00 GMT",
-      "source": "France24",
       "type": "rss",
       "severity_score": 3,
       "severity_level": "Low",
@@ -1994,17 +1989,6 @@
       "is_ticker": false
     },
     {
-      "title": "Presidential villa suffers water and power cuts, Nigerian leader says",
-      "description": "Bola Tinubu says he was shaving last week when the water cut out - an experience familiar to many Nigerians.",
-      "url": "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o?at_medium=RSS&at_campaign=rss",
-      "published": "Mon, 23 Nov 2026 14:26:33 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "South Korea education minister resigns over exam cheating scandal",
       "description": "Choi Kyo-jin admits last-minute measures to stop AI-assisted cheating during the college entrance exam caused chaos.",
       "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no?at_medium=RSS&at_campaign=rss",
@@ -2111,17 +2095,6 @@
       "description": "The US, China and Russia are vying for Africa’s mineral wealth, raising questions about who stands to benefit.",
       "url": "https://www.aljazeera.com/news/2026/11/23/how-the-us-china-and-russia-are-competing-for-africas-mineral-wealth?traffic_source=rss",
       "published": "Mon, 23 Nov 2026 12:34:54 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "CAS decision on Senegal’s AFCON 2025 title appeal on Tuesday",
-      "description": "Senegal are contesting CAF's decision to declare Morocco champions, despite Senegal winning the final 1-0 in January.",
-      "url": "https://www.aljazeera.com/sports/2026/11/23/senegal-africa-cup-of-nations-afcon-morocco-cas-decision-appeal?traffic_source=rss",
-      "published": "Mon, 23 Nov 2026 10:55:05 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2385,9 +2358,9 @@
       "is_ticker": false
     },
     {
-      "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate while Montenegro and Albania move closer to membership",
+      "title": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
       "description": "EU enlargement has regained momentum, with Montenegro and Albania moving closer to membership. But North Macedonia, a candidate since 2005, remains stalled by a politically difficult dispute involving Bulgaria.",
-      "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate-while-montenegro-and-albania-move-closer-to-membership/a-80020841?maca=en-rss-en-all-1573-xml-mrss",
+      "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Mon, 23 Nov 2026 13:46:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
@@ -2440,11 +2413,44 @@
       "is_ticker": false
     },
     {
+      "title": "🔴Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
+      "description": "No description available.",
+      "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
+      "published": "Mon, 23 Nov 2026 16:37:04 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "‘Fighting for love’: Thousands turn out for Rio Pride parade",
       "description": "Thousands of people flocked to Copacabana Beach in Rio Sunday for the 31st annual Pride Parade. The event marked 15 years since Brazil's Supreme Court unanimously recognized same sex unions. Ophelie Jacobson explains what the celebration means for the LGBT community this year.",
       "url": "https://www.france24.com/en/video/20261123-fighting-for-love-thousands-turn-out-for-rio-pride-parade",
       "published": "Mon, 23 Nov 2026 11:49:42 GMT",
       "source": "France24",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Hungary’s Magyar says he will visit Ukraine in a sign of mending relations",
+      "description": "Hungarian Prime Minister Péter Magyar plans to visit Ukraine soon, signaling improved relations between the two countries",
+      "url": "https://abcnews.com/International/wireStory/hungarys-magyar-visit-ukraine-sign-mending-relations-138377958",
+      "published": "Mon, 23 Nov 2026 12:02:18 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Greece’s oldest modern-era museum reopens on the Acropolis after major restoration",
+      "description": "Greece’s oldest modern-era museum has reopened on the Acropolis in Athens after a seven-year, 6.2 million-euro ($6.8 million) restoration",
+      "url": "https://abcnews.com/International/wireStory/greeces-oldest-modern-era-museum-reopens-acropolis-after-138377839",
+      "published": "Mon, 23 Nov 2026 12:02:53 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
