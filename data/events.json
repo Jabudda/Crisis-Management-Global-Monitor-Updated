@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T00:50:19.662848Z",
+  "last_updated": "2026-11-25T01:11:42.476830Z",
   "event_count": 228,
   "events": [
     {
@@ -808,17 +808,6 @@
       "is_ticker": false
     },
     {
-      "title": "Four illegal immigrants among six arrested in Florida slaughterhouse torture case, AG says",
-      "description": "Six workers at Ali Meat International, an Orlando halal slaughterhouse, face animal cruelty charges as four are held on ICE detainers, officials say.",
-      "url": "https://www.foxnews.com/us/four-illegal-immigrants-among-six-arrested-florida-slaughterhouse-torture-case-ag-says",
-      "published": "Mon, 23 Nov 2026 20:30:29 -0500",
-      "source": "Fox News US",
-      "type": "rss",
-      "severity_score": 14,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Trump administration weighs targeting Iran's top regime leaders in bid to end war: report",
       "description": "Donald Trump's administration is reportedly weighing strikes on Iran's senior leaders, including Mojtaba Khamenei, as the war nears its ninth month.",
       "url": "https://www.foxnews.com/world/trump-administration-weighs-targeting-irans-top-regime-leaders-bid-end-war-report",
@@ -1236,20 +1225,6 @@
       "ticker_label": "🪖 Rebel group retreats in DR Congo after heavy clashes with government forces"
     },
     {
-      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
-      "description": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
-      "published": "Tue, 24 Nov 2026 19:02:49 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1661,6 +1636,20 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Coast Guard searching for 2 children, 4 adults after plane crashes off Mississippi coast",
+      "description": "A Cessna Centurion 210 with six people went down roughly two miles northeast of Horn Island on Tuesday, according to the U.S. Coast Guard.",
+      "url": "https://www.foxnews.com/us/coast-guard-searching-2-children-4-adults-after-plane-crashes-off-mississippi-coast",
+      "published": "Tue, 24 Nov 2026 19:45:06 -0500",
+      "source": "Fox News US",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "airline_disaster",
+      "ticker_emoji": "✈️",
+      "ticker_label": "✈️ Coast Guard searching for 2 children, 4 adults after plane crashes off Mississippi coast"
     },
     {
       "title": "Ex- Ukraine prosecutor general accuses Zelenskyy's office of interfering in anti-corruption investigation",
@@ -2092,6 +2081,17 @@
       "url": "https://www.bbc.co.uk/news/videos/cm62p9y3y04qo?at_medium=RSS&at_campaign=rss",
       "published": "Tue, 24 Nov 2026 09:09:41 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Gunmen hold dozens hostage in Colombia supermarket",
+      "description": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+      "published": "Wed, 25 Nov 2026 00:49:35 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2558,7 +2558,7 @@
       "is_ticker": false
     },
     {
-      "title": "Thomas Markle formally charged in US over possessing child sexual abuse material",
+      "title": "Thomas Markle formally charged over child sexual abuse material",
       "description": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
       "url": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
       "published": "Tue, 24 Nov 2026 17:43:00 +0000",
@@ -2581,7 +2581,7 @@
     },
     {
       "title": "Armed men take hostages in Colombia tourist hotspot",
-      "description": "A group of armed men are holding at least 25 people hostage in a supermarket in Colombia, according to officials.",
+      "description": "A group of armed men are holding at least 20 people hostage in a supermarket in Colombia, according to officials.",
       "url": "https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139",
       "published": "Tue, 24 Nov 2026 21:36:00 +0000",
       "source": "Sky News World",
