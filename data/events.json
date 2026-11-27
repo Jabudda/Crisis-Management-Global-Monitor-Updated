@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T20:35:58.261076Z",
+  "last_updated": "2026-11-27T21:09:31.091255Z",
   "event_count": 225,
   "events": [
     {
@@ -56,6 +56,20 @@
       "ticker_label": "🪖 'From bad to catastrophic: Iran's justice system was already unfair for many decades'"
     },
     {
+      "title": "Armed group kills 13 soldiers in western Niger attack, defense ministry says",
+      "description": "Armed men killed 13 members of Niger’s National Guard and wounded 20 others in an attack on an outpost in western Niger, the country’s defense ministry said",
+      "url": "https://abcnews.com/International/wireStory/armed-group-kills-13-soldiers-western-niger-attack-138477943",
+      "published": "Fri, 27 Nov 2026 10:22:46 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Armed group kills 13 soldiers in western Niger attack, defense ministry says"
+    },
+    {
       "title": "Governments and experts gather in Nairobi to tackle the global housing crisis",
       "description": "A home is a place where people can feel safe. Yet billions worldwide do not have a proper place to live. As the global housing crisis deepens, government representatives and housing experts are gathering at the United Nations in Nairobi from 26-27 November to discuss how to address it.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168873",
@@ -63,6 +77,17 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 32,
+      "severity_level": "Critical",
+      "is_ticker": false
+    },
+    {
+      "title": "The End of Spain’s ‘Frankenstein’ Coalition? Presidential Plotting in Paris, Kushner & Kremlin Trap",
+      "description": "Catch up with the World This Week with Gavin Lee. In just 45 minutes, make sense of seven extraordinary days in global affairs, as Gavin and his handpicked panel of four leading international correspondents unpack the stories shaping the world — and the questions behind the headlines. This week: Spain’s snap election; the presidential plotting unfolding over lunch at the Brasserie Concorde in Paris; Ukraine, Kushner and the ‘Kremlin Trap’; and the question hanging over Iran: whose side is time on? Joining Gavin are New World Magazine columnist Emma-Kate Symonds; Constant Méheut, The New York Times correspondent in Ukraine; Venetia Rainer, Daily Telegraph Foreign Editor and host of Iran: The Latest; and Sarah Morris, France 24’s correspondent in Spain.",
+      "url": "https://www.france24.com/en/tv-shows/the-world-this-week/20261127-the-end-of-spain-s-frankenstein-coalition-presidential-plotting-in-paris-kushner-kremlin-trap",
+      "published": "Fri, 27 Nov 2026 20:14:37 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 30,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -129,20 +154,6 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ All hostages rescued after Colombian security forces storm supermarket, police say"
-    },
-    {
-      "title": "Rescuers battle tough conditions in flooded Indonesian mine",
-      "description": "Rescuers are battling high water, darkness and slippery, narrow terrain while searching for miners believed trapped by flooding in an illegal gold mine",
-      "url": "https://abcnews.com/International/wireStory/rescuers-battle-wet-dark-conditions-flooded-indonesian-mine-138461363",
-      "published": "Thu, 26 Nov 2026 04:39:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Rescuers battle tough conditions in flooded Indonesian mine"
     },
     {
       "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
@@ -230,17 +241,6 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 22,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "Nine injured, three critically, after Bangkok oil refinery explosion",
-      "description": "Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.",
-      "url": "https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 16:21:19 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 21,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -351,17 +351,6 @@
       "ticker_label": "🪖 Republican wants FBI and CIA answers before questioning Nvidia chief"
     },
     {
-      "title": "Bulgarian fans injured after clashes between supporters at Marseille-Levski game in Europa League",
-      "description": "French and Bulgarian authorities condemned the violence that left at least 11 Bulgarian soccer fans injured during clashes between Marseille and Levski Sofia supporters before their Europa League match on Thursday evening, and Marseille prosecutors opened two investigations.",
-      "url": "https://www.france24.com/en/video/20261127-bulgarian-fans-injured-after-clashes-between-supporters-at-marseille-levski-game-in-europa-league",
-      "published": "Fri, 27 Nov 2026 15:58:54 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 19,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Driver suspected of causing tanker crash in Egypt that killed 31 detained",
       "description": "The driver of a car suspected to have caused a fuel tanker to overturn in Egypt, causing the deaths of 31 people, has been detained.",
       "url": "https://news.sky.com/story/driver-of-car-suspected-of-causing-fuel-tanker-to-overturn-in-egypt-detained-13616933",
@@ -376,10 +365,10 @@
       "ticker_label": "🚑 Driver suspected of causing tanker crash in Egypt that killed 31 detained"
     },
     {
-      "title": "Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid",
-      "description": "Ukrainian President Volodymyr Zelenskyy says that Russia is preparing a major attack on Ukraine’s energy infrastructure as crews race to repair damage from earlier strikes",
-      "url": "https://abcnews.com/International/wireStory/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-138468250",
-      "published": "Fri, 27 Nov 2026 02:21:00 -0500",
+      "title": "Houthis report 11 killed, including children, in an airstrike, and other Mideast news",
+      "description": "Houthi rebels say an airstrike in southwestern Yemen has killed at least 11 people, including children",
+      "url": "https://abcnews.com/International/wireStory/houthis-report-11-killed-including-children-airstrike-mideast-138478032",
+      "published": "Fri, 27 Nov 2026 10:14:20 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 19,
@@ -387,7 +376,7 @@
       "is_ticker": true,
       "ticker_category": "war",
       "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid"
+      "ticker_label": "🪖 Houthis report 11 killed, including children, in an airstrike, and other Mideast news"
     },
     {
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
@@ -406,17 +395,6 @@
       "url": "https://news.sky.com/story/kenyan-cult-leader-in-jail-for-191-murders-convicted-over-another-123-deaths-13617227",
       "published": "Fri, 27 Nov 2026 14:30:00 +0000",
       "source": "Sky News World",
-      "type": "rss",
-      "severity_score": 18,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Building collapse in Pakistan kills 4, with 17 still missing",
-      "description": "A six-story building under construction collapsed in Karachi on Wednesday, killing at least four people",
-      "url": "https://abcnews.com/International/wireStory/building-collapse-pakistan-kills-4-17-missing-138463814",
-      "published": "Thu, 26 Nov 2026 11:47:13 -0500",
-      "source": "ABC News International",
       "type": "rss",
       "severity_score": 18,
       "severity_level": "High",
@@ -487,20 +465,6 @@
       "ticker_label": "🪖 Amazon staff to strike and rally on busiest weekend of the year"
     },
     {
-      "title": "Hong Kong marks deadly fire anniversary with flowers and tears following gov warning",
-      "description": "Hong Kong residents are remembering the victims of the city's deadliest fire in decades by offering flowers and prayers",
-      "url": "https://abcnews.com/International/wireStory/hong-kong-marks-deadly-fire-anniversary-flowers-prayers-138463173",
-      "published": "Thu, 26 Nov 2026 10:14:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 17,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Hong Kong marks deadly fire anniversary with flowers and tears following gov warning"
-    },
-    {
       "title": "Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers",
       "description": "The Libyan National Army mourns two soldiers who died Tuesday from a Ukrainian drone strike on a Russian warship in Benghazi, vowing retaliation.",
       "url": "https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers",
@@ -565,20 +529,6 @@
       "ticker_label": "🪖 Somalia: Famine risk decreases in Baidoa – but millions still going hungry"
     },
     {
-      "title": "‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return",
-      "description": "Former Trump officials warn his push to reinstate NVIDIA's CEO could be the final straw for Republicans.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/playing-with-fire-republicans-incensed-after-trump-gets-huang-reinstated?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 15:12:09 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 ‘Playing with fire’: Trump faces GOP backlash over Nvidia CEO’s return"
-    },
-    {
       "title": "French far-left candidate Mélenchon demands ‘thorough overhaul’ of Germany ties",
       "description": "Jean-Luc Mélenchon, leader of the hard-left France Unbowed (LFI) party, on Friday declared he was \"hostile\" to German economic liberalism and its dominance of the European Union. The septuagenarian presidential candidate in the 2027 race also warned that France could be drawn into unwanted conflict as Germany's growing military strength makes it a \"target\" for other countries.",
       "url": "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
@@ -602,6 +552,20 @@
       "severity_score": 15,
       "severity_level": "High",
       "is_ticker": false
+    },
+    {
+      "title": "Death toll in Pakistan building collapse rises to 8 with about 10 missing",
+      "description": "The death toll from the collapse of a six-story building under construction in southern Pakistan has risen to eight",
+      "url": "https://abcnews.com/International/wireStory/death-toll-pakistan-building-collapse-rises-8-10-138480840",
+      "published": "Fri, 27 Nov 2026 10:06:19 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 15,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "mass_casualty",
+      "ticker_emoji": "🚑",
+      "ticker_label": "🚑 Death toll in Pakistan building collapse rises to 8 with about 10 missing"
     },
     {
       "title": "Putting survivors at the centre of gender-based violence services",
@@ -840,17 +804,6 @@
       "ticker_label": "🪖 ‘Bear trap’: Ukraine hails new operation as Russian casualties mount"
     },
     {
-      "title": "Funeral prayers held for 31 victims of Egypt tanker crash",
-      "description": "Funeral prayers were held at Cairo’s Al-Azhar Mosque on Friday for 31 people killed when a car collided with a tanker",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/funeral-prayers-held-for-31-victims-of-egypt-tanker-crash?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 15:07:22 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Jess Wilson’s plan for Melbourne sewage plants risks water and wetlands without bringing debt down, experts say",
       "description": "Academic says Victorian Liberal proposal to privatise treatment plants and generate profit with no compromise of services ‘a total furphy’ Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast Experts have warned the Victorian Liberals’ plan to lease Melbourne’s sewage treatment plants is a “smoke and mirrors” way to pay off debt that risks compromising the state’s water resources and crucial wetlands for nearly a century. On Thursday – two days out from the election – the opposition leader, Jess Wilson, announced plans for a 90-year lease of the Eastern and Western treatment plants , which process the vast majority of the city’s sewage and are run by Melbourne Water. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
@@ -874,31 +827,6 @@
       "severity_score": 12,
       "severity_level": "High",
       "is_ticker": false
-    },
-    {
-      "title": "French student protests: A 'very bizarre' government response",
-      "description": "“The government had a very bizarre way of dealing with the student protests,” says Jean-Rémi Girard, a secondary school teacher and union representative in Asnières-sur-Seine. He explains how teachers sought to defuse tensions by listening to students, and respecting their right to protest, while keeping classes running. He recounts a police intervention last October and the case of a student facing trial for defending a classmate, and has the full support of several teachers. Girard questions the government's heavy-handed policing and largely symbolic proposals on class sizes and university admissions. “There wasn't really a negotiation,” he says, also highlighting the number of education workers injured during the protests.",
-      "url": "https://www.france24.com/en/video/20261127-student-movement-in-france-the-situation-has-varied-greatly-from-one-school-to-another",
-      "published": "Fri, 27 Nov 2026 16:04:13 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
-      "title": "Egypt detains a driver suspected of causing Cairo tanker crash that killed 31",
-      "description": "Egyptian authorities have detained a driver suspected of causing a fuel tanker to overturn on a major highway in Cairo",
-      "url": "https://abcnews.com/International/wireStory/egypt-detains-driver-suspected-causing-cairo-tanker-crash-138465415",
-      "published": "Thu, 26 Nov 2026 23:59:28 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Egypt detains a driver suspected of causing Cairo tanker crash that killed 31"
     },
     {
       "title": "Trump mourns Florida detective killed by suspected drunk driver on Thanksgiving",
@@ -975,6 +903,17 @@
       "source": "Fox News World",
       "type": "rss",
       "severity_score": 12,
+      "severity_level": "High",
+      "is_ticker": false
+    },
+    {
+      "title": "Putin unveils new Russian nuclear-powered submarine with hypersonic weapons",
+      "description": "The Kremlin plans to expand its naval fleet with five new nuclear submarines by 2030.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/putin-unveils-new-russian-nuclear-powered-submarine-with-hypersonic-weapons?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 20:39:57 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 11,
       "severity_level": "High",
       "is_ticker": false
     },
@@ -1295,6 +1234,17 @@
       "is_ticker": false
     },
     {
+      "title": "Mexico files formal complaint to US over DEA tip line",
+      "description": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials",
+      "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
+      "published": "Fri, 27 Nov 2026 14:00:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "UN warns hunger will deepen in the Middle East",
       "description": "The United Nations warns that hunger is expected to worsen in 16 countries over the next six months, with Sudan and Yemen facing the gravest risks",
       "url": "https://abcnews.com/International/wireStory/warns-hunger-deepen-middle-east-war-fuel-costs-138477712",
@@ -1309,10 +1259,10 @@
       "ticker_label": "🪖 UN warns hunger will deepen in the Middle East"
     },
     {
-      "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
-      "description": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
-      "url": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
-      "published": "Fri, 27 Nov 2026 00:10:38 -0500",
+      "title": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
+      "description": "Officials say Pakistan is set to host talks with Saudi Arabia and Turkey under a trilateral defense pact that treats an attack on any member as an attack on all three",
+      "url": "https://abcnews.com/International/wireStory/pakistan-set-host-talks-saudi-arabia-turkey-trilateral-138477505",
+      "published": "Fri, 27 Nov 2026 04:06:58 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1320,10 +1270,21 @@
       "is_ticker": false
     },
     {
-      "title": "Mexico files formal complaint to US over DEA tip line",
-      "description": "Mexican President Claudia Sheinbaum says the country is filing a formal complaint with the U.S. over a Drug Enforcement Agency tip line for anonymous reports about criminals and corrupt Mexican officials",
-      "url": "https://abcnews.com/International/wireStory/mexico-files-formal-complaint-us-dea-tip-line-138484649",
-      "published": "Fri, 27 Nov 2026 14:00:27 -0500",
+      "title": "South Korea lets a North Korean fisherman resettle in South and returns six others",
+      "description": "Seoul says that one of seven North Koreans rescued off a fishing boat drifting near a South Korean island earlier this month chose to resettle in the South",
+      "url": "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962",
+      "published": "Fri, 27 Nov 2026 02:20:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
+      "description": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
+      "url": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
+      "published": "Fri, 27 Nov 2026 00:10:38 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 8,
@@ -1583,6 +1544,17 @@
       "is_ticker": false
     },
     {
+      "title": "Meet the rising mayoral candidate in Taiwan who's also sanctioned by China",
+      "description": "Puma Shen is gaining unexpected popularity as an opposition candidate in Taiwan's capital",
+      "url": "https://abcnews.com/International/wireStory/meet-rising-mayoral-candidate-taiwan-sanctioned-china-138473812",
+      "published": "Thu, 26 Nov 2026 23:07:06 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Macy’s Thanksgiving Day Parade postponed: Has the holiday tradition ever been canceled?",
       "description": "Macy's Thanksgiving Day Parade was postponed by a powerful coastal storm, but the New York City tradition has been canceled only three times.",
       "url": "https://www.foxnews.com/us/macys-thanksgiving-day-parade-postponed-has-holiday-tradition-ever-been-canceled",
@@ -1595,6 +1567,20 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Macy’s Thanksgiving Day Parade postponed: Has the holiday tradition ever been canceled?"
+    },
+    {
+      "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+      "description": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 20:18:45 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Hamas chief’s last surviving son escapes Israeli strike in Gaza"
     },
     {
       "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
@@ -1782,6 +1768,17 @@
       "is_ticker": false
     },
     {
+      "title": "Canada’s Supreme Court largely upholds Quebec ban on religious symbols for public servants",
+      "description": "Canada’s Supreme Court upheld most of a Quebec law banning schoolteachers, police officers and other public employees in positions of authority from wearing religious symbols at work, affirming the province’s use of a constitutional power to override c...",
+      "url": "https://abcnews.com/International/wireStory/canadas-supreme-court-largely-upholds-quebec-ban-religious-138482310",
+      "published": "Fri, 27 Nov 2026 12:30:22 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
       "description": "United Nations peacekeepers in the Democratic Republic of the Congo (DRC) have stepped up efforts to protect civilians in Ebola-hit Ituri province following renewed armed clashes in Djugu territory.",
       "url": "https://news.un.org/feed/view/en/story/2026/11/1168883",
@@ -1931,7 +1928,7 @@
       "title": "Spanish PM and rivals rally supporters in final pitch for votes",
       "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 20:09:09 GMT",
+      "published": "Fri, 27 Nov 2026 20:57:04 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1950,10 +1947,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "description": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 11:44:40 GMT",
+      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
+      "description": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
+      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 20:34:45 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1965,6 +1962,17 @@
       "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
       "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 16:53:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
+      "description": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 11:44:40 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2038,6 +2046,28 @@
       "is_ticker": false
     },
     {
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "description": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 20:44:03 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "OpenAI countersues Apple over trade secrets as AI race heats up",
+      "description": "Tensions between the two tech companies have escalated as intensifying race to develop AI products fuels competition.",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/openai-countersues-apple-over-trade-secrets-as-ai-race-heats-up?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 20:40:51 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
       "description": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
       "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
@@ -2105,28 +2135,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’"
-    },
-    {
-      "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
-      "description": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 15:26:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
-      "description": "Quebec’s ban on teachers and police wearing religious symbols such as hijabs and turbans on the job remains in place.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 15:15:36 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
     },
     {
       "title": "Markets digest bank earnings after recent turmoil",
@@ -2251,7 +2259,7 @@
     },
     {
       "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
-      "description": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ for undermining diplomatic relations A petition signed by nearly 290,000 Canadians calling on Mark Carney’s parliament to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabeth May, a Canadian Green party member, originally opened the petition for signatures in July 2026 after a woman from Calgary sponsored it. The petition requests that the Canadian government declare Hoekstra “persona non grata” due to his “US” diplomatic interference in Canadian domestic affairs”. Continue reading...",
+      "description": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabeth May, a Canadian Green party member, originally opened the petition for signatures in July 2026 after a woman from Calgary sponsored it. The petition requests that the Canadian government declare Hoekstra “persona non grata” due to his “US” diplomatic interference in Canadian domestic affairs”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
       "published": "Fri, 27 Nov 2026 20:19:04 GMT",
       "source": "The Guardian World",
@@ -2374,6 +2382,17 @@
       "is_ticker": false
     },
     {
+      "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+      "description": "Quebec's government passed Bill 21 to ban religious symbols for public servants, arguing it was necessary to protect its secularist society. Critics argue the bill weakens legal protections for fundamental rights.",
+      "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 20:43:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "France seeks German man in Channel migrant boat probe",
       "description": "A German businessman is accused of supplying equipment to smugglers organizing migrant crossings from France to the United Kingdom. However, he can't face formal charges until he is extradited to France.",
       "url": "https://www.dw.com/en/france-seeks-german-man-in-channel-migrant-boat-probe/a-80078069?maca=en-rss-en-all-1573-xml-mrss",
@@ -2418,11 +2437,11 @@
       "is_ticker": false
     },
     {
-      "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
-      "description": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.",
-      "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 27 Nov 2026 11:06:00 GMT",
-      "source": "Deutsche Welle",
+      "title": "Spanish elections: 'Right-wing voters extremely mobilised, left-wing voters not mobilised enough'",
+      "description": "“His main political platform is to say, I am not Sánchez, I am the opposite of Sánchez.” As Spain heads to the polls, what do Alberto Núñez Feijóo's campaign and political career tell us about the kind of prime minister he might become? Javier Carbonell, Policy Analyst at the European Politics and Institutions Programme and lecturer at Sciences Po in Paris, joins Gavin Lee to break down the Popular Party leader's efforts to avoid the mistakes of 2023 and keep right-wing voters mobilised without galvanising the left.",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20261127-spanish-elections-right-wing-voters-extremely-mobilised-left-wing-voters-not-mobilised-enough",
+      "published": "Fri, 27 Nov 2026 20:43:44 GMT",
+      "source": "France24",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2484,54 +2503,24 @@
       "is_ticker": false
     },
     {
-      "title": "Spain's former central bank head chosen as next European Central Bank president",
-      "description": "Eurozone leaders have chosen a new president of the European Central Bank",
-      "url": "https://abcnews.com/International/wireStory/leaders-choose-spains-former-central-bank-head-european-138468703",
-      "published": "Thu, 26 Nov 2026 14:38:15 -0500",
+      "title": "Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets",
+      "description": "Brazilian markets have rallied after President Luiz Inácio Lula da Silva confirmed that veteran banker Luiz Carlos Trabuco would lead his finance ministry in 2027, a move seen as a commitment to fiscal discipline",
+      "url": "https://abcnews.com/International/wireStory/lulas-choice-bradesco-banker-brazils-finance-minister-lifts-138482032",
+      "published": "Fri, 27 Nov 2026 12:30:27 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Lula’s choice of Bradesco banker as Brazil’s finance minister lifts markets"
     },
     {
-      "title": "Serbia sets presidential election for Dec. 27 after students won parliamentary vote",
-      "description": "Serbia's Parliament speaker has set an early presidential election for December 27",
-      "url": "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
-      "published": "Thu, 26 Nov 2026 08:30:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Schizophrenic man found guilty of attempted murders of 14, including 10 on train",
-      "description": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train",
-      "url": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
-      "published": "Fri, 27 Nov 2026 10:40:04 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
-      "description": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled",
-      "url": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
-      "published": "Thu, 26 Nov 2026 08:38:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Emirati curator Hoor Al Qasimi becomes first Arab woman to lead Venice Biennale art show",
-      "description": "Hoor Al Qasimi has been named as the first Arab and seventh woman to lead the Venice Biennale contemporary art exhibition, set for 2028",
-      "url": "https://abcnews.com/International/wireStory/emirati-curator-hoor-al-qasimi-arab-woman-lead-138467614",
-      "published": "Thu, 26 Nov 2026 11:45:48 -0500",
+      "title": "A Ukraine loan is in limbo after EU budget talks stall. Leaders will try again in 3 weeks",
+      "description": "European Council President António Costa says European Union leaders have failed to agree on the 2028-2034 budget",
+      "url": "https://abcnews.com/International/wireStory/ukraine-loan-limbo-after-eu-budget-talks-stall-138478913",
+      "published": "Fri, 27 Nov 2026 10:54:17 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2550,10 +2539,32 @@
       "is_ticker": false
     },
     {
-      "title": "A Ukraine loan is in limbo after EU budget talks stall. Leaders will try again in 3 weeks",
-      "description": "European Council President António Costa says European Union leaders have failed to agree on the 2028-2034 budget",
-      "url": "https://abcnews.com/International/wireStory/ukraine-loan-limbo-after-eu-budget-talks-stall-138478913",
-      "published": "Fri, 27 Nov 2026 10:54:17 -0500",
+      "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
+      "description": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high",
+      "url": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
+      "published": "Fri, 27 Nov 2026 11:10:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What to know about North Korean move to shut down Swiss diplomatic office",
+      "description": "North Korea has shut down a Swiss diplomatic office in Pyongyang and expelled its head, signaling a more assertive foreign policy",
+      "url": "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
+      "published": "Fri, 27 Nov 2026 02:23:27 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Argentina bans its central bank from printing money for the government",
+      "description": "Argentina’s Congress has approved a law that bans the central bank from printing money to cover government spending",
+      "url": "https://abcnews.com/International/wireStory/argentina-bans-central-bank-printing-money-government-138472438",
+      "published": "Thu, 26 Nov 2026 20:22:18 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
@@ -2572,21 +2583,10 @@
       "is_ticker": false
     },
     {
-      "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
-      "description": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high",
-      "url": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
-      "published": "Fri, 27 Nov 2026 11:10:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Sierra Leone sees steep decline in maternal mortality, but barriers to care persist",
-      "description": "Fatmata Kamara's experience in Sierra Leone highlights both progress and challenges in maternal healthcare",
-      "url": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429",
-      "published": "Thu, 26 Nov 2026 03:34:21 -0500",
+      "title": "Schizophrenic man found guilty of attempted murders of 14, including 10 on train",
+      "description": "A schizophrenic man has been found guilty of the attempted murders of 14 people over three separate incidents over a 24-hour period that culminated with the stabbing of 10 people on a high-speed London-bound train",
+      "url": "https://abcnews.com/International/wireStory/schizophrenic-man-found-guilty-attempted-murders-14-people-138470756",
+      "published": "Fri, 27 Nov 2026 10:40:04 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
