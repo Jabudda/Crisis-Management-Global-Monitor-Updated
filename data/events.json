@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T13:11:14.933576Z",
+  "last_updated": "2026-11-27T13:36:24.633476Z",
   "event_count": 224,
   "events": [
     {
@@ -65,20 +65,6 @@
       "severity_score": 32,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
-      "description": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 08:39:50 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 31,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’"
     },
     {
       "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
@@ -213,6 +199,20 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Swiss tourist killed and British and Americans injured by elephants in Cameroon"
+    },
+    {
+      "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
+      "description": "El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 13:16:28 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 23,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Famine expect to rise due to global conflict, El Nino, warns UN"
     },
     {
       "title": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
@@ -533,17 +533,6 @@
       "ticker_label": "💥 Erin Patterson launches high court appeal bid over mushroom murder convictions"
     },
     {
-      "title": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
-      "description": "Thousands have gathered in the capital of northern Iraq's semiautonomous Kurdish region, waving flags and voicing opposition to plans for the federal government to take control of oil operations and border crossings.",
-      "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Nov 2026 16:13:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 15,
-      "severity_level": "High",
-      "is_ticker": false
-    },
-    {
       "title": "Immigration: South Africa no longer an El Dorado for foreigners",
       "description": "South Africa was once a welcoming country; a refuge for those fleeing conflict and persecution. But for thousands of foreigners, the dream of a new life in South Africa is turning into more of a nightmare. Against a backdrop of unemployment and economic hardship, anti-immigration movements are gaining ground. Our correspondents report.",
       "url": "https://www.france24.com/en/tv-shows/reporters/20261127-immigration-south-africa-no-longer-an-el-dorado-for-foreigners",
@@ -767,20 +756,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Two Italians killed in strike in Kuwait, as Iran denies responsibility"
-    },
-    {
-      "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
-      "description": "Officials say the man confessed to travelling at speed and clipping the fuel truck as he was overtaking traffic.",
-      "url": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 12:16:06 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 12,
-      "severity_level": "High",
-      "is_ticker": true,
-      "ticker_category": "mass_casualty",
-      "ticker_emoji": "🚑",
-      "ticker_label": "🚑 Egyptian authorities arrest motorist over tanker crash that killed 31"
     },
     {
       "title": "Saudi strike kills ’11 civilians’ in Yemen’s Taiz: Houthi media",
@@ -1169,45 +1144,6 @@
       "ticker_label": "🪖 ‘I cannot go to work’: Iranians contend with pollution as well as US war"
     },
     {
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "description": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 09:43:01 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Democrats want to end Trump’s Iran war. But how different are they?"
-    },
-    {
-      "title": "South Korea sends rescued fishermen back to North",
-      "description": "Pyongyang has not commented on a seventh fisherman who chose to remain in the South.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 09:02:20 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
-      "description": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
-      "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 08:37:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 ‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1217,6 +1153,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Duterte's ICC trial: What is at stake for the Philippines?",
+      "description": "Former Philippine President Rodrigo Duterte faces trial in The Hague over his deadly war on drugs. The proceedings could also determine the political fortunes of one of the Philippines' most powerful dynasties.",
+      "url": "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 13:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Duterte's ICC trial: What is at stake for the Philippines?"
     },
     {
       "title": "Risks of child marriage in Iran complicated by war",
@@ -1231,17 +1181,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Risks of child marriage in Iran complicated by war"
-    },
-    {
-      "title": "Germany's tiny BSW is a party in crisis as it is set to hand the far-right AfD power in Saxony-Anhalt",
-      "description": "Sahra Wagenknecht's BSW party is set to disrupt German politics yet again. Espousing a mix of left-wing economic policy and populist far-right anti-migration rhetoric, it now stands to play kingmaker to the far right AfD",
-      "url": "https://www.dw.com/en/germany-s-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-saxony-anhalt/a-80074417?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Fri, 27 Nov 2026 12:45:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": false
     },
     {
       "title": "Ukraine's Heraskevych hails EU pushback against Russian athletes",
@@ -1505,6 +1444,28 @@
       "ticker_category": "terrorism",
       "ticker_emoji": "💥",
       "ticker_label": "💥 Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died"
+    },
+    {
+      "title": "The Gambia election: Can Barrow secure a third term?",
+      "description": "President Adama Barrow is seeking a third term as Gambians vote on December 5. The election will test the opposition's appeal and the country's progress on democratic reform.",
+      "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 13:31:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "On the arrest of Informer TV owner and editor-in-chief Dragan J. Vucicevic: Has the reckoning with Serbia's pro-Vucic media machine begun?",
+      "description": "The arrest of media owner Dragan J. Vucicevic raises questions about whether Serbia is holding the people behind the country's pro-Vucic media accountable or whether this is another political power struggle.",
+      "url": "https://www.dw.com/en/on-the-arrest-of-informer-tv-owner-and-editor-in-chief-dragan-j-vucicevic-has-the-reckoning-with-serbia-s-pro-vucic-media-machine-begun/a-80074650?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 13:28:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Philippines: VP Duterte says father's ICC case 'not a fair trial'",
@@ -1962,6 +1923,17 @@
       "is_ticker": false
     },
     {
+      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
+      "description": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
+      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 11:22:02 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "India busts cyberfraud and trafficking network rescuing 164 foreigners",
       "description": "Lured by IT job promises, the victims were allegedly forced into cybercrime, police say.",
       "url": "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo?at_medium=RSS&at_campaign=rss",
@@ -2006,6 +1978,50 @@
       "is_ticker": false
     },
     {
+      "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+      "description": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 13:28:55 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Sentence served, still detained: Palestinian families waiting for reunions",
+      "description": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 13:14:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "England’s Overton takes 5-12 as Australia bowled out for record low in T20",
+      "description": "Australia are bowled out for 108 as Jamie Overton claims career-best figures in England's seven-wicket win in Brisbane.",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/englands-overton-takes-5-12-as-australia-bowled-out-for-record-low-in-t20?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 13:06:54 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?",
+      "description": "US president's new tariff regime targets China hardest, just weeks before Trump and Xi meet again in Miami.",
+      "url": "https://www.aljazeera.com/features/2026/11/27/trump-embraced-xi-then-slapped-new-tariffs-on-china-whats-his-game-plan?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 12:48:44 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "What Spain’s election means for Morocco",
       "description": "The vote could reshape diplomatic relations, but shared strategic interests will continue to bind the two countries.",
       "url": "https://www.aljazeera.com/opinions/2026/11/27/what-spains-election-means-for-morocco?traffic_source=rss",
@@ -2043,17 +2059,6 @@
       "description": "Could Netanyahu escape his most serious corruption charges? Al Jazeera's Lina-Serene explains.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/why-benjamin-netanyahus-corruption-trial-could-be-unravelling?traffic_source=rss",
       "published": "Fri, 27 Nov 2026 10:54:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "India upbeat about first Olympic Games after ‘very good’ 2036 presentation",
-      "description": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 08:57:37 +0000",
       "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
@@ -2306,6 +2311,17 @@
       "is_ticker": false
     },
     {
+      "title": "BSW set to play major role in German politics once more",
+      "description": "Sahra Wagenknecht's BSW party is set to disrupt German politics yet again. Espousing a mix of left-wing economic policy and populist far-right anti-migration rhetoric, it now stands to play kingmaker to the far right AfD",
+      "url": "https://www.dw.com/en/bsw-set-to-play-major-role-in-german-politics-once-more/a-80074417?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 12:45:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Indian workers fill Germany's labor gaps but face hurdles and risks",
       "description": "The number of Indians working in Germany has grown rapidly in recent years. But many continue to face challenges in the labor market. Some also fall victim to recruitment scams, leaving them vulnerable to exploitation.",
       "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-all-1573-xml-mrss",
@@ -2376,28 +2392,6 @@
       "description": "The decision came exactly one year after the military took power on November 26, 2025. The junta said the conditions were insufficient to hold presidential elections for now.",
       "url": "https://www.dw.com/en/guinea-bissau-junta-delays-presidential-vote-for-2-years/a-80068910?maca=en-rss-en-all-1573-xml-mrss",
       "published": "Thu, 26 Nov 2026 20:09:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "On farewell trip, Steinmeier calls for more investment in Africa",
-      "description": "Cote d'Ivoire, Ghana, Kenya: On his last trip to Africa, outgoing German President Frank-Walter Steinmeier called on companies at home to be bolder and seize opportunities in Africa.",
-      "url": "https://www.dw.com/en/on-farewell-trip-steinmeier-calls-for-more-investment-in-africa/a-80067717?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Nov 2026 17:23:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Trump says he urged Putin to 'pull back' military aggression in Europe",
-      "description": "US President Donald Trump claimed that he talked with Vladimir Putin about ceasing Russia's military aggression in Europe and expressed his belief in the possibility of a deal between Russia and Ukraine.",
-      "url": "https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Nov 2026 16:54:00 GMT",
       "source": "Deutsche Welle",
       "type": "rss",
       "severity_score": 1,
@@ -2479,6 +2473,17 @@
       "url": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
       "published": "Thu, 26 Nov 2026 16:36:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "A Ukraine loan is in limbo after EU budget talks stall. Leaders will try again in 3 weeks",
+      "description": "European Council President António Costa says European Union leaders have failed to agree on the 2028-2034 budget",
+      "url": "https://abcnews.com/International/wireStory/ukraine-loan-limbo-after-eu-budget-talks-stall-138478913",
+      "published": "Fri, 27 Nov 2026 08:22:27 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2577,17 +2582,6 @@
       "description": "Kenya's government violated the constitution by allowing the construction of a U.S.-backed Ebola quarantine facility without public participation, the High Court has ruled",
       "url": "https://abcnews.com/International/wireStory/us-backed-ebola-quarantine-center-violated-constitution-kenyan-138465843",
       "published": "Thu, 26 Nov 2026 08:38:30 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Serbia sets presidential election for Dec. 27 after students won parliamentary vote",
-      "description": "Serbia's Parliament speaker has set an early presidential election for December 27",
-      "url": "https://abcnews.com/International/wireStory/serbia-sets-presidential-election-dec-27-after-students-138465505",
-      "published": "Thu, 26 Nov 2026 08:30:30 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
