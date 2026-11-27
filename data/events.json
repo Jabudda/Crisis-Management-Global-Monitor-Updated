@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T08:36:45.901600Z",
+  "last_updated": "2026-11-27T09:12:02.088220Z",
   "event_count": 226,
   "events": [
     {
@@ -65,6 +65,20 @@
       "severity_score": 32,
       "severity_level": "Critical",
       "is_ticker": false
+    },
+    {
+      "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+      "description": "Authorities said the UN special rapporteur was blocked from entering the country due to 'national security' risks.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 08:39:50 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 31,
+      "severity_level": "Critical",
+      "is_ticker": true,
+      "ticker_category": "terrorism",
+      "ticker_emoji": "💥",
+      "ticker_label": "💥 Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’"
     },
     {
       "title": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
@@ -154,20 +168,6 @@
       "severity_score": 25,
       "severity_level": "Critical",
       "is_ticker": false
-    },
-    {
-      "title": "Rescuers battle tough conditions in flooded Indonesian mine",
-      "description": "Rescuers are battling high water, darkness and slippery, narrow terrain while searching for miners believed trapped by flooding in an illegal gold mine",
-      "url": "https://abcnews.com/International/wireStory/rescuers-battle-wet-dark-conditions-flooded-indonesian-mine-138461363",
-      "published": "Thu, 26 Nov 2026 04:39:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 25,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Rescuers battle tough conditions in flooded Indonesian mine"
     },
     {
       "title": "UN chief urges talks on global AI safety framework, warns of historic shift in power",
@@ -296,20 +296,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Putin's war death toll reportedly tops 700,000 as Russia scrambles for recruits"
-    },
-    {
-      "title": "At least 13 Niger soldiers killed in Sanam armed attack",
-      "description": "It remains unclear who carried out the attack on Niger's National Guard in Tillaberi, near the Mali border.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 04:06:52 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 20,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 At least 13 Niger soldiers killed in Sanam armed attack"
     },
     {
       "title": "Sri Lankan asylum seeker killed himself after being sent by UK to Eswatini",
@@ -1122,7 +1108,7 @@
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+      "published": "Fri, 27 Nov 2026 09:07:48 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1153,6 +1139,20 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+      "description": "One in eight children is stunted. Many have bones that have not matured the way they should. Treatment is elusive.",
+      "url": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 08:37:52 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 ‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade"
     },
     {
       "title": "Police bodycam shows rescue of man from burning car in US",
@@ -1188,20 +1188,6 @@
       "is_ticker": false
     },
     {
-      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
-      "description": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 03:49:08 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump downplays Russia, China support for Iran during talks with US troops"
-    },
-    {
       "title": "Retail spending fell in March as consumers pull back",
       "description": "Spending at US retailers fell in March as consumers pulled back amid recessionary fears fueled by the banking crisis.",
       "url": "https://www.cnn.com/2023/04/14/economy/march-retail-sales/index.html",
@@ -1211,20 +1197,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Crew member dies after diesel tanker sinks off Ibiza coast",
-      "description": "Authorities rescued 17 crew members but one later died in hospital after a diesel tanker capsized off the Spanish island of Ibiza. A contingency plan against possible pollution damage is now in place.",
-      "url": "https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Nov 2026 11:58:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "terrorism",
-      "ticker_emoji": "💥",
-      "ticker_label": "💥 Crew member dies after diesel tanker sinks off Ibiza coast"
     },
     {
       "title": "'Citizens angry with the establishment' as Spain heads to the polls",
@@ -1261,6 +1233,17 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Iranian monarchists disrupt Paris event, highlighting bitter diaspora divide"
+    },
+    {
+      "title": "Pakistan set to host talks with Saudi Arabia and Turkey under trilateral defense pact",
+      "description": "Officials say Pakistan is set to host talks with Saudi Arabia and Turkey under a trilateral defense pact that treats an attack on any member as an attack on all three",
+      "url": "https://abcnews.com/International/wireStory/pakistan-set-host-talks-saudi-arabia-turkey-trilateral-138477505",
+      "published": "Fri, 27 Nov 2026 04:06:58 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "South Korea lets a North Korean fisherman resettle in South and returns six others",
@@ -1485,6 +1468,17 @@
       "ticker_label": "💥 Strobe Talbott, former Time magazine reporter and deputy secretary of state, has died"
     },
     {
+      "title": "Germany news: Parliament to vote on €556 billion 2027 budget",
+      "description": "German lawmakers are set to vote on a federal budget which foresees €556 billion in spending. Elsewhere, the Left Party is hosting a summit on femicide and the BSW party conference starts in Dresden. DW has more.",
+      "url": "https://www.dw.com/en/germany-news-parliament-to-vote-on-€556-billion-2027-budget/live-80071074?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 08:59:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Germany: IG Metall union says deal reached with employers",
       "description": "IG Metall, representing millions of workers in Germany's metal and electrical industry, is the country's largest trade union. The deal came after more than 24 hours of talks with employers.",
       "url": "https://www.dw.com/en/germany-ig-metall-union-says-deal-reached-with-employers/a-80066792?maca=en-rss-en-all-1573-xml-mrss",
@@ -1621,20 +1615,6 @@
       "severity_score": 5,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "Thanksgiving storms leave nearly a million without power across the US",
-      "description": "Severe weather across the US causes outages and flight delays as families and friends gather for the annual holiday.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/thanksgiving-storms-leave-nearly-a-million-without-power-across-the-us?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 04:34:43 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 5,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "natural_disaster",
-      "ticker_emoji": "🌪️",
-      "ticker_label": "🌪️ Thanksgiving storms leave nearly a million without power across the US"
     },
     {
       "title": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
@@ -1965,6 +1945,17 @@
       "is_ticker": false
     },
     {
+      "title": "Millions of wives in South Asia unprotected from marital rape - study",
+      "description": "More than 100 countries have outlawed marital rape, but a large part of South Asia has not.",
+      "url": "https://www.bbc.co.uk/news/articles/cw074p95ye5do?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 08:13:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
       "description": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
       "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
@@ -1987,11 +1978,11 @@
       "is_ticker": false
     },
     {
-      "title": "New UK-EU treaty has 10-year termination clause",
-      "description": "Text of the treaties was published this afternoon, alongside legislation designed to enact the bulk of the deal.",
-      "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 15:23:17 GMT",
-      "source": "BBC News",
+      "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
+      "description": "India makes Ahmedabad pitch for 2036 Games as it bids to host first Olympics, but Qatar and South Africa strong rivals.",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 08:57:37 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2478,7 +2469,7 @@
     },
     {
       "title": "Spain's De Cos chosen as next ECB president",
-      "description": "European leaders have agreed to nominate the former head of the Bank of Spain as the next president of the European Central Bank. Pablo ​Hernandez ‌de ⁠Cos will replace the outgoing Christine Lagarde as the bank faces pressure to tackle high inflation, borrowing costs, and government debt. Also in the show - US regulators give SpaceX the green light to send satellites for data centers into space, and American households face higher costs for their Thanksgiving celebrations.",
+      "description": "European leaders have agreed to nominate the former head of the Bank of Spain as the next president of the European Central Bank. Pablo ​Hernandez ‌de ⁠Cos will replace the outgoing Christine Lagarde as the bank faces pressure to tackle high inflation, borrowing costs and government debt. Also on the show: US regulators give SpaceX the green light to send satellites for data centres into space, and American households face higher costs for their Thanksgiving celebrations.",
       "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president",
       "published": "Thu, 26 Nov 2026 21:40:29 GMT",
       "source": "France24",
