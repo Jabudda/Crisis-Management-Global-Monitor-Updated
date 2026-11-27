@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T07:12:40.659403Z",
+  "last_updated": "2026-11-27T07:35:43.759809Z",
   "event_count": 226,
   "events": [
     {
@@ -63,17 +63,6 @@
       "source": "UN News",
       "type": "rss",
       "severity_score": 32,
-      "severity_level": "Critical",
-      "is_ticker": false
-    },
-    {
-      "title": "ACROSS AFRICA:  Tunisian Photographer's Family Focus",
-      "description": "Stories from the continent with Georja Calvin-Smith. This week, health workers struggling to keep pace with DR Congo's Ebola outbreak say they feel abandoned and unsupported. Also, the World Cup was about more than winning... for some fans, at least. Tunisia's performance may not have been all that its supporters had hoped, but sports photographer Hosni Manoubi is far from negative about a family tradition of documenting his country's international sports showings. [Archive Episode, June 2026]",
-      "url": "https://www.france24.com/en/across-africa-tunisian-photographer-s-family-focus-1",
-      "published": "Thu, 26 Nov 2026 16:19:12 GMT",
-      "source": "France24",
-      "type": "rss",
-      "severity_score": 31,
       "severity_level": "Critical",
       "is_ticker": false
     },
@@ -295,20 +284,6 @@
       "is_ticker": false
     },
     {
-      "title": "Inside Ukraine’s power crisis amid its war with Russia",
-      "description": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 00:46:19 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 21,
-      "severity_level": "Critical",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Inside Ukraine’s power crisis amid its war with Russia"
-    },
-    {
       "title": "FedEx cargo jet overshoots runway at Miami International Airport and stops just short of busy road",
       "description": "The Federal Aviation Administration issued a ground stop at Miami International Airport after a FedEx cargo jet overran the runway, causing Thanksgiving flight delays.",
       "url": "https://www.foxnews.com/us/fedex-cargo-jet-overshoots-runway-miami-international-airport-stops-just-short-busy-road",
@@ -477,6 +452,20 @@
       "ticker_category": "mass_casualty",
       "ticker_emoji": "🚑",
       "ticker_label": "🚑 Driver suspected of causing tanker crash in Egypt that killed 31 detained"
+    },
+    {
+      "title": "Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid",
+      "description": "Ukrainian President Volodymyr Zelenskyy says that Russia is preparing a major attack on Ukraine’s energy infrastructure as crews race to repair damage from earlier strikes",
+      "url": "https://abcnews.com/International/wireStory/zelenskyy-warns-imminent-major-russian-attack-ukraines-power-138468250",
+      "published": "Fri, 27 Nov 2026 02:21:00 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 19,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelenskyy warns of imminent major Russian attack on Ukraine’s power grid"
     },
     {
       "title": "Building collapse in Pakistan kills 4, with 17 still missing",
@@ -1146,6 +1135,20 @@
       "is_ticker": false
     },
     {
+      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+      "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Zelensky criticises 'strange' Trump-Putin friendship in BBC interview"
+    },
+    {
       "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
       "description": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
       "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
@@ -1162,6 +1165,17 @@
       "url": "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 07:24:39 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
+      "title": "Can the Mecca pact turn its collective defence promise into real support?",
+      "description": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
+      "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 07:16:30 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 8,
       "severity_level": "Medium",
@@ -1268,6 +1282,17 @@
       "ticker_label": "🪖 Will Spain's far right replace Europe's left-wing stalwart?"
     },
     {
+      "title": "South Korea lets a North Korean fisherman resettle in South and returns six others",
+      "description": "Seoul says that one of seven North Koreans rescued off a fishing boat drifting near a South Korean island earlier this month chose to resettle in the South",
+      "url": "https://abcnews.com/International/wireStory/south-korea-lets-north-korean-fisherman-resettle-south-138475962",
+      "published": "Fri, 27 Nov 2026 02:20:23 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 8,
+      "severity_level": "Medium",
+      "is_ticker": false
+    },
+    {
       "title": "Here are the main issues driving Spain's national election and why they matter for Europe",
       "description": "Spain is to elect a new government on Sunday in a snap election that could unseat Prime Minister Pedro Sánchez",
       "url": "https://abcnews.com/International/wireStory/main-issues-driving-spains-national-election-matter-europe-138476510",
@@ -1277,20 +1302,6 @@
       "severity_score": 8,
       "severity_level": "Medium",
       "is_ticker": false
-    },
-    {
-      "title": "2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation",
-      "description": "A private zoo in Peru has introduced two baby meerkats born in Lima to raise awareness about wildlife conservation",
-      "url": "https://abcnews.com/International/wireStory/2-baby-meerkats-make-debut-peruvian-zoo-spotlighting-138452825",
-      "published": "Wed, 25 Nov 2026 16:18:38 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 2 baby meerkats make their debut at Peruvian zoo, spotlighting conservation"
     },
     {
       "title": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
@@ -1471,28 +1482,6 @@
       "is_ticker": false
     },
     {
-      "title": "America’s Thanksgiving holiday seen through different eyes",
-      "description": "As millions of Americans celebrate Thanksgiving, Indigenous people gather in Plymouth for the National Day of Mourning.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/americas-thanksgiving-holiday-seen-through-different-eyes?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 00:41:28 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
-      "title": "Argentina bars Central Bank from printing money to fund government spending",
-      "description": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 00:11:16 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Silicon Valley Bank collapse renews calls to address disparities impacting entrepreneurs of color",
       "description": "When customers at Silicon Valley Bank rushed to withdraw billions of dollars last month, venture capitalist Arlan Hamilton stepped in to help some of the founders of color who panicked about losing access to payroll funds.",
       "url": "https://www.cnn.com/2023/04/13/business/silicon-valley-bank-entrepreneurs-of-color-reaj/index.html",
@@ -1505,7 +1494,7 @@
     },
     {
       "title": "‘Absolute jerk’: police investigating after 500-year-old ‘King Jarrah’ tree chainsawed in WA national park",
-      "description": "Western Australian authorities are scrambling to save the ‘iconic’ 36-metre tree in Wellington national park south of Perth Get our breaking news email , free app or daily news podcast Western Australian authorities say they are considering “all options” in their race to save a beloved jarrah tree they suspect was vandalised with a chainsaw in a national park south of Perth. Police on Friday said they were treating the vandalism of the “King Jarrah” tree as an alleged criminal damage incident, as they appealed to the public to help them find the person or people responsible. Continue reading...",
+      "description": "Western Australian authorities are scrambling to save the ‘iconic’ 36-metre tree in Wellington national park south of Perth Get our breaking news email , free app or daily news podcast Western Australian authorities say they are considering “all options” in their race to save a beloved jarrah tree they suspect was vandalised with a chainsaw in a national park south of Perth. Police on Friday said they were treating the vandalism of “King Jarrah” as an alleged criminal damage incident, as they appealed to the public to help them find the person or people responsible. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
       "published": "Fri, 27 Nov 2026 06:36:40 GMT",
       "source": "The Guardian World",
@@ -1538,6 +1527,20 @@
       "severity_score": 6,
       "severity_level": "Medium",
       "is_ticker": false
+    },
+    {
+      "title": "Almost a million Americans left without power on Thanksgiving as storm sweeps East Coast",
+      "description": "Nearly a million people were left without power Thursday after a severe storm lashed the East Coast of the US, tearing up trees and powerlines on Thanksgiving. New York City authorities had been forced to postpone the annual Macy's Thanksgiving Day Parade due to the intense winds.",
+      "url": "https://www.france24.com/en/americas/20261127-almost-a-million-americans-left-without-power-on-thanksgiving-as-storm-sweeps-east-coast",
+      "published": "Fri, 27 Nov 2026 07:14:35 GMT",
+      "source": "France24",
+      "type": "rss",
+      "severity_score": 6,
+      "severity_level": "Medium",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Almost a million Americans left without power on Thanksgiving as storm sweeps East Coast"
     },
     {
       "title": "Israel's Eisenkot agrees to coalition deal with left-wing Democrats",
@@ -1739,6 +1742,17 @@
       "ticker_label": "🌪️ Colombian police storm supermarket, freeing hostages and killing gunman"
     },
     {
+      "title": "Western sanctions on Israeli settlers serve to shield the Israeli state",
+      "description": "The settler takeover in Jericho exposes the inadequacy of sanctions targeting only settlers and their organisations.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/27/western-sanctions-on-israeli-settlers-serve-to-shield-the-israeli-state?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 07:09:53 +0000",
+      "source": "Al Jazeera",
+      "type": "rss",
+      "severity_score": 4,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Not only is Lake Powell's water level plummeting because of drought, its total capacity is shrinking, too",
       "description": "Lake Powell, the second-largest human-made reservoir in the US, has lost nearly 7% of its potential storage capacity since 1963, when Glen Canyon Dam was built, a new report shows.",
       "url": "https://www.cnn.com/2022/03/21/us/lake-powell-capacity-shrinking-drought-climate/index.html",
@@ -1929,17 +1943,6 @@
       "is_ticker": false
     },
     {
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 22:49:27 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
       "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
       "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
@@ -2000,6 +2003,17 @@
       "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
       "published": "Thu, 26 Nov 2026 15:23:17 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Hakeem Jeffries has disarmed a progressive revolt, but can he deliver?",
+      "description": "The presumptive House speaker's political pragmatism will be tested by divisions over healthcare, Israel and Iran.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/27/hakeem-jeffries-has-disarmed-a-progressive-revolt-but-can-he-deliver?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 07:11:19 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2208,7 +2222,7 @@
     },
     {
       "title": "Grace Tame calls out ex-Murdoch media executive who said she ‘must be looking to be raped again’",
-      "description": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “must be looking to be raped again” at an event, after the former Australian of the year overheard the comment and confronted him. Tame, a child sexual assault victim survivor who was Australian of the year in 2021 for her advocacy work, revealed in an opinion piece for Crikey that she heard Matt Handbury make the comment last week at a function. Continue reading...",
+      "description": "Matt Handbury, nephew of Rupert Murdoch, admits making offensive remark and says he was referencing assault survivor’s ‘strikingly attractive get-up’ Get our breaking news email , free app or daily news podcast A former Murdoch media executive has admitted he said Grace Tame “must be looking to be raped again” at an event, after the former Australian of the year overheard the comment and confronted him. Tame, a child sexual assault victim survivor who was Australian of the year in 2021 for her advocacy work, revealed in an opinion piece for Crikey that she heard Matt Handbury make the comment at a function last week. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
       "published": "Fri, 27 Nov 2026 06:54:59 GMT",
       "source": "The Guardian World",
@@ -2342,6 +2356,17 @@
       "is_ticker": false
     },
     {
+      "title": "India's Modi government calls special sitting of parliament",
+      "description": "The sitting of the Indian parliament comes after its monsoon session was adjourned sine die in August. Follow DW.",
+      "url": "https://www.dw.com/en/india-s-modi-government-calls-special-sitting-of-parliament/live-80070511?maca=en-rss-en-all-1573-xml-mrss",
+      "published": "Fri, 27 Nov 2026 07:23:00 GMT",
+      "source": "Deutsche Welle",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "New Zealand election ends in hung parliament",
       "description": "A final vote count showed that neither the center-right bloc nor the opposition left bloc was able to secure a majority.",
       "url": "https://www.dw.com/en/new-zealand-election-ends-in-hung-parliament/a-80070240?maca=en-rss-en-all-1573-xml-mrss",
@@ -2430,17 +2455,6 @@
       "is_ticker": false
     },
     {
-      "title": "What is the US permitting bill and would it actually help the climate?",
-      "description": "Sweeping US legislation to speed up energy projects has found rare bipartisan support. Supporters say it would unlock clean energy and lower energy bills, but critics say it's a gift to fossil fuels.",
-      "url": "https://www.dw.com/en/what-is-the-us-permitting-bill-and-would-it-actually-help-the-climate/a-80007213?maca=en-rss-en-all-1573-xml-mrss",
-      "published": "Thu, 26 Nov 2026 11:22:00 GMT",
-      "source": "Deutsche Welle",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Lyon held and Marseille pushed in mixed Europa League night for French clubs",
       "description": "There were mixed fortunes for the French clubs in Thursday's Europa League action, as Marseille saw off Levski Sofia (1-0) in the only win of the night. Lyon were held at home by Lillestrom of Norway, while Rennes fell to Dutch side Nijmegen.",
       "url": "https://www.france24.com/en/tv-shows/sports/20261127-lyon-held-and-marseille-pushed-in-mixed-europa-league-night-for-french-clubs",
@@ -2490,6 +2504,28 @@
       "url": "https://news.sky.com/story/norse-atlantic-airways-suspends-all-flights-as-carrier-faces-bankruptcy-13616901",
       "published": "Thu, 26 Nov 2026 16:36:00 +0000",
       "source": "Sky News World",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "UN peacekeepers are preparing to leave southern Lebanon. There’s no plan for what comes next",
+      "description": "The U.N. peacekeeping force in southern Lebanon is preparing to end a 50-year mission as tensions between Israel and Hezbollah remain high",
+      "url": "https://abcnews.com/International/wireStory/peacekeepers-preparing-leave-southern-lebanon-plan-138476701",
+      "published": "Fri, 27 Nov 2026 02:23:18 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "What to know about North Korean move to shut down Swiss diplomatic office",
+      "description": "North Korea has shut down a Swiss diplomatic office in Pyongyang and expelled its head, signaling a more assertive foreign policy",
+      "url": "https://abcnews.com/International/wireStory/north-korean-move-shut-swiss-diplomatic-office-138475957",
+      "published": "Fri, 27 Nov 2026 02:23:27 -0500",
+      "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2577,39 +2613,6 @@
       "description": "Fatmata Kamara's experience in Sierra Leone highlights both progress and challenges in maternal healthcare",
       "url": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429",
       "published": "Thu, 26 Nov 2026 03:34:21 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "On Greece's most glamorous island, faith and tradition endure with a celebration of its women",
-      "description": "The Greek island of Mykonos honored its matriarchal heritage with a celebration of St. Catherine, considered a symbol of courage and wisdom for generations of its women",
-      "url": "https://abcnews.com/International/wireStory/greeces-glamorous-island-faith-tradition-endure-celebration-women-138462333",
-      "published": "Thu, 26 Nov 2026 11:42:22 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "South Korea's central bank raises key interest rate to fight inflation",
-      "description": "South Korea’s central bank has raised its benchmark interest rate for the third time since July",
-      "url": "https://abcnews.com/International/wireStory/south-koreas-central-bank-raises-key-interest-rate-138458862",
-      "published": "Thu, 26 Nov 2026 00:32:23 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "South Africa's Biovac aims to dramatically increase vaccine production with help from an EU loan",
-      "description": "South African pharmaceutical company Biovac says it aims to dramatically increase its vaccine production by the end of 2028 with help from a 75-million euro loan from the European Union's investment bank",
-      "url": "https://abcnews.com/International/wireStory/south-africas-biovac-aims-dramatically-increase-vaccine-production-138451657",
-      "published": "Wed, 25 Nov 2026 16:18:47 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
