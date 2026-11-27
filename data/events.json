@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-27T22:10:23.184396Z",
+  "last_updated": "2026-11-27T22:35:22.047693Z",
   "event_count": 224,
   "events": [
     {
@@ -407,6 +407,20 @@
       "is_ticker": false
     },
     {
+      "title": "Severe Thanksgiving storms leave roads flooded and trees fallen",
+      "description": "Hundreds of thousands of people were without power after severe weather hit both coasts of the United States during the Thanksgiving holiday.",
+      "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 16:46:47 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 18,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Severe Thanksgiving storms leave roads flooded and trees fallen"
+    },
+    {
       "title": "Building collapse in Pakistan kills 4, with 17 still missing",
       "description": "A six-story building under construction collapsed in Karachi on Wednesday, killing at least four people",
       "url": "https://abcnews.com/International/wireStory/building-collapse-pakistan-kills-4-17-missing-138463814",
@@ -771,15 +785,18 @@
       "ticker_label": "🪖 Holiday scammers hook older Americans first, then return later to drain their savings, expert warns"
     },
     {
-      "title": "Tributes for Duran Duran guitarist Andy Taylor after his death aged 65",
-      "description": "Simon Le Bon and his other bandmates say Taylor \"brought an indelible fire and swagger to our music\".",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss",
-      "published": "Thu, 26 Nov 2026 12:33:23 GMT",
+      "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+      "description": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 06:04:51 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 12,
       "severity_level": "High",
-      "is_ticker": false
+      "is_ticker": true,
+      "ticker_category": "war",
+      "ticker_emoji": "🪖",
+      "ticker_label": "🪖 Inside Saudi Arabia, Houthi attacks test kingdom's image of security"
     },
     {
       "title": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
@@ -977,6 +994,20 @@
       "ticker_label": "🚨 Shooting during New Jersey high school football game leaves 1 dead"
     },
     {
+      "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+      "description": "Hundreds of thousands have been affected by storms in the country as the Thanksgiving holiday weekend begins.",
+      "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 19:26:16 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 10,
+      "severity_level": "High",
+      "is_ticker": true,
+      "ticker_category": "natural_disaster",
+      "ticker_emoji": "🌪️",
+      "ticker_label": "🌪️ Watch: Roofs torn off and streets under water as severe weather hits US"
+    },
+    {
       "title": "The surreal facades of America's strip clubs",
       "description": "Some people travel the world in search of adventure, while others seek out natural wonders, cultural landmarks or culinary experiences. But French photographer François Prost was looking for something altogether different during his recent road trip across America: strip clubs.",
       "url": "https://www.cnn.com/style/article/francois-prost-gentlemens-club/index.html",
@@ -1049,10 +1080,10 @@
       "ticker_label": "🪖 Weary of war but with no sign of backing down, Kyiv faces another punishing winter"
     },
     {
-      "title": "Clashes mar European games as Macron condemns violence",
-      "description": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia.",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 10:24:24 GMT",
+      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
+      "description": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
+      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 07:28:10 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1060,10 +1091,10 @@
       "is_ticker": false
     },
     {
-      "title": "Italy's former police chief rejected mafia inquiry allegations before death",
-      "description": "The contents of an eight-page letter by Gianni De Gennaro have been revealed days after his body was found at his Tuscany home.",
-      "url": "https://www.bbc.co.uk/news/articles/c69q8yjj1v0po?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 07:28:10 GMT",
+      "title": "Met Police ruined my life, says Kenyan man wrongly convicted over attack on UK couple",
+      "description": "Evidence from a British police officer helped convict Ali Kololo over a 2011 attack in the Kenyan resort of Lamu.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 00:48:11 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 8,
@@ -1116,20 +1147,6 @@
       "ticker_category": "war",
       "ticker_emoji": "🪖",
       "ticker_label": "🪖 Norse Atlantic files for bankruptcy, halts flights and ticket sales"
-    },
-    {
-      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
-      "description": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
-      "published": "Fri, 27 Nov 2026 16:13:07 +0000",
-      "source": "Al Jazeera",
-      "type": "rss",
-      "severity_score": 8,
-      "severity_level": "Medium",
-      "is_ticker": true,
-      "ticker_category": "war",
-      "ticker_emoji": "🪖",
-      "ticker_label": "🪖 Trump backs Iraqi PM’s oil smuggling crackdown"
     },
     {
       "title": "Retail spending fell in March as consumers pull back",
@@ -1412,17 +1429,6 @@
       "is_ticker": false
     },
     {
-      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
-      "description": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
-      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 10:39:31 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 7,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
       "description": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
       "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
@@ -1531,17 +1537,6 @@
       "ticker_label": "💥 UN rapporteur Albanese in limbo at airport after being denied entry to Costa Rica"
     },
     {
-      "title": "Mexican president blasts DEA over tip lines",
-      "description": "Mexico's president has criticized the U.S. Drug Enforcement Administration for setting up anonymous tip lines in the country",
-      "url": "https://abcnews.com/International/wireStory/mexican-president-blasts-dea-tip-lines-accusing-fighting-138471560",
-      "published": "Thu, 26 Nov 2026 15:02:26 -0500",
-      "source": "ABC News International",
-      "type": "rss",
-      "severity_score": 6,
-      "severity_level": "Medium",
-      "is_ticker": false
-    },
-    {
       "title": "Macy’s Thanksgiving Day Parade postponed: Has the holiday tradition ever been canceled?",
       "description": "Macy's Thanksgiving Day Parade was postponed by a powerful coastal storm, but the New York City tradition has been canceled only three times.",
       "url": "https://www.foxnews.com/us/macys-thanksgiving-day-parade-postponed-has-holiday-tradition-ever-been-canceled",
@@ -1554,6 +1549,17 @@
       "ticker_category": "natural_disaster",
       "ticker_emoji": "🌪️",
       "ticker_label": "🌪️ Macy’s Thanksgiving Day Parade postponed: Has the holiday tradition ever been canceled?"
+    },
+    {
+      "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
+      "description": "The ousted prime minister's December homecoming plan deepens Dhaka-Delhi tensions and risks fresh unrest.",
+      "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 00:47:43 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 5,
+      "severity_level": "Medium",
+      "is_ticker": false
     },
     {
       "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
@@ -1777,17 +1783,6 @@
       "is_ticker": false
     },
     {
-      "title": "Guinea-Bissau's military leaders delay return to civilian rule until 2028",
-      "description": "The announcement comes a year after a military coup with its leaders promising a return to civilian rule within 12 months.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 08:58:08 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 3,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
       "title": "Look of the Week: Blackpink headline Coachella in Korean hanboks",
       "description": "Bringing the second day of this year's Coachella to a close, K-Pop girl group Blackpink made history Saturday night when they became the first Asian act to ever headline the festival. To a crowd of, reportedly, over 125,000 people, Jennie, Jisoo, Lisa and Rosé used the ground-breaking moment to pay homage to Korean heritage by arriving onstage in hanboks: a traditional type of dress.",
       "url": "https://www.cnn.com/style/article/blackpink-coachella-2023-hanboks-lotw/index.html",
@@ -1923,43 +1918,21 @@
       "is_ticker": false
     },
     {
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "description": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 22:03:46 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
       "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
       "description": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
       "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
       "published": "Fri, 27 Nov 2026 20:34:45 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 16:53:46 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
-      "description": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
-      "url": "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 11:44:40 GMT",
-      "source": "BBC News",
-      "type": "rss",
-      "severity_score": 1,
-      "severity_level": "Low",
-      "is_ticker": false
-    },
-    {
-      "title": "Rare turtles found inside baggage at Amsterdam airport",
-      "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 13:38:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1978,10 +1951,10 @@
       "is_ticker": false
     },
     {
-      "title": "Ex-Kenyan governor jailed for 25 years over pregnant girlfriend's murder",
-      "description": "The pregnant student was murdered after leaving a hotel with a journalist she had contacted to discuss her affair with the governor.",
-      "url": "https://www.bbc.co.uk/news/articles/crx209ekq5xdo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 11:22:02 GMT",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "description": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their fundamental rights.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 16:53:46 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -1989,10 +1962,10 @@
       "is_ticker": false
     },
     {
-      "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
-      "description": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023.",
-      "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 05:54:38 GMT",
+      "title": "Rare turtles found inside baggage at Amsterdam airport",
+      "description": "The endangered reptiles were bound with duct tape to prevent them moving, officials say.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 13:38:07 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2000,10 +1973,10 @@
       "is_ticker": false
     },
     {
-      "title": "Venezuela to scrap law that bars opposition from public office",
-      "description": "The legislation has been criticised for enabling political persecution since it was introduced two years ago.",
-      "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 05:35:10 GMT",
+      "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+      "description": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia.",
+      "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+      "published": "Fri, 27 Nov 2026 06:09:31 GMT",
       "source": "BBC News",
       "type": "rss",
       "severity_score": 1,
@@ -2011,11 +1984,33 @@
       "is_ticker": false
     },
     {
-      "title": "EU leaders fail to bridge budget splits as talks stall",
-      "description": "Aid for Ukraine was among the disputes as EU members hope to conclude talks by the end of the year.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss",
-      "published": "Fri, 27 Nov 2026 06:11:55 GMT",
+      "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+      "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+      "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 22:06:20 GMT",
       "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+      "description": "Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.",
+      "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+      "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+      "source": "BBC News",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+      "description": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+      "published": "Fri, 27 Nov 2026 21:59:11 +0000",
+      "source": "Al Jazeera",
       "type": "rss",
       "severity_score": 1,
       "severity_level": "Low",
@@ -2579,6 +2574,17 @@
       "description": "Fatmata Kamara's experience in Sierra Leone highlights both progress and challenges in maternal healthcare",
       "url": "https://abcnews.com/International/wireStory/sierra-leone-sees-steep-decline-maternal-mortality-barriers-138462429",
       "published": "Thu, 26 Nov 2026 03:34:21 -0500",
+      "source": "ABC News International",
+      "type": "rss",
+      "severity_score": 1,
+      "severity_level": "Low",
+      "is_ticker": false
+    },
+    {
+      "title": "Prosecutors ask for 25 years for man who sold products used by 93 to kill themselves",
+      "description": "Prosecutors sought a 25-year prison sentence for a Canadian man who sold products online knowing buyers were likely to use them to kill themselves",
+      "url": "https://abcnews.com/International/wireStory/prosecutors-25-years-canadian-man-sold-products-93-138487262",
+      "published": "Fri, 27 Nov 2026 17:26:26 -0500",
       "source": "ABC News International",
       "type": "rss",
       "severity_score": 1,
